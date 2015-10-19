@@ -1,0 +1,35 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27856,comment,27623,27623,0,0,gyro_robo,,,"In Calfornia at least, HealthNet is less expensive than some others.  Assuming you rarely go in, get a PPO, and you won't go bankrupt if you ever have large medical bills.  For little things you pay out of pocket.
+",1181761150
+27855,comment,27758,27826,0,0,tocomment,,,"guess not ...",1181761076
+27854,comment,27707,27707,0,0,stuki,,,"	Sounds like a nobleman griping about commoners' ability to crash the party with cash. Venture financing would be a strange animal indeed if there was one true best way to structure every deal for every venture.
+	If there is a big demand for this, the big boys refuse to serve it, and being funded by the big boys truly increases success probability substantially, some clever Wall Street'er could find a way to buy part of, say a Sequoia funded, founders upside; or at least something somewhat aligned with it. Even if it means working around some legal headaches.
+	As an aside, these founder liquidity events could be just the ticket for those much maligned 'idea guys':).
+",1181761050
+27853,comment,27490,27490,0,0,gyro_robo,,,"Congrats!  You even auto-detect location via IP, and have maps and expanded info.  Slick.  This site is easily better than many YC-funded ones.",1181760935
+27852,story,,,2,0,dawie,"Cover Flow and the scrolling horizontal subnav at the new Apple.com",http://www.37signals.com/svn/posts/464-cover-flow-and-the-scrolling-horizontal-subnav-at-the-new-applecom,,1181760650
+27851,comment,27550,27550,0,0,gyro_robo,,,"Well, this explains why PG is so big on co-founders.  The amount of AJAX needed is very little, and he still had two other people do it for him.
+",1181760556
+27850,comment,27490,27849,0,0,knewjax,,,"We'll we allow anyone to post shows. So we are hoping that as we grow, dedicated fans, the artists themselves, or the venues will add their schedules to keep things up to date.<p>",1181760429
+27849,comment,27490,27809,0,0,kingnothing,,,"I'm in Auburn, AL. There's a few shows listed here, but not much. <p>The problem I always saw with trying to start something like this is providing all the info about local shows and small bands that are likely only listed on bar and club web pages -- did you guys find some way to get around that?",1181759850
+27848,comment,27343,27745,0,0,palish,,,"I think I came off as condescending.  Sorry about that.",1181759553
+27847,comment,27846,27846,0,0,aresnick,,,"So I'm developing a web application involving ""socially"" networking elements created by users.  But, I'm a novice [when it comes to web programming].<p>I'm getting to the point where I'd like to choose a language/framework.  I'm OK (in fact, I prefer) trying options out and switching flexibly before settling down on a choice, but I thought I might get some feedback from some people who know what they're talking about.<p>Some goals (both long- and short-term) central to my plans that I think might influence my choice include:
+-Lots of user/database interface and editing via gorgeous graph/node visualization
+-Easy web site template authoring (read: visual/drag & drop elements, no/minimal coding required of user)
+-Integration of version control (of web pages)
+-Fairly sophisticated AI performed on the backend for resource matching and knowledge representation
+-Enabling for public editing of HTML and site design
+-Online CAD/drawing tool (probably via )
+-Acute, application-level awareness of user profile/information in what/how pages and information is displayed as users browse (read: dynamically generate and display content per user)
+-Web spidering/pulling and reusing content from the web<p>After shopping around, I've been primarily considering Python (Pylons; Django) and WebObjects/Project Wonder.<p>Thoughts?  Recommendations?  Are these goals _actually_ constraints on what language/framework I choose?  What are the more generic features of the language/framework that I should paying attention to, given my goals?",1181759399
+27846,story,,,2,6,aresnick,"Looking to choose a language & framework--",,,1181759394
+27845,comment,27817,27817,0,0,ph0rque,,,"Sounds like a great facebook app.",1181759374
+27844,comment,27550,27622,0,0,Bogtha,,,"> Anything that assumes that GET links can be arbitrarily followed will break stuff all over the web.<p>Arbitrarily performing GETs is something condoned by the HTTP 1.1 specification.  Anything that assumes that GETs won't be arbitrarily followed is clueless.<p>You'd think people would have learned this the first time around.  Don't write out-of-spec code and then complain when conforming code comes along and trashes your app.  It's your bug, not theirs.<p>> GWA needs all kinds of heuristics to avoid that kind of thing.<p>How reliable.  Wouldn't it be better to follow the spec so this kind of guesswork wasn't necessary?",1181759251
+27843,comment,27550,27818,0,0,paul,,,"UI latency is actually very important, and generally under-appreciated. Sometimes, it's better to be fast than perfect.",1181759132
+27842,comment,27785,27815,0,0,Bogtha,,,"> It comes from an e-mail sent to the address associated with the account, though. The only way he can get the reset code is to have it e-mailed to him, so unless he's forwarded on the e-mail to someone else (why would you do this?), the reset is coming from him.<p>So what happens when your fancy new spam filter follows the link in your email to see how spammy the page is?  You end up locked out of your account, logged out, with a random password you can't retrieve.<p>It's really not hard to come up with scenarios where GETs are automatically performed.  The HTTP 1.1 specification was written with this in mind.  Assuming that it's not going to happen is simply an unnecessary risk.
+",1181758816
+27841,comment,27674,27674,0,0,sudhirc,,,"Being an Indian I can tell you the reason behind this. our education system unfortunately fails to promote innovation. even then there are a few startups like zoho and slideshare which are doing well.<p>Another thing which goes against Indian is their shyness. In west people get ideas patented left right center. On the contrary Indian people never go that far. 
+Some of the people never get started because of fear of becoming a laughing stock on failure. Again root of this thinking lies in our 200 years old education. Startups are all about uncertainty ; our education system always teaches us to take the safest option.
+",1181758724
+27840,story,,,1,0,far33d,"Clean tech firms dig for venture deals at event",http://www.marketwatch.com/news/story/clean-tech-firms-dig-venture/story.aspx?guid=%7B4CC5BADB%2D145B%2D4954%2D957D%2DC9FE3E21B8D6%7D&siteid=yhoof,,1181758199
+27839,comment,27776,27805,0,0,pg,,,"Web startups need to know which browsers are likely to increase or decrease in popularity.",1181757747

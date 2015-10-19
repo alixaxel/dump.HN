@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+14579,comment,14578,14578,0,0,jkush,,,"The more I think about it the more I think Zenter might be in a very good position; if their software is really good (and I expect it is) then Google competitor's might want to acquire something to compete with Google. <p>What do you guys think?",1176987400
+14578,story,,,2,3,jkush,"More Thoughts On Zenter",,,1176987311
+14577,comment,14421,14568,0,0,ntoshev,,,"""use in-memory hashmap for small data, Amazon S3 or filesystem for large data. treat disk as sequental device.""",1176986611
+14576,comment,14421,14529,0,0,ntoshev,,,"Having looked into Pevayler, I think it buys you more problems than it solves. Thanks for the happs reference.<p>Terracotta may be a good solution for Java.",1176986537
+14575,comment,14467,14467,0,0,dpapathanasiou,,,"I never want to see it go down or become unavailable, either, but I agree with your underlying sentiment.<p>On a related note, I find that user feedback (of any kind) is a terrific boost: since most people are lurkers (or worse, look for 5 sec and never return), people who take the time to email us or post a blog comment provide a huge lift.
+",1176985754
+14574,comment,14571,14571,0,0,dpapathanasiou,,,"Just reading the headline, I thought this was yet another 37signals badass, but the point of the article is ""Watch Users Work"", which is a terrific strategy.",1176985534
+14573,comment,14436,14436,0,0,dpapathanasiou,,,"Call me old school, but I think this is a <i>bad</i> idea.<p>Some things should not be blogged.",1176985265
+14572,comment,14490,14534,0,0,dpapathanasiou,,,"Ballsy, definitely, but think about the people who show up for that: you (if you're 37signals) <i>know</i> they'll sign up for anything you offer.<p>There's an important concept in sales called pre-qualification (i.e. only spend time pitching to prospects who are likely to buy) and this is one way of doing it, albeit an extreme one.",1176985166
+14571,story,,,7,4,brlewis,"First Rule of Usability?  Don't Listen to Users",http://www.useit.com/alertbox/20010805.html,,1176985007
+14570,comment,14438,14445,0,0,extantproject,,,heh,1176984868

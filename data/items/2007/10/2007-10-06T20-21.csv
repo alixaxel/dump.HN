@@ -1,0 +1,49 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+64194,comment,63978,63978,0,0,plusbryan,,,"matt:
+I admire your ability to look at things differently and express those beliefs among a crowd that in all likelihood might burn you at the stake for them. People fall into herd mentality much too often.",1191704392
+64193,comment,64188,64188,0,0,cperciva,,,"I'd list such people under ""suckers"".  YC doesn't provide enough money to pay anyone a decent salary, so anyone who isn't getting equity is being short-changed.",1191704077
+64192,comment,64080,64149,0,0,chadboyda,,,Agreed.,1191703915
+64191,comment,63836,63836,0,0,thomasswift,,,"google apps myself, I haven't hit the limit. Just create more users and append a # (noreply1,noreply2) to the end of them. I thought I read that was google's answer for when your breaking the limit.<p>Question for you, what are the limitation, besides this, you've had with google apps mail servers?",1191703874
+64190,comment,63418,63539,0,0,chaostheory,,,"that's interesting - when i looked at stuff I wrote 10 years ago I began to wonder what the hell I was on while i wrote it.<p>I have a feeling 10 years from now when i look at code i write today, I'll have the same reaction...",1191703747
+64189,story,,,2,0,moses1400,"billQ Answers My Call for a Better Way in Managing Bills",http://www.centernetworks.com/billq-bill-management-software,,1191703705
+64188,story,,,10,34,prime0196,"Hackers with no equity in company: good or bad?",,"Does YC frown upon applicants who have hackers on their team but hold not equity stake?  How should they be included in the application.",1191703679
+64187,comment,63978,64175,0,0,chaostheory,,,"maybe it's trying to replace your web mail for personal use...",1191703474
+64186,comment,63978,64158,0,0,chaostheory,,,"plaxo began to be free only recently... besides its audience is traditionally more slanted for business professionals. It's trying to change, but it has a long road ahead",1191703306
+64185,comment,63864,63949,0,0,SwellJoe,,,"Good to know.  We'll keep it in mind for future work.  We're not at all dissatisfied with our SitePoint experience, though.  At least a quarter of the entries are top of the line professional work, and we're now fighting it out to figure out which one is our favorite--not because there aren't enough good entries, but because there are too many really good ones to choose from.",1191703218
+64184,comment,63864,63947,0,0,SwellJoe,,,"$30 at SitePoint, plus they offer extra options.  We opted not to do anything extra, and instead put all of the money into the prize ($500 in this case, which made it the highest logo prize on the site at the time).",1191703101
+64183,comment,63916,63916,0,0,rvirding,,,"When the physics department got their own computer, a DEC VAX/VMS. I was a post-graduate with more-or-less unlimited access. It was love at first sight.
+",1191703044
+64182,story,,,8,2,augy,"Web Startups Are A Commodity",http://avc.blogs.com/a_vc/2007/10/web-startups-ar.html,,1191702895
+64181,comment,64129,64129,0,0,jmpeters,,,"Finally a business model I can believe in. Despite not having an MBA I'm going to speculate that there may be slightly more demand for this service than for Facebook's digital fish in an aquarium. ",1191702636
+64180,comment,64112,64160,0,0,vzn,,,"""build on demand hardware"" -  it means build funny electronic devices(in Ponoko way)?  Or it would be something serious HW stuff like PCB for custom device?",1191702336
+64179,comment,64148,64148,0,0,mrtron,,,"Why do you need funding for a FB app?<p>Do you really need funding, or do you need financial motivation to do the work?<p>I would suggest if you really do need some funding for some specific costs, you should take as little as possible :)",1191702139
+64178,comment,63702,63837,0,0,herdrick,,,">  there (used to be) an enormous Boeing factory nearby<p>Still is.",1191702101
+64177,comment,63702,64021,0,0,herdrick,,,"Winter of '98 - '99?",1191702035
+64176,story,,,4,3,ingenium,"Developing a modular, nanoparticle drug delivery system",http://www.biologynews.net/archives/2007/10/06/developing_a_modular_nanoparticle_drug_delivery_system.html,,1191701894
+64175,comment,63978,64158,0,0,mattmaroon,,,"Not to mention, nobody has bought an actual Rolodex in 10 years. You can't build a business by replacing a product that has already been replaced.",1191701457
+64174,comment,64085,64085,0,0,tlrobinson,,,"Another Google data point: Steve Yegge ported Ruby on Rails to JavaScript because Google works in only 4 languages... C++, Java, Python, and JavaScript.<p><a href=""http://www.iunknown.com/2007/06/steve-yegge-por.html"" rel=""nofollow"">http://www.iunknown.com/2007/06/steve-yegge-por.html</a>",1191701334
+64173,comment,63009,63009,0,0,djasek,,,"I think there is a logical inconstancies in here.
+You say specific startup hubs are important, but specific colleges are not?  Bullshit, either both are important or both are not.  By your own arguments they will be performing the same service, building communities.<p>You say one goes to Silicon Valley to be in a community of startups, meet cofounders and talk with smart people.
+Then you say that in the future, in college, we will be more concerned with meeting cofounders and communing with smart people than we will be concerned with grades.
+Why won't yo want to go to the school with all the smartest like-minded people?
+Thats what Harvard is to business people.  A community of like minded people that band together to help each other.
+The same will be created at the new breed of startup oriented tech schools.  The admission standards might be a tiny bit different though.
+",1191701315
+64172,comment,63978,64166,0,0,chaostheory,,,"Ebay: a place to sell PEZ dispensers that used to crash every second<p>Internet: a place that used to only be mainly useful for looking at free pr0n<p>Post it notes: its adhessive was a ""failed"" project. Its value was only found after an employee started using it on paper to use as temporary bookmarks for gospel music<p>""From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
+Newsgroups: comp.os.minix
+Subject: What would you like to see most in minix?
+Summary: small poll for my new operating system
+Message-ID: <1991Aug25.205708.9541@klaava.Helsinki.FI>
+Date: 25 Aug 91 20:57:08 GMT
+Organization: University of Helsinki <p>Hello everybody out there using minix -
+I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones....""",1191701293
+64171,comment,64034,64063,0,0,extantproject,,,"Computer Science is about understanding what computing is; it's about what it means to compute.<p>Let me guess: you're not a big fan of Knuth either?",1191701284
+64170,comment,63912,63912,0,0,cglee,,,"I think this talk first presupposes that the audience would like a job like that, which is probably a stretch.  His accomplishments notwithstanding, his current job seems pretty undesirable to me.",1191701252
+64169,story,,,1,0,axiom,"Chipping software for faster debugging",http://www.primidi.com/2007/10/06.html,,1191701249
+64168,comment,63583,63829,0,0,kingnothing,,,"Looks like that comment helped to increase your karma four fold!",1191701180
+64167,comment,63009,63033,0,0,danw,,,"In the UK you graduate in June and have to start repaying your loan the following April as a percentage of your income if you earn more than GBP14,000/year. I've found that you can survive for GBP6,000/year so this shouldnt be an issue. No idea what the situation is like in the US however",1191701154
+64166,comment,63978,64026,0,0,nanijoe,,,"Really? Name a few...",1191701113
+64165,comment,63583,63858,0,0,kingnothing,,,"Oh, okay. I can understand being upset about that, but I'm sure it will get worked out. ",1191701099
+64164,comment,63978,64154,0,0,chaostheory,,,"Well to me the most important part of: <p>""Also contributing to the hype is the Facebook platform. Platform is the Bubble 2.0 buzz word, which everyone talks about but of whose existence Joe Average is now and ever shall be blissfully ignorant.""<p>was that you thought Joe 6pack doesn't know anything about it. All tech enthusiasts talking about it is a well known fact  (everyone on yc knows about it). Was there something that I missed in that fragment?<p>""I meant that platforms in general have not and will not reach the popular consciousness.""<p>I could be wrong, but I feel that my non-technical friends and family that I have FB food fights or Mafia games with would disagree. They may not know what it's called, but they do see it and enjoy it.",1191700927
+64163,comment,64028,64028,0,0,waleedka,,,"You have to have at least a skill in something. If you're good in marketing, then do what Kevin Rose did. He got the first version of Digg built by a contractor on elance for $1200. Then he worked really hard on marketing it. Once it started to pick up, it was easy to get funding and hire programmers.
+",1191700888

@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+245625,story,,,2,0,Anon84,"Google, Viacom now clashing over YouTube employee records",http://news.cnet.com/8301-1023_3-9989783-93.html?hhTest=1&part=rss&subj=news&tag=2547-1_3-0-20,,1216033039
+245624,comment,244995,245618,0,0,axod,,,"Yes, but as I said, the HTML should be data to be displayed. eg the content. NOT arbitrary data used in the program.",1216032944
+245623,comment,245442,245461,0,0,albertcardona,,,"The mighty hacker would make a three-liner bash script to pull all images with wget, echo a .tex file with graphicx image figures, and pdflatex it.",1216032643
+245622,comment,245443,245588,0,0,dcminter,,,"Many of the people who critique Nielsen don't seem to appreciate that he uses empirical measurement (rather than aesthetic judgement or opinion) to determine what is ""good"" or ""bad"" design.<p>His column is about usability design rather than the veneer of beauty that obsesses many graphic designers. Whether it's good methodology is a different question, but not one that I see people who dislike his advice address.",1216032341
+245621,comment,245443,245443,0,0,dgabriel,,,"I thought he was a self-styled usability expert, not a ""designer.""<p>I much, much prefer Steve Krug, when it comes to self-styled usability experts.",1216032024
+245620,comment,245227,245359,0,0,gaius,,,"Check out F#. Many new C# features are trialled there first.",1216031983
+245618,comment,244995,245333,0,0,danw,,,"The CSS is the display, not the HTML. The HTML <i>should</i> be capable of being displayed in many different ways by just changing the CSS.",1216031680
+245616,story,,,4,0,prakash,"Foo Camp 2008: Shangri La For Geeks",http://www.techcrunch.com/2008/07/14/foo-camp-2008-shangri-la-for-geeks/,,1216031187
+245615,story,,,15,11,bdfh42,"I'll get to your application in a minute - First, we need to build the framework",http://jeffreypalermo.com/blog/i-ll-get-to-your-application-in-a-minute-first-we-need-to-build-the-framework/,,1216030869
+245614,story,,,2,0,brk,"IPhone 3G - Will It Blend?",http://www.willitblend.com/videos.aspx?type=unsafe&video=iphone3g,,1216030791
+245613,story,,,2,0,acangiano,"A close look at three Rails 2.1 bugs",http://antoniocangiano.com/2008/07/14/a-close-look-at-three-rails-21-bugs/,,1216030715
+245612,comment,245435,245435,0,0,acangiano,,,"This is absolutely great.",1216030469
+245611,comment,245567,245607,0,0,zen53,,,"ebay have just opened up the playing fied...",1216029964
+245610,story,,,6,0,zen53,"Google Now Displaying Code Search Results",http://www.techcrunch.com/2008/07/14/google-now-displaying-code-search-results/,,1216029705
+245609,comment,245488,245488,0,0,ScottWhigham,,,"I've given up on reddit as I can't stand the new interface. I gave up on digg a long time ago. Both are too slow w/ their fancy javascript fadeouts and there's not enough stories per page. I liked reddit better as I felt there was a stronger technical community but today I think it's just another platform for SEO companies.",1216029606

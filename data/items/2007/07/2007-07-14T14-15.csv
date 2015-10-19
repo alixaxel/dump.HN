@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34212,comment,34192,34192,0,0,mattculbreth,,,"Beating the Averages and The Python Paradox",1184424771
+34211,comment,34176,34176,0,0,mynameishere,,,"The first greatest economic boom came with the mass replacement of animal power with steam power.<p>The second greatest economic boom started around 1910 with the coming widespread deployment of automobiles, airplanes, indoor plumbing, refrigeration, radio and telephones.",1184424403
+34210,comment,34192,34192,0,0,daniel-cussen,,,"<a href=""http://www.paulgraham.com/nerds.html"" rel=""nofollow"">http://www.paulgraham.com/nerds.html</a>",1184423640
+34209,comment,33886,34164,0,0,nostrademons,,,"I'm not - I'm using the approach here: <a href=""http://news.ycombinator.com/item?id=33888"" rel=""nofollow"">http://news.ycombinator.com/item?id=33888</a> .  That gives me much more flexibility in picking out individual comments from a thread, returning all comments by a specific user, getting all comments posted today, etc.  I'm just recognizing this as another possible way to solve the problem, if you don't care about the extra functionality..<p>As for storing the pickled output:<p><pre><code>  dbh.execute('UPDATE articles SET comments = $comments WHERE news_id = $id', 
+              comments=pickle.dumps(article.comments))
+</code></pre>
+The comments field can be a normal TEXT field, since the default format for pickle is ASCII-based.",1184423337
+34208,comment,34114,34114,0,0,redrory,,,/sigh,1184422460
+34207,comment,34192,34192,0,0,awt,,,"1. <a href=""http://www.paulgraham.com/nerds.html"" rel=""nofollow"">http://www.paulgraham.com/nerds.html</a><p>2. <a href=""http://www.paulgraham.com/say.html"" rel=""nofollow"">http://www.paulgraham.com/say.html</a>",1184422055

@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+24993,comment,24959,24986,0,0,arete,,,"Actually, I've found the performance of my Xen VPS much better than a dedicated server at The Planet.  Most likely that's because the dedicated server had just one IDE disk and the Xen host has a fast SCSI RAID array.  Dedicated hosting gets pretty expensive when you get into SCSI drives and RAID but it's really important to consider your performance and reliability needs.<p>",1180309428
+24992,story,,,16,1,paul,"Shirky: A Group Is Its Own Worst Enemy",http://www.shirky.com/writings/group_enemy.html,,1180309320
+24991,story,,,2,0,rnc000,"Anyone interested at working on a visual search technology startup ? See http://server.imgseek.net/ for details.",,,1180307352
+24990,story,,,7,2,bootload,"Craigslist's ongoing success story",http://www.businessweek.com/innovate/content/may2007/id20070515_301894.htm?chan=smallbiz_smallbiz+index+page_success+stories,,1180306941

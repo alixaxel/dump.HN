@@ -1,0 +1,75 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+440325,comment,439925,439925,0,0,sam_in_nyc,,,"I made a simple tween function a few months ago that has served me very well.  It modifies any property of an object that can be calculated using floating point math (eg: it doesn't do hex colors).  There's even a variable for what type of tween (1 = linear, 2 = forgot-the-word, 3 = cubic).  Every line counts.<p><pre><code>        var tween = function(params, time, onFinished){
+		var setProperty = function(el, property, value, unit){
+			if (property==""style.opacity"")
+				if (value==1) el.style.filter = """";
+				else el.style.filter = ""alpha(opacity="" + value*100 + "")"";
+			eval(""el."" + property + ""='"" + value + unit+ ""'"");
+		}
+
+		var start = function(){
+			var ticks = Math.ceil(time/10);
+			var getFn = function(percent){ return function(){go(percent);}; };
+			for (var i=1; i<=ticks; i++) setTimeout(getFn(i/ticks), i*10);
+			go(0);
+		}
+	
+		var go = function(percent){
+			var tween = 3; var u = Math.pow(2, tween-1);
+			percent = percent < .5 ? u*Math.pow(percent, tween) : 1-u*Math.pow(1-percent, tween);
+			for (var i=0; i < params.length; i++){
+				var data = params[i];
+				var value = data.start + (data.end-data.start)*percent;
+				var unit = data.hasOwnProperty(""unit"") ? data.unit : '';
+				setProperty(data.element, data.property, value, unit);
+			}
+			if (percent==1 && onFinished) onFinished()
+		}
+		
+		start();
+	}
+
+
+		//usage:
+		var props = [
+				{element: someElement, property: ""style.left"", start: 0, end: 100, unit: ""px""}
+			];
+
+		tween(props, 450, function(){ alert('im done'); });</code></pre>",1232362701
+440324,comment,439927,440074,0,0,gjm11,,,"The use of aleph-0 for countable sets is not discouraged. I think what you mean is that using aleph-1 to mean ""of the same cardinality as the reals"" is discouraged, because it's only appropriate in models where the continuum hypothesis holds.<p>There's a not-so-commonly-used notation using the Hebrew letter beth instead of alpha, where beth_0 = aleph_0 and beth_{n+1} = 2^beth_n (note for experts: and you do the obvious thing at limit ordinals). So the cardinality of the real numbers is beth-1, whatever model you're in.",1232362656
+440322,comment,440269,440269,0,0,snitko,,,"Currently I'm considering ideas and want to choose one to work on in the following 6 months. And I found that even though I know ideas don't cost a thing, it's crucial to choose a good and promising one, not just start working on a random idea saying ""implementation only matters"". It seems to me now, that you can almost never know if your project is a success, but you can often tell, if it's a fail. Thus, increasing your chances.<p>The bottom line is that posts like that create an illusion that no matter what you do, math will make you rich. This is especially untrue, because with each new random project, I assume, your motivation and desire go level down.",1232362606
+440321,story,,,1,0,eelco,"The [Haskell] IO Monad for People who Simply Don't Care (old, but cool)",http://sigfpe.blogspot.com/2007/11/io-monad-for-people-who-simply-dont.html,,1232362564
+440320,comment,439298,439518,0,0,11ren,,,"> <i>probably the best large organization for a real , cs focused, software engineer</i><p>Makes sense, it's the only multi-billion dollar business based on an algorithm.<p>Patent-based businesses seem to encourage fundamental technical research. Consider: Bell Labs (Alexander Graham Bell's telegraphy patent); PARC (Xerography patent); IBM research (many patents).",1232362459
+440319,comment,440300,440300,0,0,RiderOfGiraffes,,,"This article seems to gloss over or misrepresent an important distinction.  It's not that MS fails to conform to web standards.  Surely the problem is that MS <i>extends</i> those standards, and then people create web sites and web pages that use those extensions.  Thus it becomes necessary to use IE to view those sites, even though MS has conformed to all standards.<p>The problem is those who create web sites that require the MS extensions to IE, and no amount of legislation is going to solve that one.  Do we want suppliers such as MS, Google, Opera, <i>etc,</i> to stop enhancing their browser's capabilities?",1232362323
+440318,comment,440228,440287,0,0,paul7986,,,"That's cool if it has VGA I could charge it and then at same time have it connected to my LCD TV to watch Internet TV.  Use wireless handheld mouse for remote.",1232362278
+440317,comment,440239,440239,0,0,axod,,,"This is older than the sun. But still clever.",1232362074
+440316,comment,439512,439984,0,0,corentin,,,"Well, just one example: until last year, Red Bull was banned in France for health safety reasons.",1232362022
+440315,comment,440228,440228,0,0,ikor,,,"It reminds me UMPC thing from MSFT, but cheaper.",1232361993
+440314,comment,438936,439578,0,0,gaius,,,"But I am tho´, 2359 at the moment :-)",1232361958
+440311,comment,439116,439991,0,0,olavk,,,"Additionally, decorators with method chaing are not necessarily monads. AFAIK a monad has to be able to wrap <i>any</i> type, while a decorator is usually constrained to wrap some specific type (e.g. DOM nodes in the case of jQuery).",1232361864
+440310,comment,440170,440273,0,0,sigh400,,,"Could you kindly elaborate as to the details of being ""funded"" in this situation? I am very interested in real numbers. (Obviously you may not be able to provide specifics, but even meta info would be nice, considering the product and the economic climate etc.)",1232361772
+440309,comment,439906,439906,0,0,Zev,,,"<i>In short, tech recruiters are non-technical dolts who use bad metrics to squeeze the highest dollar out of the companies they're contracted to while alienating otherwise prospective talent.</i><p>It sounds like you just got burned by one company/person? Not all recruiters are like you described. I've got my biases though, just like you've got yours.",1232361751
+440308,comment,440145,440145,0,0,RyanGWU82,,,"MTV Teen Cribs aside, this guy's house is really, really sweet.  Ridiculously over-the-top, but sweet.  There's a whole site dedicated to the house at <a href=""http://www.scottajones.com/index.php?q=residence"" rel=""nofollow"">http://www.scottajones.com/index.php?q=residence</a> .<p>How can he afford all this?  Scott Jones is better known as the inventor of voicemail. (!)  His company built one of the earliest voicemail systems (1986) and he holds a bunch of patents related to it.  So he can afford an extravagant house, especially since it's in Indiana.<p>For example: His master bathroom has a ""waterfall shower"" that streams 300 gallon per minute. Normal home showers are restricted to 2.5 GPM.  But ""because this is a high-tech home, not an ounce of water is wasted. It is sanitized by an ultraviolet-light disinfecting system, stored in a holding tank in the basement and then recycled."" (<a href=""http://www.forbes.com/2002/05/17/0517home.html"" rel=""nofollow"">http://www.forbes.com/2002/05/17/0517home.html</a>)",1232361602
+440307,comment,440299,440299,0,0,satyajit,,,"I almost never give in to direct email marketing (and these emails almost always get marked as spam, so lot of prospective candidates also do not recv it) - but I do trust my friends tell me to join a site, and I do. May be it works differently for diff people, but I think spreading thru a social networking platform may work better. My 2¢",1232361591
+440306,comment,440305,440305,0,0,jamescoops,,,"These are all java downloads e.g. phones other than iphone.",1232361397
+440305,story,,,1,1,jamescoops,"Ebuddy hits 11m downloads of its mobile app",http://www.mobileindustryreview.com/2009/01/ebuddy_-_mjelly_mobile_20_service_of_the_week.html,,1232361355
+440304,comment,440299,440299,0,0,pclark,,,"where are you intending on getting your list of users to email from?",1232361254
+440302,comment,440228,440265,0,0,axod,,,"There's a few others that have found success with similar methods:<p><pre><code>  1. Build a blog, get large readership, convince them you're *awesome*!
+  2. Release reasonable product
+  3. Sell to blog readership</code></pre>",1232361179
+440301,comment,440228,440255,0,0,axod,,,"How do you hook up the screen into a nice position? The reason laptops work well is because the screen can be positioned well.",1232361102
+440300,story,,,1,1,soundsop,"Zero or five?",http://www.quirksmode.org/blog/archives/2009/01/last_friday_a_p.html,,1232361066
+440299,story,,,2,11,medianama,"Ask HN: Email Marketing",,"Does anyone here has any experience with sending bulk mails to acquire new users. I believe, if targeted appropriately it offers best ROI and in very short time...<p>Should a startup engage in bulk mails to buildup user base or is it an abuse of the system and must be avoided (at the cost of growth)..<p>If yes, to what level before it is considered SPAM?<p>-----<p>PS: Assume I have a very targeted list and I am offering product/service that they are really looking for..<p>My question is - How many can I send before I am being labeled as a spammer by the anti-spam filters on mail server?:-)<p>I plan 500 mails daily.. is it too much/too little?",1232361016
+440298,story,,,1,0,Qedanne,"New in 2009 - JAOO days about web 2.0 and agile",http://blog.jaoo.dk/2009/01/14/new-in-2009-jaoo-days/,,1232360960
+440297,comment,440228,440242,0,0,froo,,,"1) I assume they can't get rid of the border because of the camera that comes with it.<p>3) If you read the article, it will be probably half as thick the final product - this is just a prototype which they left lots of room in it.<p>With the being flat on a table thing, what about the addition of foldable clips that would put it on an angle (like underneath your keyboard) - that would fix that problem.",1232360927
+440296,comment,440228,440261,0,0,markessien,,,"Well, if they offer a small bluetooth keyboard as an accessory, then it would be okay.",1232360784
+440295,story,,,1,0,peter123,"Facebook app Let’s Cram gets seeded to connect study buddies",http://venturebeat.com/2009/01/19/facebook-app-lets-cram-gets-seeded-to-connect-study-buddies/,,1232360781
+440294,comment,440228,440288,0,0,froo,,,"Give it a stand and use in the kitchen for recipes etc while cooking?<p>Perhaps as an entry level product for people who don't know how to use a mouse but might want to use the internet.<p>A basis for some kind of learning device for younger kids (if they get it more robust that is).",1232360708
+440293,comment,440228,440259,0,0,markessien,,,"I'd say about 30% of my interaction with the internet involves me sending data out. The other 70% is about reading stuff. The form factor of the tablet is not correct for reading, which is part of the point I'm trying to make. We have hundreds of years of experimentation with reading equipment, and there is a reason that books are a certain shape, size and for. It works. Why are they throwing all that out and coming up with a brand new form factor for something that is supposed to also be a reader?",1232360699
+440292,story,,,1,0,peter123,"The greatest 16-minute speech ever: ""I Have a Dream""",http://blog.ted.com/2009/01/the_greatest_18.php,,1232360644
+440291,comment,440258,440258,0,0,ErrantX,,,"Read & exercise.<p>It's the best thign for it (esp if your really not going ot get any sleep).<p>Steven Fry is an insomniac and he knows a <i>lot</i> of crap simply from reading books when he couldn't sleep. I try to go the same way :D",1232360570
+440290,comment,440228,440248,0,0,froo,,,"Well, I'd be inclined to buy this kind of device for my grandmother.<p>Touch screens are intuitive for people who don't have a good grasp of technology, and combined with a decent homepage (perhaps a dumbed down google IG with large bookmark icons) she would get everything she needs.<p>Quite simply, it could be a great entry level product and useful for others who just want to check emails or other stuff while doing other stuff.<p>What would be great is if this was semi waterproof aswell with a stand for inclination - would be great to use in the kitchen while cooking.",1232360546
+440288,comment,440228,440228,0,0,tsetse-fly,,,"It's a cool toy, but I really can't imagine how/where I would use it in-place of my laptop.<p>What are some use cases?",1232360033
+440287,comment,440228,440255,0,0,tsetse-fly,,,"Yes, the prototype clearly has USB, ethernet, and VGA.<p>Realistically, though, why would anyone bother to plug a keyboard into this thing? Why wouldn't you just use your laptop or desktop?",1232359681
+440286,story,,,2,1,Anon84,"Speech Analysis: I Have a Dream",http://sixminutes.dlugan.com/2009/01/18/speech-analysis-dream-martin-luther-king/,,1232359496
+440285,comment,440099,440282,0,0,RiderOfGiraffes,,,"Not everyone ""gets"" xkcd anyway, but in this case, show people this one and ask them if they know the joke.<p>Alternatively, ignore it.",1232359496

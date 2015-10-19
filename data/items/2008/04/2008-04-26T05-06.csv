@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+174195,story,,,1,0,siculars,"Twitter to the rescue",http://www.cnn.com/2008/TECH/04/25/twitter.buck/index.html,,1209189463
+174194,comment,174071,174071,0,0,iamdave,,,"Throws a pebble in the pond.",1209189317
+174193,story,,,1,0,henning,"Is eager (strict) evaluation with optional laziness better than pure laziness (e.g., Haskell)?",http://codepoetics.com/wiki/index.php?title=Topics:Eager_Versus_Lazy_Evaluation,,1209188676
+174190,comment,174141,174167,0,0,aaroneous,,,"Nope, you're right, it's not in an obvious place until after you've registered for the free account. It's $34.95/yr.",1209188155
+174189,comment,174129,174185,0,0,Calamitous,,,"Can't.  They're full.<p><a href=""http://www.thetubesarefull.com/"" rel=""nofollow"">http://www.thetubesarefull.com/</a>",1209187518
+174188,comment,174087,174149,0,0,rms,,,"Has anyone ever seen Tara Ploughman and Nick B in the same room?",1209187061
+174186,comment,173807,174105,0,0,cperciva,,,"<i>Backups for Criminals</i><p>Is Airbus a company of criminals?  They have a perfectly good reason for wanting to keep their data out of the hands of the US government: Every time the US government gets some information about Airbus, Boeing has it the next day.<p>Sadly, industrial espionage is something which many governments are actively involved in; wanting to make sure that your foreign competitors don't have access to your trade secrets does not make you a criminal.<p><i>Isn't it possible to encrypt already and then backup?</i><p>Yes, but if you do that, you lose the benefits of snapshotting (performance of incremental backups, convenience of full backups).",1209186911
+174185,comment,174129,174129,0,0,run4yourlives,,,"We just need to buy more tubes.",1209186863
+174184,comment,173807,174104,0,0,cperciva,,,"As the website says... send me an email. :-)",1209186605
+174183,story,,,1,0,jsearson,"Businesses and startups are different, but not from each other",http://searson.blogspot.com/2008/04/businesses-and-startups-are-different.html,,1209186589

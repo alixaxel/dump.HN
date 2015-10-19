@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81730,comment,81562,81643,0,0,danw,,,"Whatever happened to jumpChat?",1195516608
+81729,comment,81497,81497,0,0,DaniFong,,,"Maybe you have a friend from high-school or something whom you know to be really, really smart? Maybe you know someone whom you know could hack, or at least someone whose opinion would count who could help you search for a cofounder. ",1195516604
+81728,comment,81594,81594,0,0,danw,,,"Mobile, mobile, mobile...",1195516525
+81727,comment,81594,81594,0,0,redsymbol,,,"Distributed version control systems.  Especially Git, ATM.<p>Also seeking a deeper understanding of language design and compilers.  Some inspirations for why:<p><a href=""http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html"" rel=""nofollow"">http://steve-yegge.blogspot.com/2007/06/rich-programmer-food...</a><p><a href=""http://martinfowler.com/dslwip/"" rel=""nofollow"">http://martinfowler.com/dslwip/</a><p>Next on my list after all that:  Machine learning.",1195516521
+81726,comment,81594,81594,0,0,spiralhead,,,"I'll admit what everyone else here is apparently afraid to: Flex/ActionScript 3.<p>I don't really see a future for MXML in it's current form but the rest of the stack--mainly ActionScript 3 / the SVG drawing API, Video/Audio APIs are definitely worth looking at. Some of the highest paying web development gigs are in Flash programming, and it's a lot less painful than browser programming (which isn't saying much).<p>
+",1195516492
+81725,comment,81594,81635,0,0,nailer,,,"I'd actually suggest that real programmers expect non-Microsoft languages to be Open Source, eg, without restrictions on binaries. ",1195516037
+81724,comment,81563,81563,0,0,geebee,,,"The book was a lot of fun, and the movie looks like it'll be entertaining too.  It was a little silly that the book pitched itself as ""the book vegas doesn't want you to read,"" though.  Vegas loves this book, and vegas loves this movie.  How many people are really going to organize a card counting team talented enough to beat a big casino?  This movie will fill hotel rooms and get the kids down at the blackjack table.  +1 for Vegas.  <p>One thing that irritates me slightly - the blackjack team was mainly Asian, from what I've read.  The casinos were ready to believe that an irresponsible child of super wealthy Asian parents was throwing down this kind of money at the tables - a stereotype that the MIT team successfully used to avoid detection for some time.<p>But eh, it still looks like fun.  I'll probably go see it.  And yeah, I'll probably lose some more money at blackjack.  ",1195515819
+81723,comment,81695,81695,0,0,gabrielleydon,,,"ahhh i see! This is nice. Thanks!",1195515555
+81722,story,,,19,10,tjic,"Feature: non-YC startups to post to jobs.YC",,"Obviously, YCombinator doesn't want its job board to turn into a free version of Dice.  ...yet I suggest that it would be a big boon to the community of people interested in startups, at little or not cost to YC, to allow firms that have, say, less than 5 or 10 employees, to post to jobs.YC.<p>To give an example (and, yes, you caught me, this is a large percent of the reason that I brought the topic up) HeavyInk is looking to hire a Ruby / Rails rockstar to help us do something amazing in the comicbook space.<p><a href=""http://heavyink.com/forum/forums/1/topics/30"" rel=""nofollow"">http://heavyink.com/forum/forums/1/topics/30</a><p>",1195515089
+81721,comment,81594,81594,0,0,Goladus,,,"I'm writing a compiler in C.  It's exactly the kind of  practice I needed to make up for years of slacking.  ",1195515052
+81720,comment,81586,81586,0,0,injesus,,,Brilliant,1195514965
+81719,comment,81695,81695,0,0,ed,,,"Yes, Brightcove.com<p>Founded by Jeremy Allaire (JRun); impressive client list",1195514950
+81718,comment,81594,81594,0,0,samb,,,lua,1195514878
+81717,comment,81594,81594,0,0,lsb,,,"Large-scale text mining (Google/Wikipedia).  There's boatloads of patterns and data latent in an enormous popular text corpus.<p>For instance, if you have two terms, and you want to see how similar they are, that's P(A|B).  So do a search query for A&B and for B, and P(A|B)=P(A&B)/P(B), and that's a first approximation, a Google Distance, for arbitrary terms.<p>The information silos are only a couple years old, and already they're so valuable.  I can't wait until the Internet's a century old.",1195514759
+81716,comment,81594,81594,0,0,injesus,,,"Silverlight w/C# clientside.  I'm excited by the idea of replacing javascript.  I'm still happy to use java backend, I love tomcat.",1195514719
+81715,comment,81519,81625,0,0,edw519,,,"I see you've been a guest in my modern kitchen.",1195514642
+81714,comment,81652,81705,0,0,mkull,,,"Yeah there have been many internal debates about this, and much effort has been spent on reducing the number of objects on the page while maintaining the look / feel.<p>Any suggestions are welcome!<p>Currently getting an 81 on yslow which isn't terrible for how hefty the site is<p>
+",1195514269
+81713,comment,81497,81687,0,0,yubrew,,,"Learn some basic hacking in (insert functional language here).  I'm not trying to start a programming language flame war. <p>The point of the statement is to do just enough so that you don't drive away potential technical cofounders.  Basically make yourself more attractive as a cofounder by avoiding the traps that many other non-technical cofounders fall into.",1195513929
+81712,comment,81594,81655,0,0,nickb,,,"Care to share some links/references on zoomable interfaces?",1195513488
+81711,story,,,8,8,oleg_myrk,"Scala: a new language for rapid development?",http://www.scala-lang.org,,1195513454
+81710,comment,81683,81683,0,0,pg,,,"Here's the actual conversation, as close to verbatim 
+as I can remember:<p><pre><code>  Q: What can we do to make Britain better for startups?
+
+  A: Well, when you're doing badly at something, the first
+     step is to admit it-- to say, Ok, we suck, now what
+     do we have to do to get better?
+</code></pre>
+I certainly never said British <i>startups</i> suck.  If I'd been getting specific, I might have said British investors did, but I didn't even say that.<p>This whole article reads like what I said run through a blender.",1195513312
+81709,story,,,4,0,nickb," Cory Doctorow - The Future of Internet Immune Systems",http://www.internetevolution.com/author.asp?section_id=479&doc_id=139358&,,1195513280
+81708,comment,81707,81707,0,0,bcater,,,"I was hoping that Python threads split across processors, but it seems that they don't. Is there a language that does it ""automagically"" without having to explicitly code it?",1195513215

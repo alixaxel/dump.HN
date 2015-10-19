@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+79155,story,,,4,0,bootload,"Debugging With Firebug",http://alternateidea.com/blog/articles/2006/05/12/an-in-depth-look-at-the-future-of-javascript-debugging-with-firebug,,1194950960
+79154,comment,79083,79083,0,0,davidw,,,"This has been discussed many times before - try searching for it.<p>You definitely need a business bank account.<p>Since you have a partner, perhaps seeing a lawyer would be a good idea - you could consider things like vesting, too.",1194949927
+79153,comment,78933,79027,0,0,russ,,,"Girls are only a waste of time if they don't like you.",1194949524
+79152,comment,79053,79053,0,0,jgrahamc,,,"I don't remember exactly how many hours I worked on <a href=""http://l8tr.org/"" rel=""nofollow"">http://l8tr.org/</a>, but it wasn't more than a day.   Now l8tr gets constant use, but I'd hardly call it a start-up.   Tagmindr sounds similar, a useful little thing that happens to be on the web.<p>John.
+",1194949442
+79151,comment,78764,78913,0,0,andyn,,,"You write it in Java and then it's compiled to their own proprietary virtual machine - Davlik. Rather than Jython, I'd hope for a tool that would turn python straight onto Davlik bytecode.<p>Hopefully there should be either documentation/source for the VM at some point or an enterprising person is reverse engineering it as we speak.",1194949173
+79150,comment,79057,79057,0,0,asmosoinio,,,"At least for a while: Not have anything to do with computers. No looking at a monitor.<p>What I would do? Snowboard & learn to surf. Paint.",1194949172
+79149,comment,79128,79128,0,0,lsb,,,"I came to Javascript from Ruby/Scheme/Haskell, so when I had to call the Yahoo Search API with a callback, sometimes with two or more searches concurrently, I thought, oh, I'll store the continuation, because they only allow /[A-Za-z0-9.]+/ as characters in the callback.<p>
+var fns = [];<p>function gensym() { return $R(0,20).toArray().map(function(){return String.fromCharCode(Math.random()*26+65)}).join('') }<p>function storefunc(f) { var g = gensym(); fns[g] = f; return 'fns.'+g }<p>function jsonk(url,hash,k) {
+  var s = document.createElement('script');<p><pre><code>  s.src = url+'?'+$H(hash).merge({'callback': storefunc(k)}).toQueryString();
+
+  document.body.appendChild(s);
+
+  return s.src</code></pre>
+}<p>
+I learned gensym and web-read-k in Scheme at Brown (thanks, Shriram!), and jsonk turned out to be pretty useful, because the same comtinuation-passing style that's available when you do XHRs now becomes available when you do json requests from a different domain, if they have a callback parameter.  (I brought this code to Songkick, and we shortened callback to k.)",1194949040
+79148,comment,79103,79103,0,0,jgrahamc,,,"Seems like a reasonable goal to me.  I already know that a number of people use POPFile to do things like sort ""interesting"" from ""uninteresting"" messages (e.g. one journalist uses POPFile to automatically filter out press releases that don't interest him).<p>However, one issue with comments is that they can be short leaving not a lot of text to work with.<p>John.
+",1194948953

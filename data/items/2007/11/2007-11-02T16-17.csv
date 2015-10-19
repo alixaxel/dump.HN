@@ -1,0 +1,65 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+75475,comment,75473,75473,0,0,sspencer,,,"I'm amazed new parents would have time and energy to catalog every aspect of the kid's early existence with twitter like updates.<p>Also I really hope the content you post is downloadable in some form.  It would suck to have a hard drive crash on this site and erase the first two (painfully documented!) years of your kid's existence.",1194022535
+75474,comment,70062,70096,0,0,nextmoveone,,,"I am from Florida, 'diss' still works here.",1194022157
+75473,story,,,4,4,transburgh,"Lil'Grams Launches -- It's Twitter/Pownce/Dogster for Newborns",http://www.centernetworks.com/lilgrams-launches-baby-twitter-pownce-dogster,,1194021947
+75472,story,,,1,0,amichail,"Now you can develop a native Mac UI for TeXmacs (A WYSIWYG TeX/LaTeX killer)!",,"From the main author, Joris van der Hoeven <vdhoeven@texmacs.org>:<p>Hi all,<p>On the CVS version of TeXmacs, I just completed the abstraction of
+the graphical user interface for TeXmacs. This should make it relatively
+easy to port TeXmacs to other operating systems (Windows, MacOS)
+and use standard toolkit libraries (Qt, Gtk, Aqua, etc.)
+for a more native look and feel.<p>The code has been reorganized as follows:<p><pre><code> 1) Abstract layers in src/Graphics/Gui and src/Graphics/Renderer.
+ 2) The old X11 interface in src/Plugins/X11.
+ 3) The default TeXmacs widget library in src/Plugins/Widkit.
+</code></pre>
+The font system in src/Graphics/Fonts and src/Graphics/Bitmap_fonts
+will be reorganized later.<p>There are three ways in which external plug-ins can provide
+functionality to TeXmacs:<p><pre><code> 1) By providing a new implementation of renderer.hpp, you can connect
+    your favorite graphics library (e.g. Cairo) to TeXmacs.
+ 2) By providing implementations of gui.hpp, window.hpp and renderer.hpp,
+    you can port TeXmacs to another environment where you don't have X11.
+ 3) By providing implementations of gui.hpp, renderer.hpp and widget.hpp,
+    you can use your own widget library instead of the native TeXmacs widgets.
+</code></pre>
+It should be noticed that no implementation of window.hpp is required
+for ports of type 3. However, we highly recomment to always start with step 2
+before diving into step 3:<p><pre><code> A) Making Widkit available for your new environment will enable you to do
+    systematic testing that all features have been well implemented.
+ B) Widkit should be replaced later by a typesetting-based widget library
+    based on similar system requirements.
+ C) Porting window.hpp costs less time than porting widget.hpp anyway.
+</code></pre>
+Some very short documentation of the required functionalities has been
+added to the header files. The widget library has currently been kept to
+a minimum: just what is needed outside Widkit. Later on, we plan to further
+improve the interface and add other widgets; this will probably require
+a few subsequent changes in the API.<p>If someone would like to do some porting, then don't hesitate to
+ask further questions. A list of particular difficulties that
+you might encounter would also be helpful for us (it might be
+nice to work out a short tutorial on how to do the porting).<p>Best wishes, Joris
+",1194021912
+75471,comment,75158,75158,0,0,lkozma,,,"It seems to have the same drawback like all similar sites I've seen, s.a. Froogle, etc.<p>I search for Dell Inspiron Laptop and the first pages only contain batteries and accessories. I guess if you sort by price it will always happen like that. You'd either need to label products according to what category they actually are, or just throw out results that are clearly ridiculous: $5 for a laptop.",1194021706
+75470,story,,,19,25,pietro,"What is it like to work at Google?",http://www.scripting.com/stories/2007/11/02/whatIsItLikeToWorkAtGoogle.html,,1194021588
+75469,story,,,1,0,nickb," Yahoo exec apologizes to U.S. lawmakers on China",http://news.zdnet.com/2100-9588_22-6216579.html,,1194021448
+75468,story,,,7,3,nickb,"Leopard early adopters suffer for the rest of us",http://www.news.com/8301-13579_3-9809571-37.html,,1194021388
+75467,story,,,9,5,waleedka,"News.YC meetup: San Francisco, Saturday, November 10, 2007",,"So how about another unofficial News YC entrepreneurial meetup in San Francisco?<p>This time we'll piggy back on SuperHappyDevHouse. The organizers were nice enough to accommodate a sub-meeting for startup founders. So you get two-in-one: attend SHDH and at the same time have a dedicated room for startup entrepreneurs.<p>
+SHDH is the most awesomest developer meetup in the Bay Area (<a href=""http://superhappydevhouse.org/SuperHappyDevHouse21"" rel=""nofollow"">http://superhappydevhouse.org/SuperHappyDevHouse21</a>). And with more than 150 developers attending every month, the spectrum of interests is very wide. By singing up to the sub-meeting you reserve a spot in the cool entrepreneurs section :)  And, it's easier to find people doing the startup thing like you.<p>At SHDH you get a really nice environment, free wifi, free snacks and drinks, and even a free dinner. It's simply a wonderful day to meet people. They do accept donations, though, to cover some of their costs.<p>
+If you're NOT doing a startup but still want to attend, SHDH is open for all. More info here:
+<a href=""http://superhappydevhouse.org/SuperHappyDevHouse21"" rel=""nofollow"">http://superhappydevhouse.org/SuperHappyDevHouse21</a><p>
+However, if:<p>1. You eat ramen at least twice a week :)<p>2. Your startup is everything you do. Or you're in the process of making it so.<p>3. You have a product already or at least a demo.<p>Then:<p>1. Sign up here so I can send you updates.
+  <a href=""http://www.facebook.com/event.php?eid=20982002600"" rel=""nofollow"">http://www.facebook.com/event.php?eid=20982002600</a><p>2. On the event page post your news.yc username and a link to your startup (optional).<p>3. On the event day bring your laptop and be ready to show your product and get feedback.
+",1194021383
+75466,story,,,2,0,nickb,"Become a Del.icio.us Power User ",http://webworkerdaily.com/2007/11/01/become-a-delicious-power-user/,,1194021356
+75465,story,,,1,0,nickb,"The 15 Dumbest Apple Predictions Of All Time ",http://blog.wired.com/gadgets/2007/11/analysts-dont-k.html,,1194021305
+75464,story,,,2,1,nickb,"Facebook VC: No Rush For More $, Would Work W/Google",http://www.alleyinsider.com/2007/11/facebook-vc-we-like-opensocial-not-raising-money.html,,1194021163
+75463,story,,,2,2,Readmore,"Bug Labs - Open Source Hardware: A very awesome moddable handheld",http://www.techcrunch.com/2007/11/01/first-pics-of-bug-labs-open-source-hardware/,,1194021121
+75462,comment,75450,75450,0,0,gscott,,,"Wal-Mart has a notebook for $348 with 1 gigabyte of ram and Windows.  Sell the Windows Vista COA on eBay and install Linux on the notebook.<p><a href=""http://holiday.ri-walmart.com/?section=secret&utm_source=Walmartcom&utm_medium=POV1&utm_content=secret1&utm_campaign=holiday&povid=cat14503-env15844-module117145-lLink1"" rel=""nofollow"">http://holiday.ri-walmart.com/?section=secret&utm_source...</a>",1194021088
+75461,comment,75414,75458,0,0,DanielBMarkham,,,"""...I see neither the developing catastrophe nor the smoking gun proving that human activity is to blame for most of the warming we see...""",1194021009
+75460,comment,75323,75390,0,0,iamwil,,,"I think there's something there, but probably not in its current form, as rms says.  I think it's probably misleading to call it an alarm clock, since people associate it with waking up.  Yeah, unless you're hot, I don't want you waking me up.  Reminders might be a better metaphor.<p>I have a friend who doesn't keep track of anything, and relies on his girlfriend to tell him when to do what.  Whether this is a good way to go about a relationship is debatable, I can see how you'd set alarms for people to do something because it's important to you, rather than the person executing it.  Say like, ""pick up groceries at 5pm"", but send it at 5pm so he has no excuse not to remember.<p>Happy birthdays wishes.  ""hey how did the date go?"" messages right after your friend's date.  ""how did that pitch go?"" messages after your colleague got devoured by VC's.  What's in common is that you sent the message at the time you remembered, and they received it at a time when it's relevant to them, while you might be out golfing at the time.  You can seem thoughtful at the moment it's relevant to the receiver of the alarm message, and when it's convenient to you.<p>Or you can send messages to your future self (say 5 years later), so you'd get messages from your past self saying, ""this is what I want to do by the time I'm your age.  Have you done them yet?""  Or you send friends messages later on saying ""I was really mad that you ate my ice cream last sat, but I was too shy to say anything at the time.""<p>I think it's probably worth exploring what you can do with asynchronous messages that don't get delivered immediately, cuz that's essentially what it is.  Limiting it to just messages you can send for waking is limiting, but perhaps not as easy to sell to people otherwise.<p>While widgetizing it is one way to go, I think this best fits on a mobile app of some sort.  Mobile devices are seen as personal extensions of self.  This sort of thing falls under that category.",1194020711
+75459,comment,75310,75350,0,0,nanijoe,,,"The original author is actually wrong..especially using his chess analogy. Incremental improvements will get you nowhere. 
+The best way to raise your chess game is to play against people who are faaar better than you. Do this for one week, and you will find yourself crushing your [former] peers.<p>Using the same analogy, Mark Zuckerberg should have beeen aiming to build facebook into a 10 million dollar company (or something)",1194020650
+75458,comment,75414,75414,0,0,ggrot,,,"The conclusion as I understand it is:
+Since reversing climate change is a hard and expensive process, we should give up trying.",1194020471
+75457,story,,,1,0,nickb,"Napster - Music Subsciptions Are Overrated",http://www.alleyinsider.com/2007/11/napster-we-need-new-business.html,,1194020259
+75456,comment,75267,75267,0,0,ALee,,,"I generally looked for keywords in a Lexis-Nexis search, Google search, and then just looked around for anyone who was doing what we were already doing.",1194020070
+75455,comment,75267,75296,0,0,ALee,,,"Travis, I know the guys who made ComicVine. You should talk to one of them before you fully launch, they had a really tough time getting this to flip and it's still running, but it's really important that you partner with some comic book companies because no one wants to buy you (because they just see you as a threat), according to one of the founders of ComicVine.",1194019988
+75454,comment,75158,75199,0,0,imsteve,,,"Lightning quick isn't hard if you just put everything in RAM, and RAM is so cheep these days.",1194019650
+75453,comment,75267,75416,0,0,boucher,,,"Adobe better give up on their web version of photoshop then...",1194019416

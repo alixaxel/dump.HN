@@ -1,0 +1,244 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4022951,comment,4022789,4022935,3,0,jewbacca,,,"It's a pretty common pattern, I think it's worth its own word, at least as much as mapM:<p><pre><code>    mapM f xs      = sequence (map f xs)
+    replicateM n x = sequence (replicate n x)
+</code></pre>
+Another cool thing replicateM is equivalent to: for lists, it's the cartesian power (sequence is the cartesian product).  ...this is actually the primary reason I'm aware of it.",1337943590
+4022950,story,,,1,0,yangjin340,,http://www.89gh.com,,1337943582
+4022949,comment,4008107,4008995,1,0,djKianoosh,,,"Yes. HQ specifically.",1337943529
+4022948,comment,4022895,4022895,2,0,stephengillie,,,"Interesting idea.<p>Those with neither Apple devices nor a Facebook account can't try this out.<p>Edit: My tired mind didn't realize this at first - this service utilizes both photos and statuses of the same person. Facebook is one of the few services which brings together a person's photographs and status updates, and has a large stock of both. The next best supply would be...a mash-up of Twitter and Flikr?",1337943527
+4022947,comment,4019861,4021610,1,0,majani,,,"<a href=""http://www.youtube.com/watch?feature=player_detailpage&v=zZYryyA28go#t=31s"" rel=""nofollow"">http://www.youtube.com/watch?feature=player_detailpage&v...</a>",1337943481
+4022946,comment,4018270,4018270,1,0,cm-t,,,"Framablog, a blog about free software, net neutrality and popularizy these philosophie just published a french translated version <a href=""http://www.framablog.org/index.php/post/2012/05/24/salut-a-toi-pirate"" rel=""nofollow"">http://www.framablog.org/index.php/post/2012/05/24/salut-a-t...</a>",1337943436
+4022945,comment,4020885,4022283,10,0,InclinedPlane,,,"More than that, the key point of contention is the fact that several countries with a total population of billions of people (China, India, Indonesia, Pakistan, Brazil, and others) are going to transition into developed ""first world"" economies in the 21st century. Currently there is no known technology that would allow them to avoid heavy reliance on carbon based energy sources while that transformation occurs. It's easy to sit on our 1st world thrones and imagine that if only we drove our cars a bit less everything will be fine, in reality the issue is about holding back people who are living in poverty, who don't have access to modern medicine, who don't all have access to clean water, etc. It puts into perspective the putative hazards of global warming to weigh against the cost of holding half the population of Earth in poverty.",1337943431
+4022943,comment,4022220,4022701,1,0,netcan,,,"It's a tricky thing to outsource.",1337943304
+4022942,comment,4022923,4022923,1,0,stephengillie,,,"The linked video has become private, but other copies are available:<p><a href=""http://www.youtube.com/watch?v=f6H7NkM21MY"" rel=""nofollow"">http://www.youtube.com/watch?v=f6H7NkM21MY</a><p><a href=""http://www.youtube.com/watch?v=pFZB91a1qUw"" rel=""nofollow"">http://www.youtube.com/watch?v=pFZB91a1qUw</a> (short)",1337943270
+4022941,comment,4021957,4022257,4,0,JumpCrisscross,,,"Two issues:<p>1. FB doesn't behave like the sample mean<p>2. FB doesn't behave like the sample<p>1 does <i>not</i> mean 2. In fact, without any statistics of dispersion (which the Kauffman paper doesn't provide) we cannot rule on 2 whatsoever.",1337943249
+4022940,comment,4022338,4022338,5,0,surrealize,,,"The monitor view that they're occasionally showing displays a reticle over Dragon.  Or it's supposed to, but the reticle is a bit off (Kuipers spent some time talking to houston about it).<p>It reminds me of the adventures that Pettit had with camera calibration yesterday, I wonder if there's a connection?<p>Anyway, listening to Pettit talk through the camera calibration yesterday made me think that there's a lot of room for improved UX in the software they use.",1337943242
+4022939,story,,,1,0,jamesford14,"Christmas charity for Kids",http://beanelf.org/how-to-be-an-elf/,"Learn ways to Be An Elf and volunteer and how the wonderful USPS Operation Letters to Santa program works.Letters to Santa program  to make more underprivileged children smile on Christmas and to inspire people with the real spirit of Christmas.",1337943231
+4022938,story,,,1,0,corral,"MaryFi  Turn your computer into a Wifi Hotspot",http://allmyapps.com/blog/2011/10/11/maryfi-%e2%80%93-turn-computer-wifi-hotspot/,,1337943224
+4022937,story,,,1,0,soniyasharmaim,"Stock Tips, Free Stock Tips, Stock Trading Tips India",http://www.capitalaim.com/Stock_Tips.aspx,,1337943221
+4022936,comment,4018361,4020953,1,0,muyuu,,,"Physical gold purchases don't need to be declared in many places. Which means 0 tax, plus the fact that the government doesn't know you even have it, were they to introduce any kind of legislation.<p>These charts usually include dividends. When they don't they are very crappy. In many international stocks dividend is too substantial to be possibly missed.",1337943202
+4022935,comment,4022789,4022931,2,0,masklinn,,,"Oh, didn't know about `replicateM_`. Not sure I like it much though, seems... redundant.",1337943159
+4022934,story,,,1,0,maayank,"Fake AV scammer actions, step by step",http://www.youtube.com/watch?v=jb69H7l0vJA,,1337943128
+4022933,comment,4020885,4022396,4,0,NLips,,,"How often you stop for gas is surely better covered by a ""range"" measurement for the car?  Maybe it's different in the states, but all the cars I've ever been in show your remaining fuel as a fraction of a tank.  In that case, volume of fuel is completely irrelevant, so MPG vs liters/100km has not place.
+e.g.
+My tank takes me 400 miles => I have half a tank left => I can go another 200 miles
+...is exactly equivalent to...
+My tank takes me 600 km => I have half a tank left => I can go another 300 km<p>(For the purposes of this post, 1 mile = 1500m.  If the size of a gallon changes with locale, why not a mile? :-p )",1337943094
+4022932,comment,4022789,4022902,1,0,masklinn,,,"> Or go back to C and learn that recursion is not really used like that.<p>It's not used like that in C, it's definitely used like that in Erlang.",1337943086
+4022931,comment,4022789,4022928,3,0,jewbacca,,,"<p><pre><code>    [see above]</code></pre>",1337943067
+4022930,comment,4021957,4022859,4,0,vinutheraj,,,"John Maynard Keynes said that.",1337943064
+4022929,comment,4022789,4022862,1,0,xabi,,,"Perl version:<p>perl -e 'print ""Hello world\n"" x 100;'",1337943062
+4022928,comment,4022789,4022890,2,0,masklinn,,,"<p><pre><code>    sequence_ $ take 100 $ repeat $ putStrLn ""Hello, World""
+</code></pre>
+alternatively,<p><pre><code>    mapM_ putStrLn $ take 100 $ repeat ""Hello, World""</code></pre>",1337943020
+4022927,story,,,1,0,Nulheron,"Magento Sporting Goods",http://magento.ikantam.com/category/industry/magento-sporting-goods,,1337943003
+4022926,story,,,1,0,winfred888,"Escort in Cyprus",http://vlondonescorts.co.uk/cyprus-escorts/,"Escorts in Cyprus are unlike other escorts in the sense that they are very passionate about the services they provide.",1337942957
+4022925,comment,4022789,4022890,2,0,jewbacca,,,"I'm not sure this will reflect well on Haskell that this is the most natural way I can think to write it.  But I can pretty much guarantee replicateM_[0] is the most generalizable idiom in this whole comments section.<p><pre><code>    replicateM_ 100 $ print ""Hello World!""
+</code></pre>
+It's pretty to me, damnit.<p>-----<p>[0] <a href=""http://hackage.haskell.org/packages/archive/base/latest/doc/html/Control-Monad.html#v:replicateM"" rel=""nofollow"">http://hackage.haskell.org/packages/archive/base/latest/doc/...</a>",1337942922
+4022924,comment,4022004,4022731,2,0,Kaizyn,,,"News is only free because the newspapers got into a war for eyeballs on the Internet. It is only now after they've had their businesses decimated that they realize that free content wasn't such a wise move on their part. There certainly isn't anything about free news that makes it a competitive advantage. If anything, it actually hurts them economically because they're giving away their product for nothing. No one sane runs a business on driving an increase in traffic.",1337942919
+4022923,story,,,6,3,eminemence,"Presenting The Worst Thing On The Internet: The Nokia Lumia Rap",http://techcrunch.com/2012/05/10/presenting-the-worst-thing-on-the-internet-the-nokia-lumia-rap/,,1337942893
+4022922,comment,4021957,4022461,6,0,dododo,,,"if it is a power law in the sense that a few companies return a lot, whilst most return a little, how does that make the mean irrelevant?<p>the mean of a power law of this form is more skewed by the few companies returning a lot than it is by the majority. assuming that more than 50% of the companies return a little, the median would be irrelevant, but the mean is very sensitive to outliers.",1337942874
+4022921,comment,4022789,4022899,2,0,lloeki,,,"> This is a specific case of the * operator, which is overloaded<p>It is not operator overloading in the strictest sense, but more of duck typing. In Python (and Ruby), operators are syntactic sugar for method calls on the first operand.<p>Operator overloading on the contrary suggests a function add(a, b) that reacts differently through polymorphism (i.e according to the types of its arguments).<p>The distinction is important as overloading and polymorphism simply do not exist in Ruby and Python, only overriding.",1337942871
+4022920,comment,4020885,4022051,2,0,NLips,,,"If you're using the odometer as a fuel gauge, surely volume becomes irrelevant for judging your range (excluding the tuning purposes)?
+e.g.
+My tank lasts 200 miles => I've gone 100 miles => I can go another 100 (top) before refilling.",1337942868
+4022919,comment,4022789,4022867,1,0,ajitk,,,"On the contrary, wouldn't OP's solution be an example of more generalized implementation of multiplication? I can see that it is similar to (X * 2) where X defines behavior of __mul__.<p>Yes, there is chance that arbitrary objects can provide different semantics for __mul__. It would be true for any language.",1337942835
+4022918,comment,4021755,4022898,1,0,cageface,,,"I think the really critical difference is that Apple and Microsoft can't tell me what ""apps"" I may or may not run on the web but they do demand this privilege on their mobile devices and seem to be making moves towards insisting on it on the desktop too.",1337942800
+4022917,story,,,1,0,DailyInfograph2,"Gripped on Climbing: How Safe is Rock Climbing ",http://www.cooldailyinfographics.com/2012/05/gripped-on-climbing-how-safe-is-rock.html,,1337942740
+4022916,story,,,1,0,Auguste,"Total Commander 8.0 released",http://www.ghisler.com/,,1337942740
+4022915,comment,4019861,4020062,1,0,Stares_at_You,,,"The most cursory glance at that pitch, and one fact shone out:<p>Cost to acquire customer: $0.55<p>Long term customer value: 5-7x of ""cost to acquire"".<p>Either my English comprehension is declining with age, or someone just shot themselves in the foot.<p>They list revenue of $2750 - 3850 for 1,000 customers.<p>That's ATROCIOUS. Groupon-land.<p>If that's the state of quality of companies, no wonder the whole market is crumbling.",1337942737
+4022914,story,,,2,0,newbow,"Looking for French developer Partner",,"Hi all,<p>Olivier and Julien are working on the development of an innovative website project to help French real estate market to become more transparent for the consumers. We have the operational, management and financial competence. But as a website project, we need a solid tecnical associate to manage the creation, design, integration, and back and middle office websites activities. We are looking for a person with at least 5 years developping experience(strong back office experience, a sound knowledge of algorithm) a basic knowledge of real estate is a plus.
+(33% each, by being equal, we will go further.) 
+Contact : olivier.maitre@free.fr",1337942681
+4022913,comment,4022789,4022867,1,0,430gj9j,,,"You're right, Python isn't beautifully minimal. But the Scheme version is boring ;)<p>Rather than asking the interview candidate to use recursion for a problem that shouldn't be solved using recursion (unless in a language where recursion is the idiomatic iteration method), it would be better to ask about a problem that is best solved using recursion rather than printing ""Hello world"" -- perhaps something from Project Euler (<a href=""http://projecteuler.net/"" rel=""nofollow"">http://projecteuler.net/</a>).",1337942672
+4022912,story,,,1,0,gracie2012,"Bankruptcy advice on how to fill bankruptcy forms",http://bankruptcyadvice4me.wordpress.com/2012/05/04/bankruptcy-last-way-out-of-the-debts/,,1337942646
+4022911,comment,4019861,4019861,1,0,tzury,,,"@piccsydaniel, may you release that framework so others can reuse it with their theme and data",1337942632
+4022909,comment,4019861,4019861,1,0,tzury,,,"@piccsydaniel, may you release that framwork so other can reuse it with their theme and data",1337942626
+4022908,comment,4022186,4022186,8,0,blibble,,,"the UK parliament basically does this already:<p>here's an example of an act that's been modified:
+<a href=""http://www.legislation.gov.uk/ukpga/Geo3/41/79?timeline=true"" rel=""nofollow"">http://www.legislation.gov.uk/ukpga/Geo3/41/79?timeline=true</a><p>and an example of a bill going through parliament:
+<a href=""http://services.parliament.uk/bills/2012-13/financeno4/documents.html"" rel=""nofollow"">http://services.parliament.uk/bills/2012-13/financeno4/docum...</a>",1337942580
+4022907,story,,,1,0,lucas1986,"	 The Big Bang Theory:The Complete Seasons 1-5 DVD Box Set",http://www.dvdtoponline.com/The-Big-Bang-TheoryThe-Complete-Seasons-1-5-DVD-Box-Set-DVDS-588.html,"A sitcom that shows what happens when hyperintelligent roommates/physicists Sheldon and Leonard meet Penny",1337942579
+4022906,comment,4021957,4022461,1,0,patrickk,,,"That's actually a great point. Even after reading those notes I still wouldn't have thought of applying the power law to my thinking about Facebook (I don't think Facebook will prove anything special long term but it's always useful to be critical in your thinking and consider multiple points of view).<p>As an aside, those notes are an incredible way of thinking about the world differently. I've gotten a lot out of it.",1337942536
+4022905,comment,4022789,4022902,1,0,user24,,,"Or just playing, like I was ;)",1337942463
+4022904,comment,4022789,4022882,1,0,lloeki,,,"He abstracted this loop:<p><pre><code>    for i in xrange(100):
+        statement
+</code></pre>
+into:<p><pre><code>   exec ""statement"" * 100
+</code></pre>
+The 'no exec' alternatives propose something not as generic since they can only print something a number of times.",1337942445
+4022903,comment,4021755,4022457,2,0,cageface,,,"But both Apple and Microsoft appear to be making moves to lock down the desktop too. In many cases I prefer native apps too but I don't like Apple or MS telling me what I can and can't install on my computer.",1337942385
+4022902,comment,4022789,4022841,1,0,f055,,,"Or go back to C and learn that recursion is not really used like that. If you know the limits beforehand, use ""for"". If you don't know how deep the processing will go, use recursion.<p>If you must code a loop without using ""for"" it means you're doing a homework ;)",1337942360
+4022901,story,,,1,0,zhiQ,"Japanese gaming giant DeNA to co-develop mobile social games with Terato Tech",http://www.greyreview.com/2012/05/25/japanese-gaming-giant-dena-to-co-develop-mobile-social-games-with-malaysias-terato-tech/,,1337942343
+4022900,comment,4015038,4018068,1,0,sneak,,,"Only for that point-in-time.  Nothing stopping it from serving backdoored JS _just to your IP_, or _just for five minutes that one time_.  Dynamic web app, remember? :)",1337942342
+4022899,comment,4022789,4022867,1,0,hythloday,,,"Huh? This is a specific case of the * operator, which is overloaded for type string to return a repetition of the string. The only ad-hoc in the example is the print statement, which is gone in 3.2.<p>How do you know the __mul__ operator overload for string is implemented with iteration?",1337942330
+4022898,comment,4021755,4022665,1,0,fauigerzigerk,,,"In my view, locked down desktops and web apps are just two different ways of taking away freedoms.<p>The difference is that web apps give you something in return. They allow you to run software without having to buy and support all the required hardware.<p>A desktop restricted to running apps from an App Store takes away freedoms without providing anything of any additional value for competent users.",1337942310
+4022897,story,,,1,0,donaldfank,"Cosmetology Jacksonville",http://opischoolofbeauty.com/,,1337942297
+4022896,story,,,1,0,tashmi,"Cheap health insurance California",http://www.ocinsured.com/,"Ocinsured.com is specializing in insurance products for Businesses, self-employed, individuals, and families. As your agent, it strives to help you select the product that is most beneficial for YOU. 
+For more information please visit: - http://www.ocinsured.com/",1337942270
+4022895,story,,,19,31,mattront,"Show HN: We are the same, app for practicing compassion",http://wearethesameapp.com,,1337942255
+4022894,comment,4022220,4022701,1,0,AznHisoka,,,"I would not outsource something that could account for 70 percent of my traffic. SEO is hard and there are few companies that can help you rise above the competition.",1337942255
+4022893,comment,4022029,4022872,2,0,LaRakel,,,"When there's obviously no neonazi intentions there's nothing wrong with swastikas. Red black and white are pretty basic colours, you can't suggest that either.<p>There's something wrong with the people who'd make such conclusion, and not self-censoring will help get rid of connotations.",1337942246
+4022892,comment,4021957,4022754,5,0,rjtavares,,,"I'm not even going into how they change official statistics arbitrarily on a particular time period, but the article itself says that ""Dividends are excluded, so the chart only shows capital gains. The dividend yield of the S&P is running near 2%.""<p>So, 1.9% above inflation plus 2% dividend yield, plus 2.3% current CPI, plus 2.7% ""shadow CPI"" (the number is from that article you posted) you get a 9% return. That means that facebook should be worth more, not less (since you are discounting at a lower rate).",1337942241
+4022891,comment,4022338,4022338,4,0,rmc,,,"More details about this flight and what it's doing <a href=""http://en.wikipedia.org/wiki/COTS_Demo_Flight_2"" rel=""nofollow"">http://en.wikipedia.org/wiki/COTS_Demo_Flight_2</a>",1337942204
+4022890,comment,4022789,4022789,2,0,quarterto,,,"100.times {puts ""Hello, world""}<p>I'm just sayin'.",1337942177
+4022889,comment,4022186,4022186,2,0,generateui,,,"I placed the 2010 Dutch Pirate Party (Piratenpartij) election program on Github. I try to elad by example: Set the example by the ""internet party"", then hopefully others copy & paste it.<p><a href=""https://github.com/generateui/VerkiezingsProgrammaPiratenPartij2010"" rel=""nofollow"">https://github.com/generateui/VerkiezingsProgrammaPiratenPar...</a>",1337942137
+4022888,comment,4022789,4022867,1,0,lloeki,,,"Well then you don't seem to know python and focus on some red herrings, because it's much more of the latter than the former. The example leverages general concepts such as duck typing and defining __mul__ for a string as doing something thoughtful.",1337942129
+4022887,comment,4022220,4022220,1,0,AznHisoka,,,"Though these are solid points I disagree writing compelling content is enough to garner links. First for some niches its rare for people to link to you, second by default you are a nobody.. Unless you already got tons of influencers who are subscribers or followers, most compelling content end up in a black hole.<p>I know google tells you differently but in most cases you have to be active and pimp your content. Like what Priconomics is doing here.",1337942127
+4022886,comment,4022789,4022789,2,0,valisystem,,,"A great answer to a similar problem here <a href=""http://stackoverflow.com/a/4583502/456341"" rel=""nofollow"">http://stackoverflow.com/a/4583502/456341</a>.<p>No loop, and <i>no conditional recursion</i>.<p>The flaw is to use arithmetic on stack function pointer, which is not recommended nor strictly defined.",1337942122
+4022885,comment,4022789,4022841,1,0,user24,,,"Here's a completely abstracted version, but I'm certain it's less clear to use ;)<p><pre><code>    function recurseBetween(initial, hasEnded, modify, callback) {
+      // Overwrite the callback with a recursive version:
+      var recursiveCallback = function(i) {
+        // Call the original callback
+        callback(i);
+        // If we're at the end, stop
+        if(hasEnded(i)) {
+          return;
+        } else {
+          // Else increment and recurse
+          recursiveCallback(modify(i));
+        }
+      };
+      // Start recursing with the start value
+      recursiveCallback(initial());
+    }
+</code></pre>
+Which transforms our for loop example to:<p><pre><code>    recurseBetween(function() {
+      return 1;
+    }, function(i) {
+      return i<=10;
+    }, function(i) {
+      return i++;
+    }, function(i) {
+      console.log(i);
+    });
+</code></pre>
+Which at first glance is unwieldy, but gives complete control to the calling script, such that we could do things like introduce a step:<p><pre><code>    recurseBetween(function() {
+      return 1;
+    }, function(i) {
+      return i<=100;
+    }, function(i) {
+      return i+=10;
+    }, function(i) {
+      console.log(i);
+    });
+</code></pre>
+Or even more exotic things.<p>In reality, this syntax is too complicated. I would probably introduce some helpers; eg you could pass in a straight integer <i>or</i> a function and it would deal with it. I'd also probably send the arguments as named parameters so the syntax looked like this instead:<p><pre><code>    recurseBetween({
+      'start': 1,
+      'end': 100,
+      'modify': function(i) {
+        return i+=10;
+      },
+      'callback': function(i) {
+        console.log(i);
+      }
+    });
+</code></pre>
+Which is a little clearer. Obviously the example is somewhat contrived because in reality you'd just use a for loop! But an interesting exercise nonetheless.",1337942121
+4022884,story,,,1,0,lezlow,"AN EDUCATION 2 B ,FACT OR FICTION.flv",http://www.youtube.com/watch?v=iHTmKax6BJg,,1337942118
+4022883,comment,4021497,4021497,2,0,lucian1900,,,"Wouldn't it be simpler to just only direct stdout to /dev/null and let cron capture stderr?",1337942113
+4022882,comment,4022789,4022871,2,0,resurge,,,"I wonder why 430gj9j added exec..<p><pre><code>  print ""Hello world\n""*100
+</code></pre>
+Would have worked just fine.",1337942104
+4022881,comment,4022789,4022867,1,0,masklinn,,,"> because you are using still a built-in language construct for looping.<p>That... makes no sense, the code is not looping anywhere.<p>And if you could somehow disqualify this bit, then recursion most definitely wouldn't qualify.",1337942103
+4022880,comment,4022789,4022862,1,0,TazeTSchnitzel,,,"Or just this:<p><pre><code>    print ('hello, world\n' * 100)[:-1]</code></pre>",1337942095
+4022879,comment,4022789,4022789,1,0,udp,,,"Or alternatively, ""how not to write a parser"".",1337942049
+4022878,story,,,1,0,salton12,"Jobs in Andhra Pradesh",http://topvizagjobs.com/1/andhra-pradesh-jobs/,"Are You Interested In Andhra Pradesh Jobs? The above question may look odd for someone, as to distinguish jobs by Indian States. But there is reason behind",1337942026
+4022877,comment,4022789,4022871,1,0,masklinn,,,"Or just<p><pre><code>    print ""Hello, World\n"" * 100
+</code></pre>
+No need for join either, and ends with a newline",1337942014
+4022876,comment,4022789,4022862,4,0,codeape,,,"Why the exec?<p><pre><code>    print ""Hello world\n"" * 100</code></pre>",1337941993
+4022875,comment,4018270,4022417,1,0,delian66,,,">>I'm sure the artist who just lost out on his 5 to 10 bucks would beg to disagree.<p>I'm sure that the artist getting a new fan, and becoming more popular <i>for free</i> is a very dangerous process indeed :-) ...",1337941988
+4022874,story,,,1,0,sandeep552,"Groupon Clone System- A Must Have",http://clone-of-groupon.typepad.com/blog/2012/05/groupon-clone-system-a-must-have.html,,1337941965
+4022873,comment,4019040,4019040,0,0,lucian1900,,,"> plenty of the Steve Jobs type of intuitive, delightful, empowering magic<p>Huh?",1337941919
+4022872,comment,4022029,4022680,3,0,datr,,,"It would be a cool poster but I'd change the colours. The swastika and very similar shapes appear a few times in it (which is understandable) but you're also using two out of the three colours from the nazi flag. I could see this potentially leading to awkward and hurried explanations.",1337941899
+4022871,comment,4022789,4022862,2,0,danielroseman,,,"I think a better Python version would be<p><pre><code>    print '\n'.join(['Hello world'] * 100)
+</code></pre>
+No need for exec.",1337941839
+4022870,story,,,1,0,cheeaun,"OpenWeb Icons",http://pfefferle.github.com/openwebicons/,,1337941751
+4022869,comment,4020210,4020666,2,0,LaRakel,,,"Also .aq and a few islands that are part of bigger countries.<p>Those little exceptions don't invalidate the rule, and the request won't get accepted.",1337941694
+4022868,comment,4021957,4022466,5,0,maigret,,,"No, that supports the point that looking at P/E alone is not enough. Searching for a spouse? Maybe you should not only look at her/his diplomas or music tastes alone.",1337941668
+4022867,comment,4022789,4022862,2,0,antirez,,,"that reminds me why I don't like Python. Ad-hoc tools (many) instead of a few general concepts working well together.<p>Btw at interview time this solution would not be acceptable, because you are using still a built-in language construct for looping.",1337941637
+4022866,comment,4022186,4022791,4,0,Lukeas14,,,"Problem is there isn't an efficient enough 'compiler'.  To see if a law works it has to be tested in court, a long, expensive process.",1337941635
+4022865,comment,4020063,4022238,1,0,tptacek,,,"Obviously great to know. Thanks!",1337941615
+4022864,comment,4021593,4022721,5,0,TazeTSchnitzel,,,"Software piracy.",1337941593
+4022863,comment,4022145,4022145,1,0,Shivetya,,,"What about, battletags do not obey real id preferences in your battlnet account? As in, I was in Diablo 3 beta. I joined numerous public groups.<p>Apparently anyone who was in those groups can now see if I play World of Warcraft, which server I am on, and even what zone I am in.<p>and there is nothing I can do about it. Zero, zilch, oh except buy Diablo 3 and change my settings from there because it can access features of my account the standard account management system cannot.",1337941563
+4022862,comment,4022789,4022789,1,0,430gj9j,,,"Python version:<p><pre><code>    exec ""print 'Hello world'\n"" * 100</code></pre>",1337941548
+4022861,comment,4019040,4021611,1,0,pirateking,,,"I enjoy using blocks in provided API, as well as writing some of my own private API with them. The code locality is very nice for many things like enumeration and animation.<p>As for notifying objects of state changes, all three methods are used. I use NSNotificationCenter if there will be multiple objects who may need to know about it, KVO as glue for the model and the view, and delegate messaging if there is only one object to notify.",1337941520
+4022860,story,,,20,1,giorgiofontana,"Interview with Sander Koppelaar (Silk)",http://www.web-target.com/en/case-studies/495-silk-semantic-web,,1337941519
+4022859,comment,4021957,4022383,8,0,maigret,,,"Yes, but as someone said, ""the market can stay irrational longer than you can stay solvent"".",1337941515
+4022858,comment,4019682,4019902,2,0,rrreese,,,"Objective C has been in heavy use for a lot longer then CoffeeScript though. CoffeeScript has only been stable for over a year. Objective C has been in use since before the creation of StackOverflow.",1337941435
+4022857,story,,,1,0,infobanc,"Custom Software Development Company ",," Synchronous is a software development firm providing Custom Software Development Services, software outsourcing, Offshore software development India, Customized Software Development Services, software development company in India.",1337941379
+4022856,comment,4022145,4022690,8,0,tptacek,,,"Just so you know, every variant of SRP is randomized, not just SRP6, and every variant of SRP has parameters that can to some extent be tweaked to provide variable work factors.",1337941313
+4022855,story,,,1,0,maggie198651,"How to copy and rip protected DVD on Mac?",http://www.alifesoft.com/blog/2012/5/How-to-copy-and-rip-protected-DVD-on-Mac.html,,1337941293
+4022854,story,,,1,0,jalbertbowden,"Sparklers - an animated GIF project by ryan enn hughes",http://www.designboom.com/weblog/cat/10/view/21195/sparklers-an-animated-gif-project-by-ryan-enn-hughes.html#.T79dG2PTDXE.hackernews,,1337941278
+4022853,comment,4022145,4022750,2,0,TazeTSchnitzel,,,"That or they just do `password.lower()`",1337941253
+4022852,comment,4022145,4022526,5,0,tptacek,,,"They're using SRP, which dictates that they're storing passwords (relatively) securely on their side. You don't have to guess; this stuff has been reversed.",1337941229
+4022851,comment,4022842,4022842,-1,0,Who828,,,"The power of the coconuts moves you !!",1337941221
+4022850,comment,4022145,4022621,2,0,TazeTSchnitzel,,,"There was a site I used where one password field was something like 20 chars max, the other was 50. So I could change my password but never log in with it.<p>That company was namecheap, if I remember rightly.",1337941216
+4022849,story,,,1,0,lelf,"Investor Compass by Startup Genome",https://www.startupcompass.co/investor,,1337941206
+4022848,story,,,1,0,iProject,"Friend Your Students? New York City Schools Say No",http://www.npr.org/blogs/alltechconsidered/2012/05/24/153610087/friend-your-students-new-york-city-schools-say-no,,1337941202
+4022847,comment,4022145,4022639,5,0,furyofantares,,,"I'm not sure how this is applicable here, if the attacker passes any of the tests then they are able to log in",1337941176
+4022846,comment,4022145,4022757,2,0,tszming,,,"For nonbinary strings (CHAR, VARCHAR, TEXT), string searches use the collation of the comparison operands<p>The default character set and collation are latin1 and latin1_swedish_ci, so nonbinary string comparisons are case insensitive by default.<p><a href=""http://dev.mysql.com/doc/refman/5.1/en/case-sensitivity.html"" rel=""nofollow"">http://dev.mysql.com/doc/refman/5.1/en/case-sensitivity.html</a>",1337941161
+4022845,comment,4022842,4022842,-1,0,kaiwren,,,"I'm not sure coconuts actually age. Do they?",1337941130
+4022844,story,,,2,0,anons2011,"Google's copyright complaints highlight Microsoft piracy",http://www.bbc.co.uk/news/technology-18204411,,1337941113
+4022843,story,,,1,0,faisee,"IPL 2012: Chennai vs Delhi Qualifier 2 Live Score ",http://www.asportsnews.com/cricket-news/ipl-2012/csk-vs-dd-live-score/ipl-2012-chennai-vs-delhi-qualifier-2-live-score-highlights-2012/#.T79bsphkEhA.hackernews,,1337941054
+4022842,story,,,3,2,tdinkar,"Happy Birthday Jasim",,"It's Jasim's Birthday!!! Please upvote!",1337941051
+4022841,comment,4022789,4022789,2,0,user24,,,"Decent enough explanation of recursion.<p>Why not take it further and produce a more general solution?<p>In JavaScript I'd write something like this:<p><pre><code>    function recurseBetween(start, end, callback) {
+      // Create a recursive function
+      // which checks the limits and calls the supplied callback
+      var recursiveCallback = function(i) {
+        // Call the original callback
+        callback(i);
+        // If we're at the end, stop
+        if(i >= end) {
+          return;
+        } else {
+          // Else increment and recurse
+          recursiveCallback(++i);
+        }
+      };
+      // Start recursing with the start value
+      recursiveCallback(start);
+    }
+</code></pre>
+Now you can use recurseBetween almost exactly as you would a for loop:<p><pre><code>    recurseBetween(1, 10, function(i) {
+      console.log(i);
+    });
+</code></pre>
+You could even abstract the start and max arguments as callbacks, and you could supply a callback to perform the increment too so that you're not limited to integral addition.",1337941011
+4022840,comment,4022220,4022753,6,0,ssharp,,,"Here is a Matt Cutts article saying that it doesn't really matter:<p><a href=""http://www.mattcutts.com/blog/subdomains-and-subdirectories/"" rel=""nofollow"">http://www.mattcutts.com/blog/subdomains-and-subdirectories/</a>",1337940945
+4022839,comment,4021755,4022453,3,0,fauigerzigerk,,,"What would be news is if Microsoft is moving from growing their platform to milking it for cash. I think you can see some of that in many of their decisions.<p>But there's another, more plausible, explanation for this particular move. They want people to create Metro apps and making it cheaper to do that creates an incentive.",1337940915
+4022838,story,,,1,0,iProject,"Old Media v. New: Takeaways from paidContent 2012",http://paidcontent.org/2012/05/24/5-key-takeaways-from-paidcontent-2012/,,1337940910
+4022837,comment,4022004,4022412,1,0,brc,,,"This is true, but assembling news is peanuts compared to assembling operating systems in terms of time necessary.<p>And lots of people like to write operating systems for free.  That's because interesting work has a non-monetary reward built in.<p>Lots of bloggers write well researched and very interesting topics essentially for free.<p>I agree the ignorance of crowds and the free spread of rumors is not substitute for quality information and analysis, but I don't necessarily agree a monolithic newspaper is the only way to get it.<p>Newspapers were all about owning the distribution channel.  Now that is gone, so the newspapers themselves will go.",1337940908
+4022836,comment,4018274,4021220,1,0,Morg,,,"Indeed, it's more my personal current state > i read too much and do not produce enough, I do learn a lot but that's not enough to keep me satisfied.",1337940894
+4022835,story,,,1,0,abava,"Mobile Geo Chat",http://servletsuite.blogspot.com/2012/05/mobile-geo-chat.html,,1337940886
+4022834,comment,4022210,4022210,1,0,Toshio,,,"Interesting.
+What benefits would this give me over Twitter's Bootstrap?",1337940873
+4022833,comment,4022004,4022004,2,0,johnyzee,,,"There has never been much money in selling news, the value is in controlling public perception, which is unbelievably valuable, and which is why the owners of the largest newspapers and news agencies don't care if they run at razor thin margins or (as is often the case) losses, it is all about controlling the information channel.<p>This is somewhat less obvious today with the competition from many other open channels of information, but newspapers used to be absolute kingmakers. In the time around World War I they were even used by arms manufacturers in collusion with finance and state actors to drive the arms race in the run-up to the war.",1337940850
+4022832,story,,,1,0,tomclaus,"NASATV Docking ISS with Dragon",http://www.ustream.tv/nasahdtv,,1337940798
+4022831,comment,4020222,4020506,1,0,MortenK,,,"I think the problem is with the software you are developing rather then the IDE. If it is taking you hours to compile, there is something very wrong. I recently worked on a couple of 1 mill+ loc projects made up of more than 100 projects in a solution, which compiled in a few minutes.",1337940796
+4022830,comment,4019482,4019761,0,0,dsirijus,,,"I'm not are you aware of it, but you should pivot your start-up to something more in the lines of computer/bed/workplace/food sharing thingie for young enterpreneurs. And they pay you by their coding/designing man-hours (which you use to further your initial startup idea).<p>As I've similarly leeched for 2-3 weeks at my companies infrastructure with 5 china shop shirts/undies/pants, I relate and kudo you.",1337940766
+4022829,comment,4022338,4022749,1,0,jurjenh,,,"Another test done, now for a hold at 235m.<p>Does anyone know why this has been changed? I'd hazard a guess at dragon being slightly off the target position (slightly northwest), but haven't heard any commentary about why this may be.<p>I thought the planning and preparation would have some allowance for slight discrepancies, so are the changes to the planned points (220m to 250m) a part of this procedure, or would these ""deltas"" be a reactive response to real life?",1337940752
+4022828,comment,4022386,4022536,1,0,nshankar,,,"It was probably 2007. A lot of water has passed through Digg. Again, Digg was more-or-less link->comments story.
+On HN, ""ask HN"", ""Show HN"" are my fav reads.",1337940746
+4022827,story,,,1,0,ajhit406,"Chip Transmits 1000x Faster than Bluetooth (2Gbit/s)",http://www.zdnetasia.com/spore-develops-chipset-for-fast-data-transfer-62304900.htm,,1337940738
+4022826,comment,4020769,4022678,1,0,exim,,,"Yes, that is already on my list, after I complete the compilers class from Coursera. Although the bad side of these kind of courses is that not all of the domains are interesting to everyone, e.g. I almost fell in sleep when Norvig talked about Poker rules :)",1337940697
+4022825,comment,4019200,4022615,1,0,adrianhoward,,,"<i>very true. i think there's a feeling with those guys that the work is inevitably dwindling away, but if they can ride the gravy train until retirement then they'll be just fine. It's a bit of a gamble that the work won't run out, leaving them with a skill that's no longer used.</i><p>Heh. 20 years ago COBOL was seen in the same legacy ""nobody uses it"" way it is now :-) I guarantee those two would make the same decision again today - and they'd be right.<p>The gravy train is only just getting started. COBOL will not go away in my lifetime. People are still writing <i>new</i> COBOL code - and there are fewer skilled COBOL devs out there.  There are millions of lines of business critical COBOL running out there in the world.<p>Usually in businesses that are bright enough to realise that rewriting business critical systems is <i>far</i> more risky than  maintaining the existing code (e.g. I was told a few years ago that one particular Large Financial Organisation had taken on an in-house compiler team to reduce the risk of their system becoming unsupportable in the future.)",1337940669
+4022824,story,,,2,0,robfitz,"How to do (and what to expect from) early customer development and sales",http://hackfwd.tumblr.com/post/23669383330/rob-fitzpatrick-how-to-do-early-customer-development,,1337940643
+4022823,comment,4019482,4022777,3,0,ktizo,,,"This isn't as cut and dried as you might think. Many countries, such as Spain, have an opt-out rather than an opt-in process for organ donation.",1337940622
+4022822,comment,4021957,4022547,2,0,rjtavares,,,"Basing a valuation on IPO statistics is not an industry standard valuation technique. For an industry standard valuation technique, check Damodaran's analysis made well before the IPO: (<a href=""http://www.aswathdamodaran.blogspot.pt/2012/02/ipo-of-decade-my-valuation-of-facebook.html"" rel=""nofollow"">http://www.aswathdamodaran.blogspot.pt/2012/02/ipo-of-decade...</a>)<p>His price was $28.",1337940573
+4022821,comment,4022145,4022718,-1,0,furyofantares,,,"Unless the list of accounts you want to crack is tiny, a brute force attack easily gets around per-account rate limiting by simply switching to a different account before tripping it and coming back to the account later.",1337940564
+4022820,comment,4022145,4022529,4,0,tptacek,,,"You can't do a timing attack against a password hashed serverside, since you don't control the string being compared enough to make iterated byte-at-a-time changes.<p>Even if I'm misunderstanding, though, this particular remote timing attack is probably <i>not</i> practical in most programming environments; (for instance) straight C memcmp is below the measurement floor, even with signal processing.<p>That is a great paper; also, check out Crosby and Wallach for the modernized, math-ier take; with signal processing, the measurement limits are nanoseconds on a switched LAN (ie, if you could get a box deployed in the same hosting center as Blizzard) and <i>tens of milliseconds</i> over the Internet:<p><a href=""http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.65.9811"" rel=""nofollow"">http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.65.9...</a><p>... and Nate Lawson's Black Hat talk which actually goes through the practical issues trying to set up and run these attacks against real systems:<p><a href=""http://www.youtube.com/watch?v=A0T8o-Aq3yY"" rel=""nofollow"">http://www.youtube.com/watch?v=A0T8o-Aq3yY</a>",1337940560
+4022818,comment,4022029,4022156,3,0,sparknlaunch12,,,"That makes sense. Thanks for the explanation.",1337940485
+4022817,comment,4022338,4022338,1,0,yread,,,"It's moving 5cm/s very carefully",1337940309
+4022816,story,,,1,0,twapi,"URLs blocked by Indian ISP Reliance",http://pastehtml.com/view/bz8kycy0o.html,,1337940260
+4022815,comment,4022386,4022585,1,0,nshankar,,,"please send me access - nitin.nanivadekar at gmail",1337940214
+4022814,story,,,1,0,RazvanGirmacea,"Chrome Web Store  Monitor Backlinks | Monitor Backlinks Blog",http://blog.monitorbacklinks.com/seo/chrome-web-store-monitor-backlinks/,,1337940122
+4022813,story,,,1,0,fsquarefashion,"Bol Bachchan First Theatrical Trailer – Abhishek with Ajay",http://fsquarefashion.com/bol-bachchan-first-theatrical-trailer-abhishek-with-ajay/,,1337940120
+4022812,story,,,1,0,marketest,"Building a Brand for Your Small Business",http://www.marketest.co.uk/blog/index.php?page=business&idn=398,,1337940115
+4022811,comment,4022386,4022613,1,0,nshankar,,,"this is a good suggestion.",1337940094
+4022810,comment,4016661,4018216,1,0,jekub,,,"> So yes, without copyright, there would be no GPL. But without copyright, we would not have most of the problems the GPL is trying to solve.<p>The main problem GPL is trying to solve is to keep code free and this problem wasn't created by copyright. In a society without copyright it would be even more difficult to keep code free.<p>Copyright just allow you to claim some right over the code you produce. In a society without copyright you would not be able to make this claim so, if you publish your code it will be free, but :
+  - nothing force you to publish your code, you can keep it for yourself and just distribute binary ;
+  - nothing force other people to distribute there modifications of some free code.<p>Copyright is what allow you to say ""this code should be and remain free"", the only alternative in the view of the GPL and FSF should be a law who say ""all code should be free and remain free"" or something like this.<p>(just to be clear, I'm not a partisan of the GPL but this is my understanding of it)",1337940042
+4022809,story,,,1,0,180fusion01,"Guaranteed SEO",http://www.thenewcomers.co/56121/guaranteed-seo-is-not-always-a-dirty-word/,"The honest guaranteed SEO need to carefully make use of the beneficial tools to promote the sales that guaranteed SEO packages. Moreover, the abstract or vague promises  not only implies the accomplishment that pragmatism is highly invaluable quality in guaranteed SEO providers guarantees satisfaction with the best investment returns.",1337940020

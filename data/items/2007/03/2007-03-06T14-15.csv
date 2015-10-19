@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2575,comment,2253,2255,0,0,juwo,,,"by skin in the game, I am talking investment or some way they can have pain. To avoid irresponsible advice.",1173191400
+2574,story,,,1,0,Elfan,"Conscious spending: How my friend spends $21,000/year on going out",http://www.iwillteachyoutoberich.com/blog/conscious-spending-how-my-friend-spends-21000year-on-going-out,,1173191040
+2573,comment,2572,2572,0,0,juwo,,,"Observing this newsgroup, I see at least a few things in this experiment:<p>1) Release Early, Release Often.
+I am certain the programmer who wrote it is a better, more intelligent, more competent programmer than I.
+IMHO there are so many irritations with this software because it was released prematurely. Even Paul Graham says it is bare-bones. Yet people keep coming back. In spite of it. It's because of the benefit of chatting at a high quality watering hole for entrepreneur elephants.<p>2) The UI is very different from the traditional newsgroup interface. If you are making people do things differently, then the benefit should be extraordinary (Weinberger?). I am realizing this for myself. (See 
+http://juwo-works.blogspot.com/2007/03/i-need-your-advice-startup-failing.html)<p>3) Did they have to write this from scratch - was it the right strategy. Couldnt they have built on top of some open source newsgroup code?
+",1173190893
+2572,story,,,2,6,juwo,"Is news.YCombinator an interesting test bed for software startup philosophies?",,,1173190519

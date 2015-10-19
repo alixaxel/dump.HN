@@ -1,0 +1,35 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+284694,comment,284549,284549,0,0,baha_man,,,"Link to the report:<p>Current Analysis and Future Research Agenda on ""Gold Farming"": Real-World Production in Developing Countries for the Virtual Economies of Online Games<p><a href=""http://www.sed.manchester.ac.uk/idpm/research/publications/wp/di/di_wp32.htm"" rel=""nofollow"">http://www.sed.manchester.ac.uk/idpm/research/publications/w...</a>",1219510784
+284693,comment,283908,284174,0,0,NewWorldOrder,,,"I believe that when 37signals created Basecamp it was for internal use. They built it for themselves.  As time went on other small consulting firms (possibly that 37s knew) saw it and thought it was useful.  From that point, Basecamp just continued to grow in popularity.<p>When nobody knows you or your startup do you really need a closed beta??",1219510712
+284692,comment,284618,284618,0,0,nostrademons,,,"It's funny, 2 months after I give up on GameClay (partially because of performance issues in the prototypes), this comes out.  Maybe I should go back to it.  Well, that's why I chose not to open-source the code and my cofounder's hanging on to the domain names.<p>Though any application to games needs to get over the fact that 90% of the casual game market still uses IE...",1219510592
+284691,comment,283067,283674,0,0,ivankirigin,,,"I'm not sure it's legal to put an exclamation point after ""sigh""",1219510382
+284690,comment,284549,284549,0,0,kajecounterhack,,,"The only thing I fear is the health of those poor chinese workers' eyes...not to mention their overall well-being.<p>They might be better off doing labor work and going gold-farming only when they're too old to do labor.<p>Thats not to say I'm happy that they're stuck 
+with these options, I'm chinese also and I
+feel for the 240 million impoverished Chinese....",1219510298
+284689,comment,284654,284674,0,0,pedalpete,,,"so that sad and unfortunate thing seems to be that we all keep falling for it. And the more we comment, the more people are baited...ooopps, my bad :(",1219510258
+284688,story,,,1,0,technologizer,"New iPod Nano? Sure. This One? I'm Skeptical",http://technologizer.com/2008/08/23/new-ipod-nano-sure-this-one-im-skeptical/,,1219510141
+284687,comment,284677,284677,0,0,michael_dorfman,,,"#3 is strange-- it claims that there's no such thing as a wrong metric, and then provides an example of a wrong metric (which they suggest no longer tracking).",1219509948
+284686,story,,,1,0,kimboslice,"I Can't Get My iPhone Dev Account Regsitered - WTF. 3+ Weeks?",http://ryanspoon.com/blog/2008/08/23/attention-apple-ive-been-waiting-in-iphone-dev-center-for-weeks/,,1219509810
+284685,comment,284595,284669,0,0,silentbicycle,,,"A vertical split is useful if you have, for example, a full-screen terminal window and a large monitor. It's not generally useful to have a terminal window 200+ characters wide.<p>A tiling window manager (e.g. dwm, xmonad) is often a better solution here, but it's good to have the option in screen itself.",1219509592
+284684,comment,283889,283889,0,0,vito,,,"Ok, now it's extra useful:<p><pre><code>    paste () {
+            (pbpaste | curl -s -F ""sprunge=<-"" http://sprunge.us | xargs echo -n && echo -n ""?""$1) | pbcopy;
+    }
+</code></pre>
+Usage: `paste <lang>`<p><pre><code>    fpaste () {
+        (cat $1 | curl -s -F ""sprunge=<-"" http://sprunge.us | xargs echo -n && echo -n ""?""$2) | pbcopy;
+    }
+</code></pre>
+Usage: `fpaste <file> <lang>`<p>Pardon the lack of bash skills.",1219509188
+284682,story,,,19,22,iamelgringo,"Django 1.0 Documentation",http://docs.djangoproject.com/en/dev/,,1219508758
+284681,comment,284678,284678,0,0,nostrademons,,,"Counterpoint: <a href=""http://bramcohen.livejournal.com/4563.html"" rel=""nofollow"">http://bramcohen.livejournal.com/4563.html</a>",1219508683
+284680,comment,284657,284670,0,0,ichverstehe,,,"Well. And in that case, how would Google Docs be superior to Keynote/PowerPoint? Then it's just a third system that needs to be working, right?",1219508595
+284679,story,,,9,0,gtani,"JavaFX preview SDK: he likes it",http://www.techper.net/2008/08/22/javafx-is-dead-long-live-javafx/,,1219508503
+284678,story,,,22,19,gtani,"In Defense of C",http://girtby.net/archives/2008/8/23/in-defence-of-c,,1219508273
+284677,story,,,6,3,tortilla,"What Startups Can Learn From Billy “Moneyball” Beane",http://gigaom.com/2008/08/23/what-startups-can-learn-from-billy-beane-and-moneyball/,,1219508223
+284676,story,,,9,2,gtani,"Joel re: exceptions.  Nyet",http://littletutorials.com/2008/08/23/bad-advice-on-exceptions-from-joel/,,1219508207
+284675,comment,284417,284646,0,0,ivankirigin,,,"Then it's hilarious",1219507852
+284674,comment,284654,284654,0,0,brm,,,"What everyone is missing is that this is his linkbait for his boring site :)  Look at his submissions, they're all from the same site",1219507724
+284673,story,,,2,0,ajbatac,"How to track down the source of Aborted_connects",http://www.mysqlperformanceblog.com/2008/08/23/how-to-track-down-the-source-of-aborted_connects/,,1219507549
+284672,comment,284618,284618,0,0,KirinDave,,,"Has anyone run a comparison between this new engine and SquirrelFish yet? It seems to me like two major ideas are competing:<p>1. Better JIT for interpreters.
+2. Faster interpreters, period.<p>I'm really curious to see which has the faster ramp-up and which has the best end-game results.",1219507383
+284671,comment,284654,284667,0,0,iamdave,,,"Right on the money.",1219507242

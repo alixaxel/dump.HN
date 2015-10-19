@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+52502,comment,52337,52337,0,0,jsackmann,,,"This is such a wonderful article.  Since I first found it on PG's site several months ago, I come back and read it about once a month.  Not only is it a good motivator to stay after whatever I'm working on, it's also a great way to make sure I'm working on what I'm interested in.  Without fail, it makes me focus on what I really should be doing, which, sadly, is not always what I AM doing.",1189356582
+52501,story,,,14,14,robg,"What SAT Scores Say About Your Hedge Fund",http://www.nytimes.com/2007/09/09/business/yourmoney/09stra.html?ex=1346990400&en=23f822b1020865e1&ei=5090&partner=rssuserland&emc=rss,,1189356329
+52500,story,,,6,1,jyrzyk,"The Dark Side: What we have lost to light pollution",http://www.newyorker.com/reporting/2007/08/20/070820fa_fact_owen?printable=true,,1189355455
+52499,story,,,8,1,kkim,"Polymers are forever (scroll down to the excerpt)",http://www.npr.org/templates/story/story.php?storyId=14194915,,1189355290
+52498,comment,52487,52487,0,0,thomasptacek,,,"Also: stunningly bad exposition on ""salt"" values. A salt is a public nonce. Each password hash should have a different salt. An attacker shouldn't be able to construct a ""your-salt"" rainbow table to crack all the passwords on your machine; she should have to constrct N rainbow tables, for each of the passwords.
+",1189354727
+52497,comment,52487,52487,0,0,thomasptacek,,,"Correction: passwords are routinely stored in plain text (or reversably encrypted); there are a variety of challenge-response protocols that you can't run if all you have is the hash. It's a tradeoff; what do you care more about, passwords at rest or passwords in motion?
+",1189354043
+52496,comment,52251,52251,0,0,jgrahamc,,,"I agree with PG on this.   I'm trying to fix this problem with Wildfire: <a href=""http://www.jgc.org/blog/2007/09/problems-with-social-news.html"" rel=""nofollow"">http://www.jgc.org/blog/2007/09/problems-with-social-news.ht...</a><p>John.
+",1189353823

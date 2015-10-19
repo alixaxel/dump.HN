@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+100247,comment,100176,100176,0,0,sutro,,,"Despite having read this many times, I never tire of it. Reminds me of another classic, ""The Graphing Calculator Story.""<p><a href=""http://www.pacifict.com/Story/"" rel=""nofollow"">http://www.pacifict.com/Story/</a>",1200650383
+100246,comment,100039,100039,0,0,mwerty,,,"Something oddly rails-ish about the site.",1200649270
+100245,comment,100245,99805,0,0,thomasfl,,,"Ruby seems to be more than fast enough, but Rails and ActiveRecord is slow.",1200649146
+100244,comment,100000,100223,0,0,mojuba,,,"True, but in classical Pascal they should go in particular order, and that's what K. is complaining about (no wonder), while for Turbo/Object the order is not important. That was a purely syntactic obstacle and nothing serious.",1200648492
+100243,comment,100175,100216,0,0,jpbf,,,"Sure the guy is academically merited. But it's not the first time he compares apples to pears.<p><a href=""http://dlweinreb.wordpress.com/2007/12/31/object-oriented-database-management-systems-succeeded/"" rel=""nofollow"">http://dlweinreb.wordpress.com/2007/12/31/object-oriented-da...</a><p>This everything must be a RDBMS viewpoint seem rather rigid.",1200648387
+100242,comment,100126,100126,0,0,cstejerean,,,"This is unfortunately the case with automated vulnerability scans. And while it's true that XSS can't be used to hack the SERVER it's still a major concern for two reasons:<p>1. the user's data is still at risk due to client side attacks
+2. lack of attention paid to validating user input could mean that other more serious problems are likely to occur as well (like SQL injection)",1200648147
+100241,comment,100139,100171,0,0,yters,,,"I wish the emacs macro system was easily Turing complete, but  that must open a can of worms or something.  I like the notion of writing a program as I do an action, but the macros don't really have control structures built in.",1200647667
+100240,comment,100045,100045,0,0,akkartik,,,"Stronger: <a href=""http://scrapbook.akkartik.name/post/16834044"" rel=""nofollow"">http://scrapbook.akkartik.name/post/16834044</a>",1200647407
+100239,comment,100091,100091,0,0,ntoshev,,,"I am not sure resolution is the only reason. LCDs emit their own light, paper just reflects light and is much gentler for the eyes because of this.",1200647362
+100238,comment,100238,99966,0,0,yters,,,"Recommend any of those books? and would you mind sharing what your best feeds are?",1200647338

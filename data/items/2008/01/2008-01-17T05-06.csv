@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+99658,story,,,3,0,raghus,"My Friend Flickr: A Match Made in Photo Heaven (Library of Congress Blog)",http://www.loc.gov/blog/?p=233,,1200549195
+99657,story,,,1,0,nreece,"Monkey Brains In US Makes Robot Walk In Japan",http://www.informationweek.com/internet/showArticle.jhtml?articleID=205801020,,1200548786
+99656,story,,,22,32,pchristensen,"Are You This Agile? Paul Graham Changes Hacker News While You Wait",http://www.pchristensen.com/blog/articles/are-you-this-agile-paul-graham-changes-hacker-news-while-you-wait/,,1200548570
+99655,story,,,23,8,vlad,"YC Startup Loopt Launches Location Applications Platform",http://www.techcrunch.com/2008/01/16/loopt-launches-mobile-social-networking-application-platform/,,1200548347
+99654,comment,99595,99595,0,0,joshwa,,,"Wow, are techcrunch comments the new youtube comments?",1200548122
+99653,comment,99351,99429,0,0,angstrom,,,"P.S. Don't forget your towel",1200547852
+99652,comment,99194,99194,0,0,pmr,,,"rdiff-backup locally; duplicity onto an rsync.net system.",1200547719
+99651,comment,99632,99632,0,0,Alex3917,,,"""Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)""",1200547601
+99650,comment,99464,99464,0,0,aditya,,,"What is wrong with these python people?<p>Just because they are given no options by their language of choice and are forced into following strict and arbitrary rules, they think a language that provides options is 'unclean' and 'messy'.<p>What is wrong with a language that lets you express yourself in whichever way seems most intuitive to you? The only thing that comes to mind is future maintainability when the code changes owners.<p>tim-toady all the way.<p></flamebait>",1200547556
+99649,comment,99595,99646,0,0,reitzensteinm,,,"It just uses EC2/S3 to push off excess bandwidth.<p>Bandwidth from a company like Alpha Red works out to about 3 cents/gigabyte if you buy it in 50 megabit per second chunks, or 6 cents/gigabyte if you buy it in 4tb per month chunks.<p>S3 is 18 cents/gigabyte.<p>Megabit per second is cheaper if you can keep it at 50% utilization, so baseline bandwidth is actually quite cheap. You'd be crazy to be that bandwidth intensive and pay 18 cents/gig for all your traffic. It adds up quickly.",1200547202
+99648,comment,99447,99638,0,0,mechanical_fish,,,"Um, there are lots of pictures of Britney that are copyrighted and therefore technically illegal to distribute over a network, except for purposes protected by fair use. Indeed, I'm sure that <i>most</i> of her pictures are under copyright. Do you know of any CC-licensed Britney videos?<p>Whether or not anyone still intentionally downloads B.S. photos is another matter... but, you know, law professors don't tend to be teenagers. They don't keep up with these things.",1200546532
+99647,story,,,2,0,nickb,"Worse is better",http://en.wikipedia.org/wiki/Worse_is_better,,1200546302
+99646,comment,99595,99595,0,0,rontr,,,"I don't think running your own software on EC2 qualifies as building a CDN.",1200546219
+99645,story,,,3,0,nickb,"Beauty of Ruby",http://www.infoq.com/presentations/beauty-of-ruby-vanderburg,,1200546218
+99644,story,,,10,2,nickb,"xkcd - Compiler Complaint",http://xkcd.com/371/,,1200546172

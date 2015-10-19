@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+17388,story,,,3,0,iamwil,"Yahoo pig and google sawzall",http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html,,1177682223
+17387,story,,,5,3,mattjaynes,"Akamai Releases FoxTorrent 1.0 - Firefox BitTorrent Add-on",http://www.techcrunch.com/2007/04/27/akamai-releases-foxtorrent-10-firefox-bittorrent-add-on/,,1177682049
+17386,comment,17330,17330,0,0,pageman,,,"7. local shortcodes in international locations. i.e. twitter now has a shortcode in .ph - 8990, they make money everytime someone sends an SMS",1177681930
+17385,comment,16603,16603,0,0,pageman,,,"get someone to mentor you?",1177681574
+17384,comment,17325,17325,0,0,mojuba,,,"I wonder if it's not an outsourced Oracle employee who is not even aware of what company he works for.",1177681554
+17383,comment,17357,17357,0,0,nostrademons,,,"Joy's Law: ""No matter who you are or what company you run, the majority of smart people do not work for you.""",1177681554
+17382,comment,17138,17196,0,0,cyu,,,"I understand the legal point, but I don't think incorporating should be a barrier to building another application.  I wouldn't be afraid of pursuing different web 2.0 apps under the same company, but would definitely consider a spin off if one became successful.",1177680972
+17381,comment,17112,17112,0,0,bls,,,"I use a Lenovo T60 running Windows XP, with Ubuntu 6.10 running in a VMWare virtual machine. VMWare Workstation is really cheap and VMWare Player is free. You can find many preconfigured Linux virtual machines on VMWare's website.<p>Power management and battery life in particular suck on Linux.  Even if you can get it to actually work (lots of Googling + configuring) you will get at best 2/3 of the Windows battery life. Plus, I don't have a lot of faith in the quality of the suspend-to-disk functionality in any flavor of Linux.",1177680359
+17380,comment,17379,17379,0,0,ginn,,,"Now that we know which Y combinator members were accepted into the Y combinator program, LightSpeed, and TechStars.  Let's see who got into Highland.  Anyone get the interview call this week yet?",1177680291
+17379,story,,,1,1,ginn,"Who got interviewed by Highland?",,,1177680219
+17378,story,,,2,3,mattjaynes,"Y Combinator and CRV Quickstart Compared",http://buzzboston.wordpress.com/2007/04/27/i-know-y-combinator-and-crv-quickstart-you-are-no-y-combinator-it%e2%80%99s-hard-to-change-your-stripes/,,1177679292

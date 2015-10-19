@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32141,comment,32085,32085,0,0,dpapathanasiou,,,"Has your position changed regarding single founders, or is it still a case of single founders need not apply?",1183412925
+32140,comment,32052,32136,0,0,mattculbreth,,,"No not really.  Netvibes is a bit off as are things that work advanced JavaScript.  I'm sure they'll release some updates but it seems that it's got a couple holes here and there.",1183412833
+32139,comment,32088,32092,0,0,lizherring,,,"EC2 is not suitable for most Web applications:<p>- You don't get a static IP address, so if your instance fails and needs to reboot, you might end up with a different IP address. <p>- If your instance fails, it also loses all the data stored in it.<p>- There is no hardware load balancing. <p>With that said, you can probably use it to complement your other servers by doing some of the batch processing. ",1183412609
+32138,story,,,5,3,aaroneous,"Facebook Age Distribution (useful for those of you thinking of making a Facebook App)",http://avc.blogs.com/a_vc/2007/07/the-facebook-ag.html,,1183412455
+32137,comment,32088,32090,0,0,pg,,,"I don't think it would be smart to include hosting in an incubator.  We made a conscious choice not to.  <p>(a) Economically hosting is a commodity. It's not an area where we can add any special value.  We don't do hosting for the same reason we don't supply office or living space: it's better for founders just to buy these on the open market.<p>(b) Hosting is a technical problem, which it's good for founders to have to solve.  We're happy to deal with all the paperwork of incorporation, because you really don't have to know about that stuff to run a company.  (I haven't read half our legal documents myself.)  But startups do have to understand how to manage servers.",1183412219
+32136,comment,32052,32083,0,0,spiralhead,,,"""Good news, everybody! Now you have to make sure your site works on another platform!""<p>The iPhone ships with Safari, doesn't it? So if you're app works on Safari it should work on the iPhone",1183412204
+32135,comment,32053,32059,0,0,donna,,,"thanks for the tip, useful.",1183412034
+32134,comment,32076,32076,0,0,tim_sw,,,"any improvements that you guys can think of for this add-on? what else would make your life easier when using Scribd.com?<p>Tim",1183411936
+32133,comment,32079,32079,0,0,donna,,,"What comes to mind initially:
+The start up has to have a clear intention:
+-demonstrates clarity in the unique tasks that need to happen 
+-demonstrates trust in that others are creatively capable in doing specific tasks independently
+-demonstrates the simplest process for arriving to first prototype to be tested by users",1183411592
+32132,comment,32082,32131,0,0,mattculbreth,,,"and thanks",1183411225
+32131,comment,32082,32082,0,0,mattculbreth,,,"mattculbreth AT gmail DOT com",1183411208
+32130,comment,32129,32129,0,0,rokhayakebe,,,"Email us at cribornament at gmail dotcom",1183410723
+32129,story,,,1,1,rokhayakebe,"Like J2me, wap, sms, IVR etc..? We are looking for a mobile startup co-founder?",http://cribornament.com,,1183410650
+32128,story,,,9,1,abstractbill,"Marc Andreessen on Ning",http://blog.pmarca.com/2007/07/why-ning.html,,1183410643
+32127,comment,32044,32061,0,0,rokhayakebe,,,"Not too bad centercode. Thank you Merlot.",1183410384
+32126,comment,32044,32062,0,0,rokhayakebe,,,"Yospace is really cool. thank you",1183410336
+32125,story,,,5,0,jgrahamc,"The Long Tail of Facebook Applications",http://www.jgc.org/blog/2007/07/long-tail-of-facebook-applications.html,,1183410242
+32124,comment,32044,32060,0,0,rokhayakebe,,,"Nice. but cost too much. Thanks for the link.",1183410165
+32123,comment,32044,32065,0,0,rokhayakebe,,,"thank you. That would be nice but it doesn't test the functionality from one operator to the other.",1183410074

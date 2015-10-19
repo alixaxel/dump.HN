@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+17861,story,,,1,0,sharpshoot,"Lessons from scaling MySpace (inside Myspace.com)",http://www.baselinemag.com/article2/0%2C1397%2C2082921%2C00.asp,,1177847612
+17860,story,,,3,0,gibsonf1,"Virtual becomes reality at Stanford",http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/04/29/MNGFPPGVPF1.DTL,,1177847606
+17859,story,,,1,0,gibsonf1,"Improving citizen tech in the city by the bay [video with ad]",http://video.zdnet.com/CIOSessions/?p=130,,1177846992
+17856,story,,,1,0,gibsonf1,"Enhanced Virtualization on Intel Architecture-based Servers [pdf]",http://www.intel.com/business/bss/products/server/virtualization_wp.pdf?ppc_cid=EntMul1H07us_229,,1177845837
+17855,story,,,5,1,kevinrose,"Common Lisp lexical closure [video]",http://www.youtube.com/watch?v=HFhPot-bgtI,,1177845756
+17854,story,,,1,0,gibsonf1,"VMware IPO could raise $100 million",http://news.com.com/VMware+IPO+could+raise+100+million/2100-1012_3-6180017.html?tag=nefd.top,,1177845534
+17853,story,,,1,0,gibsonf1,"Design your own watch without leaving home",http://news.com.com/Design+your+own+watch+without+leaving+home/2100-1038_3-6180031.html?tag=nefd.top,,1177845292
+17852,story,,,2,0,gibsonf1,"Vudu casts its spell on Hollywood",http://news.com.com/Vudu+casts+its+spell+on+Hollywood/2100-1026_3-6180048.html?tag=nefd.top,,1177845207
+17851,comment,17850,17850,0,0,petervandijck,,,"Not at all. It's important to have trust, but I've had great collaborations with people I've never met.<p>Timezone's do come into play, but they're not much of a problem either.",1177845044
+17850,story,,,2,7,MEHOM,"In order to collaborate, is it important to be close to each other?",,,1177844466

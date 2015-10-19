@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+13359,comment,13312,13312,0,0,dhbradshaw,,,"I think this model implies a certain marketing strategy.  While achieving a critical mass might be impossible (read unlikely and hard to control) if you try for the world as a whole, it may be possible for a smaller one.  Once you have a small group that is largely converted you can add other groups in such a way that you don't put out the fire by separating members of the first group.  <p>It may be that a large part of the success of Facebook comes from the way they were able to use student bodies as small, self-contained networks, and then build from there.<p>It reminds me of building a fire with charcoals.  If you keep them together you can keep them burning.  If you can get a nice group going you can add to it bit by bit and build as big as you want.  If you disperse them they die.<p>Our world has a million little self-contained networks.  If you try to win some over perhaps some will succeed to the point that the network works for you.  Then maybe you can add others.
+",1176749963
+13358,story,,,4,0,jcwentz,"Google's Matt Cutts on hidden links",http://www.mattcutts.com/blog/hidden-links/,,1176749929
+13357,comment,13343,13343,0,0,dfranke,,,"Experiment: let's see if this gets a higher score here or on Reddit: <a href=""http://reddit.com/info/1idib/details"">http://reddit.com/info/1idib/details</a>",1176749785
+13356,comment,13107,13107,0,0,keven,,,"Followup - Paul Kedrosky: Microsoft calls for mommy
+<a href=""http://paul.kedrosky.com/archives/2007/04/16/google_rivals_c.html"">http://paul.kedrosky.com/archives/2007/04/16/google_rivals_c.html</a>",1176749634
+13355,comment,13352,13352,0,0,gibsonf1,,,"I thought about posting that here too - but I didn't think this is the right place as terrible as it is.  Unfortunately, the death toll is even higher.",1176749233
+13354,comment,13343,13343,0,0,danielha,,,"This was part of Paul's Stanford talk. It fits in nicely in regards to decisions from venture capitalists on investment and even Y Combinator on the founders program.",1176749178
+13353,comment,13352,13352,0,0,jamiequint,,,"I didn't hear about this until just now, I think everyone needs to read about it, this is terrible.",1176749120
+13351,comment,13347,13347,0,0,danielha,,,"<a href=""http://nycs.bigheadlabs.com"">http://nycs.bigheadlabs.com</a>",1176748829
+13350,comment,13312,13319,0,0,danielha,,,"How so?<p>If you want close to home, think news.yc or other social news sites when it comes to cumulative advantage.",1176748791
+13349,comment,13349,9568,0,0,jamongkad,,,"Nah it's fine. And you're right we do need need a inbox to warn us if we have a reply on our thread :-)",1176748565
+13348,comment,13347,13347,0,0,far33d,,,"I remember someone posting that they wrote one, but I'm having difficulty finding it... 
+",1176748426
+13346,story,,,1,0,jamongkad,"How to make something amazing right now!",http://headrush.typepad.com/creating_passionate_users/2006/10/how_to_make_som.html,,1176748277
+13345,comment,13280,13280,0,0,erdos2,,,"Indeed: here are two of the original functions.<p>(defun lsb (n i)
+           (cond 
+             ((eq n 0) i)
+             (T (lsb (logand (- n 1) n) (+ i 1)))
+           )
+         )<p>(defun bits (n) (lsb n 0))<p>CL-USER (bits #B101100101101001010101101001010101001001111)<p>22
+",1176748192
+13344,story,,,7,0,dawie,"Microsoft Silverlight Takes On Adobe's Flash",http://www.readwriteweb.com/archives/microsoft_silverlight.php,,1176748124
+13343,story,,,37,31,dfranke,"Two Kinds of Judgement",http://paulgraham.com/judgement.html,,1176747413
+13342,comment,13280,13337,0,0,mattculbreth,,,"Ok cool.  Probably needed it anyway for putting the punchline in the title.  :)
+",1176747014
+13341,comment,13149,13149,0,0,nickb,,,"Scribd folks are on to something. There is a need for posting short sections of text and getting people to vote on it. Forget about all that other document stuff (thinkfree has you beat there), concentrate on these short pieces of text... like Twitter but more than 140 characters.",1176746604

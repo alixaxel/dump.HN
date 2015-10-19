@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91682,comment,91351,91351,0,0,samwise,,,"Smart startup math. 1+1=2 . It is crucial when you first launch your company that you hire people who will train you rather than you training them",1198216393
+91681,comment,91604,91642,0,0,samwise,,,"34th rules of business. Everything and Everyone is a product... no explanation needed :)",1198215857
+91680,comment,91361,91515,0,0,anupamkapoor,,,"i think its more to do with functional aspects of the language rather than it's ""user-interface"" aka the syntax.  erlang as first intro to functional language might be non-trivial (imho ofcourse). starting with sicp to understand it's (functional programming's) essence should put anyone on terra-firma.",1198215764
+91679,comment,91604,91604,0,0,ctingom,,,"What is your source for 300k users?",1198215695
+91678,comment,91575,91590,0,0,samwise,,,"umm, i think to improve the service you want to increase the expropriation time of the e-mail address. so ""why stop as 10 minutes! Whats about 15 minute e-mail? ;)",1198215585
+91677,story,,,9,10,samwise,"Ask YC: What are the most profitable online markets?",,"I've been looking but i can't seem to find any information as to the size of different online markets.<p>for example.
+The size in revenue of Travel (expedia,kayak,priceline)
+The size in revenue of Gambling(pokerstars,fulltilt)
+The size in revenue of Rentals (gamefly,netflix)
+and so on..<p>also the spending of ad dollars and how they pertain to the web ad based economy as a whole.",1198215025
+91676,story,,,1,0,iamwil,"WiMax Licenses Going To KDDI, Willcom by Wireless Watch Japan",http://wirelesswatch.jp/2007/12/19/wimax-licenses-going-to-kddi-willcom/,,1198214276

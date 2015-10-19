@@ -1,0 +1,36 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+75584,story,,,2,0,lzimm,"The Road to Launch: The Sawce Widget",http://blog.sawce.net/2007/11/02/the-road-to-launch-the-sawce-widget/,"A little peek at what we're rolling out at Sawce",1194036986
+75582,comment,75401,75401,0,0,geebee,,,"Who else is using Scheme for the intro course?  Is it just Berkeley now?  BTW, anyone know what Stanford uses for the intro sequence?  Just kinda curious.  ",1194036700
+75581,comment,75249,75436,0,0,shiro,,,"CL has logand, logior, logxor, lognot, etc.
+It also has a parameterized version, boole
+<a href=""http://www.lisp.org/HyperSpec/Body/fun_boole.html"" rel=""nofollow"">http://www.lisp.org/HyperSpec/Body/fun_boole.html</a>
+",1194036404
+75580,comment,75470,75544,0,0,alaskamiller,,,"Because it's Dave Winer.",1194036217
+75579,comment,75470,75470,0,0,ecuzzillo,,,"I recently met a very smart guy who has worked at Google for nearly a year, and he had almost nothing positive to say about it. In his whole large division, there seemed to be hardly anybody who actually got anything done. And, worse, there was no method for firing people who didn't do anything. ",1194035916
+75578,comment,75470,75498,0,0,sspencer,,,"What do you expect?  He hangs out with John Markoff, who I consider one of the stupidest humans alive.  Check out ""Freedom Downtime"" sometime for a good example of the light in which he paints his subjects.",1194035804
+75577,comment,75310,75350,0,0,menloparkbum,,,"Bach's inventions aren't really that hard.",1194035764
+75576,comment,75545,75545,0,0,german,,,"Find something you love to do but is being done in a bad way...
+then, fix it.<p>Good Luck",1194035254
+75575,comment,75545,75545,0,0,michele,,,"I'd recommend to build something YOU need: it's always the best way to make sure you're building something useful.",1194035054
+75574,comment,75473,75473,0,0,blader,,,"Yesterday I was pitched this idea: ""it's like simplified pandora + evite + yelp for people who can't decide where to eat.""<p>Today: ""it's like twitter/pownce/dogster ... but for newborns.""<p>What's next?",1194034475
+75573,comment,75249,75542,0,0,gojomo,,,"Good point. (And, as your signature indicates, this <i>is</i> more likely to be a static utility method.) <p>If I were defensively programming against unanswerable input, I'd tend towards failing fast with a single early check:<p><pre><code> static int roundUpToPowerOfTwo(int i) {
+  if(i>(1<<30)) throw new IllegalArgumentException(""Answer overflows int"");
+  int rounded = 1;
+  while(rounded<i) rounded <<= 1; 
+  return rounded;
+ }
+</code></pre>
+If we needed to give answers for any size integer (or at least up to 2^(2^31-1)), we could use BigInteger, whose #bitLength method is useful:<p><pre><code>  static BigInteger roundUpToPowerOfTwo(BigInteger i) {
+   return BigInteger.ONE.shiftLeft(i.subtract(BigInteger.ONE).bitLength());
+  }
+</code></pre>
+And if we weren't being literal-minded about the original request, it might make sense to just return the exponent rather than the power-of-2 itself, and let the caller worry about overflows: <p><pre><code> static int ceilLog2(long val) {
+  return BigInteger.valueOf(val-1).bitLength();
+ }
+</code></pre>
+Of course we are ignoring negative exponents, in the integer spirit of the original question.<p>There, is it done to death yet? :)
+",1194034459
+75572,comment,75158,75533,0,0,jpuskarich,,,"We did something trivial along those lines and added a Facebook icon to our product pages. If you like a product, you can click the Facebook icon and the product name, image, price and store will show up in your ""Posted Items"".  Yes, nothing spectacular, but we like it :)<p>-John",1194034194
+75571,comment,75470,75470,0,0,augustus,,,"I don't know much about working at Google.<p>But using Adwords and dealing with some of the folks at Google was really a pleasant experience. They really went out of their way to accommodate me. I was really surprised!!",1194033976
+75570,comment,75414,75516,0,0,sethjohn,,,"Peer-reviewed studies come to concrete conclusions such as ""Ice volume in antarctica has decreased an estimated X% in the last X years."" or ""CO2 levels in the atmosphere have increased X ppm in the atmosphere at Mauna Loa observatory."" rather than sweeping statements such as ""global warming is real"". <p>There are admittedly some real cranks among the global warming skeptics, but I thought the arguments discussed in this article were intelligent, rational, and well-spoken.",1194033890
+75569,comment,75545,75545,0,0,ClintonKarr,,,"Copy an existing market leader, then as you're developing your software, create new features that distinguish you from the competition.",1194033880

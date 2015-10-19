@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3717,comment,2367,2367,0,0,jamongkad,,,"So hang on, how about the old adage ""Repetition is the mother of all skill?"" How do we apply that in our situation? As a programmer I found that this is one way of increasing your actual skill. ",1173707930
+3716,comment,3705,3705,0,0,drop19,,,"I have to say this matches my experience with any shared host for a serious web app. TextDrive is super helpful with customer service but not being able to get root on your server cuts off a lot of solutions. <p>So my advice to anyone hosting a Rails app or any other web app would be to go with a dedicated host (where you at least have a virtual server or something)",1173707238
+3715,comment,3670,3670,0,0,drop19,,,"I've actually never read anyone discussing the elasticity of demand for web services.  Here's a thank-you to my econ teacher in college!<p>Sobering quote: ""The biggest gap in any venture is that between a service that is free and one that costs a penny.""",1173706728
+3714,story,,,8,1,danw,"Number of Users on Each Plan",http://www.barenakedapp.com/dropsend/number-of-users-on-each-plan,,1173705043

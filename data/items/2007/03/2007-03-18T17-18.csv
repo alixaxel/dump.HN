@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4870,comment,1452,1582,0,0,vegashacker,,,"I'm not sure.  I think scoping would screw you up.  First off, there's a small reason right away why it wouldn't work.  You'd have to quote your argument to debugExpr, as in, say, debugExpr('2 times 3').  I did a little test at the Python prompt and the results didn't look good for faking this macro with eval:<p> def foo(x):
+     return 2 times (x + 3)
+ <p>
+> foo(1)<p>8<p>
+(not a full version of debugExpr, but enough to test:)<p> def debugExpr(expr):
+     print ""Expr is "" + expr
+     return eval(expr)<p><p> def bar(x):
+     return 2 times debugExpr('x + 3')<p>
+> bar(1)<p>Expr is x + 3<p>Traceback (most recent call last):<p>  File """", line 1, in ?<p>  File """", line 2, in bar<p>  File """", line 3, in debugExpr<p>  File """", line 0, in ?<p>NameError: name 'x' is not defined<p><p>PS: I couldn't use the asterisk symbol in the post, so I used 'times' instead. ",1174240606
+4869,comment,4304,4304,0,0,dougw,,,"""We manage to get back around 1AM and Im stunned to see that kids are sitting and talking and playing ping-pong. Whats wrong with them?, I wonder. I just came back from an arduous journey and theyre playing like its nothing! I head up to my room, but nobody seems to notice a thing. My roommates are also just sitting at their computers, as if everything is normal""<p>I know the feeling.   My friends and family do not understand my desire to start a company.  The rush of creation that one expereiences when they are working for themselves makes all else seem insignificant and minor.  Well put.",1174240237
+4868,story,,,4,1,pg,"X/HTML 5 Versus XHTML 2",http://xhtml.com/en/future/x-html-5-versus-xhtml-2/,,1174238966
+4867,comment,4847,4847,0,0,nostrademons,,,"Depend what your goals are.<p>Are you looking to turn a hobby into a business and grow it with minimal cost?  LiveJournal.<p>Do you want to start small and opportunistically grow the business over a long period of time?  Microsoft.<p>Do you want to change the world and change it now?  Google.<p>Are you looking for examples of what not to do?  Value America, or just go work for some startup off the street.<p>Are you looking to bootstrap a company for very little money and the flip it to an acquirer?  Reddit, ViaWeb (Yahoo Store), or Vermeer (Microsoft FrontPage).  The latter took VC investment, so I wouldn't really call it ""very little money"".<p>Are you looking to succeed in some business, any business, and do it on a dime?  Flickr.
+",1174238848
+4866,story,,,1,0,jcwentz,"Scoble: ""Microsoft's Internet execution sucks.""",http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article1529988.ece,,1174238396
+4865,story,,,5,0,sharpshoot,"University lecture notes in math, computer science and physics",http://lecturefox.com/?page=1,,1174238139
+4864,story,,,6,4,jcwentz,"Secret of Google's simple design: founders didn't know HTML",http://alan.blog-city.com/an_evening_with_googles_marissa_mayer.htm,,1174238057

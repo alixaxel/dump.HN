@@ -1,0 +1,38 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+396659,comment,396596,396596,0,0,axod,,,"Maybe Europeans are out to lunch, but Britains are not. It's a completely different culture.",1229169309
+396658,comment,396596,396652,0,0,axod,,,"The next big bubble = greentech.",1229169264
+396657,comment,396596,396596,0,0,ojbyrne,,,"Using eBay buying Skype and Sun buying MySql as proof of the superiority of the US system seems a little tenuous, since both those American companies seem to be headed down fast (while the European ones produce actual quality products), and the ease of buying out foreign competitors was largely due to the availability of easy money that's at the heart of the current credit crisis. Meanwhile the larger trend, due to the US's status as the world's largest debtor, has been the other way - foreigners buying up US companies, despite significant regulatory barriers that the US government has put up.",1229169257
+396655,comment,394609,395758,0,0,fauigerzigerk,,,"I know WWII was the most complex story ever in terms of ethics. Members of my own family died in the nazi death camps, so how could I be against fighting that war? However, no amount of complexity and evil could make me drop an A-bomb on a city.<p>At some point I have to say, whatever the consequences, I'm just not going to do this. You don't torture. You don't kill indiscriminately. Otherwise there is nothing left worth fighting for anyway.",1229168966
+396654,comment,396375,396545,0,0,michael_dorfman,,,"The parent article states that it has never been published (to the dismay of Garfield and de Vries....)",1229168760
+396653,comment,396435,396435,0,0,cracki,,,"> ""Okay, so what‘s the catch?"" ... Cilk++ doesn't support producer/consumer, software pipelining, or message passing. ... we're giving something up ... less is more. The ... advantages ... make up for any loss in generality.<p>well, there was this joke about a dog, an octopus, and wooden legs.",1229168682
+396652,comment,396596,396626,0,0,taylan,,,"As a US-educated entrepreneur based in Europe, I disagree. Their entrepreneurial culture is what's going to save the Americans, since they have the means to innovate their way out of this meltdown; be it through web 2.0 or greentech. Generous welfare state that we have in Europe presumes presence of a stable economy generating enough surplus wealth to sustain it. If we get outcompeted, it'll be the first thing to go unfortunately. We need to figure out a way to combine best of both worlds.",1229168522
+396651,comment,396596,396640,0,0,davidw,,,"Oops, I didn't even notice there was a video.  I pretty much completely ignore videos online unless I'm actively looking to watch something on youtube.  I see 99% of them as a waste of my time.",1229168418
+396650,comment,396582,396589,0,0,DarkShikari,,,"<p><pre><code>  Totals grouped by language (dominant language first):
+  ansic:        29367 (70.03%)
+  asm:           9186 (21.91%)
+  sh:            3124 (7.45%)
+  perl:           257 (0.61%)
+</code></pre>
+I've always found those cost estimators to be rather useless (they are often off--literally--by orders of magnitude).  A far better estimate would be to look at the actual development cost of competing commercial products with a full-time development team.<p>It also depends heavily on how the program is designed: it's possible for the same amount of ""effort"" worth of code to vary by a factor of ten or more between two programs <i>that serve the same task</i>.  Some programmers naturally write extremely terse code that makes heavy use of abstraction, while others tend to be quite verbose.<p>Plus, it's one thing to write code: it's another thing to have that code become good.  My project above has not changed significantly in code size in almost three years, despite the fact that every year has had more development than the previous one.<p>Such metrics would state that the value of the above project has merely doubled since it was originally conceived in a personal CVS repository by original developer Laurent Aimar, despite the fact that easily 95% of its value has been added since the original bare-bones framework released five years ago.",1229168317
+396648,story,,,4,0,thomasswift,"3scale's 10K competition to reward the best web services of the programmable web",http://www.3scale.net/competition,,1229168246
+396647,comment,396299,396395,0,0,cracki,,,"in Chrome, clicking ""Download"" in gmail, it gives me a ""Save File as"" dialog. it <i>can</i> display PDFs alright. it's just that gmail tells it to download all attachments when choosing ""download"" instead of just displaying them.",1229168235
+396646,comment,396582,396582,0,0,sadiq,,,"Not bad for a two-year old project in my spare time.<p>Totals grouped by language (dominant language first):
+	java:         37239 (62.27%)
+	cpp:          22390 (37.44%)
+	sh:             159 (0.27%)
+	perl:            10 (0.02%)<p>Total Physical Source Lines of Code (SLOC)                = 59,798
+	Development Effort Estimate, Person-Years (Person-Months) = 14.67 (176.09)
+	(Basic COCOMO model, Person-Months = 2.4 * (KSLOC<i></i>1.05))
+	Schedule Estimate, Years (Months)                         = 1.49 (17.84)
+	(Basic COCOMO model, Months = 2.5 * (person-months<i></i>0.38))
+	Estimated Average Number of Developers (Effort/Schedule)  = 9.87
+	Total Estimated Cost to Develop                           = $ 1,982,269
+	(average salary = $56,286/year, overhead = 2.40).<p>(Gah, I can't figure out how to get the output to appear verbatim in the comment)",1229168210
+396645,comment,396485,396516,0,0,tlrobinson,,,"<i>""No burger_king.com either.""</i><p>I find it sort of amusing people thought we would be using underscores in place of spaces in domain names.<p>Also amusing:<p><i>""The guy in registration? One person is responsible for assigning domain names on the Internet?<p>Actually, ""We have 2.5 people doing it,"" Williamson said, meaning that the half person is really a full person doing it part-time.""</i>",1229168179
+396643,comment,395565,396068,0,0,Create,,,"... the other take-away:<p>""I fear the Cisco experience has done unseen damage to Stanford in the form of creating inhibitions against sharing ideas, information and developments with possible commercial value among our groups which have need to benefit from each other's work""",1229167990
+396641,comment,396186,396274,0,0,asmosoinio,,,"YC Tracker does this for single pages:<p><a href=""http://www.selfdebugging.com/2007/10/09/yc-news-tracker-a-better-way-to-read-comments/"" rel=""nofollow"">http://www.selfdebugging.com/2007/10/09/yc-news-tracker-a-be...</a><p>However you have to remember to run the script first time you see the page to be able to compare later. This kills it for me most of the time.",1229167473
+396640,comment,396596,396596,0,0,fauigerzigerk,,,"Don't watch the vid. It's a bunch of boring people exchanging well rehearsed arguments about nothing more than cliches.",1229167433
+396639,comment,394679,395862,0,0,Tichy,,,"Yes that is what I mean - it seems ""expected value"" is not equal to real value.",1229166767
+396638,comment,396386,396599,0,0,timr,,,"What does the parent comment contribute to a civil discussion?",1229166725
+396637,story,,,2,0,gus_massa,"Mobile Voting in Estonia",http://blog.tmcnet.com/convergence-corner/2008/12/mobile-voting-in-estonia.html,,1229166392
+396635,comment,396485,396485,0,0,mattculbreth,,,"Notice that Apple.com is on here, but no Microsoft.com.",1229166219

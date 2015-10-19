@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+49585,story,,,1,0,amichail,"NTU Student survey - Funny comments",http://www.youtube.com/watch?v=QOqXlbWf9Io,,1188784748
+49584,comment,49533,49533,0,0,dood,,,"I can't quite explain why, but I find this blog hilarious.",1188784464
+49583,comment,49549,49553,0,0,ivankirigin,,,"Google baldy wounded Yahoo in that fashion. Facebook is trying to be more than it is. I think it could easily fail, but it is probably the right goal.",1188783914
+49582,comment,49444,49444,0,0,kashif,,,"schevo.org integrates well with pylons",1188782703
+49581,comment,49443,49443,0,0,kashif,,,"I think you might be checking too many things, which will make it almost impossible to hire someone. I would just evaluate on A,C, E, F, H, K",1188782522
+49580,story,,,6,0,jsjenkins168,"Google Phone being shown to select Boston VCs and entrepreneurs",http://www.boston.com/business/technology/articles/2007/09/02/introducing_the_google_phone/?page=full,,1188782421
+49579,comment,49578,49578,0,0,marrone,,,"Read through all 4 pages. It is a good article. The best quotes:
+""Maybe failure isn't the problem. Maybe expectation is"",<p>""The great thing about surviving a storm is that you're much better prepared the next time the winds start kicking up. You recognize the early warnings. You stock up on essentials. And, most crucial, you go in knowing that no matter what happens, you can always rebuild."",<p>""Because I'd failed, I wasn't afraid of failing. And that enabled me to push a lot harder for what I believed in."",<p>""Given all these risks, why do it? Because even in failure, I knew I'd grow from it. "",<p>""It's just like weight training, really. You push yourself until your muscles fail. That's how you grow stronger.""
+",1188781761
+49578,story,,,5,2,marrone,"My Glorious Defeat?",http://www.menshealth.com/cda/article.do?site=MensHealth&channel=guy.wisdom&category=life.lessons&conitem=03044e632f144110VgnVCM20000012281eac____,,1188781547
+49577,comment,49458,49458,0,0,ivankirigin,,,"People that were shocked at the idea of a futures market in terrorism and other global events had probably never understood the term ""futures market"" to begin with. It was a great idea. Though it had questionable utility given the nature of deliberately hidden information before terror attacks, it would have been more useful in guessing things like revolutions. ",1188781509
+49576,comment,49440,49473,0,0,cdr,,,"DokuWiki is <i>great</i> for documentation. That's the only type of wiki I've built so far, and I definitely have to recommend it.",1188781282
+49575,story,,,1,2,aswanson,"What, based on your experience, should we do?",http://www.newscientist.com/blog/shortsharpscience/2007/08/does-experience-matter-have-guess.html,,1188781203

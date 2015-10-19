@@ -1,0 +1,35 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+10141,comment,10141,9841,0,0,Elfan,,,"I use emacs 23 just for DejaVu Sans Mono.",1175972221
+10140,comment,10034,10034,0,0,gibsonf1,,,"Ironically, I find the article's Typography to be completely underwhelming.  No attempt has been made to have the fonts visually represent the hierarchy of ideas being presented in the article, or to use the article as a showcase for how good great typography can be.  If this article is supposed to be doing that, it radically undercuts the article's position.",1175972146
+10139,comment,10139,9986,0,0,kyro,,,"San Diego: 3: 20,20,19",1175971892
+10138,comment,10138,9986,0,0,andreyf,,,"New Jersey, 2, 19/20",1175971840
+10137,comment,10112,10112,0,0,joshwa,,,"This is what CRV does, right?<p><a href=""http://www.crv.com/AboutCRV/QuickStart.html"">http://www.crv.com/AboutCRV/QuickStart.html</a>",1175971697
+10136,story,,,1,1,elwood,"I'd rather be black",http://danonliberty.blogspot.com/2007/04/id-rather-be-black.html,,1175971608
+10135,comment,10135,9986,0,0,nostrademons,,,"Boston, 2, [25, 24]",1175971499
+10134,comment,10130,10130,0,0,joshwa,,,"Why on earth did you put that on scribd when a normal blog post would do? Now I just have a hard time reading the poorly rendered text...",1175971371
+10133,comment,10133,9770,0,0,Lessien,,,"Don't discount the impact of the antitrust suits.  The lawyers get a veto on nearly everything within Microsoft now.  A company simply cannot be agile when the balance of power is skewed like that.
+",1175971277
+10132,comment,10132,9498,0,0,nostrademons,,,"""That thought, however, led me to consider the idea of making order of operations always evaluate left-to-right""<p>Smalltalk does something similar.  In Smalltalk, any infix operator is just a binary message send, and they're parsed left to right.  So for example, 12 + 6 / 3 results in 6 instead of 14.  This result seems perfectly natural to most Smalltalkers, but it drives me nuts.<p>Personally, I think it's important to consider the audience when designing a programming language (or anything, really).  Operator precedence is totally illogical and adds lots of unnecessary complexity - but it's drilled into people's heads from elementary school onwards.  It's like Qwerty keyboards, American date formats, and English spelling.  In most cases, though, it's better to work with people's illogical expectations than to say ""No, you're wrong, here's a better way.""  Perhaps that's why Lisp never caught on.
+",1175970956
+10130,story,,,1,1,rokhayakebe,"Forget web2.0- Where is your 3.0 startup?",http://www.scribd.com/doc/25925/FORGET-WEB20WHERE-ARE-THE-30-STARTUPS,,1175970826
+10129,comment,10129,9770,0,0,yb927,,,"Paul, 
+As usual brilliantly written and fantastically succinct-even though it is indeed 'Old News'. <p>
+",1175970382
+10128,comment,10128,9770,0,0,ka,,,"I suspect that you're right, but MS is not quite fully dead as yet, but they are dying a long, slow, lingering death because they have been so entrenched for so many years past.<p>Think of it as a layer of skin tissue. When the a layer of skin tissue is replaced by the body, it doesn't just disappear overnight. Rather, it starts cracking and peeling first, then over time, it is gradually replaced by a new fresh layer from underneath.<p>MS is currently peeling...<p>
+",1175970302
+10127,comment,10127,9770,0,0,DITSS,,,"When did Microsoft die?  That's simple.  It is the day that Bill Gates decided to leave Microsoft.  Not the day he left, but the day that privately, to himself, he decided to leave and devote his life to philanthropy.  Everything since then has been just a desperate attempt to grip the sand as it flows through their fingers.  The harder they sqeeze, the faster it flows through their fingers (<i>cough</i> Zune and PlaysForSure)
+",1175970048
+10126,comment,10126,9770,0,0,ernie,,,"MS is no longer significant to startups because (at large companies):""No one was ever fired for buying Microsoft""<p>It's a value proposition that panders first to management's Fear Uncertainty and Doubt and second to actual results.
+",1175969821
+10125,comment,10125,9770,0,0,yaddoshi,,,"Please tell all my customers for me so I can start making the switch to providing Apple and LINUX systems.<p>I'm confounded by the number of customers I run into who are convinced they either need a new Windows Vista computer, or worse, that they need to install Windows Vista on their old computer.
+",1175969565
+10124,comment,10124,9770,0,0,sachman,,,"You nailed it - I think it is a cultural and mindset issue and unless they change at the core they are never going to intimidate anyone nor be the powerhouse they were once. Here is an interesting piece that complements yours...<p><a href=""http://republicofinternets.com/2007/03/17/is-microsoft-done/"">http://republicofinternets.com/2007/03/17/is-microsoft-done/</a> 
+",1175969523
+10123,comment,10123,9770,0,0,Wanderlust,,,"old news<p>",1175969495
+10122,comment,10122,9985,0,0,Elfan,,,"VI and emacs both have intellisense like features.",1175969465
+10121,comment,10121,9770,0,0,gregshortdotcom,,,"Your observation that Macs and Linux machines outnumber computers running Windows is either humorously incorrect, or an outright lie. I work at a newspaper and the only people using Macs are the graphic designers. The rest of us, the vast majority of the company, use Windows.<p>You need look no further than any old web stats program to see who is online. (A quick look in Omniture at the stats for our newspaper web site shows that 74.4% of the operating systems are running Windows XP. Only 5.2% are using Macs. And just 3.9% are using other operating systems, i.e. Linux.) Or, for the less tech savvy, check the software shelves and see just how many programs support Macs.<p>It's really too bad. Your essay is otherwise very well written. It's just not founded in fact.",1175969463
+10119,comment,10119,9871,0,0,Elfan,,,"It's not unusual for companies to sell game consoles at a large loss in hopes of increasing market share and making the money back on licensing.  Pretty much everyone who isn't Nintnedo seems to do it that way.",1175969335
+10118,comment,10115,10115,0,0,mattculbreth,,,"Very cool, I'll check this out.  I highly doubt it performs well enough to be useful yet (each row is a name/value in S3) but it's certainly a good direction to be heading.",1175969310
+10117,comment,10117,9944,0,0,Elfan,,,"Its a strange irony that Microsoft's best products (Xbox, Natural Keyboards) are hardware.",1175969224
+10116,comment,10116,9770,0,0,rayteagarden,,,"WOW! This is right on the money, the future of computing is getting even more interesting.
+",1175969133

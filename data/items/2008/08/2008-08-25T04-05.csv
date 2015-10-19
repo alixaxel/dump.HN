@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+285672,comment,285651,285651,0,0,pg,,,"As I said on the post's own thread:<p>It's really 14 out of 80. You can't count the current batch, because they've just started talking to investors. Plus (a) several of the remaining 66 probably will raise series A rounds in the future, and (b) there are certainly more that could have but either got acquired (Reddit, Omnisio) or made it to profitability on angel money (Wufoo, Bountii).",1219640341
+285671,comment,285570,285633,0,0,alnayyir,,,"I'll give it a whirl. Thanks for the heads up.",1219639837
+285670,comment,285623,285623,0,0,bdr,,,"Anyone in SF want to meet up at the same time? Somewhere on Valencia?",1219639835
+285669,comment,285623,285662,0,0,Mazy,,,"Tinyurl has a way to show you the domain before sending you there: <a href=""http://preview.tinyurl.com/69buwm"" rel=""nofollow"">http://preview.tinyurl.com/69buwm</a>",1219639584
+285668,comment,285663,285663,0,0,pg,,,"Seems like junk data.  Surely most never get included in these statistics.",1219639505
+285667,comment,285643,285643,0,0,fnazeeri,,,"I totally agree with the premise.  What is the market share of Outlook?  Outlook sucks.  I stopped using it a few days ago and feel like a crack addict who just kicked the habit.  I can think clearly now!",1219639422
+285666,comment,285623,285661,0,0,jasonlbaptiste,,,"Nope, the one across from where Ricky's Hyatt Hotel used to be. Southbound on el camino after the intersection with Charleston/Arastradero.",1219639401
+285665,comment,285435,285493,0,0,Hexstream,,,"Avoiding criticism is a good recipe for failure in the long run...",1219639364
+285664,comment,285623,285630,0,0,mmb,,,"Where in upstate NY? I'm in Syracuse and would go to something like this here.",1219639181
+285663,story,,,1,1,soundsop,"Personal data breaches this year already surpass 2007 total",http://latimesblogs.latimes.com/technology/2008/08/breaches-of-per.html,,1219639168
+285662,comment,285623,285623,0,0,Alex3917,,,"Completely off-topic, but is there a tinyurl competitor that shows the domain? So, for example, something like <a href=""http://google.tinyurl.com/69buwm"" rel=""nofollow"">http://google.tinyurl.com/69buwm</a> or <a href=""http://tinyurl.com/google/69buwm"" rel=""nofollow"">http://tinyurl.com/google/69buwm</a> instead of <a href=""http://tinyurl.com/69buwm"" rel=""nofollow"">http://tinyurl.com/69buwm</a>.",1219639084
+285661,comment,285623,285623,0,0,joshu,,,"Is this the one in Town And Country?",1219638861
+285660,comment,285623,285636,0,0,pg,,,"Unfortunately I just returned to Cambridge today.",1219638762
+285659,comment,285498,285498,0,0,brianobush,,,"There is the D programming language, but it hasn't caught on.
+  <a href=""http://www.digitalmars.com/d/index.html"" rel=""nofollow"">http://www.digitalmars.com/d/index.html</a>",1219638749
+285658,comment,285462,285462,0,0,mattmaroon,,,"Used Aerons on craigslist are the way to go. I'm of the opinion that when you're spending crazy hours in a chair, it's not something you want to skimp on. The extra productivity caused by the difference in comfort level will more than pay for the chair.<p>Get cheap-ass desks from Ikea or something.",1219638644
+285657,comment,285462,285542,0,0,mattmaroon,,,"Umm, what? I'll take an Aeron over ""here's $200, go to Staples"" any day.",1219638567
+285656,comment,285600,285600,0,0,ivank,,,"Right now, I use Tree Styles Tabs as a sort of ""temporary history"", since I got tired of thinking about which tabs I should keep open. I'm also using the Ctrl-Tab extension just like Alt-Tab on windows (can't live without it). With a vertical tab list, I open almost everything in a new tab. My depth first search habits are limited by seeing the tab indentations and knowing where the root is.<p>My ideal tab behavior would involve merging browser history and tabs into an infinite vertical scroll. Pages with unsaved state (form data, important flash objects, AJAX ""state"") would stay in Firefox's memory until explicitly closed. All ""boring"" pages would stay in memory for a few hours, then convert to a URL+scroll-position+selected-text object. Combine this with single-keystroke tab tagging and I think that tabs will finally feel like a reliable part of the browser, not just a taskbar-inspired hack.<p>edit: Ideally, desktop applications would work in a similar way. Right now I have to keep ~30 windows open because I can't remember which serialize state perfectly, and which don't.",1219638476
+285655,comment,285623,285623,0,0,AndyKelley,,,"darn, maybe I should move to silicon valley",1219638377
+285654,comment,285623,285623,0,0,dmpayton,,,"I would so be there, except... ya know... got work. Any chance we can plan the next one for a weekend?",1219638308
+285653,comment,285623,285652,0,0,jasonlbaptiste,,,"yeah, the meetup is before going to bed :-P",1219638086
+285652,comment,285623,285623,0,0,dcurtis,,,"AM? What's that?",1219638052
+285651,story,,,19,6,nickb,"Sometimes You Just Have To Walk Away",http://www.avc.com/a_vc/2008/08/sometimes-you-j.html,,1219638009
+285650,story,,,1,0,ejang,"Sneak preview of the Sweetcron",http://kr.youtube.com/watch?v=VqFd6EDQimU,,1219637662
+285649,comment,285623,285641,0,0,jasonlbaptiste,,,"yo, dont even go there haha.  mazy got sick last time he had that.  i seriously may stop by frys and grab some :-o",1219637526
+285648,comment,285045,285553,0,0,pavelludiq,,,"I still have 1 year of tormenting boredom",1219637477
+285647,comment,285615,285618,0,0,river_styx,,,"Eventually the legal world will catch up with technology, and those kind of silly patents will be no more.",1219637477
+285646,story,,,5,0,soundsop,"Email recovery will outlast Bush presidency",http://arstechnica.com/news.ars/post/20080824-white-house-memo-no-white-house-email-recovery-this-year.html,,1219637244
+285645,comment,284618,284806,0,0,trenchfever,,,"you need to run arbitrary binary code on my machine? the nerve.",1219637158
+285644,comment,285617,285617,0,0,marketer,,,hoisie@gmail.com,1219637126
+285643,story,,,6,1,mspeiser,"Email is dead. Long live Email.",http://laserlike.com/2008/08/25/email-is-dead-long-live-email/,,1219636950
+285642,comment,285435,285576,0,0,catone,,,"That's not a bad idea, just make sure that a positive testimonial isn't a prerequisite for getting a free review.",1219636915
+285641,comment,285623,285637,0,0,alaskamiller,,,"<a href=""http://gizmodo.com/351813/world-of-warcraft-mana-energy-potion-will-probably-sell-incredibly-well"" rel=""nofollow"">http://gizmodo.com/351813/world-of-warcraft-mana-energy-poti...</a>",1219636818

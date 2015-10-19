@@ -1,0 +1,48 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+12647,story,,,14,3,aston,"In Y Combinator, everybody knows you're a dog.",,,1176487117
+12646,comment,12495,12495,0,0,edawerd,,,"Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)<p>I feel that a lot of people I've met have a startup mentality hidden deep within them, but are unwilling to share it publicly. It's only when you pry a little deeper do you realize they share the same desires that you do. For example, I met 2 of my coworkers at startup school that I had NO IDEA were into startups because they never talked about it at work. To a certain extent, many people haven't come out of the ""startup closet"".",1176487039
+12645,comment,12639,12639,0,0,mattculbreth,,,"Good post.  If I understand your point correctly, you're saying that perhaps we should link directly to the /comments page of certain posts on Reddit, instead of telling people to go there and wade through the garbage.  Correct?<p>I still find programming.reddit.com to be a good place to frequent.  We had a post about that last day over there actually.
+",1176487028
+12644,comment,12507,12610,0,0,timg,,,"And, as yet another man has said, ""there is no bad publicity""...",1176487027
+12643,comment,12542,12542,0,0,timg,,,"This was one of the best features of a nice little site that was called myspace.<p>Let me rephrase this: search by zipcode does this great already.",1176486893
+12642,comment,12619,12619,0,0,marketer,,,"The question should be: if you want speed, is it really worth using lisp? Maybe your time would be better spent writing a c module and then interfacing with the lisp interpreter. <p>I'm no lisp hater, it's a great language that offers some neat abstractions. But to really optimize code, you have to be intimately familiar with how data structures are implemented within the interpreter. You can avoid this problem by using C. <p>",1176486848
+12641,comment,12619,12619,0,0,gibsonf1,,,"Here's a discussion about the various Lisp options:
+<a href=""http://programming.reddit.com/info/1edrw/comments"">http://programming.reddit.com/info/1edrw/comments</a><p>We use Lispworks, but if there is a better (especially freer) option, we would switch in a heartbeat.  (We don't use Allegro  Cache - so that wouldn't hold us back from switching).  So far our systems are running very fast with LW - no complaints on speed.",1176486666
+12640,comment,12495,12495,0,0,rwalker,,,"I discovered that a surprisingly large number of improv and sketch comedy performers are hackers.  (something like 15%)",1176486664
+12639,story,,,11,6,Alex3917,"Dinner-and-a-Movie Theory: Why Reddit Gets it Backwards",http://alexkrupp.typepad.com/sensemaking/2007/04/dinnerandamovie.html,,1176486565
+12638,comment,12507,12577,0,0,Terhorst,,,"Skimming the other posts, I saw one or two positive things dragged out of them. <p>""To get a good review from uncov, you really have to earn it.""<p>K said something relevant a while back:
+<a href=""http://www.roadtoforbes.com/index.php/ksblog/why-the-80-20-rule-doesnt-always-work/"">http://www.roadtoforbes.com/index.php/ksblog/why-the-80-20-rule-doesnt-always-work/</a><p>Anyway, even if they ARE utterly impossible to please, they're still telling you outright what you can improve. And an extreme view can sometimes help to put everything else in perspective.",1176486522
+12637,comment,12569,12569,0,0,aston,,,"Funny. But funnier is that this is a pretty Schemey way to solve the problem--iteratively walk down the string to be concatenated and append characters onto the target string. <p>But it'd look prettier with parentheses...
+",1176486518
+12636,comment,2929,2929,0,0,JohnSWren,,,"Denver IDEA Cafe startup support group, every Friday, 2 p.m. at Panera Bread, 13th & Grant near the State Capitol. More info and RSVP at <a href=""http://ideacafe.meetup.com/1"">http://ideacafe.meetup.com/1</a> ",1176486358
+12635,story,,,1,2,acheung,"what's the best scalable language?",,,1176486318
+12634,comment,12520,12521,0,0,brlewis,,,"The scribd founders don't have it so bad.  Think of the inventor of television!
+",1176486244
+12633,comment,12625,12625,0,0,aston,,,"I can tell you've got a ton of emotion behind this post. Hopefully writing it all down helped put it all into perspective.<p>Not getting YC funding is definitely not the end of the world. There are a ton of reasons why you might not have gotten funding, and many of them aren't really related to how great a hacker/startupper you might be.<p>
+There are plenty of folks around here who are going to press on despite the setback [2]. No matter what you do, you're going to run into roadblocks, and part of being successful is getting past them without losing heart. Don't give up now, and good luck in the future.<p>[1] <a href=""http://onstartups.com/home/tabid/3339/bid/1350/Why-Not-All-Great-Hackepreneurs-Get-Picked-By-Y-Combinator.aspx"">http://onstartups.com/home/tabid/3339/bid/1350/Why-Not-All-Great-Hackepreneurs-Get-Picked-By-Y-Combinator.aspx</a><p>[2] <a href=""http://news.ycombinator.com/comments?id=11551"">http://news.ycombinator.com/comments?id=11551</a>",1176486023
+12632,comment,12625,12625,0,0,jkush,,,"The best advice I can give is this: give yourself until the end of the week to mourn. Be depressed about it. In fact, be REALLY depressed about it. Don't sugarcoat it, let it sink all the way in. Get all that negativity and depression out of your system. <p>On Monday, pick yourself up and work with what you've got. You've got lots of opportunities. Find out what they are and use them to their fullest. Don't let being ""rejected"" beat you. Give yourself time to grieve then move one.<p>It's what you're going to do anyway. Just shorten the cycle.",1176485979
+12631,comment,12507,12565,0,0,supahfly_remix,,,"Potential customers are very qualified to comment on startups.<p>
+",1176485394
+12630,comment,12546,12546,0,0,imp,,,"This article definitely got me more excited about Apollo than the previous reviews I read when it first came out.  I can think of one instance where it might be of use to me, assuming I only have to click one button to convert my web-app to an Apollo-app. It'll be interesting how closely the final product comes to meeting these ambitious goals.",1176485142
+12629,comment,12507,12576,0,0,hello_moto,,,"That maybe because Uncov people (or person?) have technical background. Even though TC and GO did post negative reviews, usually they're not that striking. But TC and GO mostly hyped things up with weak reasoning.<p>I remember back then when I was caught by the hype of web 2.0, I read TC review about this website called Zooomr. TC said it's like ""Flickr on steroid"". What happened to Zooomr now? still in beta and seems inactive. Have you seen Zooomr UI? not so good.. it's just Flickr with patches here and there, mashup here and there. I wonder how relevant TC reviews are. Even some of my friends these days have moved on and tagged TC as irrelevant and biased",1176485094
+12628,comment,12619,12619,0,0,dfranke,,,"Probably SBCL.",1176484908
+12627,comment,12517,12603,0,0,mattculbreth,,,"Yeah thought that was strange too.  I use it.",1176484902
+12626,comment,12556,12556,0,0,statikpulse,,,"yan.sarazin [at] gmail [dot] com<p>Thanks
+",1176484857
+12625,story,,,14,43,cirroc,"Why I'm frustrated that I wasn't accepted into Y Combinator.",http://www.scribd.com/doc/30644/Why-Im-frustrated-that-I-wasnt-accepted-into-Ycombinator,,1176484602
+12624,comment,12623,12623,0,0,sri,,,"Itunes allows you to play the downloaded
+movies and songs on upto 5 computers (and
+you can reset them once a year).
+So how about a service that'll allow
+people (friends) to share movies and
+songs.<p>So it'll be fesible to have people
+who share lots of the same interests,
+to share.<p>IANAL, so something like this even
+legal?
+",1176484516
+12623,story,,,1,1,sri,"Startup Idea: Exchange Itunes movies/songs",,,1176484511
+12622,comment,12517,12571,0,0,nostrademons,,,"They generated a return for their later-stage investors.  yCombinator took a small loss on them.",1176484508
+12621,comment,12507,12583,0,0,danielha,,,"""Everything that can be invented has been invented.""<p>-- Patent Commissioner, 1899",1176484324
+12620,comment,12556,12604,0,0,brett,,,"awesome. thanks.",1176484131
+12619,story,,,15,26,palish,"Which implementation of Lisp is best when speed matters?",,,1176483924
+12618,comment,12556,12556,0,0,timg,,,"timg.is.here at gmail.com",1176483623

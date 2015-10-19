@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+18380,story,,,2,0,gibsonf1,"The Travails of Tracking Web Traffic",http://businessweek.com/technology/content/apr2007/tc20070430_491005.htm?chan=top+news_top+news+index_technology,,1178024386
+18379,comment,18348,18348,0,0,yaacovtp,,,"I just started using s3 for a video site I'm launching next week and it's awesome. So far it has cost me pennies (literally)!",1178024379
+18378,story,,,4,2,gibsonf1,"Microsoft takes Silverlight beyond Windows",http://news.com.com/Microsoft+takes+Silverlight+beyond+Windows/2100-1012_3-6180322.html?tag=nefd.top,,1178024265
+18377,comment,18363,18365,0,0,dpapathanasiou,,,"We use Server Beach -- <a href=""http://serverbeach.com/"">http://serverbeach.com/</a> -- and have had few problems.<p>They have a wide range of options, with several servers under $100 per month, but they limit bandwidth to 2,000 gb of transfer per month.<p>We find the 2,000 is a lot, though, (we've come close, but yet to go over), and you can control it further by using AWS.",1178024205
+18376,story,,,1,0,Sam_Odio,"iMac, iPod, iPhone... iGoogle??",http://venturebeat.com/2007/05/01/google-gets-personal-with-igoogle/,,1178024187
+18375,story,,,1,0,gibsonf1,"Revamped Google tools let you be you",http://news.com.com/Revamped+Google+tools+let+you+be+you/2100-1038_3-6180365.html?tag=nefd.top,,1178024183
+18374,story,,,1,0,gibsonf1,"Comcast and Yahoo ink Internet advertising deal",http://news.com.com/Comcast+and+Yahoo+ink+Internet+advertising+deal/2100-1024_3-6180385.html?tag=nefd.top,,1178024136
+18373,story,,,2,0,gibsonf1,"Alibaba.com reportedly planning IPO",http://news.com.com/Alibaba.com+reportedly+planning+IPO/2100-1030_3-6180442.html?tag=nefd.top,,1178024077
+18372,comment,18272,18336,0,0,Goladus,,,"Right.  I disagree that ideas are worthless also.  I think the point of the original essay is that you shouldn't let fear of having your idea stolen get the way of your goals. Given that, you can still take some steps to protect your ideas from potential competitors.
+",1178024038
+18371,story,,,4,0,gibsonf1,"Wikipedia co-founder wants open-source search engine",http://news.com.com/Wikipedia+co-founder+wants+open-source+search+engine/2100-1032_3-6180379.html?tag=nefd.top,,1178023998
+18370,story,,,5,0,Sam_Odio,"Google To Viacom: We'll see you in court - and we want a jury trial",http://www.businessweek.com/the_thread/techbeat/archives/2007/04/google_to_viaco.html,,1178023872
+18369,story,,,1,0,gibsonf1,"Contest winner: Vista more secure than Mac OS",http://www.macworld.com/news/2007/04/30/daizovi/index.php,,1178023866
+18368,story,,,1,0,gibsonf1,"Video sharing for dummies",http://news.com.com/Video+sharing+for+dummies/2100-1041_3-6180402.html?tag=nefd.lede,,1178023777
+18367,story,,,4,0,gibsonf1,"Ozzie's quiet revolution at Microsoft",http://news.com.com/Ozzies+quiet+revolution+at+Microsoft/2008-1012_3-6180428.html?tag=nefd.lede,,1178023677
+18366,comment,17980,17980,0,0,sajid,,,"Right now, I'm the reading 'The Tipping Point' by Malcolm Gladwell and the message seems to be very similar to what Alex is saying.<p>The smallest details can sometime have a surprisingly large impact. <p>It's not always clear why certain startups are successful and others fall by the wayside, maybe the success or failure   of a website just depends on getting the hundreds of little details just right ?<p>As site developers, we need to think more about the psychological and sociological side of things, we should think of ourselves as community builders not just tool makers.",1178023654
+18365,comment,18363,18363,0,0,sajid,,,"I'm looking for a hosting provider who offers a full server package with root access. The server should run Fedora or Red Hat Linux with at least 1Gb ram.<p>Any suggestions ?<p>The cheapest provider I can find offers the above for about $120 per month (with unlimited bandwidth).<p>
+",1178021875
+18364,comment,18308,18308,0,0,cyu,,,"We did a logo contest on SitePoint, and were really happy with the results.<p><a href=""http://www.sitepoint.com/contests/"">http://www.sitepoint.com/contests/</a><p>",1178021751
+18363,story,,,19,37,sajid,"What hosting provider are you using for your startup ?",,,1178021432
+18362,comment,18012,18012,0,0,youngnh,,,"you could try this: <a href=""http://userscripts.org/scripts/show/8951"">http://userscripts.org/scripts/show/8951</a>",1178021172
+18361,story,,,19,10,youngnh,"Vote on news.yc without reloading the page -- Greasemonkey script",http://userscripts.org/scripts/show/8951,,1178021129

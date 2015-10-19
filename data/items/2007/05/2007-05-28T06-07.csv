@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25025,story,,,1,0,jamiequint,"Facebook Platform - Developers Wiki",http://wiki.f8.facebook.com/index.php/Main_Page,,1180334234
+25024,comment,25023,25023,0,0,keiretsu,,,"How many of you are doing a startup for Facebook users only?",1180333643
+25023,story,,,2,2,keiretsu,"How many of you are doing Facebook app only ala LendingClub?",,,1180333569
+25022,comment,24990,25006,0,0,bootload,,,"<i>'... every time someone writes about Craigslist, it's like checking in on the Big Lebowski: ""Still abiding?"" ""Yep.""  ...'</i><p>good observation. It's worth posting because <i>the dude</i> (Craigslist) is A) the anti-pattern to those who say the only way after you get big is to advertise (missing the point you annoy your users beyond distraction) and B) nobody believes (and probably why its a story) that Craigslist has not sold  out and pursued the megabucks that could <i></i>cough<i></i> be made with greater advertising. ",1180333215

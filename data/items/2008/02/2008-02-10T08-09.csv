@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+112939,comment,112857,112857,0,0,DaniFong,,,"I've been sitting here learning rails with the highly appraised book 'agile web development with rails (v2)', and I often just don't find the information dense enough, or specific enough. Lately I've just been reading RDoc, or the code directly. I've actually found that to be more effective.",1202633849
+112938,comment,112749,112807,0,0,aston,,,"If Yahoo! does reject the offer, their stock price should, were the market completely rational, <i>fall</i> a lot. Back to what it was before Microsoft made the offer in the first place.<p>Yahoo's the same company it was two weeks ago; the stock was just worth more since MS was offering a premium.",1202633808
+112937,comment,112749,112907,0,0,cstejerean,,,"Perhaps a private equity firm would have stepped in if this was really the case. And if Yahoo knows something its shareholders don't (as to why it is massively undervalued) it better speak up soon.",1202632443
+112936,comment,112857,112857,0,0,cstejerean,,,"I'm surprised at home many times I actually RTFM and are amazed by functionality that I didn't think was there. It's tempting once I get the core of a language or technology under control (especially when in a rush to deliver a working application) to cut some corners and just lookup exactly what I need (and miss out on all the things I didn't know I needed).",1202632188
+112935,story,,,11,2,cstejerean,"An Open Letter to Steve Ballmer",http://www.businessweek.com/technology/content/feb2008/tc2008027_990635.htm,,1202631412
+112934,comment,112801,112906,0,0,yters,,,"Seriously, the author says there are 2 ""plausible"" arguments.  Obviously, he got it wrong the first time and won't let it go!",1202631185
+112933,comment,112864,112932,0,0,tolmasky,,,"WebKit proper is Objective-C.  WebCore and JavaScriptCore (which sit below WebKit) are both C++ (technically portions are Objective-C++ I guess).",1202631019
+112932,comment,112864,112885,0,0,systems,,,"Objective-C?
+I thought webkit was Qt/C++ like everything Kde!",1202630624

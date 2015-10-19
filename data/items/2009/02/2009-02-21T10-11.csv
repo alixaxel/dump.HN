@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+489780,story,,,2,0,seshagiric,"Startup competition in India",http://www.ideas.economictimes.com,,1235213795
+489779,comment,489778,489778,0,0,chris11,,,"This is a pretty good example of why software should be released early and often. They managed to destroy all their momentum with an 18 month long development cycle.",1235213509
+489778,story,,,37,32,chris11,"The first open source Unix based OS wasn't Linux.",http://archive.salon.com/tech/feature/2000/05/17/386bsd/print.html,,1235213346
+489777,comment,489700,489700,0,0,CalmQuiet,,,"Fits with my experience:  So I appreciate having it stated so succinctly and pithily - anything that helps me stay ""on the wagon"" of good (if not speedy) practices.<p>Just to add to his three good reasons one ""bad"" (but motivating) reason for not writing ""disposable crap"":  you save the embarrassment of having someone else read the ""stuff you never meant to leave in.""",1235213199
+489776,story,,,4,0,seshagiric,"Ask: Financing options for startups",,"What is your opinion about each of the following investment fund sources:<p>- venture capital<p>- bank loan<p>- own capital<p>Questions:<p>- Is it OK to source from both venture capital and bank loan?<p>- How do you arrive at what % of requirements should be sourced from where?<p>- Is it a good idea to invest personal savings",1235213183
+489775,story,,,1,0,vp,"Linux Server Administration Commands",http://www.techcuriosity.com/resources/linux/linux_server_administration_commands.php,,1235212405
+489774,comment,489128,489128,0,0,zafarali,,,"this is atrocious!",1235211997
+489772,comment,489684,489740,0,0,dfranke,,,"No, but the way that ""network communication service"" is defined, you have to do the log retention even if it's encrypted and you're the only one who uses it.",1235211534
+489771,comment,489120,489423,0,0,dpeq,,,"I don't think that you should reason too much from the font somebody uses. Plenty of successful websites started out with an amateurish look and for some of them it's still a trademark.",1235211476
+489770,story,,,1,0,chriskelley,"Ask HN: Anyone in Miami for FOWA?",,"Got down to Miami this afternoon for the Future of Web Apps conference, anybody else down here and want to arrange a meetup?  Anyone going to BarCamp on Sunday?",1235211187
+489769,comment,489467,489467,0,0,andyjenn,,,"On reading this, I am reminded of the decision by the BBC not to broadcast the Gaza fundraising appeal on the grounds of it affecting its reputation for impartiality.",1235211059

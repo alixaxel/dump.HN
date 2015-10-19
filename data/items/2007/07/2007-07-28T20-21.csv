@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37337,comment,37243,37243,0,0,mattmaroon,,,"Poker bots are far from a problem yet. They excel at heads up limit hold'em, but as more players enter the table they get progressively worse. Even the best of them can't yet beat a low limit full table.<p>Eventually they will though. And there will be no real way to stop them. We've got some time, and how much depends on who you ask. <p>Also, the human vs computer match cited doesn't really mean much, for reasons I'll leave for a poker blog entry.
+",1185656071
+37336,story,,,11,4,nickb,"Evolutionary algorithms now surpass human designers",http://www.newscientisttech.com/channel/tech/mg19526146.000-evolutionary-algorithms-now-surpass-human-designers.html,,1185655019
+37335,story,,,8,3,pg,"In a Highly Complex World, Innovation From the Top Down",http://www.nytimes.com/2007/07/29/business/yourmoney/29ping.html?ex=1343361600&en=59209d9c55f8aef6&ei=5090&partner=rssuserland&emc=rss,,1185654585
+37334,comment,36905,36965,0,0,andersholtsberg,,,"It is rather interesting to look at Paul's list of 
+implementations of an accmulator in different languages:<p><a href=""http://www.paulgraham.com/accgen.html"" rel=""nofollow"">http://www.paulgraham.com/accgen.html</a><p>In my very biased and unlearned view the simplest readable
+versions are Javascript and Lua. And Lua has server side
+libraries for CGI and SQL and other goodies (search for
+Xavante on the net). Just a tip for those poking around
+for readable and clean language alternatives. And Lua just
+got up to position 18 on the Tiobe index this month.<p><a href=""http://www.tiobe.com/tpci.htm"" rel=""nofollow"">http://www.tiobe.com/tpci.htm</a><p>Hackers and Paiter page 161, The hundred years language:<p>""How far will this flattening of data structures go? I can
+think of possibilities that shock even me, with my 
+consiously broadened mind. Will we get rid of arrays for
+example? After all, they're just a subset of hash tables 
+where the keys are vectors of integers."" <p>Lua does exactly this. And is quite efficient anyway. <p>Anders Holtsberg<p>",1185654334
+37333,comment,37246,37287,0,0,pg,,,"Yes. There is an almost palpable buzz of energy at YC.  I think it may turn out to be one of those hotspots like Parc was.",1185653988
+37332,comment,37246,37259,0,0,ryantmulligan,,,"I think you should be investing in having more time. Unless your company is what you want to be doing constantly, in which case you should invest all of your money in your company, so your company can do exactly what you want and doesn't have to take crap from anyone.",1185653900
+37331,story,,,6,0,nickb,"Dilbert on Agile Programming",http://www.dilbert.com/comics/dilbert/archive/dilbert-20070728.html,,1185653781
+37330,comment,37246,37292,0,0,pg,,,"From what I've seen, getting rich doesn't seem to change most people's level of motivation much.  The people who were driven before tend to stay driven.  <p>Getting rich can be a danger to people who aren't very driven.  But you don't have to worry about that problem if you're starting a startup.  If you're not driven, it's unlikely your startup will make you rich.",1185653535
+37329,comment,37277,37277,0,0,pg,,,"I love this sort of thing.  While Google and the city govt are mired in negotiations about how to give SF free wifi, a little startup just goes around them and does it.",1185653019

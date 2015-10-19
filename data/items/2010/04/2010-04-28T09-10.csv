@@ -1,0 +1,110 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1301183,comment,1301007,1301163,0,0,ErrantX,,,"The last releases of Pine appear to be in '05 too.",1272448772
+1301182,comment,1301007,1301054,0,0,dailo10,,,"You can also select messages that aren't on the screen.  You click ""Select: All"" and then ""Select all conversations that match this search"".",1272448720
+1301181,comment,1299649,1300479,0,0,qq66,,,"They're just trying to keep the best technology away from competitors. At their scale it's worth the money. Half a billion is nothing compared to iPod/iPhone/iPad profits -- if they can keep the technology out of competitors' hands for 6 months it's worth it.",1272448639
+1301179,comment,1300546,1300817,0,0,MrMatt,,,"True, but the burdon of proof is on the prosecution. If they have proof, the they could sue, but this looks more like a flimsy attempt to gain information.",1272448386
+1301178,story,,,2,0,dreemteem,"Apple buys iPad A4 chip maker",http://news.techworld.com/sme/3221903/apple-buys-ipad-a4-chip-maker/?cmpid=TD1N2&no1x1,,1272448372
+1301177,comment,1300953,1300953,0,0,iamcalledrob,,,"It's rather slow.<p>I've used this on a few projects before, and always found it took several seconds to ""do its thing"" on a mildly complex site.<p>Remember that the typical computer that runs IE6 is not new hardware, and is probably already throttled by corporate bloatware in the systray.",1272448371
+1301175,comment,1301172,1301172,0,0,jaekwon,,,"It needs peer review.",1272448359
+1301174,story,,,1,0,samratjp,"Google Street View Knows a Lot About You, but Your ID Is Safe ",http://www.fastcompany.com/1629408/google-street-view-wireless-wifi-photos-imagery-privacy-germany-maps-3d-scans,,1272448255
+1301173,story,,,4,1,betageek,"Ask HN: Is Facebook Graph API ready for production use?",,"Have been looking at the Facebook Graph API and having some major problems. A lot of the API documentation appears to be wrong (the first example on http://developers.facebook.com/docs/api doesn't generate the JSON it says it should) and some of the code generators generate code that just doesn't work (http://developers.facebook.com/docs/reference/plugins/like-box).<p>Have hacked around and managed to get things working but unsure if I should use in production - would appreciate any thoughts & experiences.",1272448164
+1301172,story,,,4,3,jaekwon,"Oil vs Grand Canyon",http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=k&oe=UTF8&msa=0&msid=100144981913750716605.000485488a4f446beb83a,"I just wanted to get a sense of what we're burning so I did some quick calculations. Needs peer review.",1272448074
+1301171,comment,1300882,1300882,0,0,aac74,,,"Krugman fails to mention that this is the corrupt fallout from his cheerleading in 2002 for low interest rates in order to create a housing bubble to fill the void of the .com bubble !<p>""Alan Greenspan needs to create a housing bubble to replace the Nasdaq bubble."" - Krugman 2002<p><a href=""http://www.nytimes.com/2002/08/02/opinion/dubya-s-double-dip.html"" rel=""nofollow"">http://www.nytimes.com/2002/08/02/opinion/dubya-s-double-dip...</a>",1272448062
+1301169,comment,1300546,1300783,0,0,luminary,,,"I actually wrote about this the other day: <a href=""http://whislr.com/2010/04/20/a-different-approach-to-building-dating-sites/"" rel=""nofollow"">http://whislr.com/2010/04/20/a-different-approach-to-buildin...</a>",1272447954
+1301168,comment,1300237,1301034,0,0,blasdel,,,"How do you square that with him having designed a byzantine language, written an inefficient implementation, and built a standard library that's the most excessive of all time?<p>The things he disdains as novel in other languages are 40 years old — as old as he is!",1272447950
+1301167,story,,,1,0,rohitarondekar,By_star,http://ryanbigg.com/2010/04/by_star/,,1272447903
+1301166,comment,1300680,1300680,0,0,qq66,,,"Of course. Bach, Shakespeare, and Michelangelo can hold their own with the best that have ever existed.",1272447894
+1301164,comment,1300953,1301130,0,0,zalew,,,"could you elaborate on the bugs?",1272447620
+1301163,comment,1301007,1301116,0,0,njn,,,"I think it's from 2005. The Gmail logo he uses still says 'beta', and he links to this blog entry from 2005: <a href=""http://www.zeldman.com/daily/0405d.shtml"" rel=""nofollow"">http://www.zeldman.com/daily/0405d.shtml</a>",1272447545
+1301162,comment,1301007,1301072,0,0,surki,,,"Did you try Wanderlust(emacs)?
+I previously used to have offlineimap(gmail) + Mutt.
+Wanderlust has wonderful support for IMAP.",1272447537
+1301161,comment,1301086,1301086,0,0,gommm,,,"That was my bible when I was a kid, I spent so much time reading and pondering over it... It really is a great book although it's getting to be a bit outdated, a lot of the concepts and ideas can still be very useful.",1272447514
+1301160,comment,1299029,1299768,0,0,adnam,,,"Would you mind moderating your language?",1272447513
+1301159,comment,1301007,1301007,0,0,pierrefar,,,"""If no email is selected, the Y key should archive the email under the cursor. This should be common sense.""
+Nope, bad idea. I inadvertently hit keys often enough that the message ""No messages are selected"" is engraved in my brain. Don't make these bad key hits do actions.",1272447426
+1301158,comment,1300791,1300888,0,0,gommm,,,"The problem is that from my experience trying to hire here, it's extremely difficult to find good engineers.... Cheap engineers are dime a dozen, but quite a few I've interviewed can't even do the fizzbuzz test.<p>And of those that could most were needed a lot of hand holding to do any basic tasks (and some of those were people with 3 years experience, I can't imagine how they could have provided any value to the company they were working for)",1272447286
+1301157,comment,1300872,1300872,0,0,jamaicahest,,,"Seems like a chapter out of <a href=""http://www.amazon.com/Google-Story-Googles-10th-Birthday/dp/038534273X/"" rel=""nofollow"">http://www.amazon.com/Google-Story-Googles-10th-Birthday/dp/...</a>",1272447281
+1301156,comment,1300867,1300867,0,0,jjs,,,"If you're just doing it to keep your head down and live a comfortable existence, then yes, a little bit.<p>But if you're doing something that you find satisfying, challenging, fascinating, or worthwhile, then I would never dare to look down on you.<p>For me, the real point of entrepreneurship is to take control of your own destiny.  If you're doing what you really want to be doing, then you're already there!  Just remember to live beneath your means and build a nice cash cushion, so you can <i>keep</i> control of your destiny as well.",1272447255
+1301155,story,,,1,0,primemod3,"Most web servers by company",http://www.intac.net/a-comparison-of-dedicated-servers-by-company_2010-04-13/,,1272447146
+1301154,comment,1301007,1301113,0,0,tumult,,,"You can use C-y to yank killed text back, unless the application is specifically interfering with it.",1272447090
+1301153,comment,1301007,1301101,0,0,tumult,,,"I believe like IMAP normally does -- newest takes priority.",1272447000
+1301152,comment,1301007,1301110,0,0,d0mine,,,"<p><pre><code>  ;; Gnus
+  ;; . http://jfm3-repl.blogspot.com/2007_12_01_archive.html
+  (setq mail-user-agent 'gnus-user-agent)	     ; always use gnus for email
+  (setq message-send-mail-partially-limit nil) ; never split messages
+  (setq message-signature nil)		     ; no .signature
+  (add-hook 'message-send-hook 'ispell-message) ; spell check on sent
+
+  ;; . encrypt .authinfo file
+  (require 'epa-file)
+  (epa-file-enable)
+  (setq epa-file-cache-passphrase-for-symmetric-encryption t)
+  ;; .  define mail/news sources
+  (setq gnus-select-method '(nnnil """")
+      gnus-secondary-select-methods
+        '(
+	  (nnml """")
+	  ;; to add rss: type G R in *Group* buffer; when asked, paste url
+	  (nnimap ""gmail""
+		  (nnimap-authinfo-file ""/path/to/.authinfo.gpg"")
+		  (nnimap-address ""imap.gmail.com"")
+		  (nnimap-server-port 993)
+		  (nnimap-stream ssl))
+	  ))
+  ;; Accessing the [Gmail] folders http://www.emacswiki.org/emacs/GnusGmail
+  (setq gnus-invalid-group-regexp ""[:`'\"]\\|^$"")
+  (setq gnus-ignored-newsgroups """")
+  ;; After that, S s to the groups as specified above. Before doing
+  ;; anything else, G c configure each Gmail line, and hit [done]. Gnus
+  ;; will pick up “another” group, this time without the nnimap+gmail
+  ;; designator. C-k the old group and it works! (I don’t know why; I
+  ;; originally wanted gcc-self “nnimap+gmail:[Gmail]/Sent Mail” on
+  ;; INBOX and this was the easiest way to arrange that. Magically, it
+  ;; picked up the new INBOX and everything worked, even across
+  ;; sessions.)
+
+  ;; . save sent items
+  (setq gnus-message-archive-method '(nnimap ""gmail""))
+  (setq gnus-message-archive-group ""nnimap+gmail:[Gmail]/Sent Mail"")
+  (setq gnus-gcc-mark-as-read t) 
+  ;; .
+  (setq gnus-thread-sort-functions
+      '(gnus-thread-sort-by-number
+        gnus-thread-sort-by-date
+        gnus-thread-sort-by-total-score))
+  (setq gnus-summary-line-format
+      ""%U%R%z %d %I%(%[%-25,25n%]%) %s\n"")</code></pre>",1272446986
+1301150,comment,1298130,1298504,0,0,dagw,,,"The retail price I've seen quoted a couple of places in €370, which would make it significantly cheaper than the iPhone or HTC android phones, and on par with the lower end Samsung Android phones.  If they can make the UI work well enough I can see the combination of the Nokia name, cool selling points (HDMI out, 12MP camera etc.) and low price make this a phone that sells quite well.",1272446919
+1301149,comment,1300835,1301084,0,0,blasdel,,,"Well that's just the bizarre missing feature to install apps to the SD card, combined with the manufacturers's braindead insistence in shipping the devices with the least amount of inbuilt flash that they could possibly get away with.<p>You can't even install the last several OS build on the 256mb in the G1 and other early devices! Instead of bumping that to a reasonable 4gb for a couple dollars, they just doubled it to 512. Even Google's high-end Nexus One comes with only 512mb!<p>WTFs all around. An SD card is nice, but I shouldn't <i>need</i> it.",1272446905
+1301148,comment,1299764,1299966,0,0,ido,,,"Try telling people you study mathematics ;)",1272446904
+1301147,story,,,26,0,prakash,"YouTube Quietly Begins Renting Movies",http://www.fastcompany.com/1625836/youtube-quietly-begins-renting-movies-warming-up-for-fight-against-apple-netflix-hulu-et-al,,1272446894
+1301146,comment,1300245,1300538,0,0,scottporad,,,"Right...everywhere is walking distance if you have enough time.",1272446873
+1301145,comment,1301086,1301086,0,0,ComSubVie,,,"I've read this book some time ago, it's definitely a must-read, however I'm not sure how valid the assembler-tuning tips are on current processors.<p>Somebody should write a new edition of this book which takes account of multithreading optimizations and best practices.",1272446841
+1301144,story,,,3,0,robg,"Venture Capitalists See Growth in Agriculture 2.0",http://www.nytimes.com/2010/04/22/business/energy-environment/22AG.html?ref=technology,,1272446840
+1301141,comment,1300546,1301123,0,0,jarin,,,"It's not written on punchcards, that's what!",1272446714
+1301140,comment,1300546,1300862,0,0,jarin,,,"Well you know what they say: there are user counts, damned user counts, and Alexa rankings.",1272446669
+1301139,comment,1300673,1300673,0,0,falava,,,"Five years ago I registered with them a wrong domain name, misspelled by my client. I asked them what could I do apart from registering the correct domain name this time, and they refounded my 12.54€ sending me a postal mail with a bank check. That was a good surprise for me, I will never go with another registrar.",1272446607
+1301138,story,,,2,0,dreemteem,"Linux machines linked to spam by dodgy study",http://news.techworld.com/security/3221892/linux-machines-linked-to-spam/,,1272446492
+1301137,comment,1300867,1300867,0,0,iuguy,,,"I don't look down on anyone. Everyone makes their own choices in life to move closer to the goal of happiness. Sometimes that involves running your own business. Sometimes it involves working for someone else's business. Sometimes it may not involve working at all.",1272446491
+1301136,story,,,35,26,yread,"The mystery of the mega-selling floppy disk",http://news.bbc.co.uk/2/hi/uk_news/magazine/8646699.stm,,1272446443
+1301134,comment,1299926,1300904,0,0,Tichy,,,"Love the post-it idea, hadn't heard of that before.",1272446296
+1301133,comment,1300673,1300908,0,0,ivenkys,,,"Actually, i think the day is already here , i am seeing quite a few software companies, small-to-medium sized, competing successfully by simply saying ""We will provide better customer service"".",1272446207
+1301132,comment,1299764,1300103,0,0,praptak,,,"Well, most people have above-average number of fingers :)",1272446134
+1301131,comment,1300237,1300237,0,0,rythie,,,"I've seen Rasmus speak twice and talked to him once. He certainly is very interested in APIs. It seems a theme of his to hack a mashup together with an API that exposes information that wasn't previously available.<p>I would guess that this post is more about his passion for APIs than it is about PHP.",1272446022
+1301130,comment,1300953,1300953,0,0,csytan,,,"I've tried using this on a few sites and it seems to fix some problems. However, it inevitably ends up causing new bugs.<p>I still think the best solution is to keep your CSS and javascript as simple as possible, while resorting to browser dependent stylesheets/scripts only as a last resort.",1272446020
+1301129,comment,1300546,1301044,0,0,blasdel,,,"They can be making inflated claims for their own fanciful reasons.<p>They don't need to be copycats to be dumbasses.",1272445995
+1301127,comment,1300867,1301107,0,0,mnemonicfx,,,"We should consider what profession we are in.
+I'm a software developer, and the opportunity for me to gain more and more luxurious or easy opportunities are slim. No matter which path I will take (entrepreneur or employment).<p>If you're an MBA or PhD from an Ivy League school, you maybe able to do that. But, what if you're just some dirt in your employer's shoe?",1272445920
+1301125,comment,1300867,1300867,0,0,psyklic,,,"When friends of mine get married or get in serious relationships, I am happy for them. But I am also (selfishly) disappointed, because that means less time hanging out with me and sharing life experiences.<p>I see this in a similar way -- I perceive many employed friends as being tied up time-wise by the combination of work and (for many) family. Often, they fall off my radar because they wouldn't be able to help out with interesting projects due to exhaustion from work or due to work-related restrictions.",1272445902
+1301124,comment,1292949,1294206,0,0,KAmy,,,"its may 1st, 8:00pm - 2:00am
+20 north st",1272445872
+1301123,comment,1300546,1300839,0,0,randomtask,,,"What's wrong with it being written in c++?",1272445737
+1301122,comment,1300867,1300867,0,0,arethuza,,,"""If you're smart enough, not a sheep"" - sounds like a sociopath from the sociopath/clueless/loser model of organizations:<p><a href=""http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"" rel=""nofollow"">http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-o...</a>",1272445725
+1301120,comment,1300407,1300407,0,0,mnemonicfx,,,"WOW, so many commenters are complaining about the blog design, instead of the content of the post.<p>People should stop being so serious. People should take a look at things from a different perspective, and gain positive values from it.",1272445649
+1301119,comment,1301007,1301007,0,0,gluegadget,,,"Using Labs ""Mark as Read Button"" will reduce the steps required to mark messages as read to two steps (mentioned as the first in ugly)",1272445549
+1301116,comment,1301007,1301007,0,0,cptnred,,,"How old is this article? It says April 2010 at the top, but most the comments are from 2005-2006.",1272445437
+1301115,story,,,10,0,mickeyben,"Learnings from Five Years as a Skype Architect",http://www.infoq.com/articles/learnings-five-years-skype-architect,,1272445329
+1301114,story,,,1,0,scottporad,"Hiring is Hard at Scott Porad",http://www.scottporad.com/2010/04/27/hiring-is-hard/,,1272445300
+1301113,comment,1301007,1301105,0,0,drunkpotato,,,"For Mac users who might not know, the standard text widgets in OS X use a subset of Emacs keybindings, so you can use C-a, C-e, etc to quickly navigate, which is handy if you have your Caps Lock key remapped to Ctrl (in the Keyboard system preferences) and are used to Emacs.<p>Two caveats: 1) no meta key, which makes navigation less handy sometimes; 2) C-k will kill the line, but I haven't found a kill-ring and you can't use C-y to yank the line back! This has bitten me a couple of times.<p>It's definitely nothing close to having a full text editing Emacs widget, but I've found it handy.",1272445269
+1301112,comment,1299029,1299029,0,0,donaq,,,"That was an interesting read. I think Zed has very nicely anticipated many questions a novice programmer might ask while avoiding the trap of trying to spare them the grunt work required to understand the basic concepts a programmer requires.",1272445235

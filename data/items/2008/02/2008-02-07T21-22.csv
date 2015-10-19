@@ -1,0 +1,71 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+111437,comment,110451,110451,0,0,mwmanning,,,"Does anyone have figures for acceptance rates from previous years?  I'd like to have a rough idea what my chances of getting to go are.",1202421554
+111436,comment,111398,111398,0,0,larrykubin,,,"I live in Austin, TX and find its size to be manageable, although it is growing fast. Is that too large for you? It has the University of Texas, its in the 'Hill Country', and has a lot of smart and creative folks. I don't have a car and ride nothing but the Capital Metro bus. The average age is pretty young here, so there are a lot of parties and such, which is a plus for some but minus for others. You will like it if you are into: lots of coffee shops with wireless access, live music (South By Southwest is just around the corner, and there are concerts all the time), lots of bars, the Texas Longhorns, attractive people, and some yuppie/hippie types. Lots of people hang out at Zilker Park (where the Austin City Limits Music Festival is) and run around Town Lake.",1202421529
+111435,comment,111398,111427,0,0,dfranke,,,"I actually like the climate.  I think it runs in the family: my aunt is moving to Donner Pass (yes, <i>that</i> Donner), voluntarily.",1202421440
+111434,comment,110465,110465,0,0,sabat,,,"the past != the future<p>statistical ""facts"" != your own experience",1202421417
+111433,comment,110571,110953,0,0,bayareaguy,,,"I guess I wasn't really thinking about why choose those names.  If it was just that you could have whatever you like - I like (hd x) and (tl x) but that's me.  Or even (0 x) and (1: x) could work.  A rose is a rose and all that.<p>What I was really thinking about were things like why have pairs as a primitive and why enshrine the idea of lists as pairs linked up in a certain way?<p>From ac.scm, it looks like the current set of primitives are:<p><pre><code>  (define (ar-type x)
+    (cond 
+        ((ar-tagged? x)     (vector-ref x 1))
+        ((pair? x)          'cons)
+        ((symbol? x)        'sym)
+        ((null? x)          'sym)
+        ((procedure? x)     'fn)
+        ((char? x)          'char)
+        ((string? x)        'string)
+        ((integer? x)       'int)
+        ((number? x)        'num)     ; unsure about this                                                                                
+        ((hash-table? x)    'table)
+        ((output-port? x)   'output)
+        ((input-port? x)    'input)
+        ((tcp-listener? x)  'socket)
+        ((exn? x)           'exception)
+        (#t                 (err ""Type: unknown type"" x))))
+</code></pre>
+So why that set?  Why have chars <i>and</i> strings <i>and</i> symbols?  Why have integers <i>and</i> numbers?",1202421381
+111432,comment,111282,111385,0,0,cos,,,"I suggested that at reddit about 6 months ago. Right around the time of the digg exodus. and I was called a Nazi/elitist/asshole. But I was right.<p><a href=""http://reddit.com/goto?id=2c2ux"" rel=""nofollow"">http://reddit.com/goto?id=2c2ux</a>",1202421230
+111431,comment,111282,111282,0,0,thehigherlife,,,"I think the problem is when people start commenting for the sake of commenting... And the more polluted your user base the more likely that is to happen.  I mean, i'm not going to lie, i know very little about programming but i do find interest in reading the stories and comments regardless of my own inability to code.  I knew that i had nothing to bring to the table to that conversation, so i minded my own business and tried to be a good observer.  Once the user-base becomes to crowded people get a false sense of entitlement, not necessarily because they feel like the have the right to comment, but that they need to comment.  I feel that if a social news site is going to succeed they have to find a way to curb that need as the community grows.",1202421208
+111430,comment,111100,111100,0,0,nickb,,,".(; sɹǝpuoʍ sǝop ǝɹnssǝɹd ɔı1qnd ɟo ʇıq ǝ1ʇʇı1 ɐ 'ǝǝs ¡ʍou ǝɯosǝʍɐ sı ɔɹɐ uı ʇɹoddns ǝpoɔıun ¡ɥɐɥ",1202421201
+111429,comment,110959,111316,0,0,mynameishere,,,"Serialized hash tables.",1202421181
+111428,story,,,2,3,bosko,"What are the benefits of living in the U.S for startups/tech?",,"I currently live in Canada, and from what I can see there is no benefit for me to move to the U.S. Ever. Healthcare, cost of living, etc ..<p>But it's obvious people live in the U.S in this kind of industry for a reason. Why is it?",1202421100
+111427,comment,111398,111419,0,0,aleclair,,,"I have to agree.  As a Mass hacker working for a small software company, the Somerville/Cambridge area is quite nice.  Although the climate can be, and I am being as frank as possible, unbearably shitty, it is a nice place.",1202421092
+111426,comment,110992,110992,0,0,Xichekolas,,,"BS Comp Sci - University of Kansas - 2005",1202421061
+111425,comment,111282,111282,0,0,cstejerean,,,"They left reddit and came here",1202421048
+111424,story,,,1,0,pius,"The Three Must-Have Rails Books for Beginners",http://toohardtopronounce.com/2008/2/7/the-three-must-have-rails-books-for-beginners,,1202420986
+111423,comment,111282,111307,0,0,mnemonicsloth,,,"PG does a lot to maintain news.yc, but it's probably his reputation that does most of the work.  My sense is that the people responsible for turning reddit from what it was into what it is see him as ""elitist,"" and don't want to be associated with him.<p>Which is fine with me...",1202420876
+111422,comment,110992,111088,0,0,misterbwong,,,"I've been thinking about getting an MS in HCI.  How did you like the program?",1202420847
+111421,story,,,2,0,uuilly,"Giants in Combat",http://www.economist.com/opinion/displaystory.cfm?story_id=10651824,,1202420821
+111420,comment,110890,111085,0,0,michaelneale,,,"Or just wait for the GTD fad to pass.",1202420818
+111419,comment,111398,111398,0,0,dfranke,,,"Somerville, MA fits the bill pretty well, for sufficiently small values of ""decent climate"".",1202420769
+111418,comment,111100,111401,0,0,Xichekolas,,,"Darn.<p>At least you were kind enough to let us know.",1202420675
+111417,comment,111398,111398,0,0,mfruhling,,,"Maryland is great.  You can live in Columbia, MD and be between Baltimore and D.C.  The IT salaries are very competitive and the cost of living is dramatically cheaper.  Tons of great schools and Universities.  Mountains 3 hours to the west, beaches 3 hours to the east.  It gets a little too cold Dec.-Feb..",1202420547
+111416,story,,,12,5,npk,"How to Reduce Plane Boarding Time by 4x",http://arxiv.org/abs/0802.0733,"This is the best use of MCMC to hack ""the system.""  Perfect ""surprising result"" for a Y Combinator application.",1202420544
+111415,comment,111100,111249,0,0,curi,,,"What kind of site does it make YC if this is how to get karma?",1202420540
+111414,comment,110992,110992,0,0,streblo,,,"(pursuing) BS Computer Science, BA Philosophy, Duke University",1202420345
+111413,story,,,8,24,mfruhling,"What programming tasks should you be able to accomplish to be considered an ""A"" ranked Hacker?",,"I'd like to know where I rank against my peers.  How can you figure out if you're at the top, middle, or bottom of your field?",1202420173
+111412,comment,111100,111100,0,0,leoc,,,£!,1202419844
+111411,comment,111205,111205,0,0,mechanical_fish,,,"Arrington says it so that I don't have to:<p>""But it’s not clear that any of them are in a hurry to become a 'relying party' (allowing users with third party OpenIDs to log in to their sites)... Everyone, of course, wants to be an ID issuer, since they get to 'own' the user.""<p>Is 'own' the genteel way to spell p0wn?",1202419636
+111410,comment,111100,111266,0,0,paulgb,,,"Hacker News now supports ""utf-8"", a way of storing text that supports characters from languages other than English.<p>The excitement comes from the fact that Hacker News is programmed in Arc, and the change to Hacker News implies that Arc will soon support utf-8 too.",1202419550
+111409,comment,111282,111282,0,0,danteembermage,,,"I had a similar experience; I submitted a Putnam problem here and there were several excellent proofs and a good discussion.<p>At programming.reddit I got ""try homework.reddit.com""",1202419460
+111408,comment,110898,110966,0,0,coffeeaddicted,,,"When was the last time you saw a bunch of molecules suddenly become self aware?",1202419450
+111407,story,,,2,0,byrneseyeview,"An IP Parable: Bob Dylan rips off an obscure memoir -- the author is delighted",http://www.csudh.edu/dearhabermas/plagiarbk010.htm,,1202419277
+111406,comment,110465,110674,0,0,randomhack,,,"uhh .. what is I/O psychology? maybe there is some obvious abbreviation that I am missing. but I/O .. well to a programmer that is always input-output and I am having a hard time thinking about what psychology might be involved in reading/writing to disks for instance.",1202419232
+111405,comment,110992,110992,0,0,fallentimes,,,"BS Finance, University of Dayton, 2006",1202419190
+111404,comment,110890,110890,0,0,wehriam,,,"I've been doing the same thing for a few years now. I try to ""leave the house"" - shopping, eating out, etc - every day. Having a dog also helps.<p>I am happiest when I have an active social life (out 2-4 times a week), although this can be difficult to maintain.",1202419163
+111403,comment,110992,110992,0,0,caudicus,,,"BS Computer Systems Engineering, Boston University",1202419141
+111402,comment,110992,110992,0,0,modoc,,,"Made it 1.5 years into an aerospace engineering program before realizing I was wasting my time and money.  I was making six-figures and had racked up tons of hands on experience working with startups and Fortune 500s by the time my classmates walked out with a piece of paper and some huge debts.",1202419107
+111401,comment,111100,111397,0,0,henning,,,"Super-duper. I'm not going to use Arc for anything serious until essential libraries are in place.",1202419049
+111400,comment,110571,110953,0,0,lisper,,,"I suggest FST and RST.  These are composable, e.g. FFRRST == CAADDR.",1202419040
+111399,comment,110992,111396,0,0,mrtron,,,"Haha, I know a few people working as developers at a big online retailer from Waterloo too.",1202418912
+111398,story,,,27,102,davidw,"Ask YC: Mid-sized, livable, hacker-friendly towns?",,"My wife and I are pretty sure that we're not going to stay here in Innsbruck after this summer (not positive yet, but it's likely).<p>So... we're starting to think about ""where?!"".  We have a child on the way, and I've ""done my time"" in the bay area.  I'd rather have a smaller chance at making a successful startup than deal with that rat-race again.<p>Our preference is for somewhere livable, with a decent climate, ""mid-sized"" (say 100K-500K), with a university, and some topography (dead flat places need not apply:-).<p>How's Boulder, Colorado?  Santa Fe, NM? Boulder's sort of up there on my list.  I like Southern Oregon a lot too (Ashland), but it doesn't offer much in the way of job opportunities.  My wife is in biotech, so someplace that offers something for her is high priority too (once again, the bay area would be good, but... not with a kid, and having to drive <i>everywhere</i>).<p>Anyone got a favorite mid-sized town that might not easily pop up on the radar, that more or less fits the bill?<p>Incidentally, this doesn't have to be in the US.  We would be in Padova, Italy if everything else were equal, but the political and economic situation in Italy is not pretty right now.   A romance language would probably be easier to deal with (indeed, I'm looking at an opportunity in Portugal).<p>Thanks guys,
+Dave",1202418853
+111397,comment,111100,111382,0,0,benmathes,,,"<a href=""http://paulgraham.com/core.html"" rel=""nofollow"">http://paulgraham.com/core.html</a>",1202418719
+111396,comment,110992,111363,0,0,hisham,,,"Systems Design Engineering from the University of Waterloo.<p>Also worked as a software developer at a big online retailer ;-).",1202418718
+111395,comment,111242,111330,0,0,csuper,,,"Gardner, KS.  (Kansas City area)",1202418689
+111394,comment,111271,111271,0,0,endlessvoid94,,,"It must be nice to have the problem of needing to prevent an onslaught of new users.<p>That's when you know your idea is pretty good.",1202418618
+111393,comment,110992,110992,0,0,wehriam,,,"B.S. Computer Science, FSU",1202418487
+111392,comment,110992,110992,0,0,copenja,,,"BS Comp Sci, UC Santa Barbara",1202418470
+111391,comment,110792,110923,0,0,pchivers,,,"Yep, I agree with the suggestion to remove the term ""cash money"".  Makes me think of a bad hip hop video--remember the Cash Money Millionaires? (<a href=""http://en.wikipedia.org/wiki/Cash_Money_Millionaires"" rel=""nofollow"">http://en.wikipedia.org/wiki/Cash_Money_Millionaires</a>)",1202418407
+111390,comment,110992,110992,0,0,thisisnotmyname,,,"BA in Computer Science from a tiny liberal arts college.  I worked as a programmer for 3 years. now I'm back in school, working on a PhD in the biomedical sciences at BCM.",1202418407
+111389,comment,111100,111380,0,0,olavk,,,"Arc uses MzSchemes reader (it modifies the readtable slightly to support []-syntax). AFAIK you cannot access the reader API from inside Arc. The reason Utf-8 is mentioned is that it is the default encoding when MzScheme reads or writes files or streams.<p>I don't think anyone at this point would claim that Arc supports unicode-in-general.",1202418346
+111388,comment,111271,111271,0,0,dottertrotter,,,"Anyone got an invite they can send me?",1202418185
+111387,comment,110992,110992,0,0,danprager,,,"PhD in Mathematics (computational physics), 1997.  Self-taught at programming from age 14.  After finishing my PhD I decided to get out of academia.  Didn't want to work as a ""quant"", hence: software (mainly programming).",1202418037

@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34400,comment,34317,34344,0,0,bootload,,,"<i>""... More or less content-free blog post ...""</i><p>James, how? <p>I can see a couple of good messages here. The first, in a market where there is a lack of lead developers. It shows one path, that one person took to get the knowledge & tools needed to create a product. The second is the <i>""where are all the chick developers? ... they can't handle, 'tech stuff', etc ...""</i> needs to be put into proper context. They are around if you care to look & seem to be doing an ok job ~ <a href=""http://pownce.com/"" rel=""nofollow"">http://pownce.com/</a>",1184554349
+34399,comment,34192,34192,0,0,akkartik,,,"<a href=""http://paulgraham.com/essay.html"" rel=""nofollow"">http://paulgraham.com/essay.html</a>
+",1184553719
+34398,comment,34346,34346,0,0,budu3,,,"I donno if I'd take any of his advice but I like him. He's cool. :)",1184552656
+34397,story,,,1,0,amichail,"How do you handle accounts with facebook and non-facebook versions of your service?",,"To make it as easy as possible, registration should be automatic for facebook users.<p>But what happens for the non-facebook version?  How can users use the same account in both the facebook and non-facebook versions?",1184551980
+34396,story,,,4,0,far33d,"Five lessons in viral marketing",http://lsvp.wordpress.com/2007/07/15/five-lessons-in-viral-marketing-from-a-crowd-experiment/,,1184551884

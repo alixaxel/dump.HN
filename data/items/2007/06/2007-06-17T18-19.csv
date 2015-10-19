@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28705,comment,28699,28700,0,0,inklesspen,,,"No need. Your music is stored on your hard drive. So all you need is a daemon that synchronizes your music directory with your remote server. Hmm, remote synchronization. Maybe we could call it rsync, for short.",1182106747
+28704,story,,,2,0,donna,"Let customers know exactly why they need your business. ",http://www.entrepreneur.com/magazine/entrepreneursstartupsmagazine/2007/february/173980.html,,1182106675
+28703,story,,,21,43,pg,"Life of a Chinese Gold Farmer",http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ex=1339732800&en=1676d344608cb590&ei=5090&partner=rssuserland&emc=rss,,1182105950
+28702,comment,28701,28701,0,0,terpua,,,"What's missing in the current crops of products?",1182105430
+28701,story,,,3,2,terpua,"Do we need another photo sharing app?",,,1182105396
+28700,comment,28699,28699,0,0,terpua,,,"The software would allow for continuous and automatic itunes backup to your ftp server.",1182105340
+28699,story,,,1,8,terpua,"Who wants an itunes ftp gateway?",,,1182105225
+28698,comment,28640,28640,0,0,tx,,,"Comment #5 on that page is absolutely hilarious and so true...",1182105097
+28697,story,,,2,0,vlad,"Shredder Chess engine goes remote: play via AJAX; chess engine runs on a server",http://www.shredderchess.com/play-chess-online.html,,1182103792
+28696,comment,28659,28693,0,0,paulgb,,,"The slider is really useful and cool (I like the effects as well), I did not see it the first time around. You might want to add a description of some sort so that people don't miss it or get confused about what it does.",1182103394

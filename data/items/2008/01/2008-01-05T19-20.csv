@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95179,comment,95159,95159,0,0,cstejerean,,,"the tax implications are a bit scary. I guess it would be best to register an LLC and enter that way.",1199562941
+95178,comment,94840,95165,0,0,scooter53080,,,"For me, it is the tone of the comment (warning me about this information) that makes it partisan.",1199562503
+95177,story,,,3,1,makimaki,"Is it Time to Declare Music Downloads a Loss Leader? ",http://www.readwriteweb.com/archives/music-downloads-are-free.php,,1199561751
+95176,comment,95039,95039,0,0,scooter53080,,,"The third example on the type safety slides bugs me (using the type safe comparison operator to prevent both a boolean true and non-zero int evaluating the same.)  I would prefer use of a consistent return type from the function to begin with.  I guess since some built in php functions behave this way, it's important to know/use...but I don't think I would recommend writing a function such that the type safe equal check is necessary.",1199561507
+95175,comment,95173,95173,0,0,corentin,,,"This is pure speculation. Moreover, business isn't war and companies don't ""hate"" each other; they just happen to be in competition on some markets.",1199561267
+95174,story,,,2,0,zoltz,Pandaplomacy,http://www.economist.com/world/asia/displaystory.cfm?story_id=10278738,,1199560652
+95173,story,,,35,11,nickb,"The Most Hated Company In the PC Industry",http://itmanagement.earthweb.com/columns/executive_tech/article.php/3719776,,1199559961

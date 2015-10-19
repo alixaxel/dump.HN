@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25176,comment,25170,25172,0,0,antirez,,,"Actually the easter egg only works if the given page is interpreted as PHP.",1180435969
+25175,comment,25170,25172,0,0,ivan,,,"If you try these strings on a URL that isn't PHP, they won't work, even if the web server has PHP support. In any case you can:
+1. Try it somewhere.
+2. Visit <a href=""http://37signals.com/index.php"" rel=""nofollow"">http://37signals.com/index.php</a>
+3. Ask'em directly.
+",1180435906
+25174,comment,25039,25039,0,0,Tichy,,,"I don't quite understand: how do they trade the airtime? I don't think in Europe there is a way for a phone user to transfer his airtime to someone else? I can see how they could trade the prepaid cards, but how does the mobile banking work?",1180434696
+25173,comment,25146,25151,0,0,pashbonk,,,"Sure, no problems, SwellJoe. What are your personal Top 3 Open Source project sites (like SourceForge)?",1180434432
+25172,comment,25170,25170,0,0,davidw,,,"Isn't that just telling you that the web server has PHP loaded into it?",1180434392
+25171,comment,25170,25170,0,0,ivan,,,"PHP Easter eggs tell us everything:<p><a href=""http://basecamphq.com/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000"" rel=""nofollow"">http://basecamphq.com/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000</a>
+<a href=""http://backpackit.com/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000"" rel=""nofollow"">http://backpackit.com/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000</a>",1180433733
+25170,story,,,5,23,ivan,"Basecamp and Backpack from 37signals use PHP",,,1180433690
+25169,comment,24299,24649,0,0,mogston,,,"Regarding the top navigation bar, we've already started work on a new nav bar that will give greater clarity and be easier to use, and will be topic based...<p>I will will post an update when the new nav is online.<p>Thanks for your comments so far!",1180433549
+25168,comment,25135,25167,0,0,antirez,,,"Perhaps it's possible to mix this two things to get something like:<p>ruby {<p> .... ruby code defining stuff ...<p>
+}<p>attrib: @stuff<p>Self contained, not a new language, able to define stuff relative to other stuff.",1180433431
+25167,comment,25135,25166,0,0,pc,,,"Ah, misunderstood you first time round. The problem with just doing symbol expansion is that you can't have values that depend on other values (like the ""Width + 10"" example in the post). For us, this has been a large part of the gain.",1180432965

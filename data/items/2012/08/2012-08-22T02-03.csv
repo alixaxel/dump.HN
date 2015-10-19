@@ -1,0 +1,216 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4415843,comment,4413569,4415380,2,0,joezydeco,,,"Pretty much the latter.  A few in our group also had kids over the last few years.  That's a guaranteed premium hike right there.",1345604377
+4415842,comment,4414079,4415197,3,0,purplelobster,,,"No bootstrapping? That's my favorite word.",1345604309
+4415841,story,,,2,0,millerski150,"Things That Motivate Employees More Than Money",http://business.time.com/2012/08/21/9-things-that-motivate-employees-more-than-money/,,1345604242
+4415840,story,,,1,0,marcieoum,"Facebook Trumps Yahoo as Second Most-Popular Video Site",http://mashable.com/2012/08/19/facebook-second-video/,,1345604212
+4415839,comment,4414079,4415760,1,0,spiffytech,,,"Those figures fit with what I remember about ad revenue. If I remember right, it's normal for around 2% of hits to convert into an ad click. If we pair that with a $0.50 mean earning-per-click (memory and a cursory search of the Internet say this is reasonable), we get:<p><pre><code>  $0.50 * (1.5 million * 2%) = $15,000/mo.
+</code></pre>
+That leaves some leeway for Crranky to have worse performance and still hit his quoted $10,000/mo.",1345604192
+4415838,story,,,2,0,niels_olson,"FSMRIB Software Library: tools for fMRI analysis",http://www.fmrib.ox.ac.uk/fsl/fsl/list.html,,1345604188
+4415837,comment,4415504,4415785,1,0,denniskubes,,,"I have updated the article to show both the git reflog and using the HEAD file.",1345604177
+4415836,comment,4414280,4415572,2,0,astrodust,,,"Facebook has an enormous empire, but like so many physical empires and virtual ones before it, size is not always an asset. Facebook was built on the ashes of MySpace which grew in the fertile remains of Geocities.<p>I can't wait until something takes root in the post-apocalyptic wasteland that is Facebook's overly gentrified, douchebag-riddled internet experience.",1345604171
+4415835,comment,4413277,4413775,2,0,inthewoods,,,"Couldn't agree more - very difficult to measure your impact - we're using attribution modeling to get there.",1345604154
+4415834,comment,4415661,4415661,1,0,gcb,,,"Web safe here meaning anything except what it means.",1345604110
+4415833,comment,4415832,4415832,2,0,Jonovono,,,"Hey HN!<p>So this is something I have been working a bit on in my spare time (err, I mean, I just wrote it in 3 seconds :p).<p>I have been using Github since I got into coding a little while ago and I love it. It makes it super easy to store files, find projects that are helpful, and just encourages the idea of open source by making it easy and fun. I feel like I have learnt a great deal just downloading peoples code and making changes to it and seeing the process they went through. I have been wondering what a similar site like this would look like if it was made for people unfamiliar to Git and would never take the time to learn a new language or whatever do collaborate or use version control.<p>Right now it works very simply. It is like Google docs but everything is public (I will be introducing private projects). You can upload changes by dragging a new document onto the page and it will be stored. You can annotate files, highlight text, etc. Right now it supports images, text docs (code), pdf, doc(x), and excel. I think it would be exciting to have a system where people could come and collaborate on things such as books, textbooks, etc.<p>I have seen a few cases here on HN where such a system is discussed but I have not seen any solutions.<p>One of those was how Wired used Github to publish an article (<a href=""http://news.ycombinator.com/item?id=3631618"" rel=""nofollow"">http://news.ycombinator.com/item?id=3631618</a>). They were not happy with this solution however and are looking for another system that is more user friendly. But the demand is there. I think it would be awesome to be able to easily suggest mistakes on articles and allow an easier way for the author to accept those.<p>Another was about a git powered Project Gutenberg (<a href=""http://news.ycombinator.com/item?id=3638917"" rel=""nofollow"">http://news.ycombinator.com/item?id=3638917</a>). Gutenberg is a mess (no nice way to view, no consensus on what the base text format should be) and git would be an interesting solution but again it is not that user friendly. As an example I put a couple PG documents on Rubberdocky (<a href=""http://rubberdocky.com/ProjectGutenbergFiles/Siddhartha"" rel=""nofollow"">http://rubberdocky.com/ProjectGutenbergFiles/Siddhartha</a>).<p>I am hoping to make use of a cool project I just ran into called substance.io to make it easy for people to collaborate on documents.<p>Rubberdocky is not the solution yet, but I am hoping to steer it that way by getting some feedback from interested user. If you are interested in the idea email me contact@rubberdocky.com and we could discuss this in more detail! Im looking for some web designers/UI to maybe join forces (I know supposed to find someone you know, but desperate times). If you get some errors email me or Tweet me <a href=""http://www.twitter.com/rubberdocky"" rel=""nofollow"">http://www.twitter.com/rubberdocky</a>.",1345604059
+4415831,story,,,1,0,sneaker2008,"Louis Vuitton Wallets Cheap For Sale",http://www.lvokbuy.com/louis-vuitton-wallets-c-49.html,,1345604031
+4415830,comment,4412804,4415171,1,0,Dove,,,"That all changed with the release of the full game last November.  Animals no longer spawn at all, but are rather found in newly generated chunks and then bred.  Seeds come originally, not from grass, but from Tall Grass.<p>I know, grass used to be a precious resource.  I spent hours cultivating it myself back in beta!  But these days it's mostly decorative.  You can even mine it and put it wherever you want.",1345603958
+4415829,story,,,2,0,mgunes,"Tags don't cut it",http://stdout.be/2010/04/07/tags-dont-cut-it/,,1345603940
+4415828,story,,,1,0,gregdougherty,"Feature comparison: Spotify vs. Rdio vs. MOG",http://skiptunes.com/comparing-subscription-music-streaming-services.html,,1345603927
+4415827,comment,4413277,4414100,5,0,inthewoods,,,"""Old-style marketing is where you run around to meetings and conferences, build relationships, convince people one on one. Old-style marketing is dead. I say this as an old-style marketer.""<p>I'm pretty sure you're describing sales rather than marketing. And growth hacking, while a cool approach, hasn't replaced anything in traditional, old-style marketing - as a recent meeting at P&G has shown me.<p>To me, the growth hacking idea is simply another way of saying ""how do we make our product viral"", which was the question everyone asked me after Hotmail blew up.  The difference, and I think there is one, is that you think of putting someone in a marketing role in charge of this, instead of product, with the assumption that the marketer actually has some clue as how to create growth.<p>That all being said, as a marketer, I'm intensely data focused!",1345603922
+4415826,comment,4414411,4415587,1,0,bps4484,,,"good to know, thanks for the correction.",1345603917
+4415825,comment,4414764,4415174,1,0,7402,,,"Context matters. (See, for example,  <a href=""http://hollister.ca.gov/Site/html/gov/office/police/documents/12-03810852.pdf"" rel=""nofollow"">http://hollister.ca.gov/Site/html/gov/office/police/document...</a> ).<p>Interpreting ""Legal speak"" is not like a compiler checking syntax. It's more like interpreting a project's specifications in a way that makes sense. Just as in any important job, judgement matters.",1345603794
+4415824,comment,4414728,4414728,1,0,llawliet,,,"Very nice, and I appreciate the dark UI.  I would like to see a faster UI though and an option to edit text in line.  Also a native app for Android/iPhone would be good.  I found the webpage loaded very bad on my Nexus One.",1345603792
+4415823,comment,4415076,4415250,1,0,mapster,,,"yes, the UPS truck stopping in front of the house to deliver a package full of floppies full of freeware. That was a 'download'. But more importantly I recall the wonderful years of 92-94 when the internet was really blooming and become a reality for the masses - there was feeling that something profound and very special was occurring and I was watching it come alive. Now if only I would have snapped out of my glassy eyed haze and snapped up some domains, that would be a cherry on top.",1345603754
+4415822,comment,4415135,4415724,1,0,officemonkey,,,"He said it better than I, that's for sure.",1345603705
+4415821,comment,4413277,4413277,0,0,suyash,,,"WRONG TITLE: This post is about developer evangelism than marketing lessons. Please make sure you know what you're talking about @author",1345603651
+4415820,comment,4415643,4415817,2,0,3am_hackernews,,,"I was under the impression that quality triumphs over quantity for these cases.",1345603605
+4415819,story,,,1,0,clockies,"SASS Inspector for Chrome",https://chrome.google.com/webstore/detail/lkofmbmllpgfbnonmnenkiakimpgoamn?hl=sv&gl=DE,,1345603515
+4415817,comment,4415643,4415749,3,0,lacker,,,"9gag is a pretty obvious selection - they have tens of millions of users.",1345603479
+4415816,comment,4414375,4414375,6,0,dvse,,,"Some really nice suggestions in the article that for whatever reason are not often brought up while discussing maths education.<p>A good way to bootstrap the ""math avengers"" website would be to get people to write up running commentary to some classic maths texts, e.g. Silvanus Thompson (out of copyright), Halmos, Rudin etc.<p>Essentially all high school maths programs are less than great to put it politely and often created by people with rather limited appreciation of the subject. Better university textbooks are not readily accessible without an instructor. Running commentary from several authors giveing additional motivation, examples, clarifications or alternative derivations can be of great help to students and wikipedia style platform can be great for organising such a project.<p>Sites like wikipedia and mathoverflow / stackexchange are great for specific questions but lack structure - centering the efforts around certain ""canonical"" texts can help to organise the material which otherwise would be overwhelming.",1345603479
+4415815,story,,,1,0,ensnoopy,"How to Convert WMV to MOV on Mac",http://www.league-soft.com/how-to/convert-wmv-to-mov-mac.html,"This is a guide written to tell you how to convert WMV to MOV on Mac with Video Converter for Mac.",1345603448
+4415814,comment,4414745,4415763,2,0,madoublet,,,"I think that if you believe the goal of Windows 8 is to compel people to move from 7 to 8, you are missing the point.  The goal of Windows 8 is to sell new hardware, specifically touch hardware.",1345603375
+4415813,comment,4415661,4415769,3,0,state,,,"I wonder what makes this particularly timely...",1345603325
+4415812,comment,4415682,4415682,1,0,Codhisattva,,,"I saw that too and figured it could be expensed by the company (similar to how a contractor can get per diem).",1345603322
+4415811,comment,4415643,4415643,52,0,fecklessyouth,,,">Forget everything you know about telepresence robots.<p>Done.",1345603311
+4415810,comment,4406224,4406386,1,0,spartango,,,"* If you are using the JVM's generational + concurrent garbage collectors, generally the hoards of little objects disappear without hiccups or leaving much of a footprint.<p>* My beef with threads for concurrency revolves not around memory footprint (can you substantiate threads as ""memory hogs""?), but instead around the necessity to be mindful of resource sharing. Yes, the JDK gives you lots of useful tools in this quest, but it's still not all that difficult to end up with a deadlocked app.",1345603310
+4415809,comment,4415388,4415388,1,0,noinput,,,"Agree wholeheartedly. As my first attempt at iOS I built an iPad app for Tumblr. It was an experiment, and fun, and of course I put it up for free since I played the ""I just don't know if it's worth it"" game, teamed with a ""well, I don't want pissed off comments"" dance.<p>Fast forward over a year.  120K downloads and 1.6m+ app-based reblogs later, I still have daily feature requests, hate/love mail, a horrible set of reviews and no inspiration to build it up to be worth a few dollars.  Of course my situation is only mine and one can say ""now's the perfect time"", but that's another debate.",1345603307
+4415808,comment,4377509,4378796,1,0,suyash,,,"excellent advice +1",1345603291
+4415807,comment,4413713,4413713,2,0,gojomo,,,"Does this count as a Keynesian Ugly Contest?",1345603277
+4415806,comment,4414079,4415760,1,0,stripper,,,"It's possible - see my post towards the bottom of the page.",1345603197
+4415805,comment,4411536,4413270,2,0,philwelch,,,"One could say monks have historically been the ones maintaining archival data.",1345603048
+4415804,comment,4414079,4414778,2,0,Dylanlacey,,,"Once it ships.",1345603031
+4415803,comment,4412905,4413150,1,0,6ren,,,"In the past, as PC's continued to improve past consoles, players switched to PC's, forcing the next generation of consoles.  That's not happening this time around. It seems  PC's have overshot the demand for power - a typical pattern according to Christensen.<p>The pressure on consoles will come from tablets (the next generation of Imagination Tech's GPU IP is comparable to xbox360's 7 year old GPU).",1345603029
+4415802,comment,4353632,4353632,3,0,letterj00,,,"This is one of my favorites. <a href=""http://en.wikipedia.org/wiki/Accelerando_(novel)"" rel=""nofollow"">http://en.wikipedia.org/wiki/Accelerando_(novel)</a>",1345603024
+4415801,comment,4413569,4415746,2,0,ChuckMcM,,,"+1 for Nectarine (or Apricot) cobbler.",1345602968
+4415800,comment,4415643,4415716,2,0,waterlesscloud,,,"They give you a one line bolded ""why?"" for each pick.  All pre-tl;dred and everything.",1345602941
+4415799,story,,,86,25,timClicks,"Parallel Programming for C and C++ Done Right",https://speakerdeck.com/u/multicoreworld/p/james-reinders-intel-united-states,,1345602937
+4415798,story,,,32,4,cleverjake,"Web Reflection: A Safer JS Environment",http://webreflection.blogspot.com/2012/08/a-safer-js-environment.html,,1345602931
+4415797,comment,4412905,4414071,2,0,icefox,,,"The last half a decade I would say users are not as much driven by office applications, but by network applications, specifically the browser and email",1345602919
+4415796,comment,4415076,4415076,1,0,Lasher,,,"When the BBS came along it was awesome, then it was too addictive and the phone bill was insane. Then we discovered blue boxes and PBX hacking and it was really on. It seemed amazing at the time being able to pick up the phone, make a few tones and be talking to someone on the other side of the world, or downloading ""warez"" from a BBS in Europe.<p>For some reason I particularly remember walking to the store one day pre-internet thinking about this whole ""virtual"" electronic BBS world out there that only 1 out 1000 people actually had a clue existed and how awesome it was. When the internet came along it was a obvious to me that was it going to change everything, but I was too young and naive to think about the business aspect of it.<p>Other stuff, hmm. When you finished work for the day you were actually finished, but more likely to be in the office late because you couldn't work from home. The phone rang a lot more often before email. Installing software on another branches system meant driving there - uphill both ways, barefoot, in the snow.",1345602904
+4415795,comment,4414079,4414079,1,0,dumbluck,,,"Good post, even though had a bad experience.<p>I think whether site or startup, it is just a (hopefully informed) crapshoot. In the end, the goals are to be happy, make money, and make a difference. Whether you do that via startup, or other means, doesn't matter. And, if you fail, you (hopefully) learn and can do better next time.",1345602883
+4415794,comment,4406986,4406986,1,0,ten_fingers,,,"In one word, classical.<p>In two words, classical instrumental.<p>In more violin, cello, piano, orchestra, and voice
+not in English, e.g., usually Italian.<p>Examples:<p><pre><code>     Rachmaninoff
+     Rapsody on a Theme of Paganini
+     Van Cliburn
+     Eugene Ormandy
+     Philadelphia Orchestra
+
+     Antonin Dvorak,
+     Second Movement,
+     Adagio, ma non troppo,
+     Concerto for Cello and Orchestra,
+     Mstislav Rostropovich, cello
+     Herbert von Karajan
+     Berliner Philharmoniker
+
+     Beethoven
+     Piano Concerto 5
+     Van Cliburn
+     Fritz Reiner
+     Chicago Symphony Orchestra
+
+     Adagio un poco mosso
+
+     Rondo Allegro
+
+     Max Bruch
+     Scottish Fantasy
+     Andante Sostenuto
+     Jascha Heifetz
+     Malcolm Sargent
+     New Symphony Orchestra of London
+
+     Peter Tchaikovsky
+     Variations on a Rocco Theme for Cello
+     and Orchestra
+     Mstislav Rostropovich, cello
+     Herbert von Karajan
+     Berliner Philharmoniker
+
+     Chopin
+     Etude in E
+     Van Cliburn
+
+     Puccini
+     Gianni Schicchi
+     O mio bambino caro
+     Kiri Te Kanawa
+
+     Beethoven
+     Violin Romance Number 2
+     David Oistrakh
+     Eugene Goossens
+     Royal Philharmonic Orchestra
+
+     Chopin
+     Fantaisie-Impromptu
+     in C Sharp Minor
+     Van Cliburn
+
+     Brahms
+     Concerto for Violin and Cello in A minor
+     Andante
+     Heifetz
+     Piatagorsky
+     Alfred Wallenstein
+     NBC Symphony Orchestra
+
+     Beethoven
+     Violin Sonata Number 9
+     ""Kreutzer""
+     Variation II, Andante
+     Jascha Heifetz
+     Brooks Smith
+
+     Beethoven
+     Violin Sonata Number 5
+     ""Spring""
+     Scherzo, Allegro molto
+     Jascha Heifetz
+     Emanual Bay
+
+     Beethoven
+     Violin Sonata Number 5
+     ""Spring""
+     Trio
+     Jascha Heifetz
+     Emanual Bay
+
+     Bach
+     Cello Suite 1 in G major
+     Prelude
+     Rostropovich
+
+     Delibes
+     Coppelia
+     Richard Bonynge
+     National Philharmonic Orchestra
+     Act 1
+     Prelude et mazurka</code></pre>",1345602879
+4415793,comment,4413569,4414614,1,0,tedunangst,,,"The lunches I used to get were usually worth more than $12 (though the company paid quite a bit more than that).  But there's more to it than money.  There's <i>not having to decide</i>, which is something you can't buy as an individual.  There are other cultural benefits, which I'd argue both the company and individual benefit from.",1345602877
+4415792,story,,,1,0,ziranzhiy3h," RMT",http://www.grmt.jp/elsword.rmt,,1345602858
+4415791,story,,,1,0,Hector2133,"Rap Instrumental Beats For Rappers And Song Marketing Tips",http://www.articletrader.com/entertainment/music/making-use-of-quality-rap-instrumental-beats-and-song-marketing-tips.html?preview=1,"Why should you buy rap instrumental beats for rappers online? Well let s start of by saying this these rap beats are extremely high quality and very cheap. We will take a look at why and where you should buy beats online and also talk about promoting and marketing your songs online.",1345602826
+4415790,story,,,1,0,Dylanlacey,"Retailers, do this: Ikea AUS shows all new products -- Without being ugly",http://www.ikea.com/ms/en_AU/rooms_ideas/ps2012/index.html?cicd=au%7Ciba%7C31072012%7C1#,,1345602798
+4415789,comment,4415643,4415749,2,0,zio99,,,"But what if there is a way to rank these startups? Similar to how there are algorithms to pick startup winners: <a href=""http://www.technologyreview.com/news/428427/an-algorithm-to-pick-startup-winners/"" rel=""nofollow"">http://www.technologyreview.com/news/428427/an-algorithm-to-...</a> and software to pick Blockbuster hits: PDF: <a href=""http://knowledge.wharton.upenn.edu/papers/1329.pdf"" rel=""nofollow"">http://knowledge.wharton.upenn.edu/papers/1329.pdf</a> and of course, my very own academic research in this arena: <a href=""http://startupframework.tumblr.com/post/29634915106/what-i-learnt-from-yc"" rel=""nofollow"">http://startupframework.tumblr.com/post/29634915106/what-i-l...</a><p>What if the only criteria required by this article was to list startups that sold something (rather than be a platform or <insert disruptive buzzword here> that doesn't currently monetize. E.g. Makr.io, ReelSurfer). So that would boil it down to: Double, Coco Controller and a handful others.<p>As investor Kevin O'Leary would say: Follow the money.",1345602787
+4415788,comment,4412221,4414340,1,0,ethank,,,"Yeah, I got a nice visit from campus security.",1345602727
+4415787,story,,,1,0,alexdong,"5 podcasts I subscribe to",http://alexdong.com/5-podcasts-i-subscribe-to/,,1345602706
+4415786,story,,,8,1,treeder,"1988 - 2012 RIP Nintendo Power",http://www.ign.com/articles/2012/08/21/farewell-nintendo-power?utm_campaign=ign+main+twitter&utm_source=twitter&utm_medium=social,,1345602680
+4415785,comment,4415504,4415504,1,0,natedub,,,"Recovering seemingly lost commits is really important skill to have when working with git. However, it is infinitely easier with the git reflog command.",1345602649
+4415784,comment,4412887,4413565,2,0,fujiuji,,,"Your criticism reveals an unsound technical background...""By wearing that scantily clad outfit she was just asking for it (rape).""",1345602641
+4415783,comment,4408304,4415108,1,0,PakG1,,,"If it was simply just a question, I would have imagined that a more natural phrasing would be: ""Did he manage to get any advertisers?""  And if you wanted to make it really clear (although not necessary at all), I imagine you could say something like: ""Just curious, did he manage to get any advertisers?""  The words that you did use dripped with condescension, no?",1345602624
+4415782,comment,4410579,4415463,1,0,ars,,,"> the choice to then arrange the periodic table by other attributes is a human one<p>No it's not. The arrangement is determined by the structure of the atom - specifically the electron orbital. I'm assuming you didn't know this? It's not arbitrary at all, elements in the same column are very similar chemically, and can take each others place in many chemical reactions.<p>> Ah, the meat of the problem. You're prejudiced against disciplines outside of physics.<p>Prejudiced? Really? If you are going to practice science you have to do it properly, physics does, so do many other disciplines. Some don't. It's not because they are evil - they have no other choice, they do as good a job as possible with the limitations they have. I don't hold it against them, but at the same time they don't have the same status as those that do, the results from those disciplines can never be considered definitive. And for many of them, it's not science, it's history.<p>And you appear not to even know any physics, and so you think everything is like what you know, and have no idea how it can be when done properly. It's a form of the DunningKruger effect - you don't even realize what you don't know, so you think everyone doesn't know.",1345602620
+4415781,comment,4415643,4415716,2,0,benologist,,,"Pretty sure most of their metrics boil down to previously generating pageviews on HN, with extra points for the SEO bonus when those pageviews were on TC.",1345602611
+4415780,comment,4415133,4415629,2,0,bgruber,,,"this one is good because, unlike the oatmeal, it is a down-to-earth telling of the story of electricity, and is not obsessed with trying to establish people as heroes or villains.<p>Too often we I think we become obsessed with trying to establish credit for a particular idea or accomplishment when the truth, especially when it comes to technical innovation, is usually far more complicated. I was going to say that the best we can do is to try and identify inflection points, but really, the best we can do is recognize that nearly everyone stands on the shoulders of giants.<p>Back to the book recommendations, I've read 3 of Jonnes' books and they're all pretty good, though the best was ""Conquering Gotham"" about Penn station and its tunnels.",1345602581
+4415779,story,,,2,0,Brian_Curliss,"Ask HN:  What are some $1B+ markets ripe for non-profits?",,"I am very interested in what HN thinks some $1B+ markets ripe for non-profits are?  Primarily, I am wondering about software / web related ideas.<p>I work at a SaaS startup right now and have been feeling very philanthropic lately. Instead of 'volunteering' or donating, I am like the idea of building (or helping someone build) something scaleable and sustainable to help others.<p>Please HN, don't lecture. I understand:
+ - times are hard, and so are getting donations,
+ - nonprofit's are setup for tax reasons,
+ - there are other ways to give back,
+ - the charity system has contrastants,
+ - investors, well, don't invest in NGO's, and
+ - etc. / and more.",1345602524
+4415778,story,,,16,8,rohshall,"The Comparative Productivity of Programming Languages | Dr Dobb's",http://www.drdobbs.com/jvm/the-comparative-productivity-of-programm/240005881,,1345602518
+4415777,comment,4414728,4415605,1,0,roryokane,,,"The (non-free) Mac desktop program OmniOutliner (<a href=""http://www.omnigroup.com/products/omnioutliner/"" rel=""nofollow"">http://www.omnigroup.com/products/omnioutliner/</a>) also handles outlines like this. I use it for taking notes on a lot of things. It has its flaws, but its decently powerful  I use the custom text styles a lot for marking up code and file paths in my text.",1345602423
+4415776,comment,4411536,4415122,1,0,philwelch,,,"Isn't Egypt another contender for the oldest country?",1345602409
+4415775,story,,,4,1,jharrier,"Dont call it a comeback, RSS has been here for years",http://www.virtualpants.com/post/29939481178/dont-call-it-a-comeback-rss-has-been-here-for-years,,1345602400
+4415774,story,,,1,0,LeBen,"TechCrunch Poll: Which is your favorite S12 Demo Day Company?",http://gopollgo.com/out-of-our-top-ten-picks-from-y-combinators-s12-demo-day-which-is-your-favorite,,1345602372
+4415773,story,,,3,0,Xcelerate,"What big social ideas are left?",http://thoughts.nickmcnutt.com/big-ideas,,1345602338
+4415772,comment,4411536,4413377,2,0,3143,,,"Those arguments are typically made from the wrong perspective. It's just so common that if you don't do it, your product will be perceived as insecure. And as long as actual security is not horrible, the perception of security is what drives sales, not the actual security.",1345602320
+4415771,comment,4415643,4415729,1,0,thejteam,,,"It works on mine.",1345602296
+4415770,comment,4415133,4415728,2,0,cschmidt,,,"Like jamesmcn says, you have to deduct the fair value of the gifts from your donation. Usually the gift receipt says the amount.",1345602240
+4415769,comment,4415661,4415661,1,0,Kenan,,,"Previously: <a href=""http://news.ycombinator.com/item?id=3214273"" rel=""nofollow"">http://news.ycombinator.com/item?id=3214273</a> and <a href=""http://news.ycombinator.com/item?id=3425586"" rel=""nofollow"">http://news.ycombinator.com/item?id=3425586</a>",1345602229
+4415768,comment,4413569,4414139,1,0,mcguire,,,"Technically, it'd be $20k/year over 4 years, discounted at some reasonable rate, say...crap. So, $80k.",1345602170
+4415767,comment,4411536,4412835,1,0,philwelch,,,"Hudson's Bay Company is 342 years old and running.",1345602146
+4415766,story,,,11,6,adj,"Ask HN: If making money was not a factor, what startup would you work on?",,"I'm currently thinking about startup ideas but they have to involve making money (as I still need to pay the bills).<p>However, I keep thinking of ideas that are not really financially viable for me (like alternative energy transport, advanced robots etc).<p>So my question is, if you had Elon Musk type money, what would you work on?",1345602144
+4415765,story,,,1,0,rohshall,"Realm of Racket - new book by Author of 'How to Design Programs'",http://realmofracket.com/about.html,,1345602094
+4415764,story,,,1,0,mzcan,"San Diego Airport Car Service by SEAL Call Now  858-224-5474",http://sdairportrides.com/blog/san-diego-airport-car-service/san-diego-airport-car-service-by-seal-call-now-858-224-5474/,,1345602071
+4415763,comment,4414745,4415417,1,0,andywhite37,,,"You could boil these observations down to ""it's different,"" but that doesn't mean you're not also allowed to  come to the conclusion that ""it's awful"" (or on the flip-side that ""it's great"").  Nobody would deny that the Windows 8/""Metro"" UI and UX is different.  Every window system is different, some more than others, and each has it's own pros and cons.  Some people might like the Finder in Mac OSX, and some might hate it.  It doesn't matter whether the hate is legitimate or defensible or not, what matters is whether your UI/UX and overall OS is compelling enough to convince users that it's worth switching from what they know, or simply worth putting up with in the bigger picture.  I would also argue that it doesn't matter whether a user unfair-ably hates it after barely/ignorantly using it, or comes to the conclusion that they hate it after using it thoroughly for 8 months.  First impressions are so important - not many people have the time or interest to really dig into a new UI/UX paradigm to find out what's it all about and whether it can improve their workflow.  If you fail the first impression by not driving your users in the right direction or giving them some sense of excitement, most times you don't get another chance.<p>I think where Windows 8 fails is that it doesn't provide me with any compelling reasons why I would want to upgrade from Windows 7, or migrate from Mac OSX or Linux.  It doesn't give me any sense of excitement - the paradigm shift from Windows 7 to 8 is not at all like the experience of shifting from something like a Blackberry to an iPhone.  I agree with the author - I don't like the Metro start menu, I prefer the old start menu.  Maybe that's just me clinging to an old beat-in paradigm, but I don't really see any benefits in the new paradigm.  I don't like the full-screen metro apps with limited window management capability and hidden OS ""chrome"" (clock).  I don't like having to use touch-like gestures or memorize new keyboard shortcuts for using all the wonky new features in the OS that don't seem to provide me with any real compelling value.  The Windows 8 ""optimists"" that try to defend the OS by listing out keyboard shortcuts or alternate ways to navigate to different areas, or ways to ""hide"" Metro UX are kind of missing the point.  Most people that provide a laundry list of what they hate are not looking for suggestions or tutorials - the OS has already failed to direct them, and they've simply come to the conclusion that they don't like it.",1345602062
+4415762,comment,4414404,4414404,2,0,codegeek,,,"You really want to waste time of your life into reporting this? Click delete/spam and move on. You are not alone and there are far bigger issues that you should focus your energy on.",1345602054
+4415761,comment,4415509,4415681,1,0,thirsteh,,,"If you use CRYPT_BLOWFISH (bcrypt) it's fine.",1345602017
+4415760,comment,4414079,4414079,3,0,eliben,,,"Really, so much revenue from 100K uniques and 1.5M page views a month? I wonder if that's typical or just some kind of Crranky's blog speciality?",1345602009
+4415759,comment,4412245,4412245,1,0,6ren,,,"Similar to PageRank.",1345601966
+4415758,story,,,4,1,devinrhode2,"Ask HN: Javascript try/catch, where should I be using it?",,"What are some good examples of where to use try/catches in javascript?",1345601964
+4415757,comment,4415649,4415649,2,0,tokenadult,,,"The lede paragraph says, ""The United States has reached a historic tipping point -- with Latino, Asian, mixed race and African American births constituting a majority of births for the first time, theU.S. Census Bureau  reported Thursday.""<p>But in the everyday sense of ""white,"" most Latino people are ""white,"" because the definition of Hispanic/Latino ethnicity used by the federal government<p><a href=""http://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf"" rel=""nofollow"">http://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf</a><p>""Definition of Hispanic or Latino Origin Used in the 2010 Census<p>""'Hispanic or Latino' refers to a person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.""<p>makes clear that a great variety of people of varying ancestry or ""heritage"" or ""country of birth"" can categorize themselves as Hispanic. Someone self-designating has the choice to indicate Hispanic ethnicity, by that definition, and to indicate white ""race"" after indicating Hispanic ethnicity.<p>A detailed FAQ on how United States designations of ""race"" and ""ethnicity"" interact with college and university admission policies in the United States<p><a href=""http://talk.collegeconfidential.com/college-admissions/1366406-race-college-admission-faq-discussion-10-a.html"" rel=""nofollow"">http://talk.collegeconfidential.com/college-admissions/13664...</a><p>goes into much more detail on that controversial issue.",1345601915
+4415756,comment,4414079,4415459,9,0,drdoooom,,,"they are both right. i've been using myfitnesspal for quite some time now, and remember reading that it was indeed a very small team (of just 2). now time has passed and they have obviously expanded. but they were extremely successful even at the beginning. i can't find the link right now but i'm certain that if you check out their blog, near the beginning, you will find something that resembles the 2man team story.",1345601914
+4415755,story,,,1,0,jefflinwood,"Building an Unconference App For RailsConf with Twilio and Twitter",http://www.twilio.com/blog/2012/08/building-an-unconference-app-for-railsconf-with-twilio-and-twitter.html,,1345601759
+4415754,story,,,66,39,paratrooper,"Arrays in Postgres",http://craigkerstiens.com/2012/08/20/arrays-in-postgres/,,1345601745
+4415753,comment,4415133,4415630,8,0,pessimizer,,,"<a href=""https://en.wikipedia.org/wiki/Depressive_realism"" rel=""nofollow"">https://en.wikipedia.org/wiki/Depressive_realism</a>",1345601724
+4415752,comment,4415133,4415619,13,0,jamesmcn,,,"The last time I checked, if you receive something for your donation, you have to subtract the value of whatever you received from your total donation amount. You can then claim that difference as a deduction on your taxes.<p>Example: Donate $100 to PBS and receive a $10 CD. Subtract the value of the CD from the donation: $90. You can claim a deduction of $90 on your taxes.<p>But in the case of a corporation, treating the whole thing as a marketing expense is probably easier and would yield the same result.<p>[I'm not a lawyer or tax accountant or any other kind of authority on taxes. Check with the IRS or competent council before filing your taxes!]",1345601692
+4415751,comment,4415133,4415735,1,0,pooriaazimi,,,"Really? That's fantastic. I have that audiobook and intended to listen to it in the coming weeks. But somehow I'd missed the narrator's name!<p>Thanks a lot. Now I can hardly wait for the book :)",1345601681
+4415749,comment,4415643,4415716,2,0,3am_hackernews,,,"Yes, I was really curious about their metrics for ranking the startups.<p>As you correctly pointed out - why is instacart missing while 9gag is present? I can name so many much better alternatives to 9gag: instacart, KIPPT, Everyday.me etc.",1345601610
+4415748,comment,4407188,4407963,2,0,splicer,,,"My feelings exactly! I now do virtually all my development in Linux (or ssh'ed into a Linux box from my MacBook Air). I hate what OS X has become. The only thing I now find superior about OS X to Linux is that it runs Logic Pro 9 (which I can't do without); yay for vendor lock-in!",1345601509
+4415747,story,,,1,0,emyy,"Digiarty Offers Back to school Software Gifts for Students, Teachers and Parents",http://www.winxdvd.com/press-room/back-to-school-gifts-for-students-and-teachers.htm,"Digiarty announced the latest back to school giveaway by offering Apple iPhone iPad Android related software to students, teachers and parents before August 31.",1345601507
+4415746,comment,4413569,4415359,4,0,mkopinsky,,,"> Nectarines<p>Cook them! Throw them in a pot with some brown sugar and spices. Or throw it in a crockpot/baking dish with {1/2 c. butter, 3/4 c. flour, 3/4 c. (brown) sugar} sprinkled on top, bake, and shazzam! Cobbler!",1345601464
+4415745,story,,,16,2,evandrix,"Metasploit on iOS",https://community.rapid7.com/community/metasploit/blog/2012/08/21/metasploit-portable-ios,,1345601320
+4415744,comment,4412044,4412044,1,0,acconrad,,,"Front-end guy here, curious about CDN access on mobile - is it faster to serve one CSS and one JS minified file through a private CDN (like CloudFront), or use something like CDNJS to make concurrent CDN calls with many smaller files spread across a connection?",1345601244
+4415743,comment,4412260,4412591,1,0,jamierothfeder,,,"Yup! Don't write code if you haven't read that book.",1345601233
+4415742,comment,4412888,4413982,1,0,chrischancc,,,"Yes sure, Alexis is a nice and helpful guy.",1345601230
+4415741,comment,4414728,4415709,2,0,sp332,,,"If I export something and send it to you, then you have one and I have one. If we share it, then we both have the same one.",1345601222
+4415740,comment,4414280,4414596,1,0,enjo,,,"Hell you don't even need an angle, every few years you'll see the same angle come back around.<p>Look at imgur, which is really a better version of the original photobucket, tinypic, whatever came before that.<p>I have no doubt we'll see instagram #2 in a couple of years.",1345601202
+4415739,comment,4414694,4414694,1,0,gooddelta,,,"I've known the Simple folk for a long time. The complexity and inherent safety designed into their product makes every other bank look like a joke. They still have to rely on banking partners to store the money, but they've gone to great pains to make sure that things work in a consistent and fail-safe way, if not with 100% availability during their beta. The other thing to note is that, although it's perceived as a bank, it isn't one; it's a front-end. They realized that everything a bank is defined by when you remove the vault comes down to customer interaction. I'm willing to accept when things break (especially during a beta) in exchange for some making some headway in my banking experience. Without avoiding the pun: it's a very simple proposition.",1345601111
+4415738,comment,4413185,4413185,1,0,jorahmormont,,,"I use Wiser Home Control to take care of those annoying left-the-AC-on cases, works on my iPhone. <a href=""http://www.youtube.com/watch?v=aHsjTdTPVnU"" rel=""nofollow"">http://www.youtube.com/watch?v=aHsjTdTPVnU</a>",1345601105
+4415737,comment,4415508,4415665,3,0,BigTigger,,,"The economies of scale are crazy as well.<p>the US government spends $100 million on sensors yet the catels stand to make (if you can believe the figures) ""$16 million wholesale"" for one shipment of cocaine via this method.<p>The drug cartels stand to make more selling drugs than the US government spent trying to stop them in merely 7 trips with an ultralight",1345601103
+4415736,story,,,1,0,divramis,"Why l Move to Munich, Germany - John Divramis Paramarketing Blog",http://www.paramarketing.org/why-l-move-to-munich/#,,1345601103
+4415735,comment,4415133,4415642,2,0,LoganCale,,,"Simon Prebble's narration of Neal Stephenson's <i>Baroque Cycle</i> is fantastic.",1345601021
+4415734,comment,4411536,4415662,3,0,TylerE,,,"That's a 1Gbps <i>connection</i>. Try sustaining 1Gpbs and see if you don't start getting nastygrams.<p>There is a huge difference between a residential connection with a peak speed of X and an X speed connection.",1345600997
+4415733,comment,4412245,4412245,1,0,jhuckestein,,,"I think posting this on YC's Demo Day is unfortunate timing. I'm pretty sure this won't be noticed by anyone at YC.",1345600867
+4415732,comment,4414745,4414745,2,0,tzs,,,"I think the biggest flaw is that the help system is not a tile on the main screen.<p>Like the author, I was baffled when I wanted to shut the thing down. I found the thing that shows all the applications on the system, and noticed one of them was a help application. The help application was able to tell me how to shut down. I never would have found it without that help, as it would never even occur to me to look in the settings.<p>Let's assume for the sake of argument that the new interface is actually good. Regardless, it is sufficiently different from what people are familiar with that people are going to have trouble figuring out things and need help--even basic things like shutting down the computer. Finding help needs to be trivial and obvious.",1345600840

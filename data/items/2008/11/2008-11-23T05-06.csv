@@ -1,0 +1,47 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+373554,comment,373436,373546,0,0,andreyf,,,"<i>Plus, one of them is so bad that OCR software couldn't recognize it.</i><p>... that's the point?",1227419984
+373553,comment,373400,373544,0,0,ojbyrne,,,"Assuming you don't have employees or significant costs, don't get hit by random acts of misfortune, and define rich relatively broadly.",1227419734
+373552,comment,373400,373471,0,0,ojbyrne,,,"I thought doggles was the least ""stupid."" Quotes because I agree that most of them aren't really stupid.",1227419600
+373551,comment,373060,373481,0,0,mythogen,,,"Yes. At least in the US, I believe, feed for a variety of meat animals is often composed heavily of corn. Ask your local rancher about this. Price of cow food goes up; price of tasty cow bits goes up.",1227419325
+373550,comment,373161,373483,0,0,Herring,,,"AES is approved by the NSA for top secret information. If they had found a way to crack it, don't you think there would have been a contest to replace AES like there was with DES?<p>They're not that far ahead any more.<p><a href=""http://www.schneier.com/essay-064.html"" rel=""nofollow"">http://www.schneier.com/essay-064.html</a>",1227419137
+373549,comment,372593,372728,0,0,pg,,,"We don't look at the karma number so much as the quality of the comments.  It would be hard not to, actually.  When I see a YC application from a username I recognize for making smart comments, it would be hard not to give it extra attention.",1227419015
+373547,story,,,2,0,jwilliams,"Engrave Your Tech",http://www.engraveyourtech.com/,,1227418843
+373546,comment,373436,373436,0,0,evdawg,,,"WHY IS THIS ON THE FRONT PAGE?<p>reCAPTCHA has been around for ages. This isn't something new. Everyone knows about it. It's also widely implemented.<p>I would like to add however, I <i>hate</i> reCAPTCHA. If you are a web developer who has added reCaptcha to your site, remove it. If you are thinking about adding it in, <i>don't do it</i>! reCAPTCHA takes the annoying in a CAPTCHA and multiplies it by two. No longer are the days where you have to solve <i>one</i> illegible CAPTCHA, now you have to do <i>two</i>. Plus, one of them is so bad that OCR software couldn't recognize it.<p>It's not your or your users job to digitize books. You aren't doing the world some great justice or charity by implementing reCAPTCHA on your site. If you want to digitize books, go help develop better OCR software. If you want to stop spam, there are better, less invasive methods.",1227418739
+373545,comment,373477,373477,0,0,timcederman,,,"Kind of wish I'd gone today, but the ridiculous thing was if you got tickets (which I did), they weren't guaranteed for entry.  It was first come first served for getting inside.  They didn't even give an indication of how overbooked it was... It ended up being a three-tier lottery.",1227418734
+373544,comment,373400,373535,0,0,nazgulnarsil,,,"yeah if it was just one year.  running a 200k business a year for 5-10 years will certainly make you rich.",1227418116
+373543,comment,373487,373487,0,0,wmeredith,,,"That's also a (poorly) hacked up canned Wordpress Them- Hey! Look at that huge pile of uneaten dogfood!",1227417783
+373542,story,,,3,0,vaksel,"Well that didn't take long...Google searchwiki is back",http://www.techcrunch.com/2008/11/22/google-searchwiki-is-back-heres-how-to-kill-it-for-good/,,1227417760
+373541,comment,371897,372537,0,0,qhoxie,,,"Yes, it was.  None of the things said or insinuated were without reason.  It was primarily a <i>shame on you all</i> type of commentary.",1227417726
+373540,comment,373356,373518,0,0,nazgulnarsil,,,"/b/ is somewhat interesting from the perspective of trying to make a community that is NOT like /b/.  Kind of like the smelly cave woman in Hitchhiker's Guide to the Galaxy who gives out a list of every choice she's made in life and tells Arthur that if he makes the opposite choices maybe he won't end up nearly as bad off as her.",1227417630
+373539,comment,373080,373080,0,0,dchest,,,"˙ʎɐp sʍǝu ʍols",1227417626
+373538,comment,373400,373400,0,0,staunch,,,"I wonder what it feels like to make a lot of money doing something that feels kind of stupid. I'm sure the money goes a long way to soothing any mental discomfort, but I still wonder.",1227417531
+373537,comment,372445,372528,0,0,ksvs,,,"Different markets value companies differently.  No company in its right mind would choose to be valued by this one.",1227417463
+373536,comment,373400,373535,0,0,dchest,,,"It's the service created by the author of this article.",1227417378
+373535,comment,373400,373400,0,0,callmeed,,,"I really dig the spirit of this article, but a few of the companies mentioned had revenue below $200k. I wouldn't exactly say anyone is ""rich"" from that yet.<p><i>PickyDomains is expected to hit six figures this year</i>",1227417225
+373534,comment,372573,373339,0,0,unalone,,,"Right now I'm looking at a transfer; at the same time, my co-founder and I are pushing to have a sellable product as quickly as possible. We're both freshmen who went to advanced programs in high school and are finding college to be a bit of a drag, so either way things will hopefully get better.",1227417065
+373533,comment,373436,373436,0,0,sh1mmer,,,"While I'm not sure this is news (well not anymore) I love ReCAPTCHA.<p>What I especially like about ReCAPTCHA is the engineering elegance. The second word is hard to break by hackers because it already failed a machine OCR algorithm (obviously that doesn't solve ""Turking"").<p>I also like that they have an audio CAPTCHA making their solution accessible by default. This is something a lot of home grown solutions lack. The Web should remain a place for everyone with or without a visual impairment.",1227417011
+373532,story,,,12,3,nreece,"How Obama Helped Digg Fix Bugs",http://blog.digg.com/?p=412,,1227416918
+373531,comment,373080,373080,0,0,evdawg,,,"The fact that this has been upvoted to the front page concerns me greatly.",1227416909
+373530,story,,,1,1,nreece,"SimplyMEPIS: The best desktop Linux you haven't tried",http://www.linux.com/feature/153431,,1227416781
+373529,story,,,25,8,nreece,"An Infinite Loop in the Brain","http://www.spiegel.de/international/world/0,1518,591972,00.html",,1227416731
+373528,story,,,7,10,arunsharma,"Ask YC: Are Standards a joke?",,"What do you guys think ?
+Google news has - 1310 Errors, 91 warning(s) http://tinyurl.com/5vne4e
+Google.co.in has - 68 Errors, 13 warning(s) 
+http://tinyurl.com/5oznsp
+News.ycombinator.com has - 136 Errors, 6 
+warning(s) 
+http://tinyurl.com/5l6ftf
+Facebook has - 27 Errors, 6 warning(s) 
+http://tinyurl.com/62xcta
+Yahoo has -  91 Errors, 64 warning(s)
+http://tinyurl.com/5bqf9p
+Youtube has - 70 Errors, 56 warning(s) 
+http://tinyurl.com/5gsap7
+Live has - 4 errors
+http://tinyurl.com/69x2ll
+Blogger has - 28 Errors 
+http://tinyurl.com/5djo4q",1227416682
+373527,comment,373298,373511,0,0,amichail,,,"They are talking about the main ranking.  There is however a secondary link ranking when viewing everyone's notes that is affected.",1227416676
+373526,comment,372500,372500,0,0,quantumhobbit,,,"I miss TechTV.  Patrick Norton in a kilt destroying a PC with a sledgehammer was classier than a pistol.",1227416602
+373525,comment,373356,373518,0,0,DaniFong,,,"Unfortunately, on of my good friends started to visit 4chan regularly, and he's been harder and harder to deal with, of late...",1227416594
+373524,comment,372593,372593,0,0,hangten,,,"Accepting personal responsibility was one of the reasons I have been successful.",1227416559

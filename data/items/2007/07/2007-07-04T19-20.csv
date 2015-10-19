@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32498,story,,,1,0,eugenet,"Business Plan development 2.0",http://www.springwise.com/life_hacks/business_plan_20/,,1183579148
+32497,comment,32362,32469,0,0,paul,,,"Nope. Also, it's not a clone in any meaningful sense.",1183579147
+32496,comment,32309,32440,0,0,juwo,,,"I know a technical writer (software) in Bangalore who earns Rs 10K per month (about $200?). If you know of a better opportunity, do email me and I can pass it along.",1183578871
+32495,comment,32493,32493,0,0,JoeEntrepreneur,,,"Hi Everybody,<p>We are working on developing Social Marketplace called Onista (<a href=""http://www.onista.com)"" rel=""nofollow"">http://www.onista.com)</a> and we are in QA cycle right now on our test server.
+Most of the emails that our application is generating for users (like Invite emails or registration emails) are being delivered to bulk/spam folders on yahoo and gmail. 
+Any idea on how can we fix the issue?<p>Thanks in advance. ",1183578613
+32494,comment,32085,32489,0,0,dhouston,,,"dude, give it a rest. and read:<p><a href=""http://blog.pmarca.com/2007/06/the_pmarca_guid_2.html"" rel=""nofollow"">http://blog.pmarca.com/2007/06/the_pmarca_guid_2.html</a><p>yc's already given you something better than what you'd get out of a canned one-sentence response: a fantastic resource in which <i>anyone</i> can put up their site and get a lot of feedback, for free, from a lot of smart people. 100% of the ""hey news.yc check out my site"" posts i've seen, including yours, have gotten useful, actionable feedback and have consequently improved.",1183578573
+32493,story,,,3,6,JoeEntrepreneur,"How to avoid emails being sent to bulk Folders?",,,1183578461
+32492,comment,32085,32454,0,0,juwo,,,"It's not dating.<p>see 
+<a href=""http://news.ycombinator.com/item?id=32488"" rel=""nofollow"">http://news.ycombinator.com/item?id=32488</a><p>""And I could imagine that if you would ask them, they might be willing to give you more specific information.""<p>Not so.",1183578287
+32491,comment,32085,32420,0,0,menloparkbum,,,"Someone should have told juwo he's nuts. He could have saved a lot of time and money.",1183577347
+32490,comment,32484,32484,0,0,Tichy,,,"None of them uses the whole space of the widescreen. Perhaps the move to widescreen was a mistake...",1183577093
+32489,comment,32085,32420,0,0,juwo,,,"how about this?<p>""we could not understand your idea. please get feedback as to its feasibility from your local university, or someone with experience in the software industry""
+",1183576994
+32488,comment,32085,32445,0,0,juwo,,,"No, it is not.
+It is actually more like a Department of Defense, Small Business Innovative Research (SBIR) proposal.<p>Even if you are rejected, you can request feedback on your proposal - and actually, no less than in a meeting.<p>Whenever I have given a demo or presentation to an angel investor or potential partner; even when it is a 'No', I have gotten some kind of feedback. <p>It gave me a better understanding of the weaknesses in juwo.<p>This is more than blindly emailing your executive summary to the VCs - you are not entitled to a reply.<p>When there is investment in time, effort and hopes, one does expect some kind of feedback.<p>It is not an application for an award, nor is it an application for employment. Even applying for a University, one has an idea of the cutoff marks and GRE scores.<p> <i>The YC application is an evaluation of your small business team, and idea.</i> <p>Big Difference.
+",1183576266

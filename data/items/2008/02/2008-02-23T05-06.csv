@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+121873,comment,121503,121503,0,0,ed,,,"Ugh. Run the following code to make the UI bearable:<p><pre><code>  function makeSlide(src){
+      return ""<br/><img src='""+src+""' style='border: 2px solid white;' /><br/><br/>"";
+  }
+
+  document.write('<html><head></head><body style=""margin:0; padding:0;""><div style=""width: 100%; background-color: #555; text-align: center;"">');
+  for (var i=1; i<10; i++){
+      document.write( makeSlide(""http://www.venge.net/graydon/talks/mkc/html/mgp0000""+i+"".jpg""));
+  }
+  for (var i=10; i<=58; i++){
+      document.write( makeSlide(""http://www.venge.net/graydon/talks/mkc/html/mgp000""+i+"".jpg""));
+  }
+  document.write('</div></body></html>');
+  document.close();</code></pre>",1203746013
+121872,comment,121846,121847,0,0,falsestprophet,,,"""Companies are expected to remain in Pittsburgh after the end of the AlphaLab program.""<p>They have high expectations.",1203745972
+121871,story,,,2,0,gongfudoi,"What Does Sun’s MySQL Acquisition Mean For Government IT Usage?",http://www.opensourceconnections.com/2008/01/29/what-does-suns-mysql-acquisition-mean-for-government-it-usage/,,1203745824
+121870,comment,121867,121867,0,0,dkokelley,,,"Just install a logging program in your router and post the logs in a public place. That way, your employees will have to own up to any wasted time instead of find ways to circumvent it. It's also a good accountability program for your employees.<p>This idea just came to mind. Do you guys think something like this would work?<p>As far as your original question goes, I don't know of anything off the top of my head, but you could always get a sort of parental guardian box the plugs in between your router and your internet connection. Those usually have a block by site function built into them, as well as password protecting certain sites (you know, if you want to bypass your own security to get to HN or whatever).",1203745533
+121869,comment,121244,121553,0,0,icky,,,"Higher-priced <i>and</i> more brittle (so they can sell more support contracts)!",1203745392
+121868,story,,,6,1,muriithi,"Elegance and Power in Haskell",http://research.swtch.com/2008/02/elegance-and-power.html,,1203745111
+121867,story,,,5,17,jamongkad,"Do you guys know of any website blocking software?",,"Hi guys like the title says do you gents know of any website blocking software to prevent employees from wasting time surfing popular sites like myspace , facebook and the like? thanks a bunch!",1203744784
+121866,comment,121728,121728,0,0,icky,,,"But I thought ""IP"" stood for Ixtreeemly Personal! :-O",1203744769
+121865,comment,121525,121783,0,0,mercurio,,,"How about showing two electrons sharing the same state? We could call it ""Forbidden Lust"".",1203744689
+121864,comment,121175,121175,0,0,trekker7,,,"In addition to all the advice from the other comments, read this essay: <a href=""http://paulgraham.com/die.html"" rel=""nofollow"">http://paulgraham.com/die.html</a>.",1203744548
+121863,comment,121779,121779,0,0,matstc,,,"I went through ""dive into python"", ""learning python"", and the python cookbook by oreilly, in that order. If I had to do it again, I would skip dive into python which I found a bit easy. Cookbooks are usually dry and this one is too, but it does beef up your skills.",1203744470
+121862,comment,121779,121858,0,0,matstc,,,"I found the python challenge incredibly hard. Not programming-wise but it's just really hard to know what to do next in most puzzles.<p>I'd rather recommend <a href=""http://projecteuler.net"" rel=""nofollow"">http://projecteuler.net</a>",1203743938
+121861,comment,121649,121820,0,0,greendestiny,,,"Actually I think it makes more sense if you don't report pledges as a monetary amount (at least not directly). It feels a bit like a rip off when the real amount is inevitably lower and any potential users is going to be trying to do the conversion rates for any figure they see. A user report might say you got 100 pledges and $5 this week.<p>Already a lot of people are worried about people tipping and absconding - I think you should redefine the way people think about your tips: its a way of showing your appreciation which you can convert into real money at convenient times. Don't fight the people who want to show appreciation and not pony up the cash, and don't fight with bloggers to see the pledge amounts as real dollar amounts when they won't be.",1203743901
+121860,story,,,4,0,nickb,"Scoble: Is Facebook doomed?",http://scobleizer.com/2008/02/22/is-facebook-doomed/,,1203743454
+121859,comment,121779,121779,0,0,bharris,,,"Programming Python or Core Python. Both from the O'Reilly collection.",1203743085
+121858,comment,121779,121779,0,0,dedalus,,,"<a href=""http://www.pythonchallenge.com/"" rel=""nofollow"">http://www.pythonchallenge.com/</a> is also a great way to learn (albeit secondary to a standard book)",1203743026
+121857,comment,121767,121767,0,0,mhb,,,"David Friedman on the popcorn question:<p><a href=""http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Chapter_4/PThy_Chapter_4.html"" rel=""nofollow"">http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Cha...</a>
+<a href=""http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Chapter_10/PThy_Chapter_10.html"" rel=""nofollow"">http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Cha...</a><p>Also, how to double the volume of your popcorn kernels:<p><a href=""http://www.bioedonline.org/news/news.cfm?art=1278"" rel=""nofollow"">http://www.bioedonline.org/news/news.cfm?art=1278</a>",1203742816

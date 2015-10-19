@@ -1,0 +1,183 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2539427,comment,2539143,2539365,7,0,tlrobinson,,,"It looks like they have about 6 total. Plus some customers pay $100/month for their own front-end proxy server so they can use SSL on a custom domain name.<p>Of the domains I checked (a few hundred found through the ""Find Subdomains"" tool here: <a href=""http://www.magic-net.info/"" rel=""nofollow"">http://www.magic-net.info/</a>), appname.heroku.com (including proxy.heroku.com) will return 3 of these:<p><pre><code>    50.16.215.196
+    50.16.232.130
+    50.16.233.102
+    75.101.145.87
+    174.129.212.2
+</code></pre>
+It's possible Heroku's DNS is returning different IPs based the load of the reverse proxies, but when querying heroku.com's 4 nameservers directly I got different subsets of those 5 IPs. A random distribution of IPs probably gives good enough load distribution.<p>And Heroku's documentation says to point A records to these three:<p><pre><code>    75.101.163.44
+    75.101.145.87
+    174.129.212.2
+</code></pre>
+It's also interesting to note that apps aren't tied to specific proxy servers. If you set the ""Host"" header to your app's subdomain, a request to any one of those IPs will work.<p>I'll add this info the the Quora answer.",1305172780
+2539426,comment,2539024,2539134,1,0,lurker19,,,"De-editorializing.<p>Reddit /r/programming was not impressed either.",1305172725
+2539425,comment,2539143,2539143,5,0,Pahalial,,,"Surprisingly good link. While we're discussing Heroku, does anyone have any deep[er] insights into the differences between Zookeeper and Doozer?",1305172705
+2539424,comment,2539354,2539354,0,0,stretchwithme,,,"This is self limiting.",1305172656
+2539423,story,,,12,9,diminium,"Ask HN: How do you deal with stress, panic attacks, and that evil voice?",,"Lately I've been having this little voice in my head that says ""your doomed, your not going to make it, stop it"" then comes stress and the panic attack with that ""feeling"" that everything is going to collapse.<p>The only cure I've been doing is to try and keep busy.  It helps but that ""feeling"" never disappears.<p>Edit: I'm bootstrapping entrepreneurship.",1305172595
+2539422,story,,,1,0,aseponde,"Directory Submissions are still useful in Link and Traffic Building",http://directorydaily.com/directory-submissions-are-still-useful-in-link-and-traffic-building-a-real-life-example/,,1305172570
+2539421,story,,,1,1,wallflower,"Some Black Holes May Pre-Date The Big Bang",http://www.technologyreview.com/blog/arxiv/26724/,,1305172568
+2539420,comment,2538019,2539053,1,0,teyc,,,"Yeah, I remembered your old site. It was on HN not too long ago. Cool stuff.<p>Have you had a go at building Android Webkit for running on PCs? It'll be a lot more useful than using the Android emulator for testing web layout.",1305172553
+2539419,story,,,4,7,dholowiski,"Ask HN: should i get a second cat",,"I suspect this is a position many hn'ers are in- ice recently moved from my parents basement and my 7 year old cat is very lonely. Should infer a second cat to keep her company?
+Will this work? How many cats until you become the 'crazy cat guy' and what will the (theoretical) women i bring home think? I'd this a good life decision at 34? Should I get a gigantic dog instead?",1305172544
+2539418,comment,2538794,2538794,0,0,atuladhar,,,"Isn't the email address highly vulnerable to harvesting for spamming purposes?",1305172481
+2539417,comment,2537992,2539308,5,0,DenisM,,,"The general problem of sync is just too large for a comment, a blog post, or even a research paper. One who wants to pursue this route should buckle up and start here: <a href=""http://www.ysaito.com/survey.pdf"" rel=""nofollow"">http://www.ysaito.com/survey.pdf</a><p>If you tell me your specific problem I might be able to help. Shoot me an email via support page on geetasks.com<p>If your problem is specific to Google Tasks API I will not help you. Sorry, business is business. :)",1305172402
+2539416,comment,2537811,2538823,3,0,nandemo,,,"FWIW, in my Programming Languages Theory class the first sorting algorithm we learned for Prolog was Permutation sort, which is a better version of Bogosort. Instead of trying a random permutation each time, Permutation sort will try each permutation once. In Prolog, this is a (the?) naive sort.<p>The code below consists of declaring that S is a sorted version of L as long as S is a permutation of L and S is sorted.<p><pre><code>  permutation_sort(L,S) :- permutation(L,S), sorted(S).
+
+  sorted([]).
+  sorted([_]).
+  sorted([X,Y|ZS]) :- X =< Y, sorted([Y|ZS]).
+
+  permutation([],[]).
+  permutation([X|XS],YS) :- permutation(XS,ZS),select(X,YS,ZS).</code></pre>",1305172401
+2539415,comment,2538794,2539195,5,0,chime,,,"I made this single-page for my cousin last year: <a href=""http://southeastcardio.com/"" rel=""nofollow"">http://southeastcardio.com/</a><p>It has a map link (he didn't want to publish an email address).",1305172397
+2539414,story,,,1,0,amygalbraith,"Nike Funky Town Customs - Customes Shoes",http://www.sneakerin.com/nike-dunk-high-womens-funky-town-customs-p-356.html,,1305172387
+2539413,comment,2535993,2535993,2,0,brudgers,,,"There's always camping:<p><a href=""http://www.parks.ca.gov/pages/737/files/august%2017%20geoloc%20web_camping.pdf"" rel=""nofollow"">http://www.parks.ca.gov/pages/737/files/august%2017%20geoloc...</a>",1305172367
+2539412,story,,,1,0,gerbera,"Show HN: Browse the web winning, like Charlie Sheen",http://browsewinning.com,,1305172364
+2539411,comment,2536309,2536838,1,0,rbonvall,,,"On the other hand, Spanish has two different verbs for ""to be"" and also two for ""to have"".<p>In general, verbs in Spanish are way more expressive than in English: <a href=""http://en.wikipedia.org/wiki/Spanish_verbs"" rel=""nofollow"">http://en.wikipedia.org/wiki/Spanish_verbs</a>",1305172295
+2539410,comment,2538794,2539195,6,0,eykanal,,,"Why bother? I imagine that from their standpoint, a website is a glorified business card. They're not trying to impress or sell you anything, but at the same time they went to the trouble of posting virtually all the useful information you could need. Yes, they could link to google maps, but your business card doesn't do that, so why should their website?<p>If I (re)learned anything from this site, it's that ""because it can"" is a crappy reason to add features. I'm sure this site serves them very well.",1305172202
+2539409,comment,2539337,2539337,2,0,paulgerhardt,,,"There's a pretty cool look at the first Y Combinator class at 48:56 - <a href=""http://www.youtube.com/watch?v=0NRL7YsXjSg&t=48m56s"" rel=""nofollow"">http://www.youtube.com/watch?v=0NRL7YsXjSg&t=48m56s</a>",1305172183
+2539408,comment,2539143,2539401,7,0,imbriaco,,,"Not exactly. The 3 IPs that are returned for proxy.heroku.com are not fixed. They are a just subset of the available front-end proxy servers.",1305172180
+2539407,comment,2537885,2538188,1,0,diminium,,,"It was just an example.  I was just looking at other people startup ideas in the medical realm and the problems they face.",1305172167
+2539406,story,,,1,0,Genmai,"Accel in NYC",http://bits.blogs.nytimes.com/2011/05/10/accel-partners-plans-nyc-office-for-june/,,1305172104
+2539405,story,,,1,0,sushumna,"Yahoo To Acquire Advertising Platform 5:1",http://techcrunch.com/2011/05/11/yahoo-to-acquire-advertising-platform-51/,,1305172097
+2539404,comment,2535206,2535594,2,0,mkelly,,,"To what end? Is vertical space at some kind of premium? I have a scroll bar.",1305172079
+2539403,comment,2536826,2536826,1,0,jcnotchrist,,,"Thanks, I'll definitely take some of the ideas on.<p>Question: Any advice on acquiring Facebook fans?<p>We just started 6 weeks ago, now got 1,000 users (200 regular), but only 50 FB fans.  We have no money, so instead of doing ""like us on FB to win XXX"", I've resorted to ""I'll eat one clove of garlic for every 10 new FB fans"".  Anyway, given that you've got 7,000 FB fans, I'm sure you can teach us a thing or two.  Our site is: www.findfish.at (it has a link to our FB page there).",1305172035
+2539402,comment,2538565,2538847,0,0,ams6110,,,"I'd argue that in general there is far more regulation than is really necessary, and this is what creates the opportunity for corruption.",1305172016
+2539401,comment,2539143,2539365,3,0,joevandyk,,,"Yup.  Amazon has 3 too!<p><pre><code>     $ dig amazon.com
+
+    ; <<>> DiG 9.7.0-P1 <<>> amazon.com
+    ;; global options: +cmd
+    ;; Got answer:
+    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41998
+    ;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+    ;; QUESTION SECTION:
+    ;amazon.com.      IN  A
+
+    ;; ANSWER SECTION:
+    amazon.com.   36  IN  A 72.21.194.1
+    amazon.com.   36  IN  A 72.21.211.176
+    amazon.com.   36  IN  A 72.21.214.128</code></pre>",1305171985
+2539400,comment,2539354,2539354,1,0,mkelly,,,"...Except it takes 30 days of no account activity to take effect.",1305171984
+2539397,comment,2539354,2539386,5,0,ktsmith,,,"Says you have to hand over your password so I think that implies that they would be doing it directly via facebook and not the API.",1305171818
+2539395,comment,2537470,2538194,1,0,rcfox,,,"Indeed, I got 550 points for it.",1305171768
+2539394,comment,2539354,2539386,5,0,lsc,,,"You can't delete a facebook account, as far as I can tell, but you can change the data, the email, and randomize the password, which is pretty similar.<p>Seems to me like that's what they were talking about with the 'last words'",1305171765
+2539393,story,,,1,0,georgecmu,"Capital gains tax in the United States",http://en.wikipedia.org/wiki/Capital_gains_tax_in_the_United_States,,1305171759
+2539392,comment,2538655,2539069,2,0,rsanchez1,,,"Even the new Veer has tethering available from AT&T. All webOS phones are capable of tethering, the older models being capable of wifi, bluetooth, and usb tethering.",1305171758
+2539391,story,,,1,0,josephcooney,"My friend's domain was stolen after his email was compromised",http://secretgeek.net/sg_hijack.asp,,1305171742
+2539390,comment,2538655,2539307,1,0,rsanchez1,,,"Easily for developers, but there's no easy option for consumers in general to sideload apps on their phones without having to download separate software. For Android, all someone has to do to sideload an app is download it through the browser.",1305171669
+2539389,comment,2539160,2539375,7,0,18pfsmt,,,"Except he is a she, and she[1] is married to the son of former chief of staff, James Baker[2].<p>[1]<a href=""http://www.politico.com/news/stories/0511/54765.html"" rel=""nofollow"">http://www.politico.com/news/stories/0511/54765.html</a>
+[2]<a href=""http://en.wikipedia.org/wiki/James_Baker"" rel=""nofollow"">http://en.wikipedia.org/wiki/James_Baker</a>",1305171636
+2539388,comment,2538655,2539293,13,0,grayrest,,,"The killer feature for me is that you can patch the builtin apps. The WebOS OSS community is actually pretty cohesive and have their own market with a subcategory for system patches. You install it like any other app and it runs patch in the background, restart the phone and the patch is applied.<p>After owning an android device for a year, I've come to realize the only features I use are directions, web, mail, and Kindle. I regularly dislike/want one particular feature in these apps and feel that I can get them to work how I want if I can patch so I'll be switching over when I get a new phone.<p>I'm in the early access program and I've spent a couple weekends on it. Waiting on clarification on Enyo's licensing (i.e. can I use it as a baseline for cross platform apps) which has not been forthcoming before actually investing in the platform. I've been asking about Enyo licensing at events since January and nobody will say.",1305171634
+2539386,comment,2539354,2539354,8,0,dandelany,,,"Cute. But Facebook would never allow it. You think they have a delete_user_account() method in their developer API? ;)",1305171604
+2539384,story,,,2,0,teamlaft,"Reverse QR codes bring real-time social networking to non-smart phones [video]",http://www.youtube.com/watch?v=0_rcdOF8fT0,,1305171575
+2539383,story,,,1,0,wglb,"More numerical experiments in hashing: a conclusion",http://www.pvk.ca/Blog/more_numerical_experiments_in_hashing.html,,1305171480
+2539382,comment,2539160,2539371,9,0,eof,,,"Should be illegal.",1305171410
+2539381,comment,2537307,2539026,1,0,tjmc,,,"Very good question. The Chromebook hardware is completely uninspiring. They just look like cheap corporate laptops. Not surprising given that Google are basically embracing the Microsoft model of leaving the hardware to the usual suspects.",1305171394
+2539380,comment,2538655,2538801,3,0,rsanchez1,,,"Running native C/C++ code is pretty cutting-edge stuff. It's essentially the Chrome Native Client, on mobile. I've developed a pretty nice app using a native plugin. Unfortunately, most current webOS users won't get to use it because, although the PDK was released last year and, at least for my app, hybrids work perfectly on all webOS devices running at least webOS 1.4.5, Palm (and now HP) has decided to restrict hybrid apps in the app catalog only to webOS 2.1 users, which are very few and far between right now.",1305171322
+2539379,comment,2539160,2539371,6,0,amphigory,,,"Illegal, no.  Unethical, hell yes!  I wrote to Comcast corporate, FCC, and the DOJ.  Not that it will do any good but at least the urge to punch the wall has almost gone away.",1305171279
+2539378,comment,2539160,2539160,5,0,18pfsmt,,,"Because I find this topic interesting, this just fell off the front page: <a href=""http://news.ycombinator.com/item?id=2538565"" rel=""nofollow"">http://news.ycombinator.com/item?id=2538565</a><p>Edit: After approving NBC buyout, FCC Commissioner becomes Comcast lobbyist (arstechnica.com) is the title.",1305171133
+2539377,story,,,1,0,hootx,"Keeping the Pirates at Bay [2001]",http://www.gamasutra.com/view/feature/3030/keeping_the_pirates_at_bay.php,,1305171128
+2539376,comment,2539279,2539279,1,0,spitfire,,,"+1 for Burt Rutan.",1305171097
+2539375,comment,2539160,2539160,1,0,orijing,,,"On the bright side, at least she isn't in the FCC, biasing the decision with more corruption, right?<p>Or has the damage been done, and is irreversible?",1305171091
+2539373,story,,,4,2,Garbage,"Google engineers claim that Chrome PWN bug is a Flash bug",http://www.zdnet.com/blog/hardware/google-engineers-claim-that-chrome-pwn-bug-is-a-flash-bug/12743,,1305171013
+2539372,story,,,1,0,riveravaldez,"Y SIN EMBARGO magazine  yse #28: las premisas / the curved lines",http://ysinembargo.com/uebi/2011/05/10/yse-28-las-premisas-the-curved-lines/,,1305170995
+2539371,comment,2539160,2539160,4,0,ksolanki,,,"Well, this is not much new here, is it? FCC Commissioner leaves for Comcast. DARPA program manager leaves for Lockheed Martin. Senator leaves for or sets up a lobbying firm. Federal reserve personnel leaves for Goldman Sachs (or vice versa).<p>It is the people they know (Network) that is valuable in all these cases... Potential for corruption? Yes. Illegal? No.<p>EDIT: Of course this is very unethical and am not supporting this by any means. Am just stating as a matter of fact that this nexus is very prevalent, almost legalized. In many cases, such job changes are considered a natural career progression...",1305170932
+2539370,story,,,1,0,TeresaGF,"Sending A2P SMS deploying in PHP and connecting to an SMS API",http://nexmo.com/documentation/gettingstarted/,,1305170917
+2539368,comment,2537811,2539192,1,0,ephemient,,,"I have not profiled the code, but I expect that the Newtonian approximation of sqrt is the slowest part.<p>It would surprise me if ""powers"" was a big problem relative to the rest.  And no shortcuts: each of [1, b b, b, b, b, ] (up to n) is used in the binomial expansion.",1305170857
+2539367,comment,2535206,2536982,1,0,kamaal,,,"Could you please explain how I don't know anything about what I do aside from what I've written?(I don't know how you make such a comment without knowing anything about me).<p>And what are those specialized toolchest of string tools that Python offers? I have clearly explained(In comments above and below) Perl's 'tool chest', now can you please explain how Python 'tool chest' beats it?<p>Seems, languages like Python and Java are best when all your application needs a glue between one part of architecture(webserver, UI etc) and other(database, XML, JSON). Or at maximum some extra stuff like sockets.<p>The problem with Python sort of languages starts when you alter you inputs and outputs such that they are no longer standard and structured. All examples that Python folks give as superiority of Python over Perl come around in areas where data input is structured enough. Things like scientific computing, web programming(Interaction with databases, XML, JSON).<p>There are a lot of languages which can do this, The actual  challenge is in areas dealing with unstructured data. There are very few languages which offer convenient tools to deal with those sort of problems.<p>Unfortunately Python isn't one of them",1305170846
+2539366,comment,2538655,2539270,1,0,rsanchez1,,,"They released all their phones to AT&T and Verizon shortly after the Sprint exclusive. The Pre 2, vastly improved over the Pre, was formerly available only as a GSM unlocked device, and now on Verizon. The Veer is an AT&T exclusive. Sprint distanced itself from webOS a long time ago.",1305170839
+2539365,comment,2539143,2539143,4,0,armored,,,"Does this mean that 3 proxy servers serve all the traffic for ALL apps hosted on Heroku?",1305170800
+2539364,story,,,2,0,crankycoder,"Make anonymous comments on Facebook",http://www.defaceable.com/,,1305170625
+2539363,comment,2537994,2537994,3,0,stcredzero,,,"What really matters isn't what people can install or not.  What really matters is if people can remotely verify if it's still locked or it's jailbroken.  This gives organizations and users a choice to install whatever they want, or to have a verifiable environment.<p>It also gets you out of Sony's losing position, where you get neither security and you piss off people who have the technical knowledge to make your life harder.",1305170617
+2539362,comment,2539109,2539289,3,0,hasenj,,,"I don't think corporates rely on ""loyal costumers"". I can't imagine a manager at some big company agreeing to this line of thinking.<p>I mean yea, theoretically this applies to everything (games, music, movies, etc), but .. I have a hard time believing that big companies will someday realize this.",1305170615
+2539361,story,,,1,0,jg2009,"Angel investing: Venture capital as another option for Polish start-ups - ",http://www.wbj.pl/article-54408-angel-investing-venture-capital-as-another-option-for-polish-start-ups.html?type=wbj,,1305170536
+2539360,comment,2538655,2539263,2,0,rsanchez1,,,"They were giving away Pre 2's. They probably still are giving them away if they still have them in stock.",1305170528
+2539359,comment,2538655,2539253,1,0,rsanchez1,,,"The Pre 2 is a huge improvement over the original Pre and its upgraded Plus version. It's just that no one ever cared enough to sell it.",1305170405
+2539358,comment,2539143,2539143,36,0,tlrobinson,,,"I posted that answer. If you have any additional questions or insights let me know.",1305170403
+2539357,comment,2537811,2539014,1,0,ephemient,,,"Hmm, I screwed up and wrote iterate instead of iterate' where I intended.  Not that it really makes a difference.<p>In any case, the average time to print the first 20 Fibonacci numbers is 0.4157ms with matrix exponentiation and 1.707063s with exact integer math (yes, the units are different) on a T400.",1305170394
+2539356,comment,2539332,2539332,1,0,Serene,,,"About $100K, could be higher: 
+<a href=""http://www.simplyhired.com/a/salary/search/q-start+up+company+developer/l-san+francisco+%2Cca"" rel=""nofollow"">http://www.simplyhired.com/a/salary/search/q-start+up+compan...</a>",1305170350
+2539355,comment,2535419,2536991,1,0,olalonde,,,"That's not the point. Alcohol prohibition reduces alcohol related deaths. Doesn't make alcohol prohibition a good thing for society.",1305170349
+2539354,story,,,58,25,ssclafani,"Facebook Roulette pits you against three friends, the loser's account is deleted",http://mashable.com/2011/05/11/facebook-russian-roulette/,,1305170276
+2539353,comment,2538655,2539058,4,0,rsanchez1,,,"Yeah, I can do all of that with my Pre 2 as well, and I had been doing it on my Pre for a while.<p>Heck, with xterm on my Pre 2, I can run a Debian or Ubuntu ARM rootfs and actually have a full Linux experience in my pocket.",1305170191
+2539352,comment,2537307,2537785,1,0,akent,,,"> There are many normal people that wouldn't drop the cash on a video card that play WoW.<p>Yet they will happily drop $15 a month subscription fee? Who are these people? Are there any stats published by Blizzard?",1305170175
+2539351,comment,2538710,2538958,1,0,chc,,,"I'm skeptical. You're saying that if more application developers just allowed their apps to suck, the Web would somehow become a better platform for that kind of application? I don't see how that follows.",1305170172
+2539350,comment,2538994,2539037,1,0,faceplant,,,"Good points. Although, the semi-colon insertion is only partial... it mops up the edge cases where JS doesn't usually insert them (such as if a ( appears after a block or group on a previous line). It's made specifically for people who do ""normal"" (aka K&R) style JavaScripting and want to get rid of semi-colons altogether, but can't usually because of the annoying exceptions.",1305170150
+2539349,story,,,1,0,Ladarius11,"London Removal Companies",http://www.thelondonremovals.com,,1305169998
+2539348,comment,2537811,2539197,6,0,onedognight,,,"If you compute the eigenvalue decomposition of<p><pre><code>  A={{0,1},{1,1}}
+</code></pre>
+i.e.<p><pre><code>  A = V^-1 D V
+</code></pre>
+where D is a diagonal matrix with the eigenvalues phi and 1/phi as the diagonals, then<p><pre><code>  A^n = V^-1 D^n V
+</code></pre>
+where D^n is diagonal with phi^n and 1/phi^n as the diagonals. This gives exactly the above <i>well known</i> formula.",1305169992
+2539347,comment,2538655,2539108,3,0,blinkingled,,,"It needs a bigger form factor in slicker package - CPU/GPU matter but not as much as form factor for the Pre atm. Having the tiny Pre screen does little justice to webOS.<p>If they could get a SGS2 or Atrix type device out with GPU accelerated webOS UI and may be ship Android compatibility until webOS apps catch up - it would become a really credible player.",1305169933
+2539346,comment,2534850,2534850,1,0,daniel1980fl2,,,"I would LOVE to, and would pay both parties $20 each for ticket, plus $10 for popcorn to watch a public fight between Berenson, BMI and the giant Bezos' Amazon(r) !!! 
+I would only beg them to give me a minute to firmly buckle myself up!!!",1305169912
+2539345,comment,2526032,2527611,1,0,xinmans,,,"I suspect you need a newer version of gcc/g++ (one that supports the
+c++0x standard).  You can probably download a later gcc package and
+then use that to install.<p><pre><code>  -Jeff
+
+</code></pre>
+On Wed, May 11, 2011 at 3:37 AM, conglin.deng <conglin.deng@aliyun-inc.com> wrote:
+> Hi jeff,
+>
+>
+>
+> I have checkout leveldb code from code.google.com,
+>
+> But when I run make command on the root folder, encounter a error as 
+> below,
+>
+>
+>
+> ///////////////////////////
+>
+> [root@host]$make
+>
+> g++ -c -DLEVELDB_PLATFORM_POSIX -I. -I./include -std=c++0x -g2
+> db/db_bench.cc -o db/db_bench.o
+>
+> cc1plus: error: unrecognized command line option ""-std=c++0x""
+>
+> make: <i></i>* [db/db_bench.o] Error 1
+>
+> [root@host]$pwd
+>
+> /home/admin/leveldb
+>
+> [root@host]$
+>
+> ///////////////////////////
+>
+>
+>
+>
+>
+> Would you please to tell me how to build and setup leveldb on a redhat 
+> 5.4 env. Thanks very much!
+>
+>
+>
+> Thanks
+>
+> linc",1305169875
+2539344,comment,2539300,2539300,1,0,phlux,,,"Id be willing to bet C level salaries were either steady or went up.",1305169773
+2539343,comment,2537624,2538763,1,0,spearo77,,,"Or, Robert's your Mother's Brother :)",1305169759
+2539342,comment,2537307,2537570,1,0,guywithabike,,,"You pay $20 to $30 a month for <i>three years</i>. That's a minimum of $720. Unless I'm missing something, the subscription is nothing but a flavor of a payday loan.<p>Edit: Looks like I was missing the fact that the subscription includes ""service and support"", although it's unclear exactly what that entails. Page supposedly isn't a fan of customer support (<a href=""http://www.wired.com/magazine/2011/03/mf_larrypage/all/1"" rel=""nofollow"">http://www.wired.com/magazine/2011/03/mf_larrypage/all/1</a>), which doesn't bode well.",1305169753
+2539341,comment,2539109,2539321,5,0,robryan,,,"Games are slightly different, for example with WoW there are plenty of people playing for free on private servers people have setup, you don't see this at all with SaaS apps. Although if your game is an MMO and popular enough the network effects mean the vast majority of players are going to want to be on the legit servers.",1305169595
+2539340,comment,2539143,2539143,2,0,alttab,,,"This is really cool. Providing this as a service requires a very different approach than running open source code.",1305169534
+2539339,comment,2537307,2537307,2,0,dmazin,,,"As an owner as one of the CR-48 test units, let me just tell you that I can get on the internet quicker on my three-year-old MacBook than this thing. The MacBook is connected to WiFi by the time I'm logged in from sleep. Not so with the CR-48.
+However, the 100 free megabytes of 3G per month is nice. I've used about 400kb total since December.",1305169481
+2539338,comment,2538655,2539311,1,0,unwiredben,,,"Actually, Ares has been available for over a year now -- the technology team behind it has been building our new Enyo framework for websOS 3.0.",1305169480
+2539337,story,,,5,4,xtimesninety,"Aardvark'd (Fog Creek documentary) is now up on YouTube for free",http://www.youtube.com/watch?v=0NRL7YsXjSg,,1305169472
+2539336,comment,2539109,2539289,9,0,ab9,,,"Because that's the context of the article and HN users might want to know that. It's not clear in the original title.",1305169422
+2539335,comment,2532271,2532271,1,0,waterhouse,,,"Technical tangent: I opened this in a tab, intending to read it later, then came back and noticed Firefox was using 100% CPU.  I thought ""oh god what's happening"" and tried closing other tabs to determine the cause.  Eventually I discovered that a) this website was the culprit, and b) this is most likely because, a few pages down, there's some kind of (processor-intensive) simulation happening.<p>Lessons I draw from this:<p>- In designing a website that outsiders visit, you should probably follow this rule: If your page must have a majorly resource-intensive object on it, it should either be visible and obvious at the top of the page, or have a ""Start"" or ""Play"" button and not run until the user presses it.<p>- Firefox should get some (easily accessible) way to see resource usage broken down by tab.  Chrome does this; it's probably made easy by the fact that Chrome makes a separate OS process for each tab (or group of tabs).  I wouldn't recommend switching to that model, because it would be work and because I wouldn't like it (I don't like how it clutters up the global process list in Activity Monitor), but it would be nice if you could see CPU and memory usage broken down by tab.<p>- (Optional) Browsers shouldn't run purely graphical animations if they're not visible (like if they're several pages down).  This might not be perfectly achievable--e.g. if animations started when you scrolled down to them, then one animation slightly higher than another might start earlier when the designer wanted them to be synchronized.  Maybe you would instead have background things keep time without actually rendering anything.  This might not work for cases where the nth frame depends on the conditions of the n-1th frame, and so you'd have to run the whole simulation in the background anyway--though maybe leaving out the ""draw"" part would make a big difference, I don't know.  But if it's a series of static frames, like a GIF, then I think this would work--when the GIF is offscreen, the browser would just keep incrementing a frame number (mod the number of frames in the GIF).",1305169390
+2539334,story,,,1,0,AlexJSteve,"How to Seduce a Woman to Sleep With You ",http://ezinearticles.com/?How-to-Seduce-a-Woman-to-Sleep-With-You---The-Hundred-Dollar-Tips-That-You-Should-Not-Miss&id=6249828,"Do you think that seducing a woman is hard? Don't worry, most guys think this way. Most guys think that women want to be seduced by rich and handsome guys. Normally, it is not truth. If you take control of the relationship with a woman and play the game with my seduction techniques, you can manage to sleep with hot and beautiful girlfriends. The question how to seduce a woman to sleep with you will not bother you anymore.",1305169336
+2539333,comment,2534169,2534169,1,0,bostonguy,,,"As a first generation of Chinese immigrant, I personally experienced bamboo ceiling in a government agency.  While I am still not very comfortable and skillful to raise my voice at my workplace, I totally agree that young Asian generation should raise your voice and demand what you deserve in a meritocratic society. Go ahead, be a real Asian tiger!",1305169278
+2539332,story,,,18,3,jchang1001,"Average salary in the bay area for startups?",,"I'm thinking of applying for startup jobs in SF. Please help.",1305169272
+2539331,comment,2533655,2533763,1,0,wallflower,,,"> I'm actually pretty surprised that there are HN users that don't know about his essays...<p>Actually a long time ago, I remember reading one of PG's essays on High School and was struck by the sheer number of active comments (vibing with the thoughts) on it from kids who were in high school and most likely had no idea what HN was.",1305169247
+2539330,comment,2537095,2537095,2,0,bane,,,"meh, in 3 years they'll probably just announce a new pricing structure where every reasonable use of this ends up with 1000%-2000% price hike (GAE user here, grumble grumble)",1305169241
+2539329,comment,2538655,2539234,4,0,daniel_solano,,,"I agree, and it's open source too. In fact I am currently working on getting it to work well with the full keyboard on my new Android tablet/netbook.",1305169225
+2539328,comment,2537751,2538162,1,0,triviatise,,,"what if the probability is published and constantly updated and there are simple ways to improve your probability?",1305169212

@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+552,comment,445,531,0,0,vikram,,,"As answer for the question:<p>If one wanted to buy you three months in (August 2007), what's the lowest offer you'd take?<p>
+I entered:<p>
+1 million<p>
+all I can see is:<p>
+1",1172181034
+551,comment,445,531,0,0,vikram,,,"For the question:<p>Why would your project be hard for someone else to duplicate?<p>I entered: Don't know<p>I can only see:<p>Don<p>I also tried Dont know<p>still only see Don
+",1172181003
+550,comment,445,531,0,0,vikram,,,"The simplest repro case is <p>1. enter text for the Q. Please tell us something surprising or amusing that one of you has discovered.....<p>2. Now hit update<p>3. Click the &#34;edit funding application&#34;<p>
+I expect to see the text in the last box. Instead it says nil.
+When I reported the bug it used to be empty. I see the same behaviour
+for all questions starting from &#34;Do you have any ideas you consider patentable?&#34;<p>",1172180957
+549,comment,510,510,0,0,Harj,,,"craig is amazing at replying emails - whenever i've emailed something about the site i've always had a reply on the same day. im usually lucky if i get an automated reply in the same week from ebay.",1172180897
+548,comment,329,329,0,0,danw,,,"Cal Henderson also has a Carson Workshops 'survival kit' available. Its called 'Building Enterprise Web Apps on a Budget' and its available from http://www.carsonworkshops.com/shop/PHP_Henderson.html. I havent purchased it myself but Carson Workshops normaly produce some top notch kits.",1172180690
+547,comment,363,363,0,0,danw,,,"I've heard many people give this wonderful piece of advice:<p>&#34;Ignore your user's requests. They'll ask for every feature under the sun apart from the one that they really need. You'll spend all your time adding new features rather than making your site genuinely usefull&#34;<p>Unfortunatly I cant find any citations. If only quotationsbook.com was ready!",1172180407
+546,comment,363,395,0,0,danw,,,"When you submit a duplicate URL it sends you to the original submissions page instead",1172180213
+545,comment,516,516,0,0,pg,,,"Several of the startups we've funded use S3, and they seem to like it.",1172180005
+544,comment,532,532,0,0,altay,,,"Amazon: ~1.3 million tags.  
+LibraryThing: >13 million tags!",1172179811
+543,comment,538,538,0,0,danw,,,"It seems the best option is to find some one you've worked with already, mainly fellow students, coworkers and open source contributers. If none of the above work for you try going to conferences and other events. Personnaly I have found barcamp to be a great event. Anyone attending will be motivated and passionate. You'll also get to see everyone present on something. If someone is presenting on the same topic in which you want to create a startup then approach them. Chances are your on the same wavelength and you can discuss your ideas together. <p>Also the presentations give you a great idea of if a potential cofounder will be good at pitching to investors and give you an oppertunity to present about your own startup idea!",1172179645
+542,comment,189,540,0,0,jwecker,,,"in that case, I _am_ excited about Arc's progress ;)",1172179379
+541,comment,189,388,0,0,pg,,,"We won't clutter it up. Look how minimal the YC site itself is.",1172179244
+540,comment,189,422,0,0,pg,,,"The server's written in Arc too.  I wanted to learn how to write one.",1172179068
+539,story,,,2,5,amikael,"Your desktop where you are.",http://www.xindesk.com,,1172178930
+538,story,,,16,14,danw,"Where to Find a Cofounder - by Chris Campbell of Wufoo",http://particletree.com/notebook/where-to-find-a-cofounder/,,1172178809
+537,story,,,2,1,marie,"Mobile Advertising Marketplace AdMob Serves One Billion Ads in Six Months",http://sourcewire.com/releases/rel_display.php?relid=29293&hilite=,,1172178619
+536,story,,,12,1,danw,"Startup Stories - Read about the experiences of startups including reddit",http://startupstories.com/,,1172178560
+535,story,,,6,8,danw,"On Cloning YC in Europe",http://www.gaborcselle.com/blog/2006/04/on-cloning-ycombinator-in-europe.html,,1172178501
+534,comment,530,530,0,0,farmer,,,"What a strange mix.  About half seem obvious, and the other half totally random.",1172178467

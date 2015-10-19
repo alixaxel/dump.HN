@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3158,story,,,4,0,countavdhesh,"switch from php to ruby",http://www.thefutureoftheweb.com/blog/2006/11/switch-from-php-to-ruby-on-rails,,1173443558
+3157,comment,3038,3038,0,0,jwecker,,,"The idea is fundamentally disgusting.  Giving someone a government enforced monopoly on a thought.  It's not even interesting to speculate about- it's completely untenable- impossible to organize and define, impossible (and immoral) to enforce, and it would completely kill innovation and economic growth.  All ideas are derived. [no offense, amichail- I know you were just throwing it out there]",1173443499
+3156,comment,3114,3114,0,0,wensing,,,"Shouldn't be hard to match me up either.  <p>my $me;
+my $last_name = $ynews_uid;
+our @facebook_names = importNames('Startup School 2007');<p>for my $facebook_name (@facebook_names) {
+    if ($facebook_name ~= /Matthew $last_name/) {
+        $me = $facebook_name;
+    }
+}<p>print $me;",1173443195
+3155,comment,3051,3051,0,0,robertgaal,,,"I actually know a Dutch social network that killed of their Spanish audience by targeting more on national events. It all depends on strategy I guess.",1173443130
+3154,comment,3152,3152,0,0,robertgaal,,,"This is a problem I have right now in my current start-up, Wakoopa.<p>We're currently working on a thematic social site, which will launch in about a month. We've had a small investor gives us some seed money, which could last us for about a year. We both have our personal laptops to develop it. I use a 17"" Acer, my partner has a 13"" Macbook. He sometimes uses an extra screen, property of another company at our shared office, a 20"". This ofcourse saves him a lot of stress and lets him develop somewhat faster.<p>We'd like to buy him an extra screen of course, but is this really fitting for a small start-up that isn't earning money yet? We've got the budget, but should it be tapped into? And of course: who pays for this thing? Should we just order it through our company and forget about it, or do we hold it in on my partners (very modest) salary? <p>This all has to do with your personal guidelines and budget, but what do you guys think? Buy the thing and be done with it, or be more thoughtful of what you spend in such an early stage?",1173442825
+3153,comment,3124,3124,0,0,staunch,,,"This is a great list. Thank you.",1173442080
+3152,story,,,2,2,robertgaal,"When to buy what in a start-up, and who pays for it?",,,1173442047

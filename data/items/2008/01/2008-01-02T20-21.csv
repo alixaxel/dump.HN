@@ -1,0 +1,22 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94363,comment,94250,94358,0,0,nivi,,,"Thanks for the comment Dani.<p>When it comes to applying the equity equation, consider the opportunity cost:<p><a href=""http://venturehacks.com/articles/equity-equation#opportunity"" rel=""nofollow"">http://venturehacks.com/articles/equity-equation#opportunity</a><p>For example, 1% spent on lawyers is 1% you can't spend on developers.",1199307404
+94362,story,,,1,1,drm237,"Designing Problems are for the Lazy",http://zeroinfluence.wordpress.com/2008/01/02/designing-problems-are-for-the-lazy/,,1199306349
+94361,story,,,2,2,halbertn,"Ask YC: Capistrano help w/ sudo",,"Hello All,
+I'm at my wits end here...
+I'm using capistrano 2.1.
+I'm overwriting the finalize_update task in my deploy script to run sudo so that I can perform some misc linux calls. Here's a sample call:<p><pre><code>  task :finalize_update, :except => { :no_release => true } do
+    # chown the new directory to apache:apache
+    run ""sudo -p 'sudo password:' chown -R apache:apache #{latest_release}""
+  end
+</code></pre>
+I do see the 'sudo password:' prompt, however anything I type appears on the terminal and hitting enter doesn't send my password over.  Prior to the sudo call, when I'm prompted for a password, I don't see my character inputs on the screen, typical of entering passwords in linux terminal,...so it appears that the sudo password prompt is broken.  Is there a setting that I have not configured properly?<p>I've been searching google, and part of the new features for capistraion 2.1 is that it recognizes the '-p' option on sudo. As quoted:<p>Use sudo -p switch to set sudo password prompt to something predictable.<p>I don't understand this statement. What password prompt is ""something predictable""?<p>Thanks for any help!",1199306313
+94360,story,,,2,0,transburgh,"Why big brands are getting Facebook wrong",http://valleywag.com/339675/why-big-brands-are-getting-facebook-wrong,,1199306027
+94359,comment,93683,94238,0,0,carpal,,,"I kind of figured you could look outside for that.  Temperature is a little harder to gauge.",1199305816
+94358,comment,94250,94250,0,0,DaniFong,,,"The analysis here seems pretty shallow. As in every other deal, one needs to consider what they're offering, and your own position.<p>In our case, we are equity rich and cash poor. We don't care nearly so much about our share, so long as a great product gets off the ground. We also don't particularly think it's a wise course of action to bargain with a law firm. Especially when one has better things to do.<p>We're talking about 1% here. Shouldn't you be spending time worrying about your product? Or more cynically, getting a better VC deal?<p>Lastly, there's the equity equation. If these particular lawyers would improve your prospects for 1.01% over the alternative (other lawyers, or more specifically, over the bargaining process for other lawyers when you should probably just be coding), it should be worth it: more if you're risk averse.",1199305447
+94357,story,,,2,0,AZA43,"First Tablet Mac Notebook, the ModBook, Finally Released by Axiotron",http://www.cio.com/article/168300/Axiotron_s_ModBook_Tablet_Mac_Ships_a_Year_After_its_Unveiling,"Cool pen tablet based MacBook mod is finally released by the company that showed it off a year ago at Macworld.",1199305310
+94356,story,,,1,0,gibsonf1,"Japanese Robot Eats Snow, Poops Out Bricks of Ice","http://www.foxnews.com/story/0,2933,319473,00.html",,1199305205
+94355,comment,94343,94343,0,0,aston,,,"The trend with his ""intermediate successes"" seems to be that he started strong but never committed long enough to finish.<p>I empathize, though, since if I had his money and free time I'd be just as bad.",1199305123
+94354,comment,94348,94348,0,0,brk,,,"I bought myself a 60"" plasma TV and a Eee.<p>First impressions on the Eee:
+<a href=""http://blog.karas.net/Das_Blog/bid/3324/Nokia-N810-Not-yet-Asus-EEE-PC-For-Now"" rel=""nofollow"">http://blog.karas.net/Das_Blog/bid/3324/Nokia-N810-Not-yet-A...</a>",1199305085
+94353,story,,,22,7,toffer,"Mark Cuban: The Best Equity is Sweat Equity",http://www.blogmaverick.com/2008/01/02/the-best-equity-is-sweat-equity/,,1199304740
+94352,comment,94067,94067,0,0,brl,,,Mine.,1199304398

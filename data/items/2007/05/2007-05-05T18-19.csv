@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19807,comment,19798,19798,0,0,twism,,,"twism AT hotmail DOT com",1178391531
+19806,comment,19798,19798,0,0,schmoe,,,"schmoe AT sent DOT com - oh well, thanks anyway.",1178390930
+19805,comment,19795,19795,0,0,pg,,,"dupe <a href=""http://news.ycombinator.com/comments?id=19582"" rel=""nofollow"">http://news.ycombinator.com/comments?id=19582</a>",1178390836
+19804,comment,19798,19800,0,0,veritas,,,sent,1178390668
+19803,comment,19798,19802,0,0,veritas,,,sent,1178390639
+19802,comment,19798,19798,0,0,tedhaile,,,"theodore DOT haile AT gmail
+thanks",1178390496
+19801,comment,19494,19767,0,0,nurall,,,"Errata - My friend up-voted me on two different comments, once each. My score should have increased by 1 Karma point going by the 0.5 weight for comments, but it did not, immediately.",1178390334
+19800,comment,19798,19798,0,0,jward,,,"username at wardtek dot ca",1178390120
+19799,comment,19798,19798,0,0,veritas,,,"I have 4 invites to give out.  Leave your email and the first 4 people get one.",1178389415
+19798,story,,,1,13,veritas,"Iminlikewithyou invites here (All out)",,,1178389385
+19797,comment,19494,19792,0,0,Sam_Odio,,,"Direct replies to any comments or stories can't be downvoted.",1178389311
+19796,comment,19781,19781,0,0,mojuba,,,"I tried to post a comment, but there seems to be a problem with their Lisp CGI's.<p>On Lisp vs. Python:
+<a href=""http://lemonodor.com/archives/001497.html"" rel=""nofollow"">http://lemonodor.com/archives/001497.html</a><p>""Readable"" languages are rather manager-centric. And because software managers become increasingly unimportant (or decreasingly important :), so will ""readable"" languages.<p>Of course programmers need readability too, but given a choice they'd rather stick to a concise and powerful language. Why? Probably because a powerful language, among other things, doesn't require you to get back to your code and fix it too often, and hence, you don't need that language to be too readable. It allows you to solve a problem in small, rock-solid and easily testable chunks.<p>I'm desperately looking for such a powerful ""write-and-forget"" programming language. Is it Lisp? I don't know yet.",1178388754
+19794,comment,19535,19535,0,0,juwo,,,Agree/Disagree?,1178388211

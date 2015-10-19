@@ -1,0 +1,22 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+104372,comment,104103,104254,0,0,icky,,,"The moon eclipses the sun, but it's still a lot smaller... :)",1201301819
+104371,comment,104199,104199,0,0,latone,,,"Please contact latone at gmail.com and we can discuss.",1201301752
+104370,story,,,1,0,szczupak,"It is not the money spent on marketing that makes a startup successful",http://www.businesshackers.com/2008/01/26/it-is-not-the-money-spent-on-marketing-that-makes-a-startup-successful/,,1201301393
+104369,comment,104109,104109,0,0,BrandonM,,,"Strangely enough, they did not accept the patch. Even if the reference was a slightly immature joke, ""penis"" is a word, after all, and there's no reason not to improve the dictionary.",1201301241
+104368,comment,104199,104199,0,0,bprater,,,"If you need to do form stepping, you need to look at something like Perl's Mechanize package. (Ruby has one too.)<p>Spend time reading articles related to Mechanize. Your resulting code is going to be fairly terse, so you don't really need to spend much time worrying about making a generic crawler.",1201301125
+104367,comment,104284,104284,0,0,tocomment,,,"The bug in the logo is the reflection?",1201301016
+104366,comment,104261,104261,0,0,manvsmachine,,,"... and I had gone all this time without succumbing to Zuckerberg...",1201300773
+104365,comment,104246,104246,0,0,bprater,,,"How often do you go back and look at aggregate sites like this one?",1201300671
+104363,comment,104109,104353,0,0,dfranke,,,"I once attended a lecture in which the lecturer proved that this game is isomorphic to 1-column Nim.",1201300502
+104362,story,,,1,0,Jaggu,"Google CEO bullish on mobile Web advertising",http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=OBR&date=20080125&id=8093928,"It is about future of location based / local advertisement on mobile.",1201300194
+104361,story,,,12,5,neilc,"MapReduce II (followup to ""MapReduce: A major step backwards"")",http://www.databasecolumn.com/2008/01/mapreduce-continued.html,,1201300077
+104360,comment,104039,104218,0,0,noonespecial,,,"Unlike spam this one is actually easy to stop. The registrars could just say ""no more tasting"" and that would be the end. There is a final authority who can stop it or make it cost something.<p>This has been nothing but bad for the web in general. Its time to say ""no more tasting"". I hope google starts a trend.",1201299825
+104359,comment,104330,104354,0,0,amichail,,,"I'm not referring to implementation issues.<p>Rather, my question concerns the policy to use to determine when a fork or merge is to be done.",1201299494
+104358,story,,,1,0,iamelgringo,"Request:  Why does functional programming matter?",http://groups.google.com/group/fa.haskell/browse_thread/thread/40221a24b1f31422#9e5cd81e0bfa89d0,,1201299167
+104357,story,,,19,4,iamelgringo,"Pixar's Published Computer Graphics Papers",http://graphics.pixar.com/,,1201299120
+104356,comment,104246,104295,0,0,whacked_new,,,"hats off to you for making this",1201299006
+104355,comment,104196,104196,0,0,whacked_new,,,"I don't get it... was this supposed to be funny?",1201298841
+104354,comment,104330,104330,0,0,jonnytran,,,"Sorry, maybe I'm just missing something.  But how is this not trivial?<p>Sure, there are political issues like when people unaware of the fork submit, what happens.  But assuming everyone has agreed, this seems like a simple sql update.<p>Maybe one potentially tricky issue is how to lazily copy posts that were submitted prior to a fork so that they show up in both subreddits after the fork.  Is this what you're referring to?",1201298814
+104353,comment,104109,104230,0,0,ivankirigin,,,"""The * game"", involves a competition among friends, in public, to take turns saying a word at ever increasing volume. First to refuse to say the word because the requisite volume shout would be too mortifying, loses. Good for movie theaters before or during the show.<p>Also good for 12 year olds.",1201298608
+104352,comment,104349,104349,0,0,bayareaguy,,,"- Humility<p>- Love of Learning<p>- Detail-orientedness<p>- Adaptability<p>- Passion",1201298591
+104351,comment,104261,104316,0,0,jraines,,,"Damn -- I don't understand.  I made it public.<p>Here's the URL:<p><a href=""http://git.facebook.com/group.php?gid=7827464693"" rel=""nofollow"">http://git.facebook.com/group.php?gid=7827464693</a>",1201298484

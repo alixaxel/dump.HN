@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91885,story,,,4,0,raghus,"The Crunchies 2007 - Celebrating the best of internet and technology innovation",http://vote.crunchies.techcrunch.com/,,1198292236
+91883,story,,,6,6,mhb,"How ticket scalpers break Ticketmaster's captcha",http://consumerist.com/consumer/lawsuits/why-do-ticketmaster-events-sell-out-instantly-334504.php,,1198292066
+91882,comment,91848,91861,0,0,mattmaroon,,,"That or people on unicycles are stupid.",1198290502
+91881,story,,,10,3,mqt,"Unix makes Computer Science easy",http://glomek.blogspot.com/2007/12/unix-makes-computer-science-easy.html,,1198290384
+91880,comment,91872,91872,0,0,krazykory,,,"With the growth of people on the move, and the technology in laptops today. I would say yes.",1198290269
+91879,comment,91872,91872,0,0,wtf,,,"I think everything is moving online.  Once that happens, laptops will become obsolete too and there will just be publicly available computers everywhere.  They will all be able to do the same thing since they will all have access to the same internet.",1198290259
+91878,comment,91872,91872,0,0,michaelyurechko,,,"Yea, they are. I live off my laptop, and when I'm home I plug it into my 24 inch dell and a MyBook external drive (where I keep all large media).<p>I can have a huge screen and tons of storage with a laptop, and I can move it around with me. If I have a Desktop + Laptop, I have to worry about syncing all the time.",1198289944
+91877,comment,91755,91819,0,0,icky,,,"> No PG is a big drawback,<p>Evidence?",1198289772
+91876,comment,91140,91813,0,0,mynameishere,,,"is_immune_to_poison. is_resistant_to_fire. reflects_magic :only => :fire.<p>I find that a touch inscrutable, but to make an object have various behaviors certainly doesn't require subclassing.<p><pre><code>  obj.addProperty(new PoisonImmunity());
+  obj.addProperty(new FireResistence());
+  obj.addProperty(new ReflectsMagic());
+</code></pre>
+or, in one line:<p><pre><code>  obj.addProperties(new PoisonImmunity(), new FireResistence(), new ReflectsMagic());
+</code></pre>
+or, super-fast mode:<p><pre><code>  obj.addPropertyFlags(POISON_IMMUNITY | FIRE_RESISTENCE | REFLECTS_MAGIC);
+</code></pre>
+or, pulling from some configuration file:<p><pre><code>  obj.addProperties(""poison_immunity"", ""fire_resistence"", ""reflects_magic""));
+</code></pre>
+...maybe you're doing something I don't grasp, but it seems like another case of pretending that java has a disability that it doesn't.",1198289746
+91875,comment,91867,91867,0,0,icky,,,"Least meaningful 404, since the actual response header returns ""200 OK"" :-/",1198289514
+91874,comment,91870,91870,0,0,icky,,,"Dibs on the .mars TLD!",1198289429
+91873,comment,91872,91872,0,0,waynesutton,,,Yes,1198289141
+91872,story,,,6,9,PStamatiou,"Are Desktop Computers Dying?",http://paulstamatiou.com/2007/12/21/are-desktop-computers-dying/,,1198288840

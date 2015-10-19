@@ -1,0 +1,37 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+337097,story,,,2,0,known,"Quit Helping Small Business",http://www.thedailybeast.com/blogs-and-stories/2008-10-17/quit-helping-small-business/,,1224427670
+337096,story,,,10,7,antiform,"Who says Czech scientists have a drinking problem?",http://www.praguepost.com/articles/2008/03/19/who-says-czech-scientists-have-a-drinking-problem.php,,1224427581
+337095,comment,336980,337038,0,0,speek,,,"SuSE makes me cry. I mean, it's a great desktop distro... but I'm not sure how stable it is for servers. I could be completely wrong, but I'm completely biased from the dep-hell I had to go through with SuSE a while ago.",1224427554
+337094,comment,336476,337055,0,0,antiform,,,"Right here. [<a href=""http://www.praguepost.com/articles/2008/03/19/who-says-czech-scientists-have-a-drinking-problem.php"" rel=""nofollow"">http://www.praguepost.com/articles/2008/03/19/who-says-czech...</a>]",1224427546
+337093,comment,336592,336592,0,0,joshu,,,"<p><pre><code>  Does Varnish require the system to have a C compiler?
+
+  Yes. The VCL compiler generates C source as output, and
+  uses the systems C-compiler to compile that into a shared
+  library. If there is no C compiler, Varnish will not work.
+</code></pre>
+This terrifies me.",1224427464
+337092,comment,336169,336400,0,0,fallentimes,,,"Yes. I hope they people responsible are hanged.",1224427316
+337091,comment,336977,337076,0,0,jumper,,,"Kudos on spreading the word, but it's still ridiculous....",1224427301
+337090,comment,336537,336798,0,0,sanswork,,,"I haven't read his books so this may be in there but what did he do before releasing these books that makes him different from the other ""gurus""?  From the sounds of it in your comment he was a successful businessman because of this then decided to write a book about it and became famous but what business was he in before?  Wikipedia nor Google have offered any insight into this.",1224427077
+337089,comment,336980,336980,0,0,nostrademons,,,"Debian also has the advantage that you can run Ubuntu on your desktop and use the same package manager as the server.  It's a huge advantage to have the same deployment & configuration procedures on your dev environment as in production.",1224427000
+337088,comment,337046,337046,0,0,joshu,,,"The updates at the bottom feel like a game of some sort.<p><pre><code>  Facebook gains Bahamas from Hi5
+  Facebook gains Belgium from Skyrock
+  Facebook gains Cuba from Hi5
+  Hi5 gains Cyprus from Facebook
+  Hi5 gains Luxembourg from Facebook</code></pre>",1224426810
+337087,comment,336876,336949,0,0,jumper,,,"""...before they die."" Or... just before they go dormant for the winter.... your metaphor is kinda confused there. Especially considering 5% sounds more like natural loss of leaves at any given time anyways, more so than a period of stress.",1224426695
+337086,comment,336926,337033,0,0,osipov,,,">we have no choice but to let them take all this information<p>I thought you guys in UK were a fellow democracy, can't you vote your rulers out of power?",1224426564
+337085,comment,336556,336847,0,0,ohhmaagawd,,,"that didn't help.",1224426422
+337084,comment,336595,336691,0,0,fallentimes,,,"If it makes you feel better I'm 25% Danish. :P",1224426256
+337083,comment,337080,337080,0,0,morphel,,,"This is one of the few interesting articles on the current economic situation.",1224426212
+337082,comment,336537,336963,0,0,fallentimes,,,"Customers never call (they can't) and a partner, at least one of my partners, would never be upset. I see what you're saying though. Just different businesses & people associations.",1224426185
+337081,comment,337043,337043,0,0,fallentimes,,,"Wow - cheers to Fred for admitting his mistake. It takes balls to do this, let alone blog about it to thousands of people.",1224426119
+337080,story,,,72,20,Anon84,"Bernanke Is Fighting the Last War ",http://online.wsj.com/article/SB122428279231046053.html,,1224425371
+337079,story,,,2,0,Anon84,"Cloud Computing and Vendor Lock-In",http://www.25hoursaday.com/weblog/2008/10/19/CloudComputingAndVendorLockIn.aspx,,1224425367
+337078,story,,,8,6,Anon84,"Under 9000 and Starting Up",http://www.sproutly.com/2008/10/18/under-9000-and-starting-up/,,1224425364
+337077,comment,336956,336956,0,0,michael_dorfman,,,"Am I the only one who finds the notion of (for example) Seth Godin on a list of ""Greatest Living Thinkers"" to be terrifying?<p>And would it be to much to ask to see, maybe, a philosopher or mathematician or two listed?",1224425351
+337076,comment,336977,337039,0,0,Herring,,,"bugmenot doesn't work on nytimes?<p>edit: it does - <a href=""http://www.bugmenot.com/view/nytimes.com"" rel=""nofollow"">http://www.bugmenot.com/view/nytimes.com</a><p>install this extension - <a href=""https://addons.mozilla.org/en-US/firefox/addon/6349"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/addon/6349</a>",1224425129
+337075,comment,336980,336980,0,0,thorax,,,"I've used Centos a lot with no major difficulties. I've also had great luck with SuSE, where I'm a big fan of AppArmor to help prevent zombification (assuming you're running any standard/open source web apps).",1224425099
+337074,comment,336556,336922,0,0,0x44,,,"<p><pre><code>  Self-fulfilling rumours which trigger bank runs can be a distributed phenomena
+</code></pre>
+If we were to get rid of the physical token of our monetary value, it would be impossible for a run in one bank to negatively effect all of them. After all, an electronic 'withdrawal' has to go somewhere.",1224424873

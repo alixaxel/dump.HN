@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85373,story,,,2,0,wumi,"Web video does not compete with TV",http://www.reuters.com/article/televisionNews/idUSGOR96992320071129,"not so sure about the validity of this study",1196592580
+85372,story,,,18,4,theoneill,"Ending Famine, Simply by Ignoring the Experts",http://www.nytimes.com/2007/12/02/world/africa/02malawi.html?ex=1354251600&en=9e043dc595352136&ei=5090&partner=rssuserland&emc=rss,,1196592365
+85371,story,,,1,0,theoneill,"Erlang, the functional Smalltalk?",http://www.stifflog.com/2007/12/01/erlang-the-functional-smalltalk/,,1196592157
+85370,comment,85053,85108,0,0,paul,,,"Income is not the important factor. The problem is scaling up before they have traction.<p>Read pmarca's blog posts on ""product/market fit"" to understand.",1196590654
+85369,comment,85361,85368,0,0,zach,,,"Google doesn't like special cases.  As you can see from the reply by Matt Cutts, they actually fixed this on the content side.",1196589864

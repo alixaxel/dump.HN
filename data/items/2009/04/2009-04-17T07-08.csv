@@ -1,0 +1,42 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+566526,comment,566365,566365,0,0,jacoblyles,,,"Depends on the field. If you are a musician, empirically I would recommend drugs.",1239955158
+566525,comment,565528,565528,0,0,lysium,,,"I don't get it. Isn't `|i|` the shorthand version of a lambda binding an i? And `lambda { i }` a lambda not binding anything? So why is the result surprising? I must be missing something.<p>Edit: I mean in<p><pre><code>  each { |i| p i }
+</code></pre>
+the |i| stands for a shorthand lambda, that binds an i.<p>And in<p><pre><code>    for i in 1..3
+      p i
+    end
+</code></pre>
+there is no such binding. So where's the problem? That 'for' should use a lambda?",1239955127
+566524,comment,566365,566405,0,0,jacoblyles,,,"An example, in the 60's through the 90's, many economists created entire new fields of economics by applying it to other domains and vice versa. Economics + math produced game theory. Richard Posner, a judge, started the economic study of the law. Others, such as Olson, Buchanan, and Tullock, noticed that the theories of economics could be applied to the government as well as the market, and public choice was born (and Nobels were won). Lastly, psychologists got involved in economics recently, spawning the new discipline of behavioral economics.",1239955054
+566523,comment,566122,566458,0,0,mahmud,,,"google ""debian openssl fiasco""",1239954892
+566522,comment,566365,566386,0,0,chris11,,,"While I see your point, I'd argue that some expressed creativity is easy to see. I'd argue that an accomplishment in a domain marginalized in a person's environment requires some creativity.<p>When I am not in school, I live in Colorado. So the skiing there is great. So if I found out someone had been a competitive skier at some level, I would not be shocked. If I found out that someone had lived in Colorado while successfully competing as a surfer, I would be shocked. I think that being able to effectively train as a surfer while surrounded by mountains would show some creativity.",1239954865
+566521,story,,,1,0,gibsonf1,"Ancient Microbes Under Antarctic Survived Millions Of Years Without Light Or Oxygen",http://www.scientificblogging.com/news_articles/life_other_planets_ancient_microbes_under_antarctic_survived_millions_years_without_light_or_oxygen,,1239954814
+566520,comment,566365,566368,0,0,jacoblyles,,,"It is certainly easier to be creative when one has reached a high level of proficiency at one's craft.<p>Sugar Ray Leonard can pull off dance moves in the boxing ring, I keep my hands up and my jab out or I'll get my head knocked off.",1239954752
+566519,story,,,3,2,pierrefar,"New Car",http://xkcd.com/570/,,1239954691
+566518,comment,566122,566385,0,0,uuilly,,,"My mom, dad, sister and brother have all separately asked me what the keychain was.  I would get many more calls if it was more complicated.",1239954400
+566517,comment,566141,566294,0,0,greyman,,,"I see CNN and Kutcher already got 1M followers.",1239954381
+566516,comment,565493,566050,0,0,jsrfded,,,"ditto...I have met Freeman, he is a good guy, and he's been through the startup grind and is entrepreneur-friendly.<p>The area around his apartment is walking distance to a great complex with a ton of pan-asian restaurants... pho, korean, huge chinese grocery store, malaysian, chinese.",1239954309
+566515,comment,566459,566459,0,0,RiderOfGiraffes,,,"A link to the original was posted here:<p><a href=""http://news.ycombinator.com/item?id=562447"" rel=""nofollow"">http://news.ycombinator.com/item?id=562447</a><p>This article specifically quotes the first point:<p><pre><code>  > Delete redundancies. Say it once. That's enough.
+  > If you're repetitive, the reader will stop reading
+  > and start skimming. (Like you probably just did.)
+</code></pre>
+As I said in that first submission, I stopped reading at this point because it's blatently wrong. Intelligent geeks hate things repeated, but I've found that in the business world if you don't say something at least 6 times it won't get heard.<p>Know your audience. Decide whether repetition is required. Don't follow overly broad advice blindly.",1239954087
+566514,comment,566511,566511,0,0,SwellJoe,,,"Since someone suggested in the YouPorn job thread that YouPorn might be the largest Catalyst, Django, or RoR site in the world, I figured this one might also be interesting.",1239953978
+566513,story,,,2,0,quoderat,"Sixth nucleotide found",http://www.eurekalert.org/pub_releases/2009-04/ru-nnc041609.php,,1239953926
+566512,comment,566365,566365,0,0,chris11,,,"Scientific America had a good article on creativity: <a href=""http://www.sciam.com/article.cfm?id=how-to-unleash-your-creativity&print=true"" rel=""nofollow"">http://www.sciam.com/article.cfm?id=how-to-unleash-your-crea...</a><p>Brief guidelines for creativity:<p>1. Get a good system for capturing and preserving new ideas without judging their merits.<p>2. Challenge yourself. Challenging problems will force you to use more diverse skills.<p>3. Learn. Become skilled in more than one area.<p>4. Manage your physical and social surroundings. Get to know a diverse set of people. Make sure your day is filled with interesting and novel things.",1239953924
+566511,story,,,42,13,SwellJoe,"BBC iPlayer serves nearly 1000 requests per second with Catalyst",http://www.bbc.co.uk/blogs/bbcinternet/2008/12/iplayer_day_performance_tricks.html,,1239953921
+566510,comment,565805,566314,0,0,tomjen,,,"You can do meta programming in Assembly too, but it is much more common in Lisp.",1239953770
+566509,story,,,2,0,febeling,"Ruby Performance Roundup: GC Tuning, MagLev, MacRuby",http://www.infoq.com/news/2009/04/gc-tuning-maglev-macruby,,1239953738
+566508,comment,564568,564775,0,0,10ren,,,"philh's post about (about yes's ""y\n"") gave me a tip. Instead of repeating the random character, do this:<p><pre><code>  cat /dev/urandom | sed 's/./   &/g' > /dev/audio</code></pre>",1239953601
+566507,story,,,2,0,pet3r,"Things to remember on a job interview",http://sethgodin.typepad.com/seths_blog/2009/04/things-to-remember-on-a-job-interview.html,,1239953601
+566506,comment,566384,566384,0,0,thristian,,,"A sophisticated storage method that takes advantage of, but does not require, browser-specific support? Sounds pretty great, but I think they could have some more gradation in their fallbacks:<p>- Between 'DOM storage' and 'non-permanent storage', it would be nice if there were an intermediate implementation based on cookies or something.
+ - It would be nice if the SingleThreadedMapReducer used called setTimeout to simulate the ""does not stall UI thread"" behaviour of Web Workers.",1239953432
+566505,comment,566365,566365,0,0,cb33,,,"think different",1239953172
+566504,comment,566144,566144,0,0,JMiao,,,"does anyvite not allow you to view the entire guestlist?  i even registered, to no avail.",1239953096
+566503,comment,566481,566481,0,0,varun,,,"The race in real-time link: <a href=""http://www.huffingtonpost.com/2009/04/16/ashton-kutcher-vs-cnn-twi_n_187835.html"" rel=""nofollow"">http://www.huffingtonpost.com/2009/04/16/ashton-kutcher-vs-c...</a><p>Oprah hasn't even tweeted once and already has about 60,000 followers!",1239953014
+566502,story,,,1,0,honeytech,"How To Get Job By Using Twitter",http://www.honeytechblog.com/how-to-get-job-by-using-twitter/,,1239952763
+566501,comment,565545,565774,0,0,hboon,,,"There still is (and needs) the concept of migrations in Gemstone.",1239952696
+566500,story,,,1,0,honeytech,"Google Maps Brings Webcam Layer In Maps",http://www.honeytechblog.com/google-maps-brings-webcam-layer-in-maps/,,1239952657
+566499,comment,564568,564935,0,0,10ren,,,"An intriguing idea, but nothing there unfortunately (guess they keep it in ram.)",1239952576
+566498,comment,566365,566365,0,0,DarkShikari,,,"I wrote a post here:<p><a href=""http://www.reddit.com/r/science/comments/862en/you_and_your_research_a_lecture_on_how_to_win_a/c08clzk"" rel=""nofollow"">http://www.reddit.com/r/science/comments/862en/you_and_your_...</a><p>that, IMO, somewhat explains how ""creativity"" comes about--how seemingly great ideas come out of nothing (or do they?).",1239952294
+566496,story,,,9,1,nreece,"Twitter is at least a dress rehearsal",http://www.scripting.com/stories/2009/04/14/twitterIsAtLeastADressRehe.html,,1239952212

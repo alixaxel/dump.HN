@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+634615,comment,633935,634207,0,0,karzeem,,,"A couple years ago I picked up <i>The Complete Short Stories of Mark Twain</i> (<a href=""http://www.amazon.com/Complete-Short-Stories-Bantam-Classics/dp/0553211951"" rel=""nofollow"">http://www.amazon.com/Complete-Short-Stories-Bantam-Classics...</a>), and since then I've recommended it to people at every opportunity.<p>Twain's a master of a lot of things in writing, obviously, but one of my favorite things he does well is the character of ""pompous, erudite jerk who doesn't realize he's actually a moron"".  (Stephen Colbert is a good modern example of such a character.)",1243767396
+634614,comment,633700,634596,0,0,raganwald,,,"Really? There was no special advanage their applications group had from their relationship with their OS group? Also, I recall Microsoft telling everyone to invest big in OS/2, and I recall Lotus and Wordperfect buying into it big time. Then I recall Microsoft investing big in Windows instead, and thus everyone else was way behind on Windows because they had developed for OS/2.<p>DO I miss-recall that moment in history when Microsoft's applications lept ahead of everyone else simultaneously?",1243767347
+634613,comment,633700,634445,0,0,raganwald,,,"Ah, no. They rode IBM's success to their monopoly and even in their first business dealings they had anti-competitive goings on. For example, it was possible to purchase an IBM-PC with DR-DOS instead of PC-DOS, but you ended up paying for PC-DOS <i>and</i> DR-DOS, so it was always cheaper to stick with PC-DOS.<p>Again, I'm saying that it is hard to look at their success and disentangle their products's merits from their business practices.",1243767163
+634611,comment,634576,634607,0,0,wooby,,,"Yeah it's pretty small.  With Scala you basically get free HTML templating because of XML literal support.  It's missing a lot of Sinatra stuff though: 'splat' and regex URI pattern matching, file uploads, sessions...",1243766943
+634610,comment,634020,634020,0,0,albertcardona,,,"Following a link at the bottom, I run into the following disruptive thought:<p>""7. Hyperlinks subvert hierarchy.""<p>The cluetrain manifesto.
+<a href=""http://www.cluetrain.com"" rel=""nofollow"">http://www.cluetrain.com</a>",1243766687
+634609,comment,632891,633295,0,0,russss,,,"Most reasonable databases do this <i>very</i> quickly. Postgres specifically can hold a cache of a number of sequence values on a per-process basis so each insert doesn't have to acquire a global lock on the sequence.<p>The disadvantage of this is that sequences in Postgres will have gaps in (as sequence ids aren't reused if transactions are rolled back).<p>That said, one good reason why centralized global sequences are not ideal, especially in very large systems where consistency is not paramount, is that they tie you to a single point of failure. In those cases it's better to implement a distributed sequence generator (of which GUIDs are probably the simplest type).",1243766627
+634608,comment,634266,634587,0,0,messel,,,"that made my day, thanks RiderOfGiraffes",1243766604
+634607,comment,634576,634576,0,0,10ren,,,"Is the whole thing really just the one file (110 lines)? <a href=""http://github.com/alandipert/step/blob/42cee9ecd360205def359ce2719f34120edee499/src/main/scala/Step.scala"" rel=""nofollow"">http://github.com/alandipert/step/blob/42cee9ecd360205def359...</a>
+I know it describes itself as ""tiny"", and sinatra is also tiny, but that seems... small. (I don't know anything about Scala - is it especially concise?)<p>I like how the HTML seems to be a first-class datatype in the example (is that a Scala thing? I'd better do some research):<p><pre><code>    get(""/date/:year/:month/:day"") {
+      <ul>
+        <li>Year: {params(""year"")}</li>
+        <li>Month: {params(""month"")}</li>
+        <li>Day: {params(""day"")}</li>
+      </ul>
+  }</code></pre>",1243766591
+634606,comment,634001,634150,0,0,sown,,,"Hackers are people of secrets.",1243766485
+634605,comment,634433,634505,0,0,rjurney,,,"Sir, you just dropped the knowledge bomb on us all.",1243766431
+634604,comment,634209,634209,0,0,s_baar,,,"Read it as ""Voodoo is dead, employees getting computers in lieu of wages"" Was all, ""Sweeeeet!""",1243766280
+634603,comment,632891,633607,0,0,russss,,,"Fair point, but most DBs (including MySQL and Postgres) don't cluster their PKs by default - those posts are both referring to SQL Server which apparently does (and that's seemingly an implementation detail).",1243766217
+634602,comment,633700,634464,0,0,Maro,,,"While I agree that MSFT being present in all those markets is an overall WTF, I think a customer/user in <i>one</i> of those markets (eg. search) doesn't really care about the provider being present in others (eg. consoles).",1243765576
+634601,comment,634589,634589,0,0,spitfire,,,"I did this in the 90's in pascal as shareware. No one bought it.<p>Cool idea though.",1243765457
+634600,comment,634058,634084,0,0,10ren,,,"Erlang has 40 projects on freshmeat: <a href=""http://freshmeat.net/tags/erlang"" rel=""nofollow"">http://freshmeat.net/tags/erlang</a><p><pre><code>    Java   5316
+    C++    4824
+    Perl   3730
+    Python 3161
+    ...
+    Erlang   40
+</code></pre>
+It may be that Erlang people don't add their projects to freshmeat.",1243765410
+634599,story,,,1,0,nickb,"'Lost' music instrument recreated",http://news.bbc.co.uk/2/hi/science/nature/8075223.stm,,1243765343
+634598,comment,634209,634531,0,0,andyn,,,"Looks like some sort of google analytics tagging/tracking:<p><a href=""http://www.epikone.com/blog/2006/11/10/google-analytics-campaign-tracking-pt-1-link-tagging/"" rel=""nofollow"">http://www.epikone.com/blog/2006/11/10/google-analytics-camp...</a>",1243765331
+634597,comment,634494,634494,0,0,messel,,,"Thanks Jude, nice to see that ideas like yours are considered a good fit to startups.  Much of my writing/thoughts are spent on optimizing efficiency (time/enthusiasm).
+Heckuva map, it hits on many of the ""virtual landing points"" that new businesses can setup to bring in customers/users.  I was a little long winded/philosophical but did my best to describe some of the landing points here: <a href=""http://www.victusspiritus.com/2009/05/11/how-web-marketing-will-effect-the-media-author-of-the-future/"" rel=""nofollow"">http://www.victusspiritus.com/2009/05/11/how-web-marketing-w...</a>",1243765325
+634596,comment,633700,634204,0,0,nimrody,,,"Making a good product is not always about revolution. Many times it is about improving and refining.<p>Remember the story of Microsoft and Lotus?
+Microsoft Excel won because it was a better product. Nothing revolutionary. Just better. Microsoft Word eventually replaced Wordperfect. Where are those companies today?",1243765232
+634595,comment,634433,634433,0,0,baddox,,,"For some reason this reminds me of elementary school.  In the cafeteria, we had this big traffic light that supposedly turned from green to yellow then red if there was excessive noise.  If it went red there was some sort of artificial consequence, most likely some teachers yelling at everyone to quiet down.",1243764863
+634594,comment,633034,633115,0,0,jey,,,"That's a bit Orwellian, since it's outright censorship. Might be better to make it subtler, like allowing the post but replacing the the word ""reddit"" with ""fnord"".",1243764810
+634593,comment,633626,634401,0,0,blasdel,,,"He may still usually misrepresent stories due to ignorance, but at least these days Brian Krebs is less of an asshat tabloidist.",1243764740
+634592,comment,634266,634435,0,0,zzkt,,,"The genius was in measuring the temperature outside the visible spectrum, and proposing a theory for it.",1243764726
+634591,comment,633792,633792,0,0,froo,,,"Quote from Seth<p><i>In fact, I can't think of one successful online brand that was built with cash.</i><p>Well it depends on your definition of success (either market position or financial), but Paypal would definitely fit that bill.",1243764411
+634590,comment,634588,634588,0,0,aese,,,lol,1243764387
+634589,story,,,51,8,soundsop,"Courgette: better binary diffing by understanding x86",http://neugierig.org/software/chromium/notes/2009/05/courgette.html,,1243764146

@@ -1,0 +1,213 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+149652,comment,149052,149052,0,0,brentrockwood,,,"While some of the lower forms may not be effective in refuting an argument, they may be effective in its discussion.  For example, pointing out bias may be considered an ad hominem attack.  However, it may also be useful to others while forming their own opinions on the validity of a statement.",1206824315
+149651,comment,149260,149275,0,0,andreyf,,,"That sentiment is what the up arrow is for.",1206824232
+149650,comment,149091,149403,0,0,pg,,,"I'm not saying this article is right, but can you point to something specific it says that you feel is incorrect?",1206823979
+149649,story,,,11,13,johnrob,"My dad recommended this course - should I bother?",http://continuingstudies.stanford.edu/course/BUS100.asp,,1206823801
+149648,comment,149482,149482,0,0,rpdillon,,,"Learn a free Unix - like Linux or BSD.  Really.  A huge part of hacking IMHO is taking an open system that is sometimes quite complex (like an OS), shedding your fear of breaking things, and tinkering.  When things do break, you will learn so much from fixing them.  =)  It is a lot of fun, free, and will get your feet wet with some of the other stuff that mechanical_fish mentioned.<p>I also recommend Emacs.  I haven't worked with git just yet, but I use Mercurial all the time (and I will eventually get around to using git).  Avoid CVS like the plague.",1206823674
+149646,story,,,1,0,amichail,"AI ""beam search"" method found to be effective (though not optimal) on my Numbrosia Puzzle -- can you do better?",http://www.grappa.univ-lille3.fr/icga/phpBB3/viewtopic.php?f=2&t=25,,1206823645
+149645,comment,149467,149541,0,0,ken,,,"I think he's not so much concerned about the medium (or even content) as he is the read-only-ness of it.  We do hold authors in much higher regard.<p>But this brings up another question: why does there seem to be this general obsession with the consumption of this particular medium?  I would say they're in love with the form, but they don't mention doing any writing.  I would say they're in love with great art, but they don't mention any other forms.  (Is it a NYC thing?  Manhattan always seems downright foreign to me.)<p>Imagine asking the people quoted in this NYT article about the last manga they've read or the last modern symphony they heard or the last painting they made.",1206823471
+149643,comment,149052,149523,0,0,wrf3,,,"Attacking someone's credibility has no bearing on that person's argument.  A true statement spoken by the devil doesn't make that statement false.
+Next, it's very hard for someone to correctly divine the motives of another.  It is often the case that it's easier to make up base motives and assign then to an opponent than it is to refute their argument.
+Finally, that people ""decide their position on an issue and then seek supporting evidence"" simply shows that ""people"" are idiots.",1206823297
+149642,comment,149482,149482,0,0,whalliburton,,,"If I had a fledgling hacker under my wing I would show him how I develop, which, for me, is the laziest and most productive way I have yet found.<p>gentoo, sbcl, emacs, slime, weblocks, ec2, git.<p>YMMV.",1206823186
+149641,story,,,4,0,jmorin007,"Talent Agents in the Digital World ",http://www.centernetworks.com/digital-talent-agents,,1206822933
+149640,comment,149271,149271,0,0,jsteele,,,"Dotcom Millions for everyone! All you have to do is startup your own web company and you too can retire at 17 or 19 years old and party like it's 1999.<p>These guys did very well for a years worth of work and deserve every penny. But don't for a second think these guys are gonna go out and buy Aston Martins or live in the Four Seasons with their ""millions"".<p>Funding:
+yCombinator: $25,000 - $35,000
+(Some articles say there were 4 founders ($25k) but their own website show 6 people ($35k))
+Angels: $400,000
+From Paul Buchheit and Chris Sacca<p>Ownership:
+yCombinator: 2-10% (Typically 6%)
+Angels: Unknown but split among 2 people
+Founders: Unknown but split among 4 to 6 people<p>Exit:
+$5 Million Composed of: 
+- $2 Million Cash
+- $3 Million Stock in CMNN.OB<p>So YC's take is $100,000 (2%) to $500,000 (10%) (Typically $300,000 (6%)) 
+Angels take is unknown but if they made no return it would be $400,000. However its likely that they made at least 1x return.<p>This would leave about $4 million to be split among the 4-6 founders. So they each made a little ONE million or less. Of course a large portion ($3 million) of their earnings are stock, so their actual earnings could be a lot more (multiple millions) in the future than what they are now. However, they are in effect paper millionaires as none of them have $1 million in cash.<p>The deal was announced around 12:00am PST March 26, 2008. March 25, 2008 close of CMNN.OB was $2.69. Friday's close was $2.62. So its possible that 2.6% has already been shaved off that $3 Million. The actual amount obviously depends on what price they obtained the stock at.<p>Let's also not forget that these guys are leaving the valley, moving to Vancover and will likely be settling into their 9-5 jobs with bosses, office politics and other employees at Live Current in a few weeks.<p>It will be interesting to see how everything turns out in a few years time. However, by that time the media will move on to hyping another startup and we'll probably never hear about these guys again. Unless they quit and start an new startup.",1206822816
+149639,story,,,7,4,jmorin007,"Flash flaw leads to Vista laptop's fall",http://www.news.com/8301-13579_3-9906001-37.html,,1206822603
+149638,comment,149482,149482,0,0,bprater,,,"I recommend folks jump in with PHP. Rename a webpage .php and you are rocking-and-rolling. Start with a project idea, buy a few books and start hacking!",1206822557
+149637,story,,,2,1,paul_reiners,"Q about Exercise 13.3(b) in ""ANSI Common Lisp""",,"Has anyone else worked on exercise 13.3(b) in ""ANSI Common Lisp""?  I approached it by declaring all the variables in Figure 9.2 as long-floats:<p><pre><code>  ; Use declarations in math utilities:
+  (defun sq (x) 
+    (declare (long-float x))
+    (* x x))
+  
+  (defun mag (x y z)
+    (declare (long-float x y z))
+    (sqrt (+ (sq x) (sq y) (sq z))))
+  
+  (defun unit-vector (x y z)
+    (declare (long-float x y z))
+    (let ((d (mag x y z)))
+      (declare (long-float d))
+      (values (/ x d) (/ y d) (/ z d))))
+  
+  (defstruct (point (:conc-name nil))  
+    x y z)
+  
+  (defun distance (p1 p2)
+    (mag (- (x p1) (x p2))
+         (- (y p1) (y p2))
+         (- (z p1) (z p2))))
+  
+  (defun minroot (a b c)
+    (declare (long-float a b c))
+    (if (zerop a)
+        (/ (- c) b)
+        (let ((disc (- (sq b) (* 4 a c))))
+          (declare (long-float disc))
+          (unless (minusp disc)
+            (let ((discrt (sqrt disc)))
+              (declare (long-float discrt))
+              (min (/ (+ (- b) discrt) (* 2 a))
+                   (/ (- (- b) discrt) (* 2 a))))))))
+</code></pre>
+However, the running time slowed down as a result of this change, rather than sped up.<p>Note that I used long-floats, rather than double-floats, because, when I used double-floats, the output was slightly different (only off by 1 on some values) than the original version in which variables were undeclared.  However, the output was slightly different with long-floats, too, so I guess that didn't help.<p>Anyway, should declaring these variables make the program faster, or am I doing the problem incorrectly?  And why is the output slightly different if I'm using the largest size floating-points?  Below is the diff:<p><pre><code>  diff ""spheres.pgm copy"" spheres.pgm
+  125c125
+  < 62 
+  ---
+  > 61 
+  179c179
+  < 62 
+  ---
+  > 61 
+  6837,6838c6837,6838
+  < 41 
+  < 117 
+  ---
+  > 42 
+  > 118 
+  6866,6867c6866,6867
+  < 117 
+  < 41 
+  ---
+  > 118 
+  > 42 
+  7028c7028
+  < 22 
+  ---
+  > 23 
+  7076c7076
+  < 22 
+  ---
+  > 23 
+  7138c7138
+  < 114 
+  ---
+  > 113 
+  7166c7166
+  < 114 
+  ---
+  > 113 
+  7226c7226
+  < 118 
+  ---
+  > 117 
+  7278c7278
+  < 118 
+  ---
+  > 117 
+  7416,7417c7416,7417
+  < 85 
+  < 54 
+  ---
+  > 84 
+  > 53 
+  7434c7434
+  < 85 
+  ---
+  > 86 
+  7470c7470
+  < 85 
+  ---
+  > 86 
+  7487,7488c7487,7488
+  < 54 
+  < 85 
+  ---
+  > 53 
+  > 84 
+  7531c7531
+  < 19 
+  ---
+  > 18 
+  7539c7539
+  < 18 
+  ---
+  > 19 
+  7565c7565
+  < 18 
+  ---
+  > 19 
+  7573c7573
+  < 19 
+  ---
+  > 18 
+  7831c7831
+  < 117 
+  ---
+  > 116 
+  7873c7873
+  < 117 
+  ---
+  > 116 
+  7937c7937
+  < 19 
+  ---
+  > 18 
+  7967c7967
+  < 19 
+  ---
+  > 18 
+  8006c8006
+  < 107 
+  ---
+  > 108 
+  8008c8008
+  < 128 
+  ---
+  > 127 
+  8018c8018
+  < 24 
+  ---
+  > 23 
+  8086c8086
+  < 24 
+  ---
+  > 23 
+  8096c8096
+  < 128 
+  ---
+  > 127 
+  8098c8098
+  < 107 
+  ---
+  > 108 
+  8152c8152
+  < 164 
+  ---
+  > 163 
+  8707c8707
+  < 110 
+  ---
+  > 111 
+  8797c8797
+  < 110 
+  ---
+  > 111</code></pre>",1206822508
+149636,comment,149510,149630,0,0,geekiac,,,"Ok my bad.  When you get to my age your memory ain't so good!!!<p>Any advice on lisp/scheme?",1206822417
+149635,comment,148672,148672,0,0,khangtoh,,,"We stopped using activation email since the beginning. For simplebucket we took a different approach. By directing the site's usage strongly tied to a user's valid email address, we don't have to have activation email.<p>To upload their photos and later to admin those photos, our users have to go to this ""secret url"" that they will receive when they first upload their photos.",1206822265
+149634,comment,149489,149489,0,0,GavinB,,,"Another good one is sxc.hu.<p><a href=""http://www.sxc.hu/advanced_search"" rel=""nofollow"">http://www.sxc.hu/advanced_search</a><p>Just select ""no"" under the restricted ok button.  You'll need to sign in-  just use a bugmenot account - <a href=""http://www.bugmenot.com/view/sxc.hu"" rel=""nofollow"">http://www.bugmenot.com/view/sxc.hu</a>",1206822066
+149633,story,,,9,2,vikrantsharma1,"Time To Update Your WordPress Install; Version 2.5 Is Out Of Beta",http://www.betadaily.com/2008/03/30/time-to-update-your-wordpress-install-version-25-is-out-of-beta/,,1206821918
+149632,comment,149482,149482,0,0,GavinB,,,"Choose something that you want to make, even if it's just a clone of an existing site or service.  Then figure out what database, language, CMS etc you need and start hacking it together.  You'll be much more motivated with a goal in mind than just trying to learn a language from a book.",1206821769
+149631,story,,,47,5,Sujan,"Wow: Regular Expression Generator",http://www.txt2re.com/,,1206821765
+149630,comment,149510,149615,0,0,giardini,,,"8 years of C# and .NET?<p>IIRC it was introduced in 2001.<p>How many years of Java do you have? 20 or 25?",1206821682
+149629,comment,149482,149616,0,0,mdakin,,,"C is not the path of least resistance for the OP.  He is neither trying to make a career out of software engineering nor hack on a UNIX kernel.<p>He wants to be at the fringe of business and software and these days if that's where you want to be you can ""get by"" knowing only a high-level language really well and hiring/partnering with more specialized engineering talent as needed if the business-side requires it.<p>Mastering the high-level language is arguably as difficult as mastering C but the leverage you get from the high-level language is huge relative to C for the sort of business/software problems that will be of interest to him.",1206821567
+149628,comment,149461,149461,0,0,emmett,,,"New anti-running legislation introduced in Congress to stop baneful influence on our children.<p>Running causes horrible leg and knee problems, and people die every single year from overdosing and running to exhaustion! Running is a gateway sport into the even more dangerous sports including soccer and mountain climbing.",1206821543
+149627,comment,149317,149596,0,0,ph0rque,,,"Sounds good. I myself am a newbie programmer; just recently started to learn RoR. I'm busy with my startup, but I think it might be worthwhile to kick some ideas around. Drop me an email if you get a chance (my email is in my public profile).",1206821516
+149626,story,,,1,0,khangtoh,"What keeps the fire burning and motivates you to keep working on your startup",http://simplebucket.wordpress.com/2008/03/29/what-keeps-the-fire-burning-and-motivates-you-to-keep-working-on-your-startup/,,1206821478
+149625,comment,149482,149482,0,0,cousin_it,,,"If I were to lose all programming knowledge tomorrow, I'd send the following to my future self:<p>0) If you feel confused at any step, use Google.<p>1) Make an HTML page with Hello World.<p>2) Add an image to the page.<p>3) Position the image on the page by adding a CSS style to it.<p>4) Add a JavaScript script to the page that creates another image element, with another src URL, adds it to the page, and positions it.<p>5) Learn the principle behind the URLs of tiles at OpenStreetMap (<a href=""http://openstreetmap.org"" rel=""nofollow"">http://openstreetmap.org</a>) by using ""View Image Source"" in the browser. Hint: the numbers are zoomlevel/x/y.<p>6) Add a script in your page that creates some new image elements with OSM tiles, sitting seamlessly next to each other.<p>7) Learn about event handlers in JavaScript (onmousedown/onmousemove/onmouseup), and try to make the resulting map draggable. In Firefox first, then IE.<p>Congratulations, you're now a passably good client-side webdev.",1206821404
+149624,comment,149052,149052,0,0,mcc99,,,"The authors are idiots.  Of course they would write something like this, they probably make their living off selling these sorts of pie-in-the-sky ideals to people.  The whole tone of this article is pretentious and insulting.  Personal attacks are perfectly valid forms of argument and communication.  If you look at these things in terms of effectiveness, they are usually more practical approaches that yield results, especially in the political realm.  One thing they write is:<p>'If you can't find an actual quote to disagree with, you may be arguing with a straw man.'<p>That isn't true.  Using analog-situation arguments and reductions to absurdity to point out the fallacies of a point is a long-used, valid practice.  The central point of their writing seems to be that addressing substance using reason is the most effective way of arguing.  They write:<p>""The force of a refutation depends on what you refute. The most powerful form of disagreement is to refute someone's central point.""<p>and point out that refutation is the strongest from of argument against some other point,  Well, ""strongest"" is a subjective evaluation and I would like to point out that in the history of argument and in particular political discourse, usually it is the loudest, angriest, and downright scariest people in the argument who win; for example, look at the Nazis in Germany in the 1930s  So these people have it just plain all wrong.<p>There, now, did I miss anything? =)<p>Great piece, really, I loved it.  Thanks for putting it out there!",1206821310
+149623,comment,149482,149482,0,0,tzury,,,"I would suggest you to start at the client side. this is where all server technologies are willing to end up at. 
+Therefore start in this order:
+1) (X)Html. 2) CSS. 3) JavaScript + toolkit library such as jQuery or Prototype. 4) Python. 5)SQL (and SQLite).<p>In between read about theories and patterns in software design (Wikipedia is a great resource).<p>And do not ever be shy to ask whatever you do not understand.<p>good luck.",1206820974
+149622,comment,149317,149317,0,0,kurtosis,,,"Someone else mentioned this but I want to give another boost for the lab manual for the horowitz and hill's art of electronics - it's a little dated but still a great resource.  For example I remember doing the project where you build a simple analog to digital converter. I had read the theory behind these devices many times without comprehension, but building the project illuminated it.<p>I've also found the ARRL handbooks to be extremely helpful for getting RF and microwave projects to work without sinking huge amounts of cash on expensive equipment like vector network analyzers.",1206820895
+149621,comment,149482,149482,0,0,tiggyboo,,,"If your goal is to become a surgeon, don't start by learning to cast your own surgical instruments. Same principle applies here - hang with the econ, then hire a guy with stains all over his shirt when you're ready.",1206820887

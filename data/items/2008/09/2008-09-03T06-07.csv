@@ -1,0 +1,54 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+293612,comment,293463,293532,0,0,mmilo,,,"It's definitely on the list of things to do :)",1220425095
+293611,comment,292980,293496,0,0,Herring,,,"More features, you mean. I'm not even gonna bother with chrome when it comes out for linux. I have dozens of extensions & mousegestures alone can't be traded for any number of milliseconds.",1220424722
+293609,comment,293544,293602,0,0,justinsb,,,"Agreed - and I'd be interested to see what happens if you replace the sprintf interpreter with a function like itoa.<p>While I'm not surprised that V8 beats existing Ruby implementations, that's more a demonstration that those implementations aren't very fast.  When your benchmark tells you you're beating C, it's probably a good idea to check that your C code isn't stupid, before posting results on your blog...",1220424489
+293608,story,,,1,0,bootload,"Why smart people can be so stupid","http://dir.salon.com/story/books/review/2002/06/19/stupid/print.html
+",,1220424359
+293607,comment,293544,293602,0,0,qhoxie,,,"Agreed that the benchmarks aren't exactly perfect, but the performance is pretty amazing nonetheless.",1220424154
+293606,comment,292648,293562,0,0,cperciva,,,"<i>U.S. Court Affirms Employer's Right to Read Employees' Email</i><p>Fraser v. Nationwide Mutual Insurance Company is entirely irrelevant here: That case dealt with whether a company has the right to access emails stored <i>on the company's server</i>.  There's a question of privacy there, but not one of computer crime -- Nationwide Mutual Insurance Company did not access computer systems without the owner's permission.  This is manifestly different from the situation as I read it to be here, where it was being alleged that the article's author's VPN was being accessed without his permission.<p>The Structured Settlements case is more relevant, but it fails on two counts: First, the legal theory being put forward by Structured Settlements involves them merely observing what Mr. Palma had done on one of their computers -- their claim is that they didn't access his Yahoo account, but merely saw him accessing his Yahoo account -- and second, the Structured Settlements case has yet to be tested in a courtroom.<p>Yes, the US has very weak <i>privacy</i> laws, but that doesn't extend to its <i>computer crime</i> laws -- and accessing a computer system without authorization is a computer crime, not just a privacy violation.<p>And of course, IANAL, the above is not legal advice, etc.",1220424128
+293604,comment,292634,292634,0,0,sutro,,,"Chrome is a ""thing.""
+A ""thing"" is a subset of ""everything."" 
+According to this blogger, ""Everything sucks.""
+Ergo, according to this blogger, Chrome sucks.",1220423754
+293603,comment,293544,293544,0,0,tlrobinson,,,"He's got a ""Shlemiel the painter"" algorithm going on with his C code... <a href=""http://www.joelonsoftware.com/articles/fog0000000319.html"" rel=""nofollow"">http://www.joelonsoftware.com/articles/fog0000000319.html</a>",1220423529
+293602,comment,293544,293544,0,0,dzorz,,,"The benchmark is really crappy. If the language uses O(n+m) concatenation for strings of length n and m, then the total runtime would be O(n^2). That would happen if strings are immutable and no ""stringbuilder"" is being used. If that special case was optimized or if the strings are mutable, total runtime is O(n).<p>Here is the corrected C version:<p><pre><code>    #include <stdio.h>
+    #include <string.h>
+    #include <stdlib.h>
+    int main (int argc, char const *argv[])
+    {
+      char *str = malloc(sizeof(char) * 238890);
+      char buf[5];
+      int i, n = 0, len;
+
+      for (i = 0; i < 50000; ++i) {
+        len = sprintf(buf, ""%d"", i);
+        strcat(str + n, buf);
+        n += len;
+      }
+      return 0;
+    }
+</code></pre>
+It runs 100 times faster than the original program.<p>Edit: If you think I ""cheated"" by doing some calculations that I shouldn't do, here is a C++ version that runs just as fast as the improved C version:<p><pre><code>    #include <string>
+    #include <cstdio>
+
+    int main()
+    {
+        std::string str;
+        char buf[6];
+
+        for (int i = 0; i < 50000; ++i)
+        {
+            sprintf(buf, ""%d"", i);
+            str += buf;
+        }
+    }</code></pre>",1220423416
+293601,comment,293031,293351,0,0,axod,,,"I didn't say they'd stop making a browser, I'd suggest people will just stop using it.",1220423409
+293600,comment,292351,292780,0,0,axod,,,"I agree... For quite a lot of people email <i>IS</i> too hard for them. Sometimes takes them quite a while to understand how it works. I'd say openID is orders of magnitude more complex and more worrying.<p>I tried using openID once. It directed me to google or yahoo or something to log in... So then I had to decide if it was <i>really</i> google or yahoo, or if it was some phishing site.<p>It's a terrible idea, which is sure to fail. There is no compelling reason for people to use it.",1220423368
+293599,comment,293410,293539,0,0,joseakle,,,"how many people do you think see google's homepage everyday?<p>and just before clicking search they see this ...<p>New! Download Chrome (BETA) - the new browser from Google<p>i guess lots of them clicked it.",1220423105
+293598,comment,293450,293543,0,0,DocSavage,,,"If this became widespread, I would think it hurts smaller schools with less talent.  Think about schools like USC that have a dozen speedy All-American playmakers in their three-deep.  It's bad enough trying to defend them with the current # of ball-eligible players.  Can't see why the bulk of teams would want to allow this.",1220423001
+293597,comment,293450,293547,0,0,snewe,,,"I think the point is that a given formation has many more eligible receivers that standard football plays.",1220422804
+293596,comment,293450,293550,0,0,ojbyrne,,,"There's a discussion in this thread: 
+<a href=""http://mbd.scout.com/mb.aspx?s=87&f=2909&t=2717293&p=2"" rel=""nofollow"">http://mbd.scout.com/mb.aspx?s=87&f=2909&t=2717293&#...</a><p>Basically it's a kick formation.",1220422480
+293595,comment,291912,292312,0,0,ojbyrne,,,"Damn, you solved my quest. I completely misread ""must"" :-)",1220422051
+293594,comment,293391,293565,0,0,trezor,,,"I happen to disagree. It gives the iluusion of being faster because it <i>scrolls faster</i> than other browsers. This is because it scrolls <i>more</i>. More than other browsers. More than other applications or what is considered the platform default.<p>This is particularly annoying when you want to scroll with any kind of precision. Including other scrolling glitches, this becomes annoying pretty fast and I would In fact say its scrolling is by definition broken.<p>As for speed. Tried zooming on any particular with a reasonable amount of content? The entire browser freezes and is on hiatus for several seconds.<p>The speed is way overrated.",1220421719
+293593,comment,291946,293521,0,0,netcan,,,"So information gathering?",1220421673

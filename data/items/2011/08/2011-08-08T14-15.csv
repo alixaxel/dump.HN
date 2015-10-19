@@ -1,0 +1,359 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2860257,story,,,1,0,mrsebastian,"Nanodiamond transistors (and house-sized computers) are coming",http://www.extremetech.com/computing/92170-nanodiamond-transistors-and-house-sized-computers-are-coming,,1312815588
+2860255,comment,2860014,2860232,9,0,ryanwhitney,,,"IE 6-9 are covered",1312815548
+2860254,comment,2859883,2859883,3,0,cookiecaper,,,"I don't see why this should be an unsurmountable thing for GParted to implement. If Parted is removing the code because it's unmaintained and crufty, someone else has a well-maintained tool for the same thing. Why can't GParted call mkfs.x? Parted still resizes partitions, after all...<p>I think the blame is more to be laid upon GParted than Parted; Parted seems to be going about their business normally, and GParted is apparently sticking to a philosophy of strict adherence to libparted without any additional dependencies?",1312815543
+2860253,comment,2859234,2859690,7,0,bct,,,"How many username/password forms are there on the web? Millions? They function basically identically, but they all had to be written (or at least configured) independently. It's outrageous when you think about it, as if every language required you to write your own string library before you start coding.<p>The system smells; the problem is being solved in the wrong place.<p>The sad thing is that 15 years ago this could have been solved easily. Now any solution has an uphill struggle.",1312815522
+2860252,comment,2859981,2860194,8,0,praptak,,,"<i>""That's exactly what trademarks are all about -- preventing customer confusion.""</i><p>Yes, but the problem is that the theoretical customer whose confusion the laws try to prevent is getting doormat dumb. This in turn turns the trademark space into an (artificially) limited resource. You cannot use the orange color in your palette nor can you use the word ""scroll"" and suddenly picking a discernible tag turns into an expensive lawyer-fest.<p>As a consumer who can indeed discern between ""starcraft"" and ""craft"" I am a bit concerned - after all whatever makes the business more costly is in fact limiting my choice.",1312815514
+2860251,comment,2859182,2859182,2,0,Shenglong,,,"With the exception of the last part of the question, you learn everything there in your first year of CS at university. Do people who can't write this <i>really</i> put the language on their resume?<p>Can I get some stats? I really don't (want to) believe it. What percentage of people get this question wrong? Are they all some sort of eng/cs graduate? I'm not even a coder and I can solve this in a few minutes.",1312815512
+2860250,comment,2859920,2860144,6,0,amirmc,,,"If you managed to get as far as an acquisition, then it can't have been all bad.<p>Devil's advocate: Every decision may have taken twice as long but perhaps they were <i>better</i> decisions as a result?",1312815508
+2860249,comment,2859667,2860021,2,0,staticshock,,,"the sourceforge project page also has several screenshots: <a href=""http://sourceforge.net/projects/monaos/"" rel=""nofollow"">http://sourceforge.net/projects/monaos/</a>",1312815506
+2860248,comment,2859739,2859739,1,0,grannyg00se,,,"Glad to see these are finally coming into mass retail.  I think they may have missed an opportunity to make the colour output somewhat customizable.  They could have included multiple plastic covers instead of only the yellow one.",1312815496
+2860247,comment,2859546,2860212,1,0,mtogo,,,"That was a rumor.",1312815491
+2860246,comment,2860199,2860199,1,0,JonAtkinson,,,"Clickable: <a href=""http://www.barebonesapp.com"" rel=""nofollow"">http://www.barebonesapp.com</a>",1312815485
+2860245,comment,2859883,2860157,4,0,burgerbrain,,,"So run it on a VM/throwaway machine.  Once you achieve that level of paranoia it's really turtles all the way down.  Next we'll be trying to get rid of e2tools...<p>A properly malicious filesystem will get you a compromised userspace program... big whoop, there are <i>far far far</i> more likely vectors for that, at least manipulating a strange and untrusted filesystem with gparted is something you have to <i>try</i> to do.  The danger libguestfs is attempting to avoid does not apply here meaningfully.",1312815483
+2860244,comment,2859926,2859926,2,0,shimsham,,,"yay. I can now reactivate my uucp-style email addressing.",1312815477
+2860243,comment,2859634,2859957,3,0,noblethrasher,,,"Equivalent C# code (if you want to appreciate the brevity of F# or just understand what the code is doing):<p><pre><code>    public abstract class LogicGate
+    {
+        public abstract bool Evaluate();
+    }
+
+    public abstract class BinaryLogic : LogicGate
+    {
+        protected LogicGate a, b;
+        
+        public BinaryLogic(LogicGate a, LogicGate b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+    }
+
+    public class ON : LogicGate
+    {
+        public override bool Evaluate() { return true; }
+    }
+
+    public class OFF : LogicGate
+    {
+        public override bool Evaluate() { return false; }
+    }
+
+    public class NAND : BinaryLogic
+    {
+        public NAND(LogicGate a, LogicGate b) : base(a, b) { }       
+
+        public override bool Evaluate() 
+        { 
+            return !(a.Evaluate() && b.Evaluate()); 
+        }
+    }
+
+    public class NOT : LogicGate
+    {
+        LogicGate a;
+
+        public NOT(LogicGate a)
+        {
+            this.a = a;
+        }
+
+        public override bool Evaluate() 
+        { 
+            return new NAND(a, a).Evaluate(); 
+        }
+    }
+
+    public class AND : BinaryLogic
+    {
+        public AND(LogicGate a, LogicGate b) : base(a, b) { }
+      
+        public override bool Evaluate() 
+        { 
+            return new NOT(new NAND(a, b)).Evaluate(); 
+        }
+    }
+
+    public class OR : BinaryLogic
+    {
+        public OR(LogicGate a, LogicGate b) : base(a, b) { }
+      
+        public override bool Evaluate() 
+        { 
+            return new NAND(new NOT(a), new NOT(b)).Evaluate(); 
+        }
+    }
+
+    public class NOR : BinaryLogic
+    {
+        public NOR(LogicGate a, LogicGate b) : base(a, b) { }
+       
+        public override bool Evaluate() 
+        { 
+            return new NOT(new OR(a, b)).Evaluate(); 
+        }
+    }
+
+    public class XOR : BinaryLogic
+    {
+        public XOR(LogicGate a, LogicGate b) : base(a, b) { }
+       
+        public override bool Evaluate() 
+        { 
+            return new AND(new NAND(a, b), new OR(a, b)).Evaluate(); 
+        }
+    }
+
+    public class XNOR : BinaryLogic
+    {
+        public XNOR(LogicGate a, LogicGate b) : base(a, b) { }     
+
+        public override bool Evaluate() { return new NOT(new XOR(a, b)).Evaluate(); }
+    }
+   
+
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            var on = new ON();
+            var off = new OFF();
+            
+            var result = new List<LogicGate>() 
+            { 
+                new NAND(on, off), 
+                new NAND(off, on), 
+                new NAND(on, off), 
+                new NAND(on, on) 
+            }
+            .Select(x => x.Evaluate());
+
+            Console.WriteLine(result);
+        }
+        
+     }</code></pre>",1312815466
+2860242,story,,,1,0,gusi,"Ask HN: What do you use as Knowledge Base?",,"I am a sysadmin and from time to time the same question comes to my mind, how should I manage my knowledge. I have started using evernote as I can have tags, can search, can use it in mobile devices and it's also very flexible. What do you use ?",1312815430
+2860241,comment,2859920,2859920,2,0,petenixey,,,"I enjoy Ben's posts a lot but they do sometimes have a ring of feel-good entrepreneurial astrology about them.",1312815421
+2860240,comment,2859182,2859914,2,0,teoryn,,,"From the problem definition:<p>Q: What if there are multiple valid segmentations?
+A: Just return any valid segmentation if there is one.",1312815409
+2860239,comment,2859634,2860160,1,0,brs,,,"Actually the award Go won was ""the highest rise in ratings in a year"". That said, I do agree their methodology is pretty suspect. The thing is, a lot of developers look to Tiobe to decide what language to learn next, so it's interesting to follow even if the data is flawed.",1312815357
+2860237,comment,2859449,2859924,1,0,hollerith,,,">BBM is a very cheap way of keeping in touch - unlimited data is 5 a month even on a prepaid tariff<p>Anyone know of a cheap American service plan that supports BBM?",1312815313
+2860236,comment,2860196,2860196,5,0,CoryMathews,,,"Thats a pretty strong assumption. I for one, code on a laptop pretty often.",1312815311
+2860235,story,,,1,0,pr0spect-7,"Pr0spect-7 Hackers United",,"To Anonymous and LulzSec. You are not alone.<p>pr0spect-7 Security has decided to go live. We are simply a community of dedicated experts who have decrypted society and its flaws. We, hackers united, have been around for many years just lurking into the shadow's collecting data and witnessing many holes in the base of society. Our main goal: Exposing the internet Flaws, Having Fun and warning society of its vulnerability.<p>We have seen much damage LulzSec has created followed by many other hacking communities and we wanted to inform that LulzSec is not alone. We are not here to damage government files however; we are here to teach mortal individuals within our vulnerable society that everything you post on the internet should be filtered.<p>Due to the lack of security people take online we are able to collect many intelz from people from simply their emails. <i></i>We will not disclose Bank Account or Credit Card Numbers for your own safety.<i></i><p>We are not targeting people; we are only looking into the future where the internet is taking us. The future of leaked information...<p>Preview of Hacked Victims:<p>Dawn Leone Reeves<p>http://pastebin.com/yB0izq9d<p>Deborah Danielski
+http://pastebin.com/yQbzGZzB<p>Desire Young<p>http://pastebin.com/yvvzp137<p>James W. Rohrer<p>http://pastebin.com/Xj3ib0GR<p>Jessica Johnson<p>http://pastebin.com/ffGEYMCS<p>News12.com XSS Flaw Warning.<p>http://www.news12.com/SignIn?mso=Cablevision&referer=%22%3E%20We%20tried%20to%20inform%20you%20guys%20about%20us%20but%20you%20did%20not%20take%20our%20warning%20seriously.%3Cbr%3E%3Cbr%3E%20As%20you%20can%20see%20this%20Base%20belongs%20to%20us.%3C/br%3E%3C/br%3E%20pr0spect-7%20Expect%20US.%20%3Cbr%3EShoutz%20to%20LulzSec%20and%20all%20fellow%20Hackers%3C/br%3E<p>Many more to come.<p>Expect Us.",1312815289
+2860234,story,,,2,0,mrsebastian,"Skateboarding fails at 1000 fps",http://www.youtube.com/watch?v=zW7U4l0Iq1o,,1312815269
+2860233,comment,2859449,2859804,2,0,mattdeboard,,,"It's not often this flavor of condescending twattery makes it to HN.<p>Why do you think Jay-Z raps about/endorses it? If the answer is as simple as, ""He's paid to,"" then surely he'd be rapping about other brands beyond the traditional Escalade/Cristal/etc. The real answer is that Blackberry is an inexpensive smart phone option that is not the ""white and corporate"" option. You've got an unrealistic idea of what poor and urban looks like and acts like.<p>A Blackberry IS an accessory, but only because it's considered a symbol of being part of a particular group, not because rappers endorse it.<p>""Real money buys Patek Phillippe."" Give me a break.",1312815269
+2860232,comment,2860014,2860014,2,0,5h,,,"Call me old fashioned, but saying ""all major browsers"" is one thing, yet I'd still sure like to see a list of what the author considers major...",1312815239
+2860231,comment,2859546,2860081,1,0,CoryMathews,,,"To be honest I cannot remember the last time I actually clicked that button, but regardless its a design mistake.<p>What would work is putting a plus next to the closed tabs button (trashcan looking icon) along with the current plus at the bottom of the tabs.<p>I agree with you on the naming. I don't want to have to name each group. Although it would be nice to add it, possibly after a group has been created, then be able to right click no the group and give it a name so that the name shows instead of the ""top"" tab.",1312815221
+2860230,comment,2855272,2855889,1,0,damoncali,,,"That hasn't been my experience, for what it's worth. Upfront payments have been the norm for me. Maybe you're getting the wrong clients?",1312815207
+2860229,comment,2859634,2860225,1,0,jshen,,,"ah, sorry. I thought you were looking at google code repos.",1312815203
+2860228,comment,2859883,2860019,4,0,hasenj,,,"You've got it backwards. It's a big mistake to wait for lots of errors (which in reality means people losing their precious data) before taking this measure.",1312815148
+2860227,comment,2859826,2859826,1,0,pavel_lishin,,,"> Software has no emotional biases, either<p>So what sorts of biases <i>does</i> it have? Remember the ol' adage about programmers figuring out any sort of metric, and exploiting it? I wonder if a group of students could find a way to game the grading system.",1312815128
+2860226,comment,2859883,2860055,6,0,burgerbrain,,,"<i>""It's a critical filesystem utility.""</i><p>Not anymore it isn't.",1312815110
+2860225,comment,2859634,2860163,2,0,davidw,,,"Google's Code Search just searches for code on the internet.",1312815057
+2860224,comment,2859883,2860004,2,0,FlowerPower,,,"Back to cfdisk and mkfs.lol then.",1312815004
+2860223,comment,2859975,2860027,2,0,nodata,,,"and the update on btrfsck:
+ <a href=""http://lists.fedoraproject.org/pipermail/devel/2011-August/155348.html"" rel=""nofollow"">http://lists.fedoraproject.org/pipermail/devel/2011-August/1...</a>",1312815003
+2860222,story,,,1,0,mfowler,"Virtual, distributed, wide. What do you call your team?",http://macfowler.com/post/8645352263/virtual-distributed-wide-what-do-you-call-your-team,,1312814993
+2860221,comment,2859634,2859957,5,0,hamidpalo,,,"While that's a very good example of what F# can do, I think the real value proposition of F# is that it can use anything  from .NET. Take something like this for example:<p><pre><code>  open System
+  open System.Collections.Generic
+  open System.Reflection
+  
+  type Config = string 
+  type ISuperPlugin =
+      abstract member Name : string
+      abstract member Initialize : Config -> unit
+  
+  let loadedPlugins = Dictionary<string,ISuperPlugin>()
+  
+  let isPlugin (tp: Type) =
+      tp.GetInterfaces()
+      |> Seq.exists (fun t -> t.GetType() = typeof<ISuperPlugin>)
+  
+  let isPluginLoaded plugin =
+      match loadedPlugins.TryGetValue(plugin) with
+      | true, v -> true
+      | _ -> false
+  
+  
+  let loadPlugin typ = () // implement this
+  
+  let LoadPluginsFromAssembly path =
+      let asm = Assembly.LoadFrom path
+      asm.GetTypes()
+      |> Seq.filter isPlugin
+      |> Seq.filter (fun t -> not (isPluginLoaded t.Name))
+      |> Seq.map loadPlugin
+      |> ignore
+  
+  let loadAllPlugins plugins =
+      plugins
+      |> Seq.map (fun p -> async { LoadPluginsFromAssembly p })
+      |> Async.Parallel
+      |> ignore
+</code></pre>
+Loads a bunch of plugins from assemblies in parallel. Haven't tested it but it should work with minor modifications to make it thread-safe.",1312814969
+2860220,comment,2857696,2858174,1,0,mobiplayer,,,"Yes, I'm testing the ""Find my iPhone"" feature and it works how you expect. I've read some stories about spanish police using the geolocation data of stolen smartphones to help recover them.<p>I still didn't come up with an answer to ""What happens if someone brings the iPad back to their country?"". Although I could locate it I probably couldn't recover it :-\<p>The only way is having a deposit from the credit card of the customer, but I don't like to retain some hundred bucks of someone who is on their holidays.",1312814961
+2860219,comment,2857424,2858692,7,0,YetAnotherAlias,,,"I have heard similar restaurant stories happen to some of my friends. Jonathan's card is also a good idea.<p>However, I can't help wondering that with all this technology we are ending up in a situation where the Haves help the Haves and they all feel better for a little while. What can we do to make it easy to help the really needy? Wouldn't it be wonderful if we could just as easily drop $10 to help someone eat a few meals a day? I am aware of all the real world problems and constraints, but I hope these examples inspire some of HN community to build stuff that will help those that really need it.",1312814960
+2860218,comment,2857422,2857938,2,0,pdovy,,,"<i>The major point that I've discovered from doing this stuff for years (on considerably more complex cases than the example above) is that programming efficiently for a modern architecture is qualitatively different ...</i><p>I think this is a great point.  Low-level programming has always required an in-depth understanding of the underlying hardware and that hardware is changing as fast as ever today.  It may be true that a large percentage of development can live happily in a land of high-level abstractions, but there will always be a need for low-level optimization and that space is still rapidly changing in very interesting ways.",1312814957
+2860217,story,,,2,0,jen_mcfadden,"Spreadsheets to Model Cap Tables",http://www.askthevc.com/wp/archives/2011/08/spreadsheets-to-model-cap-tables.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+askthevc+%28Ask+the+VC%29&utm_content=Twitter,,1312814921
+2860216,comment,2859546,2860081,1,0,mtogo,,,"> with many tabs opened the ""open new tab"" button disappear<p>I just tried it and it seems that there's a sweet spot around 5-6 tabs where the button is partially hidden, but after that thumbnails are removed and you can see it again. A slight problem, but nothing to worry about.<p>> or that you can't switch easily between thumbnails/no-thumbnails view<p>Right click -> Customize -> Enable thumbnails in tabs.",1312814905
+2860215,story,,,2,0,peternorton,"Lightning Takes Out Amazon EC2, Microsoft Cloud Services",http://www.conceivablytech.com/8742/business/lightning-takes-out-amazon-ec2-microsoft-cloud-services,,1312814892
+2860214,comment,2859318,2859683,1,0,epochwolf,,,"Another one: <a href=""http://icanhazip.com/"" rel=""nofollow"">http://icanhazip.com/</a> With instructions: <a href=""http://rackerhacker.com/icanhazip-com-faq/"" rel=""nofollow"">http://rackerhacker.com/icanhazip-com-faq/</a>",1312814882
+2860213,comment,2859896,2859896,2,0,necolas,,,"There is so much thought, and so many concerns, that go into CSS modules that I'm a little disappointed the article doesn't go into more detail about the problems it is looking to solve.<p>A fundamental starting point seems to be that CSS grids should match the mental model and terminology of ""designers"" rather than ""developers"". It would be good to have a thorough explanation of <i>why</i> that may or may not be an improvement. How would added abstraction effect development? How would the functionality of the existing CSS Grid Layout proposal be mapped to, or improved, with an alternative syntax?<p>Hopefully the ideas in the article have already been shared with the community of people working on CSS modules. It would be good for the concerns and approaches of various professions to be exchanged in a constructive fashion so that any future CSS modules are as good as can be.",1312814882
+2860212,comment,2859546,2860182,2,0,CoryMathews,,,"Both firefox and opera have had it for as long as I remember.<p>Chrome is making news because they are experimenting with it that way by default.",1312814879
+2860211,comment,2854488,2858027,3,0,starter,,,"Got it. This gets really close. Someone searches for you - you get a clean, well organized email request. Beautiful!",1312814844
+2860210,comment,2859182,2859914,1,0,reidrac,,,"I think ['a', 'a', 'ab'] is also valid, isn't it? So ['aa', 'ab'] would be <i>one</i> of the correct answers.<p>(of course ['a', 'a', 'a'] it's not because the 'b' is not a valid word and it's not in the solutions)",1312814834
+2860209,comment,2859739,2860140,1,0,pacemkr,,,"My thoughts exactly. It looks like something that I would build by hand (messy) as opposed to something that comes out of a factory. I guess it doesn't necessarily mean that it will be unreliable, but I can't help but think so.<p>All would be forgiven if it wasn't $40. I was going to get a bunch of these, but at this price point it just doesn't make sense.",1312814759
+2860208,comment,2856702,2857624,2,0,sethg,,,"If there is a risk that the US will significantly inflate the currency, then that risk should be reflected in the ratings for all dollar-denominated bonds, not just Treasuries.  But there are still AAA-rated corporate bonds.  Heck, S&P still rates the bonds of 13 <i>states</i> as AAA, which makes no sense to me.",1312814744
+2860207,comment,2860111,2860111,4,0,jsavimbi,,,"Great idea that can be easily applied to any form of teaching and tutoring. Stand by for the influx of PhD's offering after-school tutoring as a business.",1312814739
+2860206,comment,2859835,2860147,2,0,torstesu,,,"The easiest way to bootstrap is enlisting for a couple of courses at uni. That way, you get US $16,600 in financial support from the government per year. If you pass the exams, half of that is converted in to a grant, whereas the rest is interest free loans (as long as you study).<p>For entrepreneurs coming from college, this is often the primary source of survival money in the earliest stages.",1312814701
+2860205,comment,2854488,2859322,1,0,starter,,,"Of course, I understand. At least you get my mission.<p>Thanks for your opinion. I'll find a way to do this right.",1312814694
+2860204,comment,2858356,2858816,1,0,pedalpete,,,"Your comment about 'I remember owning (and loving - for some reason)'... is amazing. This to me is the power of Mac. I have both windows and PC and do most of my work on pc. But the number of people talk about the LOVE of mac, but then when you talk to them about it, have no idea that they don't know how to do simple things.<p>Like all Love, it seems mac love is often irrational.",1312814660
+2860203,comment,2859763,2859763,1,0,VuongN,,,"I completely agree with arkitaip. Focus on school and forget about money for now.  What you want to do is spend half your free time learning new (web) technologies AND the other half formulating ""dreams.""<p>You're in school so you can afford to dream bigger and thrive to solve bigger problems.  Learn to be a great person, not a mediocre developer.  Learn how to think and everything else will follow.<p>If you want to run your own startup some day, then you should start today.  Find a problem that interests you now and look for ways to solve it in your own way.  Domain names are cheap, hosting is also cheap, work on a project for yourself.<p>Also, try to refine your development process, php is fine, but you must combine it with patterns such as MVC.  Build a cheap computer and create your own development server.  Learn Python/Django or Ruby/RoR and more (NodeJS etc.).  Host your own version control system (Git, Hg etc.).<p>Young one, you need to learn to be a hardcore dreamer and level up like mad.<p>I've been doing web for 10 years and every time I look back, I always think that I learned more this year than many years before combined.  Every project I worked on, I always think that I've learned more from it than many before combined.  I am 28 now, but I am forever searching and learning.<p>Good luck and always, stay a hard core learner!",1312814646
+2860202,comment,2859981,2859981,1,0,amurmann,,,"Legal departments should always first check with the marketing department to avoid harming their company like this.
+They are protecting their brand from what they think might be a takeover by someone else, but are harming it to a much higher degree than a game called ""Scrolls"" ever could",1312814643
+2860201,comment,2858356,2859702,1,0,parenthesis,,,">>> Ctrl-a, ctrl-e for beginning/end of line.<p>Alternatively: Command+ and Command+ .",1312814643
+2860200,story,,,3,0,Jun8,"Mathematical Doodling",http://vihart.com/doodling/,,1312814638
+2860199,story,,,14,12,JonAtkinson,"Show HN: Barebones, a minimal wireframe app for iPad, built in 24 hours. ",,"http://www.barebonesapp.com<p>I run a web development company in the UK[1]. Last weekend, we participated in Leedshack[2], and we build Barebones, which is a really simple wireframing tool for the iPad.<p>We spend a lot of time in meetings sketching in our notebooks, and often these sketches are a valuable artefact long before 'traditional' wireframing even enters the process; we wanted to replicated the speed and simplicity of 'back of a napkin' sketching, and combine it with really simple sharing (anything is better than taking a photo of a sketch with my iPhone and emailing it to a client!)<p>It's a HTML5 app, which uses <canvas> and the Dollar Gesture library to recognise shapes drawn on the screen and snap them to a 960 grid.<p>Our intention was for it to be so quick and simple to use that is can take the place of a quick pencil sketch in front of a client. It really is very simple to use, and we limited the gestures to just three very distinct movements, and with a little practise, it's actually very quick and accurate.<p>As I mentioned in the title, we built this in 24 hours, so it lacks quite a bit in polish, however all the guys on the team would love any feedback from fellow HNers.<p>[1] http://www.testled.com/
+[2] http://www.leedshack.com<p>Edit: A lot of people will be reading HN in a browser; Barebones does work in any reasonably modern browser, and it works with mouse events, but it really doesn't feel 'right'. Try it in an iPad if you can.",1312814607
+2860198,comment,2858356,2859717,3,0,systemtrigger,,,"Speed and reliability. Take open source. You could manually find, download, untar, configure, make, install and track dependencies. A good package manager lets you do that in one command e.g.:<p><pre><code>  $ brew install package_name</code></pre>
+OSX includes a package manager for proprietary packages blessed by Apple. It's fast and reliable but its curators forbid most open source and proprietary packages. It's called App Store.",1312814601
+2860197,story,,,2,0,jfruh,"Handling virtual disks with Windows virtualization",http://www.itworld.com/virtualization/190745/hyper-v-virtual-pcs-how-handle-virtual-disks,,1312814598
+2860195,comment,2859546,2859978,2,0,arpit,,,"Nothing native, but third party services like Instapaper and Read It Later are popular",1312814524
+2860194,comment,2859981,2860138,4,0,starwed,,,"If Warcraft & Starcraft had been the first games to use that naming convention, it actually would be pretty reasonable for Blizzard to claim that as a trademark.<p>Certainly, when I first encountered some other game called <genre>craft, I initially assumed it was a Blizzard title.  Maybe that was dumb of me, but I had such a strong association between Blizzard and that type of name.  That's exactly what trademarks are all about -- preventing customer confusion.",1312814516
+2860193,comment,2851936,2851936,2,0,jinushaun,,,"Don't ban laptops. Just kill free wifi and you'll get rid of the squatters.",1312814505
+2860192,comment,2858668,2859400,1,0,yid,,,"The OP's post was about standards in a democratic/free country. You're referring to an oppressive regime.",1312814504
+2860191,comment,2859254,2859254,2,0,ender7,,,"I agree with lukestevens; there's a ton of value in A/B testing. A willingness to destroy your attractive but unusable mock is what separates the graphic designers from the interface designers.<p>That said.... A/B testing can be <i>extremely dangerous</i>:<p>- It's VERY EASY to design your test incorrectly. The most common result is that your test really ends up measuring some other factor of the design, or is chock-full of confounding factors. Any conclusions you draw from it will almost certainly be incorrect.<p>- It's EVEN EASIER to over-generalize from your data. People clicked on the green button more than the red button...people must like green buttons! Quick, redo the design with a green palette! These conclusions are always terribly tempting to make, since it feels like you've uncovered some deep truth about your users. You probably haven't, and it probably can't be generalized beyond <i>the exact thing that you tested</i>.<p>- It's easy to substitute A/B testing for critical thinking and self-editing. Two options? Don't worry about deciding! A/B test them! Another decision needs to be made? We'll let the users decide! The problem here is twofold: a). When designing something interactive, there are simply too many decisions to be made. You better get comfortable with making them, because there isn't enough time in the world to A/B test them all. b). (related to below) Your product will end up looking like it was designed-by-committee. Which it was.<p>- Related to the previous one, you can get trapped into doing ""design by A/B testing"". It's a simple algorithm. Get something that looks okay, then do an A/B test on some small changes. Pick the best one. Repeat. Unfortunately, the nature of A/B testing is that it is inherently <i>isolated</i>. If you're testing correctly, you've eliminated all your confounding factors. You're just looking at <i>one</i> aspect of your system. The problem is that interfaces are inherently tightly coupled. Everything tends to depend on everything else, and then you start throwing in abstract concepts like ""feel"" and ""friction"" and general ""look"" of the site (how well does it fit together? does it seem to have personality? Does it respect the metaphors it creates? Is it consistent?). A/B testing can't measure that kind of stuff. You also get into problems of local maxima. This is essentially a hill-climbing algorithm. Unless you're willing to occasionally start descending a hill, you're going to get stuck in an okay-but-could-be-better hump forever.<p>In short: A/B testing is powerful. Don't abuse it. And for godsakes, design your damn tests correctly.",1312814483
+2860190,story,,,3,0,zacharye,"RIMs first QNX phone revealed: BlackBerry Colt to launch in Q1 2012",http://www.bgr.com/2011/08/08/rims-first-qnx-phone-revealed-blackberry-colt-to-launch-in-q1-2012/,,1312814451
+2860189,comment,2859883,2860127,4,0,nate_meurer,,,"It's not filesystem code.  It's a userland utility that has direct access to your devices.  No, the security of utilities that can directly IO my disks is never the least of my worries.<p>> ""Having used gparted extensively and not having a single problem among hundreds of filesystem resizes...""<p>Cool, just make sure you stick with your legacy hardware.  Tell you what, go look at the gparted code, and tell me how it'll handle an HFS on my new 4k sector disks.  If you can either reassure me or suggest a patch, I might change my mind.<p>Edit:  I certainly don't mean this to insult any of the work of gparted's devs.  I just picked HFS as an example.  The fact that gparted works so well is a tribute to those developers (looking at you xilun0).",1312814450
+2860188,comment,2859182,2859443,2,0,onemoreact,,,"I like that you accepted new approaches as valid even if a candidate did not finish them.  Reading this I cant help but think how this person falls into the java trap of trying to make a ridiculously generic solution which I would consider a danger sign but plenty of people love to see.<p>So, assuming a real world input and real world dictionary you can try plenty of things that break down for a dictionary that includes four hundred As but are actually valid solutions. Also, if you want a fast real world solution then sticking with a pure lookup dictionary would slow things down.  Being able to toss 5 letters into a lookup table that says the longest and shortest words that start with those letters would save a lot of time.  Basically, xxyzy = null, null saves you from looking up x to the maximum word length in your dictionary.  Secondly sanitizing inputs is going to be both safer and faster.  And anything you are coding in 45 minutes is going to be a long way from production ready code.<p>PS: Even with backtracking you can code an O(n) solution for vary large input sets.  Just keep track of the K best output sequences that are aka N, N-1,N-2,N-K.",1312814435
+2860187,comment,2858356,2858983,2,0,bdunbar,,,"<i>So, go ahead, someone sell me on Macs.</i><p>I can only tell you why I use one: OS X just gets out of my way and lets me get at my work.<p>What I do is systems administration - Windows, Solaris, Linux, BSD.  Some light coding on the side.<p>Your mileage may vary.",1312814392
+2860186,story,,,1,0,pgloggplh,,http://www.n9n7.com/,,1312814384
+2860185,comment,2859883,2860096,9,0,ominous_prime,,,"The main feature is that parted can deal with GUID Partition Tables, which are required for partition larger than 2TB.",1312814332
+2860184,comment,2859634,2859874,3,0,larsberg,,,"If that was a serious question, places that do developer tools and programming languages for a living (at least MSFT, I assume others as well) pay ridiculous amounts of money to independent third-party companies that specialize in gathering this kind of data. The raw data was then kept fairly private (marketing + upper mgmt only), but the rank and file would see some of it occasionally when things such as trends on the number of VBA or VB5 or VC++ programmers appeared in slide decks talking about the direction for upcoming versions of the product.<p>Having working with the raw data, it was pretty fantastic. Segemented by industry/business size, handled issues with multiple programming languages or companies where one section used one language and another used other ones, etc. We even knew which tools and add-ons were used for which languages and which compiler on each platform (i.e. how many commercial shops using C++ targeting linux are using gcc vs. icc?).<p>But that data was also stunningly expensive. My marketing friends tell me that accurate market data always is.",1312814332
+2860182,comment,2859546,2859546,2,0,mtogo,,,"> Reportedly, Google has been experimenting with this [hideable address bar] as well.<p>FWIW, Firefox and Opera had this <i>long</i> before google started ""experimenting"" with it.",1312814292
+2860181,comment,2850904,2851707,1,0,mitchty,,,"Just a javascript script file that tests for where ip-wise the user originates from and determines if you use a proxy for the site or connect directly.<p><a href=""http://en.wikipedia.org/wiki/Proxy_auto-config"" rel=""nofollow"">http://en.wikipedia.org/wiki/Proxy_auto-config</a>",1312814292
+2860180,comment,2859182,2859561,2,0,dtunkelang,,,"Point taken. But it's hard to come up with good interview questions, as my colleagues here, at Google, and at Endeca can attest. In contrast, it's much easier to post solutions.<p>That's why I'm working on an approach that assumes the candidate does of prior knowledge of the problem. But not there yet.",1312814281
+2860179,comment,2859667,2859667,1,0,eropple,,,"Looks pretty interesting. It doesn't seem to do anything particularly novel, but the code appears fairly clean (not perfect, but better than I'd have really expected) and, as they suggested, might be a decent teaching tool.<p>(And, unlike Loper OS, it's actually shipped!)",1312814272
+2860178,comment,2859546,2859744,1,0,rplnt,,,"Some browsers do that in full-screen mode now. 
+By the way, in Opera you can configure browser that way so toolbars will auto-hide. You can assign shortcut or a gesture to them. Hovering isn't a good idea because it will eaither have to move the page (which is distracting and annoying when you do it on accident) or cover the page (which could block some content). So having it on gesture and/or shortuct would be the best way in my opinion. If you want the toolbarless experience. (I personally don't)",1312814241
+2860177,comment,2860014,2860139,5,0,ryanwhitney,,,"I've only messed around with it a bit, but yes it has flash fallback.",1312814237
+2860176,comment,2860037,2860037,3,0,nhebb,,,"The bottom line is, you're not going to get legal reform out of a bunch of lawyers (i.e. Congress, and in this case, the President).",1312814204
+2860175,comment,2858356,2859237,2,0,officemonkey,,,"Polls can be aspirational. I'd rely more on the server logs say.",1312814202
+2860174,comment,2859981,2859981,1,0,huckfinnaafb,,,"I know brands tend to go after any and all cases where the IP is even remotely related, but I wonder if this is a concentrated effort by Bethesda as they view ""Scrolls"" an actual threat, or just a knee jerk reaction to a game they might see as amateur. If the former, it will be interesting to watch the community's reaction to a prolonged legal assault on Minecraft. I know it's causing a big stink in some parts of the internet already.",1312814189
+2860173,comment,2858668,2858917,3,0,moe,,,"Better link (without the frameset): <a href=""http://zonehmirrors.net/defaced/2011/08/08/mod.gov.sy/"" rel=""nofollow"">http://zonehmirrors.net/defaced/2011/08/08/mod.gov.sy/</a>",1312814183
+2860172,comment,2859182,2859740,2,0,dtunkelang,,,"Sorry about that. Advice on how to fix it while maintaining good rendering elsewhere? Looks good in Chrome on my MacBook and my Nexus One.",1312814179
+2860171,comment,2860014,2860014,1,0,ericmoritz,,,"Does this act as a shim supporting the same API as the HTML5 tags?",1312814164
+2860170,story,,,2,0,melonakos,"Accelerating LTE Simulation Using Jacket",http://blog.accelereyes.com/blog/2011/08/08/accelerating-simulation-using-jacket/,,1312814161
+2860169,comment,2860014,2860014,1,0,themanr,,,"Looks like it requires transcoding video for Firefox support as there seems to be no way to force it to use flash in that case.<p>Does it work with content dynamically inserted into the DOM? A quick glance at the source indicates otherwise.",1312814131
+2860168,comment,2857753,2857980,1,0,benbscholz,,,"The mobile site is really functional and to the point, although on my Android phone in Firefox, the header ""gift cards to anywhere"" runs together.",1312814122
+2860167,story,,,1,0,goheritageindia,"Reclaim Your Excitement with Weekender of Lazes & Crazies",http://www.luxury-delhi-hotels.com/blog/reclaim-your-excitement-with-weekender-of-lazes-crazies/,,1312814101
+2860166,comment,2859546,2859866,12,0,officemonkey,,,"I just booted up Safari (for the first time since I installed Lion) and tried out the ""Reading List"".<p>The main reason I don't like it is that the reading list doesn't load the page until you click on it. When I create a tab, it loads and opens the page and it's ready when I navigate to it. I navigate to a reading list page and I have to wait a non-trivial amount of time for the page to load.<p>I understand why you would do this for a mobile browser (to reduce data charges for pages that might never be opened), but that doesn't matter to my desktop machine.<p>Safari could mostly fix this by preemptively loading the neighboring pages in your reading list. Until then, I'll stay with my tabs in Chrome, thanks.",1312814048
+2860165,story,,,1,0,hgreen1955,"It Looked like Gangbangers Beat Him Up with a Baseball Bat",http://www.associatedcontent.com/article/8295399/it_looked_like_gangbangers_beat_him.html?cat=9,,1312814026
+2860164,comment,2859318,2859668,2,0,wmeredith,,,"Seems like we're spinning off into philosophy here pretty quickly. The bottom line is this is hard to read so it won't get <i>used</i>.",1312814025
+2860163,comment,2859634,2860033,1,0,jshen,,,"If nearly all ruby programmers put their code on github, and you don't count it but you do count google code, then isn't that a bias i the sample? Wouldn't it make more sense to include all the major code hosting sites, including github?",1312814004
+2860162,story,,,2,0,issa,"Thank You, Mr. President",http://livelongandprogram.com/2011/08/07/thank-you-mr-president/,,1312813965
+2860161,comment,2859926,2859926,1,0,mildweed,,,"Old ideas, new context! Its like BBS relay mail!",1312813965
+2860160,comment,2859634,2859634,3,0,T-zex,,,"Go was a winner of 2009, RPG (OS/400) is more popular than Haskell or Erlang. Sure this is a joke.",1312813922
+2860159,comment,2859883,2860004,18,0,e1ven,,,"Perhaps I am better off using dedicated tools, but this was the only feature that made Gparted useful to me at all.<p>I can already resize partitions manually with fdisk; What I liked was being able to resize the partitions, grow the FS to match, and write it all to disk easily.",1312813913
+2860158,comment,2859182,2860062,1,0,arethuza,,,"This was the last question out of 15 or so that we used to give to people as part of an interview if they claimed they had done Java before - it was a written test. Some people had only done C or C++ before and had only had a quick look at Java and still did pretty well in it.",1312813912
+2860157,comment,2859883,2860127,4,0,rwmj,,,"You are wrong.  Security very much <i>is</i> a concern.<p>It's a concern because you may use parted/gparted on an untrusted virtual machine or a USB key.  You don't want a malformed filesystem controlled by someone you don't mutually trust to subvert a tool running as root on your host.<p>libvirt[1] and libguestfs[2] specifically take steps to reduce the exposure.  Parted did not, but it's now somewhat more secure for getting rid of features that are better done by another means.<p>[1] <a href=""https://rwmj.wordpress.com/2011/05/24/what-is-svirt/"" rel=""nofollow"">https://rwmj.wordpress.com/2011/05/24/what-is-svirt/</a><p>[2] <a href=""http://libguestfs.org/guestfs.3.html#security"" rel=""nofollow"">http://libguestfs.org/guestfs.3.html#security</a>",1312813902
+2860156,comment,2858356,2860025,2,0,iaskwhy,,,"Oh, I see, so you cannot use yum on OSX? I never realised it (or its packages) wouldn't be compatible.",1312813883
+2860155,comment,2859182,2859557,2,0,dtunkelang,,,"Secret is a strong word -- I link to another post on the subject in the article. Still, seeing it on Glassdoor for my own employer crossed the line of disclosure.",1312813879
+2860154,story,,,2,0,jslogan,"Marketings goal shouldnt be to be creative",http://saleskick.me/marketing%E2%80%99s-goal-shouldn%E2%80%99t-be-to-be-creative,,1312813879
+2860153,story,,,1,0,LANYC,"Apple $999 iMac for education on sale",http://www.slashgear.com/apple-999-imac-for-education-on-sale-thunderbolt-and-bluetooth-mia-08170197/,,1312813849
+2860152,comment,2860037,2860057,3,0,apotheon,,,"I think the patent system should be sped up a lot -- but only for the process of <i>denying</i> patents.  We certainly don't need to ease and accelerate the process of <i>granting</i> them.  These idiots who think that speeding up patent grants will create jobs are completely out of touch.  If anything, making it faster and easier to get patents will eliminate jobs by increasing the hostility of many industries (especially software) to actual innovators by putting more power in the hands of the largest, most stagnant firms in the business.<p>> ""Obama seems clueless about this, but I don't really blame him for not realizing this. . . . Obama actually sounds like he's reciting someone else's line here.""<p>That sounds like a <i>great</i> reason to blame Obama.",1312813833
+2860151,comment,2860137,2860137,1,0,shi819,,,"<a href=""http://weblog.mediatemple.net/2011/08/08/supercharge-your-mt-website-with-cloudflare/"" rel=""nofollow"">http://weblog.mediatemple.net/2011/08/08/supercharge-your-mt...</a>",1312813827
+2860150,comment,2860148,2860148,1,0,marcog1,,,"This was developed by Computer Science professors at the University of Cape Town.<p>Video for those on Facebook: <a href=""https://www.facebook.com/video/video.php?v=10150400020984867&oid=182353021829936"" rel=""nofollow"">https://www.facebook.com/video/video.php?v=10150400020984867...</a><p>Design docs: <a href=""http://www.lksgameworks.com/dev.html"" rel=""nofollow"">http://www.lksgameworks.com/dev.html</a>",1312813814
+2860149,comment,2859981,2859981,5,0,Shenglong,,,"Isn't Bethesda worried about their corporate brand? I can't imagine them thinking this case would be worth pursuing, at the cost of their actual products.<p>I originally was pretty excited for Skyrim, but this whole thing is turning me off.",1312813724
+2860148,story,,,1,1,marcog1,"Scryptic iPhone game: words are your weapons and strategy your friend",http://www.lksgameworks.com/,,1312813702
+2860147,comment,2859835,2859835,1,0,christkv,,,"If you are smart and ruthless with no integrity the unemployment benefits can allow you to bootstrap for up to 2 years. I know some people that have done this. I would never consider it myself and I wish they had a better way to provide for entrepreneurial support. But then I guess they don't care as the unemployment rate is low.",1312813700
+2860146,story,,,1,0,martyzwilling,"The Power of Negative Events in Your Startup",http://blog.startupprofessionals.com/2011/08/power-of-negative-events-in-your.html,,1312813656
+2860145,comment,2859546,2859994,3,0,shapoopy,,,"Pentadactyl/Vimperator do absolutely have that (set showtabline=never).<p>I use Pentadactyl, and a Shift-B (show buffers) followed by a <tab_number>gt will get me to wherever I need to go.<p>This is, of course, not discoverable, and therefore not really suitable for the demographic whose problems this article is hoping to solve, but for someone who's willing to put some time into learning a program (or who already uses vim), it's pretty spot-on. I, for one, love it.<p>I should add that the problems this article is trying to solve really ought to be solved through a thorough integration of the browser tab-system with the window manager. That, of course, necessitates a thorough rethinking of the window manager, also. But that was the problem tabs alleviated in the first place, right?<p>The WIMP model really is the walking dead.",1312813615
+2860144,comment,2859920,2859920,9,0,tchock23,,,"The first part of this post deserves its own discussion. Deciding who is going to lead the company is the most important conversation that founders can have in the first week (or even before starting the company). I made this mistake and my employees (and mental stability) paid dearly for the next five years.<p>In my case, we had an early discussion that led to an argument, and it just never resolved itself. As a result, employees never really knew who their boss was and the marketplace/customers never knew who actually led the company. No one ever had the ""authority"" to make the call since the founders were equals in every regard, and every decision took twice as long. Even our acquirers couldn't really figure out who did what.<p>I would love to see Ben (or someone here on HN) share a separate post just around this topic...",1312813607
+2860143,comment,2858668,2859294,2,0,burgerbrain,,,"If you consider this criminal, then I consider ""criminal"" to be a merit-less allegation.",1312813581
+2860142,story,,,1,0,wwanjie04,,http://www.wanjie512.com,,1312813577
+2860141,story,,,1,0,Ythesourface,"Google Releases Credit Card to the Glee of Small Businesses",http://dlvr.it/fMCrB,,1312813570
+2860140,comment,2859739,2860063,1,0,bcl,,,"Maybe it is the photo quality, but that main board looks almost hand-soldered instead of reflowed. The blobs on the SMT parts aren't consistent, although that may be because they have a mixture of through-hole parts so close.",1312813570
+2860139,comment,2860014,2860014,3,0,drivebyacct2,,,"Uhm, does it fallback? How much faster is it than it's competitors, seeing as it's competitors have been around much longer and have many more features?",1312813568
+2860138,comment,2859981,2859981,6,0,sjwright,,,"This would be like Valve complaining about a game called ""Half"", or Blizzard complaining about a game called ""Craft"". Bonkers.",1312813522
+2860137,story,,,4,1,symkat,"CloudFlare partners with MediaTemple",http://weblog.mediatemple.net/2011/08/08/supercharge-your-mt-website-with-cloudflare/,,1312813506
+2860136,story,,,1,0,digamber_kamat,"Teachers in India teaching English",http://www.youtube.com/watch?v=FViBJg6X_24&feature=player_embedded,,1312813473
+2860135,story,,,1,0,iamondemand,"Scalable architecture on Amazon AWS cloud",http://cloudinsights.typepad.com/main/2011/08/scalable-architecture-on-amazon-aws-cloud.html,,1312813463
+2860134,comment,2859739,2859929,2,0,pragmatic,,,"I prefer a light suited to the task.<p>Fluorescent are great in work/task areas (garage, kitchen and bath).<p>However, my wife hates CFLs.  They are so dim.  At least the first generation were.  They were no were near as bright as their wattage claimed (as measured by our eyes anyway).<p>That's why we have regular fluorescent in garage, kitchen, etc.",1312813455
+2860133,comment,2859182,2859875,2,0,dtunkelang,,,"Point taken. I thought of not linking to them, or even not mentioning them. But they do play an important part in the story of the post, and I don't think I'm helping them so much as I'm raising employees' and employers' awareness of their existence. At least now a few more interviewers might check to see if their questions are posted there. From my limited data, interviewees are already more aware of Glassdoor than interviewers.<p>As for feeding them page rank, I don't think I have so much to offer that it helps them materially.",1312813435
+2860132,story,,,2,0,iamondemand,"Availability: Story of the inevitable outage of the Cloud",http://cloudinsights.typepad.com/main/2011/08/availability-story-of-the-inevitable-outage-of-the-cloud.html,"Traditionally delivering high availability often meant replicating everything. However, today with the option of going to the cloud we can say that providing two of everything is costly. High availability should be planned and achieved at several different levels: including the software, the data center and the geographic redundancy",1312813409
+2860131,comment,2859449,2859449,1,0,fabiandesimone,,,"In Venezuela for example, Blackberry penetration is quite a phenomenon.<p>Also, it has become a symbol of status and a desired luxury item to the point where people are literally getting killed for it.<p>Yes, Iphone and Android are growing like weed and we all know RIM's latest setbacks. But outside the USA, BB is quite strong.",1312813387
+2860130,story,,,1,0,gavingmiller,".NET to Ruby: The Ruby Environment",http://rubysource.com/net-to-ruby-the-ruby-environment/,,1312813368
+2860129,story,,,2,0,peternorton,"Sprint Uses Virgin To Go After T-Mobile Customers",http://www.conceivablytech.com/8738/business/sprint-uses-virgin-to-go-after-t-mobile-customers,,1312813364
+2860128,comment,2856095,2857714,1,0,amorphid,,,"Groupon is making a fist ton of cash.  If they stopped spending money on hiring and marketing, they'd be wildly profitable.  Investors have access to all this information.<p>Also, Groupon has a clear formula for growing and how long it takes that new business to become profitable.  That is why they can raise so much investment.<p>If you can come up with a convincing argument why Groupon is a Ponzi scheme, then call the law enforcement.  You'll get on the news for sure!",1312813302
+2860127,comment,2859883,2860055,9,0,Karunamon,,,"It's bloody filesystem code! If someone has enough access to your system in order to invoke a partition editor on the local machine, security is the least of your worries.<p>Functionality.. eh. Having used gparted extensively and not having a single problem among hundreds of filesystem resizes, I've got to thank the maintainers for finally forcing me to get off my ass and purchase a commercial solution that can be trusted to not have critical functionality yanked.<p>So thanks for that.",1312813229
+2860126,comment,2856702,2858501,1,0,bubbleRefuge,,,"Was referring to aggregate demand and aggregate supply.",1312813200
+2860125,comment,2859182,2859669,2,0,dtunkelang,,,"Actually, my original implementation used Dijkstra's algorithm. But I think the linear table of suffixes (or prefixes if you prefer) is a cleaner approach.",1312813116
+2860124,comment,2859739,2859929,2,0,brokentone,,,"As a photographer, I find incandescent easier to white-balance than CFL, although there are other photogs who swear by florescent.",1312813115
+2860123,story,,,25,19,joshuacc,"Failing Fast Is Not Fun, Satisfying or Pleasant",http://tbbuck.com/failing-fast-is-not-fun-satisfying-or-pleasant/,,1312813069
+2860122,comment,2856702,2858859,2,0,burgerbrain,,,"Shit happens.  You're going to have to learn to deal with that.",1312813045
+2860121,comment,2860072,2860072,1,0,adrianwaj,,,"Pity Symantec can't see the real threat. Why are they helping?",1312813023
+2860120,comment,2808110,2808110,1,0,ashhk,,,"This is probably the most interesting case (Microsoft vs PartsRiver) and sheds the most light I think on what is going on:<p><a href=""http://docs.justia.com/cases/federal/district-courts/california/candce/4:2009cv00811/212919/234/"" rel=""nofollow"">http://docs.justia.com/cases/federal/district-courts/califor...</a><p>""A patent is invalid pursuant to 35 U.S.C.  102(b) if the
+claimed invention is offered for sale more than one year before the filing date of the patent application.  Here, the ""critical date"" is October 14, 1993, which is one year before the filing date of the 821 patent application.<p>The Court concludes that claims 1 and 2 of the 821 patent are invalid due to the on-sale bar because they were the subject of a commercial offer for sale of an invention that was reduced to practice before October 14, 1993.""<p>This was were the initial patent was ruled invalid due to the OnSale bar.  Not being a lawyer, I'm not sure how changes they made to it made the OnSale bar no longer valid.  Do the changes somehow effect the patent/conception date?<p>The original filing date was October 14, 1994 and, according to the above court documents:<p>""As noted above, Danish, a co-inventor of the 821 patent, and Plaintiff have conceded that claims 1 and 2 were reduced to practice in April, 1992""<p>It is tough to claim prior-art as early as '92 or '94.  But, if the changes to the patent somehow makes the onsale bar no longer valid, does it change or negate those two dates.<p>Prior-Art could be claimed on a few different things.  Faceted search can definitely be found in different things as early as the late 90s:<p><a href=""http://idl.ils.unc.edu/rave/history.html"" rel=""nofollow"">http://idl.ils.unc.edu/rave/history.html</a>
+<a href=""http://en.wikipedia.org/wiki/Faceted_search"" rel=""nofollow"">http://en.wikipedia.org/wiki/Faceted_search</a><p>It might be a stretch but, as others have stated, you could make an argument that faceted search has prior-art as early as the mid 1930s:
+<a href=""http://en.wikipedia.org/wiki/Colon_classification"" rel=""nofollow"">http://en.wikipedia.org/wiki/Colon_classification</a><p>There are a few libraries that use it but it isn't clear when it was instituted.",1312812962
+2860119,comment,2859739,2859972,3,0,brokentone,,,"Over a CFL for sure. This is dimmable, easier on the eyes (in my opinion), and doesn't have toxic mercury.",1312812935
+2860118,story,,,4,0,Suraj-Sun,"Apple faces infringement lawsuit over fast booting patent once owned by LG",http://www.engadget.com/2011/08/08/apple-faces-infringement-lawsuit-over-fast-booting-patent-once-o/,,1312812930
+2860117,story,,,1,0,pgalih,"Watch 30 Minutes or Less Megavideo",http://gleemovieonline.blogspot.com/2011/08/watch-30-minutes-or-less-megavideo.html,"Watch 30 Minutes or Less Megavideo
+McBride swears more than any other comedian out there right now but there is an ease a prosaic matter of it As jazz musicians who know blowing dynamic scale and keep at rest",1312812928
+2860116,comment,2808110,2808110,1,0,ashhk,,,"This is probably the most interesting case (Microsoft vs PartsRiver) and sheds the most light I think on what is going on:<p><a href=""http://docs.justia.com/cases/federal/district-courts/california/candce/4:2009cv00811/212919/234/"" rel=""nofollow"">http://docs.justia.com/cases/federal/district-courts/califor...</a><p>""A patent is invalid pursuant to 35 U.S.C.  102(b) if the
+claimed invention is offered for sale more than one year before the filing date of the patent application.  Here, the ""critical date"" is October 14, 1993, which is one year before the filing date of the 821 patent application.<p>The Court concludes that claims 1 and 2 of the 821 patent are invalid due to the on-sale bar because they were the subject of a commercial offer for sale of an invention that was reduced to practice before October 14, 1993.""<p>This was were the initial patent was ruled invalid due to the OnSale bar.  Not being a lawyer, I'm not sure how changes they made to it made the OnSale bar no longer valid.  Do the changes somehow effect the patent/conception date?<p>The original filing date was October 14, 1994 and, according to the above court documents:<p>""As noted above, Danish, a co-inventor of the 821 patent, and Plaintiff have conceded that claims 1 and 2 were reduced to practice in April, 1992""<p>It is tough to claim prior-art as early as '92 or '94.  But, if the changes to the patent somehow makes the onsale bar no longer valid, does it change or negate those two dates.<p>Prior-Art could be claimed on a few different things.  Faceted search can definitely be found in different things as early as the late 90s:<p><a href=""http://idl.ils.unc.edu/rave/history.html"" rel=""nofollow"">http://idl.ils.unc.edu/rave/history.html</a>
+<a href=""http://en.wikipedia.org/wiki/Faceted_search"" rel=""nofollow"">http://en.wikipedia.org/wiki/Faceted_search</a><p>It might be a stretch but, as others have stated, you could make an argument that faceted search has prior-art as early as the mid 1930s:
+<a href=""http://en.wikipedia.org/wiki/Colon_classification"" rel=""nofollow"">http://en.wikipedia.org/wiki/Colon_classification</a><p>There are a few libraries that use it but it isn't clear when it was instituted.",1312812895
+2860115,comment,2857424,2858692,17,0,mikeleeorg,,,"I once crossed the Bay Bridge from Oakland to San Francisco and when I hit the pay toll, the attendent told me the driver in front had paid for me. This has happened more than once.<p>So every once in a while, I'll do the same for a driver behind me - especially if they were generous enough to have let me merge into their lane (but usually, just as a random kind gesture).<p>Good infections rock.",1312812856
+2860114,story,,,1,0,pta14lp1,,http://www.duduanxin.com/zhufu/201108/3251.html,,1312812744
+2860113,story,,,1,0,langtu452,,http://www.langtupx.com,,1312812741
+2860112,comment,2859835,2860060,1,0,Semetric,,,"I believe that the article is already mentioning this. But off course there is more to say.",1312812720
+2860111,story,,,44,9,sramam,"Google+ cooking school",http://blogs.kqed.org/bayareabites/2011/08/04/cooking-lessons-in-real-time-google-cooking-school/,,1312812644
+2860110,comment,2859958,2859958,2,0,ColinWright,,,"Previous submissions:<p><a href=""http://news.ycombinator.com/item?id=2791565"" rel=""nofollow"">http://news.ycombinator.com/item?id=2791565</a><p><a href=""http://news.ycombinator.com/item?id=2793205"" rel=""nofollow"">http://news.ycombinator.com/item?id=2793205</a><p><a href=""http://news.ycombinator.com/item?id=2796291"" rel=""nofollow"">http://news.ycombinator.com/item?id=2796291</a><p><a href=""http://news.ycombinator.com/item?id=2798214"" rel=""nofollow"">http://news.ycombinator.com/item?id=2798214</a><p><a href=""http://news.ycombinator.com/item?id=2798498"" rel=""nofollow"">http://news.ycombinator.com/item?id=2798498</a><p><a href=""http://news.ycombinator.com/item?id=2812563"" rel=""nofollow"">http://news.ycombinator.com/item?id=2812563</a><p><a href=""http://news.ycombinator.com/item?id=2830149"" rel=""nofollow"">http://news.ycombinator.com/item?id=2830149</a><p><a href=""http://news.ycombinator.com/item?id=2854737"" rel=""nofollow"">http://news.ycombinator.com/item?id=2854737</a><p>None of them have any discussion - perhaps this will be the first.<p>========<p>ADDED IN EDIT:<p>Actually, this is just a thin veneer over the link originally posted here: <a href=""http://news.ycombinator.com/item?id=2793205"" rel=""nofollow"">http://news.ycombinator.com/item?id=2793205</a><p>To quote from <a href=""http://ycombinator.com/newsguidelines.html"" rel=""nofollow"">http://ycombinator.com/newsguidelines.html</a><p><pre><code>    In Submissions
+    ...
+    Please submit the original source. If a blog post
+    reports on something they found on another site,
+    submit the latter.</code></pre>",1312812619
+2860109,comment,2860095,2860095,1,0,Khao,,,"Looks down for me also, next time you could try using a service like Down for everyone or just me? instead of creating a post just for this. :)<p><a href=""http://www.downforeveryoneorjustme.com/www.toggl.com"" rel=""nofollow"">http://www.downforeveryoneorjustme.com/www.toggl.com</a>",1312812613
+2860108,comment,2858371,2858890,1,0,wallflower,,,"We better fire our designer :)
+He did not know about this.
+He does have one of those colour matching doohickeys to calibrate his monitor.
+In general, I think as long as it is not a CMYK print ad, a little deterioration in colour is ok.",1312812609
+2860107,story,,,2,0,mikk0j,"How to Build a Pre-Launch Landing Page",http://hackfwd.tumblr.com/post/8644509627/b2c-customer-development-part-3-of-3-testing-with,,1312812608
+2860106,story,,,1,0,mranauro,"Spectrum of the Web  The Web is now twenty years old",http://blog.meeps.com/post/8558165786/spectrum-of-the-web,,1312812607
+2860105,comment,2859254,2859584,4,0,raganwald,,,"I agree. The article isn't really arguing with A/B <i>testing</i>, it's arguing with hill-climbing. In other words, it's not the questions that are the problem, it's what you do with the answers.<p>HN is (at this time) programmer-centric. It ought to be obvious that you cannot design the best program on a large scale by optimizing functions. You have to start with a good design and then relentlessly optimize the bits. From time to time you have to consider larger redesigns that would throw all your previous optimizations right out.<p>Web/UX design is roughly analogous. Customer conversion, for example, is a minefield. You might have two archetypical personae, Alice and Bob. If you start with a design that appeals to the Bobs and the Alices equally, a small change (sexist image?) might alienate the Alices but increase the appeal to the Bobs. If the <i>immediate</i> gain outweighs the loss, it looks good.<p>But further gains run out of steam when you have all the Bobs but no Alices: You have reached a local maxima as you state so economically. Had you tried a different optimization that marginally increased appeal to both the Alices and the Bobs, you might be able to continue to acquire both the Alices and the Bobs over time, far outstripping the Bob-centric improvements that alienate Alice.<p>But you'll never know if you went with the biggest immediate gain.",1312812591
+2860104,comment,2858559,2859865,1,0,RyanMcGreal,,,"My favourite is the story of ""Amen Brother"", a forgettable (?) b-side instrumental by sixties funk band The Winstons that just happened to feature a really sweet break beat ... which went on to spawn an entire musical genre.<p><a href=""http://www.youtube.com/watch?v=5SaFTm2bcac"" rel=""nofollow"">http://www.youtube.com/watch?v=5SaFTm2bcac</a>",1312812571
+2860103,comment,2859964,2860061,1,0,thedeuce,,,"The polite way of saying...we don't need the useless middle man anymore. Good for Microsoft IMO.",1312812565
+2860102,comment,2859739,2860017,3,0,hartror,,,"I prefer soft yellow in most of the house and crisp white in the bathrooms and office. In bathrooms it allows you to see everything clearly (a good thing?) and in the office I find it keeps me alert.",1312812541
+2860101,comment,2850708,2850708,1,0,JonLim,,,"I would have signed up for this service, except music discovery isn't worth $5 a month for me. A track a day, five days a week? Not bad, but I'm not sure I would find it worthwhile.<p>However, the design of your landing page is great - I almost signed up just for that.<p>Good luck!",1312812532
+2860100,comment,2860031,2860031,6,0,o1iver,,,"Here are two other great answer by this guy (one is on the HN front page right now):<p>Yield:
+<a href=""http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained/231855#231855"" rel=""nofollow"">http://stackoverflow.com/questions/231767/the-python-yield-k...</a><p>Decorators:
+<a href=""http://stackoverflow.com/questions/739654/understanding-python-decorators/1594484#1594484"" rel=""nofollow"">http://stackoverflow.com/questions/739654/understanding-pyth...</a>",1312812523
+2860099,comment,2859546,2859546,1,0,username3,,,"Application independent HiDPI would be useful in this situation.",1312812511
+2860098,story,,,2,0,myth_drannon,"Grade your Adwords Performance",http://www.wordstream.com/google-adwords,,1312812509
+2860097,comment,2846600,2846600,1,0,deepcode,,,"Exercise 9:<p>10 There's something going on here.
+11 With the three double-quotes<p>- no triple-double-quotes in ruby version, actually",1312812487
+2860096,comment,2859883,2859965,14,0,throwaway32,,,"How exactly is parted/libparted useful after this change? It now appears to do nothing above and beyond fdisk.",1312812483
+2860094,comment,2859546,2859744,1,0,adimitrov,,,"Video player's hidden controls react to mouse movement in the screen area though, a web browser would need a different heuristic  like moving the mouse close to where the controls <i>should</i> be or somesuch.<p>There's people arguing, of course, that that's really poor usability, because you can't see what you can do. I guess it's a matter of taste as much as anything, and it's probably more of a power-user thing.)",1312812476
+2860093,comment,2858559,2859054,2,0,JoeAltmaier,,,"...and ""A Hard Day's Night"" was written one night to match the movie title, which was chosen essentially at random.",1312812420
+2860092,comment,2858356,2859726,3,0,jodoherty,,,"If you have Pages for iOS, an iPad stand, and an Apple wireless keyboard, you can actually get by pretty well using the iPad for word processing, assuming you sit at a desk to write.",1312812386
+2860091,story,,,1,0,earlhickey,"Best color splash app for android",https://market.android.com/details?id=com.lyrebirdstudio.colorme,,1312812338
+2860090,comment,2859234,2859941,2,0,rjbond3rd,,,"True, and of course they can only revoke the ones they know are fake. And the browser/client has to respect the revocation list.",1312812307
+2860089,comment,2857424,2857424,7,0,joshmlewis,,,"I used to work at Chick-fil=A before I started working for a startup and we would get people that would start paying for the people behind them in the drive thru and the next car would pull up and we'd say:  Hey you had a...(whatever they had)..and the car behind you has already taken care of it.  They would look shocked, smile, and say well we will get the car behind us.  And this would go on for 10 or more cars.<p>It was really awesome.  We also had people come through and ask for food for a homeless guy that sits on the off ramp on our interstate exit, and Chick-fil-A would give them food to take to the homeless guy and I'm sure many more situations occur all across the country that make peoples lives better.  I think there is a thread of hope in humanity.",1312812296
+2860088,comment,2858835,2859145,1,0,KennyCason,,,"Thanks! In the midst of an interesting and related problem now actually. I'll post here when our project is finished :)",1312812282
+2860087,comment,2858458,2859155,2,0,forensic,,,"And those are just the groups who actually achieved it. Many more thought about it or tried it.<p>The OP said he ""can't even believe that anyone could <i>think</i> of [mass murder].""<p>Think!<p>Lack of imagination, lack of historical awareness, or just plain willful ignorance?",1312812237
+2860086,comment,2855397,2859250,3,0,noonespecial,,,"It would be too hard to track the Rolex. If they could, they would. My business is taxed on all it's assets. Rolexs included.<p>In theory, they tell you it's services, etc. In practice, they rent-seek everything they can reliably lay eyes on.",1312812231
+2860085,comment,2858371,2859247,2,0,wallflower,,,"Good luck with the Android Market and please use the Licensing System to help against piracy.<p><a href=""http://developer.android.com/guide/publishing/licensing.html"" rel=""nofollow"">http://developer.android.com/guide/publishing/licensing.html</a>",1312812224
+2860084,comment,2858835,2859150,1,0,KennyCason,,,"Yeah, I actually completely realized that after i programmed the first one, i'll be sure to change that asap.",1312812193
+2860083,comment,2859546,2859546,4,0,adimitrov,,,"I'm already doing this with Opera, and I think Opera has it figured out a bit better, too. The curious thing here is, I guess, that I not only don't have an Apple Cinema display, I don't have a wide-screen display at all, and I even pivot my monitor by 90 degrees (the one I browse the web on.) I've made the experience that having a tall browser window is <i>much</i> more useful than having a wide browser window.<p>See the screenshot: <a href=""http://imgur.com/3lFAN"" rel=""nofollow"">http://imgur.com/3lFAN</a><p>I like the big pictures on the tab buttons  gives me a visual idea of what I'm clicking on. I also like the tab stacks Opera implemented a while ago, even though I still have a couple of peeves with 'em.<p>One thing he's totally right about, though: address bars are largely wasted screen space. I'd like to only see them on newly opened tabs or so",1312812156
+2860082,comment,2854444,2854697,1,0,kyberias,,,"I mean the first ""powered by minutebox"" link on the page. It opens minutebox in the same iframe. Well, technically the links works. And yes, this is Chrome/Windows 7.",1312812150
+2860081,comment,2859546,2859867,1,0,Tomek_,,,"It's quite buggy though, e.g. with many tabs opened the ""open new tab"" button disappears or that you can't switch easily between thumbnails/no-thumbnails view, etc. Hope the good guys and girls at Opera will take notice of the OP and will work on some improvements in this area.<p>PS. also worth noting that Opera allows for easily grouping of tabs in the manner similar to the one described in OP (no naming though, fortunately (in my opinion at least)).",1312812144
+2860080,comment,2859883,2860001,6,0,bigfoot,,,"I fully agree.  Hopefully libguestfs support will be added to GParted soon; as changing the partition layout and resizing the file systems within these partitions is usually a hand-in-hand process, it should be controllable from a single tool.",1312812143
+2860079,comment,2859318,2859854,1,0,soult,,,"What do you need the grep for?",1312812137
+2860078,comment,2859546,2859546,0,0,buro9,,,"I was with you up until Tab Groups.<p>Then I disagreed strongly.",1312812086
+2860077,story,,,1,0,ph0rque,"Nancy Dougherty on Mindfulness Pills",http://quantifiedself.com/2011/08/nancy-dougherty-on-mindfulness-pills/,,1312812083
+2860076,story,,,2,0,adeelarshad82,"What If Android Lost the Patent War?","http://www.pcmag.com/article2/0,2817,2390536,00.asp",,1312812055
+2860075,story,,,4,0,tsondermann,"Numbers for Startups - SaaS Metrics Excel Template",http://numbersforstartups.com/,,1312812027
+2860074,story,,,1,0,privacyguru,"Black Hat Wrap Up: What Created the Most Buzz?  ",http://www.securityweek.com/black-hat-wrap-what-caused-most-buzz,,1312812021

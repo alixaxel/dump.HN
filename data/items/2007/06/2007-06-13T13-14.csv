@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27787,comment,27785,27785,0,0,nostrademons,,,"I have one state-modifying GET in my app - it's the password reset page, where the link goes out via e-mail and I can't trust e-mail clients to allow a form submission.  It uses an unforgeable one-time-use reset code, so I don't need to worry about crawlers.  Once someone has visited the page, the page becomes invalid.<p>If I were in your situation, I'd document.write out a link that submits the form via Javascript.  Then, in the noscript tag, I'd put a normal unstyled Submit button.  That way, Javascript-enabled browsers get the fully-styled link with a minimum of hacks (which tend to break on lots of edge cases).  Javascript-disabled browsers degrade gracefully - they won't look as pretty, but the functionality is there.",1181742850
+27786,story,,,1,0,codeLullaby,"Open Source Flash Conference-For everyone interested in RIA",http://osflash.org/blog/2007_06_12_open_source_flash_conference_-_june_15th,,1181742848
+27785,story,,,4,9,benhoyt,"GET to do POST's job -- when is it okay?",http://blog.micropledge.com/2007/06/get-to-do-posts-job/,,1181742238
+27784,comment,27175,27421,0,0,benhoyt,,,"I wondered that too. But apparently not, because we've got the proof: our spam has gone way down. Though if it goes up again I'll bot-proof that fall-back page a bit more.",1181740860
+27783,comment,363,363,0,0,davidw,,,"markdown enabled comments.",1181740611
+27782,comment,27615,27633,0,0,brlewis,,,"Browser bugs that steal content off other pages -- is that why oftentimes the session id is not used as the secret in side-effecting requests?  I've seen a lot of sites use random unique secrets and wondered why they didn't just use the session id.",1181740457
+27781,comment,13448,13448,0,0,jhaynie,,,"hakano means ""haynie"" ""kashimba"" and ""nolan"" which are the 3 founders of the company.<p>you can found out more about me (i'm the ceo and founder) at <a href=""http://blog.jeffhaynie.us/about"" rel=""nofollow"">http://blog.jeffhaynie.us/about</a><p>
+",1181740160
+27780,comment,27682,27682,0,0,brlewis,,,"Permalink:<p><a href=""http://www.webfoot.com/blog/2007/06/12/productivity-factors/"" rel=""nofollow"">http://www.webfoot.com/blog/2007/06/12/productivity-factors/</a>
+",1181740089
+27779,comment,27594,27594,0,0,staunch,,,"Facebook and Facebook Marketplace probably scares them to death. It's a bad sign if the executives at eBay are so clueless as to only okay this project because they saw Facebook do it.
+",1181739627

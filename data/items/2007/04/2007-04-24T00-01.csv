@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16172,comment,16010,16010,0,0,gyro_robo,,,"How about some symbol macro snippets?<p><a href=""http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg02226.html"">http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg02226.html</a><p><a href=""http://www.economicexpert.com/a/RTML.html"">http://www.economicexpert.com/a/RTML.html</a>
+",1177376361
+16171,comment,16165,16165,0,0,zemaj,,,"Link not working?
+",1177376246
+16170,comment,16132,16133,0,0,mattculbreth,,,"I'm a Georgia Tech guy and we have a great CS program.  But I'd go with the consensus here--get out there and join a startup.  Maybe do that for a year, see how you like it.  If you've already got startup fever in your blood going to grad school might not feel so good.
+",1177375515
+16169,comment,16098,16138,0,0,mattculbreth,,,"This is a very good point.  Some types of applications will find this scheme a bit difficult, though I'm in the midst of hacking through some POC work around it.  I've got a database in the  100GB range potentially so it's a bit of a different domain.<p>I really think this concept works though for 8/10 applications which are using databases because, well, you've always used databases.  Memory, save changes to flat files, read it all in during startup, it's really an elegant way to go about it.
+",1177375406
+16168,comment,14360,14400,0,0,jamiequint,,,"There's a difference between competing and cloning their service to the detail as soon as you lose a bidding war. I'm by all means a capitalist, but this somehow doesn't sit right with me.",1177374684
+16167,comment,15984,16131,0,0,jamiequint,,,"I don't see it there...",1177374592
+16166,comment,16144,16144,0,0,brezina,,,"I'm pumped for Disqus.  Use the time in Cambridge to focus on building a technology war-chest.  You'll never find the time to focus on code the way you will during SFP.
+",1177373741
+16165,story,,,14,3,mattjaynes,"S3 performance from EC2 instances",http://blog.awswebshop.com/2007/04/22/s3-performance-from-ec2-instances/,,1177373461
+16164,comment,16162,16162,0,0,rms,,,"This is the unabridged version of a piece that appeared in Wired a while ago.",1177373162
+16163,comment,16031,16031,0,0,fuelfive,,,"I keep a file of these. Here are some of my favorites:<p>""In the long run, we only hit what we aim at.""
+ - Henry David Thorou<p>""The more you sweat in peace, the less you bleed in war.""
+ - Asian proverb<p>""No battle plan survives contact with the enemy.""
+ - Helmuth von Moltke<p>""No wind favors he who has no destined port.""
+ - Montaigne<p>""Never doubt that a small group of thoughtful, committed people can change the world. Indeed, it is the only thing that ever has.""
+ - Margaret Mead<p>""Real artists ship.""
+ - Steve Jobs
+",1177373032

@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19881,comment,19647,19837,0,0,henning,,,"Since you like to judge things without giving a fair chance, there's not much anyone can do for you.<p>Have you ever used a language in the ML family or one influenced by ML? OCaml, Haskell, Scala, Standard ML, etc? Have you ever used a language with type inference?<p>If you want performance and you don't want to sacrifice garbage collection, at the moment ML-family languages are the best thing around.",1178422135
+19880,story,,,1,0,bootload,"To Groovy Or JRuby",http://jroller.com/page/kimchy?entry=to_groovy_or_jruby,,1178421717
+19879,comment,19798,19798,0,0,nickb,,,"nicholas.s.barnes at gmail.com",1178421603
+19878,story,,,2,0,nickb,"10 web application security tips you should already know",http://www.charlesrowe.com/2007/05/01/10-web-application-security-tips-you-should-already-know/#more-13,,1178421544

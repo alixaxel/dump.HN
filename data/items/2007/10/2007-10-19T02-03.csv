@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70120,comment,70105,70105,0,0,staunch,,,"I think Google could enforce a company wide pair programming initiative and still be way overstaffed.
+",1192762546
+70118,comment,70059,70059,0,0,jsjenkins168,,,"If you're a wireless startup, you might want to check out Austin Technology Incubator (ATI):<p><a href=""http://www.ati.utexas.edu/"" rel=""nofollow"">http://www.ati.utexas.edu/</a><p>Its a non-profit organization of UT profs and apparently has deep ties in the industry.<p>The problem is being accepted is even more difficult than YC... They only accept a few, but the ones they do have a high success rate.",1192761951
+70117,comment,70073,70073,0,0,veritas,,,"How insane would it be if you got a YC rejection letter, but a Sequoia interview... :D",1192761534
+70116,comment,70059,70059,0,0,jdavid,,,"<a href=""http://www.siliconpastures.com/"" rel=""nofollow"">http://www.siliconpastures.com/</a><p><a href=""http://www.kegonsapartners.com/"" rel=""nofollow"">http://www.kegonsapartners.com/</a><p><a href=""http://www.goldenangelsnetwork.org/"" rel=""nofollow"">http://www.goldenangelsnetwork.org/</a><p><a href=""http://www.wisconsintechnologycouncil.com/events/earlystage/"" rel=""nofollow"">http://www.wisconsintechnologycouncil.com/events/earlystage/</a>",1192761463
+70115,comment,70073,70081,0,0,rms,,,"I've definitely seen them say that they read every submission:
+<a href=""http://sequoiacap.com/ideas/"" rel=""nofollow"">http://sequoiacap.com/ideas/</a><p>These guys are friendly too:
+<a href=""http://www.tandementrepreneurs.com/"" rel=""nofollow"">http://www.tandementrepreneurs.com/</a>",1192761285
+70114,comment,70062,70103,0,0,DocSavage,,,"We're going with an ex-Cooley Godward lawyer for our incorporation.  It's more expensive but in the big scheme of things, we think it's better to get this done right and have someone experienced to handle equity arrangements and contracts.<p>There are other YC threads on incorporation. For general information, Wikipedia is pretty good :) [<a href=""http://en.wikipedia.org/wiki/Incorporation_"" rel=""nofollow"">http://en.wikipedia.org/wiki/Incorporation_</a>(business)]",1192760903
+70113,comment,70062,70083,0,0,DanielBMarkham,,,"It does suck to be rejected. But there's sucks like ""we spent a week with you analyzing your entire team and pulling apart opportunities and leverage you didn't know you had, but we're just going to have to pass because we don't think you'll make it"" and then there's sucks like ""we looked at fourteen hundred forms people filled out on our web page in the last two days and the matrices didn't line up for you guys.<p>
+Hopefully you could handle either of those scenarios, but if I had to take one, the YC one is a pretty easy rejection. Heck, we even got a nice e-mail.",1192760729
+70112,comment,70048,70088,0,0,rokhayakebe,,,"Are you a VC? 
+1. good for VCs
+2. Failure due to market characteristics as well as team mismatches are simply the result of that Trial period. A consultant would come back after looking into the market and the team, and say "" they don't fit"" . 
+3. Because VCs don't want ot be in the Market Research business, they look for  young people who have the time and energy and have been researching  the market with their product in closed beta. Then if the result of that ""market research"" is promising, then they invest.",1192760716
+70111,comment,69811,70027,0,0,Shorel,,,"I'm sure RMS is thinking of yet another software license to take care of this.",1192760631
+70110,comment,70062,70102,0,0,pg,,,"Good idea; I just did.",1192760630
+70109,comment,70062,70083,0,0,palish,,,"Just treat YC like you would any other VC.  I doubt you'd be broken up if one of them rejected you; you'd (ideally) have many more lined up anyway.<p>There are opportunities all over the place.  Keep your hopes up.",1192760512
+70108,comment,69048,69155,0,0,apgwoz,,,"I concede, but at least I won the popular vote... ",1192760328
+70107,comment,70062,70062,0,0,yrashk,,,"What is important is that YCombinator has already built a community even by rejecting most of applicants.<p>Don't loose a chance to network, cooperate and succeed, we all are in a great team over here!",1192760308
+70106,comment,70062,70104,0,0,DanielBMarkham,,,"Sure does. And when it happens to your users, you'd better be able to do some scooping real quick. But like I said, not my call.",1192760122
+70105,story,,,7,7,bootload,"Google Promises Again to Swear Off Binge Hiring",http://bits.blogs.nytimes.com/2007/10/18/google-promises-again-to-swear-off-binge-hiring/,"MySpace Needs Internal Not External Developers",1192760095
+70104,comment,70062,70102,0,0,mynameishere,,,"Oh, please. Shit happens.",1192760001
+70103,comment,70062,70089,0,0,mwerty,,,"We're in a similar position. Could you mention sites you found useful for info on incorporation?<p>Thankyou",1192759814
+70102,comment,70062,70097,0,0,DanielBMarkham,,,"None of my business, Paul, but you might want to contact the guy and apologize. That had to suck big time.",1192759683
+70101,comment,70062,70062,0,0,DanielBMarkham,,,"Well that was fun.<p>
+Back to coding.",1192759558
+70100,comment,69692,69956,0,0,aston,,,"Pretty low. 300 people is not 300 programmers.",1192759424
+70099,story,,,1,0,dyu,"Ask News.YC: Difference between web app business and open source?",,"I've been thinking about the difference between a web app business, an open source project (such as the ones you can find on sourceforge), and just a hack. I imagine the difference between a hack and the other two is that a hack is on a smaller scale, but where do you draw the line of the first two? Any ideas?",1192759413

@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95578,story,,,3,6,reitzensteinm,"Dogfight (Stunt Pilot With Guns!)",http://www.rocksolidarcade.com/games/dogfight/,,1199699979
+95577,comment,95576,95576,0,0,cosmok,,,"I need people to test a new app that I have created: 'History!'.
+History! is a personal web history manager. It allows you to save, bookmark and tag the page that you are currently reading and gives you the ability to locate the page at later stage. 
+Requirements: Firefox (with JS enabled), Web Server running MySQL and PHP.
+A Firefox toolbar is created during installation and that is when the fun starts.
+You can view a demo here: <a href=""http://www.trk7.com/install/xxx.php?sstring=what+makes+a+sentence"" rel=""nofollow"">http://www.trk7.com/install/xxx.php?sstring=what+makes+a+sen...</a><p>I think it is much more flexible and powerful than other web history managers and the best thing is that all data gets stored in your server (absolute PRIVACY)!<p>I have tested the app in Firefox (2&3) in Mac and I am pretty sure it will work fine in Win Environment.So please check it out.",1199699875
+95576,story,,,2,6,cosmok,"Testers needed!","http://history.sansj.com/forum/read.php?4,4","I need people to test a new app that I have created: 'History!'.
+History! is a personal web history manager. It allows you to save, bookmark and tag the page that you are currently reading and gives you the ability to locate the page at later stage. 
+Requirements: Firefox (with JS enabled), Web Server running MySQL and PHP.
+A Firefox toolbar is created during installation and that is when the fun starts.
+You can view a demo here: http://www.trk7.com/install/xxx.php?sstring=what+makes+a+sentence<p>I think it is much more flexible and powerful than other web history managers and the best thing is that all data gets stored in your server (absolute PRIVACY)!<p>I have tested the app in Firefox (2&3) in Mac and I am pretty sure it will work fine in Win Environment.So please check it out.",1199699835
+95574,comment,95521,95521,0,0,net_efekt,,,"When resources become scarce, the prices will go up, forcing people to change their habbits. Problem solved. We're all in the same boat - if anything, we're the ones who started the whole consumption frenzie, so we should be the first to show a different way of life.",1199699051
+95573,comment,95422,95558,0,0,reitzensteinm,,,">>> Perhaps I should recruit my ex-girlfriend to be my cofounder... :-)<p>What could go wrong?! :)",1199699009
+95571,story,,,2,0,terpua,"The truth about word of mouth",http://sethgodin.typepad.com/seths_blog/2008/01/the-truth-about.html,,1199698317
+95570,story,,,4,0,nickb,"What does topology have to do with computability?",http://sigfpe.blogspot.com/2008/01/what-does-topology-have-to-do-with.html,,1199698237
+95569,story,,,30,0,neilc,"Prediction Markets at Google",http://www.nytimes.com/2008/01/07/technology/07link.html?ex=1357362000&en=618f809c1c78a85b&ei=5090&partner=rssuserland&emc=rss&pagewanted=all,,1199697077
+95568,comment,95359,95453,0,0,szleventee,,,"Great service! I'm thinking about providing something similar to the East-European market. Do you offer this site as a white labeled solution? Did you develop this from ground up? If not, what tools did you use?",1199697003
+95567,story,,,1,0,nreece,"The Future According to Bill Gates, from final Consumer Electronics Show Keynote",http://www.theage.com.au/news/biztech/the-future-according-to-bill-gates/2008/01/07/1199554556164.html,,1199696535

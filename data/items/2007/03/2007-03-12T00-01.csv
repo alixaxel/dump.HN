@@ -1,0 +1,3 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3661,story,,,4,2,farmer,"Does the MySQL Fulltext Index Scale?",http://epsilondelta.net/2006/05/05/does-the-mysql-fulltext-index-scale/,,1173660967
+3660,comment,3542,3542,0,0,jwecker,,,"yah, very cool.  Thanks Harj.",1173657656

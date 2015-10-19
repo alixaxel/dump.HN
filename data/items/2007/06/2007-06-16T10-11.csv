@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28531,comment,28492,28492,0,0,ivan,,,99%,1181989283
+28530,comment,28410,28438,0,0,ralph,,,"Good advice, but it doesn't help when one's coding in a larger system not just written by oneself.  Then there's operator overloading;  you can't trust anything to be doing what it suggests in an unknown, or large, codebase.  Code readability goes down the pan if too much is hidden by mis-used OO techniques.",1181988794
+28529,comment,28150,28500,0,0,davidw,,,"Cost of an LLC in Oregon: $55<p>Cost of an SrL in Italy: north of 3000 Euro<p>Cost of something similar in Austria, where we recently moved, and I don't speak the language yet: much closer to the Italian one than the Oregon one.<p>It would be insane for me to throw that kind of money away when I can just do it at 'home', and any businesses I do are likely to be internet based.",1181988742
+28528,comment,28300,28300,0,0,ralph,,,"Whether I'm logged in or not, let me pick my favourite bookshop from your list, e.g. amazon.com versus amazon.co.uk versus ...",1181988463
+28527,comment,28352,28392,0,0,ralph,,,"Here lynx warns me that the Location URI isn't absolute.  Nice of it.",1181988048

@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+377539,comment,377505,377505,0,0,mattjung,,,"Said differently: Personal blogs are the seed for something bigger.",1227700660
+377538,story,,,2,0,thomasfl,"Performance on Rails",http://www.ddj.com/article/printableArticle.jhtml;jsessionid=145YVOIG2RTYGQSNDLOSKHSCJUNN2JVN?articleID=212000386&dept_url=/architect/,"Quick and easy-to-read article about performance optimization with Ruby on Rails.",1227700613
+377537,comment,374722,377520,0,0,csl,,,"No -- I get zero hits for 4 and 7 with this approach.",1227700075
+377536,comment,376238,376652,0,0,dgordon,,,"So, by the standards of his time, nuts.",1227699968
+377534,comment,375490,376257,0,0,ed,,,"Unfortunately it's slow as hell. Scott's presentation at MAX showed his Doom port running fluidly, so we know it <i>can</i> be done. With any luck we'll see optimization tips shared soon.",1227699890
+377533,comment,377354,377461,0,0,paul9290,,,"Is this forum exclusive for only Ycombinator companies and not other incubator companies?  There is no biased for posting Ask HN rate my start-up.<p>Congrats to the IntenseDebate team!",1227699862
+377532,comment,377155,377275,0,0,dcurtis,,,"Wow, I learned so much from that article. Thanks for linking it.",1227699663
+377531,comment,377301,377353,0,0,bmj,,,"I would just be sure that you actually own the domain, not the service.  Early in my life was a web developer, I made this mistake, and it took a bit of effort to wrest ownership of the name back.<p>I use Dotster, and have found their service and interface perfectly acceptable.  They, too, sent me an email saying I should I should renew my domain name before the rates went up.",1227699623
+377530,comment,376973,377151,0,0,dhimes,,,"update:  with the control in flash apparently set to off, flash still creates directories and saves a file.  This is some bad mojo.",1227699581
+377529,comment,377354,377354,0,0,colinake,,,"The IntenseDebate guys work hard on their product and are some of the nicest dudes around. It's good to see a startup like ID get some big exposure like this.",1227699500
+377528,comment,377395,377395,0,0,icky,,,"Why buy, when you can found?",1227699496
+377527,comment,371987,377423,0,0,cousin_it,,,"<i>So, no, having a gay uncle is actually GREAT for me.</i><p>In the hedonic sense yeah, in the genetic sense no (like obesity), because you could have cousins with extra copies of your genes. But that was just a digression - I wasn't trying to argue that homosexuality should eradicate itself genetically, I don't even believe that.<p><i>Why should a gay couple be any different, from a society's point of view, from a heterosexual couple that adopts or doesn't have children at all?</i><p>It's different because it has no chance of having biological offspring, while for hetero couples society can't know it in advance.<p>On your other points - I'm going into a corner to think. You made many correct statements.",1227699018
+377526,comment,375967,376969,0,0,yters,,,"That's brilliant!  I know, how about I just write a bot that circulates the highest rated stories amongst all the news aggregators?<p>If a story can't be submitted, it'll just obfuscate the url.  Given that these stories have a half life, where new members will not have read them and will find them interesting, all submissions are pretty much guaranteed good karma.<p>It'll be called nirvanabot.",1227699003
+377525,comment,377495,377495,0,0,pclark,,,"> But: one successfully completed project almost always guarantees repeat business.<p>righttt.",1227698991
+377524,comment,376676,376676,0,0,kenshi,,,"This could be awesome if it takes off. I've always thought the biggest barrier to desktop app adoption vs webapp adoption is the problem of finding and deploying apps. If this takes off we could witness a rejuvenation in the market for desktop apps on Windows.<p>As a developer who is often frustrated by how much application development these days is limited to the capabilities of the browser, something that solves the problem of safely deploying and managing application installs, really appeals.<p>Good luck Baseshield guys!",1227698985
+377523,story,,,5,2,davidw,"Do Passwords Scale?",http://www.links.org/?p=425,,1227698953
+377522,comment,377249,377477,0,0,pclark,,,"quite, what is up with all these services? there most be two dozen now.",1227698840
+377521,comment,376631,377517,0,0,yters,,,"That's a sci fi story, not hard science.<p>Absolutely nothing integral to the singularitrons' vision has been demonstrated to any extent.  Instead, the opposite is shown by the fact cpu speeds have leveled out.",1227698832
+377520,comment,374722,375080,0,0,csl,,,"Can't you just do this ?<p><pre><code>    int rand7()
+    {
+        return (int)(7.0f * rand5() / 5.0f);
+    }</code></pre>",1227698790
+377518,comment,376883,377309,0,0,andrewf,,,"Someone was going to make it irrelevant. And .NET doesn't run on Solaris.",1227698240
+377517,comment,376631,377510,0,0,rms,,,"<a href=""http://www.multivax.com/last_question.html"" rel=""nofollow"">http://www.multivax.com/last_question.html</a>",1227697861
+377516,comment,377347,377452,0,0,jhancock,,,"it sure is...where was the SEC when every major bank in the world was doing it?",1227697834
+377515,comment,377278,377408,0,0,davidw,,,"<p><pre><code>    M-x help-with-tutorial</code></pre>",1227697715
+377514,comment,377478,377478,0,0,pclark,,,"bodyguard PA.",1227697642
+377513,comment,377405,377488,0,0,tomsaffell,,,"> WinMo is not bad in the latest version<p>I've been hearing this from a few users. But even if it is a good OS (HW config dependent) the question still remains: can MSFT make money from that business model? Will developers develop for it? If the answers are 'no', then they need a new business model, not a better OS. Maybe this new venture is it?",1227697634
+377512,comment,376820,377096,0,0,sfk,,,"This is utterly unfair. There aren't any ads on that site and the author does not market himself or his site at all.",1227697272
+377511,story,,,3,0,nreece,"Rewriting a Software Product After Quitting a Job?",http://ask.slashdot.org/article.pl?sid=08/11/25/2343235&from=rss,,1227697250
+377510,comment,376631,377113,0,0,yters,,,"Has someone figured out a way around the 2nd law of thermodynamics? Or is it not a law anymore?  I'm not a physicist, so I don't know these things.",1227697233
+377509,story,,,1,0,nreece,"Twitter Boasts 343% Growth",http://truemors.nowpublic.com/?p=34435,,1227697224
+377508,story,,,6,0,nreece,"Colors and the UI",http://www.infoq.com/articles/Colors-UI,,1227697207

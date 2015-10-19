@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+233978,comment,233846,233846,0,0,KevBurnsJr,,,"Long Tail = Bubble ?",1214996313
+233977,comment,233912,233912,0,0,m0nty,,,"""Surely on a site chock full of web developers a little CSS never killed anyone!""<p>Unlike, for example, not using CSS which kills a fairy <i>every time</i> you use a deprecated tag! OMFG!!!",1214996237
+233976,story,,,2,5,vineet7kumar,"Ask YC: What should I use for front end GUI development?",,"Though I have worked on compilers using C, I haven't done any GUI programming before.
+Currently I am working on a project that will require some nice looking front end GUI. I am looking for a tool to develop platform independent GUI. The project will also have some web interaction.
+What language and library will you suggest for this. 
+I have heard about python and tknter.",1214995568
+233975,comment,233912,233912,0,0,axod,,,"There <i>must</i> be more important things to discuss. Surely...",1214995546
+233974,story,,,2,0,astrec,"AS3 AMQP Client",http://hopper.squarespace.com/blog/2008/3/24/as3-amqp-client-first-cut.html,,1214995243
+233973,comment,233912,233912,0,0,astrec,,,"Deprecated <> obsolete.",1214994970
+233972,story,,,19,5,luckystrike,"Ruby’s Vulnerability Handling Debacle",http://www.matasano.com/log/1079/rubys-vulnerability-handling-debacle/,,1214994210
+233971,story,,,5,16,yearsinrock,"Ruby java python or lisp",,"I have shortlisted the following languages to learn .
+which one should I learn first.And which are the best sources books,videos for learning them.
+i have previously done c and c++",1214993937
+233969,comment,233166,233685,0,0,Tichy,,,"Still, it can't have been a complete surprise that Google wants to crawl Flash. They crawl lots of other file formats, so if you can manage to crawl flash, what made you think Google wouldn't be able to?<p>Maybe you could still survive as a specialized flash search engine? With Google, you get just everything lumped together, at your site, I know I am only searching flash.",1214993674
+233968,comment,233625,233958,0,0,johnyzee,,,"In the case of youtube it seems most copyright owners tacitly accept the presence of their material, probably because they recognize the promotional value.<p>It's a weird situation now where people casually link to illegal material, like a Family Guy episode or a clip from Office Space, and nobody even blinks.",1214993359
+233967,comment,233846,233946,0,0,tuukkah,,,"Depends on what they mean by a cultural category. User-generated, online, social, video content has new cultural aspects even if the popularity dynamic is old.",1214993354
+233966,comment,233780,233780,0,0,KevBurnsJr,,,"The creation of artificial languages is about finding new ways to express patterns we humans have hallucinated from our man-made sea of 1s and 0s.  Shortcuts for expression.  
+Languages will continue to become more dynamic.  
+It's really a gradient from ""artificial language"" to ""natural language"".  
+The evolution of programming languages has them approaching natural language as higher-level languages are developed (as opposed to, say, assembly), but it's rather silly to think that the ideal for an artificial language would ever be to embody the state of a natural language.  
+Will artificial language ever embody natural language?
+What happens when the utility of artificial languages exceeds that of natural languages?
+Will our daily conversations one day be held in Ruby 3.1?<p>- ""Make me a sandwich.""
+~ ""Make it yourelf.""
+- ""Sudo make me a sandwich.""
+~ ""Okay.""",1214993325
+233965,comment,232731,233020,0,0,IsaacSchlueter,,,"The subjunctive mood is dying pretty quickly, along with ""whom"" and ""shall"".  ""If X was"" is already used quite commonly in hypothetical constructs, even among native english speakers.  Yes, technically, ""if X was"" is a question about X's past, not a supposition about X's  future, but english is ""as she is spoke"" :)<p>Another generation or two, and it'll be gone.  No use crying over linguistic evolution.  Static languages belong in the dustbin of history, and that's where they eventually end up.<p>As High Lord of the English Language, I'll allow the use of past tense here.",1214993250

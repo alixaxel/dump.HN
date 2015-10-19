@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+296556,story,,,15,0,tomh,"20 Real-Life Challenges of Cloud Computing",http://java.dzone.com/articles/20-real-life-challenges-cloud-,,1220673500
+296555,story,,,1,0,nickb,"First look: Firefox 3.1 alpha 2 officially released (HTML5 + video tag)",http://arstechnica.com/news.ars/post/20080905-first-look-firefox-3-1-alpha-2-officially-released.html,,1220673208
+296554,story,,,1,0,tomh,"Daydreaming is important business",http://www.kottke.org/08/09/daydreaming-is-important-business,,1220673184
+296553,story,,,5,0,tomh,"Open Source Roboticists On a Path to C3P0",http://ostatic.com/172525-blog/open-source-roboticists-on-a-path-to-c3p0,,1220673031
+296552,story,,,4,3,tomh,"Google Chrome Already Has 1.5% of Browser Share",http://www.webmonkey.com/blog/Google_Chrome_Already_Has_1DOT5PERC_of_Browser_Share,,1220672944
+296551,comment,296388,296533,0,0,zitterbewegung,,,"It seems like the cappuccino version is slower to load compared to the jQuery version",1220672705
+296550,comment,296388,296532,0,0,maximilian,,,"I was going to say that if you're going to compare lines of apples to lines of oranges, you should at least include all the lines of apples that you wrote.",1220672691
+296549,story,,,4,1,nreece,"New version of Google Chrome is available",,"An update (Official Build 1798) is available for download. Simply check the About Google Chrome window.<p>Any ideas, what's been updated? Nothing yet on the Chrome blog: http://blog.chromium.org/",1220672687
+296548,comment,296045,296419,0,0,cstejerean,,,"No, no, no and no. I've been able to work just fine with C/C++ libraries. I would use Jython only when trying to extend an existing Java application or when trying to sneak Python into a primarily Java corporate environment.",1220672632
+296547,comment,230778,230826,0,0,kngspook,,,"How did you get a lifetime account?",1220672398
+296546,comment,296509,296509,0,0,tialys,,,"Yet another post stating something is flawed, yet giving no suggestions as to how to fix it.  Yes, openID is flawed, but until someone thinks of a better way, I think it's good enough.",1220672293
+296545,comment,296520,296520,0,0,watmough,,,"Every time it looked like there might be something cool on Joost, it seemed to be forbidden for me to view in the USA.<p>In the end, I'm just not going to run a dedicated client for something that delivers so little.",1220672288
+296544,story,,,15,10,nreece,"IE6 still kicking: New Gmail code base now for IE6 too",http://gmailblog.blogspot.com/2008/09/new-gmail-code-base-now-for-ie6-too.html,,1220672260
+296543,comment,296388,296525,0,0,nir,,,"For most developers, switching from a Javascript/CSS/HTML based model to a Cocoa/Objective-C one seems to significantly increase complexity...",1220672193
+296541,story,,,2,0,gtani,"McKinsey re: 8 key web trends",http://broadstuff.com/archives/1207-Eight-key-trends-driving-the-Next-Web.html,,1220671913
+296540,comment,295560,295560,0,0,mynameishere,,,"The number of upmods is utterly mysterious to me. Man washes car. Yep. That's what he did.<p>That car costs about 200,000 dollars. It's ugly, like a drugged-up Toyota prius. It costs more than a used twin-engine Cessna. It costs more than a Peterbilt. It costs about as much as a flying fortress [1]. It costs more than 99.99 percent of useful products. It's made of plastic and will not survive its first pothole. It just <i>screams</i> ""douchebag"".<p>""Look at me world!!! I'm a douchebag and I spent 200K to inform you of this fact!""<p>Is it all right if I upload some pictures of a successful appendectomy...cause, you know, ""detailing"" is not really the apex of ""task execution"". I think what we're really seeing here is the most thorough diminishing returns ever executed. Ten minutes with a cloth and dish detergent would have done the job.<p>[1] Well, in pre-inflated dollars. <a href=""http://en.wikipedia.org/wiki/B-17_Flying_Fortress"" rel=""nofollow"">http://en.wikipedia.org/wiki/B-17_Flying_Fortress</a>",1220671438
+296539,comment,296404,296404,0,0,mriley,,,"The Mission has a pretty high concentration of young people, and a lot of the startup people I know live around there. Rent in the area may be more reasonable than elsewhere but not by much, given its popularity. If you aren't here permanently you might try the Sublets/Temporary Housing section of Craigslist - I had good luck there, and you should be able to find something for less than $500/wk.",1220671404
+296538,comment,296494,296494,0,0,ph0rque,,,"I'll be <i>really</i> impressed when someone builds a lego that can assemble another version of itself, given the right parts...",1220671356
+296537,comment,296045,296256,0,0,ii,,,"In Python you can do the same: 'if not bool: ...', 'while bool: ...', '[for ... if not bool]'. Crazy one-liners are also possible.<p>We have just enough <i>formatting flexibility</i> and we prefer <i>readability</i>.",1220671072
+296536,comment,295847,295847,0,0,lallysingh,,,"Open Letter to the Tech Media:<p><pre><code>  Please, please just stop the bad Apple puns.  If this was 
+  1976-8, it would be ok.  But it's 2008.  We've heard them
+  all and it's just terrible.  Please. Just. Stop.
+
+  It doesn't matter if you're for Apple's products, neutral, 
+  or heavily, hatefully against.  We all hate the puns.  
+
+  Think of the poor children who will think that this bad pun
+  behavior is acceptable in civilized society.  I shiver at 
+  the thought of a generation of people speaking in rhyme and
+  pun like old Batman adversaries -- only without the diction.
+
+  Please. Just. Stop.</code></pre>",1220670593
+296535,story,,,5,7,fnazeeri,"Facebook for Spies?  You're kidding, right?",http://www.altgate.com/blog/2008/09/facebook-for-sp.html,,1220670470
+296534,comment,296203,296513,0,0,HeyLaughingBoy,,,"A different article pointed out that modern cars are so quiet that most of the noise is from tires on the road, or air being displaced around the car. Engines are pretty quiet these days on most family cars. I actually listened to a Prius on the road and it really didn't seem noticeably quieter than the Hondas, etc near it.",1220670379
+296533,comment,296388,296388,0,0,natrius,,,"The Cappuccino version pegs my processor when I resize the images, which makes it jerky. The jQuery version resizes the images smoothly. Might want to look into that.",1220670317
+296532,comment,296388,296498,0,0,boucher,,,"It wasn't.  But, it also contains 0 lines of HTML and 0 lines of CSS, while the jQuery demo has about 200 lines of CSS on top of its 50 lines of jQuery.",1220670304
+296531,comment,296096,296096,0,0,DenisM,,,"I could use something like this. We lose plenty of business because ""I'm not confident giving my data to people I don't know much about"".",1220670179
+296530,story,,,1,0,nickb,"Just Ship, Baby",http://www.threeriversinstitute.org/JustShip.html,,1220670162
+296529,comment,45698,45698,0,0,JamesMitchell,,,"Joel on Software makes a similar point:<p><a href=""http://joelonsoftware.com/articles/fog0000000022.html"" rel=""nofollow"">http://joelonsoftware.com/articles/fog0000000022.html</a>",1220670139
+296528,comment,296438,296438,0,0,shutter,,,"I think that the reason we don't see <i>decreases</i> in bloat is because developers generally don't want to <i>remove</i> features once a program has been released.<p>Instead, they strip things down and re-release it as a <i>new</i>, leaner product. Then they're free to break compatibility and features without hindrance.<p>Mozilla -> Firefox being one example.",1220670076

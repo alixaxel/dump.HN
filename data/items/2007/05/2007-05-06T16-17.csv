@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19965,comment,19891,19892,0,0,vikram,,,"Shawn,<p>Try emacs with slime. I think Bill Clementson's Blog has a link to a movie which shows the power of it. I use Visual Studios for my day job. And its poor when compared to emacs+slime. Not only can you goto source code of any function in list by doing Esc-. I really enjoy the fuzzy complete facility. type in a few letters and slime comes up with a likely match for functions you might want to call.",1178470732
+19964,story,,,2,0,Sam_Odio,"If you still don't have a joost invite... now you can invite yourself",http://www.bomega.com/2007/05/06/get-as-many-joostcom-invitations-as-you-want/,,1178470695
+19963,comment,19954,19954,0,0,ralph,,,"Please use the Feature Requests link at the bottom of the page.  People can vote up your post on that thread.  Or find one of the many dupes and vote those up instead.",1178470657
+19962,comment,19956,19957,0,0,vlad,,,"Thanks, Omar!  You're the man!",1178470053
+19961,comment,19948,19948,0,0,busy_beaver,,,"Tcl/Tk? For the 21st century?<p>Ummm.. okay.<p>",1178468816
+19960,story,,,13,5,mattjaynes,"Y Combinator for Dysfunctional Non-Schemers",http://rayfd.wordpress.com/2007/05/06/y-combinator-for-dysfunctional-non-schemers/,,1178468635
+19959,comment,19948,19948,0,0,ecuzzillo,,,"It sounds to be wasting a lot of time proving things about programming, when the spirit of Lisp is usually much more test-driven and not proving things. The stated goal is so that you can go about your normal business, but PROVABLY! I'd say this is much more in the spirit of ML than the spirit of Lisp. ",1178468534
+19958,story,,,1,0,omarish,"The Next Advertising Revolution",http://lastblogger.com/archives/443,,1178468427
+19957,comment,19956,19956,0,0,omarish,,,instantdomainsearch.com,1178468410
+19956,story,,,2,4,vlad,"What was that live-updating AJAX domain name generation web site?",,,1178468314
+19955,story,,,1,0,mattjaynes,"Writing Tools for Digg Users and Handling the Inevitable Digg Effect",http://brian.shaler.name/pages/blog/writing-tools-for-digg-users-inevitable-digg-effect/,,1178468312
+19953,comment,17947,17947,0,0,avocade,,,"Very inspiring, Paul. I'm so sad I missed the talk. Here's hoping you have a gig somewhere around the time of WWDC in June!",1178468058

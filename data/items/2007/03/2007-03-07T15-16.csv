@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2722,comment,2612,2612,0,0,sharpshoot,,,"VC's back teams not ideas. Jeff Taylor is an executor - he doesn't need the money, but its enough to show anyone else in the space who's boss (or the monster). Having money in the bank while funds are still frothy just means they won't struggle in the future. He probably got a valuation he can't match and they are probably looking at monetising their audience in ""offline ways"" which may up the burn rate a tad. That said i'd back jeff taylor too. Good luck to them :)",1173282182
+2721,comment,2689,2706,0,0,notabel,,,"As you pointed out, Google already competes both directly and indirectly with myspace; NewsCorp knew that going in, and went with Google anyway.  I doubt that serving ads for yet another social network would be enough to drive NewsCorp away--and I even more seriously doubt that their contract with Google would allow it.<p>One point about Orkut:  while its growth is phenomenal, most of that growth is in non-US markets, so it does not pose any direct threat to either Friendster or myspace.",1173281818
+2720,story,,,10,1,pg,"5 Phrases You Never Want to Hear in a Presentation",http://www.instigatorblog.com/5-phrases-you-never-want-to-hear-in-a-presentation/2007/03/06/,,1173281688
+2719,story,,,1,0,wbornor,"AT&T vice president says they are committed to municipal wireless.",http://www.muniwireless.com/article/view/5766/,,1173281062
+2718,comment,2260,2260,0,0,azsromej,,,"So far, the approximate average age for a founder based on the responses is (27.8) <p>--<p>require 'hpricot'<p>sum = 0
+count = 0.0<p>file = Hpricot(File.open(""comments.htm"",""r""))<p>file.search(""span.comment/font"") do |line|
+  if line.inner_html =~ /([^\s][0-9]+[.,\s])/
+    number = $1.strip.to_i
+    if number gt 10 && number lt 70
+      sum += number
+      count += 1
+    end
+  end
+end<p>puts ""average age of founder is: "" + sprintf(""%.1f"",sum/count)
+",1173280603
+2717,comment,2717,816,0,0,pg,,,"Not so fast; we are pretty good at repairing ideas.",1173280428
+2716,story,,,2,0,veritas,"France Bans Citizen Journalists from recording violence",http://www.infoworld.com/article/07/03/06/HNfrancecitizenjournalists_1.html,,1173280269
+2715,comment,2713,2713,0,0,pg,,,"I'll check my mail.  Meanwhile I'm marking this dead;
+nothing personal.",1173279722

@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70744,comment,70711,70718,0,0,Zak,,,"Ubuntu also has a more predictable release schedule than most distributions - especially Debian. I have yet to try the server version. How does it compare to Debian? Unfortunately, Ubuntu server doesn't support PowerPC, which the OP says is a requirement.",1192910315
+70743,comment,70675,70732,0,0,bct,,,"> They say things like auctions, but I don't see what's wrong with SQL for those.<p>For local data sets, SQL's great. For remote, centralized data sets you can use something similar.<p>But once you want to combine data sets spread out over several sites (say, combining IMDB with local movie listings) you need to express that data in a format with globally unique identifiers and distributed extensibility. That's RDF. You can still have a nice query language, see SPARQL (which is much nicer than SQL, IMO).<p>> And if you used Google to search the web for millions of currently-listed auctions on webpages in XML format, you'd have a difficult time trying to find what you want.<p>Sure, if you're just doing full-text search like Google does. Of course, the point of having machine-readable data is that you're not limited to full-text search.",1192910123
+70742,comment,70711,70711,0,0,tedchoward,,,"I've been using CentOS for my linux server os.  I'm a little partial to ThinWire (thinwire.com) for a Java web framwork.  Never used Helma, looks interesting.
+",1192909472
+70741,comment,70723,70740,0,0,gscott,,,"There is a VH1 show that should be manditory viewing for all readers of HN, search around here for results.  This is like hacking the female mind:
+<a href=""http://www.youtube.com/results?search_query=vh1+mystery"" rel=""nofollow"">http://www.youtube.com/results?search_query=vh1+mystery</a>
+",1192908993
+70740,comment,70723,70723,0,0,rglullis,,,"I am not sure what was the point of <i>your comment</i>. Are you trying to encourage the guys here to be more manly? More sexually active? To get more girls?",1192908539
+70739,comment,70700,70700,0,0,aswanson,,,"Why more groups with an established fan base don't do this escapes me.  Hard to stop sharecropping, I guess.",1192908405
+70738,comment,70706,70731,0,0,aswanson,,,"I know exactly what you mean.  I'm in my thirties and I definitely don't have the ridiculous level of drive (or stupidity) that I did in my late teens and early twenties.  Maybe it's just the lack of free time.",1192908261
+70737,comment,70453,70532,0,0,chengmi,,,"How about this: <a href=""http://www.diyseotools.com/images/site/yahoo_logo_white.gif"" rel=""nofollow"">http://www.diyseotools.com/images/site/yahoo_logo_white.gif</a>",1192907987
+70736,story,,,3,0,aswanson,"Mass Spectrometry for drug trials",http://economist.com/displaystory.cfm?story_id=9974808,,1192907782
+70735,comment,70710,70710,0,0,henning,,,"Evidently this guy is smart as shit: <a href=""http://www.robbywalker.name/timeline.html"" rel=""nofollow"">http://www.robbywalker.name/timeline.html</a>",1192907492
+70734,comment,70711,70726,0,0,sspencer,,,"Seconding this option.  Gentoo is the way to go if you are used to BSD.
+",1192907267

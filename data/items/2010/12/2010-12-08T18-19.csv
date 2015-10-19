@@ -1,0 +1,442 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1984119,comment,1983124,1983431,0,0,jlgosse,,,"Another thing, the people who think that bringing down Mastercard is going to help Wikileaks in any way need a serious reality check.<p>Why would anyone do business with someone if there was even a tiny chance that they would get screwed over the next day to the tune of MILLIONS and MILLIONS of dollars. The fact that mastercard.com is down and their SecureCode service is offline has already cost thousands of small businesses millions of dollars. Do you think these companies are going to support something like Wikileaks after this event?",1291834791
+1984118,story,,,3,0,Jd,"Winners and Losers: Thoughts on the Heroku Aquisition",http://d3developer.com/2010/12/08/winners-and-losers-thoughts-on-the-heroku-aquisition/,,1291834791
+1984117,comment,1984037,1984037,0,0,metageek,,,"Interesting, but specific to San Francisco.",1291834784
+1984116,comment,1983086,1983695,0,0,jacobbijani,,,"I had this issue for weeks. I finally jokingly tried logging out and everything worked for me. Could try that...",1291834782
+1984115,story,,,3,1,EGreg,"Ask HN: Would Apple reject this app?",,"Here is a chat I had in #iphonedev on freenode. I am torn between making an app better for 90% of my users (as confirmed by actual user testing) and following Apple's Human Interface Guidelines to the letter.<p>What are the chances it will get rejected? See below.<p><pre><code>  <EGreg_> hey guys
+ <EGreg_> would apple reject my app for using a tab-bar instead of a toolbar
+ <EGreg_> http://grab.by/7NnH
+ <EGreg_> in my user testing, fully 90% of the users had no idea what the buttons did
+ * _rush_ has quit (Ping timeout: 245 seconds)
+ <EGreg_> so I am trying to delight my users but am afraid that Apple will reject the app for using a component in a ""non standard way""
+ <KucukMubasir> EGreg_: have you read HIGs ?
+ <EGreg_> yes
+ <KucukMubasir> if you don't violate it, why should it be rejected
+ <EGreg_> it violates apple's HIG
+ <EGreg_> but in real world testing, the version I just linked to: http://grab.by/7NnH   is understood right away byt he users, whereas the version that follows HIG draws blank stares from 90% of users, and of them 50% are unable to complete ""select all"" without assistance
+ <EGreg_> what to do?
+ <ilteris> drunkn718: actually if you look at the examples you there's a session object which takes care of the authorization. it's in the samples
+ <EGreg_> http://grab.by/7No1
+ <KucukMubasir> EGreg_: I have no idea; but if it violoates...
+ <KucukMubasir> toolbar buttons don't stay as selected unlike tabbar ones, right?
+ <EGreg_> in order to follow HIG I have to make my app LESS understandable by 90% of people
+ <EGreg_> as comfirmed empirically in user acceptance testing
+ <EGreg_> tabbar buttons don't have to stay selected
+ <Codhisattva> the problem isn't tabbar vs toolbar
+ <Codhisattva> the problem is select all doesn't belong down there at all
+ <EGreg_> where does it belong, then?
+ <EGreg_> if not right underneath the checkmarks
+ <KucukMubasir> EGreg_: why don't you put it to the top?
+ <EGreg_> and where would it appear, exactly?
+ <EGreg_> the top is already taken up by the search bar
+ <jer> EGreg_, add a segmented control to the toolbar, move one of the buttons (i.e., the right + button) into the segmented control
+ <Codhisattva> I doubt select all is even all that useful
+ <EGreg_> oh, so now we are talknig about taking out the select all option, all because of the inability of app developers to put captions on their icons
+ <Codhisattva> :)
+ <EGreg_> codhisattva: sure, why not let the user manually select 100 contacts :)
+ <EGreg_> If you are suggesting somehow completely rearranging the interface, taking out the Select All button, taking out the +, and so on, in order to satisfy some misguided insistence that icons MUST NOT have captions, I would ask, why not simply add captions to the icons?
+ <BleuLlama> if users are confused by your toolbar icons, you need better toolbar icons.
+ <jer> if your tabbar doesn't have captions on its icons, you have a UX problem
+ <Codhisattva> EGreg_: if by ""confused"" you mean ""they had to try it to find out what it was"" then sure. *Icons* are almost always like that.
+ <EGreg_> Once again, the factor that changes users perception *IS* adding captions underneath icons.
+ <EGreg_> Codhisattva: users should not have to try something in order to understand its function
+ <jer> EGreg_, you are going about this entirely the wrong way
+ <Codhisattva> EGreg_: and that is the crux of your problem
+ <jer> you're trying to patch your UI in a way that conforms with what your users want given this particular UI
+ <Codhisattva> EGreg_: that is *exactly* the wrong frame of mind for a UI developer
+ <EGreg_> Codhissatva: a UI developer must pay attention to ACTUAL user testing and ACTUAL user use. Not a crystal ball
+ <jer> EGreg_, right, and when something isn't working how you want and you won't get it through review, you try other UIs and resubmit to your team of users
+ <Codhisattva> the primary reason why icons have meaning to users is experimentation
+ <EGreg_> ACTUAL user testing reveals with a HUGE statistical significance margin, that the problem is lack of captions under icons.
+ <EGreg_> So tehrefore I ask, can I put captions under icons?
+ <jer> on the tabbar?
+ <jer> you have them already
+ <EGreg_> I am forced to use a tabbar because the toolbar does not support icons+captions
+ <EGreg_> All I am asking is
+ <EGreg_> Will apple reject the app for the sole reason that it uses a tabbar when it ""should have"" used a toolbar (and thus made 90% of users confused)
+ <EGreg_> That seems preposterousto me and I am just wondering whether apple would do it
+ <Codhisattva> EGreg_: let us know how that works out
+ <EGreg_> I'm asking YOU
+ <BleuLlama> regardless, users (and apple) have an expectation that a (Tab bar|other element) does one thing and your app ueses it dfferently, then it causes issues.
+ <BleuLlama> apple has defined certain elements to be used in certain ways.  past that, it's your job to use visual cues as to what the user can do.  If it's unclear, then you need different visual cues (icons, eg)
+ <EGreg_> I presume it is ""Apple is King and we cannot use empirical reality to serve as a basis for our decisions. If empirical reality says that an interface change will hurt the experience for 90% of users, we must IGNORE it because Apple's HG is sacred.""
+ * pLk has quit (Quit: pwned!)
+ <BleuLlama> EGreg_: pretty much
+ <jer> LOL
+ <jer> you're funny
+ <EGreg_> crap, that's what I thought :(
+ <BleuLlama> Apple defined it, we go along with it.  If you have issues, submit a radar to apple, and they might change it
+ <EGreg_> radar?
+ <BleuLlama> the joys of closed platform development, and agreeing to their terms when joining.
+ <BleuLlama> radar.  bug/issue report, feature requests, etc.
+ <EGreg_> I just don't understand this particular policy of not putting captions underneath icons
+ <EGreg_> no matter how clear an icon is, it is not clear to a first time user
+ <EGreg_> imagine if all your macos menus were icons :)
+ <EGreg_> and you had to just ""try them out"" to know what they did!!
+ <BleuLlama> i'd love it if they were.
+ <jer> i'd prefer if they were
+ <jer> xcode's menu takes up a ton of screen real estate
+ * EGreg_ now knows what is meant by apple minions
+ <EGreg_> lol
+ <jer> of course, tbh i still to this day prefer the NeXTSTEP app menus, vertical not horizontal
+ <EGreg_> sure, you should have the OPTION of removing the captions
+ <BleuLlama> apple has good designers, they'd come up with good icons that describe what they did well.
+ <BleuLlama> and if not, i'd read the info/readme/help and know
+ <EGreg_> bleullama: okay but I am trying to draw attention to the actual problem.
+ <EGreg_> No matter what icon is used for ""select all"", it is not clear unless it says ""select all""
+ <EGreg_> This has been VERIFIED. By actual TESTS.
+ <EGreg_> We tried a circle with a checkmark, a square witha  checkmark, a checkmark
+ <wiliz__> EGreg_: what does this screen do? sends email/sms to all selected contacts?
+ <EGreg_> argh this is just so frustrating. For apple to reject my app because it implements an interface change that helps most users (not in their imagination) go from WTF to OH COOL
+ <EGreg_> wiliz__ YEP easy to understand right? :)
+ * cying has quit (Quit: cying)
+ <EGreg_> even though there are only 2 fake contacts on it
+ <jer> EGreg_, so plead your case to apple, file a radar, and cross your fingers and toes
+ <EGreg_> what's ""filing a radar""?
+ * esses (~esses@94.166.161.120) has joined #iphonedev
+ <wiliz__> EGreg_: why not first create the email and then select the contacts? that is how mail app works
+ <EGreg_> jer: let me also point out that there are dozens of more horrible non standard apps in the apple store. I doubt they would reject this actually
+ <BleuLlama> EGreg_: check out the photos app. it lets you select multiple items.  Mail.app does multiple item selection as well.
+ <jer> EGreg_, if there were only dozens i'd be surprised
+ <EGreg_> wiliz__ because apple does not let any such functionality be developed by 3rd party apps
+ * Modius has quit (Ping timeout: 264 seconds)
+ <EGreg_> jer: so then what am I worried about
+ <EGreg_> 99% of this app is HIG compliant
+ <EGreg_> i'm just worried about the 1% :) most apps have like 20% lol
+ <EGreg_> http://www.lehigh.edu/~sol0/TabBarGradient.jpg
+ <BleuLlama> EGreg_: try this. move that tab bar to the top. and resubmit.
+ * flyman_ has quit (Quit: This computer has gone to sleep)
+ <BleuLlama> er. that ""Tab bar""
+ <BleuLlama> since it's not really used as a tab bar
+ <BleuLlama> ;)
+ <BleuLlama> yes, screen placement is important.
+ <EGreg_> hmm interesting ide moving it to the top
+ <EGreg_> it goes against the actual use of the app though (select users, then do something)
+ <wiliz__> EGreg_: i don't know, as a list? i just got the impression that ""send the selected items as an email/sms""
+ <BleuLlama> users expect controls for the current view to be at the top
+ <EGreg_> but I like it
+ <BleuLlama> and different view selectors at the bottom
+ <EGreg_> nice idea
+ <EGreg_> wbleu ios toolbars are always on the bottom
+ <EGreg_> eg in photo app
+ <jer> ios toolbars are not always on the bottom
+ <EGreg_> they aren't?
+ <jer> no
+ <EGreg_> show me an apple app where they are not
+ <jer> photos
+ <jer> there's two
+ <jer> bottom and top
+ <EGreg_> i see no toolbar at top
+ <EGreg_> where do you see it
+ <EGreg_> the top one is a navigation bar
+ <BleuLlama> music playback now playing has a tool bar thing that appears under the nav bar
+ <EGreg_> jer: the toolbars are always on the bottom in apple apps, agree?
+ <jer> EGreg_, do not agree
+ <EGreg_> You see! Your suggestion violates HIG:
+ <EGreg_> Appearance and Behavior
+ <EGreg_> On iPhone, a toolbar always appears at the bottom edge of a screen or view, but on iPad it can also appear at the top edge.
+ <BleuLlama> guess i'm on igonre now.
+ <EGreg_> See what I mean? Slavishly sticking to the HIG we are probably all violating it.
+ * BleuLlama is off to do something else.
+ <EGreg_> bluellama no I hear you :)
+ <jer> EGreg_, open up photos, pick a photo, any photo. tap on it once. you see all the 5 icons at the bottom, that's on a toolbar, and at the top you see another toolbar
+ <EGreg_> I am just a little frustrated because I am trying to keep close to the HIG and everyone's acting so high and mighty ""NO, Don't put readable captions on icons!"" and then it turns out EVERYONE is violating the HIG in some other way :)
+ <EGreg_> jer: Appearance and Behavior
+ <EGreg_> On iPhone, a toolbar always appears at the bottom edge of a screen or view, but on iPad it can also appear at the top edge.
+ <EGreg_> on the top is a NAVIGATION bar, not a toolbar
+ <esses> bye
+ <BleuLlama> i don't put toolbars at the top. just suggested it as a way to sneak your misused tab bar in as a toolbar
+ <jer> EGreg_, nonsense... i have one iphone app with only one toolbar, it lives at the top because i pop an ad up from the bottom and it looks better this way
+ <jer> it's on the store
+ <EGreg_> well then you have violated HIG blatantly and got in the store :)
+ <EGreg_> which is cool by me
+ <jer> so what?
+ <EGreg_> EXACTLY! So what!
+ <jer> the HIG does not prohibit placing a toolbar at the top
+ <jer> read it
+ <jer> =]
+ <BleuLlama> apple is MUCH more concerned about misuing a widget with expected behavior than placement of that widget.
+ <jer> BleuLlama, right
+ <nissefant> Example a scrollbar that is 70% a scrollbar
+ <EGreg_> I just quoted to you how it prohibits it:
+ <EGreg_> Appearance and Behavior
+ <EGreg_> On iPhone, a toolbar always appears at the bottom edge of a screen or view, but on iPad it can also appear at the top edge.
+ <EGreg_> three times
+ <jer> i'm not seeing ""Apperance and Behaviour"" here: http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html
+ <jer> so link me to the subitem
+</code></pre>
+Anyway we go round and round but no one really knows anything about Apple's process. My guess is, with all the other bad apps, I should be fine with a toolbar that has CAPTIONS under the icons, right?",1291834772
+1984114,comment,1983124,1983586,0,0,Dylan16807,,,"You don't need to scale up to solve a problem of slow active connections.  You just need to use a frontend web server that doesn't allocate a thread/process per connection.",1291834764
+1984113,comment,1983229,1983229,0,0,cafard,,,"F#, Haskell, Clojure<p>Chinese, Sanskrit, Spanish",1291834763
+1984112,comment,1983070,1983712,0,0,bryanh,,,"I absolutely agree with you, I can imagine the time I'd spend digging around on my own little VPS after a break-in... I really meant ""How insane are the rules for sentencing based on arbitrary $$$ values.""",1291834704
+1984111,comment,1983881,1984044,0,0,mahmud,,,"Define ""run like shit"". Would 1.5x - 3x the C++ speed be acceptable if your code was 70% more compact and proven secure, not to mention a joy to write?<p>Not everyone trades efficiency for reliability and comfort. Some people really get to have their cake and eat it too.",1291834695
+1984110,story,,,1,0,SheerazRaza,"Nexus One gettin' GingerBread in few weeks",http://www.geekword.net/nexus-one-gingerbread-release/,,1291834688
+1984108,comment,1983124,1983851,0,0,follower,,,"> Anon can hurt MasterCard without cost to himself (presumably)<p>Presumably getting caught and jailed/fined is a potential cost? So it's not an action without risk/cost.",1291834652
+1984107,comment,1983984,1983984,0,0,ghurlman,,,"This article in response to <a href=""http://news.ycombinator.com/item?id=1981789"" rel=""nofollow"">http://news.ycombinator.com/item?id=1981789</a>",1291834639
+1984106,story,,,4,1,vchien,"Silicon Valley 100 ",http://www.businessinsider.com/sai,,1291834627
+1984105,story,,,4,0,billswift,"First Private Spacecraft in Orbit After Perfect Launch",http://gizmodo.com/5709153/the-first-private-orbital-spacecraft-launch?skyline=true&s=i,,1291834613
+1984104,story,,,1,3,smarterchild,"Ask HN: Who's using Facebook login on their site? (Is it necessary now?)",,"Hi HN,<p>I'm thinking of adding Facebook logins to my site; however, they apparently require me to link it up to my personal FB account (or at least, want my credit card/mobile number).<p>Has anyone added FB logins to their site and tracked how many people use it? I'm trying to decide if this is something I need to do.",1291834611
+1984103,comment,1984042,1984042,0,0,tlrobinson,,,"If you have an application built with Cappuccino on the Web Store it would be great if you added a line to the description to allow us to find all the Cappuccino apps, something like ""Built with cappuccino.org"" would be perfect.",1291834577
+1984102,comment,1983250,1984051,0,0,kiba,,,"I don't believe in the possibility of an educated electorate or an electorate that can resist the temptation to vote itself money.",1291834577
+1984101,comment,1983766,1983906,0,0,dhbanes,,,"That's a CDC 6600 arm you're looking at, not a rack. They were limited by wire length (longer wires increased latency).",1291834573
+1984100,comment,1975445,1977392,0,0,inklesspen,,,"iTunes sells AAC music files: music that you can listen to on any device that supports AAC, which is a part of the MPEG-4 standard (just like MP3 is a part of the MPEG-1 and MPEG-2 standards). This AAC music used to be sold with Apple DRM on it, but no longer does. And of course there is a technical advantage; AAC sounds better at low bit rates than MP3 does.",1291834571
+1984099,story,,,2,0,mofeeta,"On Those 'Stunning' Shangai Test Scores",http://www.theatlantic.com/national/archive/2010/12/on-those-stunning-shanghai-test-scores/67654/,,1291834568
+1984098,comment,1984063,1984063,0,0,metageek,,,"><i>At the end, improving the quality of comments doesn't depend on the caps lock key.</i><p>It was a <i>joke.</i>",1291834568
+1984097,comment,1983141,1983141,0,0,Malcx,,,"I know you're not taking any more design requests at the moment - but could you put a reminder form on your site that emails when you are? By Monday I'll have forgotton all about you.",1291834539
+1984096,story,,,1,1,dereking,"How can you tell if a person is a programmer? - Stack Overflow",http://stackoverflow.com/q/895296/287893,,1291834535
+1984095,comment,1983124,1983124,0,0,faragon,,,"Better attack: reduce the credit card usage, and try to pay more with cash. As both MasterCard and Visa (the ones against Wikileaks) take the gross of its revenue from retail and pay by credit, that could really hurt them... but without doing anything illegal. It's just business: you fuck Wikileaks, I reduce your profit, dear [put your favourite megacorp name here].<p>Boycott list:<p><pre><code>    * Amazon (Amazon stops hosting WikiLeaks website [Reuters, 20101202])
+    * Tableau Software (Another Falls: Tableau Software Drops Wikileaks Data Visualizations [20101202])
+    * Everydns.net (WikiLeaks fights to stay online after US company withdraws domain name [guardian.co.uk, 20101203])
+    * Paypal (WikiLeaks loses PayPal revenue service [cnn.com, 20101205])
+    * PostFinance (Swiss bank freezes WikiLeaks founder's legal defense fund [rawstory.com, 20101206])
+    * MasterCard (MasterCard pulls plug on WikiLeaks payments [cnet.com, 20101206]
+    * Visa (WikiLeaks loses PayPal revenue service [ibnlive.in.com, 20101207])
+    * Twitter??? (it was or it wasn't censorship?)</code></pre>",1291834533
+1984094,comment,1983394,1983394,0,0,notyourwork,,,"My sister works for a small company and dealt with the BBB.  This article is on par with their experience.  Because they were a small company, they decided not to get involved with the BBB.  Only then did they realize that if you do not you start out with a bad mark if someone looks up your company.  I believe she said a ""C-"" was given to them by not being a member of the BBB.  The only way to resolve this was to become a member.  Talk about racketeering.",1291834523
+1984093,story,,,1,0,andrelaszlo,"A comprehensive list of currently online WikiLeaks mirorrs",http://wikimirrors.laszlo.nu,,1291834520
+1984092,comment,1982941,1982941,0,0,abhimishra,,,"I've been using OSX and Win 7 for the last several months but I was pleasantly surprised by how nice the experience in Ubuntu 10.10 has been.<p>On my laptop that runs it, I did not have to once manually configure anything.  No command-line magic, no struggling to get random things working, zip.  It all just worked.<p>The experience has been very fluid, with notifications floating down along the right side, update notifications from Synaptic, etc.  I am not a Linux fanboy by any stretch, but for once it isn't completely off the mark to say that Linux is catching up in the consumer space.<p>I tested this notion out recently when a (non-tech) friend wanted to use my laptop for something and did not even realize that he was using Linux.",1291834516
+1984089,comment,1983969,1984018,0,0,noodle,,,"i don't really want to give it an upvote because its unrelated and it has an affiliate tag.  sets a precedent.  i might be ok with one or the other, but not both.",1291834494
+1984088,comment,1984081,1984081,0,0,mcav,,,"Also see his followup comments:<p><pre><code>        > I know, by the way, that this article says to abandon date based
+        > hierarchies. But that was based on the idea of having only a slim
+        > selection of the very best things online, whereas I think now that
+        > breadth is important. And in a breadthy system, you pretty much have
+        > to use W3C date style organisation.
+        > 
+        > Perhaps I should write an update to the Organisation article. One of
+        > the main things worth saying more about is that much of this comes
+        > down to an attitude of looking at your old articles.
+        > 
+        > When you look back at old articles, it's easy to see what dates and
+        > what doesn't. Then you have to start trying to use that mindset when
+        > you write new articles, though you shouldn't let that put you off of
+        > experimentation and the like.
+</code></pre>
+(via <<a href=""http://groups.google.com/group/whits/browse_thread/thread/14a8b7bc44eb87ae>"" rel=""nofollow"">http://groups.google.com/group/whits/browse_thread/thread/14...</a>)",1291834466
+1984087,comment,1983766,1983987,0,0,ulysses,,,"It doesn't seem that odd to me.<p>I can see carrying around multiple phones to test the features and usability against each other.<p>I can see testing the GPS in multiple phones against one or more dedicated GPS units.",1291834437
+1984086,comment,1983224,1983658,0,0,jhandl,,,"Sphinx does not store data, so you have to get it from your database to display results, it doesn't have query auto-suggest, etc.<p>But most importantly, you don't have to deal with installing, configuring, managing and scaling a sphinx setup. IndexTank is cloud-based, you don't have to deal with servers, RT indexes, hadoop, and so on. We worry about all that.",1291834435
+1984085,comment,1983327,1983327,0,0,InclinedPlane,,,"If a foreign government had done this rather than a private US corporation it would be heralded as the start of that country's manned space program and receive far more coverage in the media.<p>As it stands this is probably much more significant than if a government had done it, it heralds a new era of private manned spaceflight. An era that may see space travel opened up not just to a handful of carefully selected astronauts but to the entire public at large.",1291834430
+1984084,story,,,472,103,jayro,"How I Screwed Up My Google Acquisition",http://www.codusoperandi.com/posts/how-i-screwed-up-my-google-acquisition,,1291834424
+1984083,comment,1981256,1982926,0,0,muitocomplicado,,,"That's great, thanks for sharing.",1291834381
+1984082,story,,,1,0,protomyth,"TI Reveals OMAP4440",http://www.anandtech.com/show/4053/ti-reveals-omap4440-specs-dual-15ghz-cortex-a9-25-faster-gpu-hdmi-14-3d-1080p60,,1291834364
+1984081,story,,,1,1,mcav,"An Essay on How to Organise Hypertexts",http://inamidst.com/stuff/2010/organise,,1291834359
+1984080,story,,,3,0,fromedome,"The Silicon Valley 100 -- the 100 people who did the coolest things this year",http://www.businessinsider.com/sv100/2010,,1291834339
+1984079,comment,1982817,1984075,0,0,jpwagner,,,"So any acquisition of Heroku would've been ""bad news""?",1291834320
+1984078,comment,1978295,1981979,0,0,pwhelan,,,"They do. They are also paid extrememly well for that area.",1291834318
+1984077,comment,1983969,1983969,0,0,cshenoy,,,Huzzah!,1291834316
+1984076,comment,1981782,1983673,0,0,catshirt,,,"Ah- of course I did see that- but I misinterpreted the rest as a ""I agree, but you could consider it a requirement because..."". Rereading it I realize that's not the case. Cheers!",1291834312
+1984075,comment,1982817,1983992,0,0,sabat,,,"I don't know that it's so much about disdain for Salesforce -- I'm just a bit concerned about what a large company like that can and will do to Heroku.",1291834272
+1984074,comment,1975445,1983501,0,0,inklesspen,,,"The Kindle can already read DRM-free Mobipocket and PDF ebooks.",1291834248
+1984073,comment,1983086,1983086,0,0,woogley,,,"Works for me in 7.0.521.0 (r58939) - running OSX 10.6",1291834239
+1984072,comment,1983141,1983340,0,0,notyourwork,,,"Can we quantify ""a bit""?  How much further?",1291834231
+1984071,comment,1983250,1983741,0,0,iuyhgthyujik,,,"The tension in the middle east dates back to when ug the cavemen decided the sun was god and zog the caveman decided the moon was god.<p>Take any news report about the middle east and replace the names with cananites, babylonians, persions, egyptians, romans, etc - the story doesn't change.<p>In fact if you read any books by Josephus - it sounds just like CNN (except better written)",1291834211
+1984070,comment,1983141,1983141,0,0,oogali,,,"Uhm, how about you team up with one of the many PSD-to-HTML services and do it soup-to-nuts, or at least get referral compensation from said services?",1291834208
+1984069,comment,1978295,1983596,0,0,pwhelan,,,"Not everything is binary. Other people have different motivations than you. Not everyone does an Ironman for bragging rights. Not everyone starts a company for bragging rights.",1291834190
+1984068,comment,1983124,1983747,0,0,eli,,,"How is it being a bully to deny service to a customer who may or may not be committing a crime? There is no inalienable right to have a credit card merchant account.",1291834184
+1984067,comment,1982903,1982992,0,0,gtani,,,"Here's the rest of top 22, from<p><a href=""http://news.ycombinator.com/item?id=1872237"" rel=""nofollow"">http://news.ycombinator.com/item?id=1872237</a><p>objective-C, C#, emacs lisp<p>actionScript, haskell, lua<p>scala, clojure, ASP<p>erlang, common Lisp, groovy",1291834172
+1984066,story,,,1,0,nrj,"Everyone's a Hacker",http://goto11.net/everyones-a-hacker/,,1291834165
+1984065,story,,,13,4,judofyr,"Follow-up: Why there is no talent",http://timeless.judofyr.net/why-there-is-no-talent,,1291834164
+1984064,comment,1983141,1983141,0,0,snorkel,,,"I bounced out immediately due to lack of Latest Design samples. I get the concept, like it, but gotta have examples.",1291834132
+1984063,story,,,2,1,billswift,"Google Wants to Take Your Caps Lock Away",http://gizmodo.com/5708638/google-wants-to-take-your-caps-lock-away,,1291834112
+1984062,comment,1982489,1982489,0,0,spencerfry,,,"Congrats, guys! We'll see what comes from this.",1291834076
+1984061,story,,,8,1,malbiniak,"Yes, but who said they’d actually BUY it?",http://www.building43.com/blogs/2010/12/08/yes-but-who-said-theyd-actually-buy-the-damn-thing/,,1291834069
+1984060,comment,1977720,1978472,0,0,kls,,,"<i>Oracle has been quite clear that Java will continue as it always has for normal, non-paying customers</i><p>Not on mobile that have not, in fact they have stated quite the opposite. With mobile projected to surpass desktops in 18 months that is cause for concern. Make no mistake about it, the wranglings with Apache and the patent suit with Google are intricately related. This is all about ownership of mobile.",1291834067
+1984059,comment,1982489,1982531,0,0,ryanmickle,,,"Let's get this straight, Marc Benioff doesn't give a damn about startups. His clients are the Fortune 500. When he thinks about the current clients of Heroku, he gags (and sees how much money can be made by selling to CTO and CIOs at companies like Boeing, Dell, Starbucks, etc.).",1291834044
+1984058,comment,1980970,1980970,0,0,cd34,,,"Are you trying to get FU money to quit everything, or FU money to reorganize and attempt something?<p>I've always called that a freedom number, $7m in the bank, live off the interest.  Enough income that I would not be required to do anything to ensure a somewhat healthy survival.  No having to worry about deadlines for projects, hustling to get a new contract from a client signed, etc.  That doesn't mean I stop working on tech, it means that I start working on tech that I want to work on.<p>I'm sort of lucky in that my current job does include a lot of things I enjoy working on, but, does contain some drudgery that I don't enjoy.  Is it worth 20x7?  Maybe.<p>Or, are you looking for FU money to go out and start your own thing?  In that case, 3x annual subsistance for you and a few partners, then budget 18 months to have a marketable product/service.  You leave the current situation and take control of your own destiny.<p>There are ways to generate passive income if you have excess income from your current situation.  You just need to define what type of FU money you're looking for.",1291834040
+1984057,story,,,1,0,revorad,"Will Stumble Upon Redefine Internet Advertising?",http://techland.time.com/2010/12/07/will-stumbleupon-redefine-internet-advertising/?utm_source=sut&utm_medium=link&utm_campaign=sut,,1291834037
+1984056,comment,1983141,1983174,0,0,tlrobinson,,,"I'd rather do something I enjoy for slightly less money than get an office job or flip burgers.",1291834037
+1984055,comment,1983141,1983805,0,0,eli,,,"Apps accounts don't play well with a lot of google services. It's quite complicated to grant Google Analytics access to an Apps account.",1291834011
+1984054,comment,1983141,1983989,0,0,zabraxias,,,"Intermediate level front-end web developers are costly due to high demand and the work is arguably more difficult. I agree the $150 might be great for someone offshore though.<p>In any case I like the idea behind the $15 blind design since designers tend to suffer from ""I like it but..."" with indefinite tweaks and last minute changes. I wouldn't be surprised if customers end up going through several iterations...which would still be inexpensive in this case.",1291834008
+1984053,comment,1983446,1983983,0,0,dalke,,,"Then let's talk about the specific case of the Cuban Missile Crisis. The negotiation was secure and done in secrecy. That secret wasn't made public until many years later.<p>The communications was secure. The information is no longer a secret. Is it still private?<p>If secure == private then do you consider legal document declassification the same as a security hole? A breaking of privacy?",1291833984
+1984052,comment,1982870,1982870,0,0,Kilimanjaro,,,"UX TIP:<p>To scroll I have to go to the bottom of the page and click on the little arrow. Go to the other side if I want to go back.<p>The mouse solved that problem last millenia with the scroll wheel. Anywhere on the page, if I decide to scroll, it will scroll, right there, without moving the pointer or my eyes. Simple huh?.<p>If I want to scroll, just let me scroll. Don't impose restrictions on me.",1291833980
+1984051,comment,1983250,1983315,0,0,iuyhgthyujik,,,"> doing evil something behind the back of the electorate? How would we know about it?<p>I think the existence of an 'administration' and an 'electorate' pretty much guarantees that they are doing something evil behind your back.",1291833960
+1984050,story,,,3,0,MotorMouths,"We Are NY Tech",http://wearenytech.com/,,1291833917
+1984049,comment,1983141,1983141,0,0,tlrobinson,,,"Not a bad idea if you can make the numbers work.<p>One variation would be to charge $15 per iteration. The first one might take you 2 hours, but each additional iteration might only take 15 minutes, in which case it becomes more economical.",1291833910
+1984048,comment,1983070,1983625,0,0,EliRivers,,,"No no, ""Nej"" means no. :)",1291833895
+1984047,story,,,2,0,philfreo,"Git deployment workflow using tags",http://davidsmalley.com/git-deployment-workflow-using-tags,,1291833891
+1984045,comment,1983670,1983670,0,0,matthiaswh,,,"Wow. Can't wait to see what you have to say about 2011. I hope they're all positive predictions, because everyone knows what is coming in 2012. :)",1291833885
+1984044,comment,1983881,1983881,0,0,steve918,,,"High level languages require less boiler plate, news at 11.<p>You could probably replace it with 10k lines or Python or Ruby too, but it would run like shit compared to the C/C++ version, but because this is HN and they are using lisp, this is news.",1291833881
+1984043,story,,,1,0,adeelarshad82,"Study: Android users are most aggressive when it comes to data consumption ","http://www.pcmag.com/article2/0,2817,2374032,00.asp",,1291833816
+1984042,story,,,32,6,Me1000,"Cappuccino Apps and the Web Store",http://cappuccino.org/discuss/2010/12/08/cappuccino-apps-on-the-web-store/,"After only a few hours eight Cappuccino apps have shown up on the Google web store!",1291833814
+1984041,comment,1983879,1983879,0,0,david_shaw,,,"Let's start with the critique, then move on to the compliments.<p>I'm not sure that the icons in your introductory statement help your cause. They look cool and professional, but make reading the statement a little disjointed. Sometimes you're using the icons like a noun (""Thumbs Up"" is smart, and gets things done), while other times they seem to be just images off to the side. I would put one (1) icon per sentence, at the end of the sentence so as not to make the paragraph seem disjointed.<p>You should read your resume aloud so that you catch any typoes. For example, you say 'having wore multiple hats,' but that should really be having <i>worn</i> multiple hats.<p>You say 'he' a lot, while speaking about yourself in third person. If this is supposed to be an 'objective' statement, it's okay to actually make it about you.<p>I like the nice layout of skills and interests, but some of them seem totally pointless. Freenode does not need to be on your resume. Unless you're working on or with them, neither do the plethora of blogs and people you have listed (Joel on Software, Zen & The Art of Motorcycle Maintenance, <i>Steve Jobs?!</i>). Honestly, all of those things that aren't a skill you have or a tool you use shouldn't be there. A hiring manager does not care that you like xkcd or read <i>How to Win Friends & Influence People</i>.<p>The 'Experience' section, however, looks great! I love the little skill buttons that you put under each position: great call! It might not hurt to have a small blurb about what exactly you did there, but with the buttons I'm not even sure that that is necessary.<p>The tl;dr here is that you have way too many gimmicks and unnecessary information on the first page (although it <i>does</i> look pretty, you UX Engineer, you), but the second page is almost perfect.<p>Good luck in your job search!",1291833800
+1984040,comment,1983124,1983828,0,0,jbooth,,,"It's generally understood that refusing to do business with someone for political reasons, unless the person's politics involve genocide or something, is against the social contract.  Not illegal, but generally not approved of by anyone (unless you have the whole US media playing the mccarthy card against the person, apparently).",1291833754
+1984039,comment,1982945,1982945,0,0,grayhairmomma,,,"Great posting. Helped me a lot. Basically means that preparing for interviews is HARD WORK. Get to it !",1291833749
+1984038,comment,1983279,1983279,0,0,WillyF,,,"HN user Ramit has a really great blog post that answers this exact question: <a href=""http://www.iwillteachyoutoberich.com/blog/turn-failure-to-domination-stanford-admission/"" rel=""nofollow"">http://www.iwillteachyoutoberich.com/blog/turn-failure-to-do...</a>",1291833744
+1984037,story,,,1,1,lladnar,"Why Your Mobile Service Sucks, and Will Continue to Suck",http://bernalwood.wordpress.com/2010/12/08/why-your-mobile-phone-service-will-continue-to-suck-blame-nimby-neighbors-and-your-san-francisco-supervisors/,,1291833731
+1984036,comment,1983141,1983244,0,0,araneae,,,"It's possible that maybe he's only spending an hour a piece on these, but he might go back to them later and build on them more for a portfolio.  It's good to make a bunch of quick and diverse designs just to see what happens.",1291833722
+1984035,comment,1983124,1983907,0,0,nkassis,,,"That's not true at all. A secretary filling documents should not be held responsible for the way the corporation is run. That's just plain idiocy to claim that employees of a company are to be held responsible for corporate policy. Now if they did something illegal while working, that' another story but I don't think that's what you meant here.",1291833706
+1984034,story,,,22,4,prakash,"Testing DuckDuckGo CDN performance via Cedexis Radar",http://www.gabrielweinberg.com/blog/2010/12/testing-cdn-performance-via-cedexis-radar.html,,1291833695
+1984033,comment,1983100,1983287,0,0,phlux,,,"How many generations do you think it has been since the original .com boom? (Hint, they aren't biological generations)",1291833686
+1984031,comment,1982903,1982999,0,0,jonsen,,,"Maybe some interpreted the question as <i>If You Could Only Learn 3 Programming Languages...</i> besides what you already know.",1291833677
+1984030,comment,1983692,1983692,0,0,jmillikin,,,"> <i>There's a problem in the software development world, a practice that breaks down the free and open exchange of information. [...] I'm talking, of course, about copyleft licenses such as the GPL.</i><p>It takes some spectacular mental gymnastics to believe that requiring available source code hinders ""open exchange of information"".<p>> <i>The GNU General Public License (GPL) is the most well-known example of a so-called ""copyleft"" license and it requires, among other things, that any project which utilizes GPL code that is released must, itself, be released under the GPL.</i><p>No, the GPL requires that anything dependent on GPL code must be under a <i></i>compatible<i></i> license. You're free to release code under the BSD or X11 or zlib or apache (etc...) license. The author is just repeating the same tired old propaganda that's been shoveled out by proprietary software vendors for years.<p>> <i>I've never built an open-source project so large or complex that someone else, given a little time and elbow grease, couldn't work out a similar solution in a reasonable amount of time.</i><p>Most interesting opinions come from experience. If the author has never built anything significant, perhaps they ought to stop and consider where their opinions come from.<p>> <i>So how do I get people to contribute? It isn't going to be by using the GPL...people will say ""screw it"" and build their own version of my library that they can use without worrying about overly cumbersome licenses. [...] No, I get people to contribute by giving it away as completely as possible (I use the MIT license, but also like the WTFPL) and asking them to contribute interesting stuff back.</i><p>This assumes that the same people contributing code would refuse to do so if the project was GPL-licensed, which to me seems extremely unlikely. I have released software under several licenses (including GPLv2, GPLv3, X11, and BSD-3); every single person who has begged me to change from the GPL to a proprietary-friendly license has <i></i>never<i></i> contributed a patch. Not a single bug fix, nor test case, nor even benchmark. Every contribution I've received, large or small, has been from people who are themselves working on open-source software.<p>> <i>Copyleft licenses are simply not necessary for the vibrancy of the open-source community when it comes to simple libraries and, in fact, are more likely to hinder the community by encouraging the creation of multiple libraries to accomplish the same thing simply to avoid the requirements of a license like the GPL.</i><p>Does any HN reader have a case where a member of the ""open-source community"" was harmed, hindered, or even momentarily annoyed by having to use GPL'd software? Because I can't think of any case, nor any reason why one might occur.<p>> <i>The Affero GPL is a variant of the GPL specifically designed to address software that runs on network servers (such as web applications). It requires that any server running the software (or a modified version thereof) must make available the full source code of any modifications.</i><p>This is also wrong. The AGPL is, like the GPL, a copyright license. It only applies if the remote application (or derived data) is itself being sent to a client. For example, if I let an AGPL'd httpd serve my files, I am under no obligation to do anything at all regarding its source code.",1291833649
+1984029,comment,1983124,1983306,0,0,jwr,,,"I am not a fan of mob justice either — but neither am I a fan of ""tour de force"" justice as practiced by Amazon, Mastercard and Paypal, under pressure from US Government. I think this is a relatively good way for everyone involved to learn that every action has consequences.<p>Notice that if there is no response at all from, let's call it ""the internet crowd"", then there will be no free speech on the internet. Any attempt to say anything which corporations aren't comfortable with (this includes anything that the governments aren't comfortable with) will be quickly silenced.<p>So, while I am not a fan of 4chan's DDOS attacks, I see them as a reaction — similar to crowds in the streets.",1291833644
+1984028,comment,1983124,1983899,0,0,ghostDancer,,,"Well the you can compare it with commercial sanctions to Cuba, Irak or North Korea that the international community don't suffer too much (they're not big players) but the people of those countries do, not only their governments.",1291833639
+1984027,comment,1983124,1983858,0,0,ZoFreX,,,"I for one can't wait for the day when a government agency can detect that I'm initiating a DDOS from my home connection the second I start and immediately disconnect me, without a warrant, court order or trial.",1291833635
+1984026,comment,1981480,1982460,0,0,delano,,,"Yes, but the monitoring interval is 30 minutes which is not useful in most cases.",1291833602
+1984025,comment,1982817,1983505,0,0,todd3834,,,"Myth #13: There is only one type of cloud.
+Truth: There are three layers of cloud services and deployment methods to support different business functions: Software-as-a-Service (Salesforce or Basecamp), Platform-as-a-Service (Engine Yard or Google’s App Engine), and Infrastructure-as-a-Service (Amazon EC2 or Rackspace Cloud Servers).<p><a href=""http://www.rackspacecloud.com/blog/2010/12/07/cloud-computing-top-25-myths-busted/"" rel=""nofollow"">http://www.rackspacecloud.com/blog/2010/12/07/cloud-computin...</a>",1291833570
+1984024,comment,1983124,1983560,0,0,jbooth,,,"Not that I disagree with your point, but 1989, while only 20 years ago was a different era.  Especially regarding Romania or anywhere east of Berlin.  It's closer to 1979 than it was to 1991 in a lot of regards.",1291833559
+1984023,story,,,1,0,ljf,"Why #wikileaks isn't trending on Twitter",http://adage.com/mediaworks/article?article_id=147546,,1291833554
+1984022,comment,1983224,1983991,0,0,diego,,,"You can define arbitrary mathematical functions based on document variables stored in memory, and that you can change in real time. You can have as many of these as you want.<p><a href=""http://indextank.com/documentation/function-definition"" rel=""nofollow"">http://indextank.com/documentation/function-definition</a><p>(Feedback on this documentation is more than welcome, it's a work in progress!)",1291833507
+1984021,comment,1983124,1983856,0,0,Daishiman,,,"That's an intellectually dishonest argument. In my opinion the restriction of funding to Wikileaks is far more damaging.",1291833505
+1984020,comment,1983224,1983429,0,0,Pewpewarrows,,,"That's what the undocumented (as far as I know) AROUND word in searches is for.<p>If you type ""cat AROUND(5) dog"" into google, it'll return the top results that contain anywhere from 0 to 5 words between cat and dog.",1291833492
+1984018,comment,1983969,1983969,0,0,phren0logy,,,"Despite being hopelessly unrelated to anything, I have to give this an upvote.<p>This show is amazingly witty and self-referential in subtle ways that reward repeat viewing. The characters are very well written, and ring true despite the farcical nature of the show.<p>I think it's a great fit for a hacker-ly sense of humor. It was way too good not to get canceled.<p>It's the ""Inception"" of sitcoms.",1291833490
+1984017,story,,,2,0,riferguson,"Myhrvold's IV sues Hynix, Altera, McAfee and Symantec, among others",http://www.intellectualventures.com/NewsRoom/PressReleases/10-12-08/Intellectual_Ventures_Takes_Action_to_Enforce_its_Invention_Rights.aspx?ReturnURL=/NewsRoom.aspx,,1291833486
+1984016,comment,1982870,1982870,0,0,RyanMcGreal,,,"Clunky in Chrome browser, broken on Firefox.",1291833483
+1984015,comment,1983997,1983997,0,0,awt,,,"I believe chrome is fairly standards-compliant, which IE is not.  So your app will be more portable.",1291833451
+1984014,comment,1983984,1983984,0,0,iwr,,,"What particular piece of software would you want or need but can't afford? Nowadays there are complete F/OSS development stacks and tools available.",1291833421
+1984013,story,,,3,0,sudhirc,"Google I/O - Building Scalable, Complex Apps on App Engine",http://www.google.com/events/io/2009/sessions/BuildingScalableComplexApps.html,,1291833391
+1984012,story,,,1,0,zacharycohn,"According to Reuters, Mastercard got hacked and then they suspend Wikileaks.",http://www.reuters.com/article/idUSTRE6B72L020101208,,1291833389
+1984011,comment,1983141,1983430,0,0,bajsejohannes,,,"Or, you could simply make it a feature. I would certainly not mind another link to my new page.",1291833382
+1984010,comment,1982786,1982979,0,0,CUViper,,,"I'm tempted to stuff tarballs in there for my pre-built release binaries, especially since I could give it a gpg signature in the tag.  I wouldn't do this for large projects, but the case I have in mind is a tiny utility, ~25KB.<p>Does anyone know how github will handle tags pointing to a blob instead of a tree?<p>EDIT: On second thought, it probably makes more sense to have a ""prebuilt"" branch that has the actual tree of my release package.  That would also let git share objects that are common to the source branch: README, manpages, etc.",1291833358
+1984009,comment,1983881,1983999,0,0,jmaygarden,,,"Right, they could probably have gotten the same effect by staying with C++ and switching to Qt.",1291833343
+1984008,comment,1983229,1983282,0,0,jamii,,,"Well, I guess that was the wrong answer.",1291833320
+1984007,story,,,1,0,pdobson,"Dan Carlin: Entrepreneurship a High School Subject (53:23)",http://feedproxy.google.com/~r/dancarlin/commonsense/~5/CyHlANLZhpk/cswdcb88.mp3,,1291833287
+1984006,comment,1982708,1983456,0,0,dhs,,,"Excuse me, but I'd really like to see your evidence of how the computational theory of mind is ""widely accepted"".",1291833283
+1984005,comment,1982870,1983700,0,0,hungryfoolish,,,"Gracefull degradation is for making sites work on older browsers. What about making sites work on modern browsers which are other than your favourite one?<p>Using just -webkit prefixes everywhere will make sure it just plays nicely with webkit, and not with IE, Opera or Firefox.",1291833282
+1984004,comment,1983766,1983906,0,0,Timothee,,,"It was filmed at the Computer History Museum, so it's like that on purpose. Though, it doesn't look like this is the one, I know that they have one of Google's original racks which looks about as messy. (as seen here: <a href=""http://www.codinghorror.com/blog/2007/03/building-a-computer-the-google-way.html"" rel=""nofollow"">http://www.codinghorror.com/blog/2007/03/building-a-computer...</a>)",1291833256
+1984003,comment,1982932,1983148,0,0,bld,,,"The Dragon capsule's deorbit burn completed and it's headed back down to Earth.<p>[EDIT] and splashdown!",1291833256
+1984002,comment,1983124,1983588,0,0,Daishiman,,,"A small group of MC lawyers and executives also has say on whether you can use of the three largest payment methods on the planet to fund a group you sympathise with.<p>When it comes to oligopolies, the usual rule of corporations as private, independent entities that can do whatever they please, goes out the window.",1291833252
+1984001,comment,1983229,1983229,0,0,xiaoma,,,"I'm already fluent in Mandarin and English and have some Japanese, Taiwanese, and Cantonese.<p>If I had extra time specifically for language learning, I'd like to have the Japanese become fluent and pick up some Spanish and Russian.  Japanese because of its enormous economic and cultural clout, Russian, because a lot of Russians live in this part of the world, and Spanish because it's the second most common first language on the planet after Mandarin, which I already speak.",1291833225
+1984000,comment,1982903,1983052,0,0,chrisaycock,,,"Your wish has been granted: <a href=""http://news.ycombinator.com/item?id=1983229"" rel=""nofollow"">http://news.ycombinator.com/item?id=1983229</a>",1291833214
+1983999,comment,1983881,1983881,0,0,TwoBit,,,"""We've reimplemented the GUI layer, which meant throwing out about 200,000 lines of C++ code that built on Xt, Win32, and Carbon. We've replaced that C++ code with about 30,000 lines of Racket code that builds on Gtk, Win32, Cocoa, Cairo, and Pango.""<p>That's not the same thing as saying 200K of C++ equals 30K of Scheme.",1291833203
+1983997,story,,,3,3,_ques,"Ask HN: How are Google's ""Chrome webapps"" different from IE-specific websites?",,,1291833158
+1983996,comment,1982708,1982919,0,0,iskander,,,"""old-fashioned AI"" is usually a term reserved for symbolic techniques fashionable in the 60s, 70s, 80s. Learning and data-oriented techniques are mostly the new kids on the block (for Computer Scientists at least-- stats people have been at this game all along).<p>As for bio-inspired techniques-- why should their point of inspiration be anything but a footnote? Genetic algorithms are just one instance of a stochastic search algorithm (there are many others), cellular automata can be pretty much anything, and so can neural networks (depending on whether you include the dozens of models more esoteric than multilayer perceptrons).",1291833141
+1983995,comment,1983250,1983741,0,0,Semiapies,,,"We actually have an interesting topic, here - no particular need to start a long, all-consuming thread by throwing out a wildly-oversimplified bit of red meat.",1291833070
+1983993,comment,1982489,1983572,0,0,alnayyir,,,">I wonder if I should start building Heroku 2 now...<p>Yes, but make it <i>good</i>",1291833051
+1983992,comment,1982817,1983267,0,0,jpwagner,,,"Can someone please explain the disdain for Salesforce around here?",1291833044
+1983991,comment,1983224,1983624,0,0,riffraff,,,"what do you mean by ""relevance formula""? 
+You can implement your own Similarity measurement in lucene and change it at query time, so I'm guessing you mean something else?",1291833032
+1983989,comment,1983141,1983141,0,0,acangiano,,,"Somebody delivering the same service, but including HTML/CSS, could easily charge $150 and have more customers than they could possibly handle.",1291833025
+1983988,comment,1983881,1983881,0,0,futuremint,,,"I wrote a small GUI based HTML scraping client about 5 years ago with PLT Scheme.  It was a wonderful experience and building a basic cross-platform GUI was pretty easy given the great documentation those guys write along with the language.<p>The executable was small, and it was easy for the users to pass around a little 1MB .exe file on windows (also had a separate compiled version for OS X) and they used it for years after I left until the web pages it targeted changed (and I don't work there anymore).<p>If somebody is open to learning Scheme, you can't go wrong building something in Racket, I was pretty surprised what I accomplished in a month.",1291833011
+1983987,comment,1983766,1983766,0,0,rryyan,,,"> <i>Despite his frustrations with gadgetry, Wozniak is still a gearhead. He says he carries five to 10 cell phones around with him at a given time. Sometimes he'll set up half a dozen of them, along with standalone GPS units, on his car's windshield, all navigating him to the same spot.</i><p>What?<p>(I have to say, I respect Woz as an engineer, but this kind of odd behavior reduces his credibility as a popular technology prognosticator for me.)",1291832999
+1983986,comment,1983229,1983229,0,0,chrisaycock,,,"Haskell, Erlang, Lua<p>I do C++ and q/kdb+ professionally, plus I know enough Python to get by. The three above are pretty different and would be interesting to expand my horizons.<p>Bonus question: Spanish (it's the second most common language in the States)",1291832987
+1983985,comment,1982932,1982932,0,0,sili,,,"Higher definition video from NASA for those who missed the webcast: <a href=""http://www.youtube.com/watch?v=wj1qwDxw9nk"" rel=""nofollow"">http://www.youtube.com/watch?v=wj1qwDxw9nk</a>",1291832974
+1983984,story,,,20,57,alain94040,"Is it ok to use warez software at a startup?",http://blog.fairsoftware.net/2010/12/08/is-it-ok-for-a-startup-to-use-warez-software-ethics-vs-reality/,,1291832969
+1983983,comment,1983446,1983951,0,0,J3L2404,,,"I'm glad that you agree that diplomats should have secure communications, but, secure != private, seems semantic.",1291832947
+1983982,comment,1983124,1983431,0,0,vegai,,,"They're now collectively turning down something. That's not something they should be allowed to do, given that they control a <i>lot</i> when it comes to moving money. It puts a consumer in a position where he has no choice.",1291832886
+1983981,comment,1983100,1983760,0,0,ryanwaggoner,,,"You <i>seriously</i> didn't have the balls to post this under your own account?",1291832864
+1983980,story,,,1,0,awt,"Automatically generate screenshots of your rails tests",http://blog.owyheesoftware.com/the-wizards-curse,,1291832856
+1983979,comment,1982775,1983830,0,0,RyanMcGreal,,,">I know people who washed into Cisco in acquisitions who multiple times left to start companies marketing remarkably specific and incremental improvements to existing Cisco products<p>When you put it that way, it actually sounds like a wonderful (for Cisco) way to outsource the risk of innovation by offering to pay a premium for good ideas that are well executed.",1291832851
+1983978,comment,1983194,1983615,0,0,jfb,,,"I was working for a project at Chicago that partnered with some other project at CERN, so we saw it pretty early.  This perspicacious understanding of technology trends I displayed may well have much to do with my current ramen and water diet and my distinct lack of super-villian hollowed-out volcano headquarters.",1291832835
+1983977,comment,1980770,1981914,0,0,mcantor,,,"Wouldn't it be just as sexist to assume that someone named ""Alice"" is a woman?  Well, maybe not <i>just</i> as sexist.  But at least a little bit sexist.  I mean, for all we know, someone named ""Alice"" could be a male-to-female transgendered individual who still prefers to use the male pronoun.  Or a female-to-male transgendered person who kept his original name to cut down confusion among friends, but switched pronouns.<p>I guess I shouldn't debate... I read the line about ""... the hilarious moment 3 seconds into an intimate embrace when I realize that I'm literally rubbing the screen of my iPhone against his spine,"" and assumed the author was female because in my head, the ""default"" participants in an intimate embrace are a guy & a girl, since that's the one I'm most familiar with.  So, negative points for me on the knee-jerk gender assumption front.<p>I thought that was a really great line, potential elicited sexism notwithstanding, by the way.  I've had those moments myself.  It took me a second to realize exactly what she was talking about, but once I did, I couldn't help but chortle at how much I've chided myself for the very same thing.",1291832833
+1983976,comment,1983766,1983766,0,0,tjarratt,,,"I feel that the same could have been said after/during the industrial revolution. When the tools to enact change become so large that no one person can build a product (whether that be a vehicle, or a desktop computer), there will be someone warning that our dependence on technology is increasing.<p>Not that I don't agree with Woz, but I think it helps put this in perspective. If the internet or our power grid had some massive failure how easily would life continue? Would businesses continue to operate? Supply chains for food and production? These are important questions, in my opinion.",1291832789
+1983974,story,,,9,1,yarapavan,"How Hunch Built a Data-Crunching Monster",https://www.readwriteweb.com/hack/2010/12/how-hunch-built-a-data-crunchi.php,,1291832785
+1983973,comment,1983141,1983686,0,0,corin_,,,"Yes, definitely. If you offer it, I'll take you up on it once he's open for design applications again.",1291832753
+1983972,comment,1982643,1982643,0,0,zandorg,,,"My contact with SJ was when I wanted to scan his book Stonekeep for my 'game novellas' website. He went ballistic and called me a pirate. I pointed out all the other novellas have personal permission from the rights holders to be hosted on my site, and he said that was fine then.<p>He said contact Interplay. I did so - no response.",1291832737
+1983970,comment,1980970,1980970,0,0,alienDeveloper,,,"i say $55 billion Dollars will do the job. ;)
+i really like the titles ""Sir"" and ""The wealthiest man in the world"" .. 
+I hope im not day dreaming .. again.. :)",1291832687
+1983968,comment,1982489,1982489,0,0,kunley,,,"I hope this will have them a kick to spread into Europe.<p>For now, as they use only US EC2 regions, it's only possible for many EU-located users to have a prototype or a toy project on Heroku. Believe me, those few routers more and pings > 100ms do make a difference.",1291832665
+1983967,comment,1982708,1982708,0,0,iskander,,,"Situations where I see the term ""artificial intelligence"" used:<p>(1) a legacy hold-over from the bad old days when people thought symbolic inference was central to human intelligence (e.g. AAAI, JAIR)<p>(2) research on extending old-fashioned AI to be actually useful (e.g. Markov Logic Networks)<p>(3) most commonly (as in this case), a vaguely defined desired outcome and a bundle of poorly understood cool-sounding techniques.<p>""We'll making computers learn-- with neurons! And Evolution! And Prolog?""",1291832657
+1983966,comment,1983257,1983357,0,0,jeffclark,,,"Original was something like ""give me $x and I'll fill your cavities""",1291832651
+1983965,comment,1978295,1981765,0,0,david_shaw,,,"It's certainly not the same thing, and as I said before I would never risk my life in pursuit of what I perceive to be a meaningless goal.<p>My point, however, was that I do not presume to judge others based on the risks that they take in their own lives. The juxtaposition I was trying to make is that people comfortable in their corporate lives might say it's selfish or crazy to persue one's dreams of creating a startup at significant financial risk, just like some people here are saying it's selfish or crazy to want to climb Everest.<p>Is skydiving a suicidal activity? Are surfers that risk shark attacks or storm chasers that follow tornadoes nothing more than stupid, selfish, suicidal sacks of meat? I personally don't think so, but you are of course entitled to an opinion all of your own.<p>By the way, I'm more than happy to converse different opinions in a civilized manner; bleeding sarcasm isn't necessary to get your point across.",1291832638
+1983964,comment,1983194,1983707,0,0,wccrawford,,,"It worked for me just now.",1291832637
+1983963,comment,1983124,1983588,0,0,jacquesm,,,"Judging by the difficulty that MC has in dealing with this one I wonder how big that 'small group' really is.",1291832632
+1983962,story,,,2,0,mhendrick,"24 Ways To Start - The Advent Calendar for Entrepreneurs.",http://24waystostart.com/2010/,,1291832622
+1983961,story,,,1,0,bound008,"Aaron Sorkin: In Her Defense, I'm Sure the Moose Had It Coming",http://www.huffingtonpost.com/aaron-sorkin/sarah-palin-killing-animals_b_793600.html,,1291832601
+1983960,comment,1982817,1983715,0,0,andreyf,,,"I think what digitallogic is saying is that based on this heuristic, this article isn't worth reading or discussing.",1291832600
+1983959,comment,1983257,1983357,0,0,corin_,,,"I really want to know the context of this comment, now the parent is deleted...",1291832600
+1983958,comment,1983194,1983575,0,0,zandorg,,,"So as NeXT founder, Steve Jobs was indirectly responsible for HTML? Of course, Marc Andreessen was responsible for images and also porting the NeXT code to Windows/MacOS.",1291832552
+1983957,comment,1982870,1982870,0,0,vegai,,,"Seems to work just fine in Firefox.",1291832550
+1983955,comment,1983194,1983194,0,0,chmike,,,"A colleague, who was present when Tim presented the WWW at a CERN seminar in its early days, reported to me that one person in the assistance asked at the end of the presentation what was the use for this software (quelle est l'utilité de ce logiciel).",1291832505
+1983954,comment,1983124,1983867,0,0,jacquesm,,,"The burning of cars was - as far as I understand it - a direct consequence of multiple decades of festering trouble that was not adequately recognized or responded to by politicians. The shortest complete description of the background on this was something like 'these youths are protesting not against any specific policy but against being born in to a situation that they find it almost impossible to escape from in the country that they are nominally a citizen of'.<p>If you can do better than that be my guest, but I definitely see them as motivated by politics, even if not directly attacking a specific policy or having a concrete goal. It's more an act of frustration with life set off by the friction between police and these youths, specifically one incidence was the spark that set off the powder.",1291832451
+1983953,comment,1983399,1983444,0,0,sachitgupta,,,"Thanks for writing this Spencer. I asked about ""What does a biz person do at a startup"" at the YC meetup; and your earlier article was brought up. Awesome sequel!",1291832380
+1983952,comment,1982080,1982080,0,0,noblethrasher,,,"A closure is also a poor man's class (sort of).<p>I've often wished that C# let me implement interfaces with anonymous classes. Since it doesn't, I get around it by creating AdHoc classes for interfaces that I use a lot.<p>For instance, if I have an interface Foo defined as:<p><pre><code>    interface Foo
+    {
+        string Bar(int x);
+    }
+</code></pre>
+then I also create a corresponding class called AdHocFoo defined like so:<p><pre><code>    class AdHocFoo : Foo
+    {
+        Func<int, string> _bar;
+
+        public AdHocFoo(Func<int, string> bar)
+        {
+            _bar = bar;
+        }
+
+        public string Bar(int x)
+        {
+            return _bar(x);
+        }
+
+    }
+</code></pre>
+I've written a little program that creates these AdHoc class definitions from interfaces.",1291832339
+1983951,comment,1983446,1983705,0,0,dalke,,,"""Private"" does not generally mean ""only authorized access"" which is why I had to ask for clarification. The public isn't allowed into many library stacks, but just because I'm not authorized to access the stacks doesn't mean the information there is private.<p>But to answer your response ... let's see, there's ""top secret"", which is restricted to fewer people. Those wouldn't be on the same network as these cables and therefore would not have been accessible by the person who gave them to Wikileaks.<p>There's secrecy levels above ""top secret."" There are phone calls. There are in-person meetings. So if the Secretary of State and the US diplomat to Xyzzy wanted a more secure communication then it's possible in quite a number of ways.<p>I am deliberately going after your premise because it makes little sense. There is no such thing as a ""secure interchange"", only levels of insecurity. The computer could be bugged, the meeting room surveilled, a staff member compromised. Even SSH has had to work to fix the subtle attacks people have come up with data exchange, and that's only one part of the entire system.<p>If 3 million people can read a document then you should not expect the same level of confidentiality as, say, the paper listing the launch codes to the US nuclear missile system. (Hint: no longer 00000000.) Old quote: ""three can keep a secret if two are dead.""<p>Wikileaks adds nothing new to this discussion. The Pentagon Papers were marked top secret. Reporters have made a long living off of knowing who the right people are to get the information they need for a story. And politicians have long known how to curry favor with the right reporters to leak the information - true or false - they want.<p>So in answer to your question: 1) Diplomats should have a secure communication (Kennedy's negotiation to get the missiles out of Cuba in exchange for withdrawing US missiles from Italy and Turkey shows the importance of that), 2) privacy has nothing to do with it. 3) Wikileaks doesn't change anything about the principles.<p>It might change our view on how duplicitous diplomats and world leaders are, or change our ideas on the importance assigned to ""secret"" documents, but that would be an answer to another question.",1291832297
+1983950,comment,1982786,1983891,0,0,funksta,,,"I think the learning curve tends to be steeper if you have to ""unlearn"" some of your preconceived notions from using a centralized VCS.",1291832291
+1983949,comment,1983006,1983234,0,0,curtis,,,"You're not the only person that thinks that.  See this post by John Nagle on comp.lang.python:<p><a href=""http://groups.google.com/group/comp.lang.python/msg/0c0a8da7472283db"" rel=""nofollow"">http://groups.google.com/group/comp.lang.python/msg/0c0a8da7...</a>",1291832259
+1983948,comment,1978295,1979783,0,0,fishercs,,,"It's the extraordinary who motivate others to excel in what they believe in, whether its the day to day of raising a family or tackling a summit nearly 30,000 feet from sea level.  I have huge amounts of respect for anyone willing to even attempt this and it shows you just how far focus and determination can take a person.<p>Thanks for the link O.P, it really made an impact on certain priorities and perspective.",1291832257
+1983947,story,,,2,0,davidw,"Leaving Canonical",http://voices.canonical.com/matt.asay/2010/12/08/leaving-canonical/,,1291832247
+1983946,comment,1983141,1983908,0,0,Staydecent,,,"Valid points. If there was interest in this I would offer the choice of Blueprint or 960.gs. As for HTML, I would use my starting template which resembles HTML5-Boilerplate and the choice of HTML5 elements(header, footer, article etc.) or not.<p>In theory, this would be a decent paying day-job. I spent the year of 2008 converting PSDs to WordPress themes for $500/theme. With that experience I can convert a PSD to markup in under an hour per page.",1291832225
+1983945,comment,1978923,1980262,0,0,david927,,,"It can be role based, so you could still have one role for all users, such as view and insert only for a forum.  But our solution has an interesting twist: security is managed like queries. For example, taking a sports social network, a team's messages can be sent [an insert] by team members, but seen [view rights] by members of the team and their friends.  This is all set with two statements.<p>It makes it so that you can go more often just directly to the database.",1291832221
+1983944,comment,1983141,1983889,0,0,draebek,,,"At least Buzz and Profiles are still not working for Google Apps users.<p><a href=""http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=182213"" rel=""nofollow"">http://www.google.com/support/accounts/bin/answer.py?hl=en&#...</a>",1291832209
+1983943,comment,1982564,1982564,0,0,mindcrime,,,"I have not self-published anything myself, so I have no direct experience to answer your question.  But if I could throw out a suggestion... you might get some useful info from Henry at <a href=""http://www.publishandsell.com/"" rel=""nofollow"">http://www.publishandsell.com/</a> He's basically a consultant who helps folks who are self-publishing books.  He was one of the early employees at Lulu and is a very sharp guy.<p>(Disclaimer: I used to work with with Henry at Lulu, and he is a friend.  This plug was not solicited by him however, and I have no financial interest in publishandsell.com)",1291832184
+1983942,story,,,1,0,remi,"Tumblerror: Make your own tumblr error",http://tumblerror.com/,,1291832165
+1983941,story,,,1,0,arithmetic,"In-app purchases is a big business",http://www.readwriteweb.com/mobile/2010/12/in-app-revenue-growth-forecast-up-600-percent-in-2011.php,,1291832157
+1983940,comment,1982903,1982992,0,0,nene,,,"Does anyone know how this ""most popular languages"" list is calculated? I can imagine several methods:<p>* Number of projects containing a language.
+* Number of projects having most of the code in a language.
+* Lines of code in a language.
+* Number of users having a language in some repository.<p>Plus there is this whole forking thing going on...",1291832110
+1983939,story,,,1,0,kapitalx,"Operation Payback cripples MasterCard site in revenge for WikiLeaks ban",http://www.guardian.co.uk/media/2010/dec/08/operation-payback-mastercard-website-wikileaks,,1291832105
+1983938,story,,,3,0,jaybol,"Heroku (YC W08) CEO Talks About Salesforce, Future",http://gigaom.com/cloud/heroku-ceo-talks-about-salesforce-future/,,1291832103
+1983937,comment,1983229,1983229,0,0,alienDeveloper,,,"Well i already know php to some extend, and the basics of C/CPP, Java, Action Script and all..<p>But i really like to get my hands dirty on C/CPP(im working on a MySQL storage engine as a hobby) and i like to learn python( i like maya[Animation], not only that python is a very strong language) too .. Those are the 2 currently in my list..<p>And if u want me to chose one more.. i say Java, because it will give me a very strong background on some very kewl concepts which i can use in other languages.. :)<p>And about my natural languages..<p>I definitely like to learn Sanskrit because their is a lot of knowledge hidden in Sanskrit books which u can never find else where, then i like to learn Chinese because i like the way its pronounced. and finaly spanish because.. well their is no because for that.. i just like to learn thats all.. :)<p>actually its harder than i thought it will be to reason why you learn a natural language other than if you are going to visit the related country or you are dating someone from that country ;) ..",1291832058
+1983936,comment,1982708,1983232,0,0,iwr,,,"Correction, ""10 million rules""",1291832047
+1983935,comment,1983141,1983183,0,0,slig,,,"You can try to contact artists on fiverr.com and see what they can do for 15 usd.",1291832045
+1983934,comment,1983124,1983865,0,0,jasonlotito,,,"> I would beg to differ on the ""no attack"" part. etc.<p>Same logic can be applied to Rosa Parks, who held up a bus full of people and delayed them from getting to wherever they were going, and also forced a police officer to deal with her rather than stay on patrol watching for real crime.<p>Of course, even in this case, it's dealing with the MC servers, which affects SecureCode.  People aren't buying gas or food out and about with SecureCoded MCs.",1291832006
+1983933,comment,1983194,1983471,0,0,die_sekte,,,"Also that war in the Balkans.",1291832000
+1983932,comment,1978955,1979965,0,0,Jd,,,"I also agree with your rejoinder and upvoted it :)",1291831945
+1983931,comment,1983670,1983922,0,0,tejaswiy,,,"Am subscribing to your blog, like right now.",1291831936
+1983930,story,,,69,8,danh,"Google's AROUND Operator for Proximity Search",http://googlesystem.blogspot.com/2010/12/googles-around-operator.html,,1291831931
+1983929,comment,1982489,1983612,0,0,joelg87,,,"Wow, awesome list, good work sir.",1291831912
+1983927,comment,1975172,1976360,0,0,hasenj,,,"Japanese conditionals come (AFAIK) before statements.<p>They <i>can</i> come after statements, just like in English, ""Tell me if you see him"".<p>I don't use Ruby but I actually like this idea.<p>Often when reading code, I'm looking for what's being done, not the condition under which it's done. I only look for the condition <i>after</i> I've found the statement.",1291831905
+1983925,comment,1982489,1983539,0,0,jcapote,,,"I'm sorry but that's a bullshit notion. Why is anyone still using PHP today? or Java? Just cause something new comes out, it doesn't automatically displace the old. I think paperback's are more likely to go away before the last rails app is written.",1291831874
+1983924,comment,1983670,1983670,0,0,tejaswiy,,,"Holy shit!",1291831873
+1983923,comment,1983141,1983805,0,0,balac,,,"You don't have to use your apps account only, you can still use your regular one for buying Android apps etc.",1291831872
+1983922,comment,1983670,1983869,0,0,brianbreslin,,,"thanks, appreciate it. working on my 2011 predictions now.",1291831868
+1983921,comment,1982786,1983175,0,0,draebek,,,"Note that he does add a tag to the object he creates, presumably so it doesn't get collected.",1291831840
+1983920,comment,1983670,1983877,0,0,brianbreslin,,,"I can be on your life board of advisors if you like. ;-)",1291831819
+1983919,comment,1983124,1983856,0,0,jasonlotito,,,"I can apply the same ""what if"" logic to Rosa Parks, who caused police to be sent to arrest her rather than patrolling their location and stopping a murder.  Or someone on the bus that got delayed being late for a job interview, not getting it.  Or that same diabetic not being able to get to his medicine he left at home.<p>Edit: I should also remind you that even if you want to accept your arguments, they aren't impacting actual transactions.  Merely SecureCode transactions done online.  So I highly doubt a diabetic in need of medicine now is going to order online.<p>Edit 2: And seriously, a guy get's a bit more hungry because he has to wait a tad longer because he can't order Fat Man's Pizza online because SC is down, and that's violent?  Heck, then I guess Gandhi wasn't so peaceful after all, what with his salt march causing less money for people, and therefore, less money to buy food with, and therefore, less food to eat.",1291831798
+1983918,comment,1982941,1982941,0,0,teilo,,,"Great, but what I really want to know is how fast Photoshop runs on Ubuntu 10.10. How many frames per second can I get on WoW? Does Pro Tools run more efficiently?",1291831796
+1983917,comment,1982673,1983762,0,0,corin_,,,"No of course not, I was just wondering anyway. ""He will read it and not care"" doesn't seem a likely reason for stopping him from reading it, unless it's coming from his PA.",1291831754
+1983916,comment,1983153,1983308,0,0,sandGorgon,,,"whoa - just in time.<p>My wife has been working for the past couple of years as a copywriter for a top notch ad firm in India. She has been wanting to switch careers into design and has been looking for a college program that will give allow her to transition into it.<p>I'm not sure if this is the place for it, but I'm extremely interested in knowing about the entry requirements (read through the website already), the class composition and what next after this course ? Plus, the prospectus isnt clear about what exactly do they teach.",1291831731
+1983915,story,,,4,0,danielrm26,"Getting More from Tcpdump",http://danielmiessler.com/study/tcpdump/,,1291831728
+1983914,comment,1983229,1983229,0,0,anamax,,,"Are folks answering ""three new to them"" languages or ""which three languages, even if you already know one or more""?",1291831698
+1983913,comment,1982489,1983258,0,0,alain94040,,,"Even if they grow, eventually they'll be too big to remain the ""friendly cool kid next door.""<p>With 20,000 employees, it's just not the same.<p>Either way, you can't expect a founder to stick around for 30 years with the same company and product. It takes a Steve Jobs to keep things interesting over decades.",1291831697
+1983912,comment,1983279,1983782,0,0,blangblang,,,"Just to continue this thought of 'avenues you could pursue which don't involve a direct application': there's always graduate school. Prove your aptitude at a school that will take you for your BS and then apply to GT for the next step.",1291831690
+1983911,comment,1983141,1983141,0,0,Luyt,,,"I wish I could do this for application prototypes.  But from experience I know that prototypes can take much more time than $15 justifies.  Or maybe I could just accept the ideas which interest me.  Hmmmm....",1291831684
+1983910,story,,,2,0,Scott_MacGregor,"Nasa sells shuttle PCs without wiping secret data",http://www.bbc.co.uk/news/technology-11947721,,1291831665
+1983909,comment,1982708,1983198,0,0,Anon84,,,"Even more interesting would be Computers aswering other Computers questions about Humans...",1291831664
+1983908,comment,1983141,1983763,0,0,mdda,,,"The benefit for a coder of having it built on blueprint is that it can be worked with immediately - otherwise one might as well be working with a template from a theme site with unknown/inconsistent markup.<p>Basing it off a well known framework should (a) make life easier for you, (b) give your work a hook other than low price-point.",1291831655
+1983907,comment,1983124,1983840,0,0,steveklabnik,,,"Following orders is not a valid defense for wrongdoing. If you work for a company, you're complicit in their wrongdoings.",1291831633
+1983906,comment,1983766,1983766,0,0,scalyweb,,,"Irrelevant to most, but the tangled mess of network cables behind the ""Woz"" in the interview really ticks me off. I'd love to have a word with the network folks there.",1291831626
+1983904,story,,,26,5,chris_den,"Nokia Ovi store horror",http://qtfreetrack.blogspot.com/2010/12/ovi-store.html,,1291831595
+1983903,story,,,1,0,moge,"Really cool video of the manufacturing process of the Glif",http://www.theglif.com/blogs/news/2350742-making-the-glif,,1291831565
+1983902,comment,1983394,1983394,0,0,zach,,,"I've gotten a telemarketer call from the BBB here in Southern California recently and it reeked of the worst things Yelp is accused of.<p>They led off with a yarn about how they had heard from consumers looking for information about my business. Uh huh. Pull the other one...",1291831560
+1983901,comment,1983141,1983242,0,0,Luyt,,,"But he can stop at any time.  He can even send back the money for unfinished jobs.",1291831557
+1983900,comment,1983141,1983205,0,0,symptic,,,"His portfolio should be relative to what he wants to do in the future. If he intends to do full-scale designing, then of course he should focus on getting that into his portfolio. But if he intends on doing quick, small design deals, this is perfect.<p>Time invested is not a measure of quality.",1291831548
+1983899,comment,1983124,1983851,0,0,corin_,,,"Agreed. My comparison was purely in reply to the concept of ""you shouldn't hurt a company to improve things, because it hurts their customers too.""",1291831547
+1983898,story,,,1,0,dctrwatson,"Apache Cassandra FreeBSD rc.d script",http://www.dctrwatson.com/2010/11/apache-cassandra-freebsd-rc-d-script/,,1291831511
+1983897,comment,1982730,1983099,0,0,alex_c,,,"I never thought I'd be having this discussion on HN, but by that definition Fox News (and to a lesser extent other networks and/or ""commentators"") would qualify as a terrorist organization.<p>As much as I dislike Fox News, actually extending the definition of terrorism far enough to include them, and Wikileaks, would dilute the definition to the point of uselessness (or, worse, to the point of including anyone you don't agree with who is trying to induce political change).<p>I should probably start staying out of the WL discussions here, this is starting to sound too much like /r/politics :(",1291831505
+1983896,comment,1978898,1983794,0,0,jasonlotito,,,"> I'm looking around, I'm seeing movement by Microsoft, Apple, and Google to limited-purpose simplified computers with app stores built in. I'm seeing developers actually able to sell software again. I'm seeing rich, beautiful interfaces that are responsive and smooth. I'm seeing voice, camera, accelerometer, and GPS integration. And I'm seeing it in native software TODAY. It works now, it's not beta, and it's making money. Tell me where I'm wrong?<p>Your not.  However, I haven't argued against this.<p>> You fail to realize that these ""tools"" are ugly hacks to make HTML do things it's clearly not well suited to do.<p>Well, good thing they aren't using HTML then.<p>> In what context is that?<p>In the context of the article.  PhoneGap let's you create native software but using technology like HTML and JS that hooks into Apple's (and others) existing API.<p>More importantly, Apple uses XML for it's UI as well, so the difference between HTML and Apple's own XML format for it's UI is negligible.<p>>  and naturally you're resisting change.<p>The industry is changing from desktop TO web-based.  Your cherished MS, Apple, and Google agree with this as well, as you can see by their plans to not only support, but promote these types of applications.<p>And, in this case, I can either follow the lead of Apple, MS, Google, and Mozilla, or take the advice of some nobody random commenter with a stick up his ass.<p>Maybe you can explain how these companies are wrong?",1291831487
+1983895,comment,1982730,1982730,0,0,mcantelon,,,"So:<p>1) Paypal lied to the public.
+2) The State dept. effectively ordered content off the web, not unlike China.
+3) Paypal hasn't restored service to Wikileaks, even though it's a legal organization.",1291831485
+1983894,comment,1982489,1982489,0,0,jcapote,,,"I just hope some business guy doesn't go in there and ""rethink"" heroku",1291831480
+1983893,comment,1983250,1983250,0,0,onedognight,,,"wikileaks.eff.org is not resolving for me.  It seems inconsistent for the EFF to talk about standing up to censorship without them hosting a mirror and encouraging others to do so.",1291831475
+1983892,comment,1983194,1983687,0,0,Luyt,,,"and Archie, too ;-)",1291831459
+1983891,comment,1982786,1982830,0,0,hasenj,,,"I didn't find the learning curve to be steep.<p>The core of git is really simple. If you understand objects, hashes, blobs, trees, commits, then you pretty much know the basic vocabulary and you'll be able to learn more as you go.<p>This is a really good explanation for these basics: <a href=""http://ftp.newartisans.com/pub/git.from.bottom.up.pdf"" rel=""nofollow"">http://ftp.newartisans.com/pub/git.from.bottom.up.pdf</a>",1291831437
+1983889,comment,1983141,1983424,0,0,wh-uws,,,"The second part of your answer isn't correct anymore. Google recently (about September) migrated all of the apps emails to the wider gmail infrastructure<p><a href=""http://www.google.com/support/a/bin/answer.py?answer=182034"" rel=""nofollow"">http://www.google.com/support/a/bin/answer.py?answer=182034</a>",1291831424
+1983887,comment,1982489,1982578,0,0,gdudeman,,,"Ignition, the lead in the final round, has stated that they made over $50m on the deal, so probably triple that valuation - $10M was on a $25-40m range.<p><a href=""http://www.techflash.com/seattle/2010/12/ignition-backed-heroku-sells-to.html"" rel=""nofollow"">http://www.techflash.com/seattle/2010/12/ignition-backed-her...</a>",1291831397
+1983886,story,,,1,0,themoriarty,"Chrome extension to replace embedded YouTube's flash players with HTML5 version",https://chrome.google.com/extensions/detail/lmpifngjacdfinppigpihdjegamdmiek,,1291831389
+1983885,comment,1983194,1983194,0,0,mitchellhislop,,,"I was about to turn 3. I am sure that I was geeky, and trying to program my high-chair, but never the less, still just learning the world.<p>I do wish that I would have been more in the 10-11 year old range. So much excellent stuff happened that year - just a few months after that, the Minnesota Twins won the series.",1291831379
+1983884,comment,1983124,1983373,0,0,go37pi,,,"I think its a good problem solving tactic to try to look for analogous situations and gain insight into our current dilemma in doing so.<p>I think a better analogy might be a sit in. If you occupy all the seats in a restaurant, I think it kind of qualifies as a meatspace DOS. I guess the difference is that in civil rights sit ins of the 60s, the people sitting in actually wanted service.<p>I guess the digital analogue would be a bunch of people requesting permission to donate to Wikileaks, rather than permission to load the page. It seems the subtle difference is that civil rights groups actually wanted the service that they deny to others, while anon wants a service different from the one they are denying to others.<p>I guess its up to individuals whether they think the difference is significant.",1291831365
+1983883,comment,1982708,1982997,0,0,naner,,,"Small, niche communities are generally easier to manage and yield more valuable content. I think this is why reddit decided to go with subreddits over tags.",1291831350
+1983882,comment,1983194,1983764,0,0,presidentender,,,"I'm fairly plussed.",1291831347
+1983881,story,,,124,52,swannodette,"Ditching 200K of C++ for 30K of Scheme",http://blog.racket-lang.org/2010/12/racket-version-5.html,,1291831331
+1983880,comment,1982489,1982508,0,0,jedc,,,"My back of the envelope calculation over all YC acquisitions so far has them at ~$12million returned.  (Over half of that is from Heroku.)  That could arguably be anywhere from $5-$20million based on your dilution assumptions, though.<p>And direct investment costs for 208 startups is <$500k.  Even if you add in all the other costs of running the program, YC is pretty f-ing successful.<p><i>Then</i> you start thinking about the other startups yet to exit (ie, Loopt, Dropbox) and you see the YC team is truly kicking ass.",1291831321
+1983879,story,,,2,9,dytrivedi,"Ask HN: Hacker Resume",,"I want feedback/constructive criticism from HN community. I know it should've been plain text/markdown; I actually wanted to write in in markdown, parse it, and display in HTML5 + hcard + hcal + hresume. But didn't have enough time :(<p>Here's the PDF - http://advancewith.us/stuff/Resume.pdf<p>Anyways, from today I am starting being active on HN. Hello, people!",1291831298
+1983878,comment,1983194,1983370,0,0,Oxryly,,,"I was one month away from starting college, and a month away from discovering that there were computers in the world that were permanently connected across vast distances (didn't require modems and dialing up over phone lines).  That first instant telnet to a system 500 miles away = blown mind.",1291831282
+1983877,comment,1983670,1983670,0,0,alexobenauer,,,"Wow. Brian Breslin, I am officially consulting you on all my major life decisions.",1291831275
+1983876,story,,,1,0,sathyabhat,"Mozilla Removes support for WebSockets in Firefox 4",http://www.0xdeadbeef.com/weblog/2010/12/disabling-websockets-for-firefox-4/,,1291831264
+1983875,comment,1983699,1983699,0,0,sjtgraham,,,"I've met Nic a few times before, he is a very smart guy. Looking forward to seeing what he does with Taskforce.",1291831262

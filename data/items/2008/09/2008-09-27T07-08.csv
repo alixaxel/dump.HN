@@ -1,0 +1,86 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+316804,comment,315811,316673,0,0,maxklein,,,"Quite apart from the argument you are proposing there - what does that have to do with skin color? Everybody that lives at the equator in all parts of the world have dark skin, it has nothing to do with if a person comes from Africa or not.<p>And it's not ""fairly well established"". Not in any way that one would deem scientific. It's fairly well established in the minds of bigots and in the minds of people who are looking to justify their denial of rights to certain groups of people, but it's not established in any meaningful way.<p>For example, take a look at the body of evidence showing that the earth is round. Now, using the same SCIENTIFIC criteria, show me the evidence that people of African descent are less intelligent than people of european descent - you'll find that the 'studies' that were done are very fuzzy, very open to intepretation, use very skewed sample size, and are not pure at all.<p>What you are really trying to say is that In tests conducted in the 70s with tiny groups of African-American people of mixed race, who came from long disadvantaged communities, there was a difference in problem solving ability according to a certain metric, compared to affluent children from educated homes.<p>The evidence is weak and very unscientific. If you REALLY want to prove that the IQ is lower, then I demand sample groups approaching 2000, I demand that the tests be taken in Africa, and written in an African language, I demand that the socio-economic backgrounds of the participants be the same or similar, and I demand that all questions related to verbal ability be removed from IQ tests.<p>IQ has not been measures properly, and having lived in several continents, nothing I have seen indicates to me that there is any significant difference in IQ between people living on different continents, once you factor in their family background.<p>But people like you once found a study that fitted in with your narrow perception, and you hang on to it like it was the holy grail. It's flawed, and it's an argument similar to creationism.",1222502209
+316803,comment,315793,316669,0,0,Zev,,,"I was thinking of an old yellow, similar to the shade of a faded newspaper's color rather then a shade of grey.<p>After messing around with the arrow in photoshop a bit, #d1ce9c was the color that I came up with:  <a href=""http://thisismyinter.net/mockups/newmogul.png"" rel=""nofollow"">http://thisismyinter.net/mockups/newmogul.png</a> & <a href=""http://thisismyinter.net/mockups/grayarrow.png"" rel=""nofollow"">http://thisismyinter.net/mockups/grayarrow.png</a> - But it's nearing 4am here, so it could turn out to be a hideous shade of yellow and I wouldn't realize it until tomorrow morning.",1222501949
+316802,comment,316507,316507,0,0,davidw,,,"Cool, but... this is one of the ""problems"" with Smalltalk and Lisp, in terms of the mentality.  Instead of focusing on what 99% of developers need, they work on doing turtles all the way down, and go into business competing with Linux, Windows, et al.<p>Now, from a pure tech point of view, what they're doing is cool, interesting, and worthy of praise.  Just that they shouldn't complain if they wonder why they're not as popular as Ruby, Python and friends.",1222501867
+316801,story,,,4,0,rrf,"Pandora: Congressional Emergency",http://blog.pandora.com/pandora/archives/2008/09/congressional_e.html,,1222501851
+316800,comment,315811,316654,0,0,DaniFong,,,"Am I on trial? What's the question?<p>Let me be more careful.<p>There are two methods to throttle nuclear plants: by control rods, moderating neutron flux, and by temperature, moderating coolant flow (in, say, a pebble bed reactor). Either of these work well for generating heat, though coolant flow is simpler technically. Beyond this the plant is a steam turbine, which would have the same maintenance problems as any other steam turbine designed for the load. It's not as fast as gas, but the fuel is cheaper. But as DabAsteroid pointed out, Nuclear Plant are typically base loaded, in the US at least, so that's not terribly relevant.<p>I don't understand enough of the specifics of the particular designs Dab alludes to to comment on reactor poison buildup. I know that in pebble bed reactors throttling was intended by design.<p>I think that within the US market (which was, erroneously on my behalf, what I assumed the conversation was about), the point of new power plants not being yet created still holds: whatever load balancing one would need is an investment already made. (though this is mostly irrelevant to the point of discussion where nuclear plants don't supply peak demand). Of the proposals for which nuclear plants would supply peak power, the question is still out there: how will they balance the load? There are many possibilities, but they're mostly guesses. There is, increasingly, a diverse market for load balancing technology, and companies, struggling with technology and sales and tradition and economy, to try fill that need.",1222501460
+316798,comment,316690,316764,0,0,ducktyped,,,"Here's why I love ramaze: multi-app, multi-db app, ~50 lines, one file, zero proprietary plugins, rake tasks, generators, etc. No bending of the framework whatsoever. Use require, use modules, pure ruby, pure joy. :)<p><pre><code>  require 'rubygems'
+  require 'ramaze'
+  require 'sequel'
+
+  # Models
+  module AppOne
+    DB = Sequel.sqlite('app_one.db')
+
+    class Post < Sequel::Model(DB[:posts])
+      set_schema do
+        primary_key :id
+        varchar     :title
+        text        :body
+      end
+    end
+  end
+
+  module AppTwo
+    DB = Sequel.sqlite('app_two.db')
+  
+    class Post < Sequel::Model(DB[:posts])
+      set_schema do
+        primary_key :id
+        varchar     :title
+        text        :body
+      end
+    end
+  end
+
+  AppOne::Post.create_table!
+  AppTwo::Post.create_table!
+  AppOne::Post.create(:title => ""app one title"", :body => ""app one body"")
+  AppTwo::Post.create(:title => ""app two title"", :body => ""app two body"")
+
+  # Controllers
+  module AppOne
+    class MainController < Ramaze::Controller
+      map ""/app_one""
+      def index
+        @post = Post[1]
+        ""#{@post.title}<br/>#{@post.body}""
+      end
+    end
+  end
+
+  module AppTwo
+    class MainController < Ramaze::Controller
+      map ""/app_two""
+      def index
+        @post = Post[1]
+        ""#{@post.title}<br/>#{@post.body}""
+      end
+    end
+  end
+
+  Ramaze.start :adapter => :mongrel
+</code></pre>
+Run, go to /app_one and /app_two respectively. Enjoy.<p>Here's some of what ramaze is missing:<p>* Some conventions (simple modules, no ""plugins"" please) and a space (website) to share code, such as rake tasks for sequel migrations, authentication boilerplate, etc. Ramaze needs an ecosystem of modules to allow developers to benefit from each other. I'm not a fan of cargo-culting, but rails/merb plugins do speed up development.<p>* Marketing/evangelism. (I'm trying).<p>* A more nicely integrated restful router with urls a la rails/merb conventions. While ""technically"" somewhat silly, all the cool kids want something like it.",1222500982
+316797,comment,315811,316523,0,0,corentin,,,"He's not clinically insane; it's just that he ""doesn't have people skills""...",1222500820
+316796,comment,315811,316214,0,0,corentin,,,"You forgot the efficiency of the electric motor itself and everything between it and the battery pack (converter, etc.)",1222500639
+316795,comment,316171,316171,0,0,iuguy,,,"Spend every waking minute making my wonderful wife, who puts up with my stupid hours, travelling away from home, stress, lack of organisation and everything else that would turn mere mortals away ludicrously, deliriously, cartwheel-turning happy.",1222500399
+316794,comment,316265,316265,0,0,mihasya,,,"Props for not calling it a startup! I def. think this is something avid sports fans, and particularly gamblers, could probably use, but I would echo the concern that it is confusing visually.",1222499961
+316791,story,,,2,0,soundsop,"Code Archeology",http://www.juixe.com/techknow/index.php/2008/09/26/code-archeology/,,1222499788
+316790,comment,315811,315920,0,0,iuguy,,,"> My opinion of him isn't too high. He likes to brandy himself about as some sort of hacker hero, but in truth, he's not really contributed much to OSS.<p>OSS ESR has been involved in or founded:<p>Fetchmail, 
+GPSd, 
+CML2, 
+The Cathedral and the Bazaar, 
+The Jargon File, 
+Terminfo/Termcap, 
+VC Mode/GUB in Emacs (ESR is the second biggest lisp contributor to Emacs after RMS), 
+Contribs to Gnuplot, Gnome, Python, Groff and Nethack, 
+GNU Toolkit SED, 
+Hexdump, 
+gif2png, 
+Bogofilter, 
+Countless Howtos at the LDP<p>With the exception of the above, you're right he's not contributed much to OSS. I'm not saying ESR's not a polarising person (I've met both ESR and RMS, both can be black and white people) but he has contributed a lot to OSS.",1222499744
+316789,comment,315811,316673,0,0,logjam,,,"[citation needed]",1222499742
+316788,comment,316787,316787,0,0,ionela,,,"DSP (digital signal processing) on FPGA - Let's see the advantages and disadvantages!",1222499536
+316787,story,,,4,1,ionela,"DSP (digital signal processing) on FPGA - advantages and disadvantages",http://dev.emcelettronica.com/dsp-digital-signal-processing-fpga-advantages-and-disadvantages,,1222499514
+316786,comment,316681,316681,0,0,mihasya,,,"No, but I'm surprised we're still talking about twitter.",1222499128

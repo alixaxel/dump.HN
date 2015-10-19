@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92479,comment,92441,92441,0,0,kieranoneill,,,"Have a great one guys! Hope 2008 is prosperous for all!",1198526230
+92478,comment,92441,92475,0,0,shimon,,,"Working on Christmas is just another edge you can get over your competitors.",1198525930
+92477,story,,,3,1,transburgh,"Plan B: Why ""What Got Us Here, Can't Take Us There.""",http://foundread.com/2007/12/24/plan-b-why-what-got-us-here-cant-take-us-there/,,1198525774
+92476,story,,,1,0,transburgh,"VCs and startups get real across Europe",http://uk.techcrunch.com/2007/12/18/2008-vcs-and-startups-get-real-across-europe/,,1198525631
+92475,comment,92441,92441,0,0,DarrenStuart,,,"merry christmas don't work to hard over the holiday period.",1198525581
+92474,story,,,1,0,maurycy,"Simple Javascript slideshows for Flickr",http://www.flickrshow.com/,,1198525470
+92473,comment,91911,92448,0,0,downer,,,"There's a converter for 2.x to 3.x.  Or you can transition code by hand -- there are <i>some</i> differences in <i>some</i> places.  Breaking backward compatibility just means <i>not everything is guaranteed to work the same</i> -- it does NOT mean that <i>now everything is different</i>.  It's still Python.<p>Being ""out of date"" doesn't make any sense -- today's libraries aren't suddenly going to become <i>less</i> functional later.  The stuff that works today will still work 5 years from now.<p>You change versions IF the new version gives you something you need.  You don't change just because it's new.<p>And, always, the paper tiger is better than the real one.  Not doing something <i>today</i> because it'll be outdated in a few years would mean never doing <i>anything</i> in the computer industry.",1198524462
+92472,story,,,3,6,maurycy,"Facebook challenged by ad-free rival, Badoo",http://www.guardian.co.uk/media/2007/dec/24/web20.digitalmedia,,1198524424
+92471,story,,,4,0,henning,"Small software companies: you need developers, not programmers",http://www.ericsink.com/No_Programmers.html,,1198524350
+92470,story,,,15,2,maurycy,"Top 10 Javascripts for Image Manipulation",http://www.blogohblog.com/top-10-javascripts-for-image-manipulation/,,1198524280
+92469,story,,,4,0,maurycy,"Top 10 Startups Worth Watching in 2008 ",http://www.wired.com/techbiz/startups/news/2007/12/YE_10_startups,,1198524270
+92468,story,,,4,1,maurycy,"Where did the intranets go?",http://www.37signals.com/svn/posts/747-where-did-the-intranets-go,,1198524201
+92467,story,,,1,1,maurycy,"A Web Troll's Toll on the Clinton Campaign",http://online.wsj.com/article/SB119845369610047739.html?mod=hpp_us_inside_today,,1198524098
+92466,story,,,1,0,maurycy,"Fake Steve Jobs gets takedown letters from Apple. Or not?",http://www.engadget.com/2007/12/22/fake-steve-jobs-gets-takedown-letters-from-apple-or-not/,,1198523928
+92465,story,,,1,0,maurycy,"What Is Good Code?",http://ifacethoughts.net/2007/12/24/what-is-good-code/,,1198523833
+92464,comment,92388,92388,0,0,brooksbp,,,"Google Analytics<p>I believe using anything relatively more intensive is not worth the cycles.  Even 'top' is taxing at times.",1198523590
+92463,comment,92378,92378,0,0,albertcardona,,,"Bear in mind they are not using an extracted 3D model of a cortical column, but ""merely"" a mush up of known neurons and known statistical properties of cortical columns.<p>In other words, we are far from simulating the brain.",1198523065

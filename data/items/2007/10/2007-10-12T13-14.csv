@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+66830,story,,,1,0,transburgh,"Wikipedia Hits Mid Life Slow Down",http://www.techcrunch.com/2007/10/11/wikipedia-hits-mid-life-slow-down/,,1192197025
+66829,comment,66785,66815,0,0,ivankirigin,,,"I posted these thoughts here:
+<a href=""http://news.ycombinator.com/item?id=66828"" rel=""nofollow"">http://news.ycombinator.com/item?id=66828</a>",1192196818
+66828,story,,,1,1,ivankirigin,"Idea Week, Day #5: Full resolution online video, on the cheap ",http://www.tipjoy.com/our2cents/2007/10/full_resolution_online_video_o.html,,1192196796
+66827,comment,66735,66735,0,0,wmeredith,,,"I think this is right on.  Users come first and everything else will fall into place. (I'm not saying to <i>ignore</i> everything else, but making users number 1 and letting everything else fight it out for number 2 seems like the best way to work.)",1192196703
+66826,story,,,1,0,nickb,"MCL (Macintosh Common Lisp) going opensource!",http://article.gmane.org/gmane.lisp.mcl.general/2500,,1192196371
+66825,comment,66652,66652,0,0,pg,,,"Usually about a third of applications are submitted on the last day.",1192196308
+66824,comment,66652,66652,0,0,wmeredith,,,"I submitted last night, but I just heard about Y-Comb two weeks ago. My founders and I have been working on our project for a few months already.",1192196201
+66823,comment,66344,66344,0,0,wmeredith,,,"I hope he's right b/c I'm stuck in Kansas City (Not really stuck, I just love it here.)",1192196123
+66822,comment,66701,66701,0,0,wmeredith,,,"That's funny this popped up here today. I submitted this in my application last night (about 4 hours before this was posted) as the something funny or interesting I had discovered. :-)",1192196077
+66821,comment,66818,66818,0,0,pg,,,"We're not quoting numbers anymore, but more than last time.<p>It was over a year ago when we started to get a lot of press, though.  ",1192195871
+66820,comment,66701,66701,0,0,jyot_singh,,,"Breaking news - Google just bought Zombo.com for an undisclosed amount. We are few lucky people who got to see the home page.
+",1192195758
+66819,comment,66568,66568,0,0,ivankirigin,,,"Information wants to be free, and music is no different.<p>Freely available music with a mechanism for direct fan support (disc boxes, art, shows, straight up money) is the future. Aggregation of free content with intelligent and/or community based recommendations are also important for discovery of new interests.<p>Some related thoughts here:
+<a href=""http://www.tipjoy.com/our2cents/2007/10/the_future_of_media_distributi.html"" rel=""nofollow"">http://www.tipjoy.com/our2cents/2007/10/the_future_of_media_...</a>
+",1192195636
+66818,story,,,14,16,regularjoe,"Ask PG: How many applications?",,"Unlike other cycles, Y Combinator has recieved a lot of publicity lately.
+This has changed somewhat the number of applications? How many have been received?",1192195553
+66817,comment,66701,66701,0,0,kashif,,,"It gets a tad repetitive after 4 hours or so.. ",1192195398
+66816,comment,65815,65815,0,0,sumit123_j,,,"Rite Paul. I agree with you on every aspects. I just have some doubt. I operate in India and run my own startup with two other co-founders. We also tried to pitch to the silicon valley but found a lot of issues and we found it not worth enough. What will say in regards of the same.
+",1192195295
+66815,comment,66785,66787,0,0,ivankirigin,,,"Having just put a screencast online, I wonder if there is room in the video world for a thin layer on top of Amazon S3 to display & embed video.<p>While creating an account might be a barrier, you could just charge slightly more than Amazon does for their storage.<p>Also, you could solve transcoding hell once, and sell it part and parcel as a EC2 module.<p>A thin layer on top of tools like this Flash Video Player would make it a complete package:
+<a href=""http://www.jeroenwijering.com/?item=JW_FLV_Player"" rel=""nofollow"">http://www.jeroenwijering.com/?item=JW_FLV_Player</a>",1192195191
+66814,comment,66806,66806,0,0,iamwil,,,"The way the author uses the common implementation reminds me of Ruby mixins.  One of the things that takes a bit of getting use to in Ruby is that classes aren't types, and object hierarchy is used to share implementation, rather than enforce type.",1192195018
+66813,story,,,2,0,iamwil,"Highly available distributed hash storage from Amazon",http://glinden.blogspot.com/2007/10/highly-available-distributed-hash.html,,1192194611
+66812,comment,66231,66231,0,0,goodgoblin,,,"I read this and for the life of me couldn't actually find mention of the New VC model mentioned in the title.  Anyone care to elaborate/speculate?",1192194352

@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+126073,comment,125841,125841,0,0,brlewis,,,"Great, funny diagram.  I think a bidirectional arrow between C# and PHP is sorely needed, though.",1204293297
+126072,comment,125766,125831,0,0,brlewis,,,"When he said the advanced stuff was too advanced I figured he was referring to SICP.  When he said the basic stuff was too basic I thought he might have been referring to HTDP.",1204293171
+126070,comment,125841,125879,0,0,brlewis,,,"It's job was to provide a gentle path away from C++.  I'm not interested in a gentle path away from C++, I just want to write good applications.<p>I don't hate Java though.  I can't complain because I do all my Java programming in Scheme.",1204292984
+126069,story,,,24,11,pius,"""I consider this method (Proc#curry) to be trivial""",http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/15558,,1204292956
+126068,comment,125841,125841,0,0,jcromartie,,,"What's this nonsense about Ruby being a ""web language?""<p>That chart needs a thorough s/Ruby/Rails/g",1204292636
+126067,story,,,20,26,eVizitei,"Rails Rocks",http://codeclimber.blogspot.com/2008/02/rails-rocks.html,,1204292587
+126066,comment,125841,125879,0,0,jcromartie,,,"It's not that <i>everybody hates</i> Java; it's that <i>nobody loves</i> Java.<p>I'd guess that those who <i>do</i> say ""I love Java"" probably don't know any other languages.  Maybe if the only choices were Visual Basic 5 and Java...?",1204292410
+126065,comment,125175,125175,0,0,jamescoops,,,"It's a shame no-ones blogged it this time like auctomatic crew, draftmix did",1204292086
+126064,comment,126061,126061,0,0,matstc,,,"This website has the prettiest interface I've ever used online.",1204291777
+126063,comment,125766,125766,0,0,dpapathanasiou,,,"The Common Lisp Directory has a list of online resources (tutorials, references, books, blogs, etc.) here: <a href=""http://www.cl-user.net/asp/tags/information"" rel=""nofollow"">http://www.cl-user.net/asp/tags/information</a>",1204291745
+126062,comment,125769,125821,0,0,dhimes,,,"I also bought a Vista-preinstalled laptop.  I haven't had any problems (except that Java lays out things a little differently), but I don't use it much.  I installed Fedora and use that machine as a dual boot.  I use Vista when I need wifi, cuz the drivers aren't available for fedora yet.",1204290806
+126061,story,,,11,13,matstc,"Online photo editing",http://www.picnik.com/,,1204290718
+126060,comment,125769,125787,0,0,dhimes,,,"XP costs $200--half the price of the machine!<p>That's why I am willing to endure the pain of making Linux work.  It's wonderful, but lags in driver release.",1204290634
+126059,story,,,5,0,german,"UsWare vs. ThemWare",http://www.codinghorror.com/blog/archives/001066.html,,1204290589
+126058,comment,125119,126027,0,0,Tichy,,,"I usually don't mind, but really, the whole first page was about nothing else than her looks.",1204290357
+126056,story,,,3,0,shawnaY,"What If Bill Gates Never Made Software?",http://www.cio.com/article/190300,,1204290069
+126055,story,,,1,0,matstc,"LinkBlip: get notified when someone visits a url",http://linkblip.com/,,1204290041
+126054,comment,126043,126043,0,0,edw519,,,"""Always program first and blog second.""<p>I sure hope that was output, not input.",1204290031

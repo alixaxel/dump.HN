@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85640,story,,,15,0,injesus,"reAnimator: Regular Expression FSA Visualizer ",http://osteele.com/tools/reanimator/,,1196701190
+85638,comment,85527,85527,0,0,jorgeortiz85,,,"Yeah, sucks when the proper privacy controls aren't built-in, doesn't it?",1196701070
+85637,comment,85589,85624,0,0,hhm,,,"Thanks a lot! I had googled for that, but couldn't find anything interesting.",1196701025
+85636,story,,,2,0,transburgh,"Tip from Google: Don't Bet on One ""Big Bang""",http://foundread.com/2007/12/03/tip-from-google-dont-bet-on-one-big-bang/,,1196700980
+85635,comment,85494,85494,0,0,vegashacker,,,"That's weird.  A professor of mine told me about this years ago!  OMG, Parrando stole this paradox!  oh wait, this article's 8 years old.",1196700968
+85633,comment,85631,85631,0,0,terpua,,,"Too bad Halu Ramen is not on the list: <a href=""http://foodiebytes.com/search.html?t=item&rad=20&srt=score&q=ramen&loc=San+Jose%2C+CA+95117"" rel=""nofollow"">http://foodiebytes.com/search.html?t=item&rad=20&srt...</a>",1196700428
+85632,story,,,2,0,chaostheory,"Constructing Artificial Emotions: A Design Experiment",http://www.gamasutra.com/view/feature/1992/constructing_artificial_emotions_.php,,1196700293
+85631,story,,,1,1,terpua,"FoodieBytes Helps You Fill Your Cravings",http://mashable.com/2007/12/03/foodiebytes/,,1196700263
+85630,story,,,2,0,ivankirigin,"Ivan Krstić on OLPC Security",http://video.google.com/videoplay?docid=-4285568518538296189,,1196700071
+85629,comment,85461,85618,0,0,andreyf,,,"> How is someone like this not going to win by landslide?
+...
+> On a side note, how are people like Rudy even remotely considered a candidate?<p>Uneducated voters. A lot of people think Barack Hussein Obama is a Muslim, and that Rudy is a terrorist fighting 9/11 hero.",1196700009
+85628,story,,,1,0,kmt,"Google and the 700 MHz auction",http://www.wetmachine.com/totsf/item/951,,1196699293
+85627,story,,,5,0,terpua,"Bic Wants to Flick Your Cell Phone",http://www.businessweek.com/magazine/content/07_50/b4062072796540.htm?campaign_id=rss_tech,,1196698924
+85626,story,,,2,0,nickb," How to bootstrap your indie art needs",http://lostgarden.com/2007/12/how-to-bootstrap-your-indie-art-needs.html,,1196698858
+85625,comment,85589,85624,0,0,danohuiginn,,,"clearly html links are the wrong way to go around here ;)",1196698855
+85624,comment,85589,85612,0,0,danohuiginn,,,"Googling turns up a few lisp-in-python implementations:  <a href=""<a href=""http://www.biostat.wisc.edu/~annis/creations/PyLisp/"" rel=""nofollow"">http://www.biostat.wisc.edu/~annis/creations/PyLisp/</a>"">Pylisp</a>, <a href=""<a href=""http://www.xs4all.nl/~yduppen/site/psyche.html"" rel=""nofollow"">http://www.xs4all.nl/~yduppen/site/psyche.html</a>"">psyche</a> and <a href=""<a href=""http://hkn.eecs.berkeley.edu/~dyoo/python/pyscheme/"" rel=""nofollow"">http://hkn.eecs.berkeley.edu/~dyoo/python/pyscheme/</a>"">pyscheme</a> (the last two being scheme, obviously). Haven't tried using them; maybe I will the next time I feel like frittering away a couple of hours.",1196698818
+85623,story,,,1,0,nickb,"Yahoo Top Searches 2007: Please, People, Stop Typing Britney Spears Into Search Boxes",http://www.techcrunch.com/2007/12/03/yahoo-top-searches-2007-please-people-stop-typing-britney-spears-into-search-boxes/,,1196698710
+85622,comment,85460,85545,0,0,naish,,,"Here is my solution: <a href=""http://fernlabs.com/Problem1Solution.png"" rel=""nofollow"">http://fernlabs.com/Problem1Solution.png</a>",1196698614
+85621,comment,85619,85619,0,0,mrtron,,,"I don't know how this compares to URL routing previously in ASP.NET, but compared to something like Django's URL dispatcher it just looks...ugly.<p>Django:<p><p><pre><code> urlpatterns = patterns('',
+    (r'^articles/2003/$', 'news.views.special_case_2003'),
+    (r'^articles/(\d{4})/$', 'news.views.year_archive'),
+    (r'^articles/(\d{4})/(\d{2})/$', 'news.views.month_archive'),
+    (r'^articles/(\d{4})/(\d{2})/(\d+)/$', 'news.views.article_detail'),
+ )
+</code></pre>
+I could see this being yet another situation where someone writes a utility to produce these URL routes for ASP.NET, and makes me wonder why they took such an approach.",1196698582
+85620,comment,85559,85559,0,0,inovica,,,"I'd be interested in reading this case study and I'm sure others here would. Is it possible to post it here or post a link to it?",1196698129

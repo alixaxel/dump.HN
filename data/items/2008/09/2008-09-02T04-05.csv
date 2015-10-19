@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+292389,comment,292386,292386,0,0,rantfoil,,,"Been following this blog (on posterous ;-) ) -- really interesting experiments.",1220331571
+292388,comment,292287,292287,0,0,Tlogmer,,,"You've got a grammatical error in the first sentence -- ""people like you and I"" should be ""people like you and me"" -- me is the direct object.",1220331561
+292387,comment,291924,291945,0,0,saad0105050,,,"Scored 0 on Samsung 17"" CRT :) It felt so good when I was sucking at javascript hacks.",1220331514
+292386,story,,,29,3,henning,"Experiments in programmatic graphics generation in Arc (with code, pics)",http://arcxs.posterous.com/,,1220331493
+292385,comment,291363,291363,0,0,CaptainMorgan,,,"""Can a single person develop a website?""<p>Absolutely! Personally, I've lost track of the number of trivial websites I've created... sites of some value, exactly three.<p>It can be done.",1220331327
+292384,comment,291924,291924,0,0,roundbrackets,,,"After a lot of squinting I ended up with 4. I seem to have trouble in the bluish range. My eyes are hurting now.",1220331320
+292383,story,,,1,2,gasull,"Comcast to Place a 250 gigabyte-a-month Cap on Internet Downloads",http://www.nytimes.com/2008/08/30/technology/30comcast.html?em,,1220331292
+292380,comment,291946,291946,0,0,neetij,,,"Techcrunch has some screenshots from an official Google Chrome site (now taken offline) - <a href=""http://www.techcrunch.com/2008/09/01/first-public-screen-captures-of-google-chrome/"" rel=""nofollow"">http://www.techcrunch.com/2008/09/01/first-public-screen-cap...</a>",1220331243
+292377,comment,291946,291946,0,0,siculars,,,"good move google! this has nothing to do with firefox. it has everything to do with webkit and ie. basically if you wanna be a big player you need your own toys. a google browser will be googles entry to to the new app space on an equal footing with ms. this is a place where you can bring in money by sale or subscription - without advertising.<p>but beyond that, google needs to compete with apples webkit on the mobile front. they need to embed a browser in android - preferably their browser ;) so far mozilla does not have an answer to the mobile webkit.<p>i dont see this as a dig on mozilla, google is funding them. i see mozilla remaining the best consumer app and goggles chrome becoming standard fair for mobile and desktop app browsing/computing for enterprise.",1220331148
+292376,comment,291929,291929,0,0,projectileboy,,,"Wow... The contempt this dude has for his customers seems to ooze off the page.",1220331130
+292374,comment,292331,292370,0,0,wheels,,,"I think you mean Lindows.  Erm, Linspire.  Meh, whatever, just get his $100.  ;-)",1220330922
+292373,story,,,1,0,MaysonL,"Bonobos May Have Greater Linguistic Skills Than Previously Thought",http://www.sciencedaily.com/releases/2008/08/080828171701.htm,,1220330695
+292372,story,,,1,0,gasull,"New Web addresses ending in words like .perfume, .sports and .paris",http://www.nytimes.com/2008/06/27/technology/27icann.html?fta=y,,1220330586
+292370,comment,292331,292331,0,0,morbidkk,,,"send him ubuntu hardy 8.04LTS for free",1220330417
+292369,comment,292070,292233,0,0,hugh,,,"<i>1. Rerolling the dice is still a faster (and thus better) way of solving this problem.</i><p>Ah, but it's not guaranteed to terminate.",1220330383
+292368,comment,292331,292331,0,0,daniel-cussen,,,"How can anyone say we're in a recession with job offers like this?",1220330201
+292367,comment,292343,292343,0,0,SwellJoe,,,"""which is slated for release on Windows tomorrow""<p>WTF, Google?",1220330054
+292366,story,,,2,0,dnene,"Managing asynchronous operations with python generators (part3)",http://loveandtheft.org/2008/09/01/managing-asynchronous-operations-with-python-generators-part3/,,1220329946
+292365,comment,291928,291928,0,0,morbidkk,,,"It misses some things:<p>1) prototype<p>2) constructor<p>3) prompt<p>4) debugger statement i.e. this is must for anyone who want to put breakpoints in code<p>But this is really short and sweet 1 page Core JS summary for people who want to write their own libraries<p>(function(){<p><pre><code>  var myLib = {}
+
+  myLib.prototype={
+
+  method1: function(){ xx;yy;zz}, 
+
+  method2: function(){ xx;yy;zz}, 
+
+  variable1: 'value1' 
+</code></pre>
+}<p>)()",1220329743
+292364,story,,,8,0,gasull,"Scientist are finding that daydreaming is necessary for creativity",http://www.boston.com/bostonglobe/ideas/articles/2008/08/31/daydream_achiever/,,1220329686
+292363,comment,292120,292260,0,0,chrisbroadfoot,,,"Lies. There's a plugin API, and it's open source.",1220329565
+292361,comment,292287,292287,0,0,infactitsme,,,"i just fuckin LOVE this SITEEEEEEEEEEEEEEEEEEE",1220329419
+292358,comment,292287,292287,0,0,infactitsme,,,Awesomenessssssssssssssssssssss,1220329372
+292356,comment,292086,292086,0,0,amrithk,,,"Interesting to see the comments. We are in the same boat as well. We are a team of three people but two are on H1-B visas and cannot quit their jobs (otherwise they'll have to leave within 2 weeks). Anyone in a similar boat?",1220329321
+292355,comment,292331,292331,0,0,thomasmallen,,,"$100 is a reasonable price to install Debian. But selling it later may prove tricky.",1220329320
+292354,comment,292331,292331,0,0,fnazeeri,,,"Priceless!  ...well, actually, $100...",1220329057
+292352,story,,,3,0,sutro,"French ISP Defies Government and Music Industry P2P Filtering Mandate",http://www.dailytech.com/French+ISP+Openly+Defies+P2P+Filtering+Order/article12828.htm,,1220328880
+292351,story,,,51,66,twampss,"OpenID Is Why I Hate The Internet",http://teddziuba.com/2008/09/openid-is-why-i-hate-the-inter.html,,1220328877
+292349,comment,292196,292196,0,0,bootload,,,"<i>""... That means Google is slowly but surely working to erode Microsoft's monopoly. If browsers provide a high-quality, universally popular, OS-independent platform for applications, OS vendors no longer have any particular advantage in the desktop applications market. ...""</i><p>On the assumption that most users use this browser.<p>More browsers, more market split. The question nobody has answered is how is this new Chrome browser going to get on computers? Downloaded by users? Mandated by companies? or shipped on new operating systems?",1220328315
+292348,comment,292155,292155,0,0,vaksel,,,"great now you'll have to test sites in Google also",1220328093

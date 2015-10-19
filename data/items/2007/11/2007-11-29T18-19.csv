@@ -1,0 +1,43 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+84731,comment,84604,84604,0,0,mynameishere,,,"<i>Panpsychism may be easier to parody than to refute.</i><p>Much like Santa.<p>The possibility of mind-bits floating around does not explain why the nervous system (which, at its earliest, has a well-understood and insensate habit of food-gathering) would have more than its fair share of mind-bits.<p>We <i>do</i> understand how silicon, germanium, copper, etc, turn into a machine having something similar to thought processes, and these processes are 100 percent detached from the originating materials.",1196362759
+84730,comment,84721,84721,0,0,mrtron,,,"A classic UW grad - suggests that a university degree is not required, but drops in that he just happened to graduate from ""Canada's highly-regarded Math/CS program at Waterloo"".  I suppose it is now only appropriate I say I also am graduate.<p>I have to agree with him that a university degree is not required - but I would still interview a UW grad above a few other candidates.  My reasoning?  I know much of the basic algorithm, design and other fundamentals will have a higher chance of being there than someone who is entirely self taught.  University forces you to learn things that don't necessarily meet your exact interests - but that graph algorithm you didn't really enjoy but learned could come in handy next time you are writing a google maps mashup hack.<p>Edit: I also forgot to mention a huge indicator among my peers is pet projects.  The good developers are always working on something (a lot of android apps lately), and the bad developers aren't.",1196362131
+84729,story,,,2,4,buckpost,"Why Twitter is Inane",http://fourreasonswhy.com/2007/11/29/why-twitter-is-inane/,,1196362118
+84728,comment,84721,84721,0,0,jraines,,,"Thanks for this.  I am always wondering how far away I am from being a ""real"" Rails developer -- programming is a longtime hobby for me, and I love Rails and maybe would like to one day build stuff in it for a living. Number 6 on the list is especially encouraging, and numbers 4 and 5 give me some nice to-do's.",1196361820
+84727,comment,84604,84604,0,0,shawndrost,,,"""But the rock doesn't exert itself as a result of all this ""thinking.""""<p>What, and we do?<p>""How could the ineffable experience of tasting a strawberry ever arise from the equations of physics?""<p>Physics, as applied here, is not subject to intuition.<p>Confused arguments for and against, but I find myself considering the idea more than I had before.",1196361746
+84726,comment,84090,84218,0,0,lucraft,,,"This comment reminds me of the time there were two defence related stories in The Daily Telegraph. <p>Story #1: in approx 10 years time the Royal Navy will have no aircraft carriers, due to procurement failures, and for the first time since WW2 the UK will be unable to project air power around the globe. <p>Story #2: British Army soldiers have been issued special underpants for war zones. <p>They ran in the same week. Which do you think was put at the front of the newspaper with a large billing, and which was slipped in as a note on page 25? You get one guess.",1196361433
+84725,comment,84547,84710,0,0,paulgb,,,"Facebook has changed so much since then.",1196361300
+84724,comment,84553,84553,0,0,smelendez,,,"This post is misleading. Facebook doesn't claim to own materials you post. They have a non-exclusive license to do anything they want with it that expires immediately when you remove the content from the site.<p>",1196360752
+84723,comment,84604,84704,0,0,Tichy,,,"I doubt that ""with consciousness, we have experiences"". I think consciousness is only an illusion. <p>OK, try to name at least something you consider an aspect of consciousness? I already don't have a clue again what we are even talking about. What is ""consciousness"" supposed to mean?",1196360546
+84722,comment,84410,84551,0,0,dfranke,,,"Okay, apparently I didn't quite think this one through.  I wasn't claiming that GHC memoizes <i>values</i>, but it does memoize thunks.  I thought this algorithm would be getting some benefit from that, but having inserted some trace statements, I was apparently wrong.<p>Here's a version that really is memoized:<p><pre><code> import Control.Parallel
+ import Control.Monad
+ import Text.Printf
+
+ cutoff = 35 
+ fibs = [ fib n | n <- [0..] ]
+
+ fib' :: Int -> Integer
+ fib' 0 = 0
+ fib' 1 = 1
+ fib' n = fibs !! (n-1) + fibs !! (n-2)
+
+ fib :: Int -> Integer
+ fib n | n < cutoff = fib' n
+       | otherwise  = r `par` (l `seq` l + r)
+  where
+     l = fibs !! (n-1)
+     r = fibs !! (n-2)
+
+ main = forM_ [0..45] $ \i ->
+             printf ""n=%d => %d\n"" i (fib i)
+
+</code></pre>",1196360539
+84721,story,,,31,39,luccastera,"11 Tips on Hiring a Rails Developer",http://www.rubyinside.com/11-tips-on-hiring-a-rails-developer-662.html,,1196360261
+84720,comment,84448,84612,0,0,electric,,,"If I understand his last statement correctly, he says don't look for anything in particular, just keep searching.<p>",1196360140
+84719,comment,84547,84554,0,0,Fuca,,,"I think he can take our dislike looking at his bank account..",1196360052
+84718,story,,,12,0,charzom,"What If They Gave a Browser War and Microsoft Never Came?",http://www.codinghorror.com/blog/archives/001006.html,,1196359833
+84717,story,,,1,0,charzom,"JavaScript shortcut notations",http://www.wait-till-i.com/2007/11/27/javascript-shortcut-notations-that-shouldnt-be-black-magic-to-the-average-developer/,,1196359782
+84716,comment,84712,84712,0,0,mattculbreth,,,"Well if the guy would use Reddit he'd have all the LOLCATs he needs.",1196359541
+84715,comment,84362,84618,0,0,kogir,,,"Nearly all CDMA phones sold in the US today support Mobile based  and assisted fixes from applications.",1196359539
+84714,comment,84649,84701,0,0,programnature,,,"amen to that. one might say they've prematurely optimized on what is interesting about computation, before we had enough practical experience to really know.
+",1196359493
+84713,comment,84362,84593,0,0,kogir,,,"So, in mobile handsets there are three types of GPS. Standalone, mobile based, and mobile assisted.<p>Standalone is the type of GPS you are referring to where the phone uses only the onboard GPS receiver. This type of fix is slow and generally does not work indoors. It also uses a lot of power. When you get a fix, it's usually pretty accurate, but you don't often get one. Generally only iDen (Nextel phones) support this.<p>Mobile assisted fixes are where the phone gathers all the data it can (GPS satellite signals it can see, current cell tower and signal strength, etc) and sends it to a computer run by the carrier that does the actual math. This type of fix is really fast, usually works indoors with good accuracy and uses the least battery. It is however more expensive for the carrier computationally.<p>Mobile based fixes are when the phone uses almanac data from the carrier (which GPS satelites should be visible, the location of the current cell tower, etc) to calculate the phone's position. It only asks the carrier for new information every few hours. This type of fix is reasonably fast, frequently works indoors, and is fairly accurate.<p>Finally there is cell tower information which works instantly and is almost never acceptably accurate. It is not related to GPS at all.<p>Loopt uses whatever is available in order of accuracy. We prefer mobile based and assisted fixes (available on almost all CDMA devices released in the past 2-3 years), and fall back to standalone GPS and cell tower only when necesssary.<p>Users who mainly get cell tower fixes are usually not satisfied with the accuracy. We do our best to do better than cell tower, and so far have not released on any devices that only support cell tower.<p>I hope that clarifies things a little. ",1196359317

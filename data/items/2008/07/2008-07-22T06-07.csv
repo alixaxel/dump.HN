@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+253071,comment,252980,252980,0,0,scorpioxy,,,"I share your concerns. However, i moved to a GNU/Linux distribution over 2 years ago and never looked back.<p>I have always said that the Microsoft environment is a hostile one for developers. And that is without saying anything about the quality of their platform.<p>There are still a lot of problems to be solved on the desktop side for which online equivalents probably won't work right now. Its just a matter of who steps up and solves them...<i></i>hint<i></i>",1216709921
+253070,comment,250704,251021,0,0,khurrams,,,"Hi
+I am interested - Please feel free to contact me at khurram@geniteam.com",1216709660
+253068,story,,,4,7,jmtame,"Favorite IDE for PHP?",,"I'm just curious to see what everyone's favorite IDE is for PHP development (I'm specifically using the CodeIgniter framework).  I'm just now getting into Eclipse, and it seems decent.  Anyone know of good alternatives?",1216709641
+253067,story,,,1,0,bootload,"FOSS: iPhone-native WordPress Client",http://ma.tt/2008/07/iphone-native-wordpress-client/,,1216709618
+253066,comment,252627,252627,0,0,jcdreads,,,"Chaos theory isn't really a girl, but is instead a drag queen.  When people breathlessly ask you about that ""girl"" you know that they must be pretty confused about women generally.",1216709602
+253065,comment,253004,253004,0,0,thomasswift,,,"pinch and zoom works for me. Then double tap to zoom it out",1216709181
+253064,comment,252014,252137,0,0,theoutlander,,,"Yes, we are exploring speech recognition programs for contextual ads. I've heard that there is another advertising service that does this on the fly.<p>Good point on the broadcast TV for soccer games! Thanks for the suggestions.",1216708535
+253063,comment,252014,252031,0,0,theoutlander,,,"Thanks for the suggestions!",1216708386
+253062,comment,252014,252264,0,0,theoutlander,,,"Guess we need to wait till we hit 1000 active daily users before we can use VideoEgg.",1216708362
+253061,comment,252014,252086,0,0,theoutlander,,,"Yes, that is what we are planning to do.",1216708233
+253060,comment,252014,252142,0,0,theoutlander,,,"Unfortunately, Adsense for video is only available to sites with 1 million video views per month.",1216708174
+253059,story,,,4,0,dnaquin,"Testing Django Applications",http://blog.disqus.net/2008/07/21/testing-django-applications/,,1216708059
+253058,comment,252450,252456,0,0,dmv,,,"<a href=""http://en.wikipedia.org/wiki/Motorola_FONE_F3"" rel=""nofollow"">http://en.wikipedia.org/wiki/Motorola_FONE_F3</a>",1216707959
+253056,story,,,2,0,nickb," Study: IT jobs will drop in 2009 (including cloud computing)",http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9110329,,1216707677
+253055,comment,250704,250704,0,0,theoutlander,,,"#25 - A craigslist competitor.... used to be <a href=""http://expo.live.com"" rel=""nofollow"">http://expo.live.com</a>, but it seems like even Microsoft couldn't compete against them! If you log in today, you will see the following message:<p>Windows Live Expo will discontinue service on 31 July 2008. In preparation, the following features are no longer available:<p><pre><code>    * Create a new account.
+    * Post a new listing.
+    * Extend a listing.
+    * Upgrade a listing to a premium listing.
+
+</code></pre>
+All current listings will remain on expo.live.com until they expire.",1216707413
+253054,comment,252865,253008,0,0,tlrobinson,,,"I think that's fine, as long as it's not ""1 ports"".<p>The idea is that the patches randomize the source port, which the attacker won't know, so you'll ignore any responses that don't match. (it's still <i>possible</i> to guess the correct port number, but much much harder)<p>If you get ""1 ports"" for 26 queries then it's always using the same port (bad!), but if you get somewhere around 26 ports for 26 queries then it's using random ports (since it's random it won't always be 26 distinct ports, which is why it sometimes shows 24 or 25)<p>I'm no expert but this is what I understand of it. tptacek, feel free to explain it better (just kidding!)",1216707387
+253053,comment,252655,253006,0,0,cubrilovic,,,"editor at tcit - we are running the design + software build etc.",1216707341
+253052,comment,252655,252996,0,0,cubrilovic,,,"wow you are way off",1216707241
+253051,comment,250704,252874,0,0,theoutlander,,,"Yes, but guess what? Craigslist ended up buying Craigslist.com because it was a porn site and majority of the people ended up there because of habbit.",1216707198
+253050,comment,252019,252986,0,0,kimovski,,,"Good point, thanks.",1216707118
+253049,comment,253033,253033,0,0,atog,,,"1 million in about 16 months! Congratulations!",1216706975
+253048,comment,253033,253039,0,0,jasonlbaptiste,,,"illegal content",1216706893
+253047,comment,252907,253018,0,0,cheponis,,,"The fourth option is to pay more.",1216706682
+253046,story,,,5,0,jlhamilton,"Is Modern Mathematics Reliable?",http://scienceblogs.com/evolutionblog/2008/07/is_modern_mathematics_reliable.php,,1216706633
+253045,story,,,5,1,jmorin007,"E-Gold Founders Face Prison for Money Laundering",http://mashable.com/2008/07/21/e-gold/,,1216706540

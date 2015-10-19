@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95847,comment,95206,95378,0,0,tlrobinson,,,"Yeah, I don't think it would be too hard, you just need a microcontroller, digital compass, a bunch of vibrating motors, and a power source.<p>Vibrating motors:
+<a href=""http://www.sparkfun.com/commerce/product_info.php?products_id=8449"" rel=""nofollow"">http://www.sparkfun.com/commerce/product_info.php?products_i...</a><p>Digital compasses:
+<a href=""http://www.sparkfun.com/commerce/categories.php?cPath=23_83"" rel=""nofollow"">http://www.sparkfun.com/commerce/categories.php?cPath=23_83</a>",1199764785
+95846,story,,,7,0,nickb," Monads in Python (with nice syntax!)",http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html,,1199764618
+95845,comment,95774,95774,0,0,tel,,,"Kind of juvenile. Interesting if you've never heard of the concept before, silly otherwise.",1199764195
+95844,comment,95680,95757,0,0,tel,,,"It's pretty similar to the previous Casting Spels in Lisp tutorial in that it's overly cute and loquacious but does manage to approach a heady topic with some degree of innocence.<p>It's more targeted as an intro to Haskell for the light hobbyist, really.",1199763979
+95843,comment,95614,95739,0,0,dominiek,,,"No worries!<p>I had some issues with a sudden spike in load so I just added an extra machine. Hope that will get me going for a couple of days :-)",1199763207
+95842,story,,,1,0,nreece,"World's Largest Television Unveiled",http://www.theage.com.au/news/world/btechnologyb-worlds-largest-television-unveiled/2008/01/08/1199554621803.html,,1199762743
+95841,story,,,5,1,transburgh,"Jay-Z, HP's star endorser, uses a Mac",http://valleywag.com/341904/jay+z-hps-star-endorser-uses-a-mac,,1199761913
+95840,story,,,1,0,dherman76,"Overheard at CES  2008",http://www.darrenherman.com/2008/01/07/overheard-at-ces-2008-quotes-from-industry-leaders/,,1199761456

@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+68456,comment,68345,68454,0,0,rms,,,"it certainly says much more about the time spent contributing than anything about quality",1192532351
+68455,story,,,28,18,keaneu,"You Can't Predict Who Will Change The World",http://www.forbes.com/2007/10/13/nicholas-taleb-prediction-tech-future07-cx_nt_1015change.html?feed=rss_news,,1192531396
+68454,comment,68345,68345,0,0,h34t,,,"Doesn't a user's karma say more about how much time they have to contribute to Hacker News than about how good their judgment is?
+",1192531289
+68453,story,,,4,0,adnam,"New reddit broken for text-only browsers :-(",http://adam.foquita.net/reddit_comments.html,,1192531123
+68452,comment,68198,68198,0,0,benhoyt,,,"Sweet! I learned to program by writing a Forth compiler. Was an excellent way to learn. I only discovered Lisp much later, and definitely like what I see, but haven't gotten around to learning it properly yet.<p>Interestingly, Lisp people think that Lisp doesn't have much syntax -- Forth has even less. It's basically words separated by spaces, and that's it.<p>Is it just me, or has Forth been getting quite a bit of mention recently? Perhaps it's because the Forth-derived Factor language is getting more popular.",1192530713
+68451,comment,67584,67681,0,0,runner29,,,"swhnorton, how big is the use of QR in China?",1192529809

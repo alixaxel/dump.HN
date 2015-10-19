@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+301318,comment,300960,300960,0,0,raju,,,"Good luck Shawn! Keep us posted on how things are turning out for you.",1221134398
+301316,comment,301270,301270,0,0,_bn,,,"Nice little ""business"" model he's got there, but at least we know he's no hacker.",1221134283
+301315,story,,,19,8,raju,"Court bans VoIP app on iPhone",http://blog.tmcnet.com/blog/tom-keating/voip/court-bans-voip-on-iphone.asp,,1221134277
+301314,story,,,3,2,raju,"Exclusive Interview: Microsoft Admits What Went Wrong with Vista, and How They Fixed It",http://www.maximumpc.com/article/features/shattered_dreams_and_broken_promises_vistas_failure_launch,,1221134241
+301313,story,,,2,0,raju,"It’s Social Networking for Babies - Twitter From the Cradle",http://www.nytimes.com/2008/09/11/fashion/11Tots.html?_r=1&partner=rssnyt&emc=rss&oref=slogin,,1221134181
+301312,story,,,1,0,nreece,"World's cheapest car is now officially roadworthy",http://specials.rediff.com/money/2008/sep/11video1.htm,,1221134029
+301311,comment,300228,300228,0,0,sgibat,,,"All of these arguments are getting really old. Google said they'd provide an API. I bet you'll be able to do all of these things without even having to fork it.",1221133592
+301310,comment,301024,301092,0,0,danteembermage,,,"In the trade this is known as ""Short and distort""
+You can probably guess how ""pump and dump"" works now right?",1221132924
+301309,comment,300920,300920,0,0,bitdiddle,,,"This is less an issue when programming in lambda calculus, if one takes the combinator approach and just uses S, K, and I.<p>I know, I can hear the complaints about the lack of good libraries...",1221132538
+301308,story,,,1,0,jyothi,"World Communication Awards Shortlist",http://www.worldcommsawards.com/C7227.stm,,1221132167
+301307,comment,300920,301304,0,0,axod,,,"Good points.",1221132029
+301306,comment,300884,300884,0,0,macco,,,"This guy is unreal.
+He is a genius and he is so modest.
+Most important he is always eager to learn. He said somthing simular about classical music.
+A lot of people should pattern oneself on him.(This includes me!)",1221131889
+301305,story,,,1,0,joschi,"Installing memcached And The PHP5 memcache Module On Debian Etch (Apache2) ",http://www.howtoforge.com/installing-memcached-and-the-php5-memcache-module-on-debian-etch-apache2,,1221131656
+301304,comment,300920,301258,0,0,chandler,,,"> If it's a ""lines of code"" contest, then sure, learn to type fast, but if it's about producing good concise code I don't think typing speed makes much difference.<p>In my experience, good, concise code is rarely written on the first pass.  Also (and unfortunately), more often than not people who don't type well are unwilling to spend time on rewrites...",1221131637
+301303,story,,,1,0,raganwald,"Mind reading with Google Chrome",http://counternotions.com/2008/09/11/omnibox/,,1221131631
+301302,comment,300960,301214,0,0,furiouslol,,,"Agree. Just don't go on a publicity blitz before your product is at least beta stage.",1221131587
+301301,comment,300950,301203,0,0,ojbyrne,,,"Well, rarely ≠ never, but I just thought I'd go look for some examples - decided Oscar Wilde quotes would be a good place to start<p><i>A man can be happy with any woman, as long as he does not love her.</i><p><i>A true friend stabs you in the front.</i><p><i>All bad poetry springs from genuine feeling.</i><p><i>Ambition is the last refuge of the failure.</i><p>Just as examples. Admittedly I'm cherry-picking, but I'm 100% convinced that smugness or a sense of self-superiority is integral to ""wit.""",1221131428
+301299,comment,301030,301030,0,0,furiouslol,,,"I like it. It's practical. It's useful. It solves an existing demand. Has an ingenious biz model. What more do you want?<p>I'm using it now and I'm loving it.",1221131293
+301296,story,,,2,0,lmacvittie,"A Billion More Laughs: The JavaScript Hack that acts like an XML Attack",http://devcentral.f5.com/weblogs/macvittie/archive/2008/09/11/3605.aspx,,1221131056

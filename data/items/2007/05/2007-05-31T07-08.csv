@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25605,comment,25551,25604,0,0,davidw,,,"Yes, but there is a positive feedback loop.  Once someone downloads the thing for any reason, they have access to more applications.",1180596215
+25604,comment,25551,25551,0,0,staunch,,,"Most of the time you would have to ask your users to download Google Gears before using your offline version. That doesn't seem significantly better than asking them to download your own extension or desktop application.<p>Apollo is in a much better position given that Adobe has a backdoor to installing software on almost every computer in the world. They can make Apollo ubiquitous almost overnight.
+",1180595601
+25603,comment,25523,25559,0,0,staunch,,,"It may fail but it won't be fast. Calacanis has success under his belt and friends with deep pockets. Apparently he already has funding enough to run for 4 years.",1180595464
+25602,comment,25572,25572,0,0,staunch,,,"He's so used to Twitter he thinks his blog won't accept more than 140 characters of input. I wish he'd said more. What game is Twitter playing in? In what ways does knowing what game you're playing help?
+",1180595107

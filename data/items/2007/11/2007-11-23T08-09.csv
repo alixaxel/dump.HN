@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+82906,comment,82877,82877,0,0,greendestiny,,,"Great code is simple. Simplicity is the cornerstone of all the other attributes of beautiful code - ease of extension, ease of understanding, often even efficiency or at least amenability to optimization. ",1195808306
+82905,comment,82849,82849,0,0,ntoshev,,,"Well, these guys found their way to techcrunch, so they must know something about the novel ways to spam.",1195807623
+82904,comment,82629,82644,0,0,ntoshev,,,"Entrepreneurs want to make their place hot, not go to someone else's. I also doubt Facebook is recruiting top hackers: they don't have hard technology there. They are probably getting a lot of idea guys/socially savvy people.",1195807472
+82903,comment,82867,82901,0,0,JMiao,,,"I think he works at Apple.",1195807316
+82902,story,,,8,3,henning,"Ask: famous Greenspun's Tenth Rule manifestations?",,"Here are some examples I'm aware of of large software systems bucking at the brutally low-level nature of their implementation language:<p>- Mozilla/Firefox - XPCOM, a COM/CORBA-like thing the codebase has, implements message passing and garbage collection.<p>- (allegedly) Yahoo's rewrite of Viaweb<p>- X Windows, though I've never studied its source code so I don't know for sure<p>- Apache: implemented using the ""Apache Portable Runtime"" library that provides things like hash tables and memory mapping.<p>Are there any other instances you're aware of?",1195807265
+82901,comment,82867,82878,0,0,rms,,,"what's the bias?",1195806920
+82900,comment,82867,82898,0,0,rms,,,"That's pretty good. <a href=""http://www.deezer.com/"" rel=""nofollow"">http://www.deezer.com/</a> is another similar on demand song service.",1195806768
+82899,comment,82781,82804,0,0,robmnl,,,"> Why do you need to promote your startup somewhere other than on the internet?
+You got a point.<p>Anywhere I can sign up to be notified when you launch?",1195806501
+82898,comment,82867,82867,0,0,blackswan,,,"You can't download music, only listen to it, but check out <a href=""http://www.songza.com"" rel=""nofollow"">http://www.songza.com</a> for a nice interface.",1195806413
+82897,story,,,5,0,nickb,"Is Facebook Really Censoring Search When It Suits Them?",http://www.techcrunch.com/2007/11/22/is-facebook-really-censoring-search-when-it-suits-them/,,1195806040

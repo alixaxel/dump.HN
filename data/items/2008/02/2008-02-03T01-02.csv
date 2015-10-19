@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+108536,comment,108486,108516,0,0,simianstyle,,,amen,1202003841
+108535,story,,,35,12,drm237,"First look: Ubuntu 8.04 (Hardy Heron) alpha 4",http://arstechnica.com/news.ars/post/20080202-first-look-ubuntu-8-04-hardy-heron-alpha-4.html,,1202003799
+108534,comment,108520,108520,0,0,rhiltd,,,"You must remember the authors are government IP bureaucrats.  These are the people who make IP lawyers look exciting and rational.<p>IP Australia would NEVER suggest that people actually DO SOMETHING without spending $100K on legal and consultants fees.<p>They would know what an innovation was if it bit them on the bum. They just do not get it.<p>I have been trying to teach people how to do a startups for nearly 20 years. (yes, I am old) 
+Richard Hayes
+RHI",1202003612
+108533,story,,,8,2,drm237,"Everything you should know about me as an entrepreneur you could learn from my OB/GYN",http://blog.guykawasaki.com/2008/02/everything-you.html,,1202003579
+108532,comment,108530,108530,0,0,mixmax,,,"Definitely worth a read.<p>Bustes the myth that some people just have good ideas and make millions on them.<p>Unfortunately it's all about hard work.  :-(",1202003535
+108531,story,,,2,1,nickb,"Non-obvious winners and losers in Microsoft Yahoo Deal",http://www.tnl.net/blog/2008/02/01/non-obvious-winners-and-losers-in-microsoft-yahoo-deal/,,1202003379
+108530,story,,,15,3,robg,"Eureka - It Really Takes Years of Hard Work",http://www.nytimes.com/2008/02/03/business/03unbox.html?ex=1359694800&en=08574f3568bc9c5e&ei=5090&partner=rssuserland&emc=rss&pagewanted=all,,1202003296
+108529,comment,108135,108135,0,0,cooldude127,,,"Qi is just a little too out there for me. All variables uppercase? Autoquoting symbols? The bizarre list syntax?<p>I do like the built-in partial application as well as pattern-matching. But basically it feels like Prolog with a more Lispy syntax.",1202003175
+108528,story,,,9,2,nreece,"Ten Most Wanted Design Bugs",http://www.asktog.com/Bughouse/10MostWantedDesignBugs.html,,1202002963
+108527,comment,108370,108498,0,0,SwellJoe,,,"""50x as many readers as the paper, and about 1/50th the revenue""<p>The question, of course, is how do they fix this problem...not ""How do we continue to pretend that the print business will always be there?""<p>They've got a great technology team on the ground--see some of the recent Open Source announcements from them.  But, obviously, they don't know how to make money on those 50x readers.  I don't either...but they're going to have to figure it out, or die a slow death.",1202002346
+108526,comment,108520,108520,0,0,mixmax,,,"It doesn't look like whoever wrote that has ever been involved in a startup.<p>Following the advice given in the article will give you tons of paperwork, and lots of stuff to do that isn't important.<p>Spend your limited resources wisely: build a product.",1202002233
+108525,comment,108433,108433,0,0,mdemare,,,"Just counting the tokens in the codetree is not an acceptable measure of brevity, because it implies that adding primitives to a language always makes it more powerful as long it makes your application shorter just once.<p>But adding primitives has a cost too. You could just have <i>let</i>, or you could have a <i>let</i> for one value, one for more values, one for more values initialized as nil, or as 0, or as an empty string, etc.<p>In Ruby I write expressions like this a lot:
+    condition ? string : """"
+I'd like to say:
+    condition &&? string<p>This would make my applications shorter, but, I claim, less readable and no more powerful.<p>To measure power, it is not enough to look at succinctness - you must hold something else constant too.",1202001988
+108524,comment,108391,108391,0,0,s3graham,,,"An anonymous ex-employee? 1 of 14600? That may or may not know anything about any Microsoft teams at all? Meh.",1202001713
+108523,comment,108508,108508,0,0,DarrenStuart,,,"the Joel Spolsky one is really good to listen to. He has some good advice.",1202001705
+108522,comment,108500,108500,0,0,rms,,,"My answer to number 2:<p><pre><code>  Kevin has discovered the universe's greatest civilization: http://en.wikipedia.org/wiki/Great_Attractor
+</code></pre>
+It is definitely one of the less important questions on the application; I think PG said once I this forum that he was the only one that really cared about it out of the partners.",1202001577
+108521,comment,108500,108500,0,0,white,,,"Well, to my understanding, the first one is pretty obvious and it was covered already here.  But definitely I'd like to see the types of answers for the second one. ;)",1202001476
+108520,story,,,5,11,nreece,"10 Steps to Making Money from Smart Ideas ",http://www.ipaustralia.gov.au/smartstart/ten_steps_static.htm,,1202001249
+108519,story,,,27,6,s3graham,"Arc-ish web programming in Python",http://blog.pipinghot.info/?p=7,,1202000892
+108518,comment,108411,108481,0,0,papersmith,,,"I wonder how business jets and very light jets compare to big airliners of similar ranges.",1202000772

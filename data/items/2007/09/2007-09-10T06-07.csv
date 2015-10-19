@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+52709,comment,52580,52695,0,0,iamyoohoo,,,"Thanks - that comment helped. I'm at that verge now.",1189407081
+52708,comment,52606,52668,0,0,locust,,,"It could be about their particular software (eg apache vs proftpd) rather than the underlying protocol.",1189405102
+52707,comment,52645,52679,0,0,cstejerean,,,"I've been asking myself the same question for a while. I would like a unified experience so I have to spend less time worrying about interoperability, etc. On the other hand having a choice about every application means I can have the best application in every category. I wonder where the middle ground lies.",1189404447
+52706,comment,52645,52645,0,0,andreyf,,,"Web OS will take off when you can run Win32 native apps on them... or GTK apps, or OSX native apps...",1189404317
+52705,comment,52645,52645,0,0,andreyf,,,"What's 'middleware'?",1189404224
+52704,comment,52645,52671,0,0,cstejerean,,,"I think the problem might be that most users are used to the Windows UI experience so in order to reduce the learning curve this might have been the easiest option. However if the call it Windows and has a Windows GUI look and feel they are really asking for trouble.",1189404196

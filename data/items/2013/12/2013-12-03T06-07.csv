@@ -1,0 +1,638 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+6839046,comment,6838299,6838961,4,0,jroseattle,,,"Great point. We constantly challenge him to find solutions from things that aren&#x27;t obvious, pushing him to be resourceful.<p>You&#x27;re right about the environment. Creativity often isn&#x27;t well-aligned with traditional learning patterns.",1386053989
+6839045,comment,6834791,6834791,1,0,gtallen1187,,,"this is great - i have had a hard time learning shell and this is a huge help.  thank you!!!",1386053988
+6839044,comment,6838299,6838931,4,0,logical42,,,"I can&#x27;t wait to see it :) thanks for sharing this with us!",1386053985
+6839043,comment,6837148,6838378,1,0,rogerbinns,,,"There is a lot more opportunity.  For example you can do variable pricing - charge more during busier times, or charge less for items that you want consumed.  Or do combo pricing.  Or discounts if combined with charity contributions.  You can do easy A/B testing - to half the diners have the item with carrots and the other half with celery and see if there is a difference.<p>Amusingly your number 1 item (turn times) are exactly the reason I don&#x27;t eat out much - it is far too time consuming.  There is a long wait before orders are taken, and the long wait at the end to pay.<p>You can look at number 2 differently.  Having someone tediously copy down an order and possibly make mistakes isn&#x27;t adding value.  Having them chat while the orders are being placed, offering advice and small talk is far more about being treated.  (I&#x27;m also part of the crowd who hates people hanging around me while eating, but also hates having my drink empty and having to attract someone for a refill.)<p>I will also be happy telling a device about my experience with the food and the staff (and be honest about it).  But I would never seek out a manager and tell them unless it is egregiously bad.<p>Such devices make it far easier to deal with people who have come in once and haven&#x27;t decided if they will come in ever again.  Converting them to regulars should be what fills your place.",1386053963
+6839042,comment,6838637,6838991,1,0,tlb,,,"I&#x27;m curious about how regular hardware maintenance improves reliability. Are you just cleaning out dust? Or do you do periodic stress tests to catch failures early?",1386053961
+6839041,comment,6836994,6838583,11,0,mintplant,,,"> Yes I&#x27;m actually African<p>According to the site, so are the developers. They built it in response to a problem they actually had... in Africa. I think you&#x27;re taking this the wrong way.",1386053941
+6839040,comment,6828699,6830990,1,0,devhen,,,"And in my experience you don&#x27;t even get 100 Mbit. Comcast recently doubled my download speed to 60 Mbit and I quickly realized my WRT54G was only capable of downloading up to 30 Mbit. Typically I&#x27;d expect to see close to 10 MB/sec over 100Base-T but I was getting about 3.5 MB/sec max. It seemed to only be on the WAN port because I was able to stream stuff from my NAS at close to 10 MB/sec. It was disappointing so I upgraded to the WNR3500L which is working great. Both were running DD-WRT and worked well with it.",1386053877
+6839039,comment,6838494,6838782,1,0,smnrchrds,,,"Now it is in the wrong column: Python → Scala.",1386053869
+6839038,story,,,2,0,ImpressiveWebs,"Castoreum - a very odd food additive",https://en.wikipedia.org/wiki/Castoreum,,1386053866
+4197169,story,,,0,0,,,,,1386053849
+4197163,story,,,0,0,,,,,1386053849
+4197157,story,,,0,0,,,,,1386053849
+4197152,story,,,0,0,,,,,1386053849
+6839037,comment,6838494,6838681,3,0,illicium,,,"It does, but for some reason in the Python -> Scala category",1386053846
+4197033,story,,,0,0,,,,,1386053846
+4196954,story,,,0,0,,,,,1386053844
+4196855,story,,,0,0,,,,,1386053842
+4196828,story,,,0,0,,,,,1386053841
+4196538,story,,,0,0,,,,,1386053834
+4196427,story,,,0,0,,,,,1386053832
+4195617,story,,,0,0,,,,,1386053812
+6839036,comment,6838494,6838494,4,0,minusSeven,,,"no need to learn javascript as all languages can compile into it. :D",1386053810
+6839035,story,,,2,1,clooth,"Ask HN: What is the best mobile analytics service you've used, and why?",,"I&#x27;m currently weighing my options, and all the popular ones (Mixpanel, Keen.io, and friends.) look quite good and polished.<p>I want to hear what you were missing in your chosen solution and what service provided a solution?",1386053806
+6839034,comment,6835392,6836393,2,0,hrrsn,,,"I just tried it and it definitely still has the profile ID in the URL.",1386053791
+6839033,comment,6838637,6838637,2,0,jhgg,,,"I really look forward to a price / performance comparison between GCE and AWS. Persistent disk performance and no charge for IO looks really nice. It&#x27;ll be great to see some real world numbers and benchmarks. Some key metrics I&#x27;m looking for are disk performance, CPU performance (how fast a single core is rated relative to amazon&#x27;s ECU) and network performance!",1386053764
+6839032,comment,6838345,6838552,1,0,rtx,,,"I left my job because of them.",1386053759
+6839031,comment,6838757,6838912,1,0,vitno,,,"He is a DJ :P",1386053741
+4192092,story,,,0,0,,,,,1386053730
+4192084,story,,,0,0,,,,,1386053730
+6839030,comment,6838299,6838963,2,0,dethstar,,,"When i was taking my first programming related class, algorithms, the teacher told us we were like architechts, there shouldnt be errors/failures. \nIs it accepted for them to say: whoops building fell, guess i&#x27;ll rebuild it?<p>While software can&#x27;t be perfect, it has to be as flawless as possible. Code isn&#x27;t cheap, it takes time. Who knows what else you could&#x27;ve built/made/learnt instead of fixing something cuz it costs &quot;nothing&quot;",1386053729
+4192075,story,,,0,0,,,,,1386053729
+4191987,story,,,0,0,,,,,1386053727
+4191978,story,,,0,0,,,,,1386053727
+4191972,story,,,0,0,,,,,1386053727
+4191967,story,,,0,0,,,,,1386053727
+4191958,story,,,0,0,,,,,1386053727
+4191951,story,,,0,0,,,,,1386053726
+4191942,story,,,0,0,,,,,1386053726
+4191928,story,,,0,0,,,,,1386053726
+4191871,story,,,0,0,,,,,1386053725
+4191868,story,,,0,0,,,,,1386053724
+4191860,story,,,0,0,,,,,1386053724
+4191852,story,,,0,0,,,,,1386053724
+4191765,story,,,0,0,,,,,1386053722
+4191740,story,,,0,0,,,,,1386053721
+4191695,story,,,0,0,,,,,1386053720
+4191677,story,,,0,0,,,,,1386053720
+4191627,story,,,0,0,,,,,1386053719
+4191578,story,,,0,0,,,,,1386053718
+4191530,story,,,0,0,,,,,1386053716
+4191512,story,,,0,0,,,,,1386053716
+4191490,story,,,0,0,,,,,1386053715
+4191456,story,,,0,0,,,,,1386053715
+4191441,story,,,0,0,,,,,1386053714
+4191397,story,,,0,0,,,,,1386053713
+4191338,story,,,0,0,,,,,1386053712
+4191327,story,,,0,0,,,,,1386053712
+4191313,story,,,0,0,,,,,1386053711
+4191296,story,,,0,0,,,,,1386053711
+4191152,story,,,0,0,,,,,1386053708
+4191088,story,,,0,0,,,,,1386053706
+4189523,story,,,0,0,,,,,1386053669
+6839029,comment,6838299,6838299,3,0,jianshen,,,"This is a refreshing reminder to dig deeper. I&#x27;m always waiting for the right tool to come around to do the job (cheap hi-res 3d printing for example) but sometimes a good enough solution just might be sitting in front of you. Thanks for this!",1386053660
+6839028,comment,6838482,6838643,0,0,djur,,,"I had no idea Sylvia Plath was a millennial.",1386053655
+6839027,comment,6838299,6838299,1,0,creativityland,,,"Really enjoyed reading this. Really hope this type of posts make to the frontpage more often.",1386053654
+6839026,comment,6837559,6837559,5,0,kijin,,,"The Wayback Machine has numerous caches of his website, dating back over 7 years. This should be good enough to restore all the timestamps to within 24 hours of their original values, as well as catch anything that Google&#x27;s cache might have missed.<p><a href=\"https://web.archive.org/web/*/http://antirez.com\" rel=\"nofollow\">https://web.archive.org/web/*/http://antirez.com</a>",1386053591
+6839025,comment,6835521,6836521,1,0,girvo,,,"Ubuntu does???? I&#x27;ve been keeping an eye on HiDPI support for it for ages, did I miss the release?",1386053580
+4183807,story,,,0,0,,,,,1386053536
+6839024,story,,,14,0,drucken,"The car mechanic who uncorked a childbirth revolution",http://www.bbc.co.uk/news/magazine-25137800,,1386053535
+4183753,story,,,0,0,,,,,1386053535
+6839023,comment,6837892,6838971,1,0,kayoone,,,"Did i say that? I just prefer pure javascript the way its meant to be for reasons of consistence with coworkers, documentation and reading other peoples code.<p>That and i simply dont find JS to be all that bad.",1386053530
+4183313,story,,,0,0,,,,,1386053524
+4183305,story,,,0,0,,,,,1386053524
+4183300,story,,,0,0,,,,,1386053524
+4183294,story,,,0,0,,,,,1386053524
+6839022,comment,6838495,6838960,2,0,creativityland,,,"Will have to give this a watch. Not sure how realistic but Plague Inc is not bad for an iPhone/iPad game.<p><a href=\"http://www.ndemiccreations.com/en/\" rel=\"nofollow\">http://www.ndemiccreations.com/en/</a>",1386053523
+4183006,story,,,0,0,,,,,1386053517
+4182639,story,,,0,0,,,,,1386053508
+4182526,story,,,0,0,,,,,1386053506
+4182524,story,,,0,0,,,,,1386053506
+4182520,story,,,0,0,,,,,1386053506
+4182518,story,,,0,0,,,,,1386053505
+4182392,story,,,0,0,,,,,1386053503
+6839021,comment,6834591,6836312,1,0,kn0thing,,,"I just want to be sure they have the microphones setup, at least. And maybe some tapwater. I get cottonmouth up there.",1386053469
+4180244,story,,,0,0,,,,,1386053453
+4180135,story,,,0,0,,,,,1386053450
+4180068,story,,,0,0,,,,,1386053449
+4180000,story,,,0,0,,,,,1386053447
+4179912,story,,,0,0,,,,,1386053445
+4179901,story,,,0,0,,,,,1386053445
+4179876,story,,,0,0,,,,,1386053444
+4179856,story,,,0,0,,,,,1386053444
+4179850,story,,,0,0,,,,,1386053444
+4179759,story,,,0,0,,,,,1386053442
+4179705,story,,,0,0,,,,,1386053440
+4179620,story,,,0,0,,,,,1386053438
+4179534,story,,,0,0,,,,,1386053437
+4179530,story,,,0,0,,,,,1386053436
+6839019,comment,6834591,6837020,2,0,kn0thing,,,"Do you see the &#x27;donate bitcoins&#x27; link on the sidebar of <a href=\"http://withouttheirpermission.com/\" rel=\"nofollow\">http://withouttheirpermission.com/</a>? That&#x27;s because after the book dropped I started getting PMs on reddit from folks who had.. err.. acquired it ... and wanted to comp me. Pretty rad.<p>I&#x27;m an investor in coinbase.com and buttercoin.com, so I&#x27;m rather optimistic about bitcoin. I&#x27;ve spoken about this a bit to the media + in public:<p><a href=\"http://www.geekwire.com/2013/reddit-cofounder-alexis-ohanian-bitcoin-excited-dad-starts-talking/\" rel=\"nofollow\">http://www.geekwire.com/2013/reddit-cofounder-alexis-ohanian...</a><p><a href=\"http://www.reddit.com/r/Bitcoin/comments/1p4i9z/bought_my_book_in_bitcoin_and_alexis_ohanian/\" rel=\"nofollow\">http://www.reddit.com/r/Bitcoin/comments/1p4i9z/bought_my_bo...</a><p><a href=\"http://video.msnbc.msn.com/all-in-/53222831#53222831\" rel=\"nofollow\">http://video.msnbc.msn.com/all-in-/53222831#53222831</a>",1386053433
+4178949,story,,,0,0,,,,,1386053423
+6839018,comment,6837559,6838340,1,0,kijin,,,"> Maybe he lost his Linode? It a bummer that he didn&#x27;t have a recent backup of the redis database.<p>He was running Redis with persistence turned off by accident. In other words, he used an in-memory database.",1386053384
+6839017,story,,,1,0,jhewlett,"Implicit Callbacks",http://bit-builder.blogspot.com/2013/12/implicit-callbacks.html,,1386053372
+6839016,comment,6837631,6838304,1,0,icelancer,,,"No, as I&#x27;ve said many times in this thread, SOME of them are PTs. And you responded to this comment below:<p>&quot;I don&#x27;t agree. I have a PT who uses chiropractic methods but I also have seen a chiropractor who does nothing but lower back manipulation and traction methods, both of which have evidence backing their methods to fix lower back mechanical issues. He is not a charlatan. It would be unfair to group him with the subluxation magicians.&quot;<p>I would not call him a PT, because he is not a PT.<p>I have no idea why you are attempting to knock down a strawman consistently. He is a chiropractor and he&#x27;s not opting out of the brand simply because you think he&#x27;s a charlatan. And I am not going to call him by another name because you are on an overzealous semantic war.",1386053357
+6839015,comment,6813261,6813261,1,0,az,,,"How do you make money? What&#x27;s the referral fee?",1386053356
+4175624,story,,,0,0,,,,,1386053346
+4175618,story,,,0,0,,,,,1386053346
+4175615,story,,,0,0,,,,,1386053346
+6839014,comment,6838299,6838887,4,0,colechristensen,,,"No it isn&#x27;t.  You aren&#x27;t a very good hacker if you can hack in only a tiny subset of the world.",1386053345
+4175609,story,,,0,0,,,,,1386053345
+4175608,story,,,0,0,,,,,1386053345
+6839013,comment,6838299,6838299,1,0,merkitt,,,"He&#x27;s a MacGyver. I wonder what he&#x27;ll build if he is unleashed on a large American junk yard.",1386053341
+4174932,story,,,0,0,,,,,1386053329
+6839012,comment,6835347,6836376,1,0,tedmiston,,,"Not sure whether it&#x27;s changed, but USPS pickup was only free a few years ago when you shipped Priority or higher.<p>I&#x27;m surprised how much time was spent writing addresses by hand.  Paypal Multi-Order Shipping and cheap adhesive shipping labels, which can be found on eBay, take a lot of pain out of that process.",1386053328
+4174876,story,,,0,0,,,,,1386053328
+4174778,story,,,0,0,,,,,1386053326
+4174730,story,,,0,0,,,,,1386053324
+4174666,story,,,0,0,,,,,1386053323
+4174652,story,,,0,0,,,,,1386053323
+4174651,story,,,0,0,,,,,1386053323
+4174499,story,,,0,0,,,,,1386053319
+4174497,story,,,0,0,,,,,1386053319
+4174493,story,,,0,0,,,,,1386053319
+4174491,story,,,0,0,,,,,1386053319
+4174489,story,,,0,0,,,,,1386053319
+4174485,story,,,0,0,,,,,1386053319
+4174481,story,,,0,0,,,,,1386053318
+4174477,story,,,0,0,,,,,1386053318
+4174475,story,,,0,0,,,,,1386053318
+4174472,story,,,0,0,,,,,1386053318
+4174462,story,,,0,0,,,,,1386053318
+4174455,story,,,0,0,,,,,1386053318
+4174226,story,,,0,0,,,,,1386053313
+4174224,story,,,0,0,,,,,1386053312
+4174217,story,,,0,0,,,,,1386053312
+4174216,story,,,0,0,,,,,1386053312
+4174214,story,,,0,0,,,,,1386053312
+4174213,story,,,0,0,,,,,1386053312
+4174203,story,,,0,0,,,,,1386053312
+4174199,story,,,0,0,,,,,1386053312
+4174187,story,,,0,0,,,,,1386053312
+4173837,story,,,0,0,,,,,1386053303
+6839011,comment,6828699,6828699,1,0,devhen,,,"I&#x27;ve had success with the Netgear WNR3500L running DD-WRT. It doesn&#x27;t have 5GHz but it does 2.4GHz great and on the cheap. The one I&#x27;m running now I bought refurbished for $35 and its rock solid stable and performs well.<p>Of course, its WiFi, so I&#x27;m already wishing I had AC so my portable devices were as fast as my wired desktop. But I don&#x27;t think that will ever change. WiFi will probably never catch up to our ever increasing internet download speeds.",1386053289
+6839010,comment,6835521,6836011,2,0,kayoone,,,"Single High DPI 50&quot; screen all the way! I hate the bezels between my monitors and the low DPI. With a monitor like that you could move not important stuff more to the top (&quot;like logging output&quot;) and have the development tools/browser in the lower area, cant wait :)<p>Regarding the raw pixel, a typical 30&quot; has 4.1M pixels, so two have 8.2M pixels and the Seiki has 8.3M which is hardly a difference, your point still stands though.",1386053270
+4170692,story,,,0,0,,,,,1386053230
+4170686,story,,,0,0,,,,,1386053230
+4170602,story,,,0,0,,,,,1386053228
+4170235,story,,,0,0,,,,,1386053219
+4170231,story,,,0,0,,,,,1386053219
+4170225,story,,,0,0,,,,,1386053219
+4170218,story,,,0,0,,,,,1386053219
+4170207,story,,,0,0,,,,,1386053218
+4170200,story,,,0,0,,,,,1386053218
+4170195,story,,,0,0,,,,,1386053218
+4170190,story,,,0,0,,,,,1386053218
+4170181,story,,,0,0,,,,,1386053218
+4170178,story,,,0,0,,,,,1386053218
+6839009,comment,6838152,6838641,3,0,borski,,,"No. &#x27;tptacek is a VERY well respected individual within the infosec community. Moreover, if I knew every author or every infosec book, I would have very little time to do anything else.",1386053199
+6839008,comment,6838299,6838299,2,0,roozbeh18,,,"it&#x27;s amazing how limited we get as we have more things at our disposal. I remember coding basic as a kid and for hours i could come up with cool ideas and functioning programs. now all i think about is how to optimize and make things run faster by following codes already written by someone else! kudos to him..",1386053198
+6839007,comment,6838345,6838756,9,0,incision,,,"Anecdotally, what&#x27;s described here would actually be unrealistically optimistic given the context of Government where I have entirely too much experience.<p>First, you can forget about having documentation of any kind or anything as recent as XML.<p>Also...<p>8) Nearly everyone you need to interface with on the customer side is apathetic at best. More likely, they are plain adversarial for fear that the work you&#x27;re doing will eliminate their jobs. A single person can plop themselves in your critical path and refuse to cooperate - millions of dollars or public safety be dammed - there is nothing you can do other than work around them.<p>9) You will need to coordinate with half a dozen other subs under the contract prime. Some of those subs will be unassailable due to pre-existing relationships. Others will depend on talent with a 10 hour time difference. One will suddenly be in charge of &quot;testing&quot; your code in order to generate more billable hours. You will be in a constant battle to avoid being used and abused by the prime to make up for the deficiencies of other subs.",1386053193
+4169054,story,,,0,0,,,,,1386053192
+4169049,story,,,0,0,,,,,1386053192
+6839006,comment,6837507,6837507,2,0,homakov,,,"you definitely exaggerate your problem",1386053188
+4168547,story,,,0,0,,,,,1386053180
+6839005,comment,6835347,6835468,1,0,tedmiston,,,"Any you chance you have the &quot;white&quot; model?  I&#x27;m having a hard time telling from the pictures how translucent it is.",1386053172
+6839004,comment,6834591,6836472,2,0,kn0thing,,,"From the book itself (this excerpt happens to come from the conclusion):<p>By the way, being entrepreneurial is not limited to entrepreneurs. The last part of this book is a testament to that. Charles Best, Debby Guardino, Zach Anner, Zach Weinersmith, Lester Chambers, and countless participants in the fight against SOPA and PIPA wouldn’t necessarily be thought of as traditional entrepreneurs, but in spirit, they are undoubtedly entrepreneurial. They’ve found success because they could use this great equalizer—the open Internet—to spread their ideas, find their audiences, and ultimately surmount traditional barriers.<p>The open Internet is not a magic wand, but as a technology it has the potential to do tremendous things—to allow awesome people to reach their full potential. It is ultimately incumbent upon us, as builders and users of this platform, to see that it lives up to its own full potential. As we look, wide-eyed, into the future, let’s remember that the baggage of our society comes with us online. While the Internet as a technology is flat, as long as all links are equal, the world we live in is still full of inequality. Most of my now-lionized peers, the founders of the Internet’s original startups, are straight white young men. But as it turns out, the world is not full of only young straight white guys—in fact, far from it. What excites me so much about this technology is how it democratizes knowledge as well as distribution. But the system lives up to its full potential only if all of us have access and the skills to make the most out of it.<p>In sum, it’s not enough to just go forth and create without asking anyone’s permission, or to help others who are trying to do the same. Like the Internet itself, we are greater than just the sum of our parts. We’re not yet taking full advantage of all our parts, but we get closer every day, thanks to all the individuals and organizations striving toward it. Think of all the genius the world has missed out on simply because otherwise-awesome people got bad “life lottery” tickets. It motivates me and many more to work toward building an open Internet, if for no other reason than it’s going to mean better stuff—better businesses and better nonprofits, better artists and better activists, and, yes, even better politicians. It’s going to enable awesome people to actually be awesome in a way that they couldn’t have been before.<p>Remember, this is just the beginning. Everything I’ve written about has happened only in the last decade, which is but a moment given the speed of innovation online. Imagine what this next decade will bring. Every child who grows up with an Internet connection and the skills to make the most of it is yet another potential founder, or artist, or activist, or philanthropist, or . . . I don’t know, that’s just it: I can look her in the eyes and tell her that she doesn’t need to ask anyone’s permission to go learn about the printing press, or start publishing her photography, or rally her community to fix a dilapidated playground, or begin working on the next big thing.<p>No, none of these things are going to be easy, but I’m certainly not going to be the one to tell her she can’t do them.\nLet me put it this way: if the Industrial Revolution changed the world, the current revolution, powered by software and the Internet, is destined to do the same, but far more democratically. Instead of opening a factory, you need only open your laptop.<p>I hope you’re convinced. And more important, I trust you’ll do something good with that conviction. Spread the word, give this book to someone who needs to read it, put your politicians on notice, and make things people love.<p>Start.<p>Please.<p>What are you waiting for? Someone’s permission?",1386053168
+6839003,comment,6838299,6838966,1,0,FarhadG,,,"Awesome! Thanks for the article!",1386053143
+4166663,story,,,0,0,,,,,1386053136
+4165875,story,,,0,0,,,,,1386053118
+6839002,comment,6838582,6838883,2,0,siddharthdeswal,,,"Companies &#x27;might&#x27; have confidentiality agreements, but I think it would be naive to expect that in today&#x27;s world news won&#x27;t leak. So maybe they take that into account while going about such acquisitions?<p>And getting the &#x27;first scoop&#x27; is the job of the fourth estate, so can&#x27;t fault them for doing their job.",1386053112
+4165104,story,,,0,0,,,,,1386053100
+4165102,story,,,0,0,,,,,1386053100
+4165100,story,,,0,0,,,,,1386053099
+4165093,story,,,0,0,,,,,1386053099
+6839001,comment,6838495,6838901,2,0,seanmcdirmid,,,"This flu is a bit worse than the standard one; you have a 3/10 chance of dying. As always, stay away from live birds...no pet chickens...think twice about buying that parrot.",1386053098
+4165052,story,,,0,0,,,,,1386053098
+4165050,story,,,0,0,,,,,1386053098
+4165048,story,,,0,0,,,,,1386053098
+4165044,story,,,0,0,,,,,1386053098
+4165039,story,,,0,0,,,,,1386053098
+4165037,story,,,0,0,,,,,1386053098
+4165010,story,,,0,0,,,,,1386053097
+4164989,story,,,0,0,,,,,1386053097
+4164988,story,,,0,0,,,,,1386053097
+4164981,story,,,0,0,,,,,1386053097
+4164946,story,,,0,0,,,,,1386053096
+4164933,story,,,0,0,,,,,1386053096
+6839000,comment,6838299,6838992,4,0,MindTwister,,,"Well, he <i>is</i> a student...",1386053095
+4164922,story,,,0,0,,,,,1386053095
+4164921,story,,,0,0,,,,,1386053095
+4164908,story,,,0,0,,,,,1386053095
+4164904,story,,,0,0,,,,,1386053095
+4164902,story,,,0,0,,,,,1386053095
+4164894,story,,,0,0,,,,,1386053095
+4164887,story,,,0,0,,,,,1386053095
+4164884,story,,,0,0,,,,,1386053094
+4164870,story,,,0,0,,,,,1386053094
+4164863,story,,,0,0,,,,,1386053094
+4164858,story,,,0,0,,,,,1386053094
+4164854,story,,,0,0,,,,,1386053094
+4164846,story,,,0,0,,,,,1386053094
+4164838,story,,,0,0,,,,,1386053093
+4164834,story,,,0,0,,,,,1386053093
+4164827,story,,,0,0,,,,,1386053093
+4164807,story,,,0,0,,,,,1386053093
+4164769,story,,,0,0,,,,,1386053092
+4164748,story,,,0,0,,,,,1386053091
+4164733,story,,,0,0,,,,,1386053091
+4164732,story,,,0,0,,,,,1386053091
+4164709,story,,,0,0,,,,,1386053090
+4164692,story,,,0,0,,,,,1386053090
+4164685,story,,,0,0,,,,,1386053090
+4164649,story,,,0,0,,,,,1386053089
+4164648,story,,,0,0,,,,,1386053089
+4164644,story,,,0,0,,,,,1386053089
+4164639,story,,,0,0,,,,,1386053089
+4164633,story,,,0,0,,,,,1386053089
+4164631,story,,,0,0,,,,,1386053089
+4164614,story,,,0,0,,,,,1386053088
+4164597,story,,,0,0,,,,,1386053088
+4164556,story,,,0,0,,,,,1386053087
+4164550,story,,,0,0,,,,,1386053087
+4164548,story,,,0,0,,,,,1386053087
+6838999,comment,6835347,6835879,1,0,tedmiston,,,"It&#x27;s better than <i>alert()</i>",1386053085
+4164473,story,,,0,0,,,,,1386053085
+4164471,story,,,0,0,,,,,1386053085
+4164430,story,,,0,0,,,,,1386053084
+4164383,story,,,0,0,,,,,1386053083
+4164346,story,,,0,0,,,,,1386053082
+416434,story,,,0,0,,,,,1386053082
+4164300,story,,,0,0,,,,,1386053081
+6838998,comment,6835066,6837604,1,0,rrich,,,"I thought I read somewhere that Bjarne himself thought he wasn&#x27;t above a 7 on a one to ten scale. So, you know the recruiter will expect you to say at least a 9 and HR will expect nothing less than a 10.",1386053076
+4163838,story,,,0,0,,,,,1386053071
+6838997,story,,,1,0,klause,"Does anyone have resources for a BTC-only round?",,"There is regulatory (quite strict really) considerations surrounding the execution of capital fundraising and PPM offerings. I want to raise a small pool of capital (10BTC-20BTC)strictly in BTC.<p>I would be able to hire the talent needed to execute and pay for the infrastructure needed to deliver a minimum functioning product with this money. Has anyone found any good resources for a capital fund raise strictly in BTC? I was wondering if the area is grey enough to circumvent the accredited investor requirements (100K annual salary or 1M liquid) and could I offer equity for BTC directly through a PPM offering without red tape. Any help or guidance would be awesome.<p>Cheers.",1386053049
+4162716,story,,,0,0,,,,,1386053045
+6838995,comment,6838957,6838957,1,0,halfoot,,,"this has been around for ages,what if i lose the YubiKey Neo, i will lose access to all the sites i login and what alternative method will be there to authenticate myself?",1386053031
+4162158,story,,,0,0,,,,,1386053031
+6838994,story,,,2,0,petethomas,"Amazon Drone Flights Seen Grounded by Expected U.S. Rules ",http://bloomberg.com/news/2013-12-02/amazon-drone-flights-seen-grounded-by-expected-u-s-rules.html,,1386053020
+6838992,comment,6838299,6838299,4,0,ganzolo,,,"The guy creativity is good, but sleeping/eating/working in the bed is a terrible idea. Moreover he is using a projector, meaning the needs to be in the dark...",1386052992
+4160399,story,,,0,0,,,,,1386052990
+4160396,story,,,0,0,,,,,1386052990
+4160395,story,,,0,0,,,,,1386052990
+4160391,story,,,0,0,,,,,1386052990
+4160388,story,,,0,0,,,,,1386052990
+4159946,story,,,0,0,,,,,1386052979
+4159905,story,,,0,0,,,,,1386052978
+6838991,comment,6838637,6838637,7,0,codex,,,"One salient new feature:<p>Transparent maintenance with live migration and automatic restart<p>At Google, we have found that regular maintenance of hardware and software infrastructure is critical to operating with a high level of reliability, security and performance. We’re introducing transparent maintenance that combines software and data center innovations with live migration technology to perform proactive maintenance while your virtual machines keep running. You now get all the benefits of regular updates and proactive maintenance without the downtime and reboots typically required. Furthermore, in the event of a failure, we automatically restart your VMs and get them back online in minutes. We’ve already rolled out this feature to our US zones, with others to follow in the coming months.",1386052976
+4159815,story,,,0,0,,,,,1386052976
+4159809,story,,,0,0,,,,,1386052976
+4159802,story,,,0,0,,,,,1386052976
+4159799,story,,,0,0,,,,,1386052976
+4159792,story,,,0,0,,,,,1386052976
+4159733,story,,,0,0,,,,,1386052974
+4159541,story,,,0,0,,,,,1386052970
+6838990,comment,6838345,6838556,1,0,fletchowns,,,"I know you&#x27;re just joking, but it&#x27;s kind of spine tingling to think about what Zynga might do with personal health data.",1386052968
+6838989,comment,6834591,6836125,3,0,kn0thing,,,"Sorry this wasn&#x27;t more clear, but this is a 150+ stop booktour: <a href=\"http://withouttheirpermission.com/tour-dates\" rel=\"nofollow\">http://withouttheirpermission.com/tour-dates</a><p>It&#x27;s not limited to just the stops where there&#x27;ll be YC members.",1386052959
+6838988,comment,6838495,6838495,6,0,alanho,,,"misleading title, it&#x27;s first case in Hong Kong but not first case in whole world",1386052945
+4158104,story,,,0,0,,,,,1386052936
+6838987,comment,6833652,6834181,1,0,ParahSailin,,,"<a href=\"http://econlog.econlib.org/archives/2011/06/the_ideological.html\" rel=\"nofollow\">http://econlog.econlib.org/archives/2011/06/the_ideological....</a>",1386052927
+6838986,comment,6836994,6838969,4,0,toomuchtodo,,,"Very straightforward. Iridium phones have a module you can use that exposes an RS232 interface; integration with either a microcontroller or a full blown computer is trivial.",1386052870
+6838985,comment,6838345,6838454,2,0,sanderjd,,,"This may be the most hubristic comment I&#x27;ve ever read. No, you could not &quot;make Postgres do what is needed for this within a week or two&quot; just because you&#x27;ve heard of REST and JSON.",1386052862
+4154532,story,,,0,0,,,,,1386052852
+6838984,story,,,4,1,mmozuras,"Top Ten Percent",http://codingfearlessly.com/2013/12/02/top-ten-percent/,,1386052831
+4153528,story,,,0,0,,,,,1386052829
+6838983,comment,6838434,6838793,3,0,chas,,,"You might also be interested in CMU&#x27;s introductory curriculum in the same vein which is somewhat less extreme and has a particular focus on parallelism as the standard case of computing. <a href=\"http://existentialtype.wordpress.com/2012/08/17/intro-curriculum-update/\" rel=\"nofollow\">http://existentialtype.wordpress.com/2012/08/17/intro-curric...</a>",1386052786
+4151524,story,,,0,0,,,,,1386052782
+4151415,story,,,0,0,,,,,1386052780
+4149976,story,,,0,0,,,,,1386052746
+4149975,story,,,0,0,,,,,1386052746
+4149968,story,,,0,0,,,,,1386052746
+4149966,story,,,0,0,,,,,1386052746
+4149964,story,,,0,0,,,,,1386052746
+4149624,story,,,0,0,,,,,1386052738
+4149610,story,,,0,0,,,,,1386052737
+4149539,story,,,0,0,,,,,1386052736
+4149431,story,,,0,0,,,,,1386052733
+6838981,comment,6830566,6832707,1,0,gnarbarian,,,"what&#x27;s even more exciting to me is that they could develop their own complete distribution system by pushing cheap drones out to the edge of their network.<p>Warehouses->Jets->Drones<p>with barely any people in the entire process to slow things down and make it expensive.",1386052720
+6838980,comment,6838757,6838757,1,0,splatzone,,,"Bung them up online so DJs can have em",1386052716
+4147583,story,,,0,0,,,,,1386052690
+6838977,comment,6836994,6838138,3,0,hrktb,,,"In general devices that actually produce pictures can get away with showing pretty pictures foremost and convey a &quot;it&#x27;s so fun&quot; overall athmosphere before focusing on the device itself. For a rugged router, this approach is less forgiving IMO.",1386052656
+4145805,story,,,0,0,,,,,1386052649
+4145801,story,,,0,0,,,,,1386052649
+4145593,story,,,0,0,,,,,1386052644
+4145079,story,,,0,0,,,,,1386052633
+4145064,story,,,0,0,,,,,1386052632
+4144991,story,,,0,0,,,,,1386052631
+4144990,story,,,0,0,,,,,1386052631
+4144987,story,,,0,0,,,,,1386052631
+4144941,story,,,0,0,,,,,1386052630
+4144937,story,,,0,0,,,,,1386052630
+4144843,story,,,0,0,,,,,1386052627
+4144831,story,,,0,0,,,,,1386052627
+4144730,story,,,0,0,,,,,1386052625
+4144689,story,,,0,0,,,,,1386052624
+4144680,story,,,0,0,,,,,1386052623
+4144674,story,,,0,0,,,,,1386052623
+4144581,story,,,0,0,,,,,1386052621
+6838976,comment,6838495,6838962,1,0,AmVess,,,"I see the point of the article, but it is dated January 13, 2013...which isn&#x27;t recent.",1386052615
+4144064,story,,,0,0,,,,,1386052609
+6838975,comment,6838757,6838757,14,0,kumar303,,,"Dammit. After posting, I caught up with the feed of clips and just bought six records :( It turns up records like this: <a href=\"http://www.youtube.com/watch?v=zCC0wgVXNpc\" rel=\"nofollow\">http://www.youtube.com/watch?v=zCC0wgVXNpc</a> Wat??",1386052588
+4142338,story,,,0,0,,,,,1386052567
+4139795,story,,,0,0,,,,,1386052507
+4139394,story,,,0,0,,,,,1386052497
+4139391,story,,,0,0,,,,,1386052497
+4139387,story,,,0,0,,,,,1386052497
+6838974,comment,6838757,6838916,1,0,kumar303,,,"It totally would! Licensing is pretty tricky with this sort of thing though. Oftentimes there&#x27;s some mogul who owns the rights but they won&#x27;t budge on a price. Then if you use the sample anyway and they&#x27;ll sue you.",1386052487
+6838972,comment,6830566,6833219,1,0,gnarbarian,,,"Lord knows there&#x27;s no use for an automobile, when you consider the danger it poses compared to the reliable horse.",1386052447
+413659,story,,,0,0,,,,,1386052431
+4136370,story,,,0,0,,,,,1386052426
+4135622,story,,,0,0,,,,,1386052409
+6838971,comment,6837892,6838922,1,0,chc,,,"If you refrain from any area where one thing might be more popular than another, you&#x27;re going to have a very hard time getting anything done.",1386052402
+4135279,story,,,0,0,,,,,1386052400
+4135256,story,,,0,0,,,,,1386052400
+4135220,story,,,0,0,,,,,1386052399
+4135215,story,,,0,0,,,,,1386052399
+4135210,story,,,0,0,,,,,1386052399
+4135206,story,,,0,0,,,,,1386052399
+4135204,story,,,0,0,,,,,1386052399
+4135202,story,,,0,0,,,,,1386052398
+4134926,story,,,0,0,,,,,1386052392
+4134920,story,,,0,0,,,,,1386052392
+4134910,story,,,0,0,,,,,1386052392
+4134900,story,,,0,0,,,,,1386052391
+4134829,story,,,0,0,,,,,1386052390
+4134828,story,,,0,0,,,,,1386052390
+4134817,story,,,0,0,,,,,1386052389
+4134804,story,,,0,0,,,,,1386052389
+4134708,story,,,0,0,,,,,1386052387
+4134700,story,,,0,0,,,,,1386052387
+4134694,story,,,0,0,,,,,1386052386
+4134692,story,,,0,0,,,,,1386052386
+4134686,story,,,0,0,,,,,1386052386
+4134684,story,,,0,0,,,,,1386052386
+4134682,story,,,0,0,,,,,1386052386
+4134658,story,,,0,0,,,,,1386052386
+4134626,story,,,0,0,,,,,1386052385
+4134576,story,,,0,0,,,,,1386052384
+4134571,story,,,0,0,,,,,1386052384
+4134461,story,,,0,0,,,,,1386052381
+413378,story,,,0,0,,,,,1386052365
+413375,story,,,0,0,,,,,1386052365
+413374,story,,,0,0,,,,,1386052364
+4132957,story,,,0,0,,,,,1386052346
+413170,story,,,0,0,,,,,1386052316
+4131212,story,,,0,0,,,,,1386052305
+4130498,story,,,0,0,,,,,1386052288
+6838969,comment,6836994,6838249,1,0,girvo,,,"Iridium, neat. What was integrating it like?",1386052271
+4129745,story,,,0,0,,,,,1386052270
+4129741,story,,,0,0,,,,,1386052270
+4129733,story,,,0,0,,,,,1386052270
+4129731,story,,,0,0,,,,,1386052270
+4129729,story,,,0,0,,,,,1386052270
+4129722,story,,,0,0,,,,,1386052270
+4129306,story,,,0,0,,,,,1386052260
+4128992,story,,,0,0,,,,,1386052253
+4128987,story,,,0,0,,,,,1386052253
+4128984,story,,,0,0,,,,,1386052252
+4128977,story,,,0,0,,,,,1386052252
+6838968,comment,6838637,6838948,1,0,trimbo,,,"You&#x27;ve called them on the phone? What were the incident(s) / support needs like on your part?",1386052250
+4128868,story,,,0,0,,,,,1386052250
+6838967,comment,6838299,6838299,3,0,dshefchik,,,"I want to hire this guy",1386052244
+6838966,comment,6838299,6838299,0,0,pnathan,,,"Respect.<p>You see some of this sort of thing from the blue collar part of society in the US - &quot;yankee ingenuity&quot; is what it sometimes gets called here.<p>This is an essay by Tom Wolfe about Noyce and Intel that has similar overtones:<p><a href=""http://www.stanford.edu/class/e140/e140a/content/noyce.html"" rel=""nofollow"">http://www.stanford.edu/class/e140/e140a/content/noyce.html</a>",1386052238
+6838965,story,,,2,0,evancaine,"The car mechanic who uncorked a childbirth revolution",http://m.bbc.co.uk/news/magazine-25137800,,1386052231
+4127620,story,,,0,0,,,,,1386052221
+6838964,comment,6838305,6838305,2,0,tomkarlo,,,"I&#x27;d rather have an replacement faceplate that has a micro-USB connector that you can swing out to charge things. (They already have ones with a USB socket, which is great too.)<p><a href=\"http://www.lowes.com/pd_369050-63374-WP2UWR_4294689722__?productId=3482323&Ns=p_product_avg_rating%7C1\" rel=\"nofollow\">http://www.lowes.com/pd_369050-63374-WP2UWR_4294689722__?pro...</a>",1386052220
+6838963,comment,6838299,6838910,7,0,specialist,,,"As a software dev remodeling my house, I agree. It&#x27;s been very hard to accept that all these learning projects are going to be redone three times, just like how I treat software.<p>I&#x27;m wasting wood! OMG! But I&#x27;ve made progress. Watching contractors has helped. I was astonished how much they waste, treat things as disposable. My father (a hardware guy) certainly would not have approved.<p>I&#x27;m framing a new closet with bypass sliding doors. I really have no idea what I&#x27;m doing. I knocked apart the first two attempts and hope the third works better. And I&#x27;m now okay with it. It&#x27;s been kinda fun.",1386052214
+6838962,comment,6838495,6838951,6,0,lwf,,,"Google&#x27;s predictions of flu trends haven&#x27;t been accurate recently: <a href=\"http://commonhealth.wbur.org/2013/01/google-flu-trends-cdc\" rel=\"nofollow\">http://commonhealth.wbur.org/2013/01/google-flu-trends-cdc</a>",1386052213
+6838961,comment,6838299,6838954,11,0,dshefchik,,,"I think the problem is that it is unlearned too easily. Being forced to modify your thinking to succeed in school or the workforce is what stifles this kind of creativity. I feel like I used to have gifts like that, but somehow lost it along the way",1386052177
+6838960,comment,6838495,6838495,9,0,bjz_,,,"For an chillingly realistic depiction of how a worldwide pandemic could unfold, I&#x27;d highly recommend watching the film Contagion (2011)[1]. For all those who complain governments and scientists overreacting to new flu strains, I would prefer that than the alternative - doing too little and being swamped by an uncontrollable virus.<p>[1] <a href=\"http://www.imdb.com/title/tt1598778/\" rel=\"nofollow\">http://www.imdb.com/title/tt1598778/</a>",1386052159
+6838958,comment,6838434,6838434,3,0,Pitarou,,,"How can a human write that much good prose without scribbling things out?",1386052119
+6838957,story,,,1,1,mycodebreaks,"Google wants to make your passwords obsolete",http://www.forbes.com/sites/amadoudiallo/2013/11/30/google-wants-to-make-your-passwords-obsolete/#!,,1386052111
+6838956,comment,6838930,6838930,1,0,manglav,,,"Dropbox?  I don&#x27;t know if it would be commercially valuable unless you gave analytics with it.  I know I would be interested in it, but I&#x27;m not sure I would pay for it.",1386052097
+4121233,story,,,0,0,,,,,1386052068
+6838955,comment,6827554,6828727,1,0,magic_at_enimai,,,"We don&#x27;t care about world domination, but definitely want to create an impact on this world.",1386052036
+6838954,comment,6838299,6838299,4,0,jroseattle,,,"My son is this way (I wouldn&#x27;t call him genius, but his aptitude to seeing potential solutions is astounding.) It&#x27;s being able to see a solution from existing pieces, requiring visualization and great spatial reasoning. I&#x27;m not sure it can be learned; there is something about it that&#x27;s quite innate to a person.",1386052032
+4119564,story,,,0,0,,,,,1386052029
+4119560,story,,,0,0,,,,,1386052029
+4119556,story,,,0,0,,,,,1386052029
+4119545,story,,,0,0,,,,,1386052029
+4119241,story,,,0,0,,,,,1386052021
+4119228,story,,,0,0,,,,,1386052021
+4119143,story,,,0,0,,,,,1386052019
+4119041,story,,,0,0,,,,,1386052017
+4118943,story,,,0,0,,,,,1386052014
+4118859,story,,,0,0,,,,,1386052012
+4118503,story,,,0,0,,,,,1386052004
+4118496,story,,,0,0,,,,,1386052004
+6838953,story,,,1,0,mappu,"Startup Internet cafe using diskless gentoo",http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.newmoldova.com%2Fnode%2F438&act=url,,1386051983
+6838952,comment,6836796,6837040,3,0,pbreit,,,"Not on a spend as small as that (0.04% of market cap).",1386051968
+6838951,comment,6838495,6838495,3,0,AmVess,,,"Google Flu trends (near real time updates):\n<a href=\"http://www.google.org/flutrends/\" rel=\"nofollow\">http://www.google.org/flutrends/</a><p>How they do it:\n<a href=\"http://www.google.org/flutrends/about/how.html\" rel=\"nofollow\">http://www.google.org/flutrends/about/how.html</a>",1386051952
+4115333,story,,,0,0,,,,,1386051930
+6838950,comment,6834093,6834093,1,0,jganetsk,,,"I lived abroad for 365 days. Each day I wrote a &quot;recap&quot;, and posted it to Facebook. Many recaps were over 1,000 words long. I received tons of feedback, often in real life. It was a brilliant experience. I agree with many of the points in the OP. I would like to add that there was no such thing as oversharing. Honest, gut-wrenchingly intimate details (with some anonymizing and filtering), framed in a well-composed piece of writing, somehow stand on their own. They become more personal to the reader than to me, the writer. They contrast to the whitewashed  self-portraits of most people on social networks. One point I disagree on is the importance of editing.  I think the key to good writing is a solid first draft. If you are editing content, rather than grammar, ordering, syntax or structure... then throw it out and start over. Before writing, give your thoughts some time to bake. Then write them down, and edit minimally. If you want to edit more, put it away and edit the next day. I never did that, starting and finishing most pieces on the same day. But, I have had regrets on every piece of writing I have ever produced. Lastly, I explored every last idea that I had. You should have an idea queue. Get to all of them.",1386051913
+6838949,comment,6838345,6838345,2,0,dethstar,,,"I dont really understand why you guys dont get mad at your taxes beung thrown like that. Last time something like this was to happen in mexico this happened: <a href=\"http://techcrunch.com/2013/04/14/bringing-down-the-mexican-mafia-how-mexican-hackers-stopped-a-93-million-fraud/\" rel=\"nofollow\">http://techcrunch.com/2013/04/14/bringing-down-the-mexican-m...</a>",1386051908
+4113113,story,,,0,0,,,,,1386051877
+6838948,comment,6838637,6838860,3,0,lerchmo,,,"support is fantastic, we have a large cluster on GCE. I don&#x27;t know how support will scale with general availability though.",1386051871
+6838947,comment,6838482,6838482,5,0,ChrisNorstrom,,,"People keep looking for that magical ONE reason why everything is the way it is. It&#x27;s NOT just 1 cause of these problem, it&#x27;s numerous.<p>The Job Market - Automated and outsourced jobs have limited workplace opportunities over the decades. From all the older folks I talk to, they mention how much easier it was to get a job and how many jobs there were back when they were young compared to today.<p>The Money - Inflation has made the price of everything more expensive, yet most wages have relatively stayed the same. So I&#x27;m getting payed the same amount yet the price of everything around me is getting higher. I feel like I can&#x27;t ever catch up.<p>Growing up and Relationships - Almost every single friend I have ever had has divorced parents. The rare few whose parents are still married are miserable. Is this what awaits me? Find love, start a family, be miserable? Growing up is extremely discouraging when you can see the terrible results of &quot;growing up&quot; all around you. I don&#x27;t want to hate the person I love. I&#x27;m afraid of finding a spouse because I&#x27;ve seen what happens when others do. It&#x27;s like walking down a dark alley covered in others&#x27; blood, and every time you turn around to run away a sea of voices taunt you with &quot;stop being a pussy! grow up and go down the dark alley like we did&quot;. I don&#x27;t want to go down a road knowing there&#x27;s something bad at the end. Sorry.<p>Work Hard/Don&#x27;t work hard Paradox - It pisses me off when I hear someone say &quot;kids these days don&#x27;t work hard enough!&quot; and &quot;Go to college so you can get a good job in an office somewhere and not doing manual labor&quot; in the same conversation. This one is just confusing. Which is it? When I get a job working hard I&#x27;m looked down upon by peers because I don&#x27;t work at Google or Facebook. I&#x27;m looked down upon by my parents because the job doesn&#x27;t have dental and health and 40 hours a week and $20/hour. Hard working jobs do not pay well because they&#x27;re so plentiful and there&#x27;s a lot of people trying to get hired. So the prices are crap.<p>America&#x27;s Greed Problem: You cannot tell me you don&#x27;t see it. From the bank bailouts, to the behavior of the car companies that needed to be bailed out, to outsourcing jobs, to the housing market (caused by people buying up homes, barely doing work on them, and flipping them to the next sucker) it feels like America&#x27;s collective goal is to #1) create as shitty of a product as possible and sell it at the highest price possible and #2) find the most efficient and legal way to fuck people over. My parents worked so hard to buy the crappy house we have now at 7 times the price of a house in Bulgaria, and still it&#x27;s always falling apart and needs maintenance while homes in Bulgaria are built like a rock, out of brick and cement, more energy efficient, and cost less.<p>Extremist Politics: It feels like the liberal and conservative parties have gone to more and more polarizing extremes to differentiate themselves and counter-balance the other party&#x27;s philosophies. This has turned into 2 parties that don&#x27;t listen and don&#x27;t think but instead react using old traditionally memorized values. When looking at Republicans and Democrats, they&#x27;ve all but stopped &quot;thinking&quot; about each problem that faces the nation and instead throw their &quot;blanket solutions&quot; over whatever problem comes their way. If one party were truly better than the other, we would have kept them in power permanently. Instead we switch parties every decade or so. This political environment isn&#x27;t getting problems solved. It&#x27;s not giving me hope for a better future. And it sucks that my only choices every few years are between people who are either hard working but backwards thinking or people who are educated but lazy and bureaucratic.<p>Oh and the best part: Every 4 years I get to pick a president from 2 unproven daydreamers with unrealistic promises.<p>For me personally, I don&#x27;t want to grow up because I don&#x27;t see the payoff in growing up. I know watching my parents abuse themselves by overworking only to come home and be tired and miserable isn&#x27;t much of a motivation. And the response from others has always been &quot;well that&#x27;s life you lazy p.o.s.&quot;. People don&#x27;t even know me yet they call me lazy. I&#x27;ve worked outdoors, in warehouses, in tree removal, at theme parks. I&#x27;ve had really hard manual labor jobs. I can assure you I&#x27;m a hard worker and not &quot;lazy&quot;. People will work hard but there has to be a payoff, that&#x27;s how all games work. And when the game of life doesn&#x27;t come with its rewards, people don&#x27;t want to play anymore. Even the makers of Farmville knew that.",1386051855
+6838946,comment,6836691,6837407,1,0,wikwocket,,,"I think this can be a good idea, just to get data points on salary ranges in your field. It&#x27;s good to know the market value for what you do, to have an understanding of what you&#x27;re worth. And if a recruiter tells you they are trying to fill a job with salary X, that&#x27;s a pretty relevant data point.",1386051846
+4111586,story,,,0,0,,,,,1386051842
+4110780,story,,,0,0,,,,,1386051823
+4110777,story,,,0,0,,,,,1386051823
+4110773,story,,,0,0,,,,,1386051823
+4110767,story,,,0,0,,,,,1386051822
+6838945,comment,6838945,6838857,10,0,pilsetnieks,,,"This is about bird flu, which is a virus, not bacteria, and has nothing to do with antibiotics.",1386051814
+6838944,comment,6838596,6838596,2,0,dmourati,,,"Pretty glad I held out for Intel&#x27;s back when my boss was pushing these in the early days of enterprise SSD.",1386051794
+6838943,comment,6836961,6838387,2,0,hrrsn,,,"Anecdotal, but I&#x27;ve had great experience with Google Apps paid support as well as support for our Adwords campaigns (we spend about $40k a year with them on Adwords).",1386051784
+4108064,story,,,0,0,,,,,1386051758
+4108058,story,,,0,0,,,,,1386051757
+4108055,story,,,0,0,,,,,1386051757
+4108044,story,,,0,0,,,,,1386051757
+4108036,story,,,0,0,,,,,1386051757
+6838942,comment,6838152,6838420,2,0,eliteraspberrie,,,"The people doing the laughing shouldn&#x27;t be allowed near government. I was one of thousands whose personal information was &quot;lost&quot; by the Canadian government this year, and I wasn&#x27;t laughing. <a href=\"http://www.ctvnews.ca/canada/hrsdc-apologizes-for-losing-personal-info-on-half-a-million-canadians-1.1156750\" rel=\"nofollow\">http://www.ctvnews.ca/canada/hrsdc-apologizes-for-losing-per...</a><p>There ought to be a version of the precautionary principle for private information: if a contractor can&#x27;t prove they have made efforts to secure personal information, they shouldn&#x27;t be working for government.",1386051756
+4108018,story,,,0,0,,,,,1386051756
+6838941,comment,6838757,6838853,1,0,kumar303,,,"Hah. That would last for days on end.",1386051750
+6838940,comment,6838345,6838462,1,0,sseveran,,,"In fact the economic incentive is often to never really be done. I saw this first hand at a couple of government agencies.",1386051743
+6838939,comment,6831492,6832984,1,0,rodgerd,,,"Starving from crop collapses, but I guess that&#x27;s no biggie.",1386051739
+6838938,comment,6835094,6837225,1,0,SimHacker,,,"Looks like the rest of the screed is just copypasta, since in that part Walmart is spelled right. (Pardon my weasely use of the passive voice to avoid specifying the subject to the verb &quot;to spell&quot;).",1386051738
+4107179,story,,,0,0,,,,,1386051736
+6838937,comment,6838269,6838569,1,0,ctdonath,,,"Considering the order of magnitude the lead article is generating consternation with, fact is I <i>do</i> buy $10 and $20 hamburgers at times ... and yes, it is worth the difference.",1386051720
+4106094,story,,,0,0,,,,,1386051710
+6838936,comment,6838482,6838482,1,0,od2m,,,"I think millennials are simply on the verge of realizing that the American dream they&#x27;ve been sold is a lie, and they don&#x27;t know what to do.<p>Meanwhile the older generations are screaming at them &quot;Pay for my medicare and medicaid that won&#x27;t be there for you! Pay taxes to pay my state funded pension! I don&#x27;t care that you cant afford a home, or medical care, or college! I don&#x27;t care that we outsourced your jobs and that you can&#x27;t make enough money to be poor!&quot;",1386051695
+6838935,comment,6838757,6838868,4,0,kumar303,,,"Cool, thanks for the info! Amazon S3 costs are getting high so it would be nice to get some relief",1386051693
+4104067,story,,,0,0,,,,,1386051663
+4104064,story,,,0,0,,,,,1386051663
+4104060,story,,,0,0,,,,,1386051662
+4104058,story,,,0,0,,,,,1386051662
+4103874,story,,,0,0,,,,,1386051658
+4103871,story,,,0,0,,,,,1386051658
+4103858,story,,,0,0,,,,,1386051658
+4103852,story,,,0,0,,,,,1386051657
+4103845,story,,,0,0,,,,,1386051657
+4103842,story,,,0,0,,,,,1386051657
+4103835,story,,,0,0,,,,,1386051657
+4103474,story,,,0,0,,,,,1386051648
+4103357,story,,,0,0,,,,,1386051646
+6838934,comment,6836387,6836387,4,0,zmmmmm,,,"Seems to me it&#x27;s easier than ever before to build a &quot;smartphone&quot;: Android has everything you need and is open to everyone. What&#x27;s hard is to build a smart phone <i>operating system</i>. And in some ways (not all!) that&#x27;s a good thing - you need a pretty big justification to reinvent a giant wheel. If you have one, great. If not, do your innovation on top of Android.",1386051643
+4103242,story,,,0,0,,,,,1386051643
+6838933,comment,6830566,6838579,2,0,ars_technician,,,"You do realize how big a square mile is, right? 250 people still leaves a lot of empty space.",1386051639
+4102999,story,,,0,0,,,,,1386051637
+4102502,story,,,0,0,,,,,1386051626
+6838932,story,,,2,0,curtis,"City Maps That Orient You Better Than Google Can",http://www.slate.com/blogs/the_eye/2013/12/02/circular_city_maps_archie_archambault_designs_minimalist_city_maps_printed.html,,1386051623
+4100758,story,,,0,0,,,,,1386051583
+6838931,comment,6838299,6838879,12,0,FarhadG,,,"He&#x27;s doesn&#x27;t like the shape of the phone for playing games for an extended period of time, so he&#x27;s hacking up a pretty sweet setup. I&#x27;ll post up when it&#x27;s finished...",1386051571
+6838930,story,,,5,5,parm289,"Ask HN: I have 10,259 Fortune 500 job listings. What should I do?",,"Hi all --<p>As part of a study I&#x27;m working on, I&#x27;ve built a multitude of web scrapers to download job listings from a group of Fortune 500 companies.  The listings are saved in plaintext, separated by industry, company, and job, are generally clean, and contain job titles, descriptions, qualifications, responsibilities, and locations.<p>I figure these files could be used for machine learning, further studies on the language used in job listings, or by people looking to build intelligent job search bots.  The cache is large -- >20mb I believe.  Where would be the best place to offer the files (in terms of visibility and usefulness)?  Is this something that is commercially valuable?  If so, where are collections like these usually sold?<p>Thanks!",1386051553
+6838929,comment,6838269,6838783,1,0,ctdonath,,,"Same service? Remember, your kid. And it&#x27;s not just the service; you <i>could</i> go to the urgent care clinic instead of the hospital[1] and pay less; you <i>could</i> go to your regular doctor and pay even less; heck, I know people who just keep sutures & glue on hand and just patch the kid up themselves. There&#x27;s also the matter of demand & supply: are you confident you&#x27;ll get immediate treatment if needed? that an ER staff is on hand if that small cut suddenly proves itself a skull fracture and whatever unseen complications ensue?<p>I&#x27;m not going to argue that the pricing is perfect; I am going to argue that there&#x27;s a whole lot more behind that price than just overcharging. I&#x27;ve looked both my kids in the eyes while holding them still while being stitched up for one injury or another, thought thru a range of what-ifs, and had no problem paying the bill knowing there was more to it than just a little sewing. When both the doctor and urgent care clinic take one look at the injury and say &quot;not here, she needs a hospital for this&quot; and pass on billable treatment, there&#x27;s a reason.<p>[1] - seems different cultures have different notions of what the term &quot;hospital&quot; entails. Methinks this confuses the discussion a great deal.",1386051526
+6838928,comment,6838757,6838757,5,0,jonah,,,"Unrelated but since you&#x27;re into rare/old/obscure recordings, you might appreciate the Cylinder Recording collection at UCSB.<p><a href=\"http://cylinders.library.ucsb.edu/\" rel=\"nofollow\">http://cylinders.library.ucsb.edu/</a>",1386051523
+6838927,comment,6838757,6838868,3,0,karasinski,,,"Definitely do this. They will host it so that others can access it freely and forever and they&#x27;ll also make a torrent for it. Just get in touch with somebody who works with the collections or feel free to PM me.",1386051518
+4097760,story,,,0,0,,,,,1386051513
+4097702,story,,,0,0,,,,,1386051512
+4097646,story,,,0,0,,,,,1386051510
+4097642,story,,,0,0,,,,,1386051510
+4097640,story,,,0,0,,,,,1386051510
+4096947,story,,,0,0,,,,,1386051494
+6838926,comment,6838299,6838299,6,0,eyeareque,,,"In third world countries I am always so amazed at what people come up with when building things. When I set out to start a project it usually involves making a list, and then going to Lowes or Home Depot (hardware stores). People who don&#x27;t have that luxury just repurpose other things, and usually always does the job for them. My friends in another country actually seem to enjoy their hack-together process very much.",1386051475
+4095415,story,,,0,0,,,,,1386051458
+6838924,comment,6838917,6838917,1,0,davesque,,,"A very dense and readable summary of some of the key concepts in set theory.  Warning!!  May cause mind-blowing.",1386051446
+6838923,comment,6838299,6838891,2,0,FarhadG,,,"I appreciate that!",1386051441
+6838922,comment,6837892,6838590,1,0,kayoone,,,"oh so ToffeeScript is the latest fashion now ? See, thats why i dont get into any of those alternative JS syntaxes.",1386051404
+4092874,story,,,0,0,,,,,1386051398
+6838921,comment,6838865,6838865,1,0,RodgerTheGreat,,,"If you want to learn languages which are broadly different from those in popular use, learn Forth (or Postscript or Factor), APL (or J or K) and Prolog (or try writing something nontrivial in SQL).<p>You might also peruse the esoteric programming language wiki[1]. Some contain interesting and original ideas, and many are surface-level gimmicks. I&#x27;m a fan of HOtMEfSPRIbNG: <a href=\"http://esolangs.org/wiki/Homespring\" rel=\"nofollow\">http://esolangs.org/wiki/Homespring</a><p>[1]<a href=\"http://esolangs.org/wiki/Main_Page\" rel=\"nofollow\">http://esolangs.org/wiki/Main_Page</a>",1386051384
+409216,story,,,0,0,,,,,1386051380
+6838920,comment,6838757,6838868,3,0,grinich,,,"Specifically, Brewster Kahle! He&#x27;s awesome.<p>You can find his email address here: <a href=\"http://brewster.kahle.org/about/\" rel=\"nofollow\">http://brewster.kahle.org/about/</a>",1386051364
+409013,story,,,0,0,,,,,1386051332
+4089861,story,,,0,0,,,,,1386051326
+6838919,comment,6835094,6837158,2,0,SimHacker,,,"I have a friend who worked down the hall from Bezos for five years after Amazon was founded. If there is anything in that book that states or implies that Bezos in an insane power hungry tyrant, then it&#x27;s spot-on accurate. That creepy forced laugh of his you can experience in the 60 minutes interview should give it away.<p>He told me: Your reaction to the laugh is healthy.  You should be scared of this guy.  He can&#x27;t get enough power.  When I answered an online quiz &quot;11 reasons your boss may be a psychopath&quot; (or something like that) i gave him 10 1/2 out of 11.",1386051319
+4088692,story,,,0,0,,,,,1386051298
+4088680,story,,,0,0,,,,,1386051298
+4088669,story,,,0,0,,,,,1386051298
+4088660,story,,,0,0,,,,,1386051298
+4088657,story,,,0,0,,,,,1386051297
+4088645,story,,,0,0,,,,,1386051297
+4088629,story,,,0,0,,,,,1386051297
+4087689,story,,,0,0,,,,,1386051275
+4087688,story,,,0,0,,,,,1386051275
+4087683,story,,,0,0,,,,,1386051275
+4087682,story,,,0,0,,,,,1386051275
+4086416,story,,,0,0,,,,,1386051245
+4086395,story,,,0,0,,,,,1386051245
+4086391,story,,,0,0,,,,,1386051245
+6838917,story,,,48,19,davesque,"A Crash Course in the Mathematics Of Infinite Sets",http://legacy.earlham.edu/~peters/writing/infapp.htm,"A very dense and readable summary of some of the key concepts in set theory.  Warning!! -- May cause mind-blowing",1386051232
+4085484,story,,,0,0,,,,,1386051223
+4085272,story,,,0,0,,,,,1386051218
+4085229,story,,,0,0,,,,,1386051217
+4085218,story,,,0,0,,,,,1386051217
+4085203,story,,,0,0,,,,,1386051216
+4085195,story,,,0,0,,,,,1386051216
+4085183,story,,,0,0,,,,,1386051216
+4085176,story,,,0,0,,,,,1386051216
+4084916,story,,,0,0,,,,,1386051209
+6838916,comment,6838757,6838757,1,0,the_french,,,"I think it could provide an interesting way for producers to discover unique and interesting samples to use in their tracks.",1386051203
+6838915,comment,6838482,6838724,1,0,djur,,,"You either don&#x27;t know what &quot;Social Security&quot; means or you don&#x27;t know what &quot;ponzi scheme&quot; means.",1386051172
+6838913,comment,6838494,6838494,2,0,publicfig,,,"This is pretty great, thanks! I would love to see the top row with the language names move down with the page. I really think that would make this easier to read.",1386051163
+4082224,story,,,0,0,,,,,1386051145
+4082223,story,,,0,0,,,,,1386051145
+4082220,story,,,0,0,,,,,1386051145
+4082217,story,,,0,0,,,,,1386051145
+4082213,story,,,0,0,,,,,1386051145
+6838912,comment,6838757,6838757,3,0,dmourati,,,"Find your favorite DJ and send it to them.  DJs are always looking for exotic sounds to add to their mixes.",1386051143
+6838911,comment,6838152,6838152,1,0,Kilo-byte,,,"sensationalist headline with little content to back it up",1386051130
+4081541,story,,,0,0,,,,,1386051129
+4081490,story,,,0,0,,,,,1386051128
+4081474,story,,,0,0,,,,,1386051128
+4081461,story,,,0,0,,,,,1386051127
+6838910,comment,6838299,6838299,22,0,morgante,,,"Wow, that&#x27;s awesome. I only wish I had anywhere near that capacity.<p>Unfortunately, I think my developer mindset actually makes physical hacking a lot harder due to 2 phenomena:<p>1. Code is cheap. Materials are not. I&#x27;m used to being able to churn out additional code with basically no cost to get things done, not to repurposing existing code (this is different from refactoring to abstractions).<p>2. Laziness is a quality in software development, but a major obstacle in physical development. I&#x27;ll quickly abandon physical projects because I can&#x27;t find an optimally efficient hack to finish things in minimal time.",1386051122
+6838909,comment,6838269,6838269,2,0,iterationx,,,"The left says big business is the problem and the right says big government is the problem.  And around and around we go.<p>I was watching a show about venomous snake bites they charged this poor woman $80,000 for 100 bucks worth of anti-venom.",1386051120
+6838908,comment,6836994,6838803,5,0,derleth,,,"> If it works in Africa, then, objectively, it works in sparsely populated and sparsely connected areas.<p>If it works in a really nice hotel in Johannesburg, it&#x27;s working in Africa.<p>Your point is invalid.",1386051099
+6838907,story,,,2,0,cyberviewer,"New algorithm finds you, even in untagged photos",http://www.ece.utoronto.ca/news/aarabi-algorithm-finds-you/,"A new algorithm designed at the University of Toronto has the power to profoundly change the way we find photos among the billions on social media sites such as Facebook and Flickr.  This month, the United States Patent and Trademark Office will issue a patent on this technology",1386051076
+4079241,story,,,0,0,,,,,1386051074
+6838906,comment,6838757,6838757,29,0,rms,,,"Seed it on the Pirate Bay?",1386051044
+6838905,comment,6838299,6838299,6,0,hobs,,,"I always respect someone who can look at a block of marble, and see Venus underneath it all.\nGreat article!",1386051039
+6838904,story,,,1,0,compnerd,"Hyperloop & ET3 Transport raising funds to compete with CA High Speed Rail Proj.",http://launch.co/story/coo-of-et3transport-nickgarzilli-organizes-indiegogo-campaign-to-get-tube-transport,,1386051036
+4077217,story,,,0,0,,,,,1386051026
+4077166,story,,,0,0,,,,,1386051025
+4077060,story,,,0,0,,,,,1386051022
+4077043,story,,,0,0,,,,,1386051022
+4076988,story,,,0,0,,,,,1386051021
+4076967,story,,,0,0,,,,,1386051020
+6838903,comment,6838757,6838757,3,0,Asparagirl,,,"Give the files to the Internet Archive (www.archive.org), definitely!  They&#x27;ll host it all for free, and make a collection out of it.  E-mail them directly or contact Jason Scott (@textfiles on Twitter) who manages a preservation group for them called Archive Team.",1386051017
+6838902,comment,6838482,6838752,2,0,djur,,,"&quot;literally millions of open positions in the US economy&quot;: And almost four times as many unemployed people seeking work. Those open positions numbers are based on self-reporting, too, and they don&#x27;t account for whether companies are actively seeking candidates, are offering a competitive salary, or are expecting reasonable qualifications. Lots of companies would love to hire busloads of experts at a bargain rate if they were available, but in the absence of a bumper crop of cheap geniuses they&#x27;re happy to stand pat.<p>Surveys have shown that companies are having more trouble hiring people who have enough relevant experience than people with sufficient educational qualifications or technical skills [1]. To the extent there&#x27;s a structural unemployment problem in the US, it&#x27;s a bootstrapping problem -- too few entry-level positions in professional fields to supply the long-term need for experienced workers in those fields. This fits with my anecdotal observations of my 20-something friends -- their BAs won&#x27;t even get them on the bottom of the ladder.<p>&quot;who can&#x27;t be bothered to master these STEM fields&quot;: Try: can&#x27;t afford training in those fields. Try: can&#x27;t get a job in those fields without years of experience.<p>[1]: <a href=\"http://business.time.com/2012/06/04/the-skills-gap-myth-why-companies-cant-find-good-people/\" rel=\"nofollow\">http://business.time.com/2012/06/04/the-skills-gap-myth-why-...</a>",1386051004
+6838901,comment,6838495,6838495,4,0,Kilo-byte,,,"it&#x27;s the usual flu season people, no need to fear this thing",1386050998
+6838900,comment,6834657,6835140,2,0,jimbosis,,,"The effusive Thom Holwerda of OSNews wrote up a quite long telling (55 pg in the PDF version) of the Palm story not too long ago.<p><a href=\"http://www.osnews.com/story/26838/Palm_I_m_ready_to_wallow_now\" rel=\"nofollow\">http://www.osnews.com/story/26838/Palm_I_m_ready_to_wallow_n...</a><p>Note that you can read the whole thing on the website. The TOC is after his plug for purchasing the PDF.<p>And someone in the know commented that some of the Android developers are people from the Palm world.<p><a href=\"http://www.osnews.com/story/26861/Additional_insights_into_Palm_OS_6_Cobalt_\" rel=\"nofollow\">http://www.osnews.com/story/26861/Additional_insights_into_P...</a>",1386050991
+4074961,story,,,0,0,,,,,1386050973
+6838899,story,,,2,0,obilgic,"You can now buy guns with Bitcoins",http://www.gunsunder500.com/,,1386050961
+6838898,comment,6838416,6838416,2,0,cgore,,,"A few years back I bought a Carcano, the rifle used in the JFK assassination.  I had always remembered every year some &quot;firearms expert&quot; being trotted out and claiming that there was no way that shot could have been made.<p>I don&#x27;t think I could reliably make that shot, but a really good shooter could.  It is actually a pretty accurate rifle.  It is really unreliable though (although that might be just because it is from WW2).  So whenever the TV tries to tell you something about firearms, just remember that most news reporters haven&#x27;t been near anything more powerful than a NERF gun in their entire lives.<p>An interesting little bit of trivia.  Mussolini was a really hard-core atheist, to the point where he even tried to get rid of the Christian year system.  And I don&#x27;t mean just trying to replace BC/AD with BCE/CE, he restarted the calendar at the date in which he took power in Italy.  Mine was stamped &quot;1941 XIX&quot;, 19 years by Mussolini&#x27;s count.",1386050945
+4072637,story,,,0,0,,,,,1386050918
+6838897,comment,6838269,6838802,2,0,HorizonXP,,,"Sure, we do get billed. But as a patient, I never see it. The only bill I&#x27;ve ever seen is for ambulance rides, if I ever need to take one. That&#x27;s ~$35-45. I&#x27;ve never received charges for anything else.<p>When I used to volunteer at the ER, I saw patients come in to pay some bills related to wheelchair rentals or crutches. Sometimes they had their prescriptions filled at the pharmacy, and they had to pay for that. But again, that&#x27;s the extent of the bills that patients would see.<p>I once saw a guy come in via ambulance, screaming in pain. The paramedics rushed him in, and yelled to the staff that they needed a Resusc room immediately, since the guy had no detectable pulse or pressure, and she suspected he had a triple-A (I found out later that this was an abdominal aortic aneurysm.). The nurses fumbled to clear a room for them, but they eventually did. A quick ultrasound by the ER Dr. to confirm, and he was wheeled off to surgery.<p>That &quot;bill&quot; likely cost the taxpayers of Ontario upwards of $50k by my uninformed guess. Not sure if he survived or not, AAAs typically have extremely high mortality rates and have to be addressed within 30 minutes. In any case, I do appreciate the fact that him and his family don&#x27;t have to worry about a thing, except getting better and appreciating life. However, I&#x27;m not sure what value it would provide for them to know the financial cost. <i>shrug</i> Something worth thinking about.<p>(Recounting this story makes me somewhat regret not continuing along the path to medical school. <i>shrug</i> Guess I have to contribute in a different way.)",1386050909
+4072004,story,,,0,0,,,,,1386050903
+4071990,story,,,0,0,,,,,1386050903
+4071989,story,,,0,0,,,,,1386050903
+4071987,story,,,0,0,,,,,1386050903
+4071984,story,,,0,0,,,,,1386050903
+4071981,story,,,0,0,,,,,1386050903
+4071863,story,,,0,0,,,,,1386050900
+4071862,story,,,0,0,,,,,1386050900
+4071859,story,,,0,0,,,,,1386050900
+4071517,story,,,0,0,,,,,1386050892
+4071492,story,,,0,0,,,,,1386050891
+4071312,story,,,0,0,,,,,1386050887
+4071299,story,,,0,0,,,,,1386050887
+4071294,story,,,0,0,,,,,1386050886
+6838896,comment,6838434,6838434,7,0,GuiA,,,"This EWD is mind blowing in its beauty. It&#x27;s 30 pages, but 30 pages that you won&#x27;t regret reading.<p>I love computer science and teaching it is some of the most fun I&#x27;ve ever had. With a lot of practice, you can get across concepts such as computability and turing machines to the non-mathematically initiated within the duration of a party, and it&#x27;s greatly satisfying. (yes I am a lot of fun to be around)<p>The rest of the EWD notes are highly recommended. (also it&#x27;s weird to see an academic write in script). Side question: do any other HNers keep notes in written form? I still do it, using a fountain pen, and am often poked fun at by colleagues :(",1386050884
+6838895,comment,6838495,6838495,4,0,nether,,,"Holy shit, it&#x27;s happening...",1386050876
+6838894,comment,6838434,6838434,10,0,beala,,,"Transcription: <a href=\"http://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html\" rel=\"nofollow\">http://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036...</a>",1386050873
+4070677,story,,,0,0,,,,,1386050872
+6838893,comment,6838269,6838531,3,0,gorbachev,,,"That&#x27;s because if the hospital submits that $2K bill to an insurance company, they get paid somewhere around $300 - $500 for it.<p>The sucker without health insurance goes bankrupt trying to pay the full price.",1386050857
+4069873,story,,,0,0,,,,,1386050853
+6838892,comment,6838345,6838489,2,0,lessnonymous,,,"It sounds, to me, like they should have created a centralised spec for talking to these external system. Then created teams to build the interfaces between that spec, and the external systems.<p>So for healthcare.gov to talk to Hospital Insurance Inc. it would actually talk to the Health Insurance Inc shim and THAT would talk to the third party.<p>Now you have a small(er) definable project that a team can deliver and that can be tested. 100 shims later and healthcare.gov can talk to anything because they all (appear to) use the same interface.",1386050848
+6838891,comment,6838299,6838299,6,0,primitivesuave,,,"Really beautiful piece on the mind of a maker.",1386050837
+4069212,story,,,0,0,,,,,1386050837
+406909,story,,,0,0,,,,,1386050834
+6838890,comment,6836387,6838292,4,0,bottled_poe,,,"Well that and whether you are making millions from software sales.",1386050827
+4067268,story,,,0,0,,,,,1386050791
+4067236,story,,,0,0,,,,,1386050790
+4066890,story,,,0,0,,,,,1386050782
+4066885,story,,,0,0,,,,,1386050782
+4066881,story,,,0,0,,,,,1386050782
+4066696,story,,,0,0,,,,,1386050777
+4066620,story,,,0,0,,,,,1386050775
+6838889,comment,6835094,6838503,1,0,SimHacker,,,"Their Doucheglasses for example.",1386050772
+4066458,story,,,0,0,,,,,1386050772
+4066380,story,,,0,0,,,,,1386050770
+4066279,story,,,0,0,,,,,1386050767
+6838888,comment,6838566,6838566,2,0,tempestn,,,"Samsung should really take a page from HTC&#x27;s book and put more focus into low-light performance (both with and without flash), rather than worrying about cramming in even more pixels.  The camera in the vanilla GS4 is already more than sufficient for any recreational user in daylight.  (And non-recreational users won&#x27;t be using their smartphone camera anyway.)",1386050765
+4065459,story,,,0,0,,,,,1386050748
+4065354,story,,,0,0,,,,,1386050746
+4065322,story,,,0,0,,,,,1386050745
+4064107,story,,,0,0,,,,,1386050716
+6838887,comment,6838299,6838299,11,0,Cyph0n,,,"Hacking reality is the toughest type of hacking I think. Kudos to your roommate and I hope he achieves his dream.",1386050705
+6838886,comment,6838299,6838876,2,0,FarhadG,,,"Good idea! I&#x27;ll pass it onto him.",1386050696
+6838884,comment,6837722,6837722,1,0,kimonos,,,"I really agree on this..",1386050692
+6838883,comment,6838582,6838582,1,0,mukundmr,,,"Don&#x27;t companies have a confidentiality agreement in place when they are having discussions of this nature?  Such speculative articles can be used as a basis for cancelling the acquisition.  I don&#x27;t understand the intention of business-standard in reporting something that is unconfirmed.",1386050688
+4062739,story,,,0,0,,,,,1386050684
+6838882,comment,6838482,6838855,1,0,xerophtye,,,"well said",1386050683
+6838881,comment,6838299,6838739,3,0,Cyph0n,,,"Go on..",1386050670
+4062099,story,,,0,0,,,,,1386050669
+6838880,comment,6836994,6838268,5,0,madeofpalk,,,"For example, <a href=\"http://www.apple.com/iphone-5c/\" rel=\"nofollow\">http://www.apple.com/iphone-5c/</a>",1386050668
+6838879,comment,6838299,6838739,7,0,srik,,,"Now you got me curious. Can you share?",1386050662
+4061466,story,,,0,0,,,,,1386050654
+6838878,comment,6838269,6838847,10,0,techsupporter,,,"> You could say the same thing about funeral services.  Yet it is a free market. And it works well. Because people buy plots ahead of time and negotiate services well in advance.<p>Well, except that when I die, my corpse only goes one place: the ground or the incinerator.  And, as an added bonus, I get to choose that destination in advance.  Oh, for the joys of only ever potentially needing emergency (or even urgent) care in a single location.<p>> Nothing is stopping you from walking into an emergency room at your local hospital and negotiating a fair hourly or daily rate for care.<p>I&#x27;m pretty sure that this is called insurance.<p>> until your premium is thousands per month and you run to some halfwit politician to fix it.<p>Or until you buy insurance on the open, free market and then have that insurance canceled for some obscure reason usually related to your suddenly becoming too expensive for your insurance carrier.  Or knowing in advance that actually going to the doctor for that pain in your side will mark you as having a preexisting condition (even if the insurance doesn&#x27;t pay for it and never even sees a bill) thus previously making you uninsurable or only able to receive coverage for a staggeringly high premium.<p>I could go on but I don&#x27;t want to bore you with my real life tales of navigating our so-called health care system.",1386050636
+4060188,story,,,0,0,,,,,1386050624
+4060185,story,,,0,0,,,,,1386050624
+4060183,story,,,0,0,,,,,1386050624
+4060177,story,,,0,0,,,,,1386050624
+4060171,story,,,0,0,,,,,1386050624
+4060169,story,,,0,0,,,,,1386050623
+4060166,story,,,0,0,,,,,1386050623
+4060163,story,,,0,0,,,,,1386050623
+4059765,story,,,0,0,,,,,1386050614
+4059731,story,,,0,0,,,,,1386050613
+4059573,story,,,0,0,,,,,1386050609
+4059453,story,,,0,0,,,,,1386050607
+4059425,story,,,0,0,,,,,1386050606
+4058964,story,,,0,0,,,,,1386050595
+4058955,story,,,0,0,,,,,1386050595
+4058925,story,,,0,0,,,,,1386050594
+6838877,comment,6835094,6835507,3,0,SimHacker,,,"I know that FedEx (and probably USP) are both very interested in flying big unmanned autonomous vehicles (cargo planes) between airports.",1386050591
+6838876,comment,6838299,6838299,2,0,tempestn,,,"I was hoping he&#x27;d find some way to double-hinge the wardrobe door so it could function as both a door and a desk!  Still obviously very cool and far more than I could do (or more importantly, as you say, even come up with).",1386050590
+6838875,comment,6836547,6837333,2,0,jared314,,,"<a href=\"https://news.ycombinator.com/item?id=6181627\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6181627</a> (3 months ago)",1386050577
+4057138,story,,,0,0,,,,,1386050552
+6838874,comment,6836387,6837331,5,0,Kliment,,,"Yes but a megadrive did not fit in your pocket, and the game gear, while backpackable, had awful battery life. The smartphone is successful running game gear level games because it will do so all day, and has a setup time of four seconds from impulse to game.",1386050541
+4056624,story,,,0,0,,,,,1386050540
+4056497,story,,,0,0,,,,,1386050537
+4056489,story,,,0,0,,,,,1386050537
+4056487,story,,,0,0,,,,,1386050537
+4056484,story,,,0,0,,,,,1386050537
+4056479,story,,,0,0,,,,,1386050536
+4056390,story,,,0,0,,,,,1386050534
+4056337,story,,,0,0,,,,,1386050533
+4056315,story,,,0,0,,,,,1386050533
+4056035,story,,,0,0,,,,,1386050526
+6838873,comment,6838345,6838841,1,0,olefoo,,,"Yeah, that was pretty special. It&#x27;s because it&#x27;s a fillable PDF...",1386050525
+4055995,story,,,0,0,,,,,1386050525
+4055338,story,,,0,0,,,,,1386050509
+4055093,story,,,0,0,,,,,1386050503
+6838872,comment,6838482,6838643,2,0,xerophtye,,,"Ok i din&#x27;t read it all the way through so thanks for posting that. But SERIOUSLY?!?!? You know it wasn&#x27;t our generation that wrote &quot;romeo and juliet&quot;.... And i thought this was backwards now? I thought young people now care even far less for relationships and more for sex...",1386050502
+4055049,story,,,0,0,,,,,1386050502
+4054983,story,,,0,0,,,,,1386050501
+4054931,story,,,0,0,,,,,1386050499
+4054778,story,,,0,0,,,,,1386050496
+4054761,story,,,0,0,,,,,1386050495
+4053851,story,,,0,0,,,,,1386050474
+6838871,comment,6838269,6838531,5,0,Aloisius,,,"<i>Have you seen the profit margins for the hospitals with these high prices? They certainly aren&#x27;t raking it in.</i><p>These hospital are almost exclusively non-profits. Measuring the profit margins of non-profits is folly. They funnel the excess money into salaries, marketing, equipment and expansion (often unnecessary).",1386050463
+6838870,story,,,2,0,polson81,"This Landmark Study Could Reveal How The Web Discriminates Against You",http://www.forbes.com/sites/parmyolson/2013/12/02/this-landmark-study-could-reveal-how-the-web-discriminates-against-you/,,1386050448
+6838869,comment,6835449,6836179,1,0,mithras,,,"In a serious bitcoin/mental poker implementation you could let people put up a bond that&#x27;s used to pay the other party if you do that. It&#x27;s not exactly zero trust anymore but still better than the conventional model.",1386050440
+4052145,story,,,0,0,,,,,1386050433
+4051972,story,,,0,0,,,,,1386050429
+4051956,story,,,0,0,,,,,1386050429
+4051929,story,,,0,0,,,,,1386050428
+4051920,story,,,0,0,,,,,1386050428
+4051911,story,,,0,0,,,,,1386050428
+4051884,story,,,0,0,,,,,1386050427
+4051874,story,,,0,0,,,,,1386050427
+4051851,story,,,0,0,,,,,1386050426
+4051835,story,,,0,0,,,,,1386050426
+4051811,story,,,0,0,,,,,1386050425
+4051784,story,,,0,0,,,,,1386050425
+4051772,story,,,0,0,,,,,1386050424
+4051758,story,,,0,0,,,,,1386050424
+4051221,story,,,0,0,,,,,1386050411

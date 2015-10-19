@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83419,comment,83317,83317,0,0,tlrobinson,,,"The problem is that the patent system is a) broken and b) <i>very</i> abused.<p>It's at the point where companies will go out and patent everything they possibly can, in order to <i>protect themselves</i>. Then, when company A decides to sue company B for patent infringement, company B simply finds a patent of theirs that company A is infringing, and they counter-sue then call it even.<p>It's utterly ridiculous, but it's common and considered normal these days. For example, the Qualcomm / Broadcom patent lawsuits. Cisco does the same thing.",1196034542
+83418,comment,82629,83164,0,0,ido,,,"Something to do with the original macintosh, iirc.",1196034396
+83417,comment,83284,83329,0,0,tlrobinson,,,"It also shows how predictable the Digg users are... if you want a bunch of traffic from Digg, make something to piss off Digg users.<p>Digg: mob mentality at it's finest.",1196033946
+83416,comment,83348,83360,0,0,Goladus,,,"I agree, and in fact that's generally the attitude I see.  Tools I've seen used:  Matlab, Python, Visual Basic, Java, C++.  Often scientists seem as eager to play with programming as programmers are eager to play with (or at least read and talk about) research.",1196033655
+83415,comment,82864,83406,0,0,DanielBMarkham,,,"I have to admit it's a pet peeve for me -- even more than choice of languages, oddly enough. When scanning code, I just like the ability to see my control blocks clearly. Simply because you can do something like this<p><pre><code> if (a==b) { doStuff(); } else doOtherStuff();
+
+</code></pre>
+Doesn't mean you should.<p>
+I would consider this a little bit of a hangup on my part, though, as it seems other programmers go the other way. An interesting topic for a book is all the weird things programmers get hung up about. Variable naming comes to mind, as does error handling strategies. And when we get hung up, usually we're not too shy about explaining why everybody else is wrong!",1196033593
+83414,story,,,1,0,amichail,"The Catalog Of Correctable Omnipresent Human Flaws ",http://www.transhumanismus.demokratietheorie.de/docs/the_catalog_of_correctable_human_flaws.html,,1196032918
+83413,story,,,1,0,johnrob,"VC Due Diligence Tips",http://ricksegal.typepad.com/pmv/2007/11/the-due-diligen.html,,1196031786

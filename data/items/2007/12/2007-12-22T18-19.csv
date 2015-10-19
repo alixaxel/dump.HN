@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92038,comment,92022,92036,0,0,chrisconley,,,"i've stripped html, images, etc, it's just text<p>i'm running php through suphp(i think?) so that emails are not sent from ""nobody""<p>i've set up an spf record<p>i've had servint(where site is hosted) properly set up the A records(though i can't be totally positive that they know what they were doing)<p>the only thing i haven't done(that i know of) is gone through the domainkey process through yahoo<p>thanks again for any help!",1198349387
+92037,story,,,7,1,ivan,"I.B.M. Buys In-Memory Database Company",http://www.nytimes.com/idg/IDG_002570DE00740E18C12573B800335866.html?ex=1355893200&en=783f1587ac5fc197&ei=5090&partner=rssuserland&emc=rss,,1198349227
+92036,comment,92022,92022,0,0,ivan,,,"Check the content of your e-mails. Are there links? Are there images? What is your domain name or sender name? What is the subject of your messages?",1198348863
+92035,comment,91888,91888,0,0,edw519,,,"""...and proceeded to write a test harness for my new classes. As I'd surmised, this took me nearly as long as writing the code...""<p>Says more about poor management of the SDLC than the technology used.  I don't care what technology you use, if you don't test, you're an idiot.  And if you do know what you're doing, you can make it work with any technology (albeit some more easily than others).",1198348840
+92034,comment,91773,91889,0,0,mooneater,,,"Dumb typo. Thanks.",1198348382
+92033,comment,91911,91959,0,0,nostrademons,,,"I believe he's referring to how every single one of the languages and technologies listed in this post are not capitalized how they're normally capitalized.",1198347378
+92032,comment,91848,91848,0,0,edw519,,,"Another (of countless) example of ""correlation must equal causation"".<p>(Look at all the garbage those rats brought with them.)",1198347232
+92031,comment,92011,92011,0,0,byrneseyeview,,,"If Microsoft and Apple had done that, they would have had to find new founders.",1198347231
+92030,comment,91814,92018,0,0,joshwa,,,"That restriction is only for the free version.",1198347044
+92029,story,,,13,5,nickb,"Newly Discovered Design Pattern: ""Code Well.""",http://weblog.raganwald.com/2007/12/newly-discovered-design-pattern-code.html,,1198347006
+92028,comment,90782,91079,0,0,donal,,,"I just bought ""The Little Schemer."" It is rocking my world.",1198346941
+92027,comment,91893,91984,0,0,joshwa,,,"until southwest opens their booking system to 3rd parties, nobody wins.",1198346810
+92026,story,,,5,0,nickb,"Fermilab nailed with steep budget cuts, 70% cut for their linear collider",http://www.nytimes.com/2007/12/22/science/22fermi.html?ex=1356066000&en=7437c74652df02f0&ei=5090&partner=rssuserland&emc=rss,,1198346450

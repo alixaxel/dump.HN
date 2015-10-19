@@ -1,0 +1,57 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+79692,comment,78933,78933,0,0,connellybarnes,,,"People who are programmers might not have as much respect for or interest in college, because C.S. tends to be a little watered down as far as standards go.  If you want high standards, go into physics or math.<p>Probably confirming this general prejudice, I programmed a lot in high school, and I never thought grades had anything to do with intelligence or ability or willingness to work, because all the smart people I knew had bad grades.  It annoyed me when people with good grades got into good colleges for not doing interesting things, so in undergrad I decided that I'd get perfect grades.  I did that, majoring in math and physics, and switched back to C.S. for grad school.  My adviser told me grades don't matter in grad school, so I've now gone back to ignoring grades.<p>I'm in grad school at the moment.  I'm sure I have a lot of learning to do, as far as what different groups of people think of all this grading information.  I mostly just look at it as a proof that I'm willing to teach myself, learn, and occasionally work, so it seems frustratingly tedious to me, as I already know the answers to these questions.  Since perhaps middle school, with the exception of graduate school, I've disliked much of school because I don't like being taught, as compared with being given enough freedom to teach myself (gently guided exploration is my preference).<p>Grad school is fun if it's your cup of tea.<p>Despite having extremely limited information on the subject of how grades change job prospects, I think people worry too much about grades.  If you get the perfect white collar job after getting perfect grades then chances are you will still be unhappy unless it is a good fit for you.  A college degree is the access card to the academic and corporate systems, so it's an important constraint, and nothing to casually dismiss or yawn at.  And grades are part of that.  But rational, informed decisions can be made to not go to college, or to not get good grades, depending on one's interests.  For example, the corporate side of the world doesn't interest me at all, and I have the nagging feeling that in undergrad I really should've been exploring what I wanted to do with my life more instead of spending four years trying to get good grades.<p>The bottom line is that I'm not convinced that careers and that ordering them the way that everyone tells me to will necessarily give me happiness.  When in doubt, ignore everyone else and listen to oneself, but first maximize your information by reading lots of good books on the subject of grades and careers, and also be rational and don't overly discount the worth of your future time; realize that grades are a part of the union card for corporate America and the academic world.",1195027119
+79691,comment,79253,79667,0,0,tlrobinson,,,"Whoaaaa, double negative, my bad. What I meant to say was<p>""Though I don't think the ""winner"" will come from Google.""
+",1195026823
+79690,comment,79677,79677,0,0,greendestiny,,,"Me 50 days ago ( 
+<a href=""http://news.ycombinator.com/item?id=59218"" rel=""nofollow"">http://news.ycombinator.com/item?id=59218</a> ):<p>> If google leveraged the gmail user base to make orkut bigger and integrated it with igoogle widgets, it'd be something approaching facebook.<p>They should totally hire me to tell them things they already know. Actually thats pretty much the definition of a consultant already...",1195025758
+79689,comment,79543,79586,0,0,cstejerean,,,"I didn't have a chance to post a more elaborate response earlier but I'll give it a shot now. The problem that needs to be addressed is the ability of attackers to brute force the SSH service. In order to mitigate this one should<p>1) Use only public key authorization for SSH or
+2) Use VERY STRONG passwords
+3) Have a long limit between password attempts or
+4) Have the computer blacklist any IP that tries to log in unsuccessfully more than X times (where X ~ 10)
+5) Have SSH running on a non-standard port. This will deflect the majority of automated attacks but will not stop a dedicated attacker.
+6) Use port knocking or the technique described to allow only users with some knowledge of the system to be able to talk to the SSH service
+7) MONITOR YOUR LOG FILES. An attacker should not EVER be able to brute force passwords for a few days without YOU noticing.<p>Now you are free to layer as many of these as you need and each will reduce the probability of a successful attack, but you need to take into consideration the cost vs risk. For example the technique described in this article offers added security but places limitations on connecting to the machine  (from a client that has the right algorithm, with synchronized clocks, and also make sure not to make a mistake otherwise you'll get locked out for 15 minutes which can HURT if you're dealing with a critical matter).<p>Personally I like the concept but I think the added costs are too great and compared with using some of the other security mechanisms.",1195025566
+79688,comment,79475,79658,0,0,mxh,,,"Balls to that.  I'm armed with a bad attitude and worse math.  By my reckoning:<p>On any given day, a given prisoner has a .99 probability of NOT visiting the room.<p>Over a period of N days, a given prisoner has a pow(.99, N) probability of having _NEVER_ visited the room.  Therefore, the probability a given prisoner HAS visited the room at least once over a period of N days is (1-pow(.99, N)).<p>Therefore, the probability that X prisoners have each visited the room at least once over a period of N days is pow((1-pow(.99, N)), X)[1].  If I'm in the room, the question I need to answer is:  How likely is it that each of the 99 other prisoners have visited the room at least once in the preceeding N days?<p>Let's visit Mr. Python:<p><pre><code>   N    P(safe)  Cost[2]
+ ----- -------- ----------
+  100: 0.000000 (18250.00)
+  200: 0.000001 (18249.99)
+  300: 0.006887 (18124.31)
+  400: 0.166419 (15212.86)
+  500: 0.520678 ( 8747.63)
+  600: 0.787901 ( 3870.80)
+  700: 0.916504 ( 1523.81)
+  800: 0.968598 (  573.08)
+  900: 0.988391 (  211.87)
+ 1000: 0.995735 (   77.83)
+ 1100: 0.998437 (   28.53)
+ 1200: 0.999428 (   10.45)
+ 1300: 0.999790 (    3.82)
+ 1400: 0.999923 (    1.40)
+ 1500: 0.999972 (    0.51)
+ 1600: 0.999990 (    0.19)
+ 1700: 0.999996 (    0.07)
+ 1800: 0.999999 (    0.03)
+ 1900: 0.999999 (    0.01)
+ 2000: 1.000000 (    0.00)
+ 2100: 1.000000 (    0.00)
+ 2200: 1.000000 (    0.00)
+ 2300: 1.000000 (    0.00)
+ 2400: 1.000000 (    0.00)
+ 2500: 1.000000 (    0.00)
+ 2600: 1.000000 (    0.00)
+ 2700: 1.000000 (    0.00)
+ 2800: 1.000000 (    0.00)
+ 2900: 1.000000 (    0.00)
+ 3000: 1.000000 (    0.00)
+ 3100: 1.000000 (    0.00)
+ 3200: 1.000000 (    0.00)
+ 3300: 1.000000 (    0.00)
+ 3400: 1.000000 (    0.00)
+ 3500: 1.000000 (    0.00)
+</code></pre>
+After 1000 days, I'm guessing everyone's visited.  Screw you guys, I'm going home.[3]<p>
+[1]I know this can't be exactly right, because prisoner visits aren't independent events, but I figure it can't be that wrong, and I want to go home.<p>[2]Cost is calculated in expected days of life forgone, multiplying (1-P(safe)) by 50 years by 365.  Arbitrary, but it gives some idea of how much expected life you gain by waiting longer to roll the dice.<p>[3]I know this is ducking the intention of the question, but I think the point that death isn't that bad a risk if the probability is low is a legitimate one.",1195025497
+79687,comment,79048,79048,0,0,dcurtis,,,"This shows some amazing dedication, but the beans don't have any facial expressions so the emotion in their voices seem kind of strange.<p>Still, I'm pretty sure every kid on earth would love this movie, based on the preview.",1195024972
+79686,story,,,2,0,cstejerean,"I/O Brush: The World as the Palette",http://web.media.mit.edu/~kimiko/iobrush/,,1195024706
+79685,comment,79475,79502,0,0,corentin,,,"I'm working on a solution using the current day (modulo the population) as a kind of covert channel to keep track of the number of prisoners who already visited the room (the basic idea is that, if the light is on on day 64, <i>at least</i> 64 people have visited the room).<p>I still have a bug in my algorithm and I'm not even sure it will really work.",1195024330
+79684,story,,,7,2,eusman,"Reddit founders talk",http://youtube.com/watch?v=nm_TcHulkSc,,1195024242

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+43813,comment,43799,43809,0,0,amichail,,,"I should add that anything graphics related is probably an exception to this because you need quite a lot of knowledge and mathematical sophistication to succeed in this area.  A masters degree in graphics will probably help you.",1187450650
+43812,comment,43635,43762,0,0,pg,,,"You're probably right.  No one complains when whole submissions are deleted as spams, presumably because you can see them if you want by turning on showdead in your profile.  So maybe I'll add something to preserve original submission titles.",1187450458
+43811,comment,43799,43799,0,0,rsel,,,"It's not as bad in CS.  In English you have the problem of working on fundamentally bogus stuff in addition to the structural problems inherent in grad school.
+",1187450248
+43809,comment,43799,43799,0,0,amichail,,,"My advice:  only consider grad school after you have completely given up on startups.  <p>It's better to be a cofounder of a successful startup than to be an academic.",1187449978
+43808,comment,363,363,0,0,nirs,,,"Undo for voting, see reddit implementation.",1187449920
+43807,comment,363,363,0,0,nirs,,,"Use black text color for author comment text, the current gray is hard to read.",1187449781
+43806,comment,363,363,0,0,nirs,,,"100% font size for body text, relative size for other text. A user should get his preferred font size set in the browser.",1187449682
+43804,comment,363,363,0,0,nirs,,,"Vote down for any user, because it more useful to vote down, and for ranking it does not matter how a link count is reached, by voting down or up. ",1187449629
+43803,comment,43686,43777,0,0,sanj,,,"An alternative alternative:  teaching children and parents not to rely solely on educators.<p>I went to that mediocre public school.  No, realy, it was that lame.  We were really a place for a lot of kids to get enough shop skills to end up at the local GM plant.<p>I slipped around the edges of it all, did stuff I wanted to do, and, frankly, succeeded.<p>My goal now is to teach my son to do the same.  In the public school system.",1187449313
+43802,comment,43786,43786,0,0,amichail,,,"SIGGRAPH 2007 paper and presentation here:<p><a href=""http://graphics.cs.cmu.edu/projects/scene-completion/"" rel=""nofollow"">http://graphics.cs.cmu.edu/projects/scene-completion/</a>",1187449258

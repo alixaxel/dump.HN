@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27089,comment,27032,27048,0,0,nonrecursive,,,"It should be ok now. It's on a piddly server with a couple other rails sites, but I think I've freed up enough resources for it to work ok.",1181427810
+27088,story,,,1,0,bootload,"Building a Distributed Spreadsheet in Modula-3 ('98 spreadsheet idea, framework illustrates key components with src)",http://www.linuxjournal.com/article/2690,,1181427780
+27087,comment,27086,27086,0,0,tx,,,"I have been seeing more and more articles and blog posts about Mono lately but I fail to realize the importance of it. I wish I was rude enough to just email to Miguel and ask him why has he dedicated so much time of his life working on it, but I better ask people who's not related to Mono - you.<p>Seriously, what is their motivation? I mean Mono people's. What they are doing, how I see it, is porting someone else's platform (Microsoft) which by itself is in essense just a copy of another platform (Java)... which <i>already</i> runs fine on Linux! Basicaly it lookts to me that Mono guys are just building a <i>poor performing copy of copy of something original</i> (Java platform) which already is built and works just fine. And have been, for a long time alreay. So long, that people are already getting bored with it.<p>Why??? Any ideas?
+--
+tx<p>P.S. I've been working with .NET for a while. Yes, it's rich and seem to have every imaginable feature, so do Python/Perl/Ruby/Java with their libs (all are 1st class Linux citizens). Why would one want to port .NET to Linux is beyond me...
+",1181427369
+27086,story,,,6,13,tx,"Please explain: why Mono?",,,1181426857
+27085,comment,27003,27027,0,0,tx,,,"Exactly my thinking... Well, windows is not cool anymore anyways.. :-)",1181426602

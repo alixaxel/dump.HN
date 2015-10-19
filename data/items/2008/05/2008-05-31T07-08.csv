@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+205163,comment,204263,204853,0,0,bootload,,,"<i>""... i would love to see a way to pump all this discussion on hacker news into disqus ...""</i><p>This quote resonates a lot. Especially after reading Stowe Boyds` response <i>""Fred Wilson on Leaving The Instigator Out: Small Worlds v Big World""</i> on exactly this problem ~ <a href=""http://www.stoweboyd.com/message/2008/05/a-vc-web-discus.html"" rel=""nofollow"">http://www.stoweboyd.com/message/2008/05/a-vc-web-discus.htm...</a>",1212220743
+205162,story,,,1,0,nreece,"Business Logic vs. Free Software Idealism",http://www.linuxplanet.com/linuxplanet/opinions/6487/1/,,1212220738
+205161,story,,,1,0,nreece,"Use Namespaces to organize your JavaScript code",http://extjs.com/blog/2008/05/28/use-namespaces/,,1212220727
+205160,comment,204307,204428,0,0,indy,,,"For anyone living in emacs I highly recommend org-mode (part of the standard emacs distribution since v22)",1212220652
+205159,story,,,2,0,nreece,"How Man-Made Noise May Be Altering Earth's Ecology",http://www.wired.com/science/planetearth/magazine/16-06/st_thompson,,1212220582
+205158,comment,205024,205150,0,0,jauco,,,"If you want to say plus 1, you should just vote on the comment instead of making a new post. It's both nicer to the author and it reduces the noise in the thread.",1212220307
+205157,story,,,1,0,cousin_it,"OpenPhotoVR (Photosynth-like photo browser) is now embeddable",http://openphotovr.org,,1212218942
+205156,comment,205065,205065,0,0,Tichy,,,"Following ""juci"" now - poor kid, I know how it feels to talk into a void...",1212218589
+205155,comment,205071,205071,0,0,bjclark,,,"You have to be able to learn anything, fast and only do things the right way, the first time.",1212218538
+205154,story,,,1,0,nickb," When Is AJAX Effective, And When Is It Not",http://successontheweb.blogspot.com/2008/05/when-is-ajax-effective-and-when-is-it.html,,1212217881
+205153,story,,,26,55,Tichy,"Ask HN: how did you fix problems with bad sleep?",,"I am exhausted most of the time, because I never sleep well. Doctor diagnosed ""restless legs syndrome"" and wants to give me pills, but I wonder if there are any other things to try? Just interested in any stories of how people fixed their problems with bad sleep.",1212217644
+205152,story,,,14,0,nickb," Surprise of the Day: Maglev Ruby VM",http://drewblas.com/2008/05/31/railsconf-2008-surprise-of-the-day-maglev/,,1212217483

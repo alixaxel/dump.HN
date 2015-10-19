@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+12976,story,,,1,0,bootload,"What Does Google Think You Look Like?",http://www.readwriteweb.com/archives/what_does_google_think_you_look_like.php,,1176591570
+12975,story,,,1,0,bootload,"Revenge of the Weird Search Engines!",http://www.readwriteweb.com/archives/poll_revenge_of_weird_search_engines.php,,1176591548
+12974,comment,12876,12919,0,0,zach,,,"Good evidence, as if any was needed, for an inverse correlation between four-year-college admission and clickthrough rates.",1176590179
+12973,comment,12924,12924,0,0,gsiener,,,"Davis sq!",1176589621
+12972,comment,12971,12971,0,0,nostrademons,,,"I'll take that bet...",1176588969
+12971,story,,,4,9,brett,"James Hong: Enough with the Facebook/Friendster analogies...",http://james.hotornot.com/2007/04/enough-with-facebookfriendster.html,,1176588847
+12970,comment,12858,12858,0,0,staunch,,,"Nice hack.<p><i>""And not using perl or any of that fancy stuff""</i><p>I think netcat counts as fancy stuff.<p>Here's the example scripts netcat is packaged with:
+<a href=""http://darwinsource.opendarwin.org/10.3/netcat-4/netcat/scripts/"">http://darwinsource.opendarwin.org/10.3/netcat-4/netcat/scripts/</a><p>Powerful little tool.
+",1176588306

@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32473,comment,32085,32468,0,0,pg,,,"The more the better, obviously, but you don't <i>have</i> to build anything.  We would have funded Loopt after nothing more than talking to Sam about his plans.<p>I don't remember exactly how far they were along then.  I think they may have had a simple app running on phones, but with simulated location info.",1183567396
+32472,comment,32450,32450,0,0,acgourley,,,"I guess if someone got skype on it and the price fell, this might make sense to some people. Still nice to know you can develop on it (kinda of) without needing to get a contract. ",1183566359
+32470,story,,,6,0,iamwil,"Helma Javascript Web Application Framework",http://dev.helma.org/,,1183565943
+32469,comment,32362,32448,0,0,albrecht,,,"An MBA.  The average MBA isn't the kind of person you want, but a really bright MBA can be a game changer if they stay out of your hair.",1183565273
+32468,comment,32085,32085,0,0,npk,,,"How advanced do prototypes have to be?  For example, did loopt have a prototype?  If not, how did they demonstrate their ability in embedded systems programming?  If they did, did they bring in a hacked up cell phone?",1183565263
+32467,comment,32425,32425,0,0,albrecht,,,"That's actually funny because I've met a successful angel investor by that name :)",1183565202
+32466,story,,,2,0,donna,"Entrepreneur: What's In a Definition?",http://www.thinkinglike.com/Essays/entrepreneur-definition.html,,1183565111
+32465,comment,32451,32451,0,0,iamwil,,,"I was wondering how they managed to embed Safari in there, but it seems like it's constrained to look like the iPhone's form factor.  So if there are any quirks between the browsers, you won't see it unless you're running the page in Safari.
+",1183565097

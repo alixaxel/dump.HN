@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+295674,story,,,6,4,c1sc0,"Ask HN: Best way to send MMS",,"We're trying to build a website that can send MMS messages to cellphones, worldwide.<p>It does not seem to be a technical problem (plenty of MMS gateways out there, SMTP2MMS providers, etc ...) but a business issue.<p>Basically, the impression I'm getting is that most carriers do not want 'small fish' like us to send MMS messages on their network without approval.<p>I'm disappointed with the state of MMS, makes me think of the locked-in world of WAP 8 years ago.<p>So: has any of you tackled this issue? Is there an easy solution or should we just accept this is going to be messy? Any pointers?",1220601561
+295673,comment,295654,295664,0,0,defann,,,"It's for Mac only?",1220601485
+295672,comment,295654,295654,0,0,swombat,,,"Either skitch, or just Shift-Ctrl-Cmd-4 and paste into an iChat window.",1220601473
+295671,story,,,12,2,rms,"Cory Doctorow: Macropayments",http://www.locusmag.com/Features/2008/09/cory-doctorow-macropayments.html,,1220601446
+295670,comment,295654,295654,0,0,pacificleo,,,"i use kam studio and SnagIT . will try your tool too",1220601446
+295668,comment,295654,295654,0,0,ivank,,,"Alt+Print Screen, paste to public Dropbox folder (Directory Opus supports screenshot paste), right click->copy public link",1220601440
+295667,comment,295475,295640,0,0,JMiao,,,"wait, this isn't the nine inch nails show in oakland tomorrow, right?  regardless, congrats on the progress.  i saw a pretty active dropbox thread on somethingawful.",1220601225
+295666,comment,294918,294918,0,0,cturner,,,"What's the best practice for communicating back to the server?<p>Is it
+ data = [CPURLConnection sendSynchronousRequest:""<a href=""http://myUrl"" rel=""nofollow"">http://myUrl</a>""]
+?",1220601219
+295665,story,,,1,0,vitaminj,"Stress and Class - No, it's not more stressful to be rich than poor",http://www.slate.com/id/2199100/,,1220601136
+295664,comment,295654,295654,0,0,ned,,,"Skitch !",1220600963
+295662,comment,295654,295660,0,0,defann,,,"Nice tool, it's for win but works on linux+wine even. Good luck!",1220600880
+295661,comment,295654,295654,0,0,ivankuznetsov,,,"I'm use PrintScreen on Mac and Apple Mail",1220600763
+295660,comment,295654,295654,0,0,defann,,,"I use:
+Printscreen + Adobe Photoshop + Gmail :)",1220600655
+295659,comment,295524,295589,0,0,swombat,,,"Don't forget Ultimate Moist and Chewy ($500) and Enterprise Moist and Chewy ($750)",1220600646
+295658,comment,295524,295558,0,0,swombat,,,"That was most definitely <i>not</i> a normal conversation.",1220600597
+295657,comment,295567,295567,0,0,DabAsteroid,,,"Were. If I <i>were</i> Reid Hoffman. Hypothetical statements about the present always require the past tense.<p><a href=""http://grammar.ccc.commnet.edu/GRAMMAR/conditional.htm"" rel=""nofollow"">http://grammar.ccc.commnet.edu/GRAMMAR/conditional.htm</a>",1220600569
+295656,comment,295365,295365,0,0,noonespecial,,,"So does this mean that the concept of a patent fails completely? You are allowed to make use of any patented technology for personal, non-commercial purposes. This machine, once fully mature, can conceivably make nearly anything. Will there be a napster for car parts?<p>I just love disruptive technology.",1220600489
+295655,comment,295654,295654,0,0,RomanZolotarev,,,"I use evernote.com",1220600473
+295654,story,,,13,29,C0x,"Ask HN: How do you share screenshots?",,"Here is my startup http://floomby.com. Floomby captures and shares screenshots. 
+What tools do you use to share screenshots?",1220600443
+295650,comment,295373,295441,0,0,mace,,,"Agreed.  It might be worthwhile to work on a project longer than a month to build a user base and accumulate enough useful feedback that might lead you into building what people want.<p>Project Mayhem is an interesting experiment.  I bet some of your products might turn out to be better than more well-funded products.",1220599778
+295647,comment,295524,295558,0,0,chaostheory,,,"""the ad shows a normal conversation between two people.""<p>maybe if those 2 people lived in the world of seinfeld it'd be normal... but I didn't feel it was very normal; it was weird like the sitcom<p>hmmm to me the message of the Apple ads isn't 'we are better than you', it's more like 'why put up with this crap anymore? life can be easier if you try something new'",1220599486
+295646,story,,,1,0,bdfh42,"Password Gem: v1.2 Released",http://gilesbowkett.blogspot.com/2008/09/password-gem-v12-released.html,,1220599145
+295645,comment,295524,295591,0,0,chaostheory,,,"i guess changing their image from boring old school corporate machine to just weird is a start",1220599123
+295644,comment,295560,295560,0,0,vaksel,,,"Is this the same guy who charges $20K for the wax job and makes his own wax?",1220599002
+295643,comment,295489,295489,0,0,olefoo,,,"Here is an idea for someone to run with, a usb device that is like an articulated glove and can act as both input and output (it's a haptic control and a waldo) it would allow people to leave handwritten notes remotely, shake hands, play ping pong and possibly, just possibly allow for a universal implementation of the rslap protocol.",1220598798
+295642,comment,295524,295524,0,0,vaksel,,,"sure it does...it says: ""look at us, we are microsoft, we have a ton of money""",1220598598
+295641,comment,295475,295570,0,0,dhouston,,,"thanks wayne!",1220598225
+295640,comment,295475,295612,0,0,dhouston,,,"thanks adam :) bummed im missing the show tomorrow, but we'll catch another!",1220598220
+295639,comment,295475,295475,0,0,jacobbijani,,,"Crazy Arrington can't manage to snag a beta invite. Someone gave me one without me even asking, I didn't realize they were that exclusive.<p>I actually don't even use it...I should trade it with him for some PR. Hah.",1220598195

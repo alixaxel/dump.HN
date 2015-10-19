@@ -1,0 +1,64 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+309588,comment,309446,309575,0,0,edawerd,,,haha!,1221868570
+309587,comment,309581,309581,0,0,dbrush,,,"Here's a link to a movie showing the clock:<p><a href=""http://www.guardian.co.uk/artanddesign/2008/sep/18/corpus.clock"" rel=""nofollow"">http://www.guardian.co.uk/artanddesign/2008/sep/18/corpus.cl...</a>",1221868561
+309586,comment,309574,309574,0,0,noor420,,,"This includes the Tim O'Reilly Keynote that we all discussed about earlier:<p>""Tim O'Reilly: Stop throwing sheep, do something worthy "" <a href=""http://news.ycombinator.com/item?id=308555"" rel=""nofollow"">http://news.ycombinator.com/item?id=308555</a><p>the video is named:
+""Web 2.0 Expo NY: Tim O'Reilly (O'Reilly Media, Inc.), Enterprise Radar""<p>Enjoy.",1221868548
+309585,comment,308778,309194,0,0,DabAsteroid,,,"<i>If you're short a stock, and it goes up in the short term, you must put more money in the account (to build equity to a reasonable level) or close the position</i><p>No. One might simply add to his position (e.g. short more). It is called ""shorting into the rise"".",1221868545
+309584,comment,309514,309514,0,0,PieSquared,,,"Wait... If a user doesn't notice a feature (when it's clearly supposed to be noticed), doesn't that mean it's placement is slightly sub-optimal?<p>(Although I personally do like the placement, and the author clearly does too; just from Google's perspective, isn't it bad that the user doesn't immediately notice it?)",1221868533
+309583,story,,,6,1,makimaki,"What Happens When We Die: 3-year exploration of ""out-of-body"" experiences","http://www.time.com/time/health/article/0,8599,1842627,00.html",,1221868487
+309582,story,,,1,0,martian,"Getting content right",http://maadmob.net/donna/blog/2008/web-directions-ux-getting-content-right,,1221868431
+309580,comment,309558,309558,0,0,tdavis,,,"Perhaps off topic, but did anybody else have an impossible time trying to figure out exactly if/when that article ended? Was it at the video screenshots? The Gypsy cab thing? When the header text starts getting indented?<p>I haven't been this confused in... well, at least 10 minutes.",1221868359
+309579,story,,,2,0,merrick33,"""I'm a PC"" and I'm made on a Mac?",http://venturebeat.com/2008/09/19/im-a-pc-and-im-made-on-a-mac/,,1221868285
+309578,comment,309560,309560,0,0,_bn,,,"Milf Hunting just got a whole lot easier.",1221868231
+309577,comment,309546,309546,0,0,MaysonL,,,Wow!,1221868101
+309576,story,,,1,0,toni,"3D Virtual Reality Environment Developed at UC San Diego Helps Scientists Innovate",http://ucsdnews.ucsd.edu/newsrel/general/09-083DVirtualReality.asp,,1221867986
+309575,comment,309446,309549,0,0,fallentimes,,,"Backtype actually compensates you 10x the amount Google does when they index your comments/sites/blog posts.<p>10 * $0 = $0.",1221867953
+309574,story,,,4,1,noor420,"Web 2.0 Expo (held in NewYork sep16-19, video)",http://www.web2expo.blip.tv/#1283514,,1221867930
+309571,comment,309268,309268,0,0,huherto,,,"""to flywheel designs is the gyroscopic effect, which causes spinning objects to resist changes to their orientation.""<p>Is this why you do not fall from a bike when it is moving forward?",1221867838
+309570,story,,,41,24,browser411,"Unigo: ""why didn't I think of that"" startup",http://www.nytimes.com/2008/09/21/magazine/21unigo-t.html?hp=&pagewanted=all,,1221867781
+309568,story,,,12,19,ctingom,"Ask HN: What has been your biggest risk?",,"And did it pay off?",1221867754
+309566,comment,309304,309304,0,0,wallflower,,,"""Kayak.com secures $196 million funding""<p>A startup?<p>""Kayak.com's founders include Steve Hafner, co-founder and chief executive officer of Kayak.com and a co-founder of Orbitz Inc. in 1999""",1221867697
+309565,comment,309446,309549,0,0,tdavis,,,"You should probably put this in your <i>robots.txt</i> file:<p><pre><code>  User-agent: *
+  Disallow: /
+</code></pre>
+Wouldn't want other pesky search engines like Google or Yahoo stealing your genius comments for their sole gain, too. Wait, Backtype, are you going to steal <i>this</i> comment?! Quickly! I must change HN's <i>robots.txt</i> file!<p><i>Asinine</i>",1221867580
+309563,comment,309521,309521,0,0,newt0311,,,"How does this compression format compare against H.264 (ignoring licensing and patent issues)?",1221867345
+309562,comment,309446,309549,0,0,konsl,,,"Hi Brian,<p>We try to respond to every single e-mail we get; not sure how yours was missed. I apologize.<p>We've talked about our policy on re-publishing comments in a few places:<p>- <a href=""http://www.markevanstech.com/2008/08/30/five-questions-withbacktype-co-founder-chris-golda/#more-3814"" rel=""nofollow"">http://www.markevanstech.com/2008/08/30/five-questions-withb...</a><p>- <a href=""http://blog.backtype.com/2008/08/on-republishing-comments/"" rel=""nofollow"">http://blog.backtype.com/2008/08/on-republishing-comments/</a><p>- etc<p>In summary: what BackType is doing is very similar to other search engines. We make every effort to provide content publishers with familiar methods to restrict BackType from indexing their site's content: <a href=""http://www.backtype.com/faq#q14"" rel=""nofollow"">http://www.backtype.com/faq#q14</a><p>We're trying to be as transparent as possible. We attribute comments to their authors so they can be rewarded for the thoughts and insights they share in comments across the web. Additionally, BackType is already becoming a recognized source of traffic for publishers and we want that to continue.",1221867089
+309561,comment,308978,309111,0,0,MaysonL,,,"Macbook  OS X 10.5.4 results<p>FireFox 3.0
+Total elapsed time: 1399ms
+Breakdown (fraction shows time relative to append time):
+  Append:  1.00; 301ms
+  Prepend: 1.49; 447ms
+  Index:   0.32; 97ms
+  Insert:  1.36; 410ms
+  Remove:  0.48; 144ms<p>Crossover Chromium
+Total elapsed time: 412ms
+Breakdown (fraction shows time relative to append time):
+  Append:  1.00; 128ms
+  Prepend: 0.90; 115ms
+  Index:   0.28; 36ms
+  Insert:  0.90; 115ms
+  Remove:  0.14; 18ms<p>Webkit Nightly
+Total elapsed time: 116ms
+Breakdown (fraction shows time relative to append time):
+  Append:  1.00; 56ms
+  Prepend: 0.29; 16ms
+  Index:   0.36; 20ms
+  Insert:  0.32; 18ms
+  Remove:  0.11; 6ms",1221866815
+309560,story,,,2,1,bootload,"Twittermoms Shows Why Twitter Needs Groups ",http://www.techcrunch.com/2008/09/19/twittermoms-shows-moms-care-too/,,1221866765
+309559,story,,,1,0,bootload,"It's Time To Open Up The Feeds To Marketers ",http://www.avc.com/a_vc/2008/09/its-time-to-ope.html,,1221866669
+309557,comment,309076,309083,0,0,catch23,,,"Yup....  C# vs Emerald yields the exact same graph.  Is Emerald a new language we haven't heard about it?<p><a href=""http://www.google.com/trends?q=C%23%2C+emerald&ctab=0&geo=all&date=mtd&sort=1"" rel=""nofollow"">http://www.google.com/trends?q=C%23%2C+emerald&ctab=0&#3...</a>",1221866444
+309556,comment,309446,309540,0,0,Mrinal,,,"I so agree to that - we respond to the smallest of small bloggers for a good or bad post. No discrimination!
+Experiencing Backtype with this too.....",1221866294
+309555,comment,308884,308884,0,0,lowkey,,,"I like them! (and I'm a Mac/Linux head)",1221865930
+309554,comment,309268,309489,0,0,ph0rque,,,"Actually, I was thinking more along the lines of: <a href=""http://ecoble.com/2007/11/18/250000-bottles-amazing-recycled-mexican-island-paradise/"" rel=""nofollow"">http://ecoble.com/2007/11/18/250000-bottles-amazing-recycled...</a>",1221865680
+309553,comment,309492,309492,0,0,kzar,,,"Poor girl, really sad to see this.",1221865599
+309552,story,,,2,0,siong1987,"Do you have any idea to make this commercial and suceesful? Or it just sucks?",http://geeky.siong1987.com/,,1221865585
+309551,comment,308778,309170,0,0,mattmaroon,,,"It goes a lot deeper than that. Short selling is actually ruining the ability of financial institutions that aren't even exposed to the mortgage problems (or are minimally so) to get the inflow of credit they need. Or so the argument goes.<p>Again, I'm not an economist, so I don't have a strong opinion here. What I do know is that people who know a hell of a lot more than me (or probably anyone who posts here) are making these decisions, so dismissing them based on some generalized knowledge (i.e. short selling is bad because my econ 101 textbook said so) seems childish.<p>That's why I was asking the original commenter if, perhaps, he knew enough about economics to have an informed opinion. For all I know, he has a PhD in it.",1221865584
+309549,comment,309446,309529,0,0,briansmith,,,"What is your position on the copyright of comments? I've tried to contact your company to get you to stop re-publishing my comments on your website and you didn't even respond to my message. What can copyright holders do to ensure that you do not re-publish their content?",1221865394
+309548,comment,309066,309066,0,0,keefe,,,"Flex :: "" # No real testing support "" .... Flexunit. 
+This article is a bunch of MS dev's loving on silverlight. Biased.",1221865383
+309547,comment,309066,309177,0,0,keefe,,,"OK you have deliverables due in 3 months, go!",1221865341
+309546,story,,,10,17,pbnaidu,"12-Year-Old May Hold Key to Solar Energy ",http://news.yahoo.com/s/zd/232218;_ylt=At7wIJSXbEEWIPVwyKKT5KEDW7oF,,1221865306
+309545,comment,309497,309497,0,0,geebee,,,"I'd recommend taking courses in CS that will cover material she won't come across in math classes.  So I'd say compilers and operating systems.<p>Game theory and AI?  Sure, but I don't think a math major would have much trouble reading in those areas on her own.  Whereas something grounded in compilers or OS would elude her unless she had a background in these areas.",1221865305

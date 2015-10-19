@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+59763,comment,59392,59760,0,0,euccastro,,,"No bold here; two stars just cancel each other out.",1190796611
+59762,comment,59695,59757,0,0,rms,,,"I don't think Steve Jobs does a whole lot by accident and if he did he would probably take credit for it anyways.",1190796400
+59761,comment,59392,59760,0,0,rms,,,"and links get auto <a href>'d if you use the full <a href=""http://"" rel=""nofollow"">http://</a> address",1190796193
+59760,comment,59392,59541,0,0,ced,,,"Probably not. All I know: using one star on each sides of something for italics, two for bold, and if you put a space at the beginning of a line, you get fixed-width font (for code).",1190796130
+59759,comment,59534,59682,0,0,zizou,,,"Paul could you please publish it or if it's not suitable could  you send via email. We're a startup from India, there's no ecosystem for startup's here unlike the valley.We've been looking for guidance mostly on the web and you're writings have been extremely helpful to us.In fact your writings have been one of the most important factors of inspiration for our belief that ""it can be done !""",1190795924
+59758,comment,59596,59596,0,0,greendestiny,,,"Delicious allows users to put a permissive license on their RSS feeds, so (IANAL and within reason) you can probably get those bookmarks and importantly tags. So how closely would making recommendations per tag match your idea? <p>Tags are a little messy, and perhaps overly specific, so you may need to cluster them and then do recommendations on that. <p>I'm not sure I understand how you plan on making 'influence' work, if someone bookmarks a link recommended to them do you simply increment all those who have bookmarked it before? <p>Please don't use the word incentivize, its terrible :)",1190795410
+59757,comment,59695,59695,0,0,jazzdev,,,"Did Jobs know he was forcing the music companies
+to abandon DRM by refusing to license FairPlay?
+Or was it just a happy accident?<p>",1190795352

@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33683,comment,33543,33543,0,0,harvard_bum,,,"There's way too much spamming and phishing and scamming on Craigslist.  Craig Newmark's business sense got him to a certain level of trust among consumers which helped grow the site, but now he has a responsibility to them now to honor that trust and invest in _protecting_ them.<p>Otherwise, the Craigslist empire's days are surely numbered.",1184169192
+33682,comment,33657,33674,0,0,gibsonf1,,,"I think the idea Ballmer's referring to is the API that salesforce.com has built to let developers use their systems to provide apps.  MS wants to get a piece (or should I say the whole pie) of that business.",1184169062
+33681,comment,33322,33324,0,0,jey,,,"Try substituting ""item"" for the operator name. I think ""comment"" got renamed to ""item"" or something, and broke URLs in the process.",1184168618
+33680,story,,,18,4,dawie,"5 business lessons from Costco ",http://www.37signals.com/svn/posts/505-5-business-lessons-from-costco,,1184168155

@@ -1,0 +1,57 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+218563,comment,218311,218557,0,0,axod,,,"Your definition of spam seems to be dependent on knowing the sender. I disagree completely with that definition. I receive quite a bit of spam from facebook, all under the guise of coming from my friends. More likely they have been told they must invite more people to unlock secret features (Probably to enable their virtual frog to grow wings or something).<p>Duping/bribing users into giving you their address book, so you can spam their friends, is not a good business practice IMHO.<p>I do agree though. If you have a <i>legitimate</i> reason to email people who have opted in, or expressed a direct interest, some of the sites in the article are useful.",1213617191
+218562,comment,218550,218561,0,0,babul,,,"Should/is there any guidance to use on HN? Is it doomed to be another digg/reddit/etc. clone?",1213617189
+218561,comment,218550,218550,0,0,babul,,,"With all due respect, am I alone in thinking there is a lot of echo in HN at the moment, with much of it not really hacker related? Example...<p><a href=""http://news.ycombinator.com/item?id=218496"" rel=""nofollow"">http://news.ycombinator.com/item?id=218496</a>
+<a href=""http://news.ycombinator.com/item?id=218540"" rel=""nofollow"">http://news.ycombinator.com/item?id=218540</a>
+<a href=""http://news.ycombinator.com/item?id=218550"" rel=""nofollow"">http://news.ycombinator.com/item?id=218550</a>",1213616970
+218559,comment,218537,218554,0,0,jeroen,,,"From the source of <a href=""http://paulgraham.com/articles.html"" rel=""nofollow"">http://paulgraham.com/articles.html</a> :
+""// Begin Y! Store Generated Code""<p>I didn't mean to imply anything about the code or architecture of Yahoo! Store, just about its origin.",1213616762
+218558,comment,218537,218537,0,0,tzury,,,"Paulgraham IP 
+Search ARIN WHOIS for: 68.142.205.137<p>OrgName:    Inktomi Corporation 
+OrgID:      INKT
+Address:    701 First Ave
+City:       Sunnyvale
+StateProv:  CA
+PostalCode: 94089
+Country:    US<p>NetRange:   68.142.192.0 - 68.142.255.255 
+CIDR:       68.142.192.0/18 
+NetName:    INKTOMI-BLK-4
+NetHandle:  NET-68-142-192-0-1
+Parent:     NET-68-0-0-0-0
+NetType:    Direct Allocation
+NameServer: NS1.YAHOO.COM
+NameServer: NS2.YAHOO.COM
+NameServer: NS3.YAHOO.COM
+NameServer: NS4.YAHOO.COM
+NameServer: NS5.YAHOO.COM
+Comment:    
+RegDate:    2004-03-24
+Updated:    2005-08-26<p>RAbuseHandle: NETWO857-ARIN
+RAbuseName:   Network Abuse 
+RAbusePhone:  +1-408-349-3300
+RAbuseEmail:  network-abuse@cc.yahoo-inc.com<p>OrgAbuseHandle: NETWO857-ARIN
+OrgAbuseName:   Network Abuse 
+OrgAbusePhone:  +1-408-349-3300
+OrgAbuseEmail:  network-abuse@cc.yahoo-inc.com<p>OrgTechHandle: NA258-ARIN
+OrgTechName:   Netblock Admin 
+OrgTechPhone:  +1-408-349-3300
+OrgTechEmail:  jluster@yahoo-inc.com<p># ARIN WHOIS database, last updated 2008-06-15 19:10
+# Enter ? for additional hints on searching ARIN's WHOIS database.",1213616728
+218557,comment,218311,218513,0,0,tom,,,"Actually, it's not spam at all.  It's just a system (let's not go down the ""evils of giving someone my email user/pass"" road again) that allows users to more easily send to <i>their</i> contacts.<p>To look at it another way, if you like our widget.com site, we at widget.com are trying to make it as easy as possible to tell your friends.  Re-entering your contacts into our system manually is such a pita, that almost no one does it.  I don't know about you, but I have never received spam from MySpace, Facebook, LinkedIn, or Yelp.  I have received invites from friends/associates/folks I kinda know.  This is not spam, this is email from a someone I know using a different sender.  Is it always welcome?  No.  Do I really mind it?  No.  If you do, you should have a filter on your mail that trashes all mail from addresses other than those in your contact list.<p>We all know that the centralized contact model with API's and public/private keys would just plain rock, but it's not here yet, and companies are just trying to live with what we have (long enough to get their next round).<p>Ok, and one more thing - for those of you who try to send emails, this post is a nice summation of the things you should do, have to look out for, should know about, and the sites you need to visit to improve the chances of your legitimate messages getting through.",1213616695
+218556,story,,,2,4,aj,"Ask YC: Multiple UI screen configurations in Java?",,"Are there any good design patters/frameworks which will allow me to reconfigure a Java/Swings UI screen by reading the component state from a config file?<p>For example, under different conditions, different components might be enabled/disabled.<p>The problem is that with increase in the configurations, the config file might get unwieldy.<p>The other option is to create multiple screens with the components themselves hardcoded disabled  and display the appropriate screen based on the qualifying condition.<p>There are about 10 screens in the set each changeable based on the condition",1213616635
+218555,comment,218226,218226,0,0,jamongkad,,,"Sigh I miss the days when Hacker News was YCNews and all we ever talked about was how to start a business and what programming languages we love to hate.",1213616174
+218554,comment,218537,218547,0,0,pystar,,,"Yes, how sure are you? I read somewhere that Viaweb was rested by yahoo and the yahoo webstore as we know it is code written in C++ and not lisp.",1213616112
+218553,comment,218427,218508,0,0,michaelneale,,,"Presumably it also means they think the effect of the credit crunch on the wider economy will be limited (at least over the timeframe that they care about).",1213616109
+218552,comment,218226,218361,0,0,DanielBMarkham,,,"If all they have is nonsense, then they shouldn't be able to downvote, right? What is the argument here, I don't want other people to see it but I can't say why?",1213615772
+218551,comment,218289,218421,0,0,brent,,,"Are you saying an improvement from O(n^2) to O(n) is not impressive?  BTW, if this is the improvement you are referring to, its not a ""order of magnitude"".",1213615694
+218550,story,,,8,7,rms,"Why would Associated Press wish to redefine Fair Usage?",http://broadstuff.com/archives/1031-Why-would-Associated-Press-wish-to-redefine-Fair-Usage.html,,1213615561
+218549,comment,218540,218540,0,0,babul,,,"This is essentially the same as <a href=""http://news.ycombinator.com/item?id=218496"" rel=""nofollow"">http://news.ycombinator.com/item?id=218496</a> (without the login needed for those who don't want to sign-up with <i>another</i> site)<p>...and some reasoning is explained at <a href=""http://broadstuff.com/archives/1031-Why-would-Associated-Press-wish-to-redefine-Fair-Usage.html"" rel=""nofollow"">http://broadstuff.com/archives/1031-Why-would-Associated-Pre...</a>.",1213615368
+218547,comment,218537,218544,0,0,aitoehigie,,,"What source are you quoting? are you really sure?",1213614817
+218546,comment,218425,218425,0,0,jrockway,,,"Yes, you shouldn't write getters and setters; your object system should do it for you.  Do people really use programming languages without a proper metaobject protocol?",1213614638
+218545,comment,218468,218468,0,0,jeroen,,,"Don't know if you've seen this, but it might be interesting to read:<p>Ask YC: What are the going rates for consulting gigs?
+<a href=""http://news.ycombinator.com/item?id=182369"" rel=""nofollow"">http://news.ycombinator.com/item?id=182369</a>",1213614513
+218544,comment,218537,218537,0,0,jeroen,,,"It _is_ the Yahoo! logo. paulgraham.com still runs on Viaweb, which is now Yahoo Store, which is probably where the favicon comes from.",1213614370
+218543,comment,218195,218515,0,0,jrockway,,,"I've made a reasonable amount of money from my book, and it's not all that popular.  It wouldn't qualify as full-time work for me, but since I've written it I've had a steady stream of additional income.  No complaints.",1213614306
+218542,comment,218524,218535,0,0,babul,,,"I spent several days in April/May fixing problems caused by this SQL hack at the place where I am contracting :(",1213614292
+218541,comment,218322,218322,0,0,jcromartie,,,"The graphics in this are above and beyond anything I've ever seen in a 2D flash game.  Breathtaking!",1213614274
+218540,story,,,4,2,rms,"Here’s Our New Policy On A.P. stories: They’re Banned",http://www.techcrunch.com/2008/06/16/heres-our-new-policy-on-ap-stories-theyre-banned/,,1213614063

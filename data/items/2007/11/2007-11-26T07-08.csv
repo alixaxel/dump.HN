@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83519,comment,83318,83318,0,0,derefr,,,"And you <i>can</i> never be <i>this</i> good at games: <a href=""http://tasvideos.org/"" rel=""nofollow"">http://tasvideos.org/</a>",1196063760
+83518,story,,,1,2,imsteve,"Serveraxis jacked up their prices today. Alternatives?",,"..Right before the next billing cycle too.<p>What other Xen VPSs have you guys used?",1196063643
+83517,comment,82864,83415,0,0,Tichy,,,"I would not put everything on the same line, but I admit to putting the opening bracket on the same line. In fact, I consider the other variant extremely ugly. Just consider<p><pre><code>  if(...)
+  {
+    ...
+  }
+  else
+  {
+  ... 
+  }
+</code></pre>
+vs<p><pre><code>  if(...) {
+    ...
+  } else {
+    ...
+  }
+</code></pre>
+I can't for the life of me understand why someone would want to move the bracket to the new line ;-) It's just empty (wasted) space without any meaning. I can see the control blocks with the tighter version just fine, plus, it's the Sun Coding Convention for Java. But it's really a fruitless discussion...",1196063428
+83516,comment,83429,83507,0,0,imsteve,,,"> give a reason to a thief to connect your laptop to the net.<p>How exactly does your strategy do this?",1196063241
+83515,comment,83348,83393,0,0,corentin,,,"I not am in agree to you.",1196063043
+83514,comment,83429,83454,0,0,inovica,,,"You are right, seems a really stupid question :P  Laptops are purchased for their portability in general - means you can code from anywhere. ",1196063034
+83513,comment,83235,83315,0,0,qaexl,,,"This is a really good idea.<p>I remember reading about an university professor assigning a paper that had to be published on Wikipedia. I don't think the professor made the students track the changes though. ",1196062584
+83512,comment,83460,83494,0,0,iamelgringo,,,"Hmmm.  Cool, Thanks.",1196062407
+83511,comment,83429,83450,0,0,mwerty,,,"Also, renter's insurance will probably cover it.",1196062337
+83510,story,,,3,1,nickb,"Xkcd - Success",http://xkcd.com/349/,,1196062003
+83509,story,,,2,0,nickb,"Facebook Users Complain of New Tracking",http://ap.google.com/article/ALeqM5jktmzai0_n_sMBgH_jfy6QXNS_6gD8T299HG0,,1196061643
+83508,story,,,2,0,nickb,"Web Traffic Snarls Sites on Black Friday","http://www.eweek.com/article2/0,1895,2222015,00.asp",,1196061379
+83507,comment,83429,83502,0,0,nickb,,,"The point is that you want to give a reason to a thief to connect your laptop to the net. If a thief cannot log in and cannot even use a browser, what are the chances that he'll connect it to the net? Zero?!<p>You want to give the thief something so they connect your machine to the internet for longer periods of time... and they can't compromise your user account and your files.",1196061165
+83506,comment,83359,83359,0,0,void_star,,,"How is this a startup? Auto-complete is NOT hard: it's a trie.
+",1196060542

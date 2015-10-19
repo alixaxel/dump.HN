@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+166851,comment,166684,166803,0,0,adamhowell,,,"It's been up by as much as 80+ points in after hours trading.",1208480347
+166850,comment,166655,166655,0,0,mrtron,,,"Can I be on the mailing list for a city not yet participating?<p>If so, add me to TO!
+edit: It is now added!",1208480263
+166849,comment,166705,166705,0,0,DocSavage,,,"Aptana has been marketing their GPLed Jaxer server (""the Ajax server"") which includes things like database access from javascript:<p><a href=""http://aptana.com/jaxer"" rel=""nofollow"">http://aptana.com/jaxer</a>",1208480233
+166848,comment,165935,166019,0,0,Tichy,,,"Reminds me how when searching for Linux fixes, it is never clear what version they apply for. They might describe some elaborate hacks that have been irrelevant for years, because there are easier ways in newer versions, but it is often impossible to know. I wish I could find only the answers that still apply to my version of Linux.",1208479992
+166847,comment,166557,166845,0,0,xlnt,,,"yes. but that's not necessarily a bad thing to say about scribd. if scribd makes it easier for people to not know anything about how to use computers, then that's valuable to lots of people.",1208479908
+166846,comment,166557,166841,0,0,rms,,,"Definitely...   the .pdf readers in OSX and Linux work much better.<p>The .pdf reader in Windows that feels the most like a *nix .pdf reader is Foxit PDF. The Foxit PDF editor is also pretty nice, it lets you edit .pdfs at a relatively low level of markup and spacing.",1208479881
+166845,comment,166557,166841,0,0,amichail,,,"So maybe the popularity comes out of ignorance?",1208479833
+166844,story,,,1,0,aj1980,"The ROI Case For Business Blogging",http://www.siphs.com/?p=10,,1208479780
+166843,story,,,3,0,amichail,"Ask YC:  Wouldn't social news be more interesting if it didn't penalize old submissions?",,"One could have a mixture of new and old submissions under ""hot"".  Old submissions are fine provided that you did not seen them before (the service can keep track of this).<p>Indeed, such a service could have a devastating effect on paid advertising.",1208479491
+166842,story,,,2,0,as,"Ask HN: Proto-hacker looking for a startup job",,"Hi,<p>I've always wanted to start my own company; discovering Paul's essays lead me to realize a web startup was something I was really interested in doing. I've begun teaching myself, but I'm not a programmer yet. pg suggests that the best way to learn ""would be to find some startup to hire you in an initially menial capacity, and start learning to program on the side."" This strikes me as a good idea. Also, I'd enjoy working in a company small enough that I can see the consequences of my actions and use them as feedback.<p>I've just had my 22nd birthday (April 5th) and have moved to the Bay Area to be at the center of the industry. I want the entire startup experience, so I'm willing to work at a feverish pitch to do anything that needs to be done. If you have a startup or can refer me to one, please comment or email me at arramsabeti@gmail.com<p>Thanks!",1208479185
+166841,comment,166557,166822,0,0,xlnt,,,"i never liked acrobat reader on windows much. maybe that's it? or people just don't know where to host their pdfs. or don't know how to make pdfs.",1208479184
+166840,story,,,7,0,chaostheory,"Hartija: Css Print Framework",http://code.google.com/p/hartija/,,1208479055
+166839,comment,166833,166838,0,0,mixmax,,,"OK thanks<p>Just my bad memory then :-)",1208479020
+166838,comment,166833,166833,0,0,pg,,,"They're sorted using the same algorithm as the frontpage: score divided by a power of time.  It hasn't changed.",1208478766
+166837,comment,166559,166559,0,0,Zak,,,"134 sudo<p>55 csc<p>37 ls<p>34 cd<p>27 gcc<p>20 cp<p>19 ./guestbook.cgi<p>17 mzc<p>16 rm<p>14 make",1208478681
+166836,story,,,1,0,bootload,"	
+Whole-Brain Coding ",http://www.neopoleon.com/home/blogs/neo/archive/2005/03/07/14904.aspx,,1208478661
+166835,comment,166734,166832,0,0,mixmax,,,"good point...",1208478640
+166834,story,,,1,0,bootload,"The Flow Experience",http://flowstate.homestead.com/files/csikszentmihalyi_three.html,,1208478598
+166833,story,,,1,2,mixmax,"Ask YC - has the rating algorithm changed?",,"I've noticed that comments aren't necessarily sorted by how many votes they have. As I remember it they used to be. (I could be wrong here)<p>Has the algorithm changed? And what determines when a comment with a lover score gets to be shown higher than one with a higher score?",1208478540
+166832,comment,166734,166741,0,0,rms,,,"Not recommended if you are not already a lisp pro. The way you configure news.arc is through an arc prompt.",1208478519
+166831,comment,166734,166734,0,0,rms,,,"Also see <a href=""http://news.ycombinator.com/item?id=160939"" rel=""nofollow"">http://news.ycombinator.com/item?id=160939</a>",1208478490
+166830,comment,166655,166680,0,0,jkush,,,"Hey - I work in Portland, ME. Shoot me an email? john at quotesignal dot com - I'd love to catch up with you guys.",1208478193
+166829,comment,166219,166700,0,0,mdemare,,,"Explain it to us!",1208477982
+166828,comment,166717,166812,0,0,aston,,,"Now you're talking about how he made that money work for his company. Might as well throw in the whole ""don't pay myself or my co-founder,"" ""work odd consulting jobs to get more cash,"" and ""work out of my grandmother's old apartment,"" among various other tricks of the bootstrapper's trade.",1208477783
+166827,comment,166557,166749,0,0,mattmaroon,,,"Highly doubt it. They have a lot of signups, but I bet a lot fewer active users. Scribd claims over 17m uniques a month.<p>Though I bet 37 Signals financial statement looks a lot better.",1208477693
+166826,comment,166559,166681,0,0,attack,,,"Tab completion!!<p>Why the heck not?",1208477290
+166825,comment,166559,166559,0,0,staunch,,,"<p><pre><code>    67 screen
+    59 ping
+    54 perl
+    49 vi
+    46 host
+    44 dmesg
+    39 killall
+    36 ps
+    30 ls
+    30 ip</code></pre>",1208477188
+166824,comment,166684,166803,0,0,aston,,,"They didn't announce until after hours, so only after-hours trading is going to reflect the call. And there, it's up big.",1208477166
+166823,comment,164422,164422,0,0,ralph,,,"The posts on this thread show how news.yc has gone down the tubes.",1208476991

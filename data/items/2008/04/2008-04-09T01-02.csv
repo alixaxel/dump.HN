@@ -1,0 +1,40 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+158472,comment,158029,158029,0,0,stevengg,,,"Im sorry but if anything 37s ripped off IRC",1207706376
+158471,comment,157831,157908,0,0,jmzachary,,,"If a product doesn't revolutionize mankind, then it's not worth the valuations. Tech would die without hype. It's the frictional force between us and the fate suffered by aerospace engineering.",1207706350
+158470,comment,158285,158285,0,0,truebosko,,,"Great idea, here's some thoughts:
+- I signed up and it put me in a google gadget widger page, but it's not actually a google gadget. <a href=""http://widget.learnitlists.com/orkut/index/google_gadget"" rel=""nofollow"">http://widget.learnitlists.com/orkut/index/google_gadget</a> is the url I am talking about. It was just kind of confusing to be put in there<p>- I was tossed into it without any explanation and words began revealing themselves if I clicked on things but I could not type in the words I knew (Or is that not how it works?) It looked like I was supposed to begin typing/guessing the words but it doesn't seem to be the case.<p>Great front page though, made me want to try it right away",1207706234
+158469,comment,158087,158167,0,0,rbanffy,,,"Sorry. We will fix it ASAP.<p>Must have escaped out build tests. Won't happen again. ;-)",1207706110
+158468,story,,,11,2,chaostheory,"On Teaching Programming With Python 3.0",http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html,,1207706005
+158467,comment,158200,158200,0,0,emmett,,,"I know. Look at all those crazies thinking they'll make money on ads. None of the big boys do that; just look at these recent top tech startups (reading through Alexa):<p><pre><code>  Google
+  MySpace
+  YouTube
+  Blogger
+  fotolog
+  Photobucket
+  Flickr
+</code></pre>
+Wait. Every single one of these startups is advertising supported. I wonder why people think advertising is a workable business model...",1207705622
+158466,story,,,2,1,thinkcomp,"The Actual, Documented Story Behind Facebook...is coming out in hardback",http://www.aarongreenspan.com/order/index.html,,1207705266
+158465,comment,158323,158420,0,0,mechanical_fish,,,"The Drupal community lives on irc. The Rails community also makes extensive use of it -- or at least they did last year when I still had time to pay close attention to Rails.<p>irc is alive and well.",1207705172
+158464,comment,158207,158270,0,0,icky,,,"The misleading part is ""Play"" ;-).<p>Interesting demo, though.",1207705109
+158463,comment,158285,158285,0,0,nextmoveone,,,"One thing that bothers me is clutter, clear messaging should be in place on the homepage.<p>The <i>multiple</i> pictures are eye grabbers so they take away from the text that matters. Like for instance, I think ""You can now learn a few words of your chosen language every day."" Should be WAY BIGGER AND IMPORTANT.<p>I like easy, as does everyone else, so make juice worth the squeeze.<p>Like : 
+<a href=""http://www.chatterous.com/"" rel=""nofollow"">http://www.chatterous.com/</a>
+<a href=""http://coordinatr.com/"" rel=""nofollow"">http://coordinatr.com/</a>
+<a href=""http://script.aculo.us/"" rel=""nofollow"">http://script.aculo.us/</a>
+<a href=""http://foamee.com/"" rel=""nofollow"">http://foamee.com/</a>
+<a href=""http://rescuetime.com/forbiz"" rel=""nofollow"">http://rescuetime.com/forbiz</a>
+<a href=""http://heysan.com/"" rel=""nofollow"">http://heysan.com/</a><p>I think those have clear messaging and purpose. I dont have to think what it is really...I think this will increase your user signups. As well as making that sign up button <i>WAY</i> bigger.<p>Additionally, that sign up page it has ""I am Learning"" then an options like ""German <> English""...What's that about? Why not just ask me what language I want to learn and what language I speak don't confuse me... I mean what does that even mean anyway...<p>Also, when I click one word and it loops through the list, I meant for the word to translate on the other side, not have the flashing red words in the top left...<p>And what's with the poll? lol<p>That's everything from me. Sorry if I tore you up, but hey at leasts it's honest feedback, right?",1207705096
+158462,comment,158008,158414,0,0,icky,,,"Hardcopy printouts, marked with the date, in a shoebox under the bed... ;-)",1207705036
+158461,story,,,1,0,jfarmer,"Easter Eggs in Facebook Chat",http://20bits.com/2008/04/08/easter-eggs-in-facebook-chat/,,1207704799
+158460,comment,158207,158270,0,0,palish,,,"Cloning Mario probably wasn't the point.",1207704781
+158459,story,,,1,0,rms,"From Socrates to Soros",http://www.economist.com/daily/columns/marketview/displaystory.cfm?story_id=10992042,,1207704723
+158458,comment,157443,157954,0,0,joao,,,"It's weird, because I created an identifier with 4 letters and it worked, but only after my first choice identifier, also with 4 letters, didn't work and it said it wasn't avaiable.",1207704278
+158457,comment,158310,158446,0,0,nextmoveone,,,"I'm pretty sure they all go out at once, at night, like around 9-11pm.",1207703895
+158456,story,,,3,0,edw519,"The Self-Examination of a Masochistic Programmer ",http://clintonforbes.blogspot.com/2008/04/self-examination-of-masochistic.html,,1207703617
+158455,story,,,15,2,as,"The New HondaJet",http://www.honda.com/hondajet/?ef_id=1097:3:c_913fcb9c9f966e0808dd4cf73d0aa205_841615408:Won2fUGvMUIAAA4EeR8AAAAP:20080409010932,"It's a beautiful craft.",1207703604
+158454,comment,158008,158343,0,0,jmtulloss,,,"Inline branching would be nice...<p>I think they do away with this for simplicity. Inline branching doesn't make that much conceptual sense a lot of the time. That said, I wish Hg had it.",1207703516
+158453,comment,158310,158449,0,0,hooande,,,"What is ""FOSS""?",1207703383
+158452,story,,,1,0,nreece,"Life of a software project",http://www.prodevtips.com/2008/04/05/life-of-a-software-project/,,1207703318
+158451,comment,158450,158450,0,0,Alex3917,,,"The way scientists currently combat rusts is they go down to northern Mexico each winter to survey the new strains each year so they can try to create pesticides and resistant wheat strains accordingly. The reason they go to Mexico is that the wheat grows there first, and then in Texas and the other border states when it gets a little warmer, and then finally you get the wheat crop in midwest and Canada. The spores are produced first in Mexico and then blow northwards and infect the new wheat in each climate region as it begins to grow. However, Ug99 is able to completely destroy 99% of the world's wheat population. If someone were to bring a single teaspoon of this stuff back from the middle east and put it in just the right field in northern Mexico then the potential exists to destroy a very large percentage of the north american wheat crop. Really scary stuff. It's been in the news this week because the Gates foundation just gave Cornell a 26 million dollar grant to work on the problem:<p><a href=""http://www.news.cornell.edu/stories/April08/wheat.rust.lm.html"" rel=""nofollow"">http://www.news.cornell.edu/stories/April08/wheat.rust.lm.ht...</a>",1207703298
+158450,story,,,1,1,Alex3917,"Future world wheat crops threatened by Ug99 stem rust",http://www.farmandranchguide.com/articles/2008/03/13/ag_news/production_news/pro10.txt,,1207702945
+158449,comment,158310,158310,0,0,craig-faber,,,"Yes. I've got a really stupid marketing idea for FOSS. My really stupid marketing idea is to actually do some.<p>I've got a lot of strikes against me. I'm a single founder of a company that needs three partners, with different areas of expertise, to be viable, and I'm not a programmer. Nevertheless, whatever I hear from YC, I'll be appealing for partners in a few days.",1207702919

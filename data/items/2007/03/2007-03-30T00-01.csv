@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+7452,comment,7352,7364,0,0,staunch,,,"Your slides made me think you don't realize how small a niche you're targeting. Thankfully it's the internet, where even a relatively small niche can get pretty huge.<p>Don't listen to the Perl naysayers. There's amazing productivity to be had with it, if you can deal with it not being ""cool"" these days. I'd recommend checking out Catalyst ( <a href=""http://dev.catalyst.perl.org/"">http://dev.catalyst.perl.org/</a> ) and DBIx::Class (CPAN) if you haven't.
+",1175215041
+7451,comment,7444,7444,0,0,BrandonM,,,"Great article which reiterates the point that even a failed startup can be a great experience.  It is also an important reminder that the best software does not always (or even often) win out, so it is important to consider other issues when working on your product.  It also demonstrates that a failure does not necessarily indicate a lack of ability or innovativeness on your part, but perhaps simply a small oversight or an inability to overcome inertia.",1175214037
+7450,story,,,1,1,Elfan,"Google Code Review",http://community.livejournal.com/evan_tech/221200.html?thread=1327888,,1175213812
+7449,story,,,11,7,Elfan,"Ruining the User Experience with AJAX",http://www.alistapart.com/articles/ruininguserexperience,,1175213488
+7448,comment,6605,6605,0,0,nr,,,"are these available to download as mp3s?
+",1175213079
+7447,comment,7347,7440,0,0,Elfan,,,"It was partially a tangent prompted by your comment.  I meant ""the stuff CS people do and think about"" not just homework or research.  Through whatever accidents of history, practical concerns, or being a young field, the stuff CS people do tends to be easier than the stuff math people do, but that doesn't necessarily need to be the case.",1175213034

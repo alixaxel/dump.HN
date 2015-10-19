@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8635,comment,8610,8610,0,0,mattculbreth,,,"All I know is that the day after Startup School my cofounders and I starting scoping out places online to help with the move.  :)
+",1175640772
+8634,comment,8610,8610,0,0,lurker,,,"what about Inkling? they're in chicago, which is a decidedly lesser startup hub. ",1175640752
+8633,comment,7737,7737,0,0,mstefff,,,"Tweako now shares revenue and offer web bookmarking buttons",1175640609
+8632,comment,7737,7737,0,0,mstefff,,,"Thank you for the support.",1175640588
+8631,story,,,1,1,domp,"Jimdo: a possible Weebly competitor, an easy to use site building tool",http://www.webware.com/8301-1_109-9704384-2.html?part=rss&tag=feed&subj=Webware,,1175640480
+8630,story,,,1,0,yaacovtp,"Bigstring.com could have funded over 200 ycombinator teams. Hurrah for baby steps!",http://yahoo.brand.edgar-online.com/fetchFilingFrameset.aspx?dcn=0000914317-07-000928&Type=HTML,,1175640104
+8629,comment,8610,8618,0,0,RyanGWU82,,,"It's just an apartment building in San Francisco, but a freakish number of their units are rented by YC founders at this point. It feels more like a dormitory than an apartment building.",1175639750
+8628,story,,,2,0,danielha,"CyberTwin - Create virtual clones to live and breathe on the web on your behalf",http://mycybertwin.com/,,1175639739
+8627,comment,8407,8407,0,0,zkinion,,,"So where is some good data as to how much traffic can convert and how much CPM one can get with various types of traffic?  I've been all around googling this to come up with almost nothing.  I know one must work on getting users first, but this is not always a viable method, and sometimes one must worry about monetization later on.  ",1175639481
+8626,story,,,1,0,danielha,"JobTonic - Replace headhunters and earn cash (UK)",http://www.jobtonic.com/,,1175639354
+8625,comment,8563,8614,0,0,mdakin,,,"I have personally seen Lisp stamped out for political reasons.  I had been tasked with generating C code from a textual description of a finite state machine.  With my boss's permission (also a Lisp programmer) I used scheme to take in the descriptions and output C code.  It hooked right into the Makefiles and worked well.  Despite the fact that the solution worked and that there were several engineers on staff who were Lisp programmers this did not make it through review.  A senior engineer who had been with the company for a long time (who'd never programmed in Lisp) had major objections.  He pulled the right strings and we were forced to reimplement it all in C.  I suspect one of real problems for Lisp is the presence of this sort of anti-Lisp person in the industry.",1175639293
+8624,comment,8581,8581,0,0,zkinion,,,"Not bad at all.  It overcomes some of the inherent problems with internet dating.  Basically if you can make an environment where girls won't get bombarded by tons and tons of creepy dudes, you'll get more and more hot girls from different areas, not just in California.  More and more desirable, and approachable girls is a winning formula.
+",1175638717
+8623,story,,,1,0,far33d,"Online Ads Offer Best ROI",http://paul.kedrosky.com/archives/2007/04/03/online_ads_offe.html,,1175638473
+8622,comment,8563,8563,0,0,mdakin,,,"With all due respect to the Sony and Yahoo engineers/managers I wonder if the shortcomings of the reimplemenations have less to do with the choice of programming language and more to do with the characterestics of people doing the work.  I have a suspicion that the ""Lisp startups"" of the past tended to be composed of particularly intelligent people.",1175638460
+8621,comment,8610,8613,0,0,inklesspen,,,"That's pretty much what I was expecting; thanks for the confirmation.",1175638454
+8620,comment,8555,8604,0,0,danw,,,"A list of popular twitter people already exists, see: twitterholic.com.<p>Your right, I would need to work on the value proposition.",1175638213
+8619,story,,,1,0,usablecontent,"Google Testing Auctioning of TV Ads",http://startupmeme.com/2007/04/03/google-testing-auctioning-of-tv-ads/,,1175638209

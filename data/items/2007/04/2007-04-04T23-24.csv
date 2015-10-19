@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8972,comment,8956,8965,0,0,dfranke,,,"Mu.<p>What are you trying to write, and how well does it overlap with the toolkit's intended purpose?  Put another way, if you wrote your own, how different would it be?",1175730896
+8971,story,,,2,11,amichail,"Has anyone tried providing a service to improve people's blog posts (e.g., in terms of grammar, style, tone, fact checking, etc.)?",,,1175730733
+8970,comment,8563,8942,0,0,Terhorst,,,"I agree on that point: Lisp (or any single language for that matter) is unlikely to be the right choice for everyone.",1175730712
+8969,comment,8863,8958,0,0,ashu,,,"Amazon S3",1175730489
+8968,story,,,4,2,far33d,"MSFT: Always one step behind..",http://news.com.com/2100-1041_3-6173307.html,,1175730084
+8967,comment,8966,8966,0,0,far33d,,,"More surprising is that the iPod is more popular than beer!",1175729715
+8966,story,,,1,1,far33d,"Facebook as Popular as Beer with College Students.",http://blogs.barrons.com/techtraderdaily/2007/04/04/yahoo-could-regret-not-paying-up-for-facebook-needham-says/,,1175729619
+8965,comment,8956,8956,0,0,npk,,,"The power of the internet today is the social component.  It seems silly to spend resources reinventing the wheel.  Does it make sense to use Facebook's developer toolkit?<p>1) Should you worry that you're relying on the infrastructure of another company?  Will VCs worry about your long term prospects?<p>2) Would it be ok to use the developer toolkit until your business is a success, and then switch to your own code?",1175729335
+8964,comment,8711,8883,0,0,far33d,,,"My point was all you need to do YC is a plane ticket and your bags, maybe buy a bed and a desk when you get there. ",1175729331
+8963,story,,,2,7,usablecontent,"Reply.com, A Competitor To Zillow Raises $6M",http://startupmeme.com/2007/04/04/replycom-a-competitor-to-zillow-raises-6m/,,1175729267
+8962,comment,8741,8741,0,0,teki321,,,"I think the RSS is just a beginning. Google Reader is like a custom webpage with all the information what I am interested in.<p>The only thing what I miss is the commenting, I don't want to visit the website just to read and write comments.<p>Some ideas in this field:
+- in each rss entry there should be a link to the RSS of the comments. 
+- RSS readers should display them inline.
+- xml-rpc for blog commenting: <a href=""http://www.webpronews.com/blogtalk/2007/02/20/xml-rpc-for-blog-comments"">http://www.webpronews.com/blogtalk/2007/02/20/xml-rpc-for-blog-comments</a>
+- each comment should contain the possibility to write a reply (with the help of xml-rpc + a small form)
+- or the whole thing can be implemented on an email or IM base<p>",1175729092
+8961,story,,,1,0,HectorPapi,"Improving Your Credit Score for Dummies",http://www.violentacres.com/archives/153/improving-your-credit-score-for-dummies,,1175728693
+8960,comment,8863,8949,0,0,zach,,,"I love that approach (my weblog is called ""Story-Driven"" after all) because it automatically breaks technical people out of a taxonomic, procedural mindset.  So many descriptions of things are on the order of ""well, it's a set of pliers with a light on it"" instead of ""it's how I change fuses in my rusty fusebox in the middle of the night.""<p>You can't emphasize enough to people to tell a story, and the screencast is a great crucible for whether you have a good story to tell.  Screencasts aren't appreciated enough for the way they've helped people understand concepts that are a little more technical than they normally would sit still for.",1175728667
+8959,comment,8937,8938,0,0,herdrick,,,"You're right.  There was a common 'punch the monkey/president' banner ad a few years ago - I think it was successful.  ",1175728245
+8958,comment,8863,8863,0,0,jganetsk,,,"How are you going to scale up your storage to meet the demands of the users? Are you doing something clever, like Google Filesystem? This is not an easy problem, if you aren't prepared for it in advance. If 10,000 users sign up tomorrow... you might be very very hosed, as opposed to very very happy.",1175727738

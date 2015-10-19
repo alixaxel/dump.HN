@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+276917,comment,276002,276644,0,0,13ren,,,"""English is what English-speaking people speak""",1218797952
+276916,story,,,1,0,shafqat,"AOL acquires SocialThing... is AOL where startups go to die?",http://www.techcrunch.com/2008/08/14/confirmed-aol-acquires-lifestreaming-service-socialthing/#comments,,1218797777
+276915,comment,276460,276693,0,0,olavk,,,"I think ""javafied"" is a bit unfair. ES4 continues the tradition from the original JS to copy Java-syntax where appropriate. ""class X extends Y {}"" looks indeed very Java-like, however the semantics are quite different, much more akin to classes in Python. But it would be silly to choose a gratuitously different syntax just to satisfy the Java-haters.",1218797433
+276914,comment,276249,276398,0,0,nailer,,,"Interesting. Was there no 'mount' command, or for those of us who like to save commands, 'df .'?",1218797413
+276913,comment,276275,276275,0,0,gaius,,,"<i>That would imply an operations staff of more than two thousand people to operate Google - nearly ten times the size of the company.</i><p>Aren't there like 20,000 of them now?",1218797319
+276912,comment,276249,276776,0,0,nailer,,,"Unisys, Fujitsu, Hitachi, and SGI sell 32 processor (and more), and they'll do it for a lot less than Sun will.<p>However, in most cases, your 32 processor Sun box is replaced by one Quad Core Xeon machine, and it handles the same workload in an eighth the time.<p>This is why Red Hat don't bother competing with Microsoft - they make the biggest part of their revenue from replacing Sun gear - and two of the four guys I worked with closely at Red Hat were ex-Sun staff.",1218797205
+276910,comment,276877,276882,0,0,paul,,,"I wouldn't make any assumptions about Google's servers. Public info is generally some mix of inaccurate and out-of-date.",1218796722
+276909,comment,276058,276780,0,0,aswanson,,,"Think of each observer attempting to push a rock into their palm and having it appear on the other side, without enough force to push it through.  Think of everyone on the planet attempting this simultaneously, thousands of times.  If the rock disappears and reappears on the other side for one observer, doesn't this accomplish the same thing, at least for that observer, that the suicide attempt does?",1218796635
+276908,comment,276041,276041,0,0,kul,,,"seems like this guy hasn't heard of talent acquisitions, which is what Jaiku was.",1218796374
+276907,comment,276872,276872,0,0,gaius,,,"1) Use MacPorts
+2) Send whatever error message you get to the package maintainer
+3) Profit!",1218796186
+276906,comment,276877,276882,0,0,gaius,,,"Google builds, Microsoft (as far as anyone knows) buys. It could be that Google simply can't economically source the components and/or make them work to use fewer larger servers. Or it could be that Google prefers to rip out an entire server when it fails rather than repairing it in-place, so they want each one as small/cheap as possible and don't really care about compute power per server.",1218796051
+276905,comment,276386,276888,0,0,jauco,,,"Did anyone say she wasn't?",1218795562
+276904,comment,276294,276596,0,0,Hexstream,,,"Because the merely ""doable"" is becoming ""trivially easy"".",1218795178
+276903,comment,276692,276692,0,0,rincewind,,,"The german site my-hammer.de does reverse auctions for craftspeople.",1218795140
+276902,comment,276872,276872,0,0,rincewind,,,"I used macports and porticus and installed vim-app.",1218794897
+276901,comment,276817,276817,0,0,noonespecial,,,"Umm <i>once and for all</i>? Computer specs and prices change every week...",1218794792
+276900,comment,276872,276872,0,0,pavelludiq,,,"<a href=""http://macvim.org/OSX/index.php"" rel=""nofollow"">http://macvim.org/OSX/index.php</a>",1218794493

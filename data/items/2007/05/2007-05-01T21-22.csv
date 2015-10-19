@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+18503,story,,,1,2,bootload,"stuckunstuck (twitter as gateway)",http://stuckunstuck.com/statuses/list,,1178056779
+18502,comment,18363,18363,0,0,juwo,,,"Glorb.
+ 
+Great Value, Great Service<p><a href=""http://glorb.com"">http://glorb.com</a>
+",1178056655
+18501,comment,18363,18498,0,0,dpapathanasiou,,,"The other big downside is that you can't just go in and kill an errant process if your alpha version does something weird.<p>And you're also in the dark about what those <i>other</i> processes (those not owned by you) might be doing at any given time.<p>Controlling the entire server as root is just better.",1178056481
+18500,comment,18493,18493,0,0,yaacovtp,,,"Can anyone tell me what bandwidth costs a month once you need over a terabyte a month? How would you host a 5-10 mb movie that may be viewed millions of times without using a 3rd party video host like youtube etc?",1178056474
+18499,story,,,3,0,usablecontent,"The Reason Why Digg Removed That Story",http://www.pronetadvertising.com/articles/the-reason-why-digg-removed-that-story21094.html,,1178056332
+18498,comment,18363,18494,0,0,sabat,,,"True, although some providers are more liberal than others. Dreamhost lets you run your own stuff, like ruby, php, rails, etc. But yeah, it's a limited environment, and you're sharing. When you're first starting out, you may not care about that. But eventually ...",1178055786
+18497,story,,,1,0,usablecontent,"Sonopia Raises $12.7 Million in Series B Funding for Mobile ""Social"" Network",http://startupmeme.com/2007/05/01/sonopia-raises-127-million-in-series-b-funding/,,1178055673
+18496,comment,18492,18492,0,0,pg,,,"Ug.  That band at the bottom of the page is intolerable...",1178055225
+18495,comment,18363,18363,0,0,gustaf,,,"Primarily Serverbeach.  Have one server with Layered Tech and one with Linode for internal",1178054776

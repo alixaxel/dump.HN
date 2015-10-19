@@ -1,0 +1,73 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+11227,comment,11124,11215,0,0,danw,,,"Presumably anyone who didnt fill in the email in the profile would have to be contacted using the email address in the application form.",1176209740
+11226,comment,11221,11221,0,0,juwo,,,"also, (your announcement on email addresses has already been buried) some of the posts can be announcement posts and not scroll down - oops! becoming like a traditional newsgroup.",1176209507
+11225,comment,10875,10969,0,0,jwecker,,,"btw, HOP uses the Bigaloo web server and so isn't quite adequate apparently for a high traffic site (like I assume most here will have).  here's an email exchange I had with the author the other day- sorry if the comment's a bit big:<p>I apologize for such a late answer. I'm always fighting with email. I'm
+definitively not good at it because I'm not able to answer at a decent pace.<p> Hi Manuel. I've just been playing with Hop. Well done. It's just
+ beautiful. A couple of questions about it:
+ first, the bigloo web server- is this completely necessary? I guess one
+ of 4 things would need to happen for hop to be totally ideal:
+ <i> Bigloo implements light-weight threads Gambit-scheme style so that it
+ can have erlang-like load capacity (
+ <a href=""http://www.sics.se/~joe/apachevsyaws.html"">http://www.sics.se/~joe/apachevsyaws.html</a> ) (most preferable option,
+ IMO, though I have no idea what your feelings are here. To me this
+ would make bigloo light-years ahead of all other scheme imps.)
+I have tried several things concerning the multi-threading. You can read
+our FairThreads proposal (<a href=""http://www.inria.fr/mimosa/Manuel.Serrano)."">http://www.inria.fr/mimosa/Manuel.Serrano).</a>
+When I did this study I though that FairThreads was a decent solution.
+Now that's no longer clear to me. Hop does not use Fair threads but
+Posix like threads. I'm quite aware of all the troubles that come with
+this kind of threads. I have not considered an Erlang-like solution
+yet but that's something I could envision.<p> </i> Get hop to work with a gambit-scheme server instead of bigloo (where
+ would i start with this? can you point me to relevant points in the
+ code?)
+No, I think that you cannot. Hop is really not a portable Scheme
+program. It extensively relies on Bigloo features. I'm afraid that
+you will have to rewrite entirely. It's not a huge program but it is
+not that small either. The problem is that it uses a lot of libraries
+that you would have to re-implement too. All in all it's about 40.000
+lines of Scheme code. I don't really recommend to try to re-implement
+that (except if you are very brave ;-)<p> <i> Get hop to work with mod_lisp (less preferable, IMO)
+No. I don't think that a solution too. Hop needs to be running
+permanently. That is two successive requests must be handled in the
+same execution environment (i.e., the first request may set a global
+variable that is read by the second request). Hence, even if you want
+to use Apache you will be forced to have a server running somewhere
+and you will have to establish a communication between Apache and that
+server. Why not directly using Hop as a server?<p> Second item is the overall latency and possible redundancy... actually, I
+ don't know how to phrase the problem- but it boils down to this, I
+ counted over 27 distinct ""connecting to server"" cycles when you click
+ on the ""weblets"" tab of the Hop Home page. It took quite a while
+ re-establishing the connection to the server 27 times. Are there
+ thoughts on overcoming this?
+Not really but... First, the Hop server supports keep-alive connections.
+This should help. Then, honestly, I have hoped to find time to optimize
+the server for months. I have not found that time yet but I think that I will
+have it around the end of Spring. At that moment, I will study the problem
+you are mentioning.<p>However, I'm using Hop on a daily basis. Even more, in order to push it to
+its limits, I'm using it as my regular proxy. That is all my HTTP connections,
+on all my machines, go through a Hop proxy/server. The performance are
+acceptable. That is, I'm not annoyed by an important slow down due to Hop.<p> Thanks again!!
+You are welcome. Thanks for the encouragements.<p>--
+Manuel",1176209504
+11224,comment,10875,11183,0,0,shiro,,,"Not exactly what you asked for, but another option is to use persistent objects (e.g. AllegroCache) instead of mapping them to RDBMS.",1176209331
+11223,comment,11024,11024,0,0,smackaysmith,,,"In western Michigan, a job listing.",1176209264
+11222,comment,11189,11189,0,0,juwo,,,"intuition can mask prejudice",1176208797
+11221,story,,,2,7,juwo,"simple suggestion for YC: simply list the selected teams for Summer funding on the home page (re: email addresses missing)",,,1176208668
+11220,comment,11099,11099,0,0,Benja,,,"I don't find it ironic. I find it unrelated. If you could find a successful startup today that used a lot of IBM technology -- even if you could show that a startup today succeeded only because they were using IBM technology -- that wouldn't turn IBM back into the dangerous monopolist it once was (which was what Paul's article was about).",1176208375
+11219,comment,11124,11156,0,0,juwo,,,"your english does not have to be good.
+to have a successful startup, you dont have to relocate to the USA (except for YC). ",1176208321
+11218,comment,11023,11023,0,0,dpapathanasiou,,,"Here's a technique using power law distributions: <a href=""http://thraxil.com/users/anders/posts/2005/12/13/scaling-tag-clouds"">http://thraxil.com/users/anders/posts/2005/12/13/scaling-tag-clouds</a>
+",1176207914
+11217,comment,11138,11138,0,0,amg,,,"I'm an american living in India and there are opportunities for a million web 1.0 models.  But the fact is it may be too early in the game to build anything of lasting value. But the Baazee deal was impressive considering it was long after the bubble had burst.
+",1176207773
+11216,comment,11189,11189,0,0,jkush,,,"Do you mean ""gut instinct""? I go by that a lot and have been learning how to trust it more. More often than not, my initial reaction is right. <p>If you're interested, here's a link to a book about this topic:<p><a href=""http://snipurl.com/1fxk7"">http://snipurl.com/1fxk7</a><p>",1176207245
+11215,comment,11124,11124,0,0,whacked_new,,,"This post is so interesting,<p>there is no guarantee that those who didn't fill in the email address will read this. And to make sure they read this, you would want to send them an email.",1176207187
+11214,comment,11208,11212,0,0,jkush,,,"I agree - it's just that I've met too many people who live by principle and not by the situation.
+",1176206927
+11213,comment,11189,11189,0,0,kul,,,"With boso, ibtalk and now auctomatic, the instinctive decisions have always been the best. I'm wary of the term 'common sense' because I don't really think it's all that common. Also, what's really weird, is that at time x, you can believe 100% and with everything in your heart that decision y is the best course of action. At x + 3 days, you can then believe, also 100% without any doubt, that decision y was wrong and that you should now do z. It's not that that is indecision, it's just that things can move so quickly and variables change so much that you can change your mind 100% about something without too much difficulty. (and I've been using 100% too much). I believe an important quality of a CEO is to be able to do that, and continually convince himself that the latest course of action is the most prudent, but more importantly, convince his team that it is the right path to take too, (and that bit of advice came to me from someone who works at Yelp).",1176206868
+11212,comment,11208,11209,0,0,whacked_new,,,"Just to split hairs here, is there a difference between principles damned at $1, and principles damned at $1e7?<p>Also, Microsoft might be ""dead"" but they still provide value to their customers, whatever it is. While Vista might be way overhyped and/or overpriced, it can still do useful things. If your product reaches more customers and results in significant benefits for them, why not leverage MS's position? The principle then, is not about money. It's about your product's purpose. Hotmail for example.",1176206845
+11211,comment,11024,11024,0,0,jkush,,,"When there's a mispelling or obvious sign that someone in HR wrote the job description. <p>For Example: ""Must be proficient in Sequel.""<p>or<p>""Must have 10+ years experience in the .NET environment.""<p>
+When that kind of thing catches my attention, I want nothing to do with a company where people who don't know what they're talking about are allowed to represent the company to the public.",1176206811
+11210,comment,11204,11204,0,0,whacked_new,,,"The title headers are the same size as the category words... makes for a hard read... do you just get used to it?",1176206452
+11209,comment,11208,11208,0,0,jkush,,,"I think how you answer this question says a lot. I'm not sure how I would answer this question myself.<p>Would you refuse to sell on principle? Or because as Paul says, Microsoft is dead?<p>Or do you just take the money, principles be damned?
+",1176206441

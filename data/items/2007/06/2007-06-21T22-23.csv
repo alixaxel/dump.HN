@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+29918,comment,29335,29335,0,0,adamdoupe,,,"I think the way to do this functionally is the Haskell way with Monads: <a href=""http://en.wikipedia.org/wiki/Monads_in_functional_programming"" rel=""nofollow"">http://en.wikipedia.org/wiki/Monads_in_functional_programming</a><p>Having used Haskell (which is purely functional) to write a compiler for a CS class, state is mostly kept by passing it around and using recursion. It's hard to explain if you don't know Haskell, however the other way is to use Monads. I can't explain them, because I don't understand them completly myself. Anyhoo, good luck.",1182466745
+29917,comment,29791,29791,0,0,donna,,,"writing a lot of code allows many experiments to be performed.<p>this is valuable when the problem is not well-defined, or when solutions can't be evaluated until tested on actual users or under partly-unknown real-world conditions.<p>otherwise he's right, a problem should be studied carefully before any coding, for best efficiency",1182466068
+29916,comment,29855,29910,0,0,gyro_robo,,,"Us rejects.",1182465876
+29915,comment,29911,29911,0,0,corentin,,,"I don't like being harsh, but it seems to me that most of the websites and blogs about ideas are started precisely by people who couldn't find any better idea.
+",1182465458
+29913,comment,29480,29567,0,0,donna,,,"Really good point about redefining the pitch and returning based on what they critiqued.",1182464364
+29912,comment,29881,29881,0,0,donna,,,"my take is to first know how I will behave, will I use it? Purchase it, recommend it? It was probably best that BVP past on Apple, eBay, FedEx opportunities. Sounds like they were unable to use those products, --it's more than just the financial investment, it's the viral leverage as well.",1182464081
+29911,story,,,2,1,sharpshoot,"Idea Volcano - Blog for sharing/discussing business ideas",http://blog.ideavolcano.com/,,1182463455
+29910,comment,29855,29875,0,0,donna,,,"what was rejected?",1182463376

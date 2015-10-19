@@ -1,0 +1,38 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+38508,comment,38362,38486,0,0,far33d,,,"Which is, I imagine, exactly why you can't downmod replies to your own comments. ",1186005160
+38507,story,,,1,1,dawie,"Disney Acquires Club Penguin in $700 Million Deal",http://mashable.com/2007/08/01/disney-clubpenguin/,,1186005154
+38506,comment,38505,38505,0,0,augy,,,"YC News in the car - could be nice!<p>What about a radio station that reads the top stories on digg or reddit?   <p>",1186005123
+38505,story,,,1,1,augy,"Unwired Nation, BlueGrind turning online text into audio",http://venturebeat.com/2007/08/01/unwired-nation-bluegrind-turning-online-text-into-audio/,"YC News in the car - could be nice!<p>What about a radio station that reads the top stories on digg or reddit?   <p>",1186005088
+38504,story,,,1,0,yubrew,"Possible Source of Adpinion's Idea?",http://radar.oreilly.com/archives/2005/05/remaking_advert.html,"This is further evidence that ideas are worthless until you implement them.",1186004694
+38503,story,,,1,0,augy,"Big Blue scraps servers for big power savings",http://news.com.com/8301-10784_3-9753185-7.html,,1186004420
+38502,story,,,4,7,twism,"Ask News.Yc: What is social bookmarking lacking today?",,"I know, i know...they are a tons of social bookmarking sites out now, but they all seem cluttered, slow, and confusing to me. Im trying to get a feel of what features poeple like, dislike or they would like to see implemented. <p>News.YC is sort of a bookmarking app (at least the way I use it).It works great for me because its fast, has a clean layout and it just so happens to deal with web pages I would typically bookmark. but the internet isnt all about startups and entrepreneurship.<p>Any input would be great. Thanks",1186004015
+38501,comment,38454,38454,0,0,pumper,,,"I'm struggling with the same thing. A post i wrote recently (<a href=""http://www.pumperknickel.com/?p=300"" rel=""nofollow"">http://www.pumperknickel.com/?p=300</a>) covers a couple of suggestions. <p>To date I've had most success with craigslist ads. Cheap at $75. But you need to be very clear (not like your typical job ad) in your posting to make sure you really get what you need.<p>Good luck!
+",1186003630
+38500,comment,38407,38407,0,0,horatio05,,,"How would one know what data to place in shards? Are there any ""RDBMS to Shard"" resources out there?",1186003551
+38499,comment,38454,38454,0,0,pg,,,"In the most successful startups the first employees are usually people the founders knew in school.<p>In fact, that's probably the main reason startup hubs tend to form around universities.",1186003515
+38498,comment,38454,38454,0,0,jmtame,,,"The startup I was in looked primarily towards referrals from the investors and the existing employees.  We also submitted a gig to the 37 Signals board, and I think there were some good candidates there.  Most of those people seem to be on top of their game and favor the simplicity and ease that 37 Signals preaches (which I consider to be a very good thing).",1186003504
+38497,comment,38435,38435,0,0,spiralhead,,,"excellent article. I agreed with most of it--especially about startups attracting freaks and misfits. I can vouch for that. haaha",1186003347
+38496,comment,38454,38454,0,0,darius,,,"Try posting your job opportunity in places like this one. I'm sure there are people interested in startups that read yc news but that are not working on a startup right now.",1186003301
+38495,story,,,1,3,uuilly,"Answer to the question: ""How's your startup going?""",,"We all get this question a lot.  I now have an answer that everyone can understand:
+My startup is like mission control in the movie ""Apollo 13.""  There are a bunch of nerds running around talking intensely about things that nobody understands.  Machines are lighting up making sounds that continually overturn the already chaotic nerd anthill.  We've solved a number of complex problems with very limited resources and lots of duct tape.  A bald guy is loosely in charge. (Specific to our startup.)  We will probably not make it to the moon but if Tom Hanks and Kevin Bacon make it back alive it will be a huge success.  They just went out of radio contact on the dark side of the moon and we won't know if we'll ever hear from them again.  There are a number of huge outstanding issues that we will have to solve at the last minute.  The ending will  be very happy or very sad. ",1186003273
+38494,story,,,1,0,far33d,"Disney Buys Club Penguin",http://biz.yahoo.com/bizj/070801/1499875.html?.v=1,,1186003272
+38493,comment,38468,38468,0,0,pg,,,"The market decides.<p>They'll decide what valuation to offer you; you'll decide whether or not to take their offer.",1186003048
+38492,comment,37850,38216,0,0,pg,,,"I didn't mean they don't have courses claiming to teach it.",1186002834
+38491,story,,,1,0,jmtame,"Are unoriginal ideas bad?",http://jtame05.wordpress.com/2007/08/01/are-unoriginal-ideas-bad/,,1186002661
+38490,comment,38450,38450,0,0,mechanical_fish,,,"I think we're stuck in a Bubble Bubble. (Or is it the Metabubble?)<p>You'd think that after living through two real bubbles we might develop some higher standards. Instead, the word ""bubble"" is getting applied to every fad, era, technology, and press release that comes along.",1186002552
+38489,comment,38362,38457,0,0,pg,,,"Right.  There is no such thing as downvoting someone's karma.  What you vote upon (unless you abuse the system) are individual comments and submissions.  Karma is an overall score, not something you edit at will.",1186002456
+38488,comment,38435,38435,0,0,augy,,,"
+I would rather miss a market than put out something I was not fully proud of.  
+",1186002368
+38487,story,,,3,2,rms,"The reason Facebook was down...   it wasn't a proxy issue",http://www.theregister.co.uk/2007/07/31/facebook/,,1186002347
+38486,comment,38362,38451,0,0,pg,,,"Often it's behaviors that suck, not people.<p>If you dislike something someone has said, the best way to deal with that is to reply explaining why.  That's more work than just downmodding them, but it can pay off in the long term if you can turn someone into a useful contributor to the site instead of just making them leave.",1186002316
+38485,story,,,10,38,juwo,"Is it ethical to keep a copy of the code or designs you did for your employer, for your reference?",,"Please comment on the two:<p>A) Extreme case:<p>[deleted]<p>B) Normal Case:<p>You keep a copy of your work and designs so you can reuse the ideas and perhaps even snippets of code. It is also a record of your work.
+This is for 'normal' work that took lots of thought and effort, not patented stuff.<p>
+Qs: How many of you regularly do B? Please also comment on A",1186002221
+38484,comment,38450,38450,0,0,ivankirigin,,,"One huge difference is that you don't have an insane  fund raising model:
+1) Buy domain
+2) Go public
+3) Build product
+4) Get users
+5) Monetize<p>It is harder to have an equity collapse when companies are small and barebones.",1186002084
+38483,comment,38450,38476,0,0,eposts,,,"I meant to post this as a good thing for web 2.0, but for some reason my comments never showed with the original post. If Dvorak is calling it a bubble it might be a good thing... considering his record.<p>",1186002017

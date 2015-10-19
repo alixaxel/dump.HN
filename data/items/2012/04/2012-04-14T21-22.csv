@@ -1,0 +1,314 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3842100,comment,3841985,3842093,2,0,amirnathoo,,,"> it's just a matter of time<p>Sure. But if you're developing now you have to deal with what you've got - the Instagram founders did not say ""we'll wait for this to become standardized"".",1334440782
+3842099,comment,3841647,3841989,3,0,keithpeter,,,"<a href=""http://www.robertacaro.com/NYer.html"" rel=""nofollow"">http://www.robertacaro.com/NYer.html</a><p>A sample of Caro's writing. His work was unknown to me before reading the links here.",1334440756
+3842098,story,,,2,0,lucaspiller,"Titanic Voyage Twitter Account",https://twitter.com/#!/titanicrealtime/,,1334440731
+3842096,comment,3841985,3842077,4,0,amirnathoo,,,"The point with Android is that developers will follow what consumers adopt. They'll put up with Android fragmentation in  the same way they put up with the App Store approval process - because they have to.<p>Facebook have listed mobile as a risk in their S-1. When they started they didn't have the mobile risk.<p>> I agree with your overall point, but you overreach on a lot of your arguments. Seems like you just wrote it to write it.<p>I don't think I'm over-reaching. What are the arguments that you would present resulting in the same conclusion that aren't over-reaching?",1334440693
+3842095,comment,3841390,3842021,1,0,kirinan,,,"The meeting people part makes up for any lost money anytime!",1334440647
+3842094,comment,3841463,3841463,5,0,iRobot,,,"Not everyone lives in cities surrounded by mega bookshop/cafes, prior to Amazon, if I wanted a book I had to order it from the library, pay $2 and pick it up after a 50 minute drive to town. ditto if I wanted to buy a book it was $15-$30 and a 50 minute drive and a really small choice unless I ordered and waited another 2 weeks. (Prices converted from NZ$ to US$) - Amazon delivered actual real books from the US to NZ for less than that and the kindle moves me now to a level playing field with the rest of the world and no trees cut down or gas guzzled in the process.<p>Seriously I've been stuffed ridged on price for the past 30 years by book sellers and publishers, and as much as I hate corporate evil, I dont consider amazon has done anything evil (yet), and if anything they have delivered payback in the form of a large kick in the nuts to the big publishing houses. If these people envy Amazons business model then make a better one and stop fucking whinging!",1334440626
+3842093,comment,3841985,3841985,2,0,SigmundA,,,"> <i>Instagram is used as an example in the deck itself. Thing is, Instagram kind of relies on you to be able to take photos using the camera on your mobile device, and you cant do that in HTML5!</i><p>Must not have heard of Media Capture: <a href=""http://www.w3.org/TR/html-media-capture/"" rel=""nofollow"">http://www.w3.org/TR/html-media-capture/</a><p>It won't be long before most browsers support this including mobile safari, it's just a matter of time.<p>I used to think this way but media capture, file API, location API, WebGL and toolkits like Sencha Touch, will narrow the gap so much most apps will just fine a chrome-less web-clip on iOS and indistinguishable from a native app.",1334440623
+3842092,comment,3841975,3842026,4,0,capkutay,,,"In my experience drinking hasn't been conducive to being a good programming/problem solver. I don't have the mental stamina to finish a program when I'm hungover.",1334440607
+3842091,comment,3841463,3841797,10,0,waterlesscloud,,,"By comparison to the music industry, Hell itself is populated by saints.<p>If the best you can say about an industry is that it's not as bad as the music business, well...",1334440507
+3842090,comment,3841975,3841975,10,0,zerohp,,,"As far as I can tell, there are no more of these kinds of parties at conferences than there were 10 years ago.<p>Excluding academic conferences, I don't think programmers drink and more or less than other professionals at conferences.",1334440414
+3842089,comment,3840706,3842043,1,0,kaeluka,,,"might I ask how you ended up on those travels? job related or free-time?
+In either case: I'd be grateful for some details!",1334440400
+3842088,comment,3841975,3842026,6,0,benihana,,,"Afterparties have been great to me. I've made a lot of good connections and had a lot of doors opened for me that couldn't have happened during a lightning talk. Talking over drinks really makes it easier to speak confidently about oneself.",1334440377
+3842087,comment,3839318,3840019,1,0,epidemian,,,"That might be a quite distant future. See:<p>""Unsupported features"" at <a href=""https://github.com/jashkenas/coffee-script/wiki/FAQ"" rel=""nofollow"">https://github.com/jashkenas/coffee-script/wiki/FAQ</a><p><a href=""https://github.com/jashkenas/coffee-script/issues/451"" rel=""nofollow"">https://github.com/jashkenas/coffee-script/issues/451</a><p><a href=""https://github.com/jashkenas/coffee-script/issues/64"" rel=""nofollow"">https://github.com/jashkenas/coffee-script/issues/64</a><p><a href=""https://github.com/jashkenas/coffee-script/issues/322"" rel=""nofollow"">https://github.com/jashkenas/coffee-script/issues/322</a>",1334440270
+3842086,comment,3840830,3841156,1,0,Jare,,,"At Iguana we even had a QA department!<p>But yeah it was nothing like a startup because there were no responsibilities or requirements, everyone just did whatever they wanted, when they wanted, how they wanted, and if it gelled into a demo, then great. It was all about exploring shared interests and having fun.",1334440230
+3842085,comment,3838516,3839219,1,0,austinhallock,,,"I added an option to keep the leaderboard window open.",1334440215
+3842084,comment,3841551,3841551,2,0,Palomides,,,"rather more extensive and general, but somewhat related book (Producing Open Source Software): <a href=""http://producingoss.com/a"" rel=""nofollow"">http://producingoss.com/a</a>",1334440205
+3842083,comment,3838516,3839742,1,0,austinhallock,,,"I added an option to keep the leaderboard window open.",1334440201
+3842082,comment,3840706,3841798,2,0,kaeluka,,,"haha, well, you might be right on that -- however, overdoing it might come across as insincere...",1334440195
+3842080,comment,3841463,3841463,2,0,guard-of-terra,,,"""Amazon has the potential to be like that predatory big box retailer on a global scale.""
+Amazon is not so good at global (compared to other big internet businesses anyway)
+It only really works in a selected few countries/languages (US + Canada China France Germany Italy Japan Spain United Kingdom, as the site tells us)<p>Another interesting question arising from that is: What are countries/languages which has no Amazon are going to do? They don't have monopoly, but they perhaps also lag behind in e-book sales, suffering from the lack of synergy and convenience provided by amazon website + readers + applications + 3rd party support.",1334440151
+3842079,comment,3841348,3842058,2,0,_ankit_,,,"A big part of staying in touch is <i>sharing photos</i>, and <i>video calling</i>. Especially, if you live far away from your family.",1334440124
+3842078,comment,3841732,3841911,3,0,justincormack,,,"Twitter want the data so they decided you have to wrap in t.co. They dont care about indirection. Though they could try to undo other shortners.",1334440124
+3842077,comment,3841985,3841985,2,0,wdewind,,,"> <i>This growth is despite Androids so-called fragmentation problems. Androids share is growing because the carriers have flexibility in how they distribute it and end users could not care less about fragmentation.  That is a problem for developers, sure, but it is not affecting adoption by end-users.</i><p>a) developers who develop on Android rarely develop for all fragmented versions (or skew releases to not support old versions - the fragmentation does take resources and the effect shrinks your market) so grouping them together is kind of a misnomer - though I get it, and b) android apps still tend to make much less money than iOS apps.  So there are lot more dimensions missing to that analysis, especially if this is targeted to developers.<p>> <i>But what about the next 5-10 years? Wont all these native features be incorporated into HTML6? Perhaps current features like camera access will be, but I bet that by that time therell be a ton of new device types and underlying features that arent.</i><p>Web technologies have always been playing catch up, and I'll take that bet.<p>> <i>Its not possible to create Instagram with HTML5</i><p>But it was possible to create facebook with it, which is worth 100x Instagram.  This point is irrelevant in every way except the recent news.<p>I agree with your overall point, but you overreach on a lot of your arguments.  Seems like you just wrote it to write it.",1334440112
+3842075,story,,,2,0,barredo,"Third Base",http://www.americanscientist.org/issues/issue.aspx?id=3268&y=0&no=&content=true&page=5&css=print,,1334439978
+3842074,comment,3841370,3841962,3,0,chaostheory,,,"> With all due respect we're not talking about kids across the street here.<p>That was the only analogy I could think of when comparing guitarists. I didn't mean to equate both you and myself to famous programmers as children, but that's the best I could do in 5 min. My point was just to show that Yehuda isn't some average unknown panhandling for money. He's well known and he's already given a lot to the community and not to just Ruby.",1334439972
+3842073,comment,3841941,3841941,1,0,fmstephe,,,"I had felt that the degradation of HN was overstated. Until now.",1334439724
+3842072,comment,3841985,3841985,2,0,melissamiranda,,,"Another point to consider is that you can rarely get away with building a native mobile app alone. Unless you create a beautiful utility that is a standalone experience, you'll want to be able to re-engage users via email and perhaps spread the word via Facebook or Twitter, and that requires that you have a regular website for people to land on, and perhaps interact with your app a little bit to increase the chances that they'll download it.",1334439722
+3842071,comment,3841785,3841785,2,0,colindowling,,,"The ""rise"" in multiple micro networks is a result of people becoming faster and more efficient in how they use their mobile devices.  I think this will be an ongoing problem for all of them - it's hard to monetize eyeballs that are on your site or app for a few moments before they leave again.",1334439701
+3842070,comment,3841721,3841721,3,0,jbverschoor,,,"Would love to see a new issue of hacktic.nl",1334439697
+3842069,comment,3841756,3841756,13,0,dmk23,,,"The post is missing the most important point.<p>Instagram would not be worth $1B to Facebook if it has not raised a large round. Without the resources to fuel the expansion, build out the product, develop an application platform, invest in revenue team and so on Instagram would be in no position to threaten Facebook. As soon as the funding closed Facebook was suddenly facing a viable threat in mobile vs. just another resource-starved startup hanging onto dear life.<p>So it is pretty questionable to assume that Instagram itself ""pulled an Instagram"". They raised Series B because that was the deal that could happen first. Once it happened the environment changed and Facebook saw the need to take Instagram off the table.<p>If anything, the point is to avoid trying to pull ""uncertain multi-step transactions"". Use various strategic alternatives to create urgency / better terms for other alternatives, choose between the options you can get and focus on optimizing your immediate next step.",1334439696
+3842068,comment,3841756,3842029,8,0,unimpressive,,,">Charlie Munger (Warren Buffett's partner) has kept a long-running list of psychological tendencies that commonly affect people's judgment. There's one item on this list that he's termed ""Availability-Misweighing Tendency."" In a nutshell, it's an observation that people tend to overweigh extra-vivid evidence, which (necessarily) means under-weighing evidence that isn't so vivid.<p><a href=""http://en.wikipedia.org/wiki/Availability_heuristic"" rel=""nofollow"">http://en.wikipedia.org/wiki/Availability_heuristic</a><p>>a long-running list of psychological tendencies that commonly affect people's judgment.<p>These are usually called cognitive biases. Wikipedia has a long list, though Charlie's may be longer. (I haven't seen it.)",1334439694
+3842067,comment,3841381,3841381,1,0,chetan51,,,"Anyone know how this is working on iOS Mobile Safari?",1334439694
+3842066,comment,3841381,3841847,1,0,hej,,,"It seems to work pretty well for my music library (where I have lists with artists and albums).<p>That said, I appreciate being able to instantly go to all artists or albums that start with a certain letter, either by pressing a key on the keyboard or by taping on the index on iOS devices.<p>Im not sure how things like that can be improved to not make them a list. Search is always a possible alternative, but to me search is a fundamentally different way of looking at my music. If I search I already know what I want, if I scroll through the list I dont and Im looking for something.",1334439684
+3842065,comment,3841016,3841636,3,0,NIL8,,,"Probably the best comment I've ever read on YC. Very well said. Thank you.",1334439660
+3842064,comment,3840718,3841854,2,0,Raynos,,,"Why don't we spend effort on building an ES:Harmony -> ES3 compiler rather then a CoffeeScript -> ES3 compiler.<p>It's more worthwhile future facing project.",1334439584
+3842063,comment,3841363,3841363,1,0,xiaomei,,,"<a href=""http://interactivebrokers.com"" rel=""nofollow"">http://interactivebrokers.com</a>",1334439574
+3842062,comment,3840830,3841649,1,0,Jare,,,"Our Heartquake back in '94 had a flyby sequence over a voxel landscape. The path was predesigned, but you could take control at any moment by pressing keys or the mouse. I thought more demos would incorporate such optional interactivity in more subtle ways and more types of effects (ours was kind of obvious), but it didn't happen.",1334439550
+3842061,comment,3841348,3841348,1,0,sparknlaunch12,,,"Google started their life with a simple UI that anyone could use. You simply entered keywords into a textbox and hit the enter key.<p>Suddenly all their new stuff is too complicated. Google+ and Google Listen are painful to use.",1334439529
+3842060,story,,,1,0,mroptimistic,"16,000 Dollars For 3 Exciting Weeks - Getting a Loan VS a Used Car",http://howtobeoptimistic.org/2012/04/14/16000-dollars-for-3-exciting-weeks-getting-a-loan-vs-a-used-car/,,1334439385
+3842059,comment,3841710,3841710,-2,0,jsprinkles,,,"I'd personally like to see some form of JSON-RPC catch on, which could then be used here.",1334439332
+3842058,comment,3841348,3841348,2,0,ams6110,,,"<i>she uses Google+ to stay in touch with other family members online (< 10)</i><p>What I don't understand is if you want to stay in touch with a small group of close acquaintances/family why not use email?  It's vastly easier to use than any ""social network""",1334439328
+3842057,story,,,1,0,Bennuendo,"November 2nd is Look for Circles Day",http://bendo13.hubpages.com/hub/November-2nd-is-Look-for-Circles-Day,,1334439322
+3842056,comment,3841390,3841390,1,0,sparknlaunch12,,,"Are pets allowed?",1334439319
+3842055,comment,3840979,3841727,1,0,bootup,,,"Thanks for sharing this, Josh!<p>I absolutely agree with Nikos' approach to teaching programming young learners without using an actual code. If we teach kids the idea of programming early - it will then be much more intuitive for them to pick up the language formalities later. Because by that time, such a fundamental question as ""why"" is already answered in practice.<p>In other words, the time for a real language comes as an actual need that has been experienced in practice and doing. And that makes all the difference in understanding what you need and why.<p>It's all over the web that more and more parents and teachers come to appreciate the idea of teaching kids to code. But the problem is that they don't know where to even begin or what tools to use. As a result, kids looking to learn programming today are faced with two main extremes:<p>(1) storytelling, game dev, and animation programs; and 
+(2) real-world languages or tools based on IDEs;<p>Programs in the first category are all fine, except for cases when the app is too compute-intensive, or 3D objects are clumsy or rough-looking (but these problems are just temporary).<p>But those using real-world IDEs to introduce programming are effectively training young pilots on real fighter jets. Such tools seem too complex and intimidating even for experienced computer users. What they really ought to be using is a ""flight simulator"", but currently there are too few tools that allow to do that and all pretty limited.<p>Even when we have something that useful it makes absolute sense to use physical games in the gym to introduce the notion of composing instructions for something/someone else (a parent-robot in Nikos' case :)<p>Nikos, thanks for sharing your work, and congrats on joining Knewton!<p>Hope you don't mind me including a link to videos of your class once again:<p><a href=""https://www.facebook.com/drtechniko"" rel=""nofollow"">https://www.facebook.com/drtechniko</a>",1334439251
+3842054,comment,3839099,3839386,1,0,simonbrown,,,"Most UK universities don't teach compilers for CS.",1334439245
+3842053,comment,3841016,3841378,2,0,lgieron,,,"In my experience, you can't really try to be good friends with someone - like with love, it's more about finding this special person (or a couple of them if you're lucky) with which the friendship seems effortless and just works naturally for both of you.<p>My advice is - in spite of previous dissapointments, you shouldn't give up on people, but keep on looking for this ""natural"" match. IMO, for most people, having a true friend [1] introduces more happiness than any professional/financial success, so it's definitely something worth pursuing.<p>[1] Bonus points if that true friend is also your spouse.",1334439176
+3842052,comment,3839925,3840618,1,0,vitno,,,"qualifying would have been easy... the time the other rounds are at are not compatible.",1334439153
+3842050,story,,,1,0,Heliosmaster,"Manage a website with git and mirror it on GitHub",http://davidetaviani.com/2012/04/01/manage-a-website-with-git-and-mirror-it-on-github/,,1334439042
+3842049,story,,,4,1,sew,"SF Startup Makes Data Science a Sport",http://www.nytimes.com/aponline/2012/04/14/business/ap-us-science-as-sport.html?hp,,1334439032
+3842048,comment,3840241,3841410,1,0,WiseWeasel,,,"Best short-term reply is probably something agreeing that the quoted response from their representative, if accurate and complete, was dangerously vague for a matter as critical as account suspension for TOS violation, which they take very seriously for important reasons, yadda yadda. This matter will be investigated, and we hope to resolve to everyone's satisfaction. Love, CEO.",1334438990
+3842047,comment,3841941,3841941,4,0,mirsadm,,,"I'm sorry but this is the most ridiculous thing I've read on HN in a while. Those lyrics are hilarious and if they inspire you do do anything significant in your life then you need to step back and re-examine a few things in your life.",1334438978
+3842046,comment,3841941,3841941,1,0,le_isms,,,"'Had a dream I was king, I woke up, still king' -Eminem",1334438900
+3842045,comment,3841710,3842027,3,0,eloisius,,,"Sure. I'm not so interested in arguing about the nuances of what REST really is. Even Leonard Richardson gracefully sidesteps the arguments by talking about resource oriented architecture.<p>The part the interestes me most is documenting the parameters so that web services can better understand how to work with each other, instead of someone like me pouring over the docs and writing mundane glue code to tie Twitter search features into a service.",1334438865
+3842044,comment,3841975,3842026,3,0,listrophy,,,"FWIW, we had tremendous success at Madison Ruby: rooftop party with live DJs (two of which were attendees, the other was Dosh). Alcohol available, good music, and the open air made it possible to converse.",1334438848
+3842043,comment,3840706,3841395,3,0,nekojima,,,"""with a pc and decent internet connection""<p>Unfortunately, for many people in the world this, and as mentioned in the posting a reliable supply of electricity, is something that not everyone can afford or easily acquire.<p>There are many hundreds of bright young people (and older too) that I've met on my travels through small towns and villages in Asia and Africa. I far too often have thought that I wish I could give them a computer, internet, electricity, something to help them break out of their lives of unemployment, underemployment & poverty and engage in the wider world to make money to support themselves and their family. Even the seemingly basic solutions have far too many hurdles and levels of corruption to avoid.",1334438819
+3842042,story,,,1,0,aadilr,"Leaving corporate job to start startup",http://aadilrazvi.posterous.com/the-beginning-of-the-rest-of-my-life,,1334438801
+3842041,comment,3840830,3841286,3,0,127,,,"Because people see them simply as computer animation with pre-recorded music. They don't understand the algorithmic beauty inside.<p>I don't think demos will ever have a wide mass-appeal, even while being one of the most demanding and beautiful of art-forms (in my opinion).",1334438792
+3842040,comment,3840876,3840876,1,0,Horace,,,"One other website that people might find interesting is MITx's program. <a href=""http://mitx.mit.edu/"" rel=""nofollow"">http://mitx.mit.edu/</a>
+So far, I've tried Coursera and Udacity. 
+Udacity:
+1. Of the classes I took, only Udacity had programming exercises. For one of my friends, 
+who had never taken programming, the course managed to capture his interest.<p>Udacity's courseload  is:<p>i: video followed by a short quiz(multiple choice, fill in the blank, etc.) or a programming exercise(Create a function that takes 2 numbers and outputs the bigger one, etc.) There are generally anywhere from 25-40 videos, each 30 seconds to 4 minutes long.<p>ii: A series of homework assignments. These can be either quizzes or programming tasks. You can submit them, but you don't know whether you got it correct until some deadline, when your homework is graded. THe programming exercises are quite a bit harder.<p>One of the ones my friend struggled with for a while was a task to build a function that checked whether a sudoku square was valid when entered in a certain format.
+iii: At the end of each week, there is a time where they have some kind of IRC/audio channel set up, and you can ask them questions live.<p>2. All the courses are the same quality. Also, they seem to truly have adapted learning into a digital environment, as opposed to certain other places, like MIT's OpenCourseware<p>Coursera, on the other hand, seems to be a series of lectures that they then overlaid questions on too.<p>Some teachers' classes are quite obviously just lectures, with some quizzes added on as an afterthought, while other teachers have incorporated them
+ quite nicely.
+Coursera, my guess is, will also probably have more courses on offer than Udacity soon, since it's a collaboration between several schools.<p>TLDR: Try them both. I personally prefer Udacity, but there's no harm in signing up for one and then dropping it.",1334438770
+3842039,comment,3841551,3841551,1,0,andrewflnr,,,"Why is using the builtin wiki a bad idea?",1334438763
+3842038,story,,,38,16,michaelfairley,"Introducing awfulness.js",http://blog.tommorris.org/post/21073443312/introducing-awfulness-js,,1334438759
+3842037,comment,3840424,3841650,2,0,soup10,,,"These kinds of sprite based games have been around for decades and used to be developed on hardware orders of magnitude less powerful.  The fact that such a thing would ever have performance problems on modern hardware is a joke and shows how backwards web development is.",1334438752
+3842036,comment,3839925,3842009,1,0,zero-cool,,,"Python.
+All going good, but still stumped in the D. Hall of mirrors :/",1334438678
+3842035,comment,3803961,3803961,1,0,Mistone,,,"I just had a reservation in SF cancelled because the host didn't want to register as a hotel. So this tax is already being imposed and seems reasonable a few other major cites might follow suit. Hope airbnb can figure out a good solution.",1334438675
+3842034,comment,3840876,3841468,1,0,ISloop,,,"Who grades the homework assignments?",1334438664
+3842033,story,,,105,71,bhavin,"Physicist Uses Math to Beat Traffic Ticket",http://www.physicscentral.com/buzz/blog/index.cfm?postid=4656335810518469535,,1334438653
+3842032,comment,3840830,3841934,2,0,forza,,,"I'm not sure what you are referring to. 4k/64k have been around for a long time, close to 20 years. Demos are generally ""anything goes"" and for anything else there are usually a ""wild compo"".",1334438623
+3842030,comment,3841390,3841963,1,0,thejash,,,"Thanks for the links!<p>It's tough to find huge places, so if you (or anyone) knows of suitable places (>=6br), especially those NOT listed on craigslist/etc, please comment or send me an email.",1334438553
+3842029,comment,3841756,3841756,27,0,csallen,,,"Charlie Munger (Warren Buffett's partner) has kept a long-running list of psychological tendencies that commonly affect people's judgment. There's one item on this list that he's termed ""Availability-Misweighing Tendency."" In a nutshell, it's an observation that people tend to overweigh extra-vivid evidence, which (necessarily) means <i>under-weighing</i> evidence that isn't so vivid.<p>In this case, the extra-vivid evidence is the Instagram acquisition. It's been analyzed, or at least covered, by every blog and news network I can think of. I'm sure it's clogging most of our Twitter feeds. I even have friends and relatives who know nothing about tech but want to talk about it. It doesn't get much more vivid than that. And even if it wasn't receiving so much coverage, a billion dollars is enough money to be vivid in-and-of itself.<p>The point is, if you're re-thinking your business strategy or personal goals based on this news, you should tread carefully. The remedy to overweighing extra-vivid evidence is to always make it a point to seek out other side of the story. So I agree with Mark when he encourages ""all other companies to do the harder work of finding out what happens in the 99.9% case, which is what is often never written in the annals of the tech news media.""",1334438532
+3842028,comment,3840241,3840241,2,0,auntjanetreno,,,"she had a restraining order on HER for stalking! (Score:0)
+by Anonymous Coward on Saturday April 14, @12:18PM (#39685675)<p>and also from her own blog:
+>
+> Experiment Haywire's Blog
+> Sign up
+> Mar 22, 2009
+> Prometheus Burning threatens legal action against me for
+""stalking""
+> I hate that I need to share this with everyone but I feel that my
+> legal safety might be in danger and am making this post to ask for
+> advice. I am currently scared out of my mind.
+>
+> Remember the band that called me a ""lonely wannabe poser with no
+> musical skill"" and a ""hypocritical talentless hack"" after staging
+> public drama with me for publicity? The band that harassed me to
+> the point where I actually had to call my sick mother for help? My
+> mother was conservative enough to file a DMCA charge against this
+> band for posting a private email of mine to the public. While I
+did
+> not want this private email posted and felt an extreme sense of
+> violation I strongly disapproved of my mother's actions regarding
+> the DMCA. (an organization which I utterly despise) In the end my
+> mother was in critical medical condition and was simply trying to
+> get this band to leave me alone- yet when she brought the DMCA
+into
+> this I was furious.
+>
+> I recently emailed the band and apologized for the actions of my
+> mother. I mentioned that I liked their music and that I would like
+> to put the past behind us. I used to be on good terms with this
+> band. I was a constant promoter of their music and spun them
+> consistently as a DJ in NYC when nobody else had heard of them. We
+> had mutual friends and (as far as I saw it) absolutely no reason
+to
+> perpetuate any conflict between us. I planned to support them on
+> tour along with Caustic and The Gothsicles in Atlanta. I figured
+> that it would be a great time.
+>
+> Until they told me the following on a public forum:
+>
+> ""We have saved every email and message you have sent to Nikki. We
+> have saved every message, bulletin, etc. you have posted that
+> mentions us and we have saved every post you ever made on these
+> forums and others that mention us. Your stalker behavior is well
+> documented by us and by our lawyer. We have not taken the steps to
+> get a PFA against you as of yet, but we have more than enough
+> documentation to do so when we feel it necessary."" -Prometheus
+> Burning
+>
+> Just wow. I don't appreciate people making false accusations about
+> me and I certainly don't appreciate being threatened with a lawyer
+> for a crime that I did not commit. Most importantly though: do
+they
+> have any idea what stalking actually is? As someone who has been
+> stalked before (and I'm not just talking about ex-boyfriends
+> failing to leave me alone but an actual sociopath making constant
+> threats against the lives of me and the people dear to me) I am
+> strongly offended by the way this band has used the term
+""stalking""
+> to refer to my attempt at a peaceful resolution. Stalking is not a
+> joke. If you have ever been stalked before you know what it's like
+> to beg for your stalker to leave you alone only to be told not to
+> further engage him. If you have ever been stalked before you know
+> what it's like to walk into a public place in fear of your life.
+If
+> you have ever been stalked before you know that horrible sinking
+> feeling you get when your stalker contacts you. It is not a
+> pleasant feeling. (to say the least)
+>
+> Stalking is not something to fuck around with. Accusing someone of
+> stalking is a lot like accusing someone of domestic abuse. If this
+> person didn't stalk or abuse you then you are minimizing the
+> struggles of thousands of individuals who are stalked and abused.
+> Many of these people have emailed me in tears to confide. Yet now
+> this band is claiming that I am stalking them. What can I do? I'm
+> being threatened with legal action for a crime that I did not
+> commit. A crime that I myself have been a target of.
+>
+> At least there is some comic relief to this story. I was trying to
+> understand the motivation behind all of their harassment. At first
+> I didn't pay any attention to the messages I was getting from
+> friends who were telling me this band was now ripping off my vocal
+> style. I honestly didn't give a fuck because I had other things to
+> focus on. Yet when they started threatening legal action against
+me
+> for ""stalking"" I went to their myspace page. Behold.
+>
+> Did they rip off my vocals? I want to say no because my delivery
+is
+> a lot more punk rock but I couldn't help noticing that the lead
+> singer was now using my same vocal patterns, screaming/talking
+> style, word emphasis, etc. in their songs. This was not what was
+> most surprising to me though. What was surprising to me was that
+> these pseudo-occult types who were avid readers of Acidexia in its
+> blog form and readers of Generation Hex (the Disinformation chaos
+> magick anthology that you can find my writing in) were using every
+> concept I'd written about in Acidexia and Generation Hex for their
+> band.
+>
+> Their ""influences"" are as follows:
+>
+> Self Destructive Behavior
+> Sensory Deprivation
+> Transhumanism
+> Chaos Magick
+> Traumatic Childhood Experiences
+> Abusive Relationships
+> Bi-Polar Depression
+> Insomnia
+> Aleister Crowley
+> Panic Disorder
+> Vivid Dreaming and Nightmares
+> Clive Barker
+> The Black Arts
+> Robert Anton Wilson
+> Discordia
+> Genesis P Orridge
+> Timothy Leary
+> HR Giger
+> Tentacle Rape
+> Smoking crack while worshiping the Dark Lord
+>
+> With the exception of the tentacle rape and smoking crack it was
+> pretty much a word-for-word summary of Acidexia. Their lyrics
+> followed a similar rip-off mentality. Mother of Abominations? I
+was
+> writing about that when I was 17. The darker side of chaos
+magick?
+> Nope, never been there before! At this point it was just getting
+> hilarious and I started to see what was actually going on. This
+> band was trying to run me out by accusing me of ""stalking"" them so
+> people wouldn't see that they'd been ripping off my ideas with
+> their new album. Well here's some news for the entire occult
+> community: their new album is everything that I wrote about in
+> Acidexia before I even started Experiment Haywire.
+>
+> I'm also curious how much they actually know about chaos magick.
+> I'm not sure wearing a TOPY necklace counts as much of anything
+but
+> I could be wrong. This band wanted attention through having drama
+> with someone who wasn't well liked in the industrial scene. Now
+> they've got it. Again. I am sure they will enjoy the occult
+> attention too. Quit watering down chaos magick with your tribute
+to
+> 90's industrial. It's not good for the new paradigm.
+>
+> If anyone has any legal advice for me it would be much
+appreciated.
+> I apologize for having to post this but I'm not sure what else to
+> do. I am seriously freaking out.
+>
+> Thanks for listening,
+> Rachel Haywire
+>",1334438478
+3842027,comment,3841710,3841710,7,0,pornel,,,"That is a way to make non-REST API be more like REST.<p>REST APIs <i>must</i> be self-describing from the start. Those kinds of responses should be sent for GET requests!<p>This is a must-read clarification from Roy, as most ""REST"" APIs are less RESTful than HTML pages built on top of them:<p><a href=""http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven"" rel=""nofollow"">http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hyperte...</a>",1334438432
+3842026,comment,3841975,3841975,18,0,petercooper,,,"I agree with this guy to an extent. <i>Drinking</i> doesn't bother me, but I don't like ""parties."" High density socializing and musical/similar entertainment isn't for me (introvert), so it's great when events have something more focused and event related to attend (as well as the party, of course) rather than go watch TV in the hotel room (which, admittedly, I enjoy ;-))<p>At some events (especially smaller ones), ""parties"" can <i>seem</i> to be at the expense of things like BoFs (as he mentions), lightning talks, hackathons, etc, and when you have so much talent all in one place, it seems a shame to waste opportunities for it to come together productively.<p>Some of my best conference moments have been sitting around with 10-20 people in hotel lobbies talking or in empty conference rooms coding. The worst have been crammed into a bar and having to shout at strangers. As the author suggests, let the partiers party, but give some space to the squares too ;-)",1334438399
+3842025,comment,3841348,3841555,1,0,loverobots,,,"There is some truth in that but until Google+ is ""mom""friendly it will go nowhere.",1334438373
+3842024,comment,3841370,3841913,2,0,tptacek,,,"Nobody is suggesting it costs $44,000 to write a ""trivial shell script"".",1334438345
+3842023,comment,3841705,3841705,1,0,akshaykarthik,,,"How would this metric work for websites that load real-time dynamic content? For example, if a website loads quickly then slowly streams data from the back end, how would this metric account for that?",1334438318
+3842022,comment,3840979,3840979,1,0,donniezazen,,,"I am still not sure why everyone should learn programming. Every few days I read about how to learn programming not to mention codecademy and other website. Is it more of a computer literacy thing or is their a huge requirement of auto-didact programmer?",1334438315
+3842021,comment,3841390,3841894,1,0,thejash,,,"I'm not looking for profit in this--it's a horrible business idea  :)  I'll be happy if I get to meet some interesting people and don't lose all that much money.",1334438245
+3842020,story,,,1,0,vgnet,"The Digital Public Domain: Foundations for an Open Culture [free book]",http://www.communia-association.org/2012/04/14/the-digital-public-domain-foundations-for-an-open-culture/?utm_source=rss&utm_medium=rss&utm_campaign=the-digital-public-domain-foundations-for-an-open-culture,,1334438244
+3842019,comment,3838985,3840851,1,0,waqf,,,"The claim ""my country does not"" would be more compelling if you named the country.",1334438209
+3842018,comment,3840830,3840830,0,0,dsirijus,,,"Actually, demo scene could get some jobs if flash player 3d content spins well. Anything procedural is great in there.",1334438172
+3842017,comment,3841390,3841932,1,0,larrys,,,"I'm thinking of it similar to how corporations want their names on rooms and/or buildings at colleges.  Showing a level of support which, while not a quid pro quo, shows support in a way that isn't directly linked to a benefit.<p>The support could come as monetary support and maybe doing the thing that PG doesn't have the time for as mentioned here (coordinating housing):<p><a href=""http://news.ycombinator.com/item?id=3650877"" rel=""nofollow"">http://news.ycombinator.com/item?id=3650877</a>",1334438159
+3842016,comment,3838880,3839734,2,0,raphman,,,"The parent compared Valve to <i>Google's work environment / culture in the early days</i> - not as of today.",1334438158
+3842015,comment,3841390,3841898,1,0,thejash,,,"I agree with everything you said.<p>Hopefully you signed up and made a note about your preference for a remote area?",1334438142
+3842014,story,,,1,0,gambler,"Couple of ideas for preventing hash bruteforce attacks",http://bitroar.posterous.com/couple-of-ideas-for-preventing-hash-bruteforc,,1334438096
+3842013,comment,3841785,3841785,2,0,namank,,,"Where does Google Plus fit into this with its Circles?",1334438040
+3842012,story,,,4,0,Nurdok,"Refactor for Equal Levels of Abstraction",http://blog.amir.rachum.com/post/21103404229/refactor-for-equal-levels-of-abstraction,,1334437986
+3842011,comment,3839925,3841311,1,0,VMunnangi,,,Yes,1334437964
+3842010,comment,3842007,3842007,1,0,Mistone,,,"So much life and startup game here its unbelievable.",1334437934
+3842009,comment,3839925,3841726,1,0,VMunnangi,,,Python,1334437930
+3842008,comment,3841390,3841946,1,0,thejash,,,"That's true.  But on the other hand, imagine this situation:<p>3 teams with 3 people.  The house has 7 br.  2 teams each buy 3 br (for a total of 6 of the 7 being used), then the other team buys 1 br, and they all always work from and hang out at the house.  It would be lame that that 3rd team was paying 1/3rd the cost of each of the other teams.  So this formulation was an attempt to account for that.<p>Basically, my theory is--be reasonable.  If you're using 42% of the house, you should pay 42% of the costs.  I'm happy to adjust the costs to make it work out in a reasonable way.",1334437926
+3842007,story,,,1,1,Mistone,"The Great Big Lil B NYU Lecture Cheat Sheet",http://www.grantland.com/blog/hollywood-prospectus/post/_/id/47624/the-great-big-lil-b-nyu-lecture-cheat-sheet,,1334437898
+3842006,comment,3839568,3839786,1,0,macspoofing,,,">I find it hard to believe that receiving 30 attachments in quick succession would trigger an IDS.<p>Believe it. It happened.<p>>what did you have to do to get the account reenabled?<p>Waited a few hours, and it was reenabled automagically.",1334437895
+3842005,comment,3841463,3841966,4,0,cstross,,,"Yes, I have read ebooks on a palm. And on a Psion 5 before that. (I started reading ebooks around 1996-97 and have been banging on about them ever since.)<p>Yes, O'Reilly. Yes also Baen (via Webscription.net). But there wouldn't be a mass ebook market at this point if the big publishing conglomerates -- who produce 80% of the books sold -- weren't on board with ebook publishing.",1334437885
+3842004,comment,3840861,3841786,2,0,AlexFromBelgium,,,"Android: Java",1334437846
+3842003,comment,3840595,3841374,1,0,auntjanetreno,,,"Ms. Jaeger:<p>It has come to my attention that Rachel Mendelson aka ""Rachel Marone"" aka ""Rachel Haywire"" aka ""Transhuman X""  may be allowed to use kickstarter again only 2 years after she took $3,000 with a fraudulent kickstarter effort.  People are angrily posting on this page even as of a few months ago, and she has no plans to print the CD or to make any of the charitable contribution percentage she promised from this project.  Please do not allow her to make any more kickstarter efforts, and defraud more people.  Here is the page and the comments from people who never got their CD from her.  By kickstarter's own rules, she should be required to return the donations at this point, not start a new fraudulent kickstarter campaign.  She is very likely to start a new kickstarter account called 'Rachel Marone', be aware she is abusing kickstarter for financially fraudulent purposes.<p>Here is the link to the project that never did anything but take money:<p><a href=""http://www.kickstarter.com/projects/machinekuntrecords/sanity-is-slavery"" rel=""nofollow"">http://www.kickstarter.com/projects/machinekuntrecords/sanit...</a><p>where you can see comments of complaint from its backers:<p>""If youre a backer of this project, please log in to read this post.
+3 of 4
+View Previous Comments<p><pre><code>        Fb_profile_picture.thumb
+        Erik Roy Tomren on September 26, 2011
+
+        so when is this coming out? the hard copy version, not the download.
+        1.thumb
+        Cat on February 24
+
+        It's a year after this posting, almost two years after this was funded, and I have yet to receive my hard copy of this album. Very displeased. :/
+        Fb_profile_picture.thumb
+        Steve Cross on March 15
+
+        Is the hard copy ever going to appear. A further update would be nice. I am not very happy!!</code></pre>",1334437831
+3842002,story,,,3,0,starrhorne,"The Unexpected Benefit of Being a Nomadic Freelancer: Taxes",http://www.starrhorne.com/2012/04/13/tax-benefits-of-nomadic-expat-freelancing.html,,1334437816
+3842001,comment,3841721,3841994,11,0,gnu8,,,"An eBook is an abstract thing you can't be sold out of, but integrity and desire to disseminate information freely are.",1334437812
+3842000,comment,3840559,3841552,1,0,auntjanetreno,,,"Ms. Jaeger:<p>It has come to my attention that Rachel Mendelson aka ""Rachel Marone"" aka ""Rachel Haywire"" aka ""Transhuman X""  may be allowed to use kickstarter again only 2 years after she took $3,000 with a fraudulent kickstarter effort.  People are angrily posting on this page even as of a few months ago, and she has no plans to print the CD or to make any of the charitable contribution percentage she promised from this project.  Please do not allow her to make any more kickstarter efforts, and defraud more people.  Here is the page and the comments from people who never got their CD from her.  By kickstarter's own rules, she should be required to return the donations at this point, not start a new fraudulent kickstarter campaign.  She is very likely to start a new kickstarter account called 'Rachel Marone', be aware she is abusing kickstarter for financially fraudulent purposes.<p>Here is the link to the project that never did anything but take money:<p><a href=""http://www.kickstarter.com/projects/machinekuntrecords/sanity-is-slavery"" rel=""nofollow"">http://www.kickstarter.com/projects/machinekuntrecords/sanit...</a><p>where you can see comments of complaint from its backers:<p>""If youre a backer of this project, please log in to read this post.
+3 of 4
+View Previous Comments<p><pre><code>        Fb_profile_picture.thumb
+        Erik Roy Tomren on September 26, 2011
+
+        so when is this coming out? the hard copy version, not the download.
+        1.thumb
+        Cat on February 24
+
+        It's a year after this posting, almost two years after this was funded, and I have yet to receive my hard copy of this album. Very displeased. :/
+        Fb_profile_picture.thumb
+        Steve Cross on March 15
+
+        Is the hard copy ever going to appear. A further update would be nice. I am not very happy!!</code></pre>",1334437811
+3841999,story,,,1,0,gyspox,"UEFA EURO 2012 (Add-On zu FIFA 12)",http://cd-keys.at/de/sport/1163-uefa-euro-2012-add-on-zu-fifa-12.html#.T4nnol7qoLQ.hackernews,,1334437805
+3841998,comment,3839568,3839732,1,0,macspoofing,,,"I wish I knew.",1334437800
+3841997,story,,,7,0,relaunched,"How To Win At State Fair Games",http://artofmanliness.com/2011/09/26/how-to-win-state-fair-games/,,1334437761
+3841996,story,,,8,2,alwillis,"Twitter Upset about Facebook-Instagram Acquisition",http://venturelevel.com/post/20790984819/twitter-upset-about-facebook-instagram-acquisition,,1334437744
+3841995,story,,,1,0,admp,"24/7 in Europe",http://karolihindriks.tumblr.com/post/21086677316/24-7-in-europe,,1334437736
+3841994,comment,3841721,3841980,1,0,Inufu,,,"Haha, how can you be sold out of an eBook? Besides, it's a free download.",1334437723
+3841993,comment,3841817,3841817,2,0,tolitius,,,"how cool would a white Thinkpad be looking like a a beautiful Macbook Air...<p>I hope Lenovo gets their shit together and release a sexy version of Thinkpad with Apple's trackpad. So I am no longer hooked on Apple and can get back to Ubuntu, as it is a far more superior platform for development.<p>Until then, a touchpad alone on my Mac Book Pro kills all the laptop wannabes..",1334437704
+3841992,comment,3841370,3841549,1,0,jeebus,,,"I agree.  This seems at this time to focus on the already easy to install/configure parts (a Ruby build and Rails gem) and not the harder items (like Nginx).",1334437685
+3841991,story,,,2,0,charlie_joslin,"Which company do you distrust more?",http://gopollgo.com/which-company-do-you-distrust-more,,1334437678
+3841990,story,,,1,0,vgnet,"Emerging illustrators internship helping Wikimedia Commons: first results",http://theglamwikiexperience.blogspot.com/2012/04/emerging-illustrators-internship.html,,1334437677
+3841989,comment,3841647,3841647,4,0,noahnoahnoah,,,"This is the second long-form piece about Caro and his new book I've seen this week (the other is in tomorrow's New York Times magazine - <a href=""http://www.nytimes.com/2012/04/15/magazine/robert-caros-big-dig.html?hpw"" rel=""nofollow"">http://www.nytimes.com/2012/04/15/magazine/robert-caros-big-...</a>). Interesting how similar the facts they tell are, but the angle is very different in each.<p>Great PR by his agent no doubt, but both enjoyable reads -- well worth the time to read them both.",1334437641
+3841988,comment,3840861,3841906,2,0,madmoose,,,"Actually, I was just wondering today how Cyberduck managed to be so sluggish on my computer.<p>They've certainly gotten the look and feel right, because I didn't realize it was a Java application, but it is pretty sluggish, at least on my machine.",1334437613
+3841987,comment,3841463,3841926,2,0,noelwelsh,,,"I don't think LCD is superior to e-paper for reading. I just think LCD is good enough for most people already (in the high resolution iPad) and there is at least some possibility that a non-light emitting display with colour and fast refresh will be developed.",1334437562
+3841986,story,,,45,5,vgnet,"How eBay could help Wikimedia Commons get more open-licensed images",http://pigsonthewing.org.uk/ebay-could-help-wikimedia-commons-open-licensed-images/,,1334437557
+3841985,story,,,12,11,amirnathoo,"Future of Mobile: a case of HTML5 or iOS really?",http://trigger.io/cross-platform-application-development-blog/2012/04/14/future-of-mobile-a-case-of-html5-or-ios-really/,,1334437550
+3841984,comment,3837493,3838617,1,0,Zarel,,,"It's interesting. Reading through the list, it was a lot of ""things I learned a long time ago"" interspersed with ""things I learned fairly recently"".<p>Having started doing web development before Django and jQuery were released, I definitely learned about JavaScript debuggers, POST requests, CAPTCHAs, AJAX (which, by the way, was positively painful before the invention of JSON), XHTML and the validation thereof, fake CAPTCHAs, cookies, passing session IDs in GET requests for people who block cookies, returning dynamically-generated images to an HTTP request... long before I ever learned about web frameworks, ORM, or any of those things.",1334437507
+3841983,comment,3840657,3840847,3,0,gambler,,,"My thoughts exactly. Worse, it's not the only problem like this, even though it's probably the most common and annoying one, and the one that's not solved well by various workarounds. (Date picking is a close second. And yes, I'm aware of the corresponding HTML5 input type. It's still not supported in any major browsers.)<p>I don't understand why this isn't solved, but even more so I don't understand why most people seem to be perfectly happy with the current state of things. In fact, I get the impressions most web developers <i>like this</i>. They like writing scripts to solve trivial problems or finding obscure scripts that do it for them. Makes them feel helpful and important, or something. Me? Makes me angry. This should have been conclusively solved a <i>decade</i> ago.<p>I'm seriously considering writing my own toy browser. Not that someone will use it, but at least I will be able to tell for sure how difficult is it to solve all these trivial problems.",1334437459
+3841982,comment,3841817,3841904,1,0,asselinpaul,,,"true, talking about extras, a matte display would also be good.",1334437449
+3841981,story,,,2,0,georgecmu,"Everything is a Remix (video)",http://vimeo.com/36881035,,1334437447
+3841980,comment,3841721,3841973,4,0,gnu8,,,"Perhaps they've sold out and your only options are to read it on their web site or purchase an Amazon DRMed eBook version.",1334437419
+3841979,comment,3841710,3841972,1,0,eloisius,,,"I've never used svn, so I was unaware. Nice to know though. I want to see how it is being used so I have more ideas of how to push it further.",1334437401
+3841978,comment,3824247,3829888,1,0,nupark2,,,"> <i>Yes, this is a trite and negligible truth of PHP. A developer suffering any significant loss of productivity due to problems like mismatched needle/haystack parameters just isn't very competent. It's a non-issue if the developer is being paid a real salary. I'm not saying these issues aren't important enough to warrant attention, but the debate between maintaining backwards compatibility and squashing bad practices certainly isn't exclusive to PHP.</i><p>You're just hand-waving away the issue. ""Yes, you have to keep far more in your head at once to make sure you don't step on a PHP landmine, but that's why we're paid the big bucks!""<p>I'm sorry, but this is a false dichotomy and an inaccurate parallel with C. C's landmines are well-defined, understood, and derive from the target purpose (portable assembly). PHP's landmines are ambiguous, ill-defined, and just plain stupid, often caused by what amounts to a truly brain-dead lack of cognitive effort on behalf of the language authors. The language is poorly specified such that even if a developer should wish to invest sufficient effort, it's impossible to know where they all are.<p>Moreover, there are such ugly corner cases built into the language and common libraries that some landmines are entirely unavoidable. Whose brilliant plan was it to make fopen() accept URL parameters instead of defining a common stream API that arbitrary stream types could support?<p>Let's say I want to treat a byte array as a stream -- this is a pretty common thing to do in most languages:<p><pre><code>  fopen('data:text/plain;base64,'.base64_encode($data), 'rb');
+</code></pre>
+Are you bloody kidding me? That's just the smallest, tiniest tip of the PHP iceberg of stupid-in-action.<p>> <i>And did that inertia spontaneously emerge from a vacuum? In the spirit of PHP's namesake you've devised a recursive argument to explain the only conceivable upside to using PHP.</i><p>PHP's inertia emerged out of ill-qualified individuals adopting the language as the most visible available option during a time when there was largely a dearth of options and limited understanding of the web as a platform and ""what comes next"" from CGI.<p>People -- collectively, as a group -- adopt poor solutions to their problems, simply as a matter of compounding gravitation and a lack of understanding of the long-term implications.<p>It's simple group decision making, and it's not reasoned, nor is it necessarily likely to produce the best possible answer, or even a good one -- <i>especially</i> when the group in question is ill-equipped to understand the problem space they're working in.",1334437355
+3841977,story,,,65,30,vgnet,"OmniOS: Illumos-based OS from OmniTI",http://omnios.omniti.com/,,1334437324
+3841976,comment,3836978,3836978,1,0,regularfry,,,"Let's say I wanted to do a native, or JVM-hosted, version of this. Which toolkits could I turn to?",1334437228

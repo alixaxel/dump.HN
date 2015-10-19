@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32091,comment,32085,32085,0,0,sabhishek,,,"I m still workin on my prototype :(, best of luck to all who are applying this time.",1183402794
+32090,comment,32088,32088,0,0,sajidu,,,"This is a hard problem.<p>If your app isn't successful then there's nothing to worry about.<p>But what if your app is super successful? How would you ever be able to secure enough servers to meet the demand without burning a very deep hole in your pocket?<p>What we need is a Y-Combinator like incubator for Facebook Apps - a company which will host your app and help you scale it up for a chunk of equity. ",1183402608
+32089,comment,32085,32085,0,0,Alex3917,,,"I will not be applying a third time. Good luck to all those who do though.",1183402382
+32088,story,,,9,10,djworth,"Where/How are you hosting your Facebook App?",,,1183402144
+32087,comment,32052,32078,0,0,mattculbreth,,,"Don't forget NeXT.  I loved those things.",1183402102
+32086,comment,32052,32077,0,0,mattculbreth,,,"Look at it as a business expense.  I actually am since my software needs to have some good mobile functionality. ",1183402084
+32085,story,,,60,101,pg,"Applications Open for Winter 2008 YC Funding",http://ycombinator.com/w2008.html,,1183401503
+32084,comment,32082,32082,0,0,terpua,,,"1st 3 emails get them",1183401434
+32083,comment,32052,32052,0,0,zach,,,"Good news, everybody!  Now you have to make sure your site works on another platform!<p>But seriously, that really is good news.  There are half a million people in the US who are excited enough about good new technology to throw down some serious cash as soon as it comes out.<p>Plus they all have the first phone with desktop-grade web browsing capability on a great browser.  They can be the core of the next great mobile app, which doesn't need any carrier approval.  Did I mention what a great demographic this is for advertisers?<p>This is awesome.",1183401416
+32082,story,,,2,5,terpua,"3 invites for Pownce",,,1183401409
+32081,comment,32056,32072,0,0,willarson,,,"In general I would like to throw PlentyOfFish out as a bad data point. His experience has been atypical, although he doesn't seem to agree.<p>He was a single founder, and he did everything himself... which is better phrased as 'everything that got done, he did'.<p>
+He didn't have any plan or roadmap; he went along and did what he wanted to, and it worked out well.<p>
+Much (most?) of his revenue comes from Google AdSense, which has not been as generous to many other who have chosen it as their primary source of revenue (this is largely helped by his site being lower on resources (some pictures and a lot of text), instead of media intensive).",1183401215
+32080,comment,32056,32056,0,0,waleedka,,,"
+If funding reduces your share to X of it's current value, then it should increase the value of your company to, at least, 1/x of it's current valuation. <p>For example, if funding reduces your 100% ownership to 25% (x = 0.25), then you'll have to multiply the value of your company by 4 (1/.25) to end up with the same valuation. If you think funding will push you beyond the 4x, then it's a good deal.",1183401054
+32079,story,,,2,3,smg,"Which startup would you work for? Or What are the criteria in selecting between multiple offers?
+",,,1183400699
+32078,comment,32052,32052,0,0,far33d,,,"Most people are lucky to innovate once in a lifetime. Steve-o has done it over and over again.<p>- original apple<p>- macintosh<p>- iPod / iTunes<p>- os x mac<p>- Pixar<p>- iPhone<p>A big piece of innovation is knowing what people to trust, and he's definitely been a good picker. 
+",1183400408
+32077,comment,32052,32052,0,0,mynameishere,,,"I can't wrap my head around the price. I'd seriously rather blow 600 dollars on a bottle of wine. At least it would be a <i>real</i> status symbol.",1183400353
+32076,story,,,7,1,tim_sw,"Firefox Add-on for Scribd",http://addons.mozilla.org/en-US/firefox/addon/5103,,1183400109
+32075,story,,,2,0,toffer,"How to track pageviews for individual pages in Facebook apps with Google Analytics",http://www.yeeguy.com/?go=bl&more=1183348929,,1183399998
+32074,comment,32053,32054,0,0,pg,,,"I don't know of anything except <p><a href=""http://ycombinator.com/topvcs.html"" rel=""nofollow"">http://ycombinator.com/topvcs.html</a><p>In fact, that's why we had to make it; we wanted to know
+ourselves.",1183399573
+32073,comment,32056,32056,0,0,ph0rque,,,"""What would you rather own, 100% of something or 5% of a dream?""<p>This goes directly against what I've heard before: ""a small piece of a big pie is better than a large piece of nothing.""",1183399415
+32072,comment,32056,32056,0,0,pg,,,"He has a point, though he's wrong in a lot of details.  It's true that one of the best ways to make a lot of money out of a startup is not to raise too much.<p>What he doesn't seem to get is that some startups actually cost a lot to start.  Loopt, for example, could not have been built without VC scale money.  If you want to do something like that (or Google), you need millions.  And if you succeed, you end up rich.  Ending up with 10% of the company is not so bad if the company is worth a billion dollars.<p>Also, his statistics are junk.  That ""government report"" showing that most small businesses are still in operation after 4 years has nothing to do with startups.  The small businesses they're talking about are plumbers and shoe shops. The success rate is lower for startups.  Which makes sense, because the payoff, if the company succeeds, is much higher.",1183399319
+32071,story,,,1,0,mattculbreth,"In-depth review of iPhone",http://informationweek.com/news/showArticle.jhtml?articleID=200001857&pgno=1&queryText=,,1183399270

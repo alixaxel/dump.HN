@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+216658,comment,216563,216563,0,0,jrockway,,,"Nice graphs.  I like how he swaps the colors between them, just to make it extra-confusing.",1213350904
+216657,story,,,1,0,pmjordan,"AMD releases R600 GPU spec to open-source radeonhd X.org driver",http://www.scribd.com/vacuum?url=http://www.x.org/docs/AMD/r600isa.pdf,,1213350526
+216656,story,,,2,1,terpua,"LinkedIn Could Replace Outlook and SalesForce",http://www.readwriteweb.com/archives/could_linkedin_replace_outlook.php,,1213350469
+216655,comment,216381,216381,0,0,nazgulnarsil,,,"the AI and Bayesian stuff is OB's strong suit.  I don't think they've made their pet QM case very well.",1213350462
+216654,comment,216563,216652,0,0,sutro,,,"For me, both sites conjure up visions of number two.",1213350320
+216653,story,,,1,0,timr,"Intel shows off 70 different research projects — mostly not chips",http://venturebeat.com/2008/06/13/intel-shows-off-70-different-research-projects-mostly-not-chips/,,1213350243
+216652,comment,216563,216563,0,0,nazgulnarsil,,,"how do you stay number one?
+by competing like you're number two.",1213350211
+216651,story,,,2,0,timr,"MySpace is a Good Website and You Should Stop Complaining About It",http://www.readwriteweb.com/archives/myspace_is_a_good_website.php,,1213350159
+216650,comment,216400,216584,0,0,icky,,,"> But Zed would know what to do.<p>WWZD?",1213350121
+216649,comment,215820,215932,0,0,nazgulnarsil,,,"I forget what the cognitive bias is called, but the gist is ignoring similarities and magnifying differences.  It's a prime motivator in negative race relations too.",1213350073
+216648,comment,215820,216576,0,0,nazgulnarsil,,,"I've had the same thing happen, no support in class, then afterwards people come up to me and ask me about further reading on the subject/unpopular opinion.<p>try this on for size in a government class sometime: the founding fathers were terrorist tax evaders and democracy is a stupid idea.  People have no idea how to react, it hurts their brain to go that far outside ""normal thinking"".",1213349936
+216646,comment,216616,216645,0,0,lilspikey,,,"Ah, so that sounds more like a problem with IDLE than with Python itself.<p>You shouldn't have any issues running Python interpretors normally.",1213349904
+216645,comment,216616,216643,0,0,aitoehigie,,,"The error is ""IDLE's subprocess didn't make connection. Either IDLE can't start a subprocess or personal firewall software is blocking the connection""
+I always ensure that the Python interpreter is part of my firewalls exceptions so it is never blocked.",1213349709
+216644,comment,216616,216616,0,0,aitoehigie,,,"I will really like to know how the Global Interpreter Lock really works in relation to single and dual core processors.
+Thanks",1213349451
+216643,comment,216616,216616,0,0,Erwin,,,"What error message?",1213349408
+216642,comment,216616,216639,0,0,aitoehigie,,,"The old system was a 256MB ram with a Celeron M processor.",1213349302
+216641,comment,216323,216442,0,0,paulsb,,,"I also read that they were thinking about having entrance exams as well.",1213349132
+216640,comment,216297,216297,0,0,xirium,,,"Is Clean Room Software Development orthogonal to Test Driven Development or not? Clean Room minimises tests; Test Driven maximises tests. Clean Room minimises side-effects when code is written; Test Driven minimises side-effects when code is changed.",1213349074
+216639,comment,216616,216616,0,0,lilspikey,,,"That's strange.  I can quite happily run multiple Python interpreters on my ageing (single core) 12""PB.  Perhaps it was more of a memory usage issue?",1213348959
+216638,comment,216425,216425,0,0,tlrobinson,,,"In high school I was always able to find people who needed basic websites coded up. Of course most of it will probably be boring static HTML and CSS type stuff.",1213348628
+216637,comment,215820,215820,0,0,icky,,,"<i>> He — an Xer — was running late for a meeting, and</i><p>Let us all learn to be responsible adults, like Generation X!",1213348507
+216636,comment,216050,216050,0,0,tlrobinson,,,"Charles (<a href=""http://www.charlesproxy.com/"" rel=""nofollow"">http://www.charlesproxy.com/</a>) is also great for HTTP debugging and performance testing. It's got a cool ""throttle"" feature that lets you simulate slower connections.",1213348317

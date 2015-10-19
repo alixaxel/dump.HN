@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+126593,story,,,23,7,antiform,"How I Overcame My Math Blocks",http://www.deepastronomy.com/how-i-overcame-my-math-blocks.html,,1204354436
+126592,comment,126540,126540,0,0,randomhack,,,"I am not so sure. Maybe the wages will stop rising? Once companies start to lose business, they will fire employees, creating an oversupply of workers and thus driving wages down?",1204354317
+126591,comment,126360,126547,0,0,Xichekolas,,,"I have that exact keyboard myself. Say what you want about Microsoft, but their mice and keyboards are awesome.<p>I don't usually find the symbols to be a problem, but I'm tempted to try that top row switch just to avoid hitting shift so much.",1204354091
+126590,comment,126502,126530,0,0,asdflkj,,,"It is. These men didn't come to her door with their solicitations, and when she sought them out, they were completely upfront about everything. She, on the other hand, deliberately wasted their time, for her own fun and profit. ""Sleaze"" indeed.<p>I don't know what's more disgusting, that or her ignorance of basic economics, where she thinks his income is somehow relevant to how much the use of her vagina is worth.",1204354025
+126589,story,,,2,0,iamelgringo,"Why Startups Fail: They Run Out Of Cash",http://www.internetfinancialnews.com/financialblogtalk/news/ifn-6-20080229WhyStartupsFailRunOutOfCash.html,,1204353764
+126588,comment,126360,126549,0,0,Xichekolas,,,"I can switch back and forth quite easily. I use dvorak the vast majority of the time, but when I play games I use qwerty because remapping all the hotkeys just takes too long. (And it's hard to hit the right key when you glance down and see the wrong letter in a game.)<p>Since most online games require a lot of chatting, I have lots of practice actually typing real stuff in both fairly quickly.",1204353748
+126587,comment,126502,126502,0,0,tomjen,,,"Why didn't I think of that. Damn.",1204353552
+126586,comment,126480,126480,0,0,albertcardona,,,"I hosted half a dozen low traffic websites at home with a very old pentium III with 64 mb of RAM, running FreeBSD 5.3 (that was a while ago) and apache. We had a DSL with a fixed IP.
+FreeBSD did a very nice job at distributing the load. The machine was always responsive.
+We throw it away when moving out.",1204353290
+126585,story,,,1,0,iamelgringo,"Boto:  Python interface to Amazon Web Services and SimpleDB",http://code.google.com/p/boto/wiki/SimpleDbIntro,,1204353222
+126584,comment,126360,126549,0,0,rw,,,"I learned Dvorak in high school, used it for about three months. Ultimately, I went back to qwerty because I, too, have an incredibly hard time switching between the two. I wasn't about to restrict myself to only using Dvorak-enabled computers.",1204353079
+126583,comment,126502,126578,0,0,cglee,,,"Shouldn't there always be a balance between what people want and what they need? (ex. hard drugs, suicide, ajax)",1204352999
+126582,comment,126450,126450,0,0,dfranke,,,"What's SXSW?  When I read ""scheduler"" I started trying to parse it as a locking scheme.  ""Shared eXclusive Shared Write?  WTF does that mean?""",1204352977
+126581,comment,126450,126558,0,0,jamesbritt,,,"Great, thank you very much.",1204352928
+126580,comment,126361,126567,0,0,slackerIII,,,"The sharding thing is such an interesting problem.  I'm thinking about the case where a user searches for ""A B"".  Assume A has a few million matching IDs, B also has few million, and (of course) the indexes for A & B are stored on different servers.  Do you have to pull the full result sets for A & B back to a single aggregator to intersect them?  I'd love to learn more about the optimizations for that problem.",1204352809
+126579,comment,126502,126530,0,0,rms,,,"In a moral sense?",1204352645
+126578,comment,126502,126530,0,0,evilneanderthal,,,"so long as nobody's acting against their will, i can't take issue with it.",1204352443
+126577,comment,126288,126496,0,0,neilk,,,"I'm about the same way. Rather than blame the language or circumstances though, perhaps we should both look to see what habits we can develop to improve. Even a little improvement will mean an extra hour or so per week.",1204351682
+126576,story,,,2,0,gibsonf1,"Apple gears up for June launch of 3G iPhone",http://technology.timesonline.co.uk/tol/news/tech_and_web/article3460650.ece,,1204351425

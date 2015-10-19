@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1017,comment,1016,1016,0,0,amichail,,,"Just to take one example, one might build a service where users invent board games. This could be done using human-based genetic algorithms:
+http://en.wikipedia.org/wiki/Human-based_genetic_algorithm.  Users of the service would be able to modify rules to try to make a game more fun. A fitness function would take into account how popular various game variants are among players. Note that users of such a service need not be programmers: the domain is sufficiently restricted so as to make visual point-and-click rule creation/modification possible.",1172414452
+1016,story,,,1,2,amichail,"Any thoughts on collaborative invention (e.g., using human-based genetic algorithms)?",,,1172414293
+1015,story,,,35,9,Nick_Smith,"Inside Myspace.com - (great info on how they scaled)","http://www.baselinemag.com/article2/0,1397,2082921,00.asp",,1172414127
+1014,comment,1014,957,0,0,Alex3917,,,"That is actually what a guy I know from Wilson Sonsini says: Sell the product, design the product, build the product.<p>I think it is the best strategy provided that A) you are targeting businesses B) your software fills a need of a very specific niche.<p>Regardless of whether you literally sell the product first though, I think it's good to at least think about the process in that order. ",1172413671
+1013,comment,363,363,0,0,volida,,,"Bug: I think there is a bug when you edit one of your comments. Instead updating seems there is a new entry?",1172413405
+1012,comment,1012,959,0,0,Alex3917,,,"You know your country doesn't have many role models when Alex Tew is considered the poster child for a successful Internet entrepreneur.",1172413316
+1011,comment,363,393,0,0,volida,,,"Probably they dislike the content and not the posting itself.",1172413280
+1010,comment,1010,856,0,0,volida,,,"Ebay bought its Chinese clone for hundreds of millions of dollars",1172413027
+1009,comment,1009,856,0,0,volida,,,"Ebay bought its Chinese clone for hundreds of millions of dollars, which afterwards collapsed because after moving the servers outside China the service's data were going through word filtering (e.g. during login) and there were failures...
+",1172412920

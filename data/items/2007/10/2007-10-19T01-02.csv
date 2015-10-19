@@ -1,0 +1,65 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70098,comment,69908,69908,0,0,choward93,,,"We all know what this means, approach them at the end of their fiscal year when they haven't made enough acquisitions to meet their annual quota. Guaranteed buyout :P",1192759131
+70097,comment,70062,70086,0,0,pg,,,"This is terrible. I had no idea this had happened till now.  I am so sorry.  If I had known we'd accidentally sent these people an invitation to interview, we would have just gone ahead and interviewed them. <p>As far as I am concerned, this is the worst mistake YC has ever made, and we will try never to let this happen again.
+",1192759028
+70096,comment,70062,70069,0,0,mattmaroon,,,"Also, nobody has said diss in about a decade. Or in hacker terms, nobody has said diss since people wrote web apps in Perl.",1192758727
+70094,comment,70062,70062,0,0,rbrisita,,,"We got that e-mail, but I promptly replied that they sent us the wrong one.  Still waiting for the Boston invite. ;)<p>Will be interesting to see who got the invite and goes through to the 3 months.  Does any one document this?<p>Congrats to all who made it!<p>R.",1192758345
+70093,comment,70062,70062,0,0,jsjenkins168,,,"Congrats to all who got an interview! Make it count, because once you interview that is your only chance... ",1192758097
+70092,comment,70013,70013,0,0,bct,,,"The ""A-List"" is the biggest, least interesting, most incestuous wankfest around. Has Scoble ever actually <i>done</i> anything? Why do we care what he says?",1192757992
+70091,comment,70062,70062,0,0,andresoileau,,,"It's a hard email to swallow, but I'm going to continue my work. I was excited at the idea to be a part of Y-Combinator; it's tough to entertain the idea of pursuing your product with the support of peers and successful people. Then realize you're not going to have a chance to WOW Y-Combinator at the interviews in November, nor will you be there in January to love the three months. I know my idea is great and I can make it happen, call me if you want to join in - you have my number.",1192757973
+70090,comment,69763,69856,0,0,bct,,,"> Programming is a profession. Professions are hard. That's what makes them professions.<p>It could be a matter of tools, though; computing (ie. by hand) used to be a profession, but now we have calculators and spreadsheets and anyone can do a long series of sums.",1192757690
+70089,comment,70062,70068,0,0,DocSavage,,,"Ditto the thanks to the YC Staff for going through the slush pile.  Best of luck to those who got invited to Boston. <p>We didn't make the cut, so we're incorporating within the week, cementing our partnership with a 3rd team member (Columbia biz school prof), and immediately seeking funds from more conventional (although more dilutive) sources.  We are also looking for one more hacker to join us. We can pay $5k for sure (possibly more depending on alternative funding) + equity for Jan-Mar in Palo Alto area.  We're building a collaborative investing system that's quite different than the ones out there, and we have team members with deep domain expertise.",1192757664
+70088,comment,70048,70048,0,0,akkartik,,,"Interesting. 3 rebuttals:<p>1. VCs opportunistically pick companies they think will do well. They don't have a grand problem statement that their companies fit into.<p>2. A company's failure can be due to market characteristics or just mismatches in the team. How do you separate the two?<p>3. Do VCs want to be in the market research business? Are they equipped to learn from failure? Arguably not.",1192757605
+70087,comment,70062,70075,0,0,reidman,,,"Gooooooo fish!",1192757433
+70086,comment,70062,70062,0,0,rms,,,"Also, be grateful you weren't this guy.
+<a href=""http://distilled.wordpress.com/2006/02/23/ycombinator/"" rel=""nofollow"">http://distilled.wordpress.com/2006/02/23/ycombinator/</a> I think they got an interview for the round after, not sure if they got in from there.",1192757364
+70085,comment,69868,69984,0,0,bct,,,"> To know which method is called, you need to know the class of the receiver and the method name <p>Unless someone's been using metaclass trickery, eg.<p><pre><code>    array = []
+    def array.length; ""banana""; end
+    array.length # => ""banana""
+    [].length # => 0
+</code></pre>
+(you can do the same thing with []=, the example is just longer)",1192757039
+70084,comment,70062,70068,0,0,drm237,,,"At least we'll all qualify for a future version of Jessica Livingston's Hackers at Work book...being rejected at least once is a general theme of the interviews!",1192756883
+70083,comment,70062,70069,0,0,nextmoveone,,,"It's personal because everyone on our team put in personal time, meaning more time than we allotted for our normal procedures to apply. <p>It sucks to be rejected. I needed to vent somehow.",1192756877
+70081,comment,70073,70073,0,0,GammaStats,,,"By the way, these guys don't require a formal introduction. So networking is not too important too them. They profess that they are pro-underdog. So take a look! But don't ask them for the money that we will be getting from them or we will send you nasty emails every Thanksgiving!",1192756706
+70080,comment,70059,70078,0,0,DanielBMarkham,,,"Agreed. I made the edit. Thanks for the call. That was too crass. Sorry.",1192756644
+70079,story,,,1,0,bootload,"Who Will Own the Search Experience?",http://gigaom.com/2007/10/18/who-will-own-the-search-experience,,1192756613
+70078,comment,70059,70074,0,0,yrashk,,,"I think that losers party is a loser's pattern. Non-accepted people are not losers.<p>Rejection is a good chance to prove the opposite, either alone or with others.",1192756516
+70077,comment,70062,70062,0,0,rms,,,"last cycle's thread: <a href=""http://news.ycombinator.com/item?id=11496"" rel=""nofollow"">http://news.ycombinator.com/item?id=11496</a>",1192756475
+70076,comment,70062,70062,0,0,henryw,,,"Congrats to all those who made it. For those who didn't, it's time to work even harder.",1192756417
+70075,comment,70062,70062,0,0,ROFISH,,,"Good thing they're finally out. I've been driving myself crazy for the past week. (no dice here)<p>Frankly, now that the worry and anxiety is over, I can now focus my leftover time on building my idea.",1192756373
+70073,story,,,14,18,GammaStats,"There's always other places to turn to.",http://sequoiacap.com/,"For all of us that were rejected, remember there's always other places to turn to. Plus, 6% is awfully steep for $15-20K. Google gave up only 12% for millions in investments.",1192756367
+70072,comment,70062,70070,0,0,nextmoveone,,,"I know.",1192756337
+70071,comment,70059,70059,0,0,yrashk,,,"Since YC is not really about money but about networking, inspiration, communication, etc. (at least it is how I see it), why those applicants whose applications were rejected couldn't host a bootstrapped ""camp""? I mean if several startups could try to grow jointly, sharing experience and expenses that could be an exciting experience.",1192756278
+70070,comment,70062,70067,0,0,reidman,,,"I can't imagine why Y Combinator would reject someone with such impeccable taste in similies...",1192756245
+70069,comment,70062,70067,0,0,palish,,,"Technically, it was a diss from a girl. ;)<p>Nah, a diss is personal.  There's nothing personal about this.",1192756202
+70068,comment,70062,70062,0,0,drm237,,,"Thanks to all of the Y Combinator Staff for taking the time to read our application.  I wish those who made it through best of luck with the interviews.  To everyone who didn't, I'm going to keep going, I hope you will also!",1192756144
+70067,comment,70062,70062,0,0,nextmoveone,,,"I kind of take it like a diss from a girl.<p>I just want to find a hotter girl with bigger, better assets and make sure that one girl that didn't give me a chance see's that she really lost out. Maybe even send her a nice sex tape.",1192756085
+70066,comment,70061,70061,0,0,palish,,,"We weren't invited.  Oh well.",1192755979
+70063,comment,70059,70059,0,0,rms,,,"Highland and Lightspeed, two VCs, run summer programs that give free money for living expenses for student entrepreneurs.<p><a href=""http://www.lightspeedvp.com/summergrants.aspx"" rel=""nofollow"">http://www.lightspeedvp.com/summergrants.aspx</a><p><a href=""http://www.hcp.com/news/newsdetails.php/id/49812"" rel=""nofollow"">http://www.hcp.com/news/newsdetails.php/id/49812</a>",1192755928
+70062,story,,,27,37,schmoe,"YC rejection emails are out!",,"""We're sorry to say we couldn't accept your proposal for funding.
+Please don't take it personally, because most of the proposals we
+rejected, we rejected for reasons having nothing to do with the
+quality of the applicants.  For example, we were very reluctant to
+accept proposals with only one founder, because we think starting
+a startup is too much work for one person.  We also had a higher
+threshold for applicants who were still in school, groups where one
+or more members planned to keep their current jobs, and groups that
+couldn't all move to California.  We rejected a lot of proposals simply
+because we couldn't understand them, or didn't understand the problem
+domain well enough to judge them, or because the project seemed too
+big to start on only three months of funding.  Sometimes we even
+rejected good ideas, because another group proposed the same idea
+and seemed further along.<p>We realize this process is fraught with error. It's practically
+certain that groups we rejected will go on to create successful
+startups.  If you do, we'd appreciate it if you'd send us an email
+telling us about it; we want to learn from our mistakes.<p>Thanks,<p>Y Combinator Staff""",1192755909
+70060,comment,70059,70059,0,0,nextmoveone,,,"Techstars:
+<a href=""http://www.techstars.org/site/page/pg1682-pn_TechStars_2007.html"" rel=""nofollow"">http://www.techstars.org/site/page/pg1682-pn_TechStars_2007....</a><p>Boostphase:
+<a href=""http://www.boostphase.com/"" rel=""nofollow"">http://www.boostphase.com/</a>
+",1192755848
+70059,story,,,13,8,DanielBMarkham,"Ask YC: Where are the Other Opportunities?",,"Now that we're all past the decision-making process, I'm curious as to what other places there are that are somewhat like Y-Combinator. Anybody got some links?<p>
+I hope it's appropriate to ask that question here. I don't have a personal need for the information right now (my application was a lark anyway) but I know others might find it useful. And it's something nice to have in your back pocket for the future,right?",1192755811
+70058,story,,,2,0,bct,"""Expensive Eccentric"" - how markets normalize the mob",http://enthusiasm.cozy.org/archives/2007/10/expensive-excentric/,,1192755757
+70057,comment,69430,69442,0,0,nextmoveone,,,"Juan Pablo, do you live in Miraflores? Or where? I have family all over Lima.",1192755711
+70056,comment,69692,69702,0,0,staunch,,,"> A key building a company is knowing when it's time to step aside.<p>How about: ""A key building a company is knowing <i>if</i> it's time to step aside."" From what I can see Zuckerberg is doing a damn good job. If I had stock in Facebook him being replaced would make me sell it.<p>",1192755617

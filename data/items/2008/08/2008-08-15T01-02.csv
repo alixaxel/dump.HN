@@ -1,0 +1,93 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+276684,story,,,2,0,marketer,"Fun Unicode domain names",http://blogoscoped.com/archive/2008-07-24-n24.html,,1218765426
+276683,comment,276556,276631,0,0,rcoder,,,"Shoes is a GUI framework. It just handles drawing widgets (buttons, text boxes, video player frames, etc.) on screen. Think of it as a equivalent to a web browser, with a single language (Ruby) used to define content, layout, and behavior, instead of the mish-mash that is HTML, CSS, and Javascript.<p>True, once you break out into the ""big bad world"" of network protocols and disk I/O, your code may not be <i>quite</i> as dead simple, but it really shouldn't be too hard for most folks to jump from this:<p><pre><code>  Shoes.app do
+    button ""PUSH!""
+  end
+</code></pre>
+...to this:<p><pre><code>  Shoes.app do
+    stack do
+      @text = para(""hostnames go here..."")
+      button(""PUSH!"") { @text.replace(File.read(""/etc/hosts"")) }
+    end
+  end
+</code></pre>
+...and from there to this:<p><pre><code>  Shoes.setup do
+    gem 'simple-rss'
+  end
+  
+  require 'simple-rss'
+  require 'open-uri'
+  
+  Shoes.app do
+    stack do
+      banner ""News.YC Headlines""
+  
+      button(""Fetch"") do
+        @articles.clear
+        
+        rss = SimpleRSS.parse(open(""http://news.ycombinator.com/rss"").read)
+        
+        rss.items.each do |item|
+          @articles.append { para(item.title) }
+        end
+      end
+      
+      @articles = stack
+    end
+  end
+</code></pre>
+That isn't so bad, is it?",1218765402
+276682,comment,275775,276283,0,0,thwarted,,,"Considering that things like ""elite status"", which is based on contribution, is coveted by some users, it's entirely possible that the content in question was posted by an actual user who cut and pasted it from another site.  It would be pretty hard to verify that someone's review is truly their own.  If you notice something out of the ordinary, there are tools available to flag content.<p>Disclosure: I work for Yelp.",1218765401
+276681,comment,276058,276369,0,0,netcan,,,"Well, seems to make more sense then separating observers from the universe.",1218765385
+276680,comment,276041,276514,0,0,gamble,,,"All of MS's profits come from Windows and Office. The odd quarter excepted, everything else they do operates at a loss.<p>For any other company, habitual 9-10 figure losses would have heads rolling on the floor.",1218765306
+276679,story,,,5,0,marketer,"Publisher generates unique covers for all books",http://postspectacular.com/process/20080711_faberfindslaunch,,1218765305
+276678,comment,276520,276520,0,0,rms,,,"<a href=""http://cosmicvariance.com/2008/08/04/what-will-the-lhc-find/"" rel=""nofollow"">http://cosmicvariance.com/2008/08/04/what-will-the-lhc-find/</a>",1218765284
+276677,comment,276520,276520,0,0,jraines,,,"By Chuck Norris?",1218765219
+276676,comment,276556,276556,0,0,azharcs,,,"Why doesn't <i>shoes</i> still have a wiki page. 
+Great work _why. Downloading the pdf now, this weekend will be awesome.",1218765032
+276675,comment,276556,276615,0,0,zenspider,,,"<i>points to x11 and squeak smalltalk</i><p>that's why... GUI objects that have intrinsic knowledge of networking are actually really powerful and useful.",1218764996
+276674,comment,276534,276623,0,0,cosmo7,,,"Can you imagine what Carl Sagan's karma would be like? It would be through the floor. It would be a disaster.<p>People with genuinely good ideas don't crave approval. Sites like this are fun, but it shouldn't factor into the way you develop opinions, unless you want popular, stupid opinions.",1218764923
+276673,comment,276657,276657,0,0,gaika,,,"Metadata is useful when you need to interpret the results, and most people care about why something is recommended to them. Top netflix algorithms are black boxes from the user standpoint, that doesn't help when making a decision to buy or rent based on that recommendation.<p>Compare that with Amazon's approach when they sacrifice the predictive power for the useful explanation (customers who bought X also bought Y)",1218764876
+276672,comment,276077,276630,0,0,wmf,,,"Not really. If you have window scaling disabled, FAST won't help. If you have window scaling enabled, FAST might help a little.",1218764734
+276671,story,,,2,2,rms,"What Linux Will Look Like In 2012",http://www.informationweek.com/shared/printableArticle.jhtml?articleID=210002129,,1218764710
+276670,comment,276520,276520,0,0,DarkShikari,,,"Gordon Freeman, you must reach the control room and turn off the proton beam!",1218764500
+276669,comment,276534,276624,0,0,mariorz,,,"OK, thanks. So should we flag other kills like that in the future?",1218764457
+276668,comment,276041,276285,0,0,netcan,,,"Well it may not be an immediate problem for founders (so long as they have no sentimental attachment to the company), because they've been paid.<p>But it is a problem for acquirers & by extension a problem for future founders. If acquisitions fail to meet goals, they'll dry up.",1218764419
+276667,comment,276385,276385,0,0,mynameishere,,,"<i>who is now the most successful Olympian with 11 gold medals</i><p>This kills me. Swimming has an inordinate amount of medals considering the skill set require (viz, propelling oneself through water)<p><a href=""http://www.nbcolympics.com/resultsandschedules/index.html"" rel=""nofollow"">http://www.nbcolympics.com/resultsandschedules/index.html</a><p>34 medals for swimming--ie, 34 medals for one particular skill. The equally grueling weightlifting category has 15, and for individuals it is much smaller due to weight classes. The much...<i>much</i>...more varied gymnastics has only 14 medals.<p>ED: I might be reading that thing wrong. I'm assuming that the number in the gold medal picture is the number of medals awarded, but it says ""Final(s) held"". Same thing?",1218764345
+276666,comment,276532,276532,0,0,mechanical_fish,,,"<i>In addition ASP.NET's naming container ID mangling which causes client IDs to be changed can be very counter productive for styling with CSS and for working with elements using JavaScript. It's no fun referencing controls with references like $(""#ctl000_StatusCtl_txtNameId"") for element selection (with jQuery here) especially since those generated ID values can change.</i><p>Yeah, I sure can't understand why that system gets no respect. What a headscratcher!",1218764329
+276665,comment,276556,276556,0,0,hhm,,,"It actually seems very similar to TkInter, though simpler.",1218764219
+276664,comment,276636,276646,0,0,obelix,,,"Thanks, I have emailed them already.  Appreciate your reply.",1218764186
+276663,comment,276556,276597,0,0,rcoder,,,"Shoes code is Ruby code. The name of the binary may be different, and shoes bundles a different standard library, but you can still access any Ruby libraries you like from your Shoes app.<p>That doesn't make it a ""level editor for [a] game engine"", but it certainly should give you more than enough tools to build a networked tic-tac-toe game.",1218764180
+276662,comment,276041,276431,0,0,netcan,,,"It's interesting to consider employee acquisition as a motivator. As far as I could guess there are a few motivations:<p>1 the technology<p>2 the product/userbase<p>3 the employees<p>4 kill competition<p>1 & 2 could be 'masterplan' motivations. 3 has a maximum dollar value. 4 is rarely admitted.<p>It's hard to judge if they messed up without knowing which one it is.",1218764179
+276661,comment,276386,276580,0,0,pmorici,,,"The point of the judgment was to pay her legal bills.  So I wouldn't be surprised if all of it went to her lawyers.",1218764112
+276660,comment,276534,276624,0,0,jmatt,,,"<i>Another reason non-spam/troll stuff gets killed is because it's a dupe.</i><p>It's hard to find dupes when all you have is a link you want to post. For example earlier today:<p><a href=""http://www.google.com/search?q=http://www.positech.co.uk/talkingtopirates.html+site:news.ycombinator.com&hl=en"" rel=""nofollow"">http://www.google.com/search?q=http://www.positech.co.uk/tal...</a><p>returns nothing<p>even though the story is already posted:<p><a href=""http://news.ycombinator.com/item?id=275780"" rel=""nofollow"">http://news.ycombinator.com/item?id=275780</a><p>Too often the names of the stories alone don't work. Or the name is misleading or otherwise bad.<p>Is there is a better way to see if a dupe already exists?",1218764111
+276659,comment,276520,276520,0,0,lpgauth,,,"Can't wait for this experiment to start.",1218764077
+276658,comment,276639,276639,0,0,yan,,,"Just this title hit me like a tonne of bricks. In terms of Outlook being shitty, Xobni was a very logical start up to improve it, but I can't believe that I didn't think that there should be PowerPoint-improving plugins.<p>I definitely see a need for this and I hope it will be successful. Now, to change the way corporate America thinks about making presentations, because gaining inertia for this will not be very easy.",1218763874
+276657,story,,,69,31,bdr,"Netflix prize competitor: With the best algorithms, metadata becomes worthless",http://pragmatictheory.blogspot.com/2008/08/you-want-truth-you-cant-handle-truth.html,,1218763611
+276656,comment,276294,276596,0,0,froo,,,"Because it was the domain of studios with big budgets beforehand?<p>Now it appears to be within the realm of backyard hobbyists - thats what makes it impressive.",1218763524
+276655,story,,,3,0,MaysonL,"H2O Project",http://h2oproject.law.harvard.edu/index.html,,1218763462
+276654,comment,276058,276557,0,0,gaika,,,"That what reporters are for :) If you read the news you will see an endless stream of highly unusual events, but unfortunately that doesn't prove anything.",1218763459
+276653,comment,275618,276010,0,0,netcan,,,"At great difficulty. A lot of people can't manage it.<p>My girlfriend's father & his wife had two house. They liked the smaller one but it couldn't contain their stuff. The sold it. (and built a couple of new sheds to contain it's stuff)",1218763226
+276652,comment,276002,276100,0,0,scott_s,,,"Because describing something formally means you have a deep understanding of it. Formal descriptions require synthesizing the important concepts from the whole.<p>Understanding a new concept feels good intellectually, but it also gives you more power: now you can recognize that pattern elsewhere and perhaps apply new techniques.",1218763003
+276651,comment,276015,276015,0,0,thorax,,,"Best. Extension. Ever.<p>(Sorry. Yet, if you challenge that, I absolutely want to know what you think is better so I can install it.)",1218762930
+276650,comment,276385,276385,0,0,yagibear,,,"Hacker news?",1218762867
+276649,comment,276213,276601,0,0,iigs,,,"Wow, that's horrible. I would really feel slapped in the face if I had spent the time to learn XBox360 development and they shifted the royalties across the 50% boundary.<p>70/30 seems entirely fair, 60/40 feels like the pain point to me, and less than 50/50 seems like they should be giving me health insurance.<p>What a great example of why carrier ""portals"" never have content you want on them. Hopefully Apple's honest and open approach to licensing really raises the bar for everyone else.",1218762838
+276648,comment,276520,276579,0,0,qwph,,,"""Please do not place hands in path of beam.""",1218762681
+276647,comment,276213,276610,0,0,snprbob86,,,"70/30 is the default case for the upcoming Xbox LIVE Community Games:
+<a href=""http://creators.xna.com/en-us/XboxLIVECommunityGames"" rel=""nofollow"">http://creators.xna.com/en-us/XboxLIVECommunityGames</a><p>Microsoft only takes more than 30% if you are lucky enough to have your game featured (read: you'll make it all back and more in volume).<p>Disclaimer: I work on Game Studio and the XNA Framework",1218762650
+276646,comment,276636,276636,0,0,qhoxie,,,"I've had a couple friends with similar experiences, their accounts were reactivated after:<p>1.  Emailed request/explanation.<p>2.  Short time period (~2 weeks).",1218762603
+276645,comment,276229,276351,0,0,patrickg-zill,,,"P.T. Barnum, Incorporated.",1218762600
+276644,comment,276002,276505,0,0,scott_s,,,"They are now. Words become a part of the language because enough people use them.",1218762507
+276643,comment,276634,276634,0,0,manny,,,"""Where Some See Crisis, Others See Opportunity...""",1218762469
+276642,comment,276639,276639,0,0,aneesh,,,"Some time ago, I heard Microsoft was working on non-linear PowerPoint presentations, where you wouldn't have to go from one slide to the next.  As someone who has to give presentations with flowcharts & architecture diagrams, I'm impressed.",1218762460
+276641,story,,,5,3,soundsop,"The Little Coder's Predicament",http://www.advogato.org/article/671.html,,1218762370
+276640,comment,276041,276041,0,0,snprbob86,,,"""shut down to new users"" just means ""taking their sweet time porting to a google backend""<p>When things are Google products, there is a certain level of reliability, security, and performance that is expect. Google tries harder than anyone to avoid the Fail Whale.<p>It takes a long time for large software systems to be ported, security reviewed, integrated, and tested with Google's custom stuff.<p>From what I have seen, being acquired by Google means that you go dark for 18 months and then emerge as a Google product.",1218762368
+276639,story,,,2,2,aneesh,"PowerPoint Plugin Adds a Spatial Dimension to Presentations",http://www.techcrunch.com/2008/08/14/microsoft-turns-super-awesome-touchwall-into-super-snoozy-pptplex/,,1218762337
+276638,comment,276002,276600,0,0,silentbicycle,,,"Agreed, but in a parallel universe where the parent post actually asked the implied question, what other functions would you suggest? I try to explain these things to other people enough that I'd love to hear other suggestions.<p>Map might be another good one, although for better <i>and</i> worse it expects the reader to follow the idea of first class functions. Something like<p><pre><code>  map square [1, 2, 3, 4, 5] ---> [1, 4, 9, 16, 25]
+</code></pre>
+is pretty simple, though.",1218762320
+276637,comment,276556,276613,0,0,mechanical_fish,,,"I highly recommend the paper version. Very reasonably priced.<p>Ironically, I haven't found the time to actually read it, but I page through it now and then just to admire the thing.",1218762131
+276636,story,,,3,2,obelix,"Ask HN:  Does anyone know how to get back into facebook?",,"Long story:  http://textblog.anands.net/archives/196<p>Short story:<p>I have 3 RSS feeds and I was trying out various options to add the feeds to my profile.  I finally settled on a Yahoo Pipe to aggregate all my feeds into a single feed.<p>Facebook termed it as a violation of their TOS.  A GUI mis-understanding later, my account got disabled.<p>Question: What is involved in getting back into facebook? Does anyone know?",1218762103
+276635,comment,276556,276590,0,0,menloparkbum,,,"_why is like a one man contemporary version of the Beagle Bros (<a href=""http://en.wikipedia.org/wiki/Beagle_Bros"" rel=""nofollow"">http://en.wikipedia.org/wiki/Beagle_Bros</a>)<p>Speaking of beagles, and related to the little coder's predicament: It would be cool if someone chucked a beagle board (<a href=""http://www.beagleboard.org"" rel=""nofollow"">http://www.beagleboard.org</a>) into a keyboard case and made a modern version of a C64. A hobby hacking community surrounding it based on _why's aesthetic would be a lot of fun.",1218762103
+276634,story,,,2,1,ideas101,"In Pictures: America's Fastest-Dying Cities ",http://www.forbes.com/2008/08/04/economy-ohio-michigan-biz_cx_jz_0805dying_slide_2.html?partner=rediff,,1218762059
+276633,comment,275258,276598,0,0,scott_s,,,"I assume that most of your day is still spent producing <i>something</i>, which you get paid for. In school, such time does not exist; it's all learning. I think you're focused on incentives, which is orthogonal to my point. Regardless of why you learn (ranging from for your own enrichment or for practical gain), having a few years set aside to do nothing but learn means you will learn more.<p>If you somehow have a job where you are allowed to do anything you want and produce nothing, then I'd like to know who you work for.",1218762035

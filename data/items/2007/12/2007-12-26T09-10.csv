@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92700,comment,92629,92698,0,0,gojomo,,,"CSS property<p><pre><code> overflow:hidden 
+</code></pre>
+...should just crop. <p>If the transition text-jump isn't too annoying, this might also be interesting:<p><pre><code> pre {overflow:hidden; padding:2px}
+ pre:hover {overflow:auto}
+</code></pre>
+PRE blocks would be clipped until mouseover, when a scrollbar would appear if necessary (bumping following text down).",1198661637
+92699,comment,92648,92654,0,0,mwerty,,,"suggestion: read innovators dilemma.",1198661447

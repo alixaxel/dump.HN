@@ -1,0 +1,234 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4869852,comment,4869537,4869734,6,0,mceachen,,,"I understand that Twitter's reception desk had birdsong that played when people tweeted, but it became cacophonous at high tweets-per-second.",1354604376
+4869851,story,,,1,0,johnparker2012,"ESalesData - Facebook","http://www.facebook.com/Company.eSalesData           ","eSalesData is a fast growing market specialist in delivering Sales leads, email/data appending, application development and online marketing solutions.",1354604369
+4869850,comment,4869687,4869687,1,0,topherwhite,,,"I first started following Rick Smolan's books about 6 years ago (they only produce one every few years or so), and these photo books remain some of the only non e-books I would consider buying anymore... Always beautiful, and often thought-provoking. As a software engineer, this last one on Big Data hits pretty close to home, and I wasn't sure I'd have the same reaction, but I was quite impressed. If you're not convinced, there's a free preview of the book here (mid-way down the page)...<p><a href=""http://humanfaceofbigdata.com/"" rel=""nofollow"">http://humanfaceofbigdata.com/</a><p>The info graphics alone are way too cool. Just my 2-cents...",1354604363
+4869849,comment,4869330,4869459,1,0,frankdenbow,,,"When was this at NYTM?",1354604360
+4869848,story,,,1,0,Lewisham,"Dikembe Mutombo's 4 1/2 Weeks to Save the World",http://www.oldspicesavestheworld.com/,,1354604343
+4869847,comment,4867577,4869116,6,0,InclinedPlane,,,"This sort of thing is a natural consequence of high cost and high risk missions. You have a multi-billion dollar mission, and it's doing something unprecedented and using a brand new design and construction. When you build something like that what tends to happen is that you try to keep the mission scope reasonable and then you build the vehicle to have a very high (say >95%) chance of satisfying that minimum mission requirement. But what happens when, say, you create a Mars rover with a 95% chance of working for 90 days you'll likely end up engineering a vehicle which might have, say, a 50% chance of lasting for 5 years. If you set out to do that from the start it would be a non-starter, because a 50% mission success rate is too low for a multi-billion dollar mission.",1354604291
+4869846,comment,4867484,4867484,1,0,jeffyee,,,"I've read all of the comments and believe the consensus is basically:<p>- It's a lot cheaper for ebay/paypal to let the scammers rip off people than it is to go after them, even when the facts clearly identify the scammer<p>- Casual sellers are both less able to detect fraud and are more greatly impacted by it<p>- The feedback mechanism is insufficient ""insurance"" against fraud<p>- ""Seller protection"" and ""Buyer protection"" are not suitable insurances against the kind of fraud that actually occurs<p>- The vast majority of transactions are legitimate<p>- The selling prices on ebay can be substantially higher than Gazelle/Amazon, or other reputable channel<p>- Fraud will undoubtedly occur in some cases<p>How about if a 3rd party sold real buyer or seller insurance?  They would be in the business of identifying scam-like behaviour from buyers/sellers, help you to avoid fraud it can detect, and ultimately insure you from loss.  Not sure how much the premium would need to be in order to make this work, but seems like an interesting idea.",1354604280
+4869845,comment,4869640,4869810,1,0,shmerl,,,"Yes, if they want a classical publishing style in digital form - let them simply ship PDF which anyone can use wherever they want to. And if they want some interactive ""bells and whistles"" they should better use the web for that. Also many publishers are plagued with DRM paranoia, and instead of shipping their content in various forms they choose some awkward limited mechanism which requires device/tool X to read it.",1354604272
+4869844,comment,4869526,4869526,3,0,sbuccini,,,"Both of Ark's co-founders are Cal grads.  Both of Carsabi's co-founders are also Berkeley grads.  Seems smart, Carsabi gets to leave their baby with someone they know and trust, and Ark probably got it for a song.",1354604265
+4869843,comment,4868684,4869439,1,0,readme,,,"There is a post above by a guy who makes a significant case that dropbox will eventually shut you off for such usage patterns. -- Also, can you use your own domain that way?",1354604238
+4869842,comment,4869640,4869640,4,0,elteto,,,"Half a million dollars per week? What were they doing? Running their backend on gold-plated servers? No, seriously, how can you run so high with a digital distribution model? You are not even <i>printing</i> the stuff!!!",1354604150
+4869841,comment,4861022,4861022,1,0,zem,,,"Hard to say what my best life choice was, I tend to live my life as a series of small choices rather than one or two overarching big ones.<p>But programming - definitely the decision (back in college) to actively commit my hobby and professional life to the linux (and concomitant open source) ecosystem. I can still look around today and marvel at how much it has enriched not just my overall career, but the day-to-day experience of being at work.",1354604148
+4869840,comment,4865826,4867144,-1,0,whatusername,,,"When it comes to cars -- the Macbooks are like BMW's.  Look good, drive fast, even the door makes a solid thud when you close it.  You can tell it's been well engineered.<p>The T-Series thinkpads -- more like a Toyota Hilux.",1354604142
+4869839,comment,4869595,4869718,2,0,hayksaakian,,,"Adobe owns/runs PhoneGap/Cordova a framework for making cross platform dedicated apps with HTML5/CSS/JS",1354603989
+4869838,comment,4869640,4869781,7,0,jsnk,,,"Gruber is perceptive and incisive, but post hoc analyses are dime a dozen. Show me a writer who predicts successes and failures of start ups and ventures at even 60% rate with explanation of why they will, and I'll be at awe.",1354603931
+4869836,comment,4865648,4867003,5,0,jonhohle,,,"How about a few lines of C?<p><pre><code>  // clang -lcares -I/opt/local/include -L/opt/local/lib -o domains domains.c
+  #include <ares.h>
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include <sys/socket.h>
+  #include <arpa/inet.h>
+  #include <netinet/in.h>
+  #include <netdb.h>
+  #include <stdarg.h>
+  #include <string.h>
+  #include <ctype.h>
+  #include <unistd.h>
+  #include <sys/queue.h>
+  #include <fcntl.h>
+  
+  static void callback(void *arg, int status, int timeouts, struct hostent *host)
+  {
+  
+      if(!host || status != ARES_SUCCESS){
+          printf(""Failed to lookup %s\n"", ares_strerror(status));
+          return;
+      }
+  
+      char ip[INET6_ADDRSTRLEN];
+      int i = 0;
+  
+      for (i = 0; host->h_addr_list[i]; ++i) {
+          inet_ntop(host->h_addrtype, host->h_addr_list[i], ip, sizeof(ip));
+          printf(""%s: %s\n"", host->h_name, ip);
+      }
+  }
+  
+  static void wait_ares(ares_channel channel)
+  {
+      for(;;){
+          struct timeval *tvp, tv;
+          fd_set read_fds, write_fds;
+          int nfds;
+  
+          FD_ZERO(&read_fds);
+          FD_ZERO(&write_fds);
+          nfds = ares_fds(channel, &read_fds, &write_fds);
+          if(nfds == 0){
+              break;
+          }
+          tvp = ares_timeout(channel, NULL, &tv);
+          select(nfds, &read_fds, &write_fds, NULL, tvp);
+          ares_process(channel, &read_fds, &write_fds);
+      }
+  }
+  
+  struct Request {
+      ares_channel channel;
+      char* domain;
+      SLIST_ENTRY(Request) next;
+  };
+  
+  int main(const int argc, const char* argv[]) {
+      SLIST_HEAD(Requests, Request) requests;
+      SLIST_INIT(&requests);
+      struct Request* last = NULL;
+  
+      int status;
+      struct ares_options options;
+      int optmask = 0;
+      const char* path;
+  
+      optmask |= ARES_OPT_TIMEOUTMS;
+      options.timeout = 1000;
+  
+      status = ares_library_init(ARES_LIB_INIT_ALL);
+      if (status != ARES_SUCCESS){
+          printf(""ares_library_init: %s\n"", ares_strerror(status));
+          return 1;
+      }
+  
+      for (int i = 1; (path = argv[i]) != NULL || i == 0; i++) {
+          
+          int fd = open(path, O_RDONLY);
+          FILE* fp = fdopen(fd, ""r"");
+          char* buffer = NULL;
+          size_t bufferSize = 0;
+          int lineLength = 0;
+          
+          while ((lineLength = getline(&buffer, &bufferSize, fp)) > 0) {
+  
+              struct Request* request = malloc(sizeof(struct Request));
+  
+              status = ares_init_options(&request->channel, &options, optmask);
+              if(status != ARES_SUCCESS) {
+                  printf(""ares_init_options: %s\n"", ares_strerror(status));
+                  continue;
+              }
+              
+              buffer[lineLength - 1] = '\0';
+  
+              request->domain = buffer;
+              buffer = NULL;
+              if (NULL == last) {
+                  SLIST_INSERT_HEAD(&requests, request, next);
+              } else {
+                  SLIST_INSERT_AFTER(last, request, next);
+              }
+              last = request;
+  
+              ares_gethostbyname(request->channel, request->domain, AF_INET, callback, NULL);
+          }
+      }
+  
+      while (!SLIST_EMPTY(&requests)) {
+          struct Request* request = SLIST_FIRST(&requests);
+          wait_ares(request->channel);
+          ares_destroy(request->channel);
+          free(request->domain);
+          SLIST_REMOVE_HEAD(&requests, next);
+          free(request);
+      }
+  
+      ares_library_cleanup();
+      return 0;
+  }</code></pre>",1354603900
+4869835,story,,,1,0,ForFreedom,"Voyager 1 finds a surprise at the edge of the solar system","http://www.latimes.com/news/science/la-sci-voyager-solar-system-edge-20121204,0,6171988.story",,1354603882
+4869834,story,,,2,0,evo_9,"Windows 8 takes 1 percent of Web usage as Internet Explorer gains ",http://arstechnica.com/information-technology/2012/12/windows-8-takes-1-percent-of-web-usage-as-internet-explorer-gains/,,1354603873
+4869833,comment,4869640,4869743,3,0,acchow,,,"It's also my understanding that it wasn't possible to link to The Daily articles. So no facebook/twitter/reddit/stumbleupon/etc. sharing. Did they expect that to work out?",1354603850
+4869832,comment,4869537,4869537,1,0,hayksaakian,,,"This could server as a mode of expression and art.",1354603841
+4869831,story,,,2,0,clarke78,"Email Templates for Recruiters",http://darcyclarke.me/thoughts/email-templates-for-recruiters-etc/,,1354603812
+4869830,comment,4862322,4863152,1,0,iaw,,,"I must say, there are a lot of presumptions being thrown around about ""Top 20 School"" alum.  There are numerous benefits (and draw-backs) to going to such schools but to make broad assessments about individuals who attended the schools is asinine, like any other stereotype.<p>Essentially the argument here is that ivy-leaguers have better options when leaving college so, all things being equal, with an ivy-leaguer and a lower-tier school alum in the same job you'd expect the ivy-leaguer to be less skilled.<p>The point that is neglected is that the screening process for top-tier schools is substantially more difficult, so much so that it is feasible to see a student from the lowest quartile of the student body at a top-tier school that would have performed in the highest quartile at a less rigorous school. (note: less rigorous is not meant to be a comment on educational quality, only a comment on the intensity of the academic assignments).  In this context it's unclear to me why the above comment makes sense.  Maybe there's some anecdotal evidence that was not included but, lacking a decent sample, assertions like this are more representative of the biases of those that post them than reality.",1354603809
+4869829,comment,4869595,4869794,2,0,tangue,,,"Thanks. I was confused by the haters , but it seems reasonable.",1354603778
+4869828,comment,4866661,4867282,1,0,DCoder,,,"And the effort not to give up when your reverse-engineering efforts reveal remarkable stupidities in the original code. We all know crunch happens, but that doesn't make dealing with the resulting spaghetti any easier.<p>(I spent several years reverse-engineering Command & Conquer RA2, I should know - that game has hacks and flukes everywhere.)",1354603749
+4869827,comment,4869526,4869725,2,0,callmeed,,,"Your understanding of ""acq-hire"" is accurate. In this case, I think the TC headline is wrong.<p>If Carsabi never raised money (I'm not sure), then they had no investors to return money to. And since FB didn't want it, perhaps it was okay to just sell it separately.",1354603699
+4869826,comment,4869537,4869537,3,0,osakanyan,,,"Very old article.",1354603680
+4869825,comment,4868793,4868793,2,0,ryanmolden,,,"This is definitely interesting (though the formal language talk in the beginning is mostly over my head). On one hand it makes a lot of sense to have the compilers being doing the transforms to achieve safe parralellism, as opposed to what we have now days with devs in charge, which is mostly ""we think we found all the threading bugs"" parrallelism. On the other hand large swathes of a lot of apps are likely fairly sequential in nature. Obviously things like disk and network I/O or massive vector processing can and should be moved of the primary thread, on the other hand I wonder if most apps would just end up with a huge chain of tasks all still, more or less, serial in nature. And then you get the joy of debugging that. Because even if the bugs aren't of a thread safety variety they will still be there, and now you have 50 things happening in parallel that you have to ignore (assuming the compiler produced threading itself has no bugs, it's turtles all the way down!)",1354603676
+4869824,comment,4869537,4869537,11,0,Selfcommit,,,"Anyone else remember this being posted this time last year?",1354603651
+4869823,comment,4869330,4869330,1,0,yozmsn,,,"This is kinda old, I saw a video about this on the verge a couple months ago...",1354603638
+4869822,comment,4865826,4866851,1,0,ripperdoc,,,"That's true about ""customerS"" but not for ""a customer"". There will always be a percentage of customers that expect more than the norm (for good or not so good reasons). The company cannot treat everyone's opinion the same, as they'd then need to design a product and customer support that makes the most picky person happy - which would be nice for all customers but very costly.<p>In the end, the company has to decide where they put the bar for ""good customer support"", from ""making at least 50% happy"" up to ""making 95% happy"" but never ""making 100% happy"". And of course, the price paid should be in relation to this, which in Apple's case, it may not be (but to be fair - I hear a lot of good stories about Apple support as well, so this one event cannot determine whether Apple does support well).",1354603632
+4869821,comment,4867216,4867432,2,0,sneak,,,"As someone who dropped out of high school and has never set foot in a university, this strikes me as insane.<p>Why wouldn't both students be immediately expelled for this behavior?",1354603624
+4869820,comment,4868471,4869682,1,0,hayksaakian,,,"interesting, i didn't realize twitter was so cheap. once you have more data, it might make for an interesting blog post (hint, hint).",1354603610
+4869819,comment,4869595,4869718,2,0,Brajeshwar,,,"Adobe is still doing quite a bit on HTML front too - <a href=""http://html.adobe.com/"" rel=""nofollow"">http://html.adobe.com/</a>",1354603588
+4869818,comment,4862512,4869812,2,0,mcrider,,,"After I wrote that, I realized that all editors would need to have the same capability which is pretty much a non-starter (and whitespace is universal).  Your other points are well taken too.",1354603544
+4869817,story,,,41,38,Brajeshwar,"Adobe and HTML",http://html.adobe.com/?hn,,1354603533
+4869816,comment,4864706,4864706,1,0,pbreit,,,"TechCrunch has mostly good writers, gets many stories first and writes about topics germane to the tech startup community. I'm guessing most of the hate is driven by distrust or dislike of leaders.<p>Raising money is not remotely and end result but is clearly an important milestone for a growing business.",1354603476
+4869815,comment,4865826,4866195,2,0,piyush_soni,,,"And you somehow think you're a superior human being for not having 'made a ruckus' about it and going to another Apple store to fix your problem. Do you realize that by doing that you not only kept them being retard, but also promoted the culture that nothing happens to you when you act like that to your customers. You are actually paying for the most convenient service, but when you don't get it, you don't raise your voice and let the world be an ugly place.
+What if even the second store people were retards? You'd go to a third one (possibly in another city) right?",1354603460
+4869814,comment,4866661,4869752,2,0,DCoder,,,"There is the Pointer Lock API [1], but it's still WIP.<p>[1] <a href=""http://www.html5rocks.com/en/tutorials/pointerlock/intro/"" rel=""nofollow"">http://www.html5rocks.com/en/tutorials/pointerlock/intro/</a>",1354603370
+4869813,comment,4869378,4869378,2,0,sorich87,,,"<i>We see Lean Startup methodologiy being used innapropriately as an excuse to not take sales and marketing seriously, he said. Founders tell us that all that matters is product, and sales and market will happen automatically. The if they build it it will come, mantra, which he noted is not always an acceptable approach for those looking to grow.</i><p>I thought the Lean Startup was based on customer development... These ""founders"" are doing it wrong.",1354603344
+4869812,comment,4862512,4869132,3,0,ramblerman,,,"I see your point, but I think there are a few solid reasons it would be a bad idea.<p>The basic text file (at least in unix) is king, and the medium by which we transport all sorts of code around. Adding a layer of asbtraction to an editor like that, where it shows you one thing but saves the file differently, breaks this premise and means your new editor now doesn't play well with others.<p>- Unless you source control is in on it, you are going to suddenly see a different file than you were working with before when resolving conflicts.<p>- Your whole team is now forced to use <i>your</i> editor to get the same view of the code as you are.<p>- grepping, line counts, most third party text mapulation/wrangling services become moot unless savvy to the context of your editor",1354603310
+4869810,comment,4869640,4869743,4,0,ripperdoc,,,"Well, one would of course hedge bets and reach farther by going for multiple platforms. But the whole point was that the Daily (and most iPad magazines) mostly go for a ""PDF with bells and whistles"" approach, and it is exactly that which makes the product poor in usability. PDF is the lowest common denominator, and also the worst in usability and value. But it shouldn't be to difficult to deliver a lean iPad App AND a PDF for those who wants.",1354603241
+4869809,comment,4869330,4869665,3,0,GuiA,,,">Does anyone have any tips about getting involved with this area of work?<p>Do a PhD :) ralphman has it spot on. Even the non-academic companies who do this (Disney Research, Microsoft Research, etc.) will usually prefer hiring PhDs.<p>Doing a PhD in HCI is fun, challenging, will drive you insane, and is very rewarding! (I dropped out of mine after 2 years to do the startup thing but intend on going back :) )",1354603150
+4869808,comment,4868170,4868974,5,0,vertr,,,"If you are going to call something out as fallacious, you should name which fallacy it is.  Otherwise your statement is just as good as saying 'you are wrong!'",1354603077
+4869807,comment,4869330,4869532,1,0,raphman,,,"A persons 'capacitive footprint' depends on skin moisture, clothing, anatomy, etc.
+This allows Touch to distinguish certain users from each other <i></i>in a lab setting<i></i>.<p>As this approach uses only a single electrode (which is why it is so cool), the data it offers is quite limited compared to more complex sensor layouts.<p>In real life, such a sensor would need to work reliably even if I wear different shoes, have dirty hands, etc. Therefore, its false rejection rate needs to be very low. Which leads to a high false acceptance rate, i.e. several other people with similar capacitive footprints may open my door, too.",1354603068
+4869806,comment,4868057,4868968,1,0,corporalagumbo,,,"That seems to be one of Microsoft's problems. They try and laugh everything off. To me it says ""we're not serious."" Ballmer doesn't seem like a very serious CEO either - based on his public attitudes (which I think are an important sign.) Microsoft would be best if it was a relatively humble, quiet company with extreme, unrelenting focus. Hopefully if the market kicks them enough they will learn their lesson and start taking things seriously.",1354603061
+4869805,comment,4869378,4869378,5,0,redguava,,,"""Not every startup should""...  complete that sentence with almost anything and it will be true.<p>Rather than a bunch of articles on different topics, I hope we can just agree that there isn't one rule fits all or we would all follow that rule and be successful.<p>It's exactly why you can't just copy how someone else does things and hope to get the same result.",1354603047
+4869804,story,,,2,0,aaronbrethorst,"Mary Meeker's end of year presentation on the Internet",http://www.businessinsider.com/mary-meeker-2012-internet-trends-year-end-update-2012-12?op=1,,1354602933
+4869803,comment,4867484,4867484,1,0,eloisant,,,"In US you don't have the ""pay at delivery"" system? E.g. the postman gives the item to the buyer in exchange of the payment, then the post office pays you.",1354602920
+4869802,comment,4869686,4869686,1,0,factorialboy,,,"* External noise (traffic, neighbors etc.)<p>I probably don't realize it's a pain yet but having a centralized 'dashboard' to control things like locking doors, tuning the heating system, controlling lights etc. could be handy.",1354602888
+4869800,comment,4869330,4869741,4,0,redguava,,,"It's up to the developer to make it usable, that doesn't take away from the fact that it's pretty amazing technology and people will find really cool stuff to do with it.<p>I just wouldn't blame the tech for bad implementations.",1354602822
+4869799,comment,4869470,4869764,5,0,nikatwork,,,"There's a noticeable incidence of rape by taxi drivers here in Oz. If the driver is foreign this usually leads to a media frenzy about government driver regs.<p>I'm wondering what the regulatory fallout will be when Uber suffers their first (unfortunately apparently inevitable) rape incident.",1354602793
+4869798,comment,4862721,4867493,1,0,japhyr,,,"What kind of work did you post for?",1354602779
+4869797,comment,4865826,4867603,2,0,jtheory,,,"> For that reason, they should put every effort into ensuring that it is good as it can possibly be for anyone that pays for it, no matter the cost.<p><i>Every</i> effort?  <i>No</i> matter the cost?<p>They still have to run a business, I'm afraid... though the other possibility you didn't mention (but could be implied) is that they could have waited a little longer before releasing the retina displays.<p>I don't see tech news sites swamped with articles about the disastrous retina ghosting issues, though... so perhaps most users agree with Apple's decision.  I certainly see the business reasons for it (though I was buying a MBA for my wife soon after the new retina display was released, and intentionally got the older model to avoid the first release of new tech...).",1354602775
+4869796,story,,,1,0,33rdsquare,"Researchers Use Nanotechnology To Reinvent The Flourescent Lightbulb",http://www.33rdsquare.com/2012/12/researchers-use-nanotechnology-to.html,,1354602764
+4869795,comment,4862721,4867197,1,0,japhyr,,,"""Talked to both of the potential customers but none of them was interested in paying more than $25 an hour.""<p>That's an interesting bit of feedback. I would expect people looking at freelancers on HN to be ready to pay a higher rate than that.",1354602751
+4869794,comment,4869595,4869782,8,0,eurleif,,,"The 9% is if you use certain ""premium features"" of the Flash player. It doesn't apply to every game. See: <a href=""http://www.adobe.com/devnet/flashplayer/articles/premium-features.html"" rel=""nofollow"">http://www.adobe.com/devnet/flashplayer/articles/premium-fea...</a>",1354602742
+4869793,comment,4867656,4868651,2,0,kevingadd,,,"Steam (and by extension, Big Picture) uses LIBCEF to embed Chromium. As of April 26, the newest supported build of Chrome for LIBCEF was 18:<p><a href=""http://code.google.com/p/chromiumembedded/source/detail?r=607"" rel=""nofollow"">http://code.google.com/p/chromiumembedded/source/detail?r=60...</a><p>While they now support newer versions of Chromium (<a href=""http://code.google.com/p/chromiumembedded/wiki/BranchesAndBuilding"" rel=""nofollow"">http://code.google.com/p/chromiumembedded/wiki/BranchesAndBu...</a>) it is likely that Valve either didn't have the time to test everything against a new Chromium revision, or didn't want to take the risk. Every Chromium commit historically has a very high risk of breaking embedding use cases (I used to try and track Chromium for my own embedding purposes before finally giving up because it broke constantly).<p>As far as Chrome on Android goes, I have no idea. In Google's case you would expect they would have the resources to keep up with changes to their own codebases.",1354602741
+4869792,comment,4868856,4869670,1,0,simfoo,,,"Keep in mind though that your mainboad must support USB-HDD mode for that to work. Many mainboards don't though, for these you need to install a bootloader on the plug.",1354602729
+4869791,comment,4868699,4868699,1,0,instakill,,,"Very nice, why no metal as a category?",1354602720
+4869790,comment,4867099,4869612,2,0,acc00,,,"not really. you aren't plugging a video card into a thunderbolt connector.<p>pci-e 2.0 x32 is 16gb/s. thunderbolt is 2.5gb/s",1354602670
+4869789,comment,4866054,4866553,2,0,astrodust,,,"Running in a browser is great for getting started, but anyone who's a web developer will have their browser tank and take down every web-based app with it. For this reason it's always nice to have a native client <i>option</i>. Propane (<a href=""http://propaneapp.com/"" rel=""nofollow"">http://propaneapp.com/</a>) is  great example of a simple native client.<p>Secondly, please, please bundle in XMPP so that writing agents for this kind of app isn't an exercise in sheer frustration.",1354602615
+4869788,comment,4869470,4869730,6,0,shawn-butler,,,"Isn't that how representative democracies work?  It's better than the alternative in some cultures which involves a lot of underhanded bribery to get people to look the other way.<p>I honestly get a little tired of Uber, Airbnb, et al, who found startups pursuing models that turn their customers into unknowing accomplices in order to execute and gain traction. And then abuse the rest of the startup community just to gain press attention.  It is profoundly unfair to take advantage of ethical lapses and should not be rewarded.<p>Why isn't it the case that part of the proof for VCs for businesses of dubious legality is the advocacy of regulatory reform early in product development rather than paying for hot air punditry in media that makes everyone look bad after the fact?  Is it because any advocacy they pay for would only help competition giving away lead time?<p>I don't disagree that heavy-handed overregulation is a bad thing, but we are going to face more of it not less if recent history is any indication.  Seems like some better strategies are needed.",1354602568
+4869787,comment,4869330,4869560,2,0,hrayr,,,"#99 Any data file of crucial importance will be padded to 1.45Mb in size.<p>Ah, sign of the times. This list was compiled in 1996.",1354602556
+4869786,comment,4869537,4869734,3,0,pcl,,,"I've heard that story before, except that when I heard it, the network was in one of the MIT Rad Lab buildings.",1354602532
+4869785,story,,,1,0,Trtfg,"Mom and boy porn pictures  Mature Fuck Young",http://maturefuckyoung.net/pictures.php?sub=Mom+and+Boy#.UL2XiHxBlAo.hackernews,,1354602436
+4869784,comment,4867645,4867645,1,0,hoka,,,"Oh wow, this looks amazing.  I just ctrl+clicked 16 talks :-)<p>I'm a student, and your student pricing is great.  If only air fare wasn't 4x the cost from where I am.  I might still come, though!  It's an investment in myself.",1354602430
+4869783,comment,4869330,4869665,3,0,raphman,,,"There is little ""open source"" research on hardware for novel user interfaces.
+Most of this stuff is published at scientific conferences like CHI, UIST, ITS, TEI. 
+As ""novelty"" is quite important for publishing one's work at these conferences, there is little incentive for doing open research.<p>Some nice stuff and communities can be found at <a href=""http://nuigroup.com/forums"" rel=""nofollow"">http://nuigroup.com/forums</a> or <a href=""http://hackaday.com/"" rel=""nofollow"">http://hackaday.com/</a><p>(btw: Bret Victor apparently pulished his rant _after_ Touch had been submitted to CHI.)",1354602307
+4869782,comment,4869595,4869595,5,0,tangue,,,"There is no mention anywhere of the 9% revenue share they expect when you publish a game with Flash. Did they change their minds ?",1354602225
+4869781,comment,4869640,4869640,12,0,JasonFruit,,,"For all his faults, John Gruber is perceptive and an incisive writer.  I tried to dismiss it as his unwillingness to blame Apple's hardware or ecosystem, but I have to admit it  Gruber's right that tablet-only delivery wasn't the problem with The Daily.  His assertion that an ill-defined audience and unnecessarily broad scope killed it is probably mostly on-target, too.",1354602212
+4869780,comment,4868057,4869340,2,0,enraged_camel,,,"Haswell will fix what? The battery life? Because that's a no. You might see some marginal improvement, but that's about it.",1354602179
+4869779,comment,4868856,4869240,3,0,Zak,,,"It is illegal, in the US to refuse to honor a warranty because of the use of third-party components, unless it can be proven that the third-party component caused the failure.<p><a href=""http://en.wikipedia.org/wiki/Magnuson%E2%80%93Moss_Warranty_Act"" rel=""nofollow"">http://en.wikipedia.org/wiki/Magnuson%E2%80%93Moss_Warranty_...</a>",1354602114
+4869778,comment,4867484,4869768,2,0,ehuna,,,"I used escrow.com for a big purchase on eBay (over $5,000) and it worked perfectly.",1354602108
+4869777,comment,4869470,4869730,5,0,afarrell,,,"It is indeed frustrating when code is not fully general and therefore needs to be changed in order to handle a case that hand't been previously thought of.",1354602107
+4869776,comment,4868057,4869626,1,0,enraged_camel,,,"Exactly. In order to be competitive this thing needs twice the battery life and half the price.",1354602102
+4869775,story,,,1,0,app360,"For All YC Startups: Interactive Banner Ad. We Will Create It For You. Free.",http://richmediaads.com,"Well, we need some exposure. Trying to see if this helps. :)",1354602044
+4869774,comment,4869537,4869537,1,0,chime,,,"Instead of vertical, I'd love to be able to see this horizontally overlaid on a map so I could find the weak spots in my house and work.",1354602016
+4869773,comment,4869640,4869640,21,0,sami36,,,"5 million / per year should (conservatively) pay for a staff of ~50. 30 in the newsroom, 10 in software/design, 5 sales, 5 mgmt).<p>if they couldn't make a 100,000 iPad publication work for this kind of budget, they're bloated & should go out of business.<p>The failure of The Daily is not a statement on Apple's 30 % cut, iPad vs web publishing. It's a damning commentary on yesteryear's Journalism still not getting it.",1354601943
+4869772,comment,4868057,4869613,1,0,novalis,,,"I don't think we should act like there aren't any quality freely distributed reporting sources.
+Someone paying for content can have the perception that it is worthy and better than other models, but that often leads to comsumption of more targeted content that fits the internal level of bias and doesn't necessarily make it to be of higher journalistic quality.
+These both considerations shape the content industry, and none of them are ""free"" models. Ignorance, in communication, is not an externality that we can afford in this day and age.",1354601938
+4869771,comment,4868908,4869410,1,0,hollerith,,,"You seem to imply that iPads never lock up and never have to be rebooted.  Not so.",1354601934
+4869770,comment,4868856,4869375,3,0,jlgreco,,,"I have use this before:<p><a href=""http://fedoraproject.org/wiki/How_to_create_and_use_Live_USB#Graphical_method:_using_liveusb-creator_.28Windows.2FFedora_only.29"" rel=""nofollow"">http://fedoraproject.org/wiki/How_to_create_and_use_Live_USB...</a><p>Very simple.",1354601927
+4869769,comment,4866438,4867304,1,0,ripperdoc,,,"Operators in all countries are worried about reduced profits due to expensive data traffic, and all operators have paid large amount of money to governments for their licenses. So yes, they did build the roads.",1354601917
+4869768,comment,4867484,4867759,3,0,otterley,,,"escrow.com does exactly that.",1354601893
+4869765,comment,4867484,4868719,1,0,URSpider94,,,"Dude, funny reply, but I never said that he was un-findable. The parent suggested sending a subpoena to the shipping address, which isn't likely to work in this case. Also keep in mind that the OP doesn't have the guy's credit card number, PayPal does -- and I bet they are not handing it over.",1354601710
+4869764,comment,4869470,4869470,2,0,2buckchuck,,,"I'm all for democracy, but the government shouldn't even have the right to regulate markets in such a way that innovation (and competition) can be stifled by the established players.<p>Some regulations are necessary. They ensure that we don't usually get feces in our food, etc. But this is a clear case of legislation directly interfering with competition.",1354601675
+4869763,story,,,2,0,SafeSituation,"IntegrityError in Django's User model",http://andrewychoi.wordpress.com/2012/12/04/integrityerror-with-users-in-django/,,1354601575
+4869762,comment,4869378,4869635,4,0,ScottBurson,,,"That Peter Thiel essay is brilliant!  I can't resist a brief quote:<p><i>Any company with a good secret plan will always be undervalued in a world where nobody believes in secrets and nobody believes in plans. The ability to execute against a long-term secret plan is thus incredibly powerful and important.</i><p>I did not know Thiel had such interesting things to say.  I will seek out more of his writings now.",1354601558
+4869761,comment,4865826,4869540,2,0,jtheory,,,"I can't imagine it's that clearcut.<p>What's the ""intended purpose"" for a general-purpose laptop?<p>Editing text, watching video, playing music, etc.., plus the long tail of more unusual things that may be possible depending on what software you install.<p>Are there any <i>relatively common</i> tasks that will actually be prevented by this level of ghosting?  I don't mean ""it's a bit annoying"", I mean ""this task is no longer feasible"".<p>I've never used a computer with any ghosting that bothered me personally, so I may be missing something.<p>I'm not a graphic designer though; but neither is the author of the post AFAICT (PhD business student).<p>So my feel is that this is more in the category of a scratch on the bottom of a new laptop (doesn't actually affect the use, but annoys you each time you notice it and remember you paid full price) than, say, a space bar that only works 80% of the time (which would actively mar your ability to use the device).<p>So sure, Apple may not be playing this right to give their customers the appropriate warm fuzzy feelings, but I highly doubt they're doing anything illegal.",1354601558
+4869760,comment,4868856,4869428,1,0,gcb,,,"wait, so can't we compile, generate the same binary and use the key as the checksums would be the same?",1354601536
+4869759,comment,4869378,4869634,2,0,benmccann,,,"I talk to Patrick Vlaskovits a decent amount as he is in the final stages of finishing a book about the lean methodology (leanentrepreneur.co). The thing that always really makes these discussions interesting to me is how many examples of lean he has from more traditional industries that he's featuring in the book. E.g. using a pop-up kitchen as a way to test a new restaurant idea, etc.",1354601526
+4869758,story,,,3,0,karinlevi,"Israel: Find a Co founer/ venture event",http://thejunction.co.il/2012/11/28/time-to-pair-up-3nd-founders-pair-up-night-at-the-junction-dec-6th/,"In case you or one of your awesomeness friends are looking for a Co founder.
+Or in case you're looking for a killer idea to join to, 
+This is an event for you (registration ends on Thursday night)",1354601516
+4869757,comment,4869537,4869537,2,0,pronoiac,,,"I love the possibilities here. I want to see rows traced out! Make something that looks like a Joy Division album cover. Use a bullet-time array of cameras to make a video. Make an augmented reality layer so you can see it as you wander the area.",1354601475
+4869756,comment,4837866,4838343,1,0,bemmu,,,"Are you subscribing to the paid Twitter firehose, or how do you get the data?<p>If you could find any feature at all to charge for, you might be surprised to find people signing up. For example you could have ""featured tweets"" with a retweet button underneath on the right side instead of (or in addition to) the ad block and charge for placement there for people who want their content to be more popular.",1354601449
+4869755,comment,4867578,4869280,3,0,georgemcbay,,,"""Most founders these days have common stock just like everyone else, and get diluted in the same situations.""<p>True but given the vast differences in allocations that may turn their theoretical 100s of millions into dozens of millions while turning employee shares from a ""really, really good bonus"" into ""not worth the transaction fees"".",1354601382
+4869754,comment,4868684,4869522,2,0,smarx,,,"Hi, I'm one of Site44's founders. Dropbox has been quite supportive in helping us to use their API. If you're curious how we interact with Dropbox, read our guest post on their developer blog: <a href=""https://www.dropbox.com/developers/blog/23"" rel=""nofollow"">https://www.dropbox.com/developers/blog/23</a>.",1354601318
+4869753,comment,4867099,4868096,2,0,mzarate06,,,"> Not really - the pins ... for Intel at least ... are much, much harder to damage.<p>Having built all my machines w/AMD cpu's I'll say that bent pins can be common, at least enough to justify taking care when installing the cpu on the mobo.  To supplement, I've bent a couple myself, and have helped a couple friends straighten some of theirs out as well.  They're not that hard to bend.",1354601304
+4869752,comment,4866661,4866661,1,0,sgt,,,"I find it a bit difficult to scroll up/down/left/right, because I constantly overshoot and then it stops scrolling. I then have to move the mouse back and try to find the exact point where it starts scrolling. A bit frustrating after 20 minutes of gameplay. Is there a way in HTML5 to ""capture"" the mouse within a certain area?",1354601239
+4869751,comment,4869330,4869330,2,0,lewisgodowski,,,"I believe Avatar Land at Walt Disney World will include this technology for interacting with the Tree of Souls and other plant and wildlife.",1354601191
+4869750,comment,4867577,4869095,6,0,InclinedPlane,,,"Not at all, actually. The whole interstellar mission aspect of the mission was entirely a beneficial side effect. In fact, the only part of the mission that was planned from the start was the Jupiter and Saturn encounters. The mission ended up becoming an outer Solar System ""grand tour"" due to a fortuitous planetary alignment, but only Voyager 2 was able to visit Uranus and Neptune. The interstellar mission was entirely unplanned and was funded mostly because it has been relatively inexpensive and for various reasons the Voyager craft have suitable instruments for studying the magnetic, particle, and dust environment in the outer Solar System and interstellar space.",1354601132
+4869749,comment,4869378,4869378,12,0,grinich,,,"<i>The pivot. It used to be called, the fuck-up.</i><p>That's so refreshing to hear these days.",1354601065
+4869748,comment,4869330,4869594,1,0,lewisgodowski,,,"Aren't the sensors placed within the door? Or am I missing something?",1354601047
+4869747,comment,4869595,4869718,10,0,georgemcbay,,,"They never completely gave up on mobile, they gave up on mobile in-browser plugins, essentially because they realized they'd never be let onto Safari.<p>They've continued to develop Flash/AIR tools for standalone mobile apps and the tools have improved quite a bit though obviously they still take a speed/size hit compared to true native and the resulting apps feel not-quite-native on any of the supported platforms.<p>They are still highly focused on HTML5 for their traditional non-game users (mostly people in marketing and advertisement and other interactive design fields).   But they're also focused on keeping the Flash platform going as both a cross-platform mobile app solution and a ""game console for the web"".<p>Their strategy here hasn't really changed since Adobe Max 2011 but their message has been twisted a lot by various ""camps"" both pro and anti Flash.",1354601041
+4869746,story,,,1,0,kapiolani,"Colombia to Offer Climate Change Insurance to Coffee Farmers",http://www.insurancetech.com/regulation/colombia-to-offer-climate-change-insuran/240142853,,1354601031
+4869745,story,,,2,0,JumpCrisscross,"24 hours of transportation on the New York MTA visualized",http://www.notcot.org/post/51560/,,1354600887
+4869744,comment,4865648,4869666,1,0,0xABADC0DA,,,"If you think you can do asyncMap in Google Go, without casts and without manually collecting multiple return values, by all means show us the code.  I would find that really interesting.",1354600886
+4869743,comment,4869640,4869640,21,0,shmerl,,,"<i>> But whats foolish about publishing on a single platform? ... I publish only on the web</i><p>Is he pretending not to understand, or he really doesn't know? Publishing on the web doesn't limit users, since web is an open and accessible platform (given that you have any decent browser). Publishing ""to iPad"" is artificially limiting your audience, because publishers weren't smart enough to use cross platform publishing technologies (PDF anyone?).<p>So no - one platform publishing is plain stupid in this day and age. And no - the Web is not called one platform publishing either.",1354600820

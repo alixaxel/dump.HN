@@ -1,0 +1,397 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3179987,comment,3179645,3179645,5,0,tdicola,,,"Guaranteed to operate in ionizing radiation of 10^12 rad/s.  Yikes, that's like 10 billion sieverts/s.  Since a dose of something like 10+ sieverts is fatal I'm guessing a human would be turned to a puddle of goo around that much radiation.",1320109195
+3179986,comment,3179645,3179908,1,0,sliverstorm,,,"It could be that I just don't know enough about redundant system design, but I'm pretty sure the way Voyager worked was each computer ran independently and identically, and the result of computations was simply compared to the result on the other computers. In other words, you run it like Folding@Home or SETI@Home which send each job to multiple clients. That doesn't seem like a difficult problem to tackle.",1320109136
+3179985,comment,3178495,3178679,4,0,Fluxx,,,"These all seem like serious issues.  Why even use Mongo in the first place?",1320109135
+3179984,comment,3178545,3179214,1,0,gbog,,,"I'd say it's just the common amplification style. Some other prefer understatements.",1320109114
+3179983,comment,3179412,3179412,1,0,mattallen,,,"This is the way I bootstrap with my kids.<p>How do you guys do it?",1320109109
+3179982,comment,3179129,3179237,2,0,cgranade,,,"I agree, that is a poor choice to have as the only way to share something. An easy fix would be to add a link on each item as a kind of synonym for the Share button in the G+ bar. That said, the problem is a pretty minor one given the extent of the redesign. I'm rather happy with the new Reader myself.",1320109106
+3179981,comment,3178521,3179830,4,0,briandear,,,"Korea too. Many sites in East Asia use java applets and active x nonsense. Kind of ironic since Zen is from Japan and the websites are anything but. Although one block of a Chinese, Korean or Japanese city probably has more neon than all of Las Vegas.",1320109090
+3179980,comment,3179645,3179915,10,0,burgerbrain,,,"Perhaps the idea is to disengage delicate circuitry from long potentially antenna like circuits.",1320109066
+3179979,comment,3179890,3179973,8,0,Steko,,,"Going up a level to his main directory you get:<p># Extracting Patterns and Relations from the World Wide Web<p>by Sergey Brin.
+We demonstrate a technique for extracting relations from the WWW based on the duality of patterns and relations. We experiment with it by extracting a relations of books. WebDB Workshop at EDBT '98 (postscript).",1320109057
+3179977,comment,3178495,3178679,1,0,PaulHoule,,,"MongoDB is blazingly fast sometimes.  You might try something a little different and find it's 50 times slower.",1320108985
+3179976,comment,3179645,3179645,11,0,kabdib,,,"I've wondered about the following:<p>The firmware controlling a nuke has to have, at some point, a bit or control register it sets that causes the explosion to go off:<p><pre><code>    *pKaboom = true;
+</code></pre>
+or something like that. My question is: What is the line of code after that?<p><pre><code>    *pKaboom = true;
+    /*NOTREACHED*/
+</code></pre>
+I suspect it's more complicated than that (there's an infinite loop of some kind that keeps retrying the command sequence). I also suspect I will never know, short of some very hush-hush software being open-sourced someday. :)",1320108943
+3179975,comment,3179966,3179966,4,0,fennecfoxen,,,"Of course, you can break into the <i>global</i> top 1% with a mere $34,000 a year.",1320108939
+3179974,comment,3179501,3179501,1,0,sixtofour,,,"""Shuttleworth said that power users want to have things just work,""<p>And yet ...",1320108916
+3179973,comment,3179890,3179890,2,0,Steko,,,"I don't think these are ""Sergey's Favorite Books"", I think this is a meta-list Sergey put together based on the phrase ""My Favorite Books""",1320108900
+3179972,story,,,1,0,sitetrail,"104 Year Old Learns To Use Twitter",http://www.sitetrail.com/2011/10/31/104-year-old-learns-to-use-twitter/,,1320108865
+3179971,comment,3179890,3179938,8,0,jessriedel,,,"If the books average 100 pages and he read a page every 40 seconds, that works out over 2 years of continuous reading for 16 hours per day.  So this isn't real.",1320108814
+3179970,comment,3179645,3179645,3,0,JonnieCache,,,"They also sell something called the SCS750 which is apparently like a BeagleBoard <i>IN SPAAAACE...</i><p><a href=""http://www.maxwell.com/products/microelectronics/product.aspx?PID=SPACE-SBC"" rel=""nofollow"">http://www.maxwell.com/products/microelectronics/product.asp...</a><p>Datasheet: <a href=""http://www.maxwell.com/products/microelectronics/docs/SCS750_REV7.PDF"" rel=""nofollow"">http://www.maxwell.com/products/microelectronics/docs/SCS750...</a><p>Its CPU is in fact triply-redundant, like pjscott was saying. They run in lockstep, and they do some fancy stuff that involves dumping the CPU registers to memory, ""scrubbing"" the registers and then restoring them. I recommend having a look.<p>Space is cool. Even when it does have nuclear weapons in it.",1320108795
+3179969,comment,3179890,3179890,2,0,christoph,,,"""Mein Kampf"" ... really?",1320108788
+3179968,story,,,1,0,ca45hg63d,"Golden Locks Longbeach",http://bit.ly/ppq5jN,,1320108781
+3179967,comment,3179515,3179922,4,0,tiles,,,"Google is big on Java development, so I bet many of their programmers are Eclipse users. (Remember that the prominent way to author Android apps is through an Eclipse plugin.)<p>I imagine the Dart editor was probably spun off early attempts at writing Eclipse integration, until someone realized they could write a much leaner editor and gain some developer props for focusing on the developer experience first.",1320108779
+3179966,story,,,32,47,econner,"Where is the One Percent?",http://thekeesh.com/onepercent/,,1320108770
+3179965,story,,,2,0,grandiosemark,"How to Track Email Opens, Clicks, Prints, Skims, and Forwards, Litmus Style.",http://stackoverflow.com/questions/3224436/how-does-litmus-track-their-email-analytics,,1320108770
+3179964,comment,3177729,3177729,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108767
+3179962,story,,,1,0,5partan,"How to Think Like a Computer Scientist: Learning with Python v2nd Edition",http://openbookproject.net/thinkCSpy/#,,1320108761
+3179961,comment,3179370,3179833,8,0,treetrouble,,,"Characterizing the Ruby philosophy as ""you are a special snowflake"" is, well, starting a flamewar",1320108748
+3179960,comment,3178545,3178545,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108745
+3179959,comment,3179329,3179842,1,0,jaylevitt,,,"I guess the real answer is treating your computer as a set of audio appliances, and ensuring that your editing appliance can effectively communicate with your DSP appliance.  e.g., more stuff like FX Teleport (<a href=""http://www.fx-max.com/fxt/product.html"" rel=""nofollow"">http://www.fx-max.com/fxt/product.html</a>), RedNet (<a href=""http://www.focusrite.com/rednet/"" rel=""nofollow"">http://www.focusrite.com/rednet/</a>), AudioPort (<a href=""http://www.audioimpressions.com/support/faqs/audioport-universal"" rel=""nofollow"">http://www.audioimpressions.com/support/faqs/audioport-unive...</a>), etc.",1320108731
+3179958,comment,3179032,3179032,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108729
+3179957,comment,3178545,3178545,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108728
+3179956,comment,3179134,3179134,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108722
+3179955,comment,3179032,3179896,12,0,toyg,,,"I don't know why they just didn't try to automatically convert the Readers categories of users into G+ circles, plus a button ""not on G+? click here and join"".<p>Google -1 on this one.<p>(and yeah, the new grey-on-grey style is really bad and depressing.)",1320108717
+3179954,comment,3179645,3179645,1,0,fashionfshi,,,"everybody, the good shoping place, the new season approaching, click in. 
+Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>  
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+<a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> 
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===
+=== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ===",1320108705
+3179953,comment,3174727,3176491,3,0,skybrian,,,"I'd say it's more like struggling to understand pointers: there's plenty of evidence that beginners struggle with it (e.g. all the monad tutorials), and if you're surprised by that then I'd guess you haven't done much teaching or interviewing. (One of my favorite interview questions requires people to understand escape sequences in a slightly more abstract way than usual, and you'd be surprised.)<p>In general I find that people do better with concrete examples and struggle with abstract rules. It's not at all obvious to a JavaScript programmer (for example) that asynchronous calls have anything to do with monads, and the designers of mainstream languages have to be very aware of their audience.<p>So, my question is how extending the type system might be turned into a concrete feature in a ""mainstream"" language. It's not too often that we need to prove things about red-black trees.",1320108704
+3179952,comment,3178376,3179821,4,0,carbocation,,,"Sure. Write a browser plugin that detects and hides YC-related posts.<p>But must you complain about the food when you're eating for free at PG's potluck?",1320108698
+3179951,comment,3179296,3179942,1,0,browser411,,,"Self-reported, vendors' own websites, and a variety of other sources.",1320108657
+3179950,comment,3179645,3179912,13,0,pjscott,,,"Of course! When the !NED pin goes low, duck and cover like it's 1959.<p>(Fun fact: in a fairly large portion of the blast radius of a nuclear bomb, the main danger for people indoors is falling debris and broken glass from the pressure waves. Duck and cover actually works.)",1320108637
+3179949,comment,3179505,3179505,1,0,fashionfshi,,,"Welcome to ==== <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a> ==	
+Air Jordan (1-24) shoes $35
+UGG BOOT $50 
+Nike shox (R4, NZ, OZ, TL1, TL2, TL3) $35
+Handbags ( Coach Lv fendi D&G) $35
+T-shirts (polo, ed hardy, lacoste) $16
+Jean (True Religion, ed hardy, coogi)$34
+Sunglasses ( Oakey, coach, Gucci, Armaini)$15
+New era cap $16
+Bikini (Ed hardy, polo) $18
+FREE SHIPPING
+ <a href=""http://www.fashion-long-4biz.com"" rel=""nofollow"">http://www.fashion-long-4biz.com</a>",1320108637
+3179948,comment,3178545,3178973,2,0,morsch,,,"I think Stallman is fantastic; I couldn't care less about Gruber. I actually found the rider thing oddly fascinating and not at all crazy -- I actually read through the entire thing in a single sitting, but I still laughed involuntarily when I looked at The Stallman Dialogues (the ""mock"" site):<p><pre><code>  Friendly conference organizer: I'm happy to have you stay at my house, Mr. Stallman. I hope you find the couch comfortable, I vacuumed all the cat hair off of it. And here, let me get you a fresh set of sheets.
+  Stallman: Thank you. I like this much more than staying in a hotel.
+  Friendly conference organizer: Great!
+  Stallman: It's a bit warm in here, though.
+  Friendly conference organizer: Is it? I guess I'm used to it.
+  Stallman: Above 72 fahrenheit (22 centigrade) I find sleeping quite difficult.
+  Friendly conference organizer: Well... I'll see if I have a fan?
+  Stallman: If the air is dry, I can stand 23 degrees.
+  Friendly conference organizer: I don't know if I have a dehumidifier. I'll go grab our fan...
+  Stallman: Thank you. A strong electric fan blowing on me enables me to sleep.</code></pre>",1320108632
+3179947,comment,3179645,3179915,9,0,ynniv,,,"You can harden your circuits against EMP, it's just expensive and almost universally unnecessary. Almost.",1320108615
+3179946,comment,3179890,3179917,5,0,dataminer,,,"The source says the page was created on Jan 14th, 1998 and it was created automatically from hundreds of sources on the web.",1320108614
+3179945,comment,3179890,3179890,8,0,justinschuh,,,"From the source HTML:<p><!-- Below is a list of books automatically extracted from hundreds of
+sources on the Web. -->",1320108541
+3179944,comment,3179868,3179868,0,0,apaprocki,,,"HP CEO Leo Apotheker on what he's learned from RIM's PlayBook: ""We will not release a product that isn't perfect.""<p>Talk about celebrity endorsement! Now if only there was a quote from Reed Hastings about spinning off the BBM business..",1320108539
+3179943,comment,3178545,3179871,1,0,benatkin,,,"Disagree; there have been notable people in the FOSS community calling for a new leader of a Free Software movement and referencing stuff like this. I think it was worthwhile for Dave Winer to write this post and state his opinion that this kind of stuff shouldn't get in the way of Richard Stallman pursuing his dreams.",1320108505
+3179942,comment,3179296,3179296,1,0,jf,,,"Where are you getting the data on who uses what?",1320108484
+3179940,comment,3179890,3179890,1,0,coleslaw374,,,"I swear this is some sort of puzzle...the duplicate listings make it seem dynamically generated.",1320108473
+3179939,comment,3179645,3179908,2,0,pjscott,,,"If you make a bunch of (highly redundant) small processors, then I don't see why it would be much harder than the clock distribution issues in large processors, which also need to keep all their parts in sync.<p>Alternately, it's possible to use asynchronous processor design and not worry about clock distribution. The tools aren't really there, but there have been async processors made before, and they work. They handle synchronization with local handshaking, instead of distributing a clock signal everywhere.<p>Another option is to abandon the cycle-for-cycle lockstep requirements, and just ensure that the synchronization time is bounded, and reasonably low. I know there have been some papers published about using this kind of globally-asynchronous-locally-synchronous architecture for realtime apps.",1320108462
+3179938,comment,3179890,3179890,9,0,petercooper,,,"There are 15,257 books in that list so it might not provide quite the catchy insights you may think from the title alone.",1320108462
+3179937,story,,,1,0,fashionfshi,"McAfee | Secure Short URL Service",http://mcaf.ee/#.Tq8_QckfRHI.hackernews,,1320108438
+3179936,comment,3179032,3179032,1,0,RexRollman,,,"Does using Reader now imply a membership in Google+? I am not interested in G+ but I would like to continue using Reader.",1320108375
+3179935,comment,3178545,3179439,2,0,benatkin,,,"I think <i>crazy and amazing</i> is used in an endearing sort of way, too.<p>> That's right up there with Van Halen's brown-free bowl of M&Ms and Lady Gaga's Cockney-speaking staff.<p>The second item links here:<p><a href=""http://en.wikipedia.org/wiki/Rider_%28theater%29#Notable_rider_requests"" rel=""nofollow"">http://en.wikipedia.org/wiki/Rider_%28theater%29#Notable_rid...</a><p>Where there are more people who are pretty good company to be on a list with, like Johnny Cash. If I edited the article to put Richard Stallman on that list, I wonder how long it would last...",1320108368
+3179934,comment,3178007,3179619,1,0,Sukotto,,,"Instead of not sending an invoice I think it might be smarter to send one and have a line item ""Early adopter bonus -$xx"". That way once the bonus runs out, it won't be quite as surprising for the user.",1320108366
+3179933,comment,3179129,3179129,4,0,chad_oliver,,,"Contrary to most people here, I really like the new layout. I'm trying to move to web-apps for most of my daily needs, and I specifically decided that the old Google Reader wasn't good enough.<p>This feels much more like a native app, rather than something that 1999 forgot. Form may not equal function, but it sure influences function.",1320108362
+3179932,comment,3179370,3179747,3,0,jgmmo,,,"If interested, you can check out BioRuby - bioinformatics package for ruby @ BioRuby.com",1320108352
+3179931,comment,3179663,3179663,3,0,ChuckMcM,,,"Good post, its important to know what you want and what is important. When I first started talking to VC partners I discovered that they were like any sort of relationship, and like those relationships if they have something that annoys you now, its only going to get worse. So ask yourself early on if you can deal with that.",1320108349
+3179930,comment,3179129,3179487,3,0,joebadmo,,,"I totally disagree. The old social functions were totally opaque, irrational, and hard to control.<p>The new system allows you to share with select groups, or publicly, in a very granular way.<p>Just because you got used to an old, broken way of doing things doesn't mean that it was better. I can't believe the amount of collective bitching about this long-overdue overhaul.",1320108313
+3179929,comment,3179645,3179852,7,0,bisrig,,,"That ASIC idea is pretty neat - it kind of sounds like taking the problem of single event upset and turning it into a solution, pretty clever.",1320108308
+3179928,comment,3178886,3179817,1,0,draxofavalon,,,"I have some blogs and every registration sends me a email.",1320108297
+3179927,comment,3179780,3179881,1,0,apparatchik,,,"Interesting, this is apparently built off of news.arc<p>...what is it?",1320108284
+3179926,story,,,1,0,gillygize,"Japanese Social Game Companies Report Large Profits",http://techcrunch.com/2011/10/31/dena-gree-japan/,,1320108260
+3179925,comment,3179329,3179625,2,0,prodigal_erik,,,"> What I'd like to see in the Mac line is an upgradeable, affordable desktop [] I'm not holding my breath however.<p>That's probably for the best. Their refusal to make one has kept them in a niche of expensive disposable machines for about 25 years, both before and after the clone vendors demonstrated how much demand there could be. Then they noticed how many people accept expensive disposable MP3 players and phones. I expect them to gradually abandon the computer market altogether.",1320108249
+3179924,comment,3179296,3179910,1,0,browser411,,,"Thanks for the constructive criticism. We definitely want to flesh out the content, and accounting is a category that several folks have asked for (i.e., software, human accountants, etc).",1320108243
+3179923,comment,3179370,3179885,1,0,treetrouble,,,"These kinds of projects can take years to take hold; you can't expect people to just all switch right away.  Blog posts like this just need to be commented on with a link to those libraries.  Eventually some big lecture, class or project will use one of those libraries and a whole new group of people will supplement the community.  This doesn't just go for Ruby, it applies to any language<p>Ruby performance in general is getting much better and when C extensions are necessary (as they often are in any high level language) libraries like ruby-ffi have taken a lot of the pain out of that process.",1320108239
+3179922,comment,3179515,3179515,4,0,thurn,,,"What's up with building an editor instead of a general IDE toolkit (like Scion or Rope)? I'm not going to stop using Emacs just to get Dart support, so folks ought to focus on the general case.",1320108218
+3179921,comment,3179505,3179797,3,0,ww520,,,"Well, that's what global variable means, shared among all functions in the process.  Since there's only one process to handle all requests, they can access the global variables.<p>All languages used in web server that don't spawn a new process for each request have the same feature.",1320108207
+3179920,comment,3177729,3178255,4,0,aswanson,,,"One way of looking at it was that the problem Paul was trying to solve was: ""How can I stop spending the majority of my waking hours working on things that I don't care about in languages and working environments  that are soul-killing?  Eureka! I'll condense that uncomfortable period by using the most powerful tools and techniques at my disposal (which I happen to love) and be done with it.""",1320108173
+3179919,comment,3177520,3177520,1,0,foobarbazetc,,,"These guys are pretty impressive, for a company no one really knows about or hears about.<p>Serious question: who uses it and why? :)",1320108124
+3179918,comment,3178545,3179228,7,0,SimHacker,,,"Stallman is an atheist, but he uses religious expressions and extreme caricatures like that to be funny. If you're mortally offended, you're taking it the wrong way. He can be very witty, if your skin is thick enough to appreciate his sense of humor.<p>At a science fiction convention in the 80's, Mike and I (who worked for ""Evil Software Hoarder"" Unipress on Gosling's  ""Evil"" commercial version of Emacs) ran across RMS:<p>Mike said: ""Hello, Richard. I heard a rumor that your house burned down. That's terrible! Is it true?""<p>RMS replied right back: ""Yes, it did. But where you work, you probably heard about it in advance.""<p>Everybody laughed. It was a joke! Nobody's feelings were hurt. He's a funny guy, quick on his feet!",1320108112
+3179917,comment,3179890,3179890,2,0,hugh3,,,"Is that a pre-google list kept up for posterity along with the rest of his Stanford page? Because that's a <i>lot</i> of books for someone that age even to have <i>read</i>, let alone to be his favourite subset of the books he has read.<p>A bunch of 'em seem to be listed twice, in immediate sucession, though, which is weird.",1320108097
+3179916,comment,3179505,3179840,10,0,chromatic,,,"My theory is that most of the offending language designers looked at variable declaration in languages with static typing and thought ""Wait, we don't have static types, so there's no reason to declare variables!""",1320108085
+3179915,comment,3179645,3179852,8,0,kprobst,,,"I thought EMP affected electronics regardless of whether they are powered at the time of the burst or not?",1320108049
+3179914,comment,3179505,3179540,19,0,bmj,,,"Running some variation of JSLint in his editor/IDE would likely have caught this, too.",1320107999
+3179913,comment,3155912,3155912,1,0,bradleyland,,,"I would suggest that if your ideas are so numerous that you need anything more than a simple notebook to track them, you're probably working on the wrong problem.<p>Ideas die in a vacuum. Don't be the guy that retires with a notebook full of ideas that no one ever tried. Talk to people and develop your ideas. If it doesn't work, toss it and move on.",1320107976
+3179912,comment,3179645,3179854,9,0,sjwright,,,"You're physically uncomfortable about indefinite 1999-esque partying? Do you have something better to do when !ned_pin?",1320107962
+3179911,comment,3179105,3179105,4,0,pingswept,,,"I'm pretty excited that Mr. Kridner and friends are working on a web-based IDE hosted on the device. I've been working on this kind of self-served programming tool for a while now, and I'm excited to see others joining the effort.<p>Mine is based around CodeMirror (<a href=""http://codemirror.net"" rel=""nofollow"">http://codemirror.net</a>), while they chose Cloud9 (<a href=""http://c9.io"" rel=""nofollow"">http://c9.io</a>). I actually started using Bespin, which was a precursor to Cloud9, but switched to CodeMirror because it had less kitchen sink included.",1320107949
+3179910,comment,3179296,3179296,3,0,OJKoukaz,,,"The design is bad, but you're serving a need that is big enough (for me, at least; I'll probably come back). I'd an accounting ""accounting"" category (I know of very few accounting ""solutions"" for startups).<p>I would also get a new domain name. I already forgot yours. In general I would stick to one abbreviated component (e.g. B2BREVIEW) if you're going to stick to this route. Finding another, more memorable name, should be easy. Better name may also marginally improve SEO.<p>Like the business, and if the index is robust enough, I would imagine easy to monetize.",1320107935
+3179909,comment,3179780,3179780,0,0,Claudius021,,,"Thanks for the answers guys.",1320107925
+3179908,comment,3179645,3179886,2,0,JonnieCache,,,"Doesn't the difficulty/expense of keeping all those processors running in absolute cycle-for-cycle lockstep increase dramatically with the amount of redundancy?<p>I vaguely remember being taught that this is the big problem developing real-time safety critical systems.",1320107897
+3179907,comment,3178545,3178722,0,0,jacob_riis,,,Citation?,1320107897
+3179906,comment,3178585,3179796,1,0,sliverstorm,,,"People haven't agreed yet what ratios matter, so I think it's acceptable to focus on the concrete numbers at this point- particularly for the layman, which NPR must consider.<p>'Which ratios' <i>is</i> a very important question- odds are there are only a handful that will really matter. For example, we seem to be running out of oil, heavy metals and helium a lot faster than we are land.",1320107880
+3179905,comment,3170165,3170286,1,0,mzbridget,,,"Very well put. I needed this explanation.",1320107865
+3179904,comment,3178585,3179310,2,0,sliverstorm,,,"I did like the population densities at the start.",1320107838
+3179903,comment,3177349,3177766,2,0,stephth,,,"This is quite amazing. I have a hard time visualizing time, Im often arriving late, or surprised that the month was over so soon, and have a hard time visualizing the progress of a project over time. To cope with this, I spend quite some energy programming/drawing visualizations of my past/future, and these have often given me critical insights. It's amazing to me that some people have an ability to naturally visualize time as a space they move within.<p>Talking about what it's like to be in our brains and not assume that we should all function the same way can lead us to so much insight about ourselves, about our limitations, about how we can improve our lives. Thanks for sharing your experience and the article.",1320107819
+3179902,story,,,1,0,freemoneywisdom,"Set Your Financial Life to Automatic",http://www.freemoneywisdom.com/set-your-financial-life-automatic/,"Use these common sense tips to set your financial life to automatic.  It's not hard to set things to automatic and never worry about them again.",1320107800
+3179901,comment,3177815,3177815,1,0,cioc,,,"thanks for the answers everybody.  I'll do a little bit of reading now.  Nicely surprised about how much info got compiled here.  Cheers!",1320107769
+3179900,comment,3179505,3179562,5,0,finnw,,,"Now there's an argument for syntax highlighting.<p>It also doesn't happen in languages where you must say <i>self.x</i> to access a property/field called <i>x</i>.",1320107767
+3179899,comment,3174112,3174112,1,0,kleim,,,"This is so ridiculous. China really thinks US Army is using Google maps? I wonder how they did not figured out that all armies are not working like theirs...",1320107734
+3179898,comment,3179780,3179881,7,0,jpulgarin,,,"This is THE most confusing thing I have come across.",1320107709
+3179897,comment,3179032,3179860,2,0,mjfern,,,"Great. Please let me know if you have any questions or feedback. Thanks!",1320107685
+3179896,comment,3179032,3179032,20,0,rudyfink,,,"A few thoughts after a some use:<p>I was part of a community of people I liked, and now, 
+after I clicked a button, that was gone.  I miss those people already.  I don't recall anything on the text that clearly said ""oh yeah, stuff will be gone, including your friends, and we meant to do that.""<p>If I want to share now, I have to do so publicly with the Internet or click a ""share"" button way in the upper right and then build up groups.  There does not seem to be an easy way to get my friends back and to get them into a reader feed.  I apparently have to look at my G+ feed if a friend sends me an item.  I do not seem to have any convenient way to filter out those useful posts from all the spam of G+.<p>I had easy access to search a list of things that I had found interesting over the years, and now, I guess I'm going to have to find another program to even look at that.  I do appreciate that it was not outright destroyed, so thanks for that kindness.<p>Visually, I'm baffled.  Apparently, grey and slightly darker grey are now visually effective colors for distinguishing things.  I can, of course, adjust to this but overall it does not instill me with confidence.<p>I am, obviously, now looking for a way back to what I had this morning.  If someone figures that out, I'll thank them.  If it's something that needs support, I'll support it.",1320107661
+3179895,comment,3170165,3170332,1,0,mzbridget,,,"Yeah, nailed it. Its a tough trade-off and a really good reason why there should be 3 co-founders.",1320107653
+3179894,comment,3179780,3179881,1,0,TruthElixirX,,,"What is this? Spam?",1320107620
+3179893,comment,3179505,3179537,2,0,finnw,,,"I don't know Coffeescript - does it implicitly create a local var when there is already a global with the same name?",1320107600
+3179892,comment,3179645,3179728,3,0,shabble,,,"There's some interesting material on the Honeywell HX5000 process (Silicon on Insulator - usually synthetic sapphire) for radiation hardening.<p>There's an interesting (if somewhat technical) document here: <a href=""http://www51.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Space-documents/HX5000_Series_0.15um_SOI.pdf"" rel=""nofollow"">http://www51.honeywell.com/aero/common/documents/myaerospace...</a>",1320107548
+3179891,comment,3179874,3179874,1,0,rougefeta,,,"Edit: If you wanted to make someone respond online how would you do it?<p>Say for example, to your emails.",1320107540
+3179890,story,,,16,15,butterscotch,"Sergey Brin - Favorite Books",http://infolab.stanford.edu/~sergey/booklist.html,,1320107538
+3179889,comment,3178545,3179606,0,0,meric,,,"You are trying to use ""a bit of ridicule"" to change rms's personal habits, then saying ""That's a very long way from saying anything about violence"".<p>I fail to see how this contributes to anything.",1320107465
+3179888,comment,3179505,3179505,0,0,jroseattle,,,"> I would posit here that nothing I could do in best practice (manual front-end testing, unit testing, error handling, etc.) would have caught the offending line.<p>Sorry, that's incorrect. If you cannot fully simulate your environment for purposes of validation, you're not covering your bases.",1320107464
+3179887,comment,3179505,3179505,3,0,kaffeinecoma,,,"You can do some poor man's load testing very simply with siege (<a href=""http://www.joedog.org/index/siege-home"" rel=""nofollow"">http://www.joedog.org/index/siege-home</a>). Put a bunch of URLs in a text file, and run it with ""siege -f urls.txt"".<p>Of course it doesn't <i>prove</i> that your code is bug-free, but if you have concurrency issues, this will help shake them out. I've used this many times to reveal problems with DB connection pooling, concurrency issues, and excessive session size.",1320107435
+3179886,comment,3179645,3179859,1,0,pjscott,,,"Just think how much redundancy you could get, cheaply, with the advances that have been made with Moore's Law over the years. Computers for space probes don't need to be that fancy. It's totally feasible to build processors that use error-correcting codes in their entire datapaths, have tri-modular redundancy for all their functional units, and then are arranged alongside several other identical processors for ridiculous amounts of redundancy.<p>This sounds silly, but the vast majority of the cost is non-recurring engineering cost. Manufacturing it would be a relatively cheap matter of sending the design to a fab like TSMC along with a bundle of money. Transistors are dirt cheap.",1320107416
+3179885,comment,3179370,3179747,5,0,mbell,,,"It's been tried before.  mum, Numerical Ruby and SciRuby were all attempts.<p>The fundamental issue I believe they all had is lack of community.  There is a quite large community of folks using Python for scientific computing.  Many are not professional developers but rather scientists / engineers who aren't as open to jumping around to different languages as a developer would be.<p>These issues combined with the fact that Ruby is mostly pigeon-holed as a web only language would make replicating the community that the NumPy/SciPy/matplotlib stack enjoys almost impossible.<p>It also doesn't help that such capability have to be implemented as C extensions due to performance requirements.  This greatly limits the number of developers that would/could work on such a project.",1320107404
+3179884,story,,,1,0,tekno2828,"IPhone 4s'teki pil sorunu sebebi",http://www.teknogundem.net/mobil/iphone-4steki-pil-sorunu-sebebi/,,1320107401
+3179883,comment,3179370,3179839,9,0,rjd,,,"I did something recently I wish I did years ago, I picked up a second language for personal projects. Which just so happened to be python, but I agree it probably doesn't matter, but from my experience don't use the same language you use at work everyday.<p>I'm not sure if I'm alone but I spend WAY to much time in front of my computer. 8-10 hours a day working, and then I often use my laptop casually to write stuff at night in front of the TV.<p>There came a point several years ago where I became disgusted with Windows. Not so much Microsoft, more enterprise infrastructure teams. But the negativity flowed over to personal use. So I brought a mac for personal use, I wanted the disconnect between work and fun. Windows for me is over, I'll never have another Windows machine in my house... in fact it will mainly be appliances for me... and by that I mean Apple products.<p>For a long time I plugged on using mono, but I lost the drive to program it just wasn't fun anymore. I'd get 80-90% of the way through a project and just hate finishing it. As soon as the fun exploration bit was over and I had to spend time aligning pixels or whatever it just felt like work. I hated it.<p>By pure chance I started using python to show my unskilled friend some ideas. He could follow python without much guidance, C# confused him. Since then I've grown to enjoy programming in the evensong again. I'm not sure if its the same disconnect I needed between work/fun or what... but its working.<p>Especially the ability to sit with my macbook, feet up on lazy chair, half watching TV, terminal open testing bits and pieces, IDE doing the thinking for me (PyCharm gets a thumbs up from me), and a nice hassle free (and inspectable) stack. The casual nature of python just seems to click perfectly with my mood in the evenings.<p>So theres my advice for languages, separate work and fun. Don't use the same stack for enjoyment as you do for stress endeavors.",1320107374
+3179882,comment,3179370,3179370,2,0,finnw,,,"Who is the article (at least the first half of it) aimed at?<p>Are there any Java developers who still haven't dabbled with dynamic languages <i>but</i> could still be convinced to?<p>I imagine that those who will already have done, and the rest will never touch any language not in the ""enterprise"" class (Java, C#, C++, COBOL etc.)",1320107354
+3179881,comment,3179780,3179780,-4,0,rougefeta,,,"Please help us beat the clock.<p><a href=""http://rougefeta.com/view?id=GCZS2PXFur4uNApe4erotWY"" rel=""nofollow"">http://rougefeta.com/view?id=GCZS2PXFur4uNApe4erotWY</a>",1320107338
+3179880,comment,3179129,3179129,1,0,MarkSweep,,,"Is there a way to get your old shared items back?  I'm feeling a betrayed having all those interesting links and comments taken away from me.",1320107324
+3179879,comment,3179032,3179615,1,0,cpeterso,,,"Thanks! I thought I was going to have to deploy the plusfeed code on my own server. :D",1320107315
+3179878,comment,3179129,3179129,2,0,teilo,,,"The New Google Reader is ugly and has fewer features. Hardly what I would call an upgrade.",1320107284
+3179877,comment,3179601,3179601,1,0,vonsydov,,,"how good are you at reading highly technical science papers ?",1320107270
+3179876,comment,3178545,3178545,1,0,ojosilva,,,"I just don't like when people resort to pity to get their point across. That's some cheap rhetoric stunt. And that's exactly what Dave Winer tries here: poor Sam in high school, poor Winer  tortured by them trolls. Don't lower Stallman there. He's not some poor victim Sam from a broken home. He's a man with his beliefs who made his life choices. That's not something a lot of people out there can profess. He's not asking for nobody's mercy. He's no Sam. He's no winer. He needs no stunts.",1320107264
+3179875,comment,3177615,3179758,2,0,skybrian,,,"Maybe it's better with more experience or when you're reading your own code, but I find that reading a Haskell program is often like reading a math paper - you can't skim it; you have to slow way down and study it, one line at a time, and look up the definition of each term as you go and think about what it means, and try out simple examples. And sometimes you don't have the background to understand the underlying concepts, so you have to study a prerequisite first.<p>So I think to like Haskell, you have to truly believe that more abstraction is better. It's very much a mathematician's language.<p>The thing is, when writing code, I don't want to write a math paper. When I'm done, I want it to be as smooth and easy to read and as obvious as an article in the New Yorker.",1320107263
+3179874,story,,,2,1,rougefeta,"Make us an offer we cannot refuse",http://rougefeta.com/view?id=GCZS2PXFur4uNApe4erotWY,,1320107158
+3179873,comment,3179505,3179840,4,0,cpeterso,,,"ALGOL '58 used := and = as distinct operators for assignment and equality in 1958.<p><a href=""https://en.wikipedia.org/wiki/ALGOL_58#ALGOL_58.27s_influence_on_ALGOL_60"" rel=""nofollow"">https://en.wikipedia.org/wiki/ALGOL_58#ALGOL_58.27s_influenc...</a>",1320107141
+3179872,story,,,1,0,newallie,"3 Steps to More Sales By Split Testing",http://viraladvertisingbusiness.com/links/2505,,1320107126
+3179871,comment,3178545,3178545,4,0,teyc,,,"For Dave Winer to stand up for Stallman, requires someone to pick on him and Stallman not being able to defend himself. I don't see either of it happening.<p>Stallman wasn't going to alter his behavior because of Kotte, and Kotte probabably isn't as affectionate with parrots - but that's OK with me.<p>There is no Pick-On-Stallman movement. He has his beliefs and it presents an alternate model for software cooperation. For some situation, it clearly works, while for others, not so much.<p>Of all the freedoms, the freedom to express an idea is one of the most important. As long as it is done in a manner that protects the weak. Stallman simply doesn't qualify. We recognize ad hominem for what it is, and Kotte's jibe is just that.",1320107124
+3179870,comment,3178545,3179072,3,0,nikatwork,,,"So if I use a tool or product, I must automatically agree with the maker's ideology?<p>I've used John Galliano aftershave, and I'm no racist.",1320107092
+3179869,comment,3179505,3179797,7,0,fennecfoxen,,,"Global variables are basically instance variables on the process itself. They're going to be shared across all requests in all environments that handle more than a single request per process. If they had different semantics, they wouldn't really be what normal people call ""global variables"", would they?<p>So you just don't use them and everything's good. Which brings you to the real problem: JavaScript makes it distressingly easy to use a global variable where you meant to use a local one.",1320107071
+3179868,story,,,2,1,just_testing,"Buy 2 RIM Playbooks, get 1 free. Yes, it is for real.",http://us.blackberry.com/business/playbook/?RMID=B2B_201110_PB_Offer_US_BIF&RRID=,,1320107047
+3179867,comment,3179505,3179797,1,0,dbattaglia,,,"Node is single-threaded, so yes they are shared.  Requests are basically just multiplexed inside the same message loop.<p>In my opinion it wouldn't be quite as scary if js didn't make it so damn simple to accidentally define a global variable (like in this instance, where it was never actually declared in globally-scoped code).",1320107042
+3179866,comment,3179645,3179767,4,0,burgerbrain,,,"ICMBs go through space you know.",1320106941
+3179865,comment,3177815,3179823,2,0,veyron,,,"If you are going to go that route, I'd point to Brealey and Myers ""Principles of Corporate Finance"".",1320106936
+3179863,comment,3179645,3179645,-1,0,marshray,,,"I like how the logo on the package is the M from *Monsters, Inc.""<p>Something else they make there, I suppose?",1320106881
+3179862,comment,3179134,3179684,2,0,choxi,,,"Sure, I agree that's a valid reason. It wasn't our reason though, I've worked with Devise on Rails projects many times so implementing that would have been just as easy as implementing Facebook Connect. Honest.<p>I like meric's response as well: <a href=""http://news.ycombinator.com/item?id=3179759"" rel=""nofollow"">http://news.ycombinator.com/item?id=3179759</a>",1320106871
+3179861,comment,3177729,3177876,1,0,erichocean,,,"Exactly. In my case, it'll have been ~15 years before I see any revenue at all for my company, Fohr, in 2013.",1320106839
+3179860,comment,3179032,3179683,2,0,libraryatnight,,,"I have no problem with the new Reader, but this sounds cool, signing up and trying it out :)",1320106834
+3179859,comment,3179645,3179843,3,0,sliverstorm,,,"No kidding. I believe NASA had something like 3 dual-redundant flight computers on the Voyager probes.",1320106819
+3179858,comment,3179505,3179787,3,0,mhansen,,,"It's still very easy to miss a 'var', even if you know the language. Especially if you've just context-switched from ruby or python.",1320106795
+3179857,comment,3178545,3179656,2,0,nknight,,,"""Recess"" has rather specific connotations in American English. It is <i>not</i> simply another word for ""break"". It connotes a supervised, semi-structured playtime for young children, generally outdoors, in the presence of teachers.<p>By the time one hits high school (9th grade) in the US, such things do not occur. You may have free time between classes, but it is not referred to or treated the same way as the period known as ""recess"".",1320106792
+3179856,comment,3179134,3179708,3,0,schmittz,,,"Yes, I apologize. I wasn't telling you off, I wanted to succinctly point out that there's more to the idea. To address your semi-rhetorical question, this model is easily adaptable to anything that you want to casually learn (excluding what I'll call ""traditional education spheres""). That is to say, right now it's incredibly difficult both to offer to teach a cooking class in your community and to find a cooking class to take. Thinking about Niroka as a way to connect people with skills willing to teach to people interested in learning new hobbies is better than thinking about it as a place to go to learn (blank). If they grow and expand in this way, Niroka would become the starting point if you're interested in learning a new skill that can't easily be absorbed through what's currently available on YouTube or printed on the web (this also presents people who do offer some of these services that way an easy way to monetize). In a similar vein, it can also be easily adapted to handle scheduling for small businesses dedicated to teaching schools (in exchange for a cut, they maintain the schedule of classes and provide a large potential audience for say, a local pottery place or yarn store, etc.) The harder market to tackle would be traditional education where topics can require highly specialized knowledge and fall prey to bad teachers.",1320106756
+3179855,comment,3179032,3179032,3,0,joebadmo,,,"It's crazy to me the amount of grousing about the Google Reader cheese-moving. The old system was an opaque, user-antagonistic, hacked-on mess.<p>The new system (integration with +) is rational and a superset of the old system, as far as I can tell.<p>I also choose to consider this as a precursor to many rational changes/extensions to Google Reader.<p>Let me be clear: I am sooo glad that I can finally direct Google Reader shared items to specific groups, so I don't have to spam everyone who follows me with every single item, which pretty much guaranteed that 80% of my feed was irrelevant/stupid/boring to any given person.<p>Now all I need are public, topical feeds that are subscribable/discoverable. RSS, in other words.",1320106753
+3179854,comment,3179645,3179691,13,0,pjscott,,,"Remember to declare ned_pin volatile. (Sorry to be pedantic, but I was getting physically uncomfortable about the possibility that it might not have been declared volatile.)",1320106751
+3179853,story,,,4,0,nl,"HTML Peer-to-peer streaming",https://labs.ericsson.com/developer-community/blog/beyond-html5-peer-peer-conversational-video,,1320106747
+3179852,comment,3179645,3179645,40,0,idoh,,,"So, my mom is a former Maxwell employee who now does her own defense contracting, and makes this same type of part.<p>As I understand it, when there is a nuclear event, it generates x-rays followed by the EMP. The goal is to have warheads in flight to be able to continue to their target, so the strategy is to employ an NED. When an event is detected, the warhead shuts down its electronics for the duration of the EMP, and then powers back up.<p>With her NED, she uses an ASIC for detection. I might get some details wrong, but the ASIC has a physical array in it, and the x-rays flip bits in the array. When enough bits get flipped, one can infer a nuclear event. Because it is an ASIC it is really small, which has important advantages for space-born avionics.",1320106734
+3179851,comment,3179505,3179797,1,0,tikhonj,,,"It's not really a fault of node so much as a fault of JavaScript. While JavaScript is a beautiful and expressive language, it does have some annoying pitfalls; this is just one of them.<p>Happily, this is all changing--in the long run, future versions of JavaScript should polish away these issues while maintaining the fundamentally sound core of the language. In the short run ""use strict"" lets you realize some of the upcoming improvements in otherwise legacy code.",1320106700
+3179850,comment,3179505,3179540,9,0,Raticide,,,"Yeah, that's all he needed. Making it a comment isn't necessary either.<p>Maybe Node should be strict by default? I can understand it not being the case for browsers that need to support legacy code, but for Node it doesn't really need to care about that.",1320106678
+3179849,comment,3179844,3179844,1,0,freerobby,,,"The maintainer of the cookbook doesn't use haproxy, and would like a second opinion. If you use haproxy and think my commits are an improvement, can you please leave a comment saying so?",1320106663
+3179848,comment,3179032,3179427,3,0,po,,,"<i>My problem with the new Reader is the lack of visual indication of read vs unread items.</i><p>Yeah, I had a few people complaining in my twitter timeline and I thought, ""Everyone always bitches when something new gets rolled out. It can't be that bad, come on."" I logged in and I wasn't impressed but it was he lack of read vs. unread that pushed me over the edge.<p>Here's the main kicker of that: What's the point of marking the unread count on the left hand sidebar if there's no way to see which ones in the main view? This is what makes me think it's half-baked. They half-removed a feature.",1320106630
+3179847,comment,3178545,3179341,2,0,cube13,,,"BSD as it currently is(the ""new"" BSD licenses from 1999 on), because that's GPL compatible.  The original BSD license does not count as FOSS as far as the FSF is concerned.",1320106624
+3179846,comment,3179129,3179828,3,0,runn1ng,,,"Which app do you mean?<p>Plus, I personally dislike having a separate app for every second service, when I have a browser.<p>In an ideal world, that would be all I need.",1320106623
+3179845,comment,3179780,3179800,1,0,ig1,,,"someone reported 6:41 PST on the chat room",1320106614
+3179844,story,,,1,1,freerobby,"Proposed changes to haproxy chef cookbook",https://github.com/cookbooks/haproxy/pull/2,,1320106605
+3179843,comment,3179645,3179767,7,0,pjscott,,,"Or anything you feel like putting in space, that you worry might be near a nuclear explosion or other source of intense ionizing radiation at some point. Be prepared, as the boy scouts say. I assume that maxim goes double in space, considering how expensive it is to put things up there in the first place.",1320106594
+3179842,comment,3179329,3179742,2,0,droithomme,,,"I agree, also the problem with a $1000 expander to get 3 PCIe slots is that I know from decades of experience that any time you have some weird standard like this that requires special drivers, very few companies jump in and the prices are necessarily stratospheric. Because of this, the market never develops and support is dropped from the device before the bugs are worked out. Even if you end up with a stable driver, it'll stop working the next time there is an OS upgrade. So you end up running 10.n, while everyone else is on n+1, then n+2, then no more security upgrades, so you have to switch to n+2 and throw away the now useless $1000 box.<p>(Not only this, but reading the ExpressBox materials it seems each PCIe card maker is going to have to write a custom driver that specifically targets the ExpressBox. It seems extremely unlikely to me this is going to happen for even a few of the very few PCIe devices that have Mac support at all anyway.)<p>All could be avoided by either selling normally powered and priced desktops with drive bays and PCIe slots, or at least adding USB3 support. Neither will happen though, Apple has a very long history of backing alternative standards in this way such as NuBus, Firewire and PCI-X.",1320106588
+3179841,comment,3178802,3178802,4,0,watmough,,,"Voxatron.<p><pre><code>  Frantic-ish action.
+  Plays like Robotron. (hold down fire key to strafe)
+  Voxel effects are awesome.
+  Great sound, much less harsh than Robotron.
+  Lots of power-ups.
+  Very fun game.
+</code></pre>
+I happily paid $10, as it's supporting both charities ($1.5 each) and the developer ($5.50).",1320106540
+3179840,comment,3179505,3179505,12,0,rayiner,,,"Why has it become popular for dynamic languages to conflate establishing a binding with assigning it a new value? Ruby, Python, and Javascript are all guilty of this.<p>Scheme got it right sometime in the 1970's.<p><pre><code>    (let ((x initial-value)) ; binding
+      (set! x new-value))    ; assignment
+</code></pre>
+Or in infix syntax (Dylan):<p><pre><code>    let x = initial-value ;
+    x := new-value ;</code></pre>",1320106522
+3179839,comment,3179370,3179739,6,0,jessedhillon,,,"From ""Don't Call Yourself A Programmer...""[0] recently seen on the front page:<p><i>Many asked how to know what programming language or stack to study. It doesnt matter. There you go.</i><p>That's how I feel about this post -- it doesn't matter. The points he raises -- either as complaint or as praise -- seem shallow. It's not a very sophisticated critique of anything.<p>[0]: <a href=""http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"" rel=""nofollow"">http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-pro...</a>",1320106494
+3179838,comment,3178545,3179585,1,0,paradoja,,,"But were OSS? An example, please?",1320106487
+3179837,comment,3177987,3177987,1,0,traveldotto1,,,"Some of these system designs interview and algorithm interviews are just overrated.  You are literally testing how much ""alike"""" this candidate is thinking like you do, which sometimes is not the right way to conduct an interview.<p>How many people remember the pseudo-code for quick sort right away?  A true engineering test or interview should be done in coding tests and his/her ability to QA his/her own code, and explain it in a clear fashion.",1320106484
+3179836,comment,3178802,3178802,1,0,51Cards,,,"""...do whatever the verb of Google plus-ing is""  The laugh from that line alone was worth my purchase price.",1320106447
+3179835,comment,3179210,3179681,2,0,fvryan,,,"Top Costumes feature is now done!  :D
+<a href=""http://costumedb.com/costumes.php?m=top_costume"" rel=""nofollow"">http://costumedb.com/costumes.php?m=top_costume</a>",1320106446
+3179834,story,,,1,0,bookrooter,Perfectshave,"http://www.theartofshaving.com/    ","The Art of Shaving is your online source for shaving sets, razors, shaving brushes, and more. Visit us today to check out our quality shaving products.",1320106446
+3179833,comment,3179370,3179698,10,0,michaelchisari,,,"Yeah, I have the opposite reaction.  I think python is very elegant, and I really appreciate it's ""one and only one way"" philosophy, as opposed to ruby's ""you are a special snowflake"" approach.<p>It really can be just a matter of preference, though.  Python and Ruby are so, so, so similar, that ultimately I find flamewars between them to be tiring at best.",1320106434
+3179832,comment,3153377,3153377,1,0,lucisferre,,,+1,1320106426
+3179831,comment,3179032,3179392,1,0,kisielk,,,"Looks like the star button is now on the bottom left of the post instead, at least it is in my reader.",1320106417
+3179830,comment,3178521,3178603,2,0,nethsix,,,"I live in Japan and I find that Japanese websites are also 'cluttered'.",1320106413
+3179829,comment,3175632,3176606,1,0,Vivtek,,,"! That's true, I'd forgotten that!",1320106404
+3179828,comment,3179129,3179806,1,0,lukesandberg,,,"why don't you just use the app?",1320106396
+3179826,comment,3179760,3179760,1,0,dmix,,,"JPG and undersized so text is tiny?",1320106381
+3179825,comment,3179105,3179484,2,0,erohead,,,"Let's compare them when they ship. Personally, I will now be using Beaglebone over Foxboard G20.",1320106344
+3179824,comment,3178802,3178802,2,0,robinhouston,,,"The developers blog post <a href=""http://www.lexaloffle.com/bbs/?tid=260"" rel=""nofollow"">http://www.lexaloffle.com/bbs/?tid=260</a> has some more details about the game and the planned development process.<p>Here are two bits I found especially interesting:<p>In general, I don't think it's a good idea to keep a project in a constantly presentable/releasable state. For technical reasons, it encourages short term hacks and a reluctance to take things apart and design them cleanly. And especially from a creative position, once something is observed by other people it often seems to freeze into an unmoveable state, in the expectations of players and the mind of the designer.<p>Voxatron is based on a virtual 128x128x64 display. It's a buffer of 3d video memory that is rendered out to the screen at the end of each frame, much as an old-school 2d display is. You can POKE bytes into the virtual memory, and they come out as voxels. I don't compromise on this  even the menus are drawn into the voxel display. Hopefully one day I can get hold of a real physical 128x128x64 display and play Voxatron on it with almost no modification.",1320106327
+3179823,comment,3177815,3179810,2,0,joncooper,,,"Let me add also:<p>""Analysis and Use of Financial Statements"" by White, Sondhi and Fried.<p>It has nothing to do with computational finance but knowing more than nothing about financial statements and how to think about what a company actually IS can only help you in the long run. Also, it's quite interesting.",1320106300
+3179822,story,,,1,0,julelara,"San Diego Chargers vs Kansas City Chiefs live stream watch",http://www.footbo.com/Blogs/70564-San_Diego_Chargers_vs_Kansas_City_Chiefs_live,"Enjoy now San Diego Chargers vs Kansas City Chiefs
+Match schedule:
+Week 8 NFL Regular season
+Date: MON, OCT 31 2011
+TIME :8:30 PM  (ET)
+Venu: Arrowhead Stadium
+ watch and enjoy San Diego Chargers vs Kansas City Chiefs live
+streaming and also watch NFL full season live streaming online here.
+Get the best online sports coverage on the net directly on your PC.",1320106280
+3179821,comment,3178376,3178376,-4,0,watty,,,"Is there any way to block (YC WXX) spam?",1320106270
+3179820,comment,3179129,3179549,2,0,lukesandberg,,,"You assume that skimming is a primary use case.  That is not how i use google reader (if there is a feed that i consistently do not want to read i unsubscribe).  Maybe they were optimizing for my use case, where you read everything (or close to it).",1320106252
+3179819,comment,3178770,3179752,1,0,raganwald,,,"Yeah, I do understand that it gets better when you get out of HS. Paul Graham made a similar point about being a nerd, I dont recall which essay it was from.<p>Heres an interesting video, Rick Mercer calling on people in the limelight to stand up and be counted. I am not endorsing his views, just suggesting its an interesting perspective to think about:<p><a href=""http://youtu.be/Wh1jNAZHKIw"" rel=""nofollow"">http://youtu.be/Wh1jNAZHKIw</a><p>And his words from 2007:<p><a href=""http://youtu.be/t1Y7qpiu2RQ"" rel=""nofollow"">http://youtu.be/t1Y7qpiu2RQ</a>",1320106229
+3179818,comment,3178545,3179522,5,0,meric,,,"That is false.<p>He wasn't glad Jobs, the person, died, but he was glad Jobs, the CEO of Apple, is gone.",1320106183
+3179817,comment,3178886,3178886,1,0,its_so_on,,,"how do you have a hundred thousand emails from any domain??",1320106170
+3179816,comment,3179505,3179689,4,0,tikhonj,,,"Try using the version I linked rather than the original. It has a bunch of improvements including how it handles indenting functions.<p>I've done some moderately complicated jQuery development with it, as well as some node.js stuff for fun, and have had no issues in either case.",1320106135
+3179815,story,,,1,0,natefalconer,"What Is Empower Network",http://myempowernetwork.net/5/what-is-empower-network/,,1320106097
+3179814,comment,3178545,3178914,1,0,brlewis,,,"Where did I say that everything Dave says is major self-promotion?",1320106082
+3179813,story,,,2,0,jordhy,"The 70 Online Databases that Define Our Planet",http://www.technologyreview.com/blog/arxiv/26097/,,1320106072
+3179812,comment,3178545,3179536,2,0,meric,,,"Do you use <i>gcc</i>?",1320106068
+3179811,comment,3178545,3179507,0,0,bad_user,,,"You must from the US and it shows :)<p>From my experience there are 2 kinds of Christians: those that believe in the New Testament and those that reinterpret it here and there to suit their own feelings about what is right and wrong (after all, a father wouldn't punish his children for all eternity and why punish a good man, even if he's an atheist?).<p>However the New Testament doesn't really leave room for interpretation on this one. Non-believers will burn, says so Jesus. And if you ask any priest from any of the major Christian churches, like Catholic, Eastern Orthodox (my own), Protestant, the answer will be without doubt Yes.<p>Of course, there's always Jehova's witnesses, that simply rewrote the bible, but I don't think that counts.<p>There's nothing wrong with inventing your own religion based on a good set of moral values, especially casting away anything that leads to hatred of other people (dare I say it, Jesus would probably agree) and I do that myself, however I wouldn't shout from the roof-tops that I'm a Christian as that would be a little bending of the truth.",1320106064
+3179810,comment,3177815,3178313,3,0,joncooper,,,"John Hull is canon. Read it, live it, love it, keep it under your pillow. It is truly superb.<p>Nassim Taleb's ""Dynamic Hedging"" is the finest book I'm aware of on the subject of actually trading/managing vol portfolios. It's REALLY good. And dense.<p>""Paul Wilmott on Quantitative Finance"" vol 1-3 are worth having as a reference, perhaps.",1320106027
+3179809,comment,3179780,3179800,1,0,timerickson,,,"Last round we got our rejection letter at 8:34:47 PM CDT. That's an hour and a half from now.",1320106017
+3179808,comment,3179329,3179757,1,0,owyn,,,"That's probably partly because they haven't updated the specs since mid-2010...  but I also bought my mac pro with the minimum RAM because I could get it a lot cheaper from a third party.   I'd rather have a minimal minimum config to save some dough.",1320105989
+3179807,comment,3179780,3179780,2,0,nhangen,,,"Last time most started receiving them between 9 and 10 est.",1320105985
+3179806,comment,3179129,3179569,2,0,runn1ng,,,"The worst thing about these new designs is - they are LESS USABLE on Android tablet than before!<p>I wanted to write an article about how all the new interfaces (Google Groups, Google Docs, Google Translate) work LESS on Android tablet than the old ones, but I have no time for that.<p>Plus, I feel like I am the only person in the world with an Android tablet anyway.",1320105920
+3179805,comment,3179505,3179695,9,0,daleharvey,,,"I wrote a jshint mode for emacs<p><a href=""https://github.com/daleharvey/jshint-mode"" rel=""nofollow"">https://github.com/daleharvey/jshint-mode</a>",1320105913
+3179804,comment,3178545,3179385,0,0,meric,,,"For someone who claimed in a parent comment, ""...puts him firmly into that camp of people I don't want to have anything to do with"", I would.<p>""I put [X] firmly into that camp of people I don't want to have anything to do with, but I am fine with using [X]'s work for my everyday activities.""",1320105893
+3179803,comment,3178007,3178795,1,0,parshap,,,"Pair it up with a Raspberry Pi! (raspberrypi.org)",1320105888
+3179802,comment,3179166,3179567,2,0,nirvana,,,"No, I'm not suggesting that.  I'm saying that this is <i>CNN's</i> reasons.<p>I think there are many other, quite legitimate, reasons to cover NewMe.  It is unfortunate that CNN didn't cover them for the wonder that is inherent in bringing new companies into the world.",1320105871
+3179801,comment,3179329,3179757,1,0,huxley,,,"Consider that a kindness from Apple.<p>You can get two to three times as much RAM at the same price from an online reseller than you'd get buying the RAM directly from Apple.",1320105864
+3179800,comment,3179780,3179780,1,0,possiblyjoe,,,"Anyody have any idea what time did they went out the last few times?",1320105854
+3179799,comment,3178545,3179325,-2,0,sitkack,,,"Since we value individual freedoms the most, the author decides what do with their software. Author's Choice. If you dont like the license on GPLd software, recode it and release as BSD. Go compete in the marketplace of ideas.",1320105823
+3179798,comment,3179296,3179761,2,0,browser411,,,"Got it. Thanks for the frank feedback.",1320105800
+3179797,comment,3179505,3179505,8,0,jessedhillon,,,"Do I understand this right -- global variables are shared across all requests in node.js?<p>If so, that is an insane design.",1320105799
+3179796,comment,3178585,3178585,1,0,socratees,,,"One thing for sure, We aren't filling up earth's surface at that speed. I'm agnostic about the other issues surrounding population growth, but the authors would've made more impact if they used real ratios ( like land surface used per person,  a certain natural resource consumed per person, etc.)",1320105750
+3179795,comment,3179129,3179509,4,0,runn1ng,,,"I don't know. (Disclaimer: I never used Google Reader's social functions, they seemed too complicated to me)<p>Is having a clear focus Yahooizing? What Yahoo is doing is having tens of various and sometimes overlapping services. Google doesn't want to go this road and is cutting the services so they are clearly defined and don't overlap.<p>Now I have reservations about google plus (or ""We can do Facebook, too!""), but that's on another post.",1320105710
+3179794,comment,3152563,3152669,1,0,joncooper,,,"+1 for First Republic (SF). They are truly superb and I can't recommend them highly enough.<p>You get access to a personal banker that you can contact directly via phone, email or in person, and who can do all sorts of helpful things for you.<p>Mine has been extremely awesome on several occasions, handling things like wire transfers, direct debits, account openings/closings due to stolen personal information, etc.",1320105704
+3179793,comment,3179505,3179701,5,0,untog,,,"Yes, sorry, I meant declaring. Wrote that post in a hurry as I headed out the door, I wasn't paying too much attention.",1320105654
+3179792,comment,3179645,3179771,4,0,trobertson,,,"I don't think they do regular consumer stuff, it looks like everything is special order. According to this page [1], you have to contact one of their business partners in order to arrange any purchases.<p>[1] <a href=""http://www.maxwell.com/products/microelectronics/where_to_buy.aspx"" rel=""nofollow"">http://www.maxwell.com/products/microelectronics/where_to_bu...</a>",1320105642
+3179791,comment,3178545,3179630,2,0,function_seven,,,"""dislike"" has never been a synonym for ""apathetic toward."" Rather, it is generally used as a polite way of conveying ""hate"".",1320105638
+3179790,comment,3175629,3178147,1,0,lordgilman,,,"I'm also a huge fan of feed43 but I've managed to hit my head more than a few times on its limitations.  Coincidentally just this weekend I wrote a teeny program as a replacement for feed43.  I've got all my scrapers working with XPath (which I prefer for this situation) but it's very straightforward to add a new site.  <a href=""https://github.com/dgilman/atom_maker"" rel=""nofollow"">https://github.com/dgilman/atom_maker</a>",1320105620
+3179789,comment,3178585,3178585,2,0,killion,,,"Thats a great video, but now I have to pee.",1320105618
+3179788,comment,3178545,3179488,8,0,sitkack,,,"Stallman and GNU effectively ended the market for high priced proprietary dev tools. As a tool builder and user this is good and bad. That whole market segment has been removed for consideration and now the tool builder/user can sell their creations (the part that solves non-builder's problems while now giving away the tools they create while solving the user's problems). This transition has been very liberating. Now anyone with a modest hardware investment can have some of the best tools in the world to solve problems with. Amazing times.<p>My first C/C++ compiler cost nearly as much as the machine it ran on. This will never happen again and we can thank the GNU ecoSystem for jump starting the new ground rules.<p>I dumbfounded by all the awesome software I can use to build larger systems with everyday, literally millions of dollars worth of assets. Anyone anywhere could do this, with only food, water, hardware, electricity and internet.",1320105609
+3179787,comment,3179505,3179505,-1,0,mansoor-s,,,"""Now is the point Id like you to say: you should have used CoffeeScript, and hey TameJS while youre at it.  Youd be right.""<p>Perfect example of a developer hating JS just because he/she didn't bother to learn it first and got burned.",1320105608
+3179786,comment,3179601,3179601,2,0,jasondrowley,,,"For what it's worth, I too am a mathematically-challenged person, except I'm in the beginning stages of learning to program. Predictably, it's an uphill battle.<p>You said MIT is your dream: presumably you want to go there for computer science. I'm a student at UChicago, minoring in computer science. Depending on which school you go to/end up at, you'll realize that there are a number of different approaches to teaching CS.<p>UChicago's CS program is basically an applied mathematics major with some theoretical content thrown in in kind of an ad hoc manner. Let me tell you, it's not the <i>best</i> place to go if you want to learn how to build things, nor how things are built. It's really good for math geeks. (I use the term ""geek"" affectionately here.)<p>My advice should be taken with a grain of salt, but you might consider CS degree programs which focus more on software engineering and practical applications of computer science, than on comp. sci. itself. But again, the scope, requirements and course offerings of computer science programs vary greatly between institutions.<p>Good luck with MIT!",1320105600

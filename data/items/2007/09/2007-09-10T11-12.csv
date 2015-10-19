@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+52745,story,,,33,18,davidw,"Why PostgreSQL Instead of MySQL: Comparing Reliability and Speed in 2007",http://www.postgresql.org/docs/techdocs.83,,1189424651
+52744,comment,52481,52675,0,0,danw,,,"Berlin would cost more than the US. Perhaps Tallin would be cheaper? It's tempting as an EU citizen to move to the US to create a startup simply because of the lower costs of living.",1189423799
+52743,comment,52645,52671,0,0,staunch,,,"Linspire (""Lindows"") had a big Windows trademark dispute with Microsoft and came out quite well. Calling it ajaxWindows is probably an intentional taunt towards Microsoft.
+",1189423455
+52742,comment,47890,47890,0,0,dfens,,,"According to my informal mandarin lessons, ""hulu"" means ""to snore"".",1189422661
+52741,comment,52580,52580,0,0,dpapathanasiou,,,"cubicle67: I'm happy to report there is indeed life beyond the BigCo cubicle.<p>I made a similar move a few years ago, and haven't regretted.<p>Good luck.",1189422305
+52740,comment,52673,52673,0,0,dappelbaum,,,"finally, a framework comparison article with data... I'll have to look into jQuery",1189422045

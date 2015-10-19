@@ -1,0 +1,73 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+9469,comment,9460,9465,0,0,amichail,,,"""...imagine you wake up one morning with your
+head full of a complete proof of the Riemann
+hypothesis. (This is arguably the greatest
+open problem in mathematics, and is a deep
+statement about the distribution of the prime
+numbers, the atoms of arithmetic.) Giddy with
+anticipation of certain fame, you leap out of
+bed and type up the proof, in its full 500-page
+glory. That done, you are seized by doubt. How
+wise is it to inflict the full brunt of your genius
+on your colleagues? Will anyone even listen, or
+be prepared to check your proof?<p>What you can do is re-format your write-up
+into a (somewhat longer) PCP proof. Anyone
+now wishing to verify your argument need only
+pick a handful of words at random, and follow a
+set list of instructions to conclude whether it is
+correct or not. An error might have slipped in
+on account of faulty working, buggy reformatting,
+or outright cheating. No matter, it will be
+caught with overwhelming probability. What
+the reformatting step does is smear any error
+all over the proof, making it easier to spot. In
+much the same way, a diligent sandwich maker
+will smear a smidgen of jam evenly over his
+bread, rather than leaving it concentrated
+in one corner, and so make the whole more
+savoury.<p>...In its full splendour, PCP asserts that
+any statement S whose validity can be ascertained
+by a proof P written over n bits also
+admits an alternative proof, Q. This proof Q
+has two appealing features: it can be derived
+from P in a number of steps proportional to
+n^c, where c is some constant; and P can be verified
+by examining only three bits of Q picked
+at random. If S is true, a correct P will satisfy
+the verifier with a probability of 99%. If it is not
+true, any alleged proof P will trigger a rejection
+from Q with a probability higher than 50%
+(ref. 4). Not impressed with this error rate?
+Then all you have to do is pick, instead of three
+bits of Q, as many bits as are contained in this
+line of text. The error probability will drop to
+one in a billion.""",1175820979
+9468,comment,8946,9066,0,0,andreyf,,,"""This will be the last time we disclose application numbers though. Now that we have competitors (or at least imitators), we don't want to get into a number-of-applicants contest."" -pg<p>It's not really a contest unless you think of it as one... why is YC not be more public about their funding, in general? More info would encourage more people to submit an application, I think. Personally, I would have found examples of successful applications very useful/interesting - partially because I'm curious how reddit looked in the minds of the founders, but also to answer little questions - like how informal of a tone it's OK to use, or if it's OK to be hesitant on your tools of choise, etc.",1175820961
+9467,comment,9361,9450,0,0,nostrademons,,,"From what I read, Microsoft took a mezzanine round before IPO because VCs have connections to investment bankers, and Microsoft needed investment bankers to make the IPO process run smoothly.  So yeah, it basically was a bribe.",1175820717
+9466,comment,9460,9460,0,0,michelson01,,,"<a href=""http://www.scribd.com/doc/25200/nature06"">http://www.scribd.com/doc/25200/nature06</a><p>scribd link, via slurping (www.scribd.com/slurp?url=...)",1175820667
+9465,comment,9460,9460,0,0,rms,,,"I watched too much TV as a child and now I have a really short attention span. Could you summarize this, please?",1175820145
+9464,comment,9361,9361,0,0,mauricecheeks,,,"I think I understand from personal experience what he might be trying to describe in terms of not letting YC be your alpha / omega. <p>We applied to the Fall 06 YC round. I was in school and my co-founder had a job at a small software company. Really we just had a cool idea and wanted to do it. When we found out about YC we thought it was ""perfect for us"". We spent a week or two struggling over answering question just right. We had no product, and had not yet considered some of the questions the application was asking. As you may guess we got an email from YC in late October saying: <p>---
+"" We're sorry to say that we can't accept your proposal for funding.
+Please don't take it personally, because most of the proposals we
+rejected, we rejected for reasons having nothing to do with the
+quality of the applicants.  For example, we were very reluctant to
+accept proposals with only one founder, because we think starting
+a startup is too much work for one person.  We also rejected a lot
+of proposals simply because we couldn't understand them, or didn't
+understand the problem domain well enough to judge them, or because
+the project seemed too big to start on only three months of funding.<p>We realize this process is fraught with error. It's practically
+certain that groups we rejected will go on to create successful
+startups.  If you do, we'd appreciate it if you'd send us an email
+making fun of us; we want to learn from our mistakes.<p>Thanks
+Y Combinator Staff""
+---<p>We told ourselves that wasn't going to stop us.... but it sorta did for a while. I wasn't done with school, but was getting dream job offers, and my co-founder was enjoying his software development job. So we didn't do much for a few months. We just kept talking about our idea for Revvu.<p>In doing some soul searching though, I decided I had to turn down these job offers and stop wasting time in school. This is not the life I wanted. After talking to my co-founder we came to grips with the fact that... working regular jobs was the default. That was the easy way to go about life, but we wanted more than that. We are too creative and determined to be held back or stifled by the nuances of a ""job"". <p>In January I moved across the country to live with my co-founder and work full time on our project. Shortly after that we had a full business plan, and were testing our site in closed beta. As of this week we've launched publicly and are getting encouraging user feedback. <p>We are beginning to tap our network to find potential investors, so that we can grow the business significantly in the next 12 moths. <p>About a week ago my co-founder brought up YCombinator for the first time in months, and we decided to apply at the last minute. Not because we NEED the living expenses, we both have savings. Also, not because we need it to feel like we're doing something. We're already confident that we're doing something, and we'll peruse other sourced of funding if we don't get YC. We applied because we know we could benefit from the mentoring, the guidance, the connections, and i guess partially because not draining our bank accounts just to eat would be kinda nice.<p>If the author had good intentions, IMHO, we might be a model for what he was trying to communicate. We weren't ready before. We were sitting around waiting to hear back from YC in October, and nearly let our passion fade after not being accepted. <p>This time filling out the application didn't take long at all, because we actually knew our answers. This time we have a real plan for our business and legitimately strive towards success.<p>If we get YC... awesome, if not... thats fine too. <p>I hope many of you are in the same boat. I hope you're building something you believe is great, and nothing will stop you. Don't get discouraged. Don't let anything slow you down. The world is big enough for all of us to succeed. <p>-if you build it, they will come",1175820015
+9463,comment,9361,9361,0,0,andreyf,,,"There's a grain of truth here, in that YC won't guarantee a successful startup, and that rejection from YC doesn't mean your idea will fail, but did anyone really think otherwise?<p>To call YC ""a waste of time"", however, seems to me nothing but attention grabbing... if anything, YC is the opposite of a waste of time - for a student like me, YC funding means _not_ wasting my time at a summer job for food/rent while working on an idea, and _not_ wasting my time on searching for business advice/legalese if the idea makes it off the ground.<p>How the heck did this make it to the #1 story? Is it because people anxious about being rejected by YC, or is it just the rebellious headline?",1175819924
+9462,comment,9361,9447,0,0,abossy,,,"Yes, but I meant to imply that they never raised money at the startup stage (and up until IPO...). Microsoft was almost entirely self-funding before going public, except for the money they received that PG mentions, which I never knew about. ",1175819769
+9461,comment,9286,9306,0,0,danielha,,,"Good points. I agree that there are important lessons to learn, but I wouldn't say that there is a big disincentive just yet. A powerful (open) platform is attractive because it brings to light new opportunities. The lesson would be not to sit idle afterwards. A successful mashup/product proves that there exists a market; a starutp with foresight will develop themselves fully enough as to not fully rely on the API. As you said, it's R&D for the platform companies, and they can dominate the startup's space if the startup doesn't keep iterating.<p>Even though YouTube was not built on a Google platform, there're some parallels to be drawn. Google had a video service; YouTube was better. With their advantage in size and resources, Google could have put out something better, but YouTube had such a lead already. True, YouTube didn't have to rely on Google's API, but even Statsaholic is continuing on without Amazon's Alexa.",1175819703
+9460,story,,,6,9,amichail,"The most amazing theoretical result in computer science (you will find it hard to believe!)",http://www.scribd.com/doc/25200/nature06,,1175819455
+9459,comment,9027,9035,0,0,omarish,,,"I'll keep you posted.",1175819306
+9458,comment,9027,9137,0,0,omarish,,,"Sure - where do you have in mind?",1175819291
+9457,comment,9027,9087,0,0,omarish,,,"Late may through late August. Good?",1175819277
+9456,story,,,3,3,brett,"Domain Name Prices To Increase 7%; Verisign To Make $27 million More Per Year",http://www.techcrunch.com/2007/04/05/domain-name-prices-to-increase-7-verisign-to-make-27-million-more-per-year/,,1175819084
+9455,comment,9369,9416,0,0,rms,,,"Lightspeed is also free money. They give $10,000 per person without taking any equity. Other than the requirement to primarily work out of lightspeed, the programs aren't mutually exclusive. So you could get away with working out of Lightspeed's office and flying to Boston weekly for the YC dinner. With funding from both you could even afford to pull it off.<p>I really don't understand this ""YC or nothing"" mentality. The funding to live comfortably really helps out, plus the free legal work. The legal work is what really kills you when you're bootstrapping.",1175817724
+9454,comment,9361,9361,0,0,Alex3917,,,"Anyone else find it ironic that this document is hosted by a YC startup?",1175817629

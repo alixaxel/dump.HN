@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73051,comment,72913,73003,0,0,pg,,,"Restraint is not the only component of good, but it is the component that improves most with experience.  Conversely, the most common mistake made by the inexperienced (even if they are otherwise good) is to overdo things.",1193450157
+73050,comment,72710,72774,0,0,murrayh,,,"An area where I suspect IDEs could be helpful even in higher-level languages would be for TDD. In my limited experience, I have found TDD to involve a lot of ""plumbing"" that a computer could easily do for me. It would be nice to write a test that uses an undefined function, press the run key, and then have my cursor blinking next to a generated function definition ready to go.<p>This of course begs the question of how applicable TDD is to high-level languages (or even in general... I have my reservations). Time for me to stop pondering and get down and dirty :-).",1193450091
+73049,story,,,10,9,eusman,"Aaron Swartz on Jottit ",http://www.youtube.com/watch?v=UTlmahurhX0,,1193449755
+73048,comment,73046,73046,0,0,pg,,,"No, no, and no.",1193449484
+73047,comment,72190,72287,0,0,cyggie,,,"thanks... I'll keep checking your site incase you guys decide to hire more non-hackers.. :p",1193448996
+73046,story,,,3,6,utnick,"Simple n00b question about funding",,"Lets say I start a startup on my own. Some VC comes along and decides to fund my company 10 million for 40% equity.<p>Do I personally get to keep any of that 10 million? If the startup fails do I owe him his 10 mil back? Can I pay myself a huge salary?<p>( i know this is a bad attitude to have, and i'm just using this as an example to illustrate my question. Trying to learn more about the process )",1193448003
+73044,story,,,5,15,ratsbane,"Anyone have experience getting software patents?",,"I'd like to hear from people here who've had first-hand experiences in applying for software patents or otherwise dealing with them or who have thoughts on the matter.  I read PG's article on the subject(2).<p>I've always been a bit suspicious of software patents - perhaps not all, but the silly ones(1) are what everyone talks about - but now I find a situation where patenting a technique (method?  what's the right word?) that I first implemented a few years ago might be a good idea in a specific current situation.<p>Also, it seems like everyone is getting them so I may some day get a bill from someone whose patent I've accidentally infringed, so there is a defensive angle to the thing.<p>I've read various articles(3)(4) about how to do this and I've printed out some software patents and read through them, trying to figure out how to state my application.  I've got an appointment with an attorney/patent agent Monday afternoon (I picked her out of a list because she majored in math) but I'm wondering:<p>- Really, how much should I expect this to cost?
+  
+- How can I do it for less?
+  
+- How long does it take until patent is awarded?
+  
+- Can I license the method to someone before the patent is awarded?
+  
+- How do you choose a patent agent/attorney or do you even need to?  (I know you don't HAVE to, but is it a good idea?)
+  
+- What am I not aware of that I'll later wish I had known about?<p>Thanks in advance for suggestions.<p><pre><code>  1) http://www.gnu.org/philosophy/amazonpatent.html 
+
+  2) http://www.paulgraham.com/softwarepatents.html 
+
+  3) http://www.uspto.gov/web/patents/howtopat.htm 
+  4) http://en.wikipedia.org/wiki/Software_patent</code></pre>",1193447395
+73043,comment,72974,72974,0,0,mmaunder,,,"Thanks for the tip. Adding creds now. <p>and yes, I have. I sold a search engine in 2005. :)",1193447200

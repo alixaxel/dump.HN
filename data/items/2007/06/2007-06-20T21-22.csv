@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+29672,comment,29516,29663,0,0,falsestprophet,,,"Partner with them? They should crush them.",1182376536
+29671,comment,29650,29650,0,0,lasttokyoman,,,"wow very cool video
+",1182376237
+29670,comment,29634,29634,0,0,dawie,,,"Rails or Flex",1182375900
+29669,story,,,1,0,amichail,"I just do theory (inspired by Weird Al Yankovic's 'White & Nerdy')",http://weblog.fortnow.com/2007/06/complexity-theory-theme-song-options.html#4032691377325832224,,1182375862
+29668,story,,,1,1,dawie,"Designing for the iPhone is a refreshing experience - (37signals)",http://www.37signals.com/svn/posts/475-designing-for-the-iphone-is-a-refreshing-experience,,1182375708
+29667,comment,29619,29662,0,0,ktus,,,"First observation, I'm logging in from a laptop with a small screen (15"") and I have to scroll left-right. It would have been nice if it fits into the page (like news.yc).",1182375518
+29666,comment,29335,29569,0,0,henning,,,"Scheme has kind of a different culture from Common Lisp. Most of the material is oriented towards students in order to teach the timeless stuff in computer science.<p>I learned C before I learned any functional languages and I regret it to this day. It took me _years_ to undo the damage. I really dug myself into a hole, too, by learning all about pointers and low-level stuff like that before I ever knew what Python, Ruby, etc. were.",1182375357
+29665,story,,,1,0,sigma3dz,"Sudoku Puzzle Daily",http://www.sudoku-puzzle-daily.com/,,1182375141
+29663,comment,29516,29570,0,0,nameless,,,"Advertise? You should partner with them. Their hurricane service is terrible.",1182374938
+29662,comment,29619,29660,0,0,veritas,,,"Thanks, and I'm glad to have you on board.  If you have any ideas, drop me a line.",1182374578
+29661,comment,29619,29657,0,0,veritas,,,"Ah yea!  I'll definitely do that.  Thanks.",1182374553
+29660,comment,29619,29620,0,0,ktus,,,"Wow... I had the exact same idea (even the terms you used for some of it) and was gonna start implementing as soon as I'm done with my current project.<p>I guess you saved me some work :-)<p>I wish you a lot of success. I would love to see the site grow and become a great place for soccer fans to get their news. You can count me in as a member. I'll join soon.",1182374377
+29659,story,,,1,0,sigma3dz,"Best story of the month",http://www.ventureitch.com/?random,,1182374258
+29658,story,,,1,0,sigma3dz,"Every domain is a business",http://feeds.feedburner.com/domain,,1182374203
+29657,comment,29619,29651,0,0,r7000,,,"
+You may want to consider adding the rest of the MLS season. <p>1) it is during the downtime of the EPL and other European leagues so it gives you year-round content so users don't drift away.<p>2) you can have some fixtures to test your site with right now while you are trying to get some activity going and iron out the usability and the bugs<p>anyway, good luck",1182374195
+29656,story,,,4,0,abstractbill,"Mitch Kapor: virtual worlds are like a drug experience",http://www.informationweek.com/showArticle.jhtml;jsessionid=141KRWNLBMYU4QSNDLRSKH0CJUNN2JVN?articleID=199904918&queryText=199904918,,1182374086
+29655,story,,,1,0,mark-t,"The 10 Second Rule: How to Write for Diagonal Readers",http://www.copyblogger.com/the-10-second-rule,,1182374013
+29654,story,,,7,1,abstractbill,"US immigrants fuel tech boom","http://www.eweek.com/article2/0,1895,2148250,00.asp",,1182373984
+29653,comment,363,363,0,0,davidw,,,"YC.news idea - category/tab for ""our sites/startups""<p><a href=""http://news.ycombinator.com/item?id=29606"" rel=""nofollow"">http://news.ycombinator.com/item?id=29606</a>",1182373834
+29652,comment,29606,29637,0,0,imp,,,"It's at the bottom of the home page along with the RSS feed.",1182373468
+29651,comment,29619,29646,0,0,veritas,,,"I'll take the karma/points thing into consideration.  I actually thought it would be clearer this way since I had only karma at first.<p>The tags do disappear (like Digg I believe), but they are used  for the search function.  So when you do search (upper right corner) you search by tags.  Also, the tags come into play when finding the 3 similar articles for each link.<p>But the tags themselves are hidden away to reduce the clutter.<p>To make a bet, there needs to be a live match going on.  There are no live matches right now so there's nothing to bet.  Come September when the seasons start up there will be matches.  Basically you follow the ""Fixtures"" link the navigation and you'll see a list of matches.  Then you can go view a fixtures details and there will be a simple form you can use to submit your bets.<p>
+<i>Edit: <a href=""http://www.fanstate.com/main/search?query=YOURQUERY"" rel=""nofollow"">http://www.fanstate.com/main/search?query=YOURQUERY</a> is the search function</i>  Better to just use the form.",1182373355
+29650,story,,,3,1,eugenet,"Video interview with Jason Calacanis of Mahalo.com - the human powered search engine",http://new.intruders.tv/intruders_en/Startup-profile-Jason-Calacanis-of-Mahalo_a85.html,,1182373339
+29649,comment,29619,29620,0,0,abstractbill,,,"""...allows you to gain points (like Digg/Reddit) and then wager those points on matches being played.""<p>That's a really nice idea!  Good luck with it.",1182373281

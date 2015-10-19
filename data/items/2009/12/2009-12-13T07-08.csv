@@ -1,0 +1,39 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+992541,comment,992170,992461,0,0,chromatic,,,"> At least you have nice syntax to bind arguments to variables, which perl doesn't.<p>Perl 5 and 6 both have this.",1260691134
+992540,comment,992300,992343,0,0,mahmud,,,"The submitter is a notorious spammer.",1260691046
+992539,comment,992218,992533,0,0,gnosis,,,"I don't think it's supposed to be an exhaustive list.  There are thousands of programming languages, and (arguably) hundreds of them could be considered ""advanced"".  I think this is meant to be more of a sampling.<p>Still, given all that, Erlang would be on <i>my</i> list.  :)",1260690995
+992538,comment,992293,992293,0,0,chanux,,,"I kept a sqworl of few diagramming tools <a href=""http://sqworl.com/97021w"" rel=""nofollow"">http://sqworl.com/97021w</a>",1260690979
+992537,story,,,4,0,mahmud,"Common Lisp on the iPhone",http://funcall.posterous.com/ecl-on-iphone-redux,,1260690737
+992536,comment,991834,992482,0,0,mahmud,,,"By that logic, a good chunk of software experts would be barred from commenting on Google since they're in everyone's market in some capacity.",1260690570
+992535,comment,992478,992478,0,0,yannis,,,"Just send an email as Michael Widenius suggested. Every little bit counts!",1260690474
+992534,comment,992478,992478,0,0,antirez,,,"Is this the result of MySQL adopting the GPL license? I mean, what about if MySQL were BSD licensed?",1260690451
+992533,comment,992218,992218,0,0,alrex021,,,"Surprised that Erlang is not in that list.",1260690376
+992532,comment,992478,992478,0,0,ilkhd2,,,"MySQL is already lost. It is necessary to focus on Postgres now.
+It still seems to be non-private.",1260690213
+992531,comment,992170,992398,0,0,gruseom,,,"Sorry for impugning your motivations. I lumped your comment in with the anti-CL canards that people keep repeating.<p>Your ID3 tag library is a good example of the kind of thing one doesn't find much of in the CL world.<p>On multithreading, though, I think you're off base. Modern CLs all support it, it works great, end of story. That it's not in the standard is a red herring; you simply look up what you need in the documentation for your Lisp instead of in the Hyperspec. Big deal. If you want to run on more than one Lisp, it's trivial:<p><pre><code>  (defun spawn (name fn)
+    #+ccl  (ccl:process-run-function name fn)
+    #+lispworks (mp:process-run-function name nil fn)
+    #+sbcl (sb-thread:make-thread fn :name name))
+</code></pre>
+I wouldn't use CL as a do-everything language either, but it's typically a superb place to be if you're trying to do anything complex.",1260690210
+992530,comment,991961,992101,0,0,signa11,,,"i think it would be supercool if the history function actually stored only the different commands that are being executed, rather than a timestamped version of the command...",1260690118
+992528,comment,992231,992231,0,0,est,,,"Reminds me of module music in demoscene.<p><a href=""http://en.wikipedia.org/wiki/Module_file"" rel=""nofollow"">http://en.wikipedia.org/wiki/Module_file</a>",1260689707
+992527,comment,991910,992338,0,0,zck,,,"I watched maybe eight minutes of it. It's pretty much the same as the beginning -- her voice is in a register that, when encoded, is very frustrating to listen to. Also, she spends much of it apologizing for Emacs's extra features, like Snake, and Psychotherapist. She barely got into the actual examples when I turned it off. It was hard to watch, because for this presentation, I want to see what's on the screen, not the presenter.",1260689612
+992526,comment,992293,992381,0,0,est,,,"> Drawing and labeling all the little arrows in Dia for classes was a real time waster.<p>Try yEd<p><a href=""http://www.yworks.com/products/yed/"" rel=""nofollow"">http://www.yworks.com/products/yed/</a>",1260689543
+992525,comment,991961,991961,0,0,pyre,,,"You can do some really neat prompts using z-shell:<p><a href=""http://aperiodic.net/phil/prompt/"" rel=""nofollow"">http://aperiodic.net/phil/prompt/</a>",1260689367
+992524,comment,991961,992193,0,0,pyre,,,"I don't think that people would be using it if it interfered with piping.",1260689335
+992523,comment,992430,992430,0,0,tdm911,,,"along a similar line, i have enjoyed 'letters of note', a blog of famous and noteworthy correspondence.<p><a href=""http://www.lettersofnote.com/"" rel=""nofollow"">http://www.lettersofnote.com/</a>",1260689165
+992522,comment,991847,992349,0,0,hpvic03,,,"The HUD will definitely be feasible once OLED's are more developed.<p><a href=""http://www.youtube.com/watch?v=8G3wWmtkN88"" rel=""nofollow"">http://www.youtube.com/watch?v=8G3wWmtkN88</a>",1260688869
+992521,story,,,40,0,ypavan,"Most Popular DIY Projects of 2009",http://lifehacker.com/5424553/most-popular-diy-projects-of-2009,,1260688775
+992520,comment,991834,992061,0,0,tpearson,,,"The Droid Eris and the HTC Hero are the same phone - the only difference is the case design.",1260688521
+992519,comment,992023,992226,0,0,garply,,,"Since you've eaten some of our time with your promotion, will you tell us a little bit about the economics of your business? Are you ramen-profitable off of it? How long did it take to build? How severely do shipping costs eat your margins?",1260688462
+992518,comment,992427,992427,0,0,bytebot,,,"With regards to energy, hacking on <a href=""http://www.lesswatts.org/projects/powertop/"" rel=""nofollow"">http://www.lesswatts.org/projects/powertop/</a> might be useful<p>With regards to disaster relief, Sahana is a good project to hop onto",1260688434
+992517,story,,,31,2,gnosis,"Next-generation Linux file systems: NiLFS(2) and exofs",http://www.ibm.com/developerworks/linux/library/l-nilfs-exofs/index.html,,1260688366
+992516,story,,,3,0,ypavan,"Incentives and Creativity: Evidence from the Academic Life Sciences [pdf]",http://pazoulay.scripts.mit.edu/docs/hhmi.pdf,,1260688305
+992515,comment,992293,992381,0,0,ggrot,,,"I totally agree.  I can remember so many times when writing documentation where a little image like this would make things much clearer, but I didn't bother because starting up Dia or the like would be too much hassle/work.",1260688213
+992514,comment,992073,992073,0,0,diN0bot,,,"damn it. everytime i hear about the hockey stick i first think of an actual hockey stick. i guess i'm not as familiar with the greenhouse debate as i thought i was. or maybe it's just that time of year. i make my own underwater hockey sticks, and have wanted to give a go at the frozenwater kind now that the ponds are about to freeze...",1260688186
+992513,story,,,72,46,mindaugas,"GWT 2.0: So good it's ridiculous",http://timepedia.blogspot.com/2009/12/gwt-20-so-good-its-ridiculous.html,,1260688172
+992512,comment,992170,992461,0,0,natrius,,,"Most of the issues you mentioned are solved in ECMAScript 5 with ""use strict"".",1260688052
+992511,comment,991951,992091,0,0,diN0bot,,,"> ""I created the account because it's not exactly popular to...""<p>by becoming anonymous you show that this isn't important. if something is important to you then all the more reason to stand behind it as yourself. your real-life karma is taking hits when you hide behind anonymity. man up.",1260687902
+992510,comment,991961,991961,0,0,bistro539,,,"Is there an equivalent to history-search-backward in zsh? In Bash, this is the search that looks for commands that start with whatever is to the left of the cursor.",1260687708
+992509,comment,992231,992325,0,0,mcantelon,,,"<a href=""http://en.wikipedia.org/wiki/Algorithmic_composition"" rel=""nofollow"">http://en.wikipedia.org/wiki/Algorithmic_composition</a><p>""Algorithmic composition is the technique of using algorithms  to create <i>music</i>.""",1260687694

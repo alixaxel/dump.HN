@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+13104,comment,13103,13103,0,0,amichail,,,"Consider for example writing a sorting algorithm in plain English and ""executing"" it on sample inputs using crowdsourcing.<p>If the algorithm is ambiguous, the people executing the code could use their common sense, vote on interpretations, and even get back to you if they are really stuck.<p>The execution would be done by hand, although some users who know how to program might write some code to help them out.<p>You could of course do this sort of thing at a very high-level of abstraction.  Consider prototyping a word processor in this way for example.
+",1176648354
+13103,story,,,3,6,amichail,"How would you build a human computer so that people can write possibly ambiguous code in high-level English and have it ""execute"" by others using common sense?",,,1176648076
+13102,comment,13077,13090,0,0,yaacovtp,,,"There are times when you want to keep things in your house. They're using amazon s3 so it's costing them $0.30 per download. Pennies compared to the 50k prize.",1176647612
+13101,comment,13100,13100,0,0,yaacovtp,,,"I wish there was something like this two years ago when I posted in the rideshare section of craigslist offering a ride from nyc to Boston. If Zimride were around then I woul never have given that couple's massage sex therapist who's father passed away earlier that week and had to run away from stuff to nyc for a few days.<p>I can see them teaming up with zipcar for people who are going away/back home for the weekend and want to cut down on expenses. Fun stuff.",1176647233
+13100,story,,,1,1,yaacovtp,"Zimride Launches Carpooling Network for Facebook",http://www.zimride.com/,,1176646561
+13099,comment,12964,12964,0,0,Tichy,,,"While you're at it, read all the other articles by Joel, too, if you haven't done so yet ;-)
+",1176645949

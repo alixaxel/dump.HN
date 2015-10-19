@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+15189,comment,15186,15186,0,0,npk,,,"I'm assuming you're young.  Please look at other posts, and compare them to your own.  You probably don't realize that you're presenting yourself poorly.  I say this with good intentions:  When I was a 15 year old, I posted a totally inane and off-topic question on sci.crypto about my chemistry project.  At least your question is relevant to this group. :)<p>If I'm right, and you are young, the best thing you can do is to learn a core set of skills, don't worry about RoR yet.  Go to the website <a href=""http://www.drscheme.org/"">http://www.drscheme.org/</a> where you can d/l  free software and a free textbook.  If you study the book carefully, if you work hard, you will learn a lot.
+",1177099005
+15188,comment,15186,15186,0,0,dawie,,,"<a href=""http://news.ycombinator.com/comments?id=14675"">http://news.ycombinator.com/comments?id=14675</a><p><a href=""http://www.ruby-forum.com/forum/3"">http://www.ruby-forum.com/forum/3</a><p>I tought myself",1177098750
+15187,comment,14947,15020,0,0,amichail,,,"I really like it too.  However, there are many people here who would love to get funding from YC one day and this probably influences the sorts of things that they talk about.<p>For example, you may find many posts on lisp but few on java. This is particularly strange given that Google's gwt is probably the best way to build ajax apps.
+",1177098643
+15186,story,,,1,6,Latinflava,"Any tips on how i could learn Ruby/RoR if i dont know jack bout coding and dont have a helping hand around where i live? Please help :S",,,1177098407
+15185,comment,15170,15170,0,0,veritas,,,"Newsflash.. this is not Digg!  Paul... can we please get a ""bury"" or ""spam"" feature.  Say... 5 people bury something and the link is deleted.",1177097908
+15183,comment,15157,15157,0,0,unfoldedorigami,,,"1. Do people want this?
+2. Are you ridiculously passionate about the idea?
+3. Are you willing to suffer deeply to make it successful?",1177097637
+15182,story,,,7,2,raganwald,"99% of programmers are law-abiding citizens...",http://weblog.raganwald.com/2007/04/99-of-programmers-are-law-abiding.html,,1177097549
+15181,comment,15178,15178,0,0,madanella,,,"my proposal at <a href=""http://news.ycombinator.com/comments?id=15163"">http://news.ycombinator.com/comments?id=15163</a> provides an alternative path to ""big enough"". ",1177097458
+15180,comment,15144,15144,0,0,ecuzzillo,,,"I was more interested in the non-hackers part of the non-young-hackers. Harj said something about how he started something without knowing how to hack; I was surprised, because I don't even know what you DO in a web startup if you don't know how to hack. How does it work?",1177097452
+15179,comment,14605,14966,0,0,killerstorm,,,"there's also AllegroGraph product implementing triple store (kinda RDF), that can be accessed via Prolog.
+i like that kind of data store very much -- it is as convenient as using plain objects, but supports complex queries, and do not have any additional layers like ORM.
+links:<p>AllegroGraph tutorial:
+<a href=""http://www.franz.com/products/allegrograph/doc/lisp/agraph-tutorial.html"">http://www.franz.com/products/allegrograph/doc/lisp/agraph-tutorial.html</a><p>my little lispy wrapper to SPARQL:
+<a href=""http://abcl-web.sourceforge.net/rdf.html"">http://abcl-web.sourceforge.net/rdf.html</a>
+(i like it somewhat more that Prolog used with AllegroGraph :)",1177096777
+15178,story,,,2,1,jeremyliew,"web 2.0 expo presentation about how to build web 2.0 business models to scale",http://lsvp.wordpress.com/2007/04/19/presentation-at-web-20-today-show-me-the-money/,,1177096525
+15177,comment,14605,14678,0,0,dk,,,"I probably should have pointed out the implications for disk I/O.  In many cases, the serialization of the command in the journal has a smaller footprint on disk than the data that's modified.  Consider an extreme case where a small HTTP POST touches dozens or hundreds of records.<p>And appending data to a log is essentially an ideal disk access pattern.<p>Of course this can't be said for the snapshots, but you can offload that task to a replica server.",1177096517
+15176,comment,15155,15155,0,0,dawie,,,"I always try and be a hero and like DHH says, its bad.",1177096417
+15175,comment,14979,14979,0,0,jeremyliew,,,"I spoke on this topic at the Web 2.0 expo on Wednesday and have blogged on it in the past.<p>presentation available here:<p><a href=""http://lsvp.wordpress.com/2007/04/19/presentation-at-web-20-today-show-me-the-money/"">http://lsvp.wordpress.com/2007/04/19/presentation-at-web-20-today-show-me-the-money/</a>
+",1177096398
+15174,comment,15144,15144,0,0,jsjenkins168,,,"PG has said here a few times that he's invested in several companies with 30+ year old founders. It seems not really about age as much as it is being able to take the risk and not having a lot of overhead to support (a family, mortgage, etc).",1177096133
+15173,comment,15133,15133,0,0,timg,,,"It is really frustrating how lazy bloggers/investors always are rationalizing why great startups <i>should</i> be doing bad, instead of figuring out what makes these ""bad"" startups do so great.<p>Nice example.",1177096099
+15172,comment,15030,15168,0,0,jkush,,,"hmmm - still no sign of a feature to allow collaboration between people who knew them.",1177095869
+15169,story,,,1,0,usablecontent,"StumbleUpon Launches StumbleThru-Site Specific Stumbling",http://startupmeme.com/2007/04/20/stumbleupon-launches-stumblethru-site-specific-stumbling/,,1177095747

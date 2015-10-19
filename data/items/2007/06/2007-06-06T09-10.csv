@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26573,story,,,1,0,ulfstein,"How Craig Newmark Built Craigslist With ""No Vision Whatsoever""",http://blog.wired.com/business/2007/06/no_vision_whats.html,,1181123138
+26572,story,,,6,4,Keios,"Very cool UI for a desktop",http://www.bumptop.com/,,1181123054
+26571,comment,26449,26495,0,0,paul,,,"So you don't see any difference, for example, between the maps 1.0 (mapquest) and Google maps? They are both ""maps"", but other than that there is a world of difference. The same thing goes for any other product that has gotten substantially more useful.",1181122370
+26570,story,,,15,9,tim,"Why there's no Rails Inc",http://www.loudthinking.com/posts/6-why-theres-no-rails-inc,,1181121114

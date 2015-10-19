@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83791,comment,83538,83748,0,0,dcurtis,,,"Yeah, I find it ridiculous that MYOB and Peachtree are the best small business apps out there, because they're horrific monstrosities. <p>Please make awesome small business software!",1196131627
+83790,story,,,2,0,nickb,"Windows Support Issue: Computer Randomly Plays Classical Music",http://support.microsoft.com//default.aspx?scid=kb;en-us;261186,,1196131497
+83789,comment,83460,83494,0,0,codeslinger,,,"RDDB makes no sense to me. I was at RubyConf when it was announced. Why clone CouchDB in Ruby? Its got none of the awesomeness Erlang brings to the table for things such as this and you can embed Ruby in CouchDB with less work than Anthony did building RDDB in the first place.",1196129041
+83788,comment,83538,83549,0,0,imsteve,,,"> Unless you can be sure that your target market is Firefox/Safari<p>Actually this is fantastically easy to measure. Are you kidding? And I think we were talking about opera.",1196129014
+83787,comment,83538,83658,0,0,imsteve,,,"Amount/whether you can charge correlates closely with value? Unfortunately, often no.",1196128887
+83786,comment,83569,83680,0,0,redsymbol,,,"Thanks for taking the time to write that, Daniel.  I just learned a thing or two reading it.",1196128883

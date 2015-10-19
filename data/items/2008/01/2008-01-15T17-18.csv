@@ -1,0 +1,98 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+98754,comment,98702,98733,0,0,some,,,"We do this thing in PHP with classes. See below. What is the advantage - if any - of namespaces?<p><pre><code>  class yo 
+  {
+   function isBig($number)
+   {
+      return ($number>1000);
+   }
+  }
+
+  if (yo::isBig(50)) echo '50 is big';</code></pre>",1200419774
+98753,comment,98230,98230,0,0,wallflower,,,"I don't interview usually but when meeting a fellow programmer - my favorite question is what is your title - e.g. if they say Software Engineer - i ask them if they truly believe software can be engineered.. it's a way to open them up - i like to hear their philosophical views on the construction of software.",1200419704
+98752,story,,,2,0,transburgh,"Samwer Brothers Invest In Facebook",http://www.techcrunch.com/2008/01/15/breaking-samwer-brothers-invest-in-facebook/,,1200419580
+98751,comment,98686,98707,0,0,marvin,,,"Bah. Using profanity has more to do with the fact that established business doesn't like it. (""Look at me! I can break all the rules and still turn a handsome profit. Maybe someone has been lying to all of you."")<p>I love stepping on the limits of what is appropriate, just to see how people react... It's never any fun when it happens by accident, but it can be a real blast when I have figured out beforehand just what phrasing will make my counterpart slightly uncomfortable.<p>Probably this is why the paraphrased subjects use the words ""penis"" and ""kick-ass"". And it might also be that it is closer to the way they interact in their daily lives. My life certainly gets easier when I don't have to worry all the time about whether something is appropriate or not.<p>As far as I can tell (being an outsider) being ""professional"" in contemporary American business culture means subordinating by wearing a suit and tie, working exactly when the boss tells you to and doing unpaid overtime whenever it is required. That's hardly something to strive for, due to a host of obvious reasons that anyone younger than 30 should be able to figure out. An alternative interpretation would be that being profesional is to serve your customers, but that's not what I hear whenever someone mentiones the word.",1200419260
+98750,comment,98704,98717,0,0,rontr,,,"The cool kids won't move on to Scala for a number of reasons, the primary of which is that Scala's actors are not as powerful as Erlang processes.<p>See Virding's First Rule of Programming (<a href=""http://www.nabble.com/Erlang-concurrency-to14747956.html"" rel=""nofollow"">http://www.nabble.com/Erlang-concurrency-to14747956.html</a>):<p>""Any sufficiently complicated concurrent program in another language contains an ad hoc informally-specified bug-ridden slow implementation of half of Erlang.""",1200418967
+98749,comment,98528,98528,0,0,cyanobyte,,,"I am addicted to programming for startups. I have learned from 1st hand experience and from CVS logs that on most projects 99% of the check-ins and real coding is done by at most 2 guys (usually 1) on a 8-10 man project. I would say, even though I haven't done a study, I see the hard facts every time I check-in code. There really are programmers out there 20x-30x more productive than the rest.",1200418683
+98748,comment,98227,98592,0,0,blinks,,,"To complete the trinity:
+    hg clone <a href=""http://ycombinator.com/arc"" rel=""nofollow"">http://ycombinator.com/arc</a>",1200418549
+98747,comment,98704,98717,0,0,bilbo0s,,,"That's the interesting thing isn't it.  With the Scala platform around people have very little incentive to go in and make the improvements to Erlang that would help it to become more mainstream.  Particularly on the web.<p>For instance, what follows is the code to the Scala address book example:<p>object addressbook {<p><pre><code>  case class Person(name: String, age: Int)
+
+  /** An AddressBook takes a variable number of arguments
+   *  which are accessed as a Sequence
+   */
+  class AddressBook(a: Person*) {
+    private val people: List[Person] = a.toList
+
+    /** Serialize to XHTML. Scala supports XML literals
+     *  which may contain Scala expressions between braces, 
+     *  which are replaced by their evaluation
+     */
+    def toXHTML =
+      <table cellpadding=""2"" cellspacing=""0"">
+        <tr>
+          <th>Last Name</th>
+          <th>First Name</th>
+        </tr>
+        { for (val p <- people) yield
+            <tr>
+              <td> { p.name } </td>
+              <td> { p.age.toString() } </td>
+            </tr> 
+        }
+      </table>;
+  }
+
+  /** We introduce CSS using raw strings (between triple
+   *  quotes). Raw strings may contain newlines and special 
+   *  characters (like \) are not interpreted.
+   */
+  val header =
+    <head>
+      <title>
+        { ""My Address Book"" }
+      </title>
+      <style type=""text/css""> {
+     """"""table { border-right: 1px solid #cccccc; }
+        th { background-color: #cccccc; }
+        td { border-left: 1px solid #acacac; }
+        td { border-bottom: 1px solid #acacac;""""""}
+      </style>
+    </head>;
+
+  val people = new AddressBook(
+    Person(""Tom"", 20),
+    Person(""Bob"", 22),
+    Person(""James"", 19));
+
+  val page =
+    <html>
+      { header }
+      <body>
+       { people.toXHTML }
+      </body>
+    </html>;
+
+  def main(args: Array[String]) {
+    println(page)
+  }</code></pre>
+}<p>This is so much less scary to people than the Erlang equivalent.  EQUALLY complicated, just less scary!  So if there are kids out there looking at implementing something new really fast, they will be drawn to Scala.<p>Remember PERL, it was lightning fast . . . and really scary.  Java was less scary.  PHP was friendlier still.  And, I suspect, the frameworks built using Scala will be downright promiscuous.<p>It's too bad, I'm an old fart, 36, but I like Erlang.<p>Maybe the kids will let their religion get the best of them.  They are really anti-Java, and Scala is built on Java.<p>Of course, they love JRuby.<p>Quel dommage.",1200418480
+98745,comment,98704,98704,0,0,nootopian,,,"""You cannot change the state of a variable once it has been set""
+<a href=""http://www.onlamp.com/pub/a/onlamp/2007/09/13/introduction-to-erlang.html?page=2"" rel=""nofollow"">http://www.onlamp.com/pub/a/onlamp/2007/09/13/introduction-t...</a><p>Im not a cool kid.",1200418202
+98743,story,,,5,0,polar,"Bruce Schneier: My Open Wireless Network",http://www.schneier.com/blog/archives/2008/01/my_open_wireles.html,,1200418151
+98742,story,,,2,0,german,"Why tables for layout is stupid: problems defined, solutions offered",http://www.hotdesign.com/seybold/,,1200418141
+98741,comment,98227,98633,0,0,AcMC9wk0W5,,,"I am interested foremost in reading a description or specification of Arc, not using an implementation.",1200417933
+98739,comment,98722,98722,0,0,Alex3917,,,"irc.macrumorslive.com #macrumors",1200417810
+98738,story,,,3,0,kirubakaran,"How To Break DRM",http://www.antidrm.hpg.ig.com.br/,,1200417751
+98737,comment,98653,98653,0,0,asmosoinio,,,"See: <a href=""http://news.ycombinator.com/item?id=98230"" rel=""nofollow"">http://news.ycombinator.com/item?id=98230</a><p>Seems that there was a misspelling of ""schmuck"" in this previous URL, which lead to the system accept two submits of the same article...",1200417552
+98736,story,,,2,0,lg,"Do We Know Our Own Minds?",http://www.salon.com/books/review/2008/01/11/calculating_consciousness/,,1200417381
+98735,comment,98227,98724,0,0,kirubakaran,,,"Still the very first bird, to which we owe Thanksgiving, Hot Wings and Avian Flu.",1200417297
+98734,story,,,12,1,Poleris,"""On Seeing A's and Seeing As"" by Hofstadter",http://www.stanford.edu/group/SHR/4-2/text/hofstadter.html,,1200417034
+98733,comment,98702,98711,0,0,voldern,,,"Something like this:<p><pre><code>  namespace yo 
+  {
+    function isBig($number) {
+      return ($number>1000);
+    }
+  }
+
+  if (yo::isBig(50)) echo '50 is big';</code></pre>",1200416672
+98732,story,,,1,4,hhm," 10 Considerations for the Startup planning to offer to the Enterprise (and why many will fail)",http://www.web-strategist.com/blog/2008/01/14/10-considerations-for-the-startup-planning-to-become-enterprise-20/,,1200416427

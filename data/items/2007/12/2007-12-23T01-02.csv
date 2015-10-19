@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92123,comment,92007,92082,0,0,icky,,,"""Aristotle, Aristotle was a bugger for the bottle.<p>Hobbes was fond of his dram,<p>And Rene Descartes was a drunken fart.<p>'I drink, therefore I am.'""",1198375129
+92122,story,,,2,0,edw519,"NetSuite auction doubles IPO price",http://blogs.zdnet.com/SAAS/?p=431,,1198374978
+92121,comment,92007,92077,0,0,edw519,,,"Not to mention this...<p><a href=""http://www.fourmilab.ch/hackdiet/"" rel=""nofollow"">http://www.fourmilab.ch/hackdiet/</a>",1198374892
+92120,story,,,4,1,edw519,"Fantastic Fixes Help Your Sad, Pathetic Cubicle",http://www.wired.com/techbiz/it/multimedia/2007/12/gallery_cube_fixes,,1198374630
+92119,comment,91773,92067,0,0,icky,,,"> Now what about wrapping an arbitrary language (ie, is there a ""swig"" equivalent for wrapping python, or any generic language X?)<p>Sockets! ;-D",1198374368
+92118,comment,92060,92110,0,0,edw519,,,"Agreed.  Sometimes I think the best judge of your code is the poor sap who has to maintain it a year later.",1198374040
+92117,comment,92100,92100,0,0,jbredeche,,,"sure thing ... bredeche at gmail.com",1198373863
+92116,comment,92100,92100,0,0,Zak,,,"Sure, I'll check it out. Email in my profile.",1198373630
+92115,comment,92100,92107,0,0,iamyoohoo,,,"sorry - i did not see an email in your profile.",1198372445
+92114,comment,92100,92107,0,0,iamyoohoo,,,thanks,1198372401
+92113,comment,92100,92103,0,0,iamyoohoo,,,thanks,1198372386
+92112,comment,92100,92104,0,0,iamyoohoo,,,":) - thanks.",1198372376
+92111,comment,92092,92092,0,0,cduan,,,"IANAL (yet), but here's what I think the answer is.<p>1. Yes, it's copyrightable, just like anything else that is written.<p>2. But if they took any of that JS from something else that was GPL'd, then technically their JS is GPL'd too. (Assuming the GPL is enforcible.)<p>3. Nothing stops you from reading their code and rewriting it yourself, so long as you don't just copy. Copyright extends to ""expression,"" not ""ideas."" The way an algorithm works, the way a program is organized, the interfaces it uses: these are all ideas, not expression. So if you rewrote the algorithms in your own idiom, you could take pretty much as much inspiration from the original as you'd like.",1198372334
+92110,comment,92060,92060,0,0,cduan,,,"Great post, so true. One point I'd add, though: when you're writing code, make it readable by commenting well! Sure it's obvious to you why you used a ternary operator expression that uses a postfix-decrement operator and raises an exception, but that's not clear to me. Until you tell me that you're testing to see if an object reference count is zero, decrementing it if not, and raising an error if so.<p>Good comments are tedious work and seem pointless at the time, but just wait until you're reading your own code two weeks later, or even worse, someone else's. The time you spent explaining yourself frequently makes up for the time you'll waste later reimplementing what you did the last time around.",1198371666

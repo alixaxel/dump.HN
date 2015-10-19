@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33071,story,,,8,11,henning,"Java vs. K: a screencast",http://www.cs.nyu.edu/~michaels/screencasts/Java_vs_K/Java_vs_K.html,"K is a proprietary APL-influenced array programming language. A simple 36-line Java program becomes a one-liner in K.",1183895820
+33070,comment,33037,33037,0,0,waleedka,,,"Very interesting. I would join an event like this if it happens in SV. Not for the equity, just for the fun of it. ",1183895023
+33069,comment,32933,33065,0,0,Keios,,,"maxklien, <p>1.My own perspective is that it does not matter whether it is a 6 or a 7 and who interprets it how. That is the whole point of a subjective system it is not objective.<p>2. I believe subjective systems should not use numbers or other notations and therefore I suggest a slider not 10 radio buttons or a rating system.<p>3. I do not imply that the binary/objective system is no good. It is good for some applications, I would just prefer a more subjective measure around things which incorporate human opinion.<p>:)<p>",1183894870
+33068,story,,,1,0,ivan,"Craig Newmark's lullaby",http://ivansuchy.blogspot.com/2007/07/craig-newmarks-lullaby.html,,1183894371
+33067,comment,33040,33040,0,0,y2x,,,"I dont get, why 5 is better then 4. TFA says ""better xml parsing"". But why implement XML Parsing in the language at all? You can do that in PHP. Put all that kind of stuff in libraries. I want a slim language that never changes.
+",1183893967

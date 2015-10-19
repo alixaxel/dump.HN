@@ -1,0 +1,86 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+644238,comment,643548,643760,0,0,defunkt,,,"Sorry, I didn't mean to call you out for being anti-anything. Was just curious why you said RoR-heavy when I only saw one developer :)",1244246095
+644237,comment,644007,644007,0,0,spaghetti,,,"When you finally reach enlightenment or a state of ""genius"" you won't be thinking about what other people think of you.",1244246054
+644236,comment,,644233,9,0,jmonegro,,,"No for Wave",1244245777
+644235,comment,,644233,19,0,jmonegro,,,"Indifferent for Wave",1244245777
+644234,comment,,644233,9,0,jmonegro,,,"Yes for Wave",1244245777
+644233,story,,,4,5,jmonegro,"Poll: How hyped are you for Google Wave?",,"I read all this Wave talk, but I don't really care much about it, not even sure if it's even necessary. I think that trying to mix social (which Google needs to do) with collaboration, with e-mail, with IM, with everything else is somehow, not right. Or this might just be my paradigm?<p>How about you?",1244245777
+644232,comment,644147,644147,0,0,zackattack,,,"A cool feature: where can I go tonight for $x?",1244245722
+644231,story,,,4,0,vaksel,"Software Engineering ≠ Computer Science ",http://www.ddj.com/architect/217701907,,1244245659
+644230,comment,643027,643027,0,0,elcron,,,"You don't need to take the course to take the AP test. I took the AB test this year after signing up late and only haven written two programs in java (one of those being hello world.) It was a fairly easy test. I would recommend taking the class if the class if you want to learn java, but just take the test and teach yourself if you just want to skip entry level cs in college and use the free time to teach yourself what you want.",1244245628
+644229,comment,644147,644226,0,0,tdavis,,,"I don't think so. It hasn't really come up, as neither of us have plans to stop.",1244245613
+644228,comment,643113,643113,0,0,spudlyo,,,"I sometimes in interviews I ask how to find the top 10 IP addresses that have hit a web host in the last thousand hits.<p>tail -1000 access.log | cut -d' ' -f1 | sort | uniq -c | sort -rn | head",1244245595
+644227,comment,644147,644210,0,0,tdavis,,,"I think I'd have to <i>know</i> something to be a writer like PG, though I suppose I could just make it up ;)<p>I very much appreciate the compliment, though!",1244245526
+644226,comment,644147,644147,0,0,vaksel,,,"Are there any legal obligations to YC etc, to continue working on the project?",1244245512
+644225,comment,644007,644203,0,0,delano,,,"<i>DVCSes have the critically important property that there is no longer any inherent technical center of development but that the social center of development is retained (usually).</i><p>This is a really good point. It allows the social structure of the project to grow and change in a very natural way which makes it not only easier to adapt as committers come and go, but effortless.",1244245474
+644224,comment,644098,644108,0,0,apgwoz,,,"> but the domain has to be hosted @ dreamhost<p>From the post:<p><pre><code>    You can use them with us or any other web host.
+</code></pre>
+You do however need a unique IP regardless of where you're hosting it.",1244245339
+644223,comment,643773,643773,0,0,dpifke,,,"The idea of forcing people to take the stairs to fight obesity is currently a running experiment at the new San Francisco Federal Building.<p>Results are mixed, see i.e. <a href=""http://www.beyondchron.org/news/index.php?itemid=5428"" rel=""nofollow"">http://www.beyondchron.org/news/index.php?itemid=5428</a><p>From the article:<p><i>According to my source, architect Mayne has stated that federal office workers do not get enough exercise. To address this, he installed elevators in the building that only stop at every third floor. This requires employees to walk up or down one or two flights of metal stairs.</i><p><i>Persons with physical disabilities who cannot use stairs can use a separate elevator that stops at every floor. The foreseeable result is that employees seeking to avoid stairs use the disabled access elevator, leaving this car crammed with people and making the ride to the top extremely slow.</i>",1244245302
+644222,comment,644193,644193,0,0,Tichy,,,"A direct demo can be seen in the form at the bottom of my last blog post: <a href=""http://blog.blinker.net/2009/06/05/creating-twitter-this-links/#twitterThisFor"" rel=""nofollow"">http://blog.blinker.net/2009/06/05/creating-twitter-this-lin...</a>",1244245253
+644221,comment,643891,643891,0,0,spectre,,,"Microsoft needs to take a look at how google became popular in the first place.<p>I got told told about by a friend at school and how it was much better then yahoo.
+I didn't believe him but after trying I was really impressed. I then told my parents about it and they had the same reaction I did. Since then my entire family has been using google.<p>If Microsoft wants to beat google at search they need to invoke the same kind of reaction in people.",1244245245
+644220,comment,643240,644035,0,0,10ren,,,"Tone is hard to convey online. I guess I should have added a smiley. I'm not angry at all; I don't miss anything from Plan 9. I just feel sorry for these guys who went to so much trouble to make a ""proper"" OS that fixed up one they hacked together (unix).",1244245224
+644219,comment,639647,644123,0,0,tptacek,,,"You realize that despite the fact that I still don't follow the logic here, SHA collisions have no meaningful impact on the security of PBKDF, right?",1244245115
+644218,story,,,56,40,jmonegro,"Don't Click It",http://www.dontclick.it,,1244245092
+644217,comment,643022,643125,0,0,access_denied,,,"I think joel_feather has 2 points: uploading via web is painful and niche pricing will be accepted by woobius target market.  (This is also just an opinion, but I honestly believe those 2 points merrit some consideration).",1244245058
+644216,comment,644098,644098,0,0,tptacek,,,"SSL/TLS does not work without certificates. In the absence of a ""tie breaker"" for someone else's fake handshake data, the encryption it employs on the link provides no more security than does LZ compression. And I'm supposed to buy certs from these people?<p>See:<p><a href=""http://news.ycombinator.com/item?id=277284"" rel=""nofollow"">http://news.ycombinator.com/item?id=277284</a><p>Should CA processes be reformed? May-be so. I'd start with not allowing people like Dreamhost to sell them. But that has nothing to do with how the browsers enforce the SSL protocol.",1244244779
+644215,story,,,3,1,danspam,"Windows Server 2008, ASP.NET, Pre-compiling and Virtual Directories",http://www.onemoretake.com/2009/06/05/windows-server-2008-aspnet-pre-compiling-and-virtual-directories/,,1244244681
+644214,comment,643548,643678,0,0,ericlavigne,,,"avibryant #followfriday",1244244546
+644213,story,,,2,1,yvesrn,"Logmein Ignition; Remote Control Software for iPhone",http://iphonecto.com/2009/05/21/logmein-ignition-remote-control-software-for-iphone/#,,1244244467
+644212,comment,643720,644045,0,0,dangoldin,,,"If people are more healthy and feel take care of they will commit crimes less frequently.",1244244342
+644211,comment,643334,643741,0,0,callmeed,,,"So, does that mean Wattvision will betray PG/YC somehow?",1244244228
+644210,comment,644147,644147,0,0,mlinsey,,,"Hope ticketstumbler works out in the long term; if it doesn't or if you have a successful exit, looks like you could consider the PG route of becoming a writer.",1244244083
+644209,comment,644059,644059,0,0,steve_mobs,,,"The VC sector was too bloated to begin with and it is nice to see a shakeout happening.VCs had so much capital then they should have that they have invested in a lot of companies that did not deserve funding in the first place.",1244244044
+644208,comment,643960,643960,0,0,alanthonyc,,,"I'm addicted to the temporary passwords on yahoo mail.  I use them all the time when signing up on random sites.<p>Has anyone else made the switch from this to gmail?",1244243962
+644207,comment,643847,644101,0,0,tlrobinson,,,"I agree. To address your last point:<p>I've played with Wave and the live editing feature has already bitten me a couple times. I haven't found the setting yet, but supposedly you'll be able to toggle that feature, so wavelet edits are only transmitted when you ""commit"" it.<p>I really hope Google turns it off by default, or at least gives you an account-wide setting to disable by default and let you enable it selectively.<p>It's also worth noting that I think this would be enabled/disabled at the client level rather than the protocol level, so alternative clients will certainly offer more control.",1244243948
+644206,comment,644147,644191,0,0,tdavis,,,"You didn't read far enough ;)<p>It wasn't my intention to make that seem literal; I am still very much committed to working on and improving the site. I was merely speaking to a sentiment that I feel many developers experience as time goes by.",1244243887
+644204,comment,643540,643968,0,0,defen,,,"I thought the Most Serene Republic declined because they got squeezed between the Ottoman Empire and Habsburg Dominions, both of whom were able to mobilize significantly larger armies and navies.  The Habsburgs could do so because of New World silver, and the Ottomans could because they had the world's best bureaucracy, and trade with the East.",1244243845
+644203,comment,644007,644007,0,0,gchpaco,,,"This is a bit of a diversion from Fitzpatrick and Collins-Sussman's
+talk, but I run into this belief a lot, and want to make a point.<p>I see little evidence here that Collins-Sussman has finally understood
+DVCS as a social entity, although he certainly seems to have the
+technical details down.  The strongest argument for DVCS--any
+DVCS--that I have found is the periodic fights over ""committer access""
+or project direction generally for projects like NetBSD, XEmacs,
+gcc/EGCS, or glibc/eglibc disappear.<p>I've seen more times than I can conveniently remember a <i>perception</i>
+of a cabal of committers who communicate exclusively with each other.
+This looks a lot like the structure of some sort of conspiracy, even
+though that is rarely the purpose.  Even when it is, it's usually
+trying to work around some productive but extremely difficult person
+like Ulrich Drepper or Theo de Raadt.<p>DVCSes have the critically important property that there is no longer
+any inherent <i>technical</i> center of development but that the <i>social</i>
+center of development is retained (usually).  So while there is a
+technical hierarchy of git repositories that goes to Linus, if you
+think he's an idiot and want to take it a different direction, it's
+easy to do that--and if he decides you have a good idea in the end, he
+can merge with you without huge amounts of effort.<p>Collins-Sussman has been concerned, publically, that there's some
+splintering process that DVCSes enable and that SVN prevents.  But
+this perception is one you can only arrive at if you are in control of
+the SVN repository--if you are trying to submit patches to somebody
+doing this, and you don't have write access on the SVN server for
+branches or whatever (which imposes a nontrivial amount of effort),
+you more or less have to do this splintering on your own, without any
+tool support.  In my experience DVCSes don't make this any more common
+than it was once; it's just that now these private splinters are
+visible, and can be integrated.<p>Another secondary thing that's very convenient for me is that I can
+make many small changes and push them all at once when I'm happy with
+them--because they're small they're easier to review.  But this is a
+workflow issue, it's not that one couldn't do this with SVN.",1244243840
+644202,comment,643617,643617,0,0,davepeck,,,"On the AppEngine track, both of Brett's talks (""Building Scalable Complex Apps"" and ""Offline Processing"") are worth watching [when the videos are posted.]<p>I attended the V8 internals talk out of curiosity; it was quite good, too.<p>And for no apparent reason, I just watched the Android real-time games talk. He has lots of insightful things to say about both the industry and the use of Java for games.",1244243661
+644201,comment,643113,643679,0,0,ori_b,,,"Ack could have been done just as well with a 10 line shell wrapper around grep. It would have been much faster, on top of being simpler.",1244243651
+644200,comment,644007,644152,0,0,mlinsey,,,"I see where they are coming from too, and I often feel the same way; sometimes I have found myself starting on side-projects and not even telling close friends what they are about because I am scared or embarrassed to have anyone see my work in an embarrassingly incomplete state.<p>I think one of the key lessons for me, which is very easy to grasp intellectually but much harder to internalize, is that any nastiness you receive in the short term doesn't really matter (and often comes from people who don't really matter).  If you succeed in the long-term, that's what you will be known for, and all of the scorn directed at your early works will seem irrelevant.  You should therefore do whatever maximizes your chances at long-term success, which includes taking the risk of exposing yourself to humiliation so that you can get better faster.<p>It's one of the things I really admire about, say, Jeff Atwood. He's consistently bashed here and elsewhere for being incompetent, and it's not undeserved: even though I consider myself a pretty poor programmer at the moment, I can often tell when he says things that are fallacious or ignorant.  And yet, with Stack Overflow he has been involved in a project more successful than most people's projects here.   I would never mistake him for the mythical genius programmer, and I may be puzzled at the attention he receives or his persistence about writing topics he doesn't know much about, but when I see how he keeps writing and keeps building useful things even when everyone is publicly explaining to him all the ways he sucks, I wish I had his cojones.",1244243646
+644199,comment,643403,643837,0,0,crux,,,"The very fact that email needs to be pumped through a web server before it enters that workflow somewhat proves the point. Email is not linkable or indexable before you turn it into a web page. Therefore, it is not a web technology.",1244243614
+644198,comment,644149,644195,0,0,julien,,,"Hey Jusob,<p>We actually launched on Monday. We have a Perl library coming so that you don't even have to <i>know</i> that it's XMPP as a protocol.<p>We also have a webhooks API if you really want to stay in the HTTP realm ;)<p>@superfeedr me if you need help on anything!",1244243557
+644197,story,,,5,0,paulgb,"Schneier on Security: The Security Mindset (2008)",http://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html,,1244243364
+644195,comment,644149,644149,0,0,jusob,,,"I would be interested by this service for a web site I'm building, but:<p><pre><code>  * dealing with XMMP seems more complicate to me than using existing RSS libraries
+  * 100% uptime required on the client side
+  * no Perl library
+</code></pre>
+Right now, it seems to be more complicate to use your service than doing it myself. Maybe because  I plan on monitoring only about 2500 feeds...",1244243317
+644194,story,,,5,1,jeffwidman,"Palantir keeps it lean and mean on five-year journey from zero to 150 employees",http://venturebeat.com/2009/06/05/palantir-keeps-it-lean-and-mean-on-five-year-journey-from-zero-to-150-employees/?&obref=obinsite,,1244243216
+644193,story,,,2,1,Tichy,"BackgroundCount - display char count in textarea using Google Chart API",http://github.com/Bjoern/BackgroundCount/tree/master,,1244243077
+644192,comment,642684,642786,0,0,grandalf,,,"sounds like you're working on Chrome -- it's awesome!  Great job.",1244242998
+644191,comment,644147,644147,0,0,joepestro,,,"I'm looking forward to this series.<p>So, am I reading this right? TicketStumbler has become a maintenance project for a summer intern?",1244242877
+644190,comment,641946,642147,0,0,youngian,,,"<a href=""http://www.joelonsoftware.com/articles/Wrong.html"" rel=""nofollow"">http://www.joelonsoftware.com/articles/Wrong.html</a><p>Great article on Hungarian notation, why it used to be good, and how things went horribly awry. Takes a while to get to the point, but he's convincing.",1244242870
+644189,comment,643106,643412,0,0,jmonegro,,,"Plus it's from Google <i>swoons</i>. Jokes aside, I don't see why they don't add this to the Chrome's Firebug<i>ish</i> feature.",1244242848
+644188,comment,643334,643861,0,0,drusenko,,,"In most any article of any significance I have been a part of, I get a call a couple weeks after the interview by a fact-checker that double-checks the spelling of my name, and generally asks me ""would you say the following statements are true: ...""<p>so there's some level of accuracy checking, you just can't do it with the whole story otherwise you'd be having the subject writing the article to their exact liking, and that wouldn't be journalism anymore, it would be PR and promotion.",1244242834

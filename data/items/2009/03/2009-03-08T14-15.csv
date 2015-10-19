@@ -1,0 +1,37 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+507225,comment,163552,163552,0,0,tomc,,,"""They're riskier - so you just have to spread your money more broadly.""<p>Where have we heard that before ? Oh right the financial crisis.<p>I don't think more startups translates into more good ideas. Just in more copies and more bad ones. Therefore the cheaper and more plentiful companies get, the more risky they are, and the fewer chances (less funding) really, really good ideas get.<p>But it's fashionable to startup. So a number of people are putting their ""look cool"" money (which is often the same type of money Obama spends : someone else's, and therefore plentiful and worthless to them) into little startups who are very sure to fail.<p>You're heading for a massive bust.",1236524296
+507224,comment,507064,507064,0,0,moe,,,"I like the robot analogy.<p>Applies to other programming problems as well, I think I'll use this when I next time see someone ""optimizing"" SQL database transactions.",1236524194
+507223,comment,507153,507153,0,0,RiderOfGiraffes,,,"Twice this refers to ""this paper"".  What paper?  If it's referring to itself, then it seems content-free.  If it's another paper, where is it?<p>This seems a complete waste of time, reiterating material that's pretty obvious to a moment's thought.  If I've missed something then I'd be pleased to have it pointed out so I don't feel like I've just wasted five minutes trying to find some value in this.",1236524151
+507222,comment,507212,507212,0,0,Hates_,,,"Nice and simple to use. I can certainly see myself using this a lot.",1236524104
+507221,comment,507172,507172,0,0,shimonamit,,,"Sounds like another Cuil hype type campaign. When Google came out they didn't make any claims. Only factual performance counts.",1236524008
+507220,comment,507185,507185,0,0,windsurfer,,,"He says that the software is the problem, but isn't it the hardware (wiimotes) that really differentiate the Wii from the other platforms?<p>I am currently working on a project that uses the wiimotes to get 3D motion tracking for a demo game as well as artists interested in animation. The fact that the wiimotes come with 1024x768 hardware interpolated 100 FPS wireless cameras is something that can be continually improved upon. Does anyone remember Johnny Lee?",1236523790
+507219,comment,507088,507089,0,0,nebula,,,"I'm more amazed by the fact that dolphins mastered the technique of creating bubble rings. And if the description in this video is to be believed, they also pass on this technique to other dolphins.",1236523782
+507218,comment,507172,507172,0,0,nickb,,,"Or it could be as unimportant as Powerset. It's best not to hype it up too much since the odds are that it won't be a panacea to everyone and a lot of people will be disappointed.<p>Products that tend to be modest initially and improve and prove themselves rapidly tend to do better than products that are hyped up beyond all proportions.",1236523732
+507217,comment,506837,506939,0,0,brent,,,"Actually, he says green are on the front page and red <i>are</i> not.  They could have been on front page at some time.",1236523670
+507216,comment,507172,507172,0,0,moe,,,"I predict this product will score at the very least 3 cuils.<p>But heck, I wouldn't even be surprised if they push the scale, 7 cuils anyone?<p><a href=""http://cuiltheory.wikidot.com/what-is-cuil-theory"" rel=""nofollow"">http://cuiltheory.wikidot.com/what-is-cuil-theory</a>",1236523659
+507215,comment,507088,507088,0,0,nebula,,,"Amazing; For a moment, I thought it's a hoax. A quick googling has thrown up all the details including the physics behind it though.",1236523555
+507214,comment,507172,507172,0,0,TweedHeads,,,"If there is only one answer to one factual question, why not have it already written and available like wikipedia?<p>Practically speaking, static content that doesn't change often is better served by models like wikipedia.<p>If Wolfram knows all the answers, write them all in static html for the world to use, search, browse, replicate and extend instead of stored on semantic databases or ethereal brains.<p>I am not pissing on their parade, I know the scientific work is commendable, but practically speaking it can't compete with more efficient models.",1236523511
+507213,comment,507212,507212,0,0,palsecam,,,"(Web) design is hard. For us programmers, it's a pain in the ass, and 
+when it comes to create UI elements for a (web) app, we are stuck with two
+choices:<p>1. create something very basic, or<p>2. spend countless hours searching the web for Photoshop tutorials on how to create a bubble or depth 
+ effect, then spend even-more-countless hours fighting with Photoshop to implement it, and finally, 
+ maybe adapt the image with some external tools to make it be a CSS sprite or whatever)<p>Yes, 1. is not necessary a bad thing (HN is a good example :-)), but we all 
+know that for most softwares, some attractive eye-candies are useful. Even 
+ GMail uses more than a simple <i><input type=""button""></i> to display 
+their buttons.<p>So here comes <i>Da Button Factory</i>. It aims at making it easier to create
+pretty buttons, which are one of the key elements of an user interface 
+(especially on the web), in an quick and human-friendly way (not tons of
+options/menus/concepts like in an image processing program).
+And because using plain image files on the web often sucks, it (will)
+provide solutions that makes good use of CSS.<p>Currently it's just a beta. There is only a very simple CSS solution
+implemented. It may looks ugly in some browsers. Things are not polished.<p>But I would be very glad to hear any comments of yours on this ""draft"". Do you
+find it interesting? Do you have any critics/ideas about it? Did you notice
+any bugs or problems?<p>Oh, and I am french, so please excuse me for any grammar/spelling mistake in
+this post, and don't hesitate to correct me, of course :-)",1236523266
+507212,story,,,149,92,palsecam,"Ask HN: Please review my webapp: Da Button Factory - create shiny buttons",http://dabuttonfactory.com,,1236523189
+507211,story,,,1,0,vp,"Reasons to Convert to Linux",http://www.linfo.org/reasons_to_convert.html,,1236522286
+507210,story,,,1,0,vaksel,"Delver Gets Acquired by Sears (Really)",http://www.techcrunch.com/2009/03/08/delver-gets-acquired-by-sears-really/,,1236522146
+507209,comment,506790,507179,0,0,mootymoots,,,"Most of the examples are compatible with IE6+ which is encouraging...",1236522095
+507208,comment,507172,507201,0,0,greendestiny,,,"I'm sort of assuming that its going to be an extension of the online data sources that Mathematica introduced a little while back, with perhaps a natural language interface.",1236521584
+507207,comment,506800,507051,0,0,Tichy,,,"I live far, far away from Nebraska and I have no idea what kind of farming they typically do there.",1236521568
+507205,comment,507130,507204,0,0,barredo,,,"No, but the pills are supposed to give them better ods to live until 2040-2050 where they think the Singularity will allow them to transcend their human bodies.<p>Other people prefer go and live in Florida or Spain :-)",1236520890

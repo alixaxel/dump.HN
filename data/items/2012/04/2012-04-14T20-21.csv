@@ -1,0 +1,455 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3841975,story,,,109,67,vgnet,"Of Booze and Brogrammers ",http://www.databasesoup.com/2012/04/of-booze-and-brogrammers.html,,1334437187
+3841974,comment,3841348,3841598,1,0,read_wharf,,,"The network effect says that a person that's connected to five family members is not as (measurably) valuable as someone connected to fifty people.<p>If you were Google, which would you rather sell to advertisers, correlations between groups of five people of fifty?",1334437181
+3841973,comment,3841721,3841721,1,0,Inufu,,,"wait, why can I download the .tar.gz of Issue 67, but not 68? (I get a file with just ""nice try ;-)"" )",1334437175
+3841972,comment,3841710,3841710,3,0,andrewaylett,,,"The OP says almost no-one uses it, but as a concrete (admittedly non-RESTful) example of one of the few users, Subversion does use OPTIONS.",1334437173
+3841970,story,,,2,0,mikecane,"Writer Shoo Rayner: Why iBooks Will Fail",http://mikecanex.wordpress.com/2012/04/14/writer-shoo-rayner-why-ibooks-will-fail/,,1334437150
+3841969,story,,,2,0,sajid,"Why I wouldn't invest in Facebook",http://techpinions.com/why-i-wouldnt-invest-in-facebook/6431,,1334437143
+3841968,comment,3841463,3841463,3,0,russell,,,"I'm curious about the economics of self-publishing.<p>What does it cost for an editor to edit a 300-400 page novel written by a decent author?<p>How about cover art?<p>Marketing is an entirely different animal.  I dont think you do book tours for ebooks.",1334437137
+3841967,story,,,3,0,simon_weber,"Cold-email a VP, publish in Phrack",http://www.simonmweber.com/2012/04/14/email-vps-and-publish-in-phrack.html,,1334437122
+3841966,comment,3841463,3841859,3,0,radicalbyte,,,"Have you ever read ebooks on a palm? It was pretty obvious to me that that was the future.  It needed someone to take the idea seriously for it to become mass market.  Amazon did.<p>As, I should add, have O'Reilly.",1334437076
+3841965,story,,,1,0,GuiA,"Ubooly  a next step for digital toys",http://gardaud.posterous.com/ubooly-or-when-technology-and-toys-for-kids-g,,1334437072
+3841964,comment,3841248,3841248,12,0,pixelmonkey,,,"OP has: ""did you call SomeClass() twice? Then a is b will always be False.""<p>Not quite. SomeClass can have an implementation of __new__ which returns the same object upon every invocation. In this case ""SomeClass() is SomeClass()"" will be True. People sometimes do this and call SomeClass a ""singleton"".",1334437060
+3841963,comment,3841390,3841390,1,0,argumentum,,,"List of potential craigslist houses I found, mostly in palo alto or within minutes from..<p><a href=""http://sfbay.craigslist.org/pen/apa/2957756203.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2957756203.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2952933250.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2952933250.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2956453815.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2956453815.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2956341339.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2956341339.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2946849180.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2946849180.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2949748841.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2949748841.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2949736690.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2949736690.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2947663166.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2947663166.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2957990093.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2957990093.html</a>
+<a href=""http://sfbay.craigslist.org/pen/apa/2948364081.html"" rel=""nofollow"">http://sfbay.craigslist.org/pen/apa/2948364081.html</a> (has basement!)",1334436993
+3841962,comment,3841370,3841910,14,0,oscardelben,,,"With all due respect we're not talking about kids across the street here. We're all professional developers trying to contribute something. I'm perfectly fine with people making money especially those who have contributed so much, but is it possible to continue to contribute like we always did without looking like some kid across the street?",1334436986
+3841961,comment,3841248,3841248,2,0,technomancy,,,"Equality done right: <a href=""http://home.pipeline.com/~hbaker1/ObjectIdentity.html"" rel=""nofollow"">http://home.pipeline.com/~hbaker1/ObjectIdentity.html</a>",1334436938
+3841960,comment,3841710,3841957,2,0,eloisius,,,"I'd be interested in seeing the format it uses. I want to start working on a standard.",1334436934
+3841958,story,,,1,0,hverespej,"What comes first, the team or the idea?",http://www.verespej.com/2012/04/what-comes-first-team-or-idea.html,,1334436782
+3841957,comment,3841710,3841710,2,0,Scotchy,,,"I discovered this when I was debugging a Netbeans generated REST Webservices. The web UI makes clever use of OPTIONS in order to list the available services and their parameters automatically :).",1334436778
+3841956,comment,3841335,3841860,1,0,TheSmoke,,,"I agree with you. In my belief, we have built a great product yet in 6 months we only have 86 users. However I think we have not made it clear for people so they would share on their walls or timelines -which is something I'm working on.- Some of our visitors got the point and signed up but most of them did not.<p>Do you think ""invitation only"" launches are more successful? I think they are for a certain degree because from what I see people want to feel special and they want to have their place on that new thing before somebody else or everyone else does.",1334436771
+3841955,comment,3841390,3841662,1,0,andrewhillman,,,"It could be distracting but a weekly (small) gathering would be pretty beneficial. Teams could get feedback and their pitch down. It'd be like ""office hours"" with peers and a couple of beers. I am sure you will experiment to see what works.",1334436728
+3841954,story,,,4,0,nsns,"MPAA-Affiliated Anti-Piracy Group Mysteriously Disappears",http://torrentfreak.com/mpaa-affiliated-anti-piracy-group-mysteriously-disappears-120414/,,1334436721
+3841953,story,,,1,0,toddstavish,"How To Use A Graph Database to Integrate And Analyze Relational Exports",http://blog.stavi.sh/how-to-use-a-graph-database-to-integrate-and,,1334436641
+3841952,comment,3840830,3841782,4,0,scoopr,,,"Funny thing, someone tried to submit a demo to appstore. It got insta-failed approval for the use of the word demo in the description, because don't allow demo versions of applications in the store. He tried to explain the nature of the application, and in the end still didn't get through approval, exactly because it didn't have any interactivity, so there was no perceived use for users.<p>So the issue is distribution, if you can't put it to friends device without jumping through hoops, it gains less interest.
+I haven't followed android-scene that much, but I believe there are at least some ports of demos available. There the hoops are in supporting different kind of devices.<p>But asking for money? Not in the spirit of scene, how are you gonna show off your mad skills if you are gonna ask for money? :)",1334436598
+3841951,comment,3840861,3841813,1,0,ken,,,"Apple has since dropped Java, but back in the day, it was one of the primary supported development environments for Mac OS X.  There was a full Cocoa bridge, and you could write native-looking applications in Java.<p>At least one of the built-in apps on early versions of Mac OS X (10.0/10.1?) was actually Java/Cocoa -- I want to say TextEdit, but I'm not certain.  Soon after, of course, everything got ported to Objective-C.",1334436567
+3841950,comment,3841390,3841846,1,0,borski,,,"We actually did this for Tinfoil Security; rented a kickass place in San Jose (4bed, 4ba, 4000 sqft, 2 acres of land, deer and turkey roaming around) and love coming home to it after being at work for crazy hours.<p>We also have a room open, in case anyone here is interested. :) Currently it's occupied by the founder of Tinfoil Security (myself and my cofounder) and another company called Apparel Dream (a Chilean company in Plug n Play).<p>Admittedly, we're probably moving eventually to somewhere closer to Mt. View / Palo Alto, but for starting out its definitely been great. :)",1334436509
+3841949,story,,,1,0,vgnet,"PHP floats and locales  ",http://enc.com.au/2012/04/php-floats-and-locales/,,1334436503
+3841948,comment,3841463,3841648,4,0,ralfd,,,"In one important aspect music differed from movies and books: Music was never in a copy protected format. The point of digital songs with DRM was absurd, because you could just rip & burn an original CD. But movies were copy protected even on VHS cassettes. DVD and BluRay are easy to rip/burn, but pro forma they have a DRM. And ORC scanning of books is inconvenient. It makes sense to at least try to establish a DRM for digital books.<p>But it is true: ""All this has happened before. All this will happen again."" (So say we all)<p>iTunes DRM helped not the big labels, but turned out to be a (small?) competitive advantage of Apple. Steve Jobs just didn't care, because Apple is in the business to sell the razor (iPod). This is a compelling analogy what happens now in the eBook disruption. With the difference that Amazon is in the business to subsidize the Kindle plattform to sell more blades (books).",1334436502
+3841947,comment,3841248,3841248,2,0,rflynn,,,"Good stuff. I was playing around with ordinality of language built-ins recently and found unintuitive results for Python (<a href=""https://github.com/rflynn/wat/blob/master/src/py.ord.png"" rel=""nofollow"">https://github.com/rflynn/wat/blob/master/src/py.ord.png</a>). As your article mentions there is a fine line between language and implementation detail.<p><pre><code>    >>> u"""" > () > """" == u""""
+    True</code></pre>",1334436478
+3841946,comment,3841390,3841390,1,0,bravura,,,"Cost: $500 + $600 * numBedrooms) <= cost <= ($1000 + $1200 * numBedrooms)<p><i>You decide numBedrooms for your team.
+The fixed cost is to cover shared rooms (kitchen, conference room, living room, etc).</i><p>Larger teams will incur a larger utilization of shared resources, and hence should pay more for shared resources. It more fair simply to divide the overall cost.",1334436475
+3841945,comment,3840718,3841252,1,0,michaelochurch,,,"Kudos to you for having the stones to do this. I don't know much about CoffeeScript, but what you're doing is cool.<p>I think you might be selling yourself a bit low. The market value of someone at your level of skill is at least $8,000 per month, and I don't think you should be going down by 62.5% (as opposed to 20-30) just because it's a fun, open-source project. If it's genuinely commercially useful, you should be shooting for market salary.<p>I would set the same price but make the promise 2 months, if it were me.",1334436468
+3841944,comment,3841941,3841941,1,0,SandersAK,,,"if you talk about it, it's a show, but if you move about it then it's a go - Shabazz Palaces.",1334436446
+3841943,comment,3841335,3841863,1,0,TheSmoke,,,"These are great advises. I have been reading many articles on this issue and I have never read such a great summary. Thank you.",1334436443
+3841942,comment,3835416,3835416,1,0,knes,,,"Congratulation on the launch! I'm in love with productivity app so I'll definitely test it in the very near futur :)",1334436409
+3841941,story,,,8,7,zmitri,"Entrepreneurs should listen to rap music",http://arbor.posterous.com/entrepreneurs-should-listen-to-rap-music-all,,1334436385
+3841940,story,,,4,0,thomholwerda,"Keep an eye on Valve, even if you're not into games",http://www.osnews.com/story/25816/Keep_an_eye_on_Valve_even_if_you_re_not_into_games,,1334436385
+3841939,story,,,3,0,vgnet,"Pyutf (or, as its known on my machine - .py)",http://blog.pault.ag/post/21099631303/pyutf-or-as-its-known-on-my-machine-py,,1334436328
+3841938,comment,3841826,3841826,2,0,amirnathoo,,,"""7 bullets vs 3 bullets. PlatformLayer is more than twice as good!""<p>'nough said. I'm with PlatformLayer.",1334436289
+3841937,comment,3841734,3841895,1,0,michaelpinto,,,"you're dead on  i was thinking the same thing: their mindset of going head-to-head w developers who charge $5k for a site seems a pretty thin market - they should be going after Tumblr rather than WordPress.",1334436274
+3841936,story,,,1,0,mnshah,"8 Links to Learn about Freemium Business Models",http://mavenary.com/manish-shah-is-learning-freemium-business-models,"Many successful businesses attracted customers by offering something for free before asking them to pay for the full service. Pandora, Dropbox, and Evernote are good examples of this. There is an art and a science to finding the right mix of free vs paid services, this skill hopes to surface some of the techniques.",1334436257
+3841935,story,,,1,0,vgnet,"Software and Building Architecture Compared",http://alessandrovermeulen.me/2012/04/14/software-and-building-architecture-compared/,,1334436193
+3841934,comment,3840830,3841711,2,0,henrikschroder,,,"> how they manage to overcome the limitations imposed by the scene<p>It's pretty telling that the scene adapted to the increased hardware by imposing their own limitations instead of anything-goes. If we can't be wowed by what they do on limited hardware, we have to be wowed by what they can do under their own very harsh limitations.",1334436178
+3841933,comment,3841463,3841704,2,0,netcan,,,"I don't think so, for two (related) reasons:<p>When it follows the rules, disruption starts at the low end, competing with non consumption and its near margin. Lots of books can't be viably published via the old system but might still be viable fo self publishing. For example, a book that can expect 2000 sales.<p>The question is not necessarily will the established authors & publishers prefer ""to write, not deal with the minutiae of self-publishing."" The question is will future authors prefer to try and find someone willing to publish their books or will they just self publish? I think a lot of them will self publish.<p>The second reason is cost. The traditional publishing process is expensive. It's an all exclusive package that includes financing, editing, promoting and all sorts of other stuff that authors probably want to avoid but it costs. Authors earn a small percentage of the price of a book. From what I understand, it can be between 1% & 25%. That is a lot of room for improvement.",1334436079
+3841932,comment,3841390,3841902,1,0,thejash,,,"I'm not sure how subsidizing the rent would help the companies, especially if they've already gotten into YC (and thus just got a bunch of investment, with other investment pretty readily available).<p>Seems like it would be better to just keep the investing as direct dollars for equity, like it is now.  Unless I'm missing something?  I'd be happy to be wrong here.  :)",1334436066
+3841931,comment,3827542,3827542,1,0,lysium,,,"Does not only happen with GitHub and pull requests, but in any open source project, I guess.<p>I've recently submitted a patch to the mercurial-dev list (as requested). The answer was positive but asked for tests and a better commit message.<p>Few days later, when I had time to fulfill the request, I found out that one of the main developers fixed the issue in a different way, with an unrelated commit message and with no tests.<p>Most probably he did not even notice my patch attempt on the mailing list. I guess this happens all the time in every OS project. I still found this discouraging.",1334436053
+3841930,story,,,1,0,joedevon,"Some bad ass experiments",http://hakim.se/experiments,,1334436040
+3841929,comment,3841647,3841647,3,0,keithpeter,,,"""Caro has been at his work for so long, his books span the modern history of book making. The Path to Power, published in 1982, was printed using hot-metal typesetting, on a Linotype machine; its handsome cover lettering was drawn meticulously by hand. Means of Ascent, published in 1990, was part of the computer-mainframe generation. Master of the Senate, published in 2002, was the easiest to create, via desktop publishing.""<p>The production manager for the books has a career that has spanned three distinct technologies. So will our careers (I've done teletypes and punched cards). Its all so short isn't it?<p>Back on something like topic for this forum: did you notice how Caro uses a specification for his books? Those outline sheets pinned up on the notice boards?",1334436023
+3841928,comment,3841370,3841910,1,0,CWIZO,,,"I don't have a problem with anyone making money if one can. Good for him I say (the opposite was not my intention in the original comment), he found a way to make some money while doing open source software.",1334435982
+3841927,comment,3841016,3841016,5,0,jdefr89,,,"This essay really sucks. Everyone attempts to go against common wisdom for the ulterior motive of trying to appear to have further insight into life. This is not creative, not origina, and I certainly don't believe it to be true. The tone of the essay was depression... I don't want to live life  in a depressing manner, even if like is depressing itself. Ultimately you can choose if you're happy or not. Cliche indeed but also true. Bottom line. I can go against everything this essay says and live the opposite life he eluded and in the end I could still be happier than him. Happiness is relative, and that is what I found to be an objective Truth in my life.",1334435928
+3841926,comment,3841463,3841746,3,0,revelation,,,"I don't think beefed up LCD displays are superior to eink for the purpose of reading books (or text). Thats akin to adding another horse to horse carriage while someone is rapidly iterating cars.<p>It might happen that the LCD prevails - if its true that people place a huge premium on integrated solutions. Thats one theory behind the explosion of the smartphone market.",1334435891
+3841925,comment,3841016,3841636,14,0,michaelochurch,,,"Excellent post. I don't agree with how the OP defines ""work"". Work is goal-directed activity that may involve momentary discomfort or difficulty, but that leads to a long-term purpose. If that purpose is stupid, then it's a waste of time, but if the purpose is useful and the work is rewarding, then it's a good thing.<p>""Play"" is usually used to refer to divergent creativity. <i>Convergent</i> creativity is also important, and most people who never experience any pressure or limitations never get the latter of those down. Here's a post I wrote last week on divergent convergent creativity: <a href=""http://michaelochurch.wordpress.com/2012/04/06/creativity-and-the-nautilus/"" rel=""nofollow"">http://michaelochurch.wordpress.com/2012/04/06/creativity-an...</a><p>What makes most ""work"" idiotic and soul-munching is that most of it's white-collar social climbing. Most people are actually more relaxed and happier when doing work activities than on average. What makes them unhappy are all the social stresses and extrinsics (such as unreasonable deadlines, bad personalities, implicit threats of professional adversity) that ""work"" imposes on them and that have nothing to do with actually getting things done.",1334435877
+3841924,comment,3840706,3841441,3,0,ngokevin,,,"FYI: ""for your information"".",1334435859
+3841923,story,,,3,0,rschwab,"Banned from Kickstarter for Being a Stalking Victim",http://rachelmarone.com/banned-from-kickstarter-for-being-a-stalking-victim.html,,1334435853
+3841922,comment,3840861,3841755,1,0,slantyyz,,,">>but in practical terms, it is, because you can't do anything useful in Objective-C on Linux (like write iOS applications, which is the biggest reason people want to use Objective-C these days[1])<p>But let me give you a simple and plausible scenario where running Obj-C on Linux might be worthwhile.<p>Let's for argument's sake, say I'm an indie Windows developer who wants to do iOS development but has heard the most common complaint about Objective-C -- ""the weird syntax"".<p>Before I run out and blow my wad a Mac, I can set up a Linux VM with Obj-C to just play with the language at an abstract and academic level and see if I can even wrap my head around the language first.<p>If I were to trust the OP's sentence at face value, I wouldn't really know that was possible.",1334435837
+3841921,comment,3841710,3841710,4,0,_walkermatt,,,"I was thinking a little today about self documenting web APIs in a similar vein to command line tools. An example of  web service APIs that currently expose capabilities in a machine readable manner are the OGC Web Map and Web Feature Services (WMS, WFS) which accept a GET with a request parameter of GetCapabilities and return service metadata as XML.",1334435803
+3841920,comment,3840979,3841844,4,0,joshontheweb,,,"Was it really link bait?  Just described what it was IMO.  Weird.",1334435803
+3841919,story,,,1,0,vgnet,"The problems of low statistical power and publication bias",http://gael-varoquaux.info/blog/?p=163,,1334435781
+3841916,comment,3841370,3841444,1,0,tjoozeylabs,,,cool,1334435721
+3841915,comment,3840706,3840706,1,0,nogeek,,,"Nice work!",1334435623
+3841914,comment,3841710,3841710,3,0,richbradshaw,,,"Funnily enough I saw this for the first time today when doing an XHR to a different domain and was intrigued. Amazing how even with tools/tech you use every day, you can still learn new things!",1334435594
+3841913,comment,3841370,3841833,5,0,Cloven,,,"5 months to develop a trivial shell script?  Where could you possibly work that this could remotely be true?",1334435527
+3841912,comment,3841381,3841847,1,0,_delirium,,,"Big lists can be useful as reference tables, though in that case I'm not sure I would bother with fancy scrolling. For example, while you <i>can</i> make better visualizations of per-country GDP for various purposes, just the plain sortable table imo is the most useful basic reference format.",1334435523
+3841911,comment,3841732,3841732,1,0,thenilly,,,"I thought the point was that Twitter can add a few lines of code that check whether a URL is shortened before re-wrapping. Fewer redirects, less time till I get to the real content.",1334435498
+3841910,comment,3841370,3841827,9,0,chaostheory,,,"Yehuda Katz isn't just some average 'someone' we don't know. He has a proven track record. He's a core member of the ROR team and he was lead on Merb.<p><a href=""http://www.crunchbase.com/person/yehuda-katz"" rel=""nofollow"">http://www.crunchbase.com/person/yehuda-katz</a><p>It's like saying, ""Yeah Slash or Eddie Van Halen needs 40k to record a few tracks, but this kid from across the street will do it for free.""<p>To add to that, most open source contributors live in large metros that aren't cheap (in the West and East Asia). $25k does not even come close to covering a year in those areas.",1334435442
+3841909,comment,3841463,3841463,8,0,aresant,,,"We recently purchased patio furniture and elected to buy Amazon's brand.<p>It's cleverly branded ""Strathwood"" because it was (a) Rated well (b) About 60% as expensive as other, lower rated choices.<p>The benefit to ME, the consumer, in this case is substantial - better quality, cheaper and - oh yah - shipped in 2 days to my home for free (Prime).<p>That convenience and quality factor is going to be damned hard to defend yourself against in retail, and clearly this is where the future of consumer retail is going.<p>The author seems to be arguing against letting this play out in the free market.<p>Yet in the past decade we've watched AAPL serve consumers with innovation and quality, and vertically integrate themselves into the world's largest company.<p>We are living through an unbelievable change in consumer purchasing and commerce.<p>The full impact of this change is hard to overstate, and trying to regulate it properly would be like a sandcastle against the sea at this point.<p>edit - Calacanis has an interesting article on this as well, further suggesting retail stores, etc -> <a href=""http://www.launch.co/blog/amazon-has-a-ton-of-white-label-products-and-is-hiding-them.html"" rel=""nofollow"">http://www.launch.co/blog/amazon-has-a-ton-of-white-label-pr...</a>",1334435380
+3841908,comment,3840657,3840657,2,0,PStamatiou,,,"We've been using a version of this for Picplum since about October I want to say. We used something else before but didn't quite like the code. This has been solid for us. Take a look at how we designed our uploader: <a href=""https://www.picplum.com"" rel=""nofollow"">https://www.picplum.com</a><p>edit: forgot we made a screencast last month <a href=""http://blog.picplum.com/how-to-send-photo-prints-60-seconds/"" rel=""nofollow"">http://blog.picplum.com/how-to-send-photo-prints-60-seconds/</a>",1334435332
+3841907,story,,,2,0,res0nat0r,"Phrack issue 68 is out.",http://phrack.org/issues.html?issue=68,,1334435316
+3841906,comment,3840861,3841683,1,0,slantyyz,,,"Cyberduck seems to be pretty good for a Java app.",1334435305
+3841905,comment,3841381,3841381,1,0,james33,,,"I love all of these different CSS3 transform effects people are coming up with!",1334435280
+3841904,comment,3841817,3841817,2,0,wmf,,,"Apple would probably charge $150 extra for it, though.",1334435273
+3841903,comment,3841463,3841463,4,0,revelation,,,"Some clarifications, I guess? I don't think Amazon is loss-leading the ebook market to secure a monopoly; you do that in an already established market. Instead, what I think they are doing is trying to bootstrap the ebook market. And successfully, at growth rates far exceeding 100% every quarter.<p>Also, Amazon is not replacing warehouses with on-demand just yet. They are rapidly expanding with many new warehouses opened every year. What they are doing is much more ingenious: they setup marketplace to allow other companies to sell products lacking in Amazons portfolio through their website. Then they offer the vendors to do shipping and storage through Amazon warehouses. Then they ultimately add products generating lots of revenue (and profit) to their own portfolio, cutting out the vendor completely.<p>As with ""amazon basic"" products, sometimes their scheme extends as far as to completely replace the producer.",1334435214
+3841902,comment,3841390,3841390,1,0,larrys,,,"I wondering what the reaction would be if a few well known and loved VC firms (that have funded YC companies before) got involved and subsidized part of the rent for something like this or even something on a larger scale. Thoughts on that idea?",1334435181
+3841901,comment,3841016,3841016,2,0,radikalus,,,"I think it is dangerous to ""teach"" people that they should only do what they love. So much of character comes from the determination to ""do the right thing"" even if that isn't what you want to do at that particular moment.<p>I take a lot of personal pride in being able to persevere; lots of people do -- why downplay this or regard them as ""suckers""?",1334435139
+3841900,comment,3840892,3840892,1,0,idoh,,,"The plan on how to market the app should come before building the app, it isn't something that works best bolted on at the end.<p>If the product is already built, then the time is build out the user acquisition part, which is just as much of a challenge as building the product. One has to decide which UA channels to pursue, and basically A/B test towards success.",1334435136
+3841899,comment,3841873,3841873,1,0,asselinpaul,,,"Open Source it!",1334435114
+3841898,comment,3841390,3841846,1,0,argumentum,,,"I don't mind, I have a car and don't mind sharing.  I kind of like the idea of living in a remote fortress, like a mad-scientist.  But yeah, probably not practical for enough people, unfortunately.",1334435108
+3841897,comment,3840241,3841848,0,0,blingbling23,,,"That is a comment from my stalker. Any traces on his location at Hacker News? His real name is Michael Rudra Nath aka. Jason Christopher Hughes. Can provide documentation from the authorities, case files, addresses, screen shots of his death threats, emails he sent me containing child pornography, etc.<p>-Rachel Marone",1334435084
+3841896,comment,3841814,3841857,1,0,diggan,,,"That explains it. Thanks for explaining!",1334435024
+3841895,comment,3841734,3841734,1,0,kijin,,,"Like it or not, blogging has become a ""social"" thing nowadays. WordPress and Tumblr have huge communities of users who browse one another's blogs, comment on one another's posts, reblog random things, etc. You can't compete with that on features alone. When you visit a random WordPress or Tumblr blog, and if you're a blogger too, you're likely to be logged in already. That's an advantage that can't be ignored.<p>If this Squarespace thing has no intention to compete with WordPress on the ""social"" front, that's cool, there's nothing wrong with that. There are plenty of individuals and organizations who just want a reliable blog at a reasonable price and don't care about Tumblr-like features. But if that's the market they're targeting, the article's title is misleading.<p>BTW, Squarespace offers a 14-day free trial. But do you seriously think a lot of people will go through the hassle of moving their blog to a new service, change nameservers on their domain, wait a day for the change to take effect, try out a bunch of features, and if not completely satisfied, move their blog away again, change nameservers again, etc. all within a span of 14 days?",1334434988
+3841894,comment,3841390,3841528,1,0,kirinan,,,"Awesome, well I plan on bringing a car if I'm accepted so whomever lives with me will have transportation when I'm available. Good idea on getting more than one, I think this can be profitable for you (if you are looking for that ) as well as being a good deal for the people moving there.",1334434979
+3841893,comment,3840241,3840724,5,0,pault,,,"After doing a bit of googling, I believe what we have here is a set of borderline personalities that are unfortunately drawn together.  They have plenty of outlets for their antics; we shouldn't be indulging them here.",1334434928
+3841892,story,,,7,2,anandagarwal,"Emberjs vs Knockoutjs",http://blog.bootstraptoday.com/2012/01/23/emberjs-vs-knockoutjs/,,1334434893
+3841891,comment,3840718,3840718,9,0,grayrest,,,"Having poked around with Jeremy's compiler (I forget if I've sent in patches or not), I'm curious about some of the technical details behind the project. I've thought about this topic for a while and this is a rather disorganized brain dump Feel free to respond to as much or as little as you like.<p>The main complaint I have with the current compiler is the inability to control output either via compile time macros or compiler hooks. I would <i>like</i> to map Coffeescript's class construct onto the class system of a variety of frameworks. I understand most of Jeremy's rationale but I still have to patch my install to change the superclass name in order to map coffeescript classes onto yui3 (same pattern, different superclass names) and I'd really like to see the class syntax map to Ember's classes.<p>Any particular reason for PEGs over Parser Combinators?<p>From reading, looks like you plan to skip the rewriter pass. I started a PEG parser implementation in the 0.3 timeframe but ran into problems with the `x = a: 1, b, c` -> `x = {a: 1, b:'b', c:'c'}` and similar ambiguities. Do you have a plan for handling this? Will you drop language features if you can't do them without rewriting?<p>What sort of compile time hooks are you planning? Just (C)AST->(J)AST passes?<p>In the time since I've messed with coffeescript internals, I've run across two potentially useful things that I haven't really investigated:<p>* <a href=""http://www.mirah.org/wiki/Macros"" rel=""nofollow"">http://www.mirah.org/wiki/Macros</a> <- macros in a non-lisp langauge<p>* <a href=""https://github.com/cgrand/parsley"" rel=""nofollow"">https://github.com/cgrand/parsley</a> <- fully incremental parser generator<p>The latter is interesting because it'd potentially allow the actual compiler to be used as the starting point for language IDE support.<p>Good luck, I'll be following your progress with interest.",1334434882
+3841890,comment,3838274,3838823,1,0,lowboy,,,"It's not just Ruby fans that like CS - it shares a lot of syntax design choices, but I think those should be taken on their own merits and not just ""Durr hurrr JS for Ruby devs!!""<p>That article is good, and I prefer the standard operators (&&,||,!==,===) to their english counterparts. The good news is you can still use them in CS.<p>The other problems in that article aren't from CS itself, but rather how people write code with it. After a certain point, nested anon callbacks are terrible in JS (fat arrow complaint). Same thing with complex one-liners. You can wreak the same havok with pure JS.",1334434881
+3841889,comment,3841463,3841704,9,0,bambax,,,"My nephew is 14 and has already published not one, but four books on the Kindle platform (one he wrote himself, the other three his grandfather wrote).<p>The new generations of authors will be very tech-savvy, to a point that may sound incredible now but is very real.<p>And even if some, or the majority, of authors don't want to do this themselves, why can't they hire a bunch of folks to do it for them? Why would they hand over 70 to 85% of potential returns to a publisher or to Amazon when they can pay someone a fixed price for editing, proofing and page layout, and keep 100% of the returns after that?<p>Publishers are clearly doomed since they don't provide enough values for the fees they demand; but I doubt Amazon's position is a lot more secure.",1334434864
+3841888,comment,3840830,3840830,3,0,rabidsnail,,,"More links:<p><a href=""http://capped.tv"" rel=""nofollow"">http://capped.tv</a> - recordings of demos<p><a href=""http://pouet.net"" rel=""nofollow"">http://pouet.net</a> - combination forum and demo repository",1334434858
+3841887,story,,,3,0,mariuz,"Why is bzr so slow?",http://blog.taz.net.au/2012/04/14/why-is-bzr-so-slow/,,1334434828
+3841886,comment,3841560,3841877,1,0,bashzor,,,"Actually, yes. I forgot to test the link afterwards...<p>Apparently, anyone having ""hacker"" in the username gets blocked, if you change that to ""HN"" it works. I made a different link without hacker in it, then got distracted, and when posting it apparently copied it from the wrong browing tab. Let's resubmit, this kinda sucks...",1334434820
+3841885,story,,,4,0,Suraj-Sun,"Apple under fire for backing off IPv6 support",http://www.networkworld.com/news/2012/041312-apple-ipv6-258241.html,,1334434817
+3841884,comment,3841734,3841734,3,0,jenius,,,"Regardless of article quality, I'd like to mention that Squarespace is an amazing company and absolutely deserves more attention that it's getting right now.<p>I'm not an employee of squarespace, but I have been in touch with many people who work there, and not only are they all incredibly cool people, but they have some really brilliant designers and devs and are working on an incredible product. Their CEO does a lot of the front end dev and is an absolute genius.<p>In addition, they are all about the NY tech community. I teach a free class on web design and development (<a href=""http://skl.sh/HMoAx3"" rel=""nofollow"">http://skl.sh/HMoAx3</a>) and they have generously hosted me free in their gorgeous office many times. That kind of dedication to education and bringing together the tech community in NYC is really impressive.",1334434798
+3841883,comment,3836683,3839456,1,0,Karellen,,,"How do you explain the cognition of blind people?",1334434779
+3841882,comment,3841710,3841861,2,0,jtheory,,,"Yes; the info that returns is in headers, though, which could work just the same even if the OPTIONS response also includes REST action details in the body and/or other headers.",1334434703
+3841881,comment,3841675,3841761,2,0,kn0thing,,,"Gotta start with making something people want.",1334434684
+3841880,comment,3841734,3841824,1,0,fruchtose,,,"I agree, and it seems that Pando is spreading the notion on the basis that Squarespace is making money. This paragraph is most important in the article:<p>> In fact, the company mostly serves smaller blogs and businesses. It has tens of thousands of users, Casalena said, compared with WordPresss 73 million and Tumblrs 51 million. The key is Squarespaces users are all paying a monthly fee. Squarespace is positioned as an alternative to paying some developer $5000 to make a site.<p>This paragraph at once defines and antagonizes the thesis of the article. It defines the thesis in that, if Squarespace is making a product worth using, it will spread to areas outside its current target audience. However, at the same time, it would be ludicrous to assume that independent bloggers currently comfortable with WordPress would switch to a <i>non-free</i> product any time soon--we're talking about moving millions of users of a free product to a paid one. How many of these bloggers can afford to move? What are the advantages of moving? The article is disappointing because it does not answer any of these questions while assuming the conclusion.",1334434656
+3841879,story,,,1,0,nsns,"Apple Not Likely to Be a Loser in the E-Book Legal Fight",http://bits.blogs.nytimes.com/2012/04/12/apple-not-likely-to-be-a-loser-in-the-e-book-legal-fight/?ref=technology,,1334434638
+3841878,comment,3838757,3841267,1,0,sonikhejhog,,,"You're not respectful toward other people. The fact that you don't mention specific names when you're showing disrespect just adds cowardice to your sins. People are acting on emotion because the article paints you as a mean guy with an unwarranted sense of superiority. If you don't like that you should talk to the guy who wrote the article.",1334434606
+3841877,comment,3841560,3841560,1,0,mooism2,,,"<p><pre><code>  The ""Hoff"" says ""NO""!
+</code></pre>
+Was there supposed to be something other than an image macro at the end of the link?",1334434573
+3841876,story,,,1,0,haoyajme,,http://www.npvtl.com,,1334434557
+3841875,comment,3839099,3841525,2,0,blahedo,,,"Yup!  And I didn't mean to sound so negative (sorry).  I do hope it works (and want to hear about it when it does!).  I've definitely gotten really excited about assignments before when <i>I</i> thought they were neat and that the students <i>ought</i> to be able to figure everything out---but which turned out to be just a bit too hard and thus demoralising rather than empowering.  (If <i>that</i> happens, it's still not worth dropping---tweak it until it works.  Once you get it working, there's probably a SIGCSE or ITiCSE paper in it for you!)",1334434504
+3841874,comment,3840241,3841617,1,0,auntjanetreno,,,"<p><pre><code>    she had a restraining order on HER for stalking! (Score:0)
+    by Anonymous Coward on Saturday April 14, @12:18PM (#39685675)
+
+    and also from her own blog:
+    >
+    > Experiment Haywire's Blog
+    > Sign up
+    > Mar 22, 2009
+    > Prometheus Burning threatens legal action against me for
+    ""stalking""
+    > I hate that I need to share this with everyone but I feel that my
+    > legal safety might be in danger and am making this post to ask for
+    > advice. I am currently scared out of my mind.
+    >
+    > Remember the band that called me a ""lonely wannabe poser with no
+    > musical skill"" and a ""hypocritical talentless hack"" after staging
+    > public drama with me for publicity? The band that harassed me to
+    > the point where I actually had to call my sick mother for help? My
+    > mother was conservative enough to file a DMCA charge against this
+    > band for posting a private email of mine to the public. While I
+    did
+    > not want this private email posted and felt an extreme sense of
+    > violation I strongly disapproved of my mother's actions regarding
+    > the DMCA. (an organization which I utterly despise) In the end my
+    > mother was in critical medical condition and was simply trying to
+    > get this band to leave me alone- yet when she brought the DMCA
+    into
+    > this I was furious.
+    >
+    > I recently emailed the band and apologized for the actions of my
+    > mother. I mentioned that I liked their music and that I would like
+    > to put the past behind us. I used to be on good terms with this
+    > band. I was a constant promoter of their music and spun them
+    > consistently as a DJ in NYC when nobody else had heard of them. We
+    > had mutual friends and (as far as I saw it) absolutely no reason
+    to
+    > perpetuate any conflict between us. I planned to support them on
+    > tour along with Caustic and The Gothsicles in Atlanta. I figured
+    > that it would be a great time.
+    >
+    > Until they told me the following on a public forum:
+    >
+    > ""We have saved every email and message you have sent to Nikki. We
+    > have saved every message, bulletin, etc. you have posted that
+    > mentions us and we have saved every post you ever made on these
+    > forums and others that mention us. Your stalker behavior is well
+    > documented by us and by our lawyer. We have not taken the steps to
+    > get a PFA against you as of yet, but we have more than enough
+    > documentation to do so when we feel it necessary."" -Prometheus
+    > Burning
+    >
+    > Just wow. I don't appreciate people making false accusations about
+    > me and I certainly don't appreciate being threatened with a lawyer
+    > for a crime that I did not commit. Most importantly though: do
+    they
+    > have any idea what stalking actually is? As someone who has been
+    > stalked before (and I'm not just talking about ex-boyfriends
+    > failing to leave me alone but an actual sociopath making constant
+    > threats against the lives of me and the people dear to me) I am
+    > strongly offended by the way this band has used the term
+    ""stalking""
+    > to refer to my attempt at a peaceful resolution. Stalking is not a
+    > joke. If you have ever been stalked before you know what it's like
+    > to beg for your stalker to leave you alone only to be told not to
+    > further engage him. If you have ever been stalked before you know
+    > what it's like to walk into a public place in fear of your life.
+    If
+    > you have ever been stalked before you know that horrible sinking
+    > feeling you get when your stalker contacts you. It is not a
+    > pleasant feeling. (to say the least)
+    >
+    > Stalking is not something to fuck around with. Accusing someone of
+    > stalking is a lot like accusing someone of domestic abuse. If this
+    > person didn't stalk or abuse you then you are minimizing the
+    > struggles of thousands of individuals who are stalked and abused.
+    > Many of these people have emailed me in tears to confide. Yet now
+    > this band is claiming that I am stalking them. What can I do? I'm
+    > being threatened with legal action for a crime that I did not
+    > commit. A crime that I myself have been a target of.
+    >
+    > At least there is some comic relief to this story. I was trying to
+    > understand the motivation behind all of their harassment. At first
+    > I didn't pay any attention to the messages I was getting from
+    > friends who were telling me this band was now ripping off my vocal
+    > style. I honestly didn't give a fuck because I had other things to
+    > focus on. Yet when they started threatening legal action against
+    me
+    > for ""stalking"" I went to their myspace page. Behold.
+    >
+    > Did they rip off my vocals? I want to say no because my delivery
+    is
+    > a lot more punk rock but I couldn't help noticing that the lead
+    > singer was now using my same vocal patterns, screaming/talking
+    > style, word emphasis, etc. in their songs. This was not what was
+    > most surprising to me though. What was surprising to me was that
+    > these pseudo-occult types who were avid readers of Acidexia in its
+    > blog form and readers of Generation Hex (the Disinformation chaos
+    > magick anthology that you can find my writing in) were using every
+    > concept I'd written about in Acidexia and Generation Hex for their
+    > band.
+    >
+    > Their ""influences"" are as follows:
+    >
+    > Self Destructive Behavior
+    > Sensory Deprivation
+    > Transhumanism
+    > Chaos Magick
+    > Traumatic Childhood Experiences
+    > Abusive Relationships
+    > Bi-Polar Depression
+    > Insomnia
+    > Aleister Crowley
+    > Panic Disorder
+    > Vivid Dreaming and Nightmares
+    > Clive Barker
+    > The Black Arts
+    > Robert Anton Wilson
+    > Discordia
+    > Genesis P Orridge
+    > Timothy Leary
+    > HR Giger
+    > Tentacle Rape
+    > Smoking crack while worshiping the Dark Lord
+    >
+    > With the exception of the tentacle rape and smoking crack it was
+    > pretty much a word-for-word summary of Acidexia. Their lyrics
+    > followed a similar rip-off mentality. Mother of Abominations? I
+    was
+    > writing about that when I was 17. The darker side of chaos
+    magick?
+    > Nope, never been there before! At this point it was just getting
+    > hilarious and I started to see what was actually going on. This
+    > band was trying to run me out by accusing me of ""stalking"" them so
+    > people wouldn't see that they'd been ripping off my ideas with
+    > their new album. Well here's some news for the entire occult
+    > community: their new album is everything that I wrote about in
+    > Acidexia before I even started Experiment Haywire.
+    >
+    > I'm also curious how much they actually know about chaos magick.
+    > I'm not sure wearing a TOPY necklace counts as much of anything
+    but
+    > I could be wrong. This band wanted attention through having drama
+    > with someone who wasn't well liked in the industrial scene. Now
+    > they've got it. Again. I am sure they will enjoy the occult
+    > attention too. Quit watering down chaos magick with your tribute
+    to
+    > 90's industrial. It's not good for the new paradigm.
+    >
+    > If anyone has any legal advice for me it would be much
+    appreciated.
+    > I apologize for having to post this but I'm not sure what else to
+    > do. I am seriously freaking out.
+    >
+    > Thanks for listening,
+    > Rachel Haywire
+    ></code></pre>",1334434487
+3841873,story,,,1,1,msencenb,"Ask HN: What do you do with MVPs you no longer have time for?",,"I built this about a month ago: http://www.iosuserfeedback.com<p>It's really just a front facing site that accepts credit cards via stripe. The backend is manual entry into mechanical turk by me. Since launching I haven't had much time to devote to it, have only managed to drive about 100 uniques to it and haven't sold a single package. So I'm curious, what should I do with it?",1334434425
+3841872,comment,3841370,3841772,6,0,atomical,,,"Where is the proof that rails is hard to install and needs 5 months of work?  Maybe more documentation is needed on best practices but 5 months of work for a specialized installer?  No thanks.",1334434424
+3841871,comment,3841734,3841824,3,0,slantyyz,,,"Don't know if it's a good product or if the article is well written (I try not to read anything from Pando) but I thought Squarespace was pretty well known.<p>They used to (and maybe still do, I stopped listening to TWIT) get a lot of plugs from their sponsorship on several of the TWIT network's podcasts, which have a pretty big combined listenership.",1334434402
+3841870,comment,3841567,3841567,1,0,mooism2,,,"A better style for the (Haskell) ""return a list of fibonacci numbers"" example would be<p><pre><code>  better_fibs 0 f1 f2 = []
+  better_fibs n f1 f2 = f1 : better_fibs (n-1) f2 (f1+f2)
+</code></pre>
+as this generates the list lazily.",1334434394
+3841869,comment,3840241,3840241,1,0,auntjanetreno,,,"<p><pre><code>    Rachel Marone had a restraining order on HER for stalking! 
+
+    and also from her own blog:
+    >
+    > Experiment Haywire's Blog
+    > Sign up
+    > Mar 22, 2009
+    > Prometheus Burning threatens legal action against me for
+    ""stalking""
+    > I hate that I need to share this with everyone but I feel that my
+    > legal safety might be in danger and am making this post to ask for
+    > advice. I am currently scared out of my mind.
+    >
+    > Remember the band that called me a ""lonely wannabe poser with no
+    > musical skill"" and a ""hypocritical talentless hack"" after staging
+    > public drama with me for publicity? The band that harassed me to
+    > the point where I actually had to call my sick mother for help? My
+    > mother was conservative enough to file a DMCA charge against this
+    > band for posting a private email of mine to the public. While I
+    did
+    > not want this private email posted and felt an extreme sense of
+    > violation I strongly disapproved of my mother's actions regarding
+    > the DMCA. (an organization which I utterly despise) In the end my
+    > mother was in critical medical condition and was simply trying to
+    > get this band to leave me alone- yet when she brought the DMCA
+    into
+    > this I was furious.
+    >
+    > I recently emailed the band and apologized for the actions of my
+    > mother. I mentioned that I liked their music and that I would like
+    > to put the past behind us. I used to be on good terms with this
+    > band. I was a constant promoter of their music and spun them
+    > consistently as a DJ in NYC when nobody else had heard of them. We
+    > had mutual friends and (as far as I saw it) absolutely no reason
+    to
+    > perpetuate any conflict between us. I planned to support them on
+    > tour along with Caustic and The Gothsicles in Atlanta. I figured
+    > that it would be a great time.
+    >
+    > Until they told me the following on a public forum:
+    >
+    > ""We have saved every email and message you have sent to Nikki. We
+    > have saved every message, bulletin, etc. you have posted that
+    > mentions us and we have saved every post you ever made on these
+    > forums and others that mention us. Your stalker behavior is well
+    > documented by us and by our lawyer. We have not taken the steps to
+    > get a PFA against you as of yet, but we have more than enough
+    > documentation to do so when we feel it necessary."" -Prometheus
+    > Burning
+    >
+    > Just wow. I don't appreciate people making false accusations about
+    > me and I certainly don't appreciate being threatened with a lawyer
+    > for a crime that I did not commit. Most importantly though: do
+    they
+    > have any idea what stalking actually is? As someone who has been
+    > stalked before (and I'm not just talking about ex-boyfriends
+    > failing to leave me alone but an actual sociopath making constant
+    > threats against the lives of me and the people dear to me) I am
+    > strongly offended by the way this band has used the term
+    ""stalking""
+    > to refer to my attempt at a peaceful resolution. Stalking is not a
+    > joke. If you have ever been stalked before you know what it's like
+    > to beg for your stalker to leave you alone only to be told not to
+    > further engage him. If you have ever been stalked before you know
+    > what it's like to walk into a public place in fear of your life.
+    If
+    > you have ever been stalked before you know that horrible sinking
+    > feeling you get when your stalker contacts you. It is not a
+    > pleasant feeling. (to say the least)
+    >
+    > Stalking is not something to fuck around with. Accusing someone of
+    > stalking is a lot like accusing someone of domestic abuse. If this
+    > person didn't stalk or abuse you then you are minimizing the
+    > struggles of thousands of individuals who are stalked and abused.
+    > Many of these people have emailed me in tears to confide. Yet now
+    > this band is claiming that I am stalking them. What can I do? I'm
+    > being threatened with legal action for a crime that I did not
+    > commit. A crime that I myself have been a target of.
+    >
+    > At least there is some comic relief to this story. I was trying to
+    > understand the motivation behind all of their harassment. At first
+    > I didn't pay any attention to the messages I was getting from
+    > friends who were telling me this band was now ripping off my vocal
+    > style. I honestly didn't give a fuck because I had other things to
+    > focus on. Yet when they started threatening legal action against
+    me
+    > for ""stalking"" I went to their myspace page. Behold.
+    >
+    > Did they rip off my vocals? I want to say no because my delivery
+    is
+    > a lot more punk rock but I couldn't help noticing that the lead
+    > singer was now using my same vocal patterns, screaming/talking
+    > style, word emphasis, etc. in their songs. This was not what was
+    > most surprising to me though. What was surprising to me was that
+    > these pseudo-occult types who were avid readers of Acidexia in its
+    > blog form and readers of Generation Hex (the Disinformation chaos
+    > magick anthology that you can find my writing in) were using every
+    > concept I'd written about in Acidexia and Generation Hex for their
+    > band.
+    >
+    > Their ""influences"" are as follows:
+    >
+    > Self Destructive Behavior
+    > Sensory Deprivation
+    > Transhumanism
+    > Chaos Magick
+    > Traumatic Childhood Experiences
+    > Abusive Relationships
+    > Bi-Polar Depression
+    > Insomnia
+    > Aleister Crowley
+    > Panic Disorder
+    > Vivid Dreaming and Nightmares
+    > Clive Barker
+    > The Black Arts
+    > Robert Anton Wilson
+    > Discordia
+    > Genesis P Orridge
+    > Timothy Leary
+    > HR Giger
+    > Tentacle Rape
+    > Smoking crack while worshiping the Dark Lord
+    >
+    > With the exception of the tentacle rape and smoking crack it was
+    > pretty much a word-for-word summary of Acidexia. Their lyrics
+    > followed a similar rip-off mentality. Mother of Abominations? I
+    was
+    > writing about that when I was 17. The darker side of chaos
+    magick?
+    > Nope, never been there before! At this point it was just getting
+    > hilarious and I started to see what was actually going on. This
+    > band was trying to run me out by accusing me of ""stalking"" them so
+    > people wouldn't see that they'd been ripping off my ideas with
+    > their new album. Well here's some news for the entire occult
+    > community: their new album is everything that I wrote about in
+    > Acidexia before I even started Experiment Haywire.
+    >
+    > I'm also curious how much they actually know about chaos magick.
+    > I'm not sure wearing a TOPY necklace counts as much of anything
+    but
+    > I could be wrong. This band wanted attention through having drama
+    > with someone who wasn't well liked in the industrial scene. Now
+    > they've got it. Again. I am sure they will enjoy the occult
+    > attention too. Quit watering down chaos magick with your tribute
+    to
+    > 90's industrial. It's not good for the new paradigm.
+    >
+    > If anyone has any legal advice for me it would be much
+    appreciated.
+    > I apologize for having to post this but I'm not sure what else to
+    > do. I am seriously freaking out.
+    >
+    > Thanks for listening,
+    > Rachel Haywire
+    ></code></pre>",1334434388
+3841868,story,,,3,0,blumentopf,"The Busy Life of a Prolific Sperm Donor","http://www.spiegel.de/international/europe/0,1518,827123,00.html",,1334434383
+3841867,story,,,1,0,arunagarwal,"Rails Conf Twitter Leader Board",http://railsconf.rubyonrails.io/,,1334434348
+3841866,comment,3839568,3839799,1,0,dredmorbius,,,"Better:  fetchmail and/or offlineimap, stored to a real mail storage format, preferably maildir.<p>Available on all sane platforms.  Linux distros natively, Mac OS X (you might need to go to DarwinPorts for the software), and Windows (via Cygwin).<p>Note with offlineimap, changes on the server (e.g.: mail deletions) will be reflected on your local archive when re-synched.  If your goal is archival, you'll want to copy the local mail you want to save permanently elsewhere.",1334434332
+3841865,comment,3840861,3840861,6,0,ohhmaagawd,,,"""Unfortunately, Java's designers didn't seem to value CPU time at all. The language has a nasty reputation for sluggish interfaces, and its execution speed drags well behind C++'s. Pointer aliasing or not we are many generations of optimisers away from languages such as Java overtaking C++ so if you need fast code C/C++ is the obvious choice.""<p>So maybe Java is slow for UIs.  But this general statement isn't true.  Next time the author should fact check:  <a href=""https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=java+vs+c%2B%2B+performance"" rel=""nofollow"">https://www.google.com/search?sourceid=chrome&ie=UTF-8&#...</a><p>""one of the best IDEs around in Xcode""
+Ha.  Ha ha.",1334434313
+3841864,comment,3834581,3834581,1,0,ranit8,,,"Did anybody notice that this feature is already available (off by default) in Firefox 11 stable?<p>I hope they don't turn it on, or advertisers will move away from Flash to Canvas.",1334434255
+3841863,comment,3841335,3841335,4,0,AznHisoka,,,"I believe in 3 ""wheels"":<p>1st wheel is PR, and reaching out to bloggers. Best time to do this is before you launch. develop a relationship, tell them you want to pick their brain for feedback. Of course not everyone will respond, maybe even 1%. But those handful can easily lead to 1000 new users.<p>2nd wheel is content marketing (or SEO). Develop content where you share information with others. People will see you as an expert, and give you attention. That's where you can link your content to your product.<p>A great example is EngineYard: <a href=""http://www.engineyard.com/blog/2009/your-pages-will-load-faster-with-rails/"" rel=""nofollow"">http://www.engineyard.com/blog/2009/your-pages-will-load-fas...</a> They created this blog to tell you tips about Rails, so people are interested right away. But they then connected it to their product and how it can help.<p>3rd wheel is build engagement into your product. Make something people will naturally want to tell others about.",1334434250
+3841862,comment,3837681,3837961,1,0,aneth,,,"My understanding was that this was to avoid issuing more founders shares. I was wrong. It is indeed a powers grab.",1334434249
+3841861,comment,3841710,3841710,3,0,taf2,,,"Web browsers will send an OPTIONS request when you try to send an xhr to a different domain.   See the Mozilla post on this:  <a href=""http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/"" rel=""nofollow"">http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-w...</a>",1334434203
+3841860,comment,3841335,3841335,2,0,idoh,,,"User Acquisition isn't the only thing, but it should be the first thing. Once you figure out how to get users, then you do need to build a good product to retain them.<p>First figure out a strategy to get people to use something, and then build out the product around that. For instance, I know Facebook virals pretty well, and it is through that lens that I look at new ideas - is this something that they'd post to their wall, share, like, comment on, etc. If not, how can the idea be shifted around to work? In my experience getting users is a lot more important than building a good product. I know lots of really bad products that have lots of users because they nailed the UA part. There is even one app I know that is basically nonfunctional that has over 1MM users.<p>Outside of FB I can only speculate, but I'd imagine that you have to think about how you could get users. If it is through ads, there is nothing stopping you from running ads before you've built the product, to see what type of ads or products people are interested in. You could find out how to get people to leave their email for invites, or what would get people to post to blogs or tweet, etc.",1334434054
+3841859,comment,3841463,3841842,4,0,cstross,,,"I think you've forgotten just what things were like even as little as five years ago.<p>The rate of change in publishing today is like the web circa 1992-97.",1334434028
+3841858,comment,3841826,3841826,1,0,justinsb,,,"Which service should PlatformLayer add next?",1334433986
+3841857,comment,3841814,3841814,1,0,daegloe,,,"That's not exactly how it works.<p>When embedding a Tweet button using the Twitter JavaScript API, you also need to include a script reference to //platform.twitter.com/widgets.js. This code scans the DOM, reads those data attributes and then replaces the href above with an iframe. That iframe contains the Tweet button with the data attribute values serialized into a new href that triggers the popup.",1334433941
+3841856,comment,3840830,3841829,2,0,z303,,,"F - Felixs Workshop by Ctrl-Alt-Test the 2nd place 64K is also very very good, so much crammed into a small file
+<a href=""http://thedemoscene.tumblr.com/post/20960247819/f-felixs-workshop-by-ctrl-alt-test-released-at"" rel=""nofollow"">http://thedemoscene.tumblr.com/post/20960247819/f-felixs-wor...</a>",1334433922
+3841855,comment,3841817,3841825,1,0,asselinpaul,,,"Totally agree but that also means more GPU which means more battery. Apple really does have to strike the perfect balance.",1334433910
+3841854,comment,3840718,3841529,2,0,TrevorBurnham,,,"This is an excellent idea, and is the goal of a project that Google announced at JSConf 2011 with much fanfare (some of it from Brendan Eich himself), Traceur: <a href=""http://code.google.com/p/traceur-compiler/"" rel=""nofollow"">http://code.google.com/p/traceur-compiler/</a><p>However, Traceur has gained little traction. With the announcement of Dart, it's clear that Google's heart isn't really into the project.<p>See also: <a href=""http://stackoverflow.com/questions/6506519/ecmascriptharmony-es6-to-javascript-compiler"" rel=""nofollow"">http://stackoverflow.com/questions/6506519/ecmascriptharmony...</a>",1334433828
+3841853,story,,,1,0,stuvery,"Great Sanctuary Of Truth Tour images",http://www.sweasy26.com/index.php?title=Great_Sanctuary_Of_Truth_Tour_images,,1334433824
+3841852,comment,3841463,3841613,2,0,moultano,,,"That effectively already exists. Adobe digital editions books are supported on a range of devices including the nook.",1334433824
+3841851,comment,3841370,3841833,17,0,CWIZO,,,"Sorry I really have nothing to say to you since you apparently have some false assumptions about me and ignore what I write and I can't have a conversation that way.",1334433822
+3841850,comment,3840861,3841341,1,0,novalis,,,"Just to add to this; it looks like Haxe will have objective-C target available soonish.",1334433778
+3841849,comment,3840752,3841579,1,0,luke5dm,,,"Hard to say but it's probably all from outside links. Few websites picked up the app + I posted on facebook, hackernews.<p>Beside submitting the app to macappstorm and techcrunch I haven't done any marketing.",1334433736
+3841848,comment,3840241,3841663,2,0,auntjanetreno,,,"Rachel Mendelson-Haywire-Marone does not _deserve_ ANY privacy.  Why is that?  Rachel MHM is responsible for a website which featured pictures of people nude and having sex on it.  These photos were never public, never on the internet until she and a sugar daddy of hers _purchased_ them from a 3rd party.  It took _considerable_ legal resources to get this website down, and this MAKES RACHEL MARONE THE WORST KIND OF STALKER!  She IS what she accuses others (many others) of!!!",1334433712
+3841847,comment,3841381,3841381,3,0,GuiA,,,"If your list has more than a dozen items or so, then you need a better way to represent your data (EDIT: just to be clear, not in a data structure way rather in a graphical representation way. See Tufte's ""Envisioning Information"" (and Tufte's work in general)).<p>That being said, the effects are really sweet. Zipper and Fan are my favorites.",1334433691
+3841846,comment,3841390,3841818,1,0,thejash,,,"I don't have an exact address.  I spoke with Jon (of Zencoder), he said it was somewhere in the Santa Cruz mountains.  Such a place is probably a little too remote for most people (it was a 30 minute or more drive to YC)",1334433684

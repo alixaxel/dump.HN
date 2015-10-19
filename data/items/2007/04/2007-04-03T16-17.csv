@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8567,comment,8555,8557,0,0,danw,,,"Thanks for the feedback. <p>The idea was to see if I could avoid the problems of digg et all by not having votes/comments. Instead it listens passively to twitters public timeline. <p>A 'vote' is cast every time a url is mentioned in a twitter and a 'comment' is what is said around the url in the twitter message. I'll add 'comments' soon.",1175619518
+8566,story,,,3,0,Terhorst,"Beating the Averages",http://www.paulgraham.com/avg.html,,1175619415
+8565,comment,8403,8403,0,0,orlick,,,"Interesting idea.  Rather then taking on all of the risk (and reward) by doing a startup that risk would be spread across all of the employees in the organization.  Sounds like the organization would exist to provide ""startup insurance"".   <p>",1175619327
+8564,story,,,12,0,jcct11,"How To NOT Write A Business Plan",http://whohastimeforthis.blogspot.com/2005/11/how-to-not-write-business-plan.html,,1175619244
+8563,story,,,18,15,Terhorst,"Lisp is for Entrepreneurs",http://bc.tech.coop/blog/060118.html,,1175619215
+8562,comment,8465,8465,0,0,richcollins,,,"This assumes that the newly established avenues for marketing will keep their toe hold.  They compete for attention as much as the startups do and there will be turnover there as well.  <p>The key will be finding where attention is being focused at any given time (YNews seems to be picking up) and target your efforts there.",1175619076
+8560,story,,,2,0,kevinxray,"It's a short lesson, but a great reminder...",http://www.jslogan.com/content/view/134/,,1175618732
+8559,story,,,1,0,kevinxray,"Training, Learning, or Performance ",http://mikebeitler.blogspot.com/2006/07/training-learning-or-performance.html,,1175618643
+8558,story,,,3,0,herdrick,"Google, Yahoo!, and Microsoft in bidding war for DoubleClick: ""...[they] need [to] obtain more user information""",http://www.businessweek.com/technology/content/apr2007/tc20070403_443471.htm?campaign_id=rss_daily,,1175618629
+8557,comment,8555,8555,0,0,run4yourlives,,,"Feedback (MO, please take with a grain of salt): Anything that enables twitter in any fashion should be avoided like the plague.<p>That being said your app might have potential. Right now it's just a source of information... maybe add some voting or comments to keep people on your site a little longer.",1175618390
+8556,comment,8236,8259,0,0,run4yourlives,,,"I think your point is valid, but I'm not seeing the instance where a duplicate rows couldn't easily be identified as being exactly that. <p>I suppose in a fully normalized world of enterprise db architecture this could be an issue, but most real world applications aren't built that way.<p>In reality, speed is key, models are simple and normalized data is usually the bottleneck, and as such, de-normalized PDQ.<p>I know the theory is whack and risks problems, but reality pays the bills in most cases, so it wins.",1175618175
+8555,story,,,4,10,danw,"TwitHot: The hottest links on twitter (my latest web app, feedback appreciated)",http://twithot.com/,,1175618009
+8554,comment,8503,8503,0,0,entelarust,,,"I plan on going to this",1175617766
+8553,story,,,1,0,ACSparks,"The Right Reasons to Be an Entrepreneur  ",http://lowbudgetstartup.com/2007/03/08/rule-1-know-thy-self/,,1175617007
+8552,story,,,2,0,Readmore,"Google jumps into TV bed with Dish Network",http://venturebeat.com/2007/04/03/google-extends-into-tv-signs-deal-with-dish-network/,,1175616214
+8551,comment,8396,8396,0,0,jadams,,,"Wow, TV is stupid.",1175616129

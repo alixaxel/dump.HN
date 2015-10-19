@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+90212,story,,,1,0,sohail,"Python decorators in Lisp, Part 2",http://uint32t.blogspot.com/2007/12/python-decorators-in-lisp-part-2.html,,1197856780
+90211,story,,,5,0,pius,"Getting started with Comet on Erlang",http://cometdaily.com/2007/12/14/getting-started-with-comet-on-erlang/,,1197856543
+90210,comment,90143,90143,0,0,utnick,,,"That post has zero real world examples of things that Vista DRM has prevented him from doing.",1197856541
+90209,story,,,2,0,pius,"Google Makes Its ID Management Move - GigaOM",http://gigaom.com/2007/12/16/google-makes-its-id-management-move/,,1197856379
+90208,story,,,1,0,bootload,"How the Japanese IT Industry Destroys Talent",http://www.japaninc.com/mgz_nov-dec_2007_it-talent,,1197855914
+90207,comment,90156,90156,0,0,downer,,,"That color scheme <i>still</i> has got to go.  Django needs a design that at least <i>approaches</i> reasonable aesthetic sensibility.",1197855368
+90206,comment,89929,89929,0,0,MisterMerkin,,,"I saw this around five years ago.",1197854887
+90205,comment,90061,90171,0,0,jfoutz,,,"No, the law is wildly inconsistent. For example, using part of a song in another song is not protected. Using a photograph in a painting is protected. Using a photograph in a video may be protected, but this video apparently won't be the one to tell us.<p>I know wikipedia isn't the best source, but i think it's good enough to show there is no accepted standard across media types.
+<a href=""http://en.wikipedia.org/wiki/Collage"" rel=""nofollow"">http://en.wikipedia.org/wiki/Collage</a>",1197854833
+90204,comment,90130,90130,0,0,staunch,,,"Link didn't work for me.<p><a href=""http://blog.getpaint.net/2007/12/04/freeware-authors-beware-of-%e2%80%9cbackspaceware%e2%80%9d/"" rel=""nofollow"">http://blog.getpaint.net/2007/12/04/freeware-authors-beware-...</a>",1197854656
+90203,comment,87239,87468,0,0,eru,,,"And now - please repeat the same with functional programming metaphors.",1197854451
+90202,story,,,12,0,mkag,"ROR bio/internet startup, looking for developers",,"Our startup, built on Rails, is working at the intersection of biomedical research and search, with the ultimate goal of organizing biomedical information.  We're looking for great developers to join us.<p>We've built a web platform  that helps scientists find each other, share information, and search the literature.  This is meant as a spring
+board for organizing the world's biological information.  We've received funding from a cofounder of PayPal, Peter Thiel, and people from Google and Amazon. Anyone interested should get in touch:
+mark.kaganovich@gmail.com. 
+We're based in Palo Alto, CA, but location is pretty flexible.",1197854421
+90201,comment,90004,90004,0,0,ctkrohn,,,"Funny thing is, none of them (I think) are billionaires, in the sense of having at least one billion dollars in liquid financial assets.",1197853702
+90200,comment,89651,89679,0,0,electric,,,"Re: generous....  <p>It depends on what the options are priced at and what the vesting period is.",1197853205

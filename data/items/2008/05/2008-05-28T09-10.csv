@@ -1,0 +1,43 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+201929,comment,201151,201151,0,0,rickardg,,,"I thought it ironical that Freeman Dyson has been very sceptical to computer models of the atmosphere:<p>""The real world is muddy and messy and full of things that we do not yet understand. It is much easier for a scientist to sit in an air-conditioned building and run computer models [than to do empirical research]"" -- <a href=""http://www.edge.org/3rd_culture/dysonf07/dysonf07_index.html"" rel=""nofollow"">http://www.edge.org/3rd_culture/dysonf07/dysonf07_index.html</a><p>but in this article seems to think that the economists have their models down cold, at least when they support his viewpoint.",1211968243
+201928,comment,201138,201138,0,0,gscott,,,"Another opinion <a href=""http://www.whybasecampsux.org/"" rel=""nofollow"">http://www.whybasecampsux.org/</a>, this is mostly about Basecamp saying ""no"".",1211968232
+201927,comment,199940,199940,0,0,rms,,,"but it is still down...<p>!<p>why do we come back?",1211967963
+201926,comment,201903,201903,0,0,xirium,,,"Techmeme versus Hacker News?: <a href=""http://www.ycombinator.search.xirium.com/cgi-bin/fight.cgi?q0=Techmeme&q1=%22Hacker%20News%22"" rel=""nofollow"">http://www.ycombinator.search.xirium.com/cgi-bin/fight.cgi?q...</a>",1211967691
+201925,comment,201819,201819,0,0,marcus,,,"I agree Vista is good -> for my bottom line, I charged a ton of money from companies to make their software UAC compliant.",1211967644
+201924,comment,201373,201373,0,0,listic,,,"Is it just me wor whom the word ""ambition"" rings the alarm bell?",1211967636
+201923,comment,201373,201822,0,0,spazmaster,,,"on a serious note, I would say Amsterdam's message is 'be more creative' (or 'be creative').",1211967596
+201922,comment,201373,201822,0,0,spazmaster,,,"""be happy"" eh? there is no correlation between legal pot and happy smiling people. none whatsoever.",1211967404
+201921,story,,,5,2,xirium,"Paul Graham Versus Iron Man",http://www.ycombinator.search.xirium.com/cgi-bin/fight.cgi?q0=%22Paul%20Graham%22&q1=%22Iron%20Man%22,,1211967330
+201920,comment,201556,201729,0,0,rms,,,lol,1211967295
+201919,comment,201373,201465,0,0,dfranke,,,"The message I get from Boston is ""know your history"".  Pretty much every block has a centuries-old story behind it, and someone there who wants you to know what that story is.  I don't think it's a coincidence that the National Genealogical Society is headquartered there.",1211967093
+201918,comment,201629,201711,0,0,witten,,,"At least in Firefox 2, corners made with border-radius are not anti-aliased and look pretty horrible. (Firefox 3 may fix this.)",1211967025
+201917,comment,201844,201844,0,0,wehriam,,,"Perhaps you could lower the initial price, raise the support contact cost, and add a sunset clause. This may appeal to those in charge of funding (who you mention are absent anyway) by shifting dollars around. More diligent clients would see this is not necessarily an attractive alternative and opt for your more traditional pricing model.",1211966945
+201916,comment,201844,201907,0,0,astrec,,,"Sage advice.<p>If you do decide to pursue this deal try and take the hit on the upfront and not the ongoings.",1211966911
+201915,comment,201819,201865,0,0,Create,,,"<i>like the asus eeepc using linux, I'd expect MS dominance to take a major bashing over the next years on PCs</i><p>false about Xandros. <a href=""http://en.wikipedia.org/wiki/Software_patents_and_free_software#Microsoft.27s_patent_deals"" rel=""nofollow"">http://en.wikipedia.org/wiki/Software_patents_and_free_softw...</a>",1211966578
+201914,comment,201373,201419,0,0,mroman,,,"You are mistaken in concluding that ""normal"" people shape a city. The traits that make a city unique are the result of the actions of a minority of its inhabitants.<p>If your ""logic"" were accurate, Los Angeles would be no different than Tijuana, for example, considering that most of the ""normal"" people there are lower class Mexican immigrants.<p>Allow me to inform you of something essential about PG's essays: they require intelligence to truly understand, to the point that his core arguments will simply sail over the heads of those who lack it.
+Evidence of not having the required intelligence includes attempting to refute the core arguments with a myriad of minor points that appear to point out logical flaws, when they only manage to address comparatively minor items of negligible consequence.<p>Mr. Graham's essays are valuable owing to their QUALITATIVE aspects, not to their total QUANTITATIVE sum . . .",1211966388
+201913,story,,,80,17,smanek,"Ask YC: Best book to learns statistics?",,"The limiting reagent in a few projects I'm working on (or would like to work on) seems to be my knowledge of statistics/probability.<p>Ideally, I'd like something along the lines of Spivak's Calculus on Manifolds that could teach me from the ground up.<p>I have a fairly strong math background in general, but I've just never learned much stats/probability beyond the basics.<p>I'd appreciate any suggestions - there just seems to be so much cruft out there that teaches just enough to regurgitate for exams. I'm all for abstraction, but I rather dislike fundamental theorems being presented fully formed with no explanation/justification.",1211965959
+201912,story,,,42,10,pchristensen,"Vote: How to Detect the Social Sites Your Visitors Use",http://azarask.in/blog/post/socialhistoryjs/,,1211965916
+201911,comment,201819,201851,0,0,tokipin,,,"Google Desktop is great.  dunno how it compares to Vista's built-in search",1211965762
+201910,story,,,1,0,ideas101,"Windows 7 : Microsoft Comes To The Senses.",http://www.forbes.com/technology/2008/05/28/d-conference-microsoft-tech-cz_qh_0528techd.html,,1211965741
+201909,comment,201819,201819,0,0,Create,,,"DRM gives power to Microsoft and Big Media.<p><pre><code>    *  They decide which programs you can and can't use on your computer
+
+    * They decide which features of your computer or software you can use at any given moment
+
+    * They force you to install new programs even when you don't want to (and, of course, pay for the privilege)
+
+    * They restrict your access to certain programs and even to your own data files
+
+</code></pre>
+Even when you legally buy Vista, you don't own it.<p><pre><code>    *  If your copy of Vista came with the purchase of a new computer, that copy of Vista may only be legally used on that machine, forever.
+
+    * If you bought Vista in a retail store and installed it on a machine you already owned, you have to completely delete it on that machine before you can install it on another machine.
+
+    * You give Microsoft the right, through programs like Windows Defender, to delete programs from your system that it decides are spyware.
+
+    * You consent to being spied upon by Microsoft, through the “Windows Genuine Advantage” system. This system tries to identify instances of copying that Microsoft thinks are illegitimate. Unfortunately, a recent study indicated that this system has already screwed up in over 500,000 cases.
+
+</code></pre>
+<a href=""http://badvista.fsf.org/"" rel=""nofollow"">http://badvista.fsf.org/</a><p><a href=""http://arstechnica.com/articles/culture/microsoft-learn-from-apple-II.ars/3"" rel=""nofollow"">http://arstechnica.com/articles/culture/microsoft-learn-from...</a> [Apple is even worse on DRM etc.]",1211965582
+201908,comment,201629,201664,0,0,pmjordan,,,"Konqueror too!",1211965531
+201907,comment,201844,201844,0,0,mailanay,,,"Let this deal go. The company, I was working earlier, had a habit of signing on every customer that knocked their door. In the long run, it created a lot of problems to support those customers (at a very low margin or at a loss), just to maintain the reputation of ""not leaving the customers cold"" in the marketplace.<p>Letting this deal go, might also send a strong message to X, Y, Z potential customers, that you are offering much more than the cheapest solution and are willing to walk away.",1211965408

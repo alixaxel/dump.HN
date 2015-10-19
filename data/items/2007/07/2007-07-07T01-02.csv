@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32877,comment,363,32766,0,0,Zak,,,"Looking at the expression<p><pre><code> (isnt it #\;)
+</code></pre>
+I'm assuming ""it"" is an implicit variable meaning the result of the last expression. I'm also assuming since you have ""isnt"" you also have ""is"" and it's used like this:<p><pre><code> (when (and (regex-match ""[0-9]"" foo) (is it 4))
+    (print ""it is 4""))
+</code></pre>
+Does boundp exist in Arc, or are unset variables null? I've always thought making them null would make code shorter, though it might cause more problems than it's worth.",1183772617
+32876,story,,,3,0,jcwentz,"Video Ads: Every Startup Has A Different Solution",http://www.techcrunch.com/2007/07/06/video-ads-somebody-needs-to-solve-this-problem/,,1183771264
+32875,comment,32827,32852,0,0,mdolon,,,"Well, I'd like to gather a similar user base to sites like GoBigNetwork (.com) and Vator.tv, while encouraging the great discussions had at places like news.yc and Reddit.<p>Just a place to showcase your companies, write about any of your experiences and have thoughtful discussions.<p>Which features do you think are somewhat complicated?  I know I started off with a lot of features (which may not have been too wise), but I tried to keep it as simple as possible.<p>That said, I am very, very open to suggestions and will mold the site around the community, not the other way around.",1183770601
+32874,comment,32827,32869,0,0,mdolon,,,"I'm hoping to get support the site with advertising and sponsors, preferably from startups and from VCs.  It's not a YouTube-like site where I'm expecting multi-million pageviews a day, but I think building a small yet strong community of entrepreneurs and VCs may be an attractive place for either of these groups to advertise in.<p>Edit: I'm not trying to break anyones bank or wallet here, if the community can be built up, I would just like to keep it self-sustaining, meaning paying for the dedicated server.  Like I said, this was just an experiment - I am working on another project I hope to release as my primary source of income.",1183770392

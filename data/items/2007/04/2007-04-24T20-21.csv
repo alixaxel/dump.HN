@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16443,comment,16409,16423,0,0,paul,,,"But wait, didn't you say it was a non-existent problem?",1177448274
+16442,comment,16031,16031,0,0,zach,,,"""When something is too hard it means that you're not cheating enough."" - David Heinemeier Hansson",1177447491
+16441,comment,16375,16375,0,0,sri,,,"and 99% of what we program
+(from GJS or Knuth or someone like that)<p>link: <a href=""http://www.oopsla.org/2005/ShowEvent.do?id=403"">http://www.oopsla.org/2005/ShowEvent.do?id=403</a><p>this google video is also cool:
+<a href=""http://video.google.com/videoplay?docid=-2726904509434151616&q=gerald+sussman"">http://video.google.com/videoplay?docid=-2726904509434151616&q=gerald+sussman</a><p>
+anyone have any sussman stories they'll like to share?
+",1177447471
+16440,story,,,2,0,mattjaynes,"Screw your ""dream job"" (Email w/ Seth Godin and Zaid360)",http://www.zaid360.com/?p=153,,1177447163
+16439,comment,16419,16419,0,0,pg,,,"We use WSGR in CA and Goodwin Procter in MA.",1177446816
+16438,story,,,4,0,rjam,"How to sell Cafepress items with a blog",http://www.robertoalamos.com/wordpress-monetizing-plugins-sell-cafepress-items-through-your-blog,,1177446696
+16437,story,,,2,1,usablecontent,"CastTV Raises $3.1 Million To Revolutionize Video Search",http://corp.casttv.com/news/2007/04/23/casttv-closes-series-a-led-by-dfj/,,1177446274
+16436,comment,16409,16432,0,0,aristus,,,"Solid-state drives greater than 128GB are in OEM testing now. Expect server economics to turn upside-down in about 12 months, when persistent storage seek times get 100X faster.",1177445745
+16435,comment,16375,16375,0,0,nickb,,,"You don't really know how well you know something until you try to explain it to someone. This is why at my startup we require that:<p>1) At least once a week you explain something you've learned in the past week to everyone else<p>2) To keep an internal/external blog/wiki going. Blogging/Wiki editing forces you to put your thoughts down on 'paper' and you can distill a lot of your ideas this way.",1177445684
+16434,comment,16419,16419,0,0,wastedbrains,,,"We went through this question awhile ago, and found a local lawyer in Denver CO that we are happy with. If you want to read the post we made on finding a lawyer it can be found here, <a href=""http://blog.pretheory.com/arch/000431.php"">http://blog.pretheory.com/arch/000431.php</a>",1177445669
+16433,story,,,11,1,ereldon,"VentureBeat: Southern Cal overtakes New England in start-up activity",http://venturebeat.com/2007/04/24/southern-cal-overtakes-new-england-in-start-up-activity/,,1177445362
+16432,comment,16409,16409,0,0,Sam_Odio,,,"<i>Want an example of ""simple but less reliable""? Here's one (in one or two easy steps):  1. All updates go in to memcached, but not the database  2. (optional) A background process occasionally copies entries from memcached to the db. Without this, the values will be completely lost when memcached restarts.</i><p>
+Paul - here's an interesting take on your recommended solution:  Use solid state ram and forget about step two.  You get fast a read/write, without the risk of data loss if the machine restarts.<p>Here's a pretty cool board that will take DDR SDRAM, and supply it with a constant source of power (imitating solid-state memory):
+<a href=""http://techreport.com/reviews/2006q1/gigabyte-iram/index.x?pg=1"">http://techreport.com/reviews/2006q1/gigabyte-iram/index.x?pg=1</a><p>Those who insist on a database, could even store the database on this board.  Best of both worlds.<p>Here's an insane graph showing the database transaction rate for the board vs. a conventional hard drive:
+<a href=""http://techreport.com/reviews/2006q1/gigabyte-iram/index.x?pg=7"">http://techreport.com/reviews/2006q1/gigabyte-iram/index.x?pg=7</a>
+",1177444825

@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+22072,comment,17947,17947,0,0,davemc500hats,,,"best piece i've read about angel / venture investing in a long time.  nice job :)<p>note: i'm one of a small group of ex-geek angel investors out here in silicon valley, altho admittedly i'm small fry compared to most others.  i've done 5-6 deals averaging ~$25-50K, and only because i'm crazy and my wife isn't watching too closely ;) i was fortunate to be at PayPal from 2001-2004, but not so early that i'm rich enough to retire just yet... maybe someday.<p>enjoyed the article; keep up the great writing!<p>- dave mcclure
+  <a href=""http://500hats.typepad.com/"" rel=""nofollow"">http://500hats.typepad.com/</a><p>",1179187161
+22071,comment,21923,21985,0,0,vlad,,,"I respectfully disagree, because the video is something one can watch at any time, but releasing a web service to the public is something that should be done as soon as possible.  <p>But you made me reconsider.  I guess I can probably put it on my phone and watch it at the gym when I'm doing some stretches or warming up!<p>I'm glad you enjoyed my link, and I hope I have some time to watch more of it myself.  Thanks for your reply!",1179187161
+22070,comment,21974,22065,0,0,transburgh,,,"""Over the period from 1996 to 2004,
+an average of 0.36 percent of the adult
+population created a new business each
+month, representing approximately 550,000
+new businesses per month."" from a Kauffman report<p><a href=""http://www.kauffman.org/pdf/kauffman_entrep_index_0905.pdf"" rel=""nofollow"">http://www.kauffman.org/pdf/kauffman_entrep_index_0905.pdf</a>",1179186987
+22069,comment,21907,22047,0,0,sudden5,,,"wow, look at that.  wonderful",1179186976
+22068,comment,22032,22035,0,0,juwo,,,"what they are talking about is ""easy entry"".<p>",1179186668
+22067,comment,22037,22039,0,0,danielha,,,"There's a very narrow view that's become popular regarding YC. No one is claiming 100% success rate, or even a guarantee of good value companies. Take the program for what it is -- an invaluable launching pad for entrepreneurs who can make the most of YC's added value. ",1179186529
+22066,comment,21923,21977,0,0,vlad,,,"Hi!  I posted both the link and disclaimer.  You're welcome!  I'm glad you enjoyed the link.  I hope you enjoy these and other links I find.  Thank you for taking time to reply!",1179186435
+22065,comment,21974,22042,0,0,mxh,,,"Wait .... 550K businesses a month = 6.6M businesses a year.  There are 300M _people_ in the US (including children, and others not immediately suited for the entreprenurial life).  If each business was started by only one person, that would mean that about 1 out of every 45 people started a business in any given year.<p>That seems high.  May I ask the provenance of the 550K/mo number?",1179186395
+22064,comment,21984,21984,0,0,rami,,,"Guy Kawasaki left a comment on my blog saying ""We considered accounts, but wanted totally friction-free sign ups.""<p>What do you think, will you do the same (at least in the early stages of your startup) to attract customers?<p>Comment link: <a href=""http://raminasser.com/2007/05/13/truemors-goes-public/#comment-748"" rel=""nofollow"">http://raminasser.com/2007/05/13/truemors-goes-public/#comment-748</a>
+",1179186187
+22063,comment,22013,22013,0,0,danw,,,"Looks lovely, somewhat similar to <a href=""http://jumpchat.com/"" rel=""nofollow"">http://jumpchat.com/</a> at all?",1179186146
+22062,story,,,5,17,juwo,"Is Java dead?",,,1179185878
+22061,comment,21860,21860,0,0,papersmith,,,"I think it's more fair to say that s-expression is analogous to XML, Lisp just happened to be written in s-expressions.  Lisp could also be written in XML, but I doubt it's a wise choice.  In fact, Lisp could be written in any nested tree structure, since the idea is to write code in parse-tree directly, instead of letting the compiler transform your code into parse trees.  So Lisp macros manipulating s-expression is like manipulating parse-tree directly, and thus you can create new language constructs.",1179185436
+22060,comment,22045,22045,0,0,zatang,,,"Dont get how this guy comes up with such innovative designs at such a pace...",1179184178
+22059,story,,,5,2,danw,"All friends aren't created equal (why we need better relationship marking in social networks)",http://www.bladam.com/main/entry/grouping-on-social-networks/,,1179183977
+22058,story,,,1,0,shara,"What Entrepreneurs Most Want to Know: April 2007's Most Popular Work.com How-to Guides",http://blogs.work.com/community/2007/05/what_entreprene.html,,1179183957
+22057,story,,,1,2,shara,"Profit from India",http://www.work.com/profit-from-india-1618/,,1179183903

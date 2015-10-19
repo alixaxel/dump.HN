@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37430,story,,,2,0,rchambers,"The secret to selling a business for top dollar",http://money.cnn.com/2007/07/23/magazines/fsb/askfsb_valuation.fsb/index.htm,"Finding the right buyer is often more important than your valuation.",1185705036
+37429,comment,37246,37390,0,0,rms,,,"Google launching their presentation product?",1185704331
+37428,comment,36905,37356,0,0,earthboundkid,,,"If it's supposed to be an accumulator, I take it they want the value of n to be changed each time. I'd do:<p><pre><code>    def acc(n):
+        while True:
+            n += yield n</code></pre>",1185703787
+37427,comment,37418,37418,0,0,steve,,,"That's part of the reason I disabled my account, their absolute insistence that you identify exactly who you are is a huge privacy problem.<p>It is because of this that facebook users experience bigger privacy problems than other sites, regardless of what their publicity tells you.",1185703349
+37426,comment,37425,37425,0,0,7media,,,"got this from clicking on login from the new page.",1185703238

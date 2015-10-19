@@ -1,0 +1,65 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+189368,comment,189142,189142,0,0,axod,,,"Amateur. I twitter my <i>MOUSE</i> position.",1210751877
+189367,comment,189260,189260,0,0,aseever,,,"Programming is one of the easier aspects of founding a successful web startup. Perhaps there is greener grass elsewhere?",1210751320
+189366,comment,189260,189260,0,0,merrick33,,,"Technical enough to learn to program.<p>The majority of what is considered a web startup these days, appearing on TechCrunch and other such blogs, do not require the complete skills a CS major brings to the table.<p>If you are going to give it a go, and still in school, consider taking a couple of c++ courses or python if offered. Of course if you are a self starter you can jump right into python - diveintopython.org.<p>I learned on my own after getting my econ degree at UCLA, and I found that programming for the web is trivial compared to the c++ coursework I took.<p>I spent many days and nights over a few years learning how to program, setup servers, model my web apps with postgres, manage postfix mail servers etc. But these days, a good framework will get you off the ground and solve most of your database modeling. And a good hosting company will take care of your sysadmin stuff.<p>So a good co-founder would be someone who compliments your newfound skills and who is the opposite of you - a risk taker or conservative. This should help you better evaluate the difficult decisions that come up.",1210751159
+189365,comment,189339,189339,0,0,brion,,,"Yep use gmail,the cool thing is gmail will allow you to send emails from your gmail account that look like its coming from your work account.",1210751020
+189364,comment,189260,189260,0,0,adamgries,,,"I come from the realm of web dev.<p>In this realm, not knowing how to code will make sure somebody else usually has you by the balls. While an extreme micromanaging alpha type can probably get others to do the job and do it acceptably, the level of work and commitment from employee-developers is hard to maintain.<p>While I agree there is room for non-technical founders who bring a lot to the table (like Thiel) the benefits such a person brings (like fund-raising and market strategy) are often only realizable when the product already exists (i.e. created by the technical people). Therefore it is questionable whether it makes sense to bring biz-only people on board at an early stage unless fund raising and specific biz dev is an essential part of the biz strategy.<p>Finally, as technical and associated biz changes occur more rapidly, an inability to understand the core technologies will leave more and more biz-only people crippled. Consequently, unless one is close to technical people who share a common vision, my recommendation to anybody interested in the web space is to gain real experience with the relevant technical tools.",1210750811
+189363,comment,189342,189342,0,0,brion,,,"I wish the open page was more to the point regarding what your site was about. It took me about 2mins to navigate and read what was the purpose of your site. When it should take me about 3 to 10 sec.",1210750750
+189362,comment,189241,189241,0,0,melvinram,,,"Seriously? Seriously?",1210750563
+189361,comment,189260,189260,0,0,belhassen,,,"It s very funny to see your reactions.
+""do we really need a business guy?""<p>Do you know what business guys say about techno/hacker/super ego hacker guys?
+They ll always find a dumb one that will do the job for them for few dollars.<p>It s interesting how you return the situation with so much pretention in a tentative to build yourself a legitimity.<p>You re just a tool.You re just missing the context.
+keep dreaming about the 20 successful heros of your tribe that could make it by themselves.
+Tell me about ego fishes that discuss about freedom inside their glass..<p>Good luck anyway .",1210750521
+189360,comment,188489,189268,0,0,AndyKelley,,,"I am not a physicist, and I have not heard of either of those guys, but I've heard of Curie and Carver.",1210750457
+189358,comment,188949,189351,0,0,steveblgh,,,"It's just part of their business model, that's how they stand out from the crowd. Otherwise how do you think yet another to-do list would be a viable business app. Same thing holds for Joel Spolsky and Fog Creek. Yet another bug tracker. It wouldn't go anywhere without Joel's writings on how to do software.",1210749432
+189357,comment,189339,189339,0,0,aaroneous,,,"This won't filter email before it hits your server, but if what you're really asking is filtering email before it hits your inbox, then we use spamassassin and it works great.<p>We have a few public email addresses on our site that aren't obfuscated in any way, and I'd say spamassassin misses maybe 1 or 2 spam messages every couple of days without any false positives. Granted, it will take some work to get it properly configured for your particular setup.",1210749337
+189356,story,,,2,0,davidw,"How auctions set ad prices",http://googleblog.blogspot.com/2008/05/how-auctions-set-ad-prices.html,,1210749311
+189355,comment,189260,189260,0,0,richardw,,,"Here's a great post from Joel about exactly that. It doesn't start off like it's answering the question, but it does:<p><a href=""http://www.joelonsoftware.com/items/2006/06/16.html"" rel=""nofollow"">http://www.joelonsoftware.com/items/2006/06/16.html</a><p>""Watching non-programmers trying to run software companies is like watching..."" and you'll have to read the article to find out :)",1210749287
+189354,story,,,3,1,e1ven,"Cross Compare of SQL Server, MySQL, and PostgreSQL",http://www.postgresonline.com/journal/index.php?/archives/51-guid.html,,1210749130
+189353,comment,188489,188884,0,0,dominik,,,"I wouldn't quite say unequivocally that those are lies, or at least that true love is a lie.<p>The poem True Love by Nobel Prize Winner Wislawa Szymborska replies better than I can:<p>True love. Is it normal / 
+is it serious, is it practical? / 
+What does the world get from two people / 
+who exist in a world of their own?<p>Placed on the same pedestal for no good reason, / 
+drawn randomly from millions but convinced / 
+it had to happen this way - in reward for what? / 
+   For nothing. / 
+The light descends from nowhere. / 
+Why on these two and not on others? / 
+Doesn't this outrage justice? Yes it does. / 
+Doesn't it disrupt our painstakingly erected principles, / 
+and cast the moral from the peak? Yes on both accounts.<p>Look at the happy couple. / 
+Couldn't they at least try to hide it, / 
+fake a little depression for their friends' sake? / 
+Listen to them laughing - its an insult. / 
+The language they use - deceptively clear. / 
+And their little celebrations, rituals, / 
+the elaborate mutual routines - / 
+it's obviously a plot behind the human race's back!<p>It's hard even to guess how far things might go / 
+if people start to follow their example. / 
+What could religion and poetry count on? / 
+What would be remembered? What renounced? / 
+Who'd want to stay within bounds?<p>True love. Is it really necessary? / 
+Tact and common sense tell us to pass over it in silence, / 
+like a scandal in Life's highest circles. / 
+Perfectly good children are born without its help. / 
+It couldn't populate the planet in a million years, / 
+it comes along so rarely.<p>Let the people who never find true love / 
+keep saying that there's no such thing.<p>Their faith will make it easier for them to live and die.<p>Edit: I can't figure out how to get CRLFs in the right places, so here's the link for the properly formatted version: <a href=""http://www.cs.rice.edu/~ssiyer/minstrels/poems/694.html"" rel=""nofollow"">http://www.cs.rice.edu/~ssiyer/minstrels/poems/694.html</a>",1210749086
+189352,comment,189184,189271,0,0,maxklein,,,"I assume you feed them the left-over corn?",1210749063
+189351,comment,188949,188949,0,0,maxklein,,,"What the hell!? 37 signals are SO full of themselves. They are a small business, yet they keep posting articles like they have discovered the secret to changing the world. The restaurant round the corner to my house make more income than them, but I do not see the owner standing outside telling others how to run a restaurant instead of inside cooking.<p>37 Signals is one of the more annoying Web 2.0 companies. Yes, I know you're trying to drum up interest so people invite you to hold talks, but why do all articles always seem to be about how wonderful you are, how great your company is, and you reinvented something or the other.<p>Get over it, you guys are not in possesion of the fountain of wisdom.",1210748980
+189350,comment,189339,189349,0,0,rms,,,"Definitely, Gmail has the best anti-spam implementation on the internet.",1210748972
+189349,comment,189339,189339,0,0,gaika,,,"google apps for domains will do the trick, you can set up wild card email address and forward everything to your own server.",1210748813
+189348,comment,189260,189260,0,0,maxklein,,,"If you're no hacker, be good with photoshop so you can mockup what you have in mind. Then outsource the hell out of your product, and micromanage it to death. I've done this, and I have a nicely working website, and absolutely no idea how the code that runs it looks like.",1210748739
+189347,comment,189241,189241,0,0,axod,,,"So it's like reddit/digg but without the voting?",1210748677
+189346,comment,188385,188385,0,0,brion,,,"Another added tip for writing and, this can be used for almost anything, is following the Statement Example and Explain format. (SEE)  It is very English 101 but always helps, e.g., 
+“I need you to change the font to bold” (Statement)
+“See this is how you do it <strong> my bold text</strong>” (Example)
+“ Once we make the change visitors will be able to read the text better” (Explain)
+Or
+“I love you” (s)
+“I think about you all the time” (e)
+“This is why we should get married” (e)",1210748585
+189345,comment,188489,188489,0,0,maxklein,,,"Well, you obviously never felt fear. When I was a kid, if my parents had told me the truth, I would have grown up very very warped. The somewhat scary things they told me disturbed me immensely, if they had told me things like ""Oh, we are going broke"", I would have died with worry.<p>I remember the fear from my childhood. Fear that something would happen to the family. Fear that I would be alone. That lightning would strike the building.<p>Thank God my parents told me lies. It allowed my childhood to be happy.",1210748526
+189344,story,,,1,0,sridharsri,"Location Search Wars","http://www.livemint.com/2008/05/14002140/India-is-setting-for-location.html
+",,1210748487

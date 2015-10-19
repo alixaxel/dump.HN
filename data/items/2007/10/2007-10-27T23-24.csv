@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73294,story,,,7,0,mcxx,"Google Video - GIT",http://video.google.com/url?docid=-1019966410726538802&esrc=sr2&ev=v&len=3587&q=user%3A%22Google%2BengEDU%22&srcurl=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8dhZ9BXQgc4&vidurl=%2Fvideoplay%3Fdocid%3D-1019966410726538802%26q%3Duser%253A%2522Google%2BengEDU%2522%26total%3D333%26start%3D0%26num%3D10%26so%3D1%26type%3Dsearch%26plindex%3D1&usg=AL29H22bemSS-nXUKWor-VQHrL7qswTqpw,,1193529409
+73293,comment,73086,73086,0,0,zandorg,,,"Sounds perfect for a OLPC laptop!",1193529168
+73292,comment,73221,73227,0,0,rkts,,,"In ML you can get a similar terseness to that of Haskell, but with support for imperative programming.  If we allow the increment function to be predefined (as the Arc example does):<p><pre><code> let inc a b = a := !a +/ b; !a
+</code></pre>
+then foo becomes:<p><pre><code> let foo n = inc (ref n)
+</code></pre>
+or, with the help of the composition operator:<p><pre><code> let (<<) f g x = f (g x)
+
+ let foo = inc << ref
+</code></pre>",1193529122
+73290,comment,73284,73284,0,0,maurycy,,,"Besides the standard specifications, tutorials you'll find everywhere I would recommend you to analyse the existing stuff, pages you especially enjoy, or those created by CSS gurus etc.<p>Just like with code or any other activity, it is great to try to mimic giants.<p>Also, two notes.<p>One. Don't know how about others but I've found myself rather unable to learn conceptually new things on deadlines or working on real projects. So, at least, don't feel bad if you won't deliver good stuff.<p>Two. There's a lot of ""layers"" in the UI: information architecture, usability, CSS, graphics, and perhaps some other I forgot to mention.",1193528179
+73289,comment,73284,73284,0,0,dfranke,,,"Just read the W3C spec.",1193527627
+73288,comment,73284,73284,0,0,nickb,,,"Start with CSS tutorials (box model etc):<p><a href=""http://www.w3schools.com/css/default.asp"" rel=""nofollow"">http://www.w3schools.com/css/default.asp</a><p><a href=""http://www.html.net/tutorials/css/"" rel=""nofollow"">http://www.html.net/tutorials/css/</a><p>and then move to these two books:<p><a href=""http://www.zeldman.com/dwws/"" rel=""nofollow"">http://www.zeldman.com/dwws/</a> <p><a href=""http://www.simplebits.com/publications/bulletproof/"" rel=""nofollow"">http://www.simplebits.com/publications/bulletproof/</a><p>And you should know more than web designers that charge a ton of money to develop table-based sites.",1193527488
+73287,comment,73112,73167,0,0,thomasswift,,,"do you have any programs to try out? I make music on the mac and I am always on the look out for cool/new weird synths. etc, let me know if you need a beta tester. :) nice tunes.",1193527255
+73286,story,,,15,7,nickb,"Facebook employees know what profiles you look at",http://valleywag.com/tech/scoop/facebook-employees-know-what-profiles-you-look-at-315901.php,,1193527161
+73285,comment,73044,73195,0,0,pixcavator,,,"I didn't actually interview anyone in person (good idea, of course); I had to do everything over the internet. So I looked at what they had online. The one that picked had extensive contributions to forums, etc. Another reason was that the price was on the lower end of the range (4K or so).",1193526672
+73284,story,,,18,24,ochiba,"Ask YC: Best way to learn CSS/UI design?",,"What is news.YC's take on learning CSS with limited prior experience? Are there specific books and/or tutorials that you could recommend?<p>In our previous startup, I was mainly involved in writing the back-end code. This time however, I'll need to contribute to the CSS interface coding too. ",1193526535
+73283,comment,73214,73214,0,0,twism,,,"jquery... hands down",1193526165

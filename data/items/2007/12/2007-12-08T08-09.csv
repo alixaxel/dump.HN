@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+87253,comment,87205,87251,0,0,pg,,,"Is this even by Asimov?  It's hard to imagine him making such a mistake.",1197104239
+87252,comment,87166,87248,0,0,derefr,,,"I imagine they could still be entered through the serial console, though.",1197103019
+87251,comment,87205,87205,0,0,3KWA,,,"""I think therefore I am"" is not from Aristotle but Rene Descartes not a good way to start :P",1197102874
+87250,story,,,30,5,staunch,"Valleywag: Mark Zuckerberg cashes out",http://valleywag.com/tech/scoop/mark-zuckerberg-cashes-out-331589.php,,1197102665
+87249,story,,,4,1,nickb,"Javascript - Simple ""Class"" Instantiation",http://ejohn.org/blog/simple-class-instantiation/,,1197101788
+87248,comment,87166,87227,0,0,dcurtis,,,"I got this one yesterday on a brand new Dell.<p>""No keyboard present. Press F1 to continue or DEL to enter setup...""",1197101593
+87247,comment,87132,87147,0,0,eric1209,,,"Thanks for your encouraging words.",1197101488
+87246,story,,,1,0,nickb,"IE team shares ... a version number",http://blogs.zdnet.com/microsoft/?p=1014,,1197101464
+87245,comment,87132,87196,0,0,eric1209,,,"Very helpful. Thank you.",1197101405
+87244,story,,,1,0,nickb,"XML machine the successor to von Neumann? (old, but funny...at least to Lispers)",http://www.theregister.co.uk/2003/08/21/xml_machine_the_successor/,,1197101372
+87243,story,,,4,0,nickb,"Pioneers of Soviet Computing",http://sovietcomputing.com/node/2,,1197101206
+87242,comment,87132,87198,0,0,eric1209,,,"I didn't see from this angle before. Thanks for the detailed comments.",1197101175
+87241,story,,,5,0,nickb,"Coding Horror: Hashtables, Pigeonholes, and Birthdays",http://www.codinghorror.com/blog/archives/001014.html,,1197101162

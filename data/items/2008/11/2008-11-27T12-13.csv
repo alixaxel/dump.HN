@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+378641,comment,378497,378497,0,0,justindz,,,"The basic rule of thumb on predicting future tech progress:  figure out a conservative estimate of how long until the tech comes about/matures and then triple that number.<p>I think two major issues will be genetic discrimination, which seems like it's on the verge of being an active issue, and whether we should begin restricting access to some scientific information such as sequences or viral patterns in the interest of security over freedom.",1227790663
+378640,comment,378404,378404,0,0,blasdel,,,"There's people tweeting things like ""#mumbai There's 20 commandos about to bust into the 5th floor of the X hotel""",1227790187
+378639,comment,377683,378072,0,0,EastSmith,,,"What I meant was this is not HN!
+If you feel I am wrong, please do down vote me once more!",1227790031
+378638,comment,378603,378603,0,0,meredydd,,,"This is begging for a link to Val Henson's photoset of her with this delightful monstrosity at the Computer History Museum...<p><a href=""http://www.valhenson.org/kitchen.html"" rel=""nofollow"">http://www.valhenson.org/kitchen.html</a><p>(Context: Val wrote chunkfs and large chunks of ZFS, among other things)",1227789993
+378637,story,,,6,0,EastSmith,"The Big Four Cloud Computing Providers: Security Compared ",http://rationalsecurity.typepad.com/blog/2008/11/james-urquhart-posted-a-summary-a-week-or-so-ago-of-what-he-called-described-as-the-big-4-players-in-cloud-computing-it-was.html,,1227789956
+378636,comment,378629,378629,0,0,astrec,,,"<i>She who must be obeyed</i> and I just wrapped up our Thanksgiving dinner - tough day when your family is 10000 miles away. Anyhow, happy Thanksgiving to all.",1227789902
+378635,story,,,2,1,danw,"Write off the first hour of work",http://elliotjaystocks.com/blog/archive/2008/write-off-that-first-hour/,,1227789864
+378634,comment,378167,378627,0,0,swombat,,,"It's one of the cornerstones of the singularity possibility. If you didn't get that argument, you didn't really get the whole singularity movement...",1227789682
+378633,story,,,2,0,joschi,"The Perfect Server - Fedora 10",http://www.howtoforge.com/perfect-server-fedora-10,,1227789633
+378632,comment,378514,378514,0,0,fub4r,,,"Have you considered partnering with someone who does managed hosting? It's not unheard of for startups to get a contra deal.",1227789252
+378631,story,,,4,0,vladocar,"Emastic CSS Templates",http://www.vcarrer.com/2008/11/emastic-css-templates.html,,1227789166
+378630,comment,377487,378288,0,0,astrec,,,"For the purposes of this discussion nothing you've mentioned falls under the <i>serious</i> banner. I mean no snark at all in saying that - just that those with half a dozen 12 CPU boxes packed with nearly 200Gb of RAM tend to be cutting their own path.",1227788877
+378629,story,,,36,26,hbien,"Tell YC: Happy Thanksgiving everyone",,"Happy Thanksgiving everybody!  Hopefully, you're spending time with your family & friends today instead of hacking on stuff.  Even better, hacking on stuff with your family & friends =].",1227788770
+378628,comment,378278,378283,0,0,blasdel,,,"DHT support is a huge reason, plus µTorrent's bandwidth-maximising logic is the best available. It makes a massive difference on large public trackers that are highly overloaded and unresponsive. You'll start downloading a lot quicker, and use much more bandwidth; because you can find more peers quicker, and make much better use of them.<p>The best implementations available are µTorrent, rTorrent, and Azureus, all with different strong suits. I exclusively use rTorrent in GNU Screen, but I don't download much from large public trackers.",1227788678
+378627,comment,378167,378319,0,0,mixmax,,,"Interesting argument...",1227788404
+378626,story,,,2,0,dilanj,"Cost of  Micro-Optimizing",http://blogs.msdn.com/oldnewthing/archive/2008/11/26/9143050.aspx,,1227788374
+378625,comment,378424,378424,0,0,hetman,,,"I was put onto a Python project at work so I started with the best quick reference I could find (wikipedia!) and then went from there.<p>Started at:
+<a href=""http://en.wikipedia.org/wiki/Python_"" rel=""nofollow"">http://en.wikipedia.org/wiki/Python_</a>(programming_language)
+<a href=""http://en.wikipedia.org/wiki/Python_syntax_and_semantics"" rel=""nofollow"">http://en.wikipedia.org/wiki/Python_syntax_and_semantics</a><p>Found most other details on here:
+<a href=""http://www.python.org/dev/peps/"" rel=""nofollow"">http://www.python.org/dev/peps/</a>
+<a href=""http://www.python.org/doc/"" rel=""nofollow"">http://www.python.org/doc/</a><p>There's some good online tutorials to ease into some of the trickier details like metaclasses and descriptors.<p>I was already coding Ruby before this (and some LISP before that) so the whole dynamic language thing was familiar enough I could get away with mostly references. Your milage may vary :)",1227788368
+378624,comment,378418,378418,0,0,StrawberryFrog,,,"Put yourself in my position: in England, which has very few totally local car manufacturers.<p>I'd buy a German car if I got rich (VW, BMW, Audi, Mercedes), a Japanese car (Toyota, Honda), even a French car (Peugeot or Citroen) if I don't. If I won the lottery I'd think of an Italian sportscar.<p>But an American car, what possible use would I have for one of those?<p>Change that.",1227788328
+378622,comment,378167,378322,0,0,mixmax,,,"Kurzweil is just replacing points on a graph with s-curves on a graph.<p>This doesn't change the fundamentals of the argument in any way.",1227788176
+378621,comment,378424,378428,0,0,mahipal,,,"These are great. The Python tutorial is very readable.<p>You could use these side by side with any decent university course that you can find online. Here is a link to Caltech's introductory Python course, with exercises posted that ramp up in difficulty while surveying most of the Python basics. <a href=""http://www.cs.caltech.edu/courses/cs11/material/python/index.html"" rel=""nofollow"">http://www.cs.caltech.edu/courses/cs11/material/python/index...</a><p>And here is MIT's intro course on Python as well. Theirs includes the solutions too. <a href=""http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2008/CourseHome/"" rel=""nofollow"">http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Compute...</a>",1227788154
+378620,comment,378278,378417,0,0,halo,,,"Nope. BitTorrent is just a protocol for transferring files. Much like other similar protocols like http, ftp etc it makes no attempt to limit the type of files relayed through it and is a little out of its scope.",1227787767
+378619,comment,378497,378554,0,0,santacruz,,,"tech will be erased certainly :)",1227787766
+378618,story,,,12,0,mindaugas,"Trying out Rubinius in 20 minutes",http://programblings.com/2008/11/25/rubinius-for-the-layman-part-3-try-rubinius-in-20-minutes/,,1227787724
+378617,comment,378591,378609,0,0,wr1472,,,"thanks I'll look up Komodo.",1227787684
+378616,comment,377769,377769,0,0,cturner,,,"Error in the article?<p><pre><code>    To determine a task’s utility and therefore how likely a
+    person is to do it right away, Steel puts together four
+    basic factors, expectancy (E), value (V), the delay until
+    reward or punishment (D), and personal sensitivity to
+    delay (P), in the following equation:
+
+    U =  (E x V) / (R x D)
+</code></pre>
+-> Those codes don't correspond to the equation. Any hints from someone who knows the source?",1227787617
+378615,comment,378424,378428,0,0,astrec,,,"Same for me. 
+Sometimes I refer to <a href=""http://effbot.org/pyref/"" rel=""nofollow"">http://effbot.org/pyref/</a>",1227787449

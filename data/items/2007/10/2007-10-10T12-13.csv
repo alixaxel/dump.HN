@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+65769,story,,,3,7,catalinist,"For Reddit devs : make something about ""submitting too fast""",,"I understand that it's suppose to be an anti-flood system, but you have to do something about it because there are users who want to submit a couple of subj. one after another - if ""you're submitting too fast. try resubmitting again in a little while."" msg. comes why they want to submit they might not come back again to resubmit after the waiting time is over. That's because they've already moved-on from the subject or lost interest in submiting it, or just have a short attention-span. I suggest something like a queue maybe, to at least not lose the subject with the ""submit too fast"" msg. Is there something done about this in the rewrite I've heard about ?",1192020905
+65768,comment,65767,65767,0,0,edw519,,,"How did they get caught?<p>And if every viewing of data in the app is stamped, then didn't they realize what would happen?
+",1192020671
+65767,story,,,1,1,edw519,"27 Hospital Workers Suspended for Security Violation",http://www.cnn.com/2007/SHOWBIZ/10/10/clooney.records/index.html,"How did they get caught?<p>If every viewing of data in the app is stamped, didn't the users realize what would happen?
+",1192020601
+65766,story,,,2,0,terpua,"Google Enterprise Search gets social",http://www.news.com/8301-10784_3-9794039-7.html?part=rss&tag=feed&subj=NewsBlog,,1192020254
+65765,comment,65755,65763,0,0,brk,,,"What problem are you trying to solve?  What is the need for ""a lot of queries""?<p>Just curious.  This seems like a good(ish) idea, but also one that is not as easy as it sounds.  There are no ISO standards for titles, so something like ""VP of Business Development"" can mean wildly different things from person to person, or company to company.<p>You would have to (IMO) do a lot to standardize the input options and verify the data to make it really useful.<p>",1192020162
+65764,comment,65755,65755,0,0,catalinist,,,"Blog: IT salaries hit the ceiling :
+(this is for New Zealand)<p><a href=""http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10468986"" rel=""nofollow"">http://www.nzherald.co.nz/section/story.cfm?c_id=5&objec...</a>",1192020055
+65763,comment,65755,65759,0,0,nextmoveone,,,"Salary.com does not return results for a lot of queries for one.",1192019889
+65762,story,,,1,2,catalinist,"Want to be bought by Google? Add ""ku"" to your company name","http://blogs.zdnet.com/Google/?p=766#8212;%20just%20a%20week%20ago,%20Google%20snapped%20up%20%E2%80%9CZingku%E2%80%9D%20and%20today%20%E2%80%9CJaiku%E2%80%9C.%20%20Jaiku%20is%20similar%20to%20Twitter%20%E2%80%94%20but%20it%20has%20a%20fairly%20small%20user-base%20",,1192019878
+65761,comment,65755,65759,0,0,catalinist,,,"Maybe to make it simpler and global - not just US.",1192019735
+65760,story,,,8,0,catalinist,"The Future According to Sun",http://www.itbusinessedge.com/blogs/dcc/?p=231,,1192019631
+65759,comment,65755,65755,0,0,brk,,,"How would this be different than salary.com?",1192018404
+65758,comment,65605,65605,0,0,Novash,,,"So we celebrate today or in Feb 7?",1192018306
+65757,comment,65081,65081,0,0,dpapathanasiou,,,"Spam attack software: identify the toll-free telephone numbers in spam emails and automatically call multiple times using Jajah (or similar VoIP service).<p>Unlike spam (which costs little to send), the spammers or their clients have to pay for all those telephone calls.",1192018219
+65756,story,,,1,0,ideas101,"Blinkx hopes to better compete with YouTube",http://www.nytimes.com/2007/10/10/business/media/10video.html?_r=1&ref=technology&oref=slogin,,1192018007
+65755,story,,,7,14,jgrahamc,"Idea: anonymous salary data",,"Set up a simple web site where people can enter their job title, location and salary.  Totally anonymous plus all data from the survey is made public.   To get salary data you'd have to give your own salary information.<p>Why is salary data so hard to find?",1192017950
+65754,story,,,2,0,catalinist,"Micro-blogging is taking off",http://www.urbanologyblog.com/?p=314,,1192017941
+65753,comment,65327,65327,0,0,wlievens,,,"Great story. I hope you continue to develop this idea, even without YC.",1192017659
+65752,story,,,1,0,catalinist,"Online GUID Generator",http://www.guidgenerator.com/,,1192017648
+65751,story,,,2,1,catalinist,"Peter Xu: Are you ready for XOP (XML-Oriented Programming)?",http://www.ibm.com/developerworks/websphere/techjournal/0710_col_xu/0710_col_xu.html?ca=drs-,,1192017616

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+12862,comment,12781,12781,0,0,mattjaynes,,,"At the other end of the spectrum:<p><a href=""http://www.37signals.com/svn/posts/372-dear-no-first-name"">http://www.37signals.com/svn/posts/372-dear-no-first-name</a>",1176544554
+12861,comment,12860,12860,0,0,mattjaynes,,,"Wow, what a contrast to:<p><a href=""http://senzee.blogspot.com/2007/02/red-5s-pitch.html"">http://senzee.blogspot.com/2007/02/red-5s-pitch.html</a>",1176544505
+12860,story,,,7,5,mattjaynes,"Most Un-Impressive Recruiting Pitch I've Ever Seen :(",http://www.37signals.com/svn/posts/372-dear-no-first-name,,1176544408
+12859,story,,,2,0,mattjaynes,"Cat Herders == Blog Herders?",http://gilesbowkett.blogspot.com/2007/04/yes-and-no.html,,1176544308
+12858,story,,,12,4,mattjaynes,"Paul Buchheit: Webserver written in bash - under 20 lines of code",http://paulbuchheit.blogspot.com/2007/04/webserver-in-bash.html,,1176544093
+12857,story,,,1,0,mattjaynes,"Twitter: Service vs. Platform",http://www.codinghorror.com/blog/archives/000838.html,,1176544001
+12856,comment,12730,12793,0,0,bls,,,"instantdomainsearch.com's FAQ promises not to share your searching with anybody. But, pcnames.com makes no such promise. I don't trust pcnames.com",1176543075
+12855,comment,12785,12785,0,0,akkartik,,,"<a href=""http://scrapbook.akkartik.name/post/904713"">http://scrapbook.akkartik.name/post/904713</a>
+",1176543028
+12854,comment,12749,12749,0,0,richcollins,,,"How is a recurrent neural network a ""Lisp parse tree""?",1176541703
+12853,story,,,4,0,picktwo,"If you need better tech articles in a Reddit like display...",http://101out.com,,1176541539

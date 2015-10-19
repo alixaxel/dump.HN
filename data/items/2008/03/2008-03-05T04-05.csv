@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+129473,comment,129224,129469,0,0,jey,,,"<p><pre><code>  Galaxy: Milky Way
+  Star: Sol
+  Planet: Earth
+  ICBM: 37.784329, -122.417682</code></pre>",1204693084
+129472,comment,129407,129452,0,0,illicium,,,"Exactly--tables (CSS or otherwise) are meant for _tabular_ data, like you would see in a spreadsheet, not page layouts. And if you want to use a table, the semantic way is to use a <table> tag, not a <div> or something else disguising as one.",1204693032
+129471,comment,129207,129318,0,0,albertcardona,,,"<a href=""http://codepad.org/H2wMdxsA"" rel=""nofollow"">http://codepad.org/H2wMdxsA</a><p>Didn't know this one about python. Thanks kilowatt.<p>By the way I can't ""paste and run"": Error 500 Internal Server Error. Looks like the site is popular as it gets (well deserved).",1204692878
+129470,story,,,2,0,sudeepjuvekar,"First Cray-1 Supercomputer",http://www.thocp.net/hardware/cray_1.htm,"The computer was shipped to Los Alamos on this very day: 4th March 1977. See http://www.springfieldohio.net/almanac.php",1204692769
+129469,comment,129224,129468,0,0,german,,,"hahaha. 
+Ok, so, where are you jey?",1204692671
+129468,comment,129224,129276,0,0,jey,,,Nope.,1204692501
+129466,comment,129463,129463,0,0,aneesh,,,"It all boils down to this basic principle: a happy employee is a productive employee!",1204691941
+129465,story,,,2,0,jyu,"Launching A Startup is Barely Step One",http://www.instigatorblog.com/launching-a-startup-is-barely-step-one/2008/02/06/#more-529,,1204691795
+129464,comment,129167,129193,0,0,dmoney,,,"A site I was on a while back used pictures of baboons.  From behind.",1204691379
+129463,story,,,128,46,mqt,"Workplace Experiments at 37signals",http://www.37signals.com/svn/posts/893-workplace-experiments,,1204690955
+129462,comment,129407,129452,0,0,technoguyrob,,,"Yes, but it functions like an HTML table, and that's the point. While a Firefox tab may look completely different from what a tab originally is (like one in a folder), it functions the same, and so the term is carried on.<p>I think the important thing is that CSS can finally model behavior identical to using a table tag. And as I said in my other comment, it's about time, since tables are one of the most used HTML design (what CSS is for, after all) elements.",1204690946
+129461,comment,129432,129433,0,0,mixmax,,,"Congratulations on your new status :-)",1204690922
+129460,comment,129167,129208,0,0,mechanical_fish,,,"Given that the more established alternative is <i>incentivize</i>, which is at least 50% more awful, I welcome this newly abbreviated word.",1204690739
+129459,story,,,11,6,mindplunge,"Optimize A Fresh Ubuntu Installation",http://howto.wired.com/wiki/Optimize_A_Fresh_Ubuntu_Installation,,1204690574
+129458,comment,129453,129454,0,0,mixmax,,,"I have the same problem with polls not showing up.",1204690465
+129457,story,,,7,3,eb,"Q&A with Facebook’s Mark Zuckerberg, on hiring, growth, and its platform",http://venturebeat.com/2008/03/04/qa-with-facebooks-mark-zuckerberg-on-hiring-growth-and-its-platform/,,1204690460
+129456,comment,129154,129179,0,0,rms,,,Entertainment,1204690450
+129455,comment,129207,129207,0,0,bootload,,,"<i>""... 	Codepad.org, a pastebin that executes code ...""</i><p>Very nice. Tried <i>""import this""</i> & <i>""hello world in c""</i>. There is a poll over on arclanguage that asks if users want this type of functionality (hosted arc repl). I was surprised that more didn't want this type of feature to hack with Arc ~ ""A hosted repl"" : <a href=""http://arclanguage.org/item?id=4070"" rel=""nofollow"">http://arclanguage.org/item?id=4070</a>",1204690279
+129454,comment,129453,129453,0,0,curi,,,"My poll is missing.<p><a href=""http://news.ycombinator.com/item?id=129154"" rel=""nofollow"">http://news.ycombinator.com/item?id=129154</a>",1204690185
+129453,story,,,3,3,curi,"submissions bug",http://news.ycombinator.com/submitted?id=curi,test,1204690158
+129452,comment,129407,129407,0,0,mdaines,,,"Obviously this sort of thing is an improvement over all the various contortions one must do to achieve that w/o ""css tables""... nesting and negative margins and what-have-you, but I feel like using ""display:table-cell"" obscures the designer's intent, kind of. That sample layout isn't a table, it's a layout.",1204690094
+129451,comment,129177,129177,0,0,alex_c,,,"That is very interesting.<p>I would be grateful if you let us know in a couple of days (or enough time to get a decent data set?) how many people are using the feature (and if it has any noticeable effect on user behaviour), and what kind of clickthrough rates the ads have...",1204689956
+129450,comment,129446,129446,0,0,jsjenkins168,,,"<i>""Remember folks, just because something performs better spec-wise doesn't mean it actually sounds better. Specs are one thing, psychoacoustics are another.""</i><p>This is an important consideration I think many ignore. There can be variability in how ICs, power, and speaker cables sound which does not always correlate to how fancy or expensive they are.",1204689889
+129449,comment,129407,129407,0,0,technoguyrob,,,"About freaking time.",1204689789
+129448,comment,129207,129326,0,0,michaelneale,,,"Not a bad research idea.",1204689695

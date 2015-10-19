@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26443,story,,,1,0,gibsonf1,"The copyright buzz from the 'Electric Slide'",http://news.com.com/The+copyright+buzz+from+the+Electric+Slide/2008-1026_3-6188297.html?tag=nefd.pop,,1181051935
+26442,story,,,1,0,gibsonf1,"Microsoft teams with Linux distributor Xandros",http://news.com.com/Microsoft+teams+with+Linux+distributor+Xandros/2100-7344_3-6188254.html?tag=nefd.pop,,1181051820
+26441,story,,,2,0,gibsonf1,"Google Desktop vulnerable to attack",http://news.com.com/8301-10784_3-9725537-7.html?tag=nefd.only,,1181051745
+26440,story,,,1,0,gibsonf1,"Lawyer ratings site not without objections",http://news.com.com/Lawyer+ratings+site+not+without+objections/2100-1038_3-6188675.html?tag=nefd.lede,,1181051630
+26439,story,,,1,0,gibsonf1,"The Future of the Interview",http://www.loosewireblog.com/2007/06/the_future_of_t.html,,1181051569
+26438,story,,,2,0,gibsonf1,"Facebook Follows Up to Viral Growth with Official Announcement",http://www.rev2.org/2007/06/05/facebook-follows-up-to-viral-growth-with-official-announcement/,,1181051070
+26437,story,,,2,0,gibsonf1,"Lala takes a bite at Apple",http://www.sfgate.com/cgi-bin/blogs/sfgate/detail?blogid=19&entry_id=17237,,1181050790
+26436,story,,,1,0,dawie,"How do they make money? ",http://www.37signals.com/svn/posts/447-how-do-they-make-money,,1181050326
+26435,story,,,2,0,dawie,"Google PageRank: What Do We Know About It?",http://www.smashingmagazine.com/2007/06/05/google-pagerank-what-do-we-really-know-about-it/,,1181050217
+26434,story,,,18,3,danw,"How other businesses make money: from a cab driver ($75,000/year) to a publisher ($2.3 billion/year)",http://nymag.com/news/features/2007/profit/,,1181049817
+26433,comment,26430,26430,0,0,brlewis,,,"TechCrunch notes that the Apple-II went on sale 30 years ago today.  Their source is Wired.  Wired's source is apple2history.org.<p>",1181049790
+26432,story,,,5,0,wendyp,"Should You Raise Venture Capital For Your Startup?",http://www.instigatorblog.com/should-you-raise-venture-capital-for-your-startup/2007/06/05/,,1181049525
+26431,comment,26412,26412,0,0,pg,,,"I don't think he did this as a serious startup.  I think he did it to find out what the base cost of a web startup is. $12k is pretty cheap for a VC to learn that.  <p>The only catch is, he may have learned less than he realizes. What he's learned is what it takes to make a prototype.  Most of the work comes after that.",1181049461
+26430,story,,,1,1,brlewis,"Apple-II flyer from 1977",http://apple2history.org/museum/ads/a2intro2.html,,1181049182

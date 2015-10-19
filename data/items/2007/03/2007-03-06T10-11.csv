@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2565,comment,2367,2557,0,0,staunch,,,"'...Gates just meant ""improving"" when he said ""optimizing"".'<p>I think that's the case. ",1173178366
+2564,comment,2530,2556,0,0,mickael,,,"I am not talking about silver bullet. I am talking about alternatives. For now people largely think that ther is only one way to do it. The point of my article is to show that there is more than one way to do it and that it might pay off to think about this before hand if you have to make a living of a web-based service.",1173177432
+2563,comment,2530,2555,0,0,mickael,,,"Hello,<p>Of course, it is self serving, like 37signals buzz on Ruby was self-serving too.
+I does not mean that you have to trust me. You can check by yourself and make your own opinion. I really doubt that people will switch to Erlang because I said it is the way to go.<p>They will do so because they have assessed the technology as an alternative. My goal is only to make Erlang known as an alternative for large scale infrastructure, which is not the case now. Nothing more.",1173177288
+2562,comment,2405,2405,0,0,jjwiseman,,,"Also see the notes and discussion at http://notelab.infogami.com/startupschool2006",1173176701
+2561,story,,,1,0,jwecker,"Top 20 Motivation Hacks",http://zenhabits.blogspot.com/2007/02/top-20-motivation-hacks-overview.html,,1173176692
+2560,story,,,1,0,jwecker,"101 Lessons from Project Management",http://www.projectmanagementsource.com/2006/08/lessons_from_pr.html,,1173176523
+2559,story,,,1,0,danielha,"Google CEO, co-founders stick with $1 salary",http://money.cnn.com/2007/03/05/news/companies/google_salaries/index.htm?postversion=2007030517,,1173176239
+2558,story,,,1,0,danielha,"America's Most Admired Companies",http://money.cnn.com/magazines/fortune/mostadmired/2007/index.html,,1173176221

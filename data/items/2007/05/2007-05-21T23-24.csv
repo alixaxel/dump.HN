@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+23735,comment,23448,23448,0,0,neilc,,,"I don't see how it breaks any design rules: the UI is essentially the same (and completely functional) without JS. Admittedly, I don't really see a compelling reason why you'd <i>need</i> JS to add that link bar, but the redesigned Google page hardly ""requires"" Javascript.",1179791794
+23734,story,,,1,0,mattjaynes,"The technology of OLPC's hundred dollar laptop",http://www.37signals.com/svn/posts/431-the-technology-of-olpcs-hundred-dollar-laptop,,1179790907
+23733,comment,23702,23702,0,0,mikesabat,,,"Very true when he says there is a lesson to be learned from starting a company for $12k and a few weeks. <p>Let this be a challenge. What can you start with the same constraints?
+",1179789728
+23732,comment,23404,23517,0,0,staunch,,,"From what I gather it seems like he wanted out of the project. At some point it seems he decided ""I'm not really a podcast guy, I'm a Twitter guy"" [not a quote]. He did what I think was a pretty honorable thing and took the hit himself. He could have easily shared the loss with his investors. I would of course agree it was risk they signed up for, but he chose differently.",1179789388
+23731,comment,23404,23404,0,0,fdafdasfdsa,,,"The more important question is, What in the Jumping Jack Flash <i>IS</i> Twitter.  I have been to the site twice, heard people ooh and aah over it, and for the life of me I have no idea what it is.  Dot com bubble anybody?  
+",1179789343

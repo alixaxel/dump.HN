@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+265506,story,,,16,14,danw,"Launch of Elon Musk's Private Rocket Fails; Three Satellites Were Onboard",http://www.nytimes.com/2008/08/03/science/space/03launchweb.html?_r=1&ref=science&oref=slogin,,1217757417
+265504,comment,265379,265379,0,0,steveblgh,,,"I wish it was only how it looks, but it's also how it sounds.",1217757167
+265503,comment,265121,265465,0,0,henning,,,"Uh, Visual Basic 20008/9.0 has lambda expressions built right in.<p><pre><code>    Dim mapped = New Integer() {1, 2, 3, 4}.Select(Function(n) n * 2)
+    Dim myFunc = Function(x) mapped.ToList.IndexOf(x)
+    Console.WriteLine(myFunc(4)) ' prints 1 (i.e. second element, since mapped == {2,4,6,8}
+</code></pre>
+.NET (and therefore Visual Basic) has had delegates, which are basically typesafe function pointers, since 2005.<p>If you want real functional programming on the CLR, there's always F#, which is firmly in the ML family.<p>AFAIK on the CLR closures are converted into classes with a single randomly named method (and since invoking a method on a class is designed to be quite efficient, that means you shoulodn't pay much of a performance penalty). In other words, it mechanically, automatically does what Java programmers would do by hand.",1217756945
+265502,comment,264274,264274,0,0,toxik,,,"Thanks for teaching me how not to be a social outcast. Great post.<p>(Irony sensor would be off the chart about now.)",1217756400
+265499,comment,264943,265024,0,0,wheels,,,"Yeah.  It's boring.  Here's really all that you need to say about it:  <i>It's a vocabulary trainer.</i><p>That's mostly what reading Design Patterns is good for.  You learn names for things that you'll see over and over again that you can refer to them as when talking to other programmers and you learn to implement them more or less the standard way not because that's novel, but just because it then makes it easier for other people to understand what you've done.<p>On the other hand, it's easy to read -- like one day, and at that it's definitely worth it.",1217755126
+265498,story,,,1,0,nickb,"HTML Validation and Search Engine Optimization",http://www.thegooglecache.com/white-hat-seo/w3c-html-validation-and-search-engine-optimization/,,1217754696
+265497,story,,,9,6,nickb,"Firefox Closer to Supporting Open-source Video Codec",http://news.yahoo.com/s/pcworld/20080801/tc_pcworld/149262,,1217754669
+265496,story,,,2,0,nickb,"Microsoft Calls Firefox Competitor To Windows",http://www.informationweek.com/news/internet/browsers/showArticle.jhtml?articleID=209901631,,1217754591
+265495,story,,,4,1,nickb,"Knol: content w/out context, collaboration, capital, or coruscation",http://www.zephoria.org/thoughts/archives/2008/08/01/knol_content_wo.html,,1217754549
+265494,comment,265462,265480,0,0,alaskamiller,,,"That looks cool. You should definitely try that out!",1217754524

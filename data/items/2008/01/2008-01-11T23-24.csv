@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97351,comment,97255,97255,0,0,eru,,,"""I'm a nervous wreck. I'm a slob. I have no patience. And I'm rather lazy.""",1200095916
+97350,comment,97158,97317,0,0,eru,,,"I opt for the space monster (sim city 2000).",1200095585
+97349,comment,96984,97014,0,0,jmzachary,,,"and social network sites",1200095506
+97348,comment,96967,97236,0,0,eru,,,"But I agree - your result was probably more meaningful.",1200095483
+97347,story,,,1,0,amichail,"Ask YC:  Do you know of any good free advertising exchange services?",,"I'm looking for something like this Facebook app but for a non-Facebook web site:<p>http://www.facebook.com/apps/application.php?id=2391617960",1200095467
+97346,comment,97273,97343,0,0,mechanical_fish,,,"If linkbaiting is a sport, then science journalism is the major leagues.",1200095231
+97345,comment,97302,97344,0,0,davidw,,,"The project is being run as a non-profit.  The money is to attempt to recoup costs and make the project self-sustaining.",1200095036
+97344,comment,97302,97302,0,0,limeade,,,"How is the OLPC project ""charity"" when the governments buy the laptops from OLPC just as they would from Intel? The Economist is ridiculous, drawing false distinctions.",1200094892
+97343,comment,97273,97299,0,0,dcurtis,,,"This ""journalist"" should be ashamed of him/herself. What a load of crap.<p>This is no more amazing than putting a rock on a string and telling a computer to correct the plane's roll when the rock moves away from 0 degrees.<p>Also, the article has the greatest use of hyperbole-by-parentheses ever: ""... what scientists are calling a 'live computation device' (a brain).""",1200094628
+97342,comment,97302,97302,0,0,ivankirigin,,,"I never understood complaints about the digital divide. I'm all for using cellphone minutes as a micro currency, and rigging a windmill to generate power in the middle of nowhere.<p>I'm just so much more concerned with the corruption-is-everywhere--i-cant-own-my-own-land--western-trade-barriers-killed-my-crop-yield--my-government-steals-aid divide.<p>Who cares about laptops when you have problems like that?",1200093975
+97340,comment,97302,97302,0,0,eru,,,"Profit.<p>Edit: Why do I read this article on screen?  I mean - I have it on paper..  Damn procrastination.",1200093447
+97339,comment,97273,97299,0,0,eru,,,Thanks.,1200093427
+97338,comment,97325,97335,0,0,Tichy,,,"For example, instead of saying ""the configuration goes into web.xml"", the servlet specification could have said ""the configuration goes into ServletConfiguration.java"" or something like that.<p>Actually I think it Spring it can be done, have to look into it.",1200093202
+97337,comment,97325,97334,0,0,Tichy,,,"Just because I already know it.",1200093108
+97336,comment,97220,97220,0,0,joshwa,,,"Has anyone actually looked at this code yet? Documentation?<p>Wish they'd put up a SVN browser so I don't have to download it to see what it looks like.",1200092781
+97335,comment,97325,97325,0,0,pcowans,,,"How would that work in Java (or any other compiled language)? You recompile every time you want to change the settings?",1200092690
+97334,comment,97325,97325,0,0,run4yourlives,,,">in Java because I was in a hurry<p>lol :-)",1200092458

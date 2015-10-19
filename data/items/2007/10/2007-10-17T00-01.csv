@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+68850,comment,68508,68555,0,0,kmassey,,,"The numbers are meant to be general, not absolute. Note that I put ""depending on region"" as a disclaimer for some folks who ""might"" object. 
+Out of touch with start-up funding? Ouch. we've been at it for 8 years....
+Primariy point is to show that there ""is"" a gap. Be it the Atlanta, Boston, SV, Ft. Wayne, Charelston, etc.
+Angels and angel groups have different models. So, don't judge many by the actions of a few that you are familiar with. 
+Angels individually invest $25,000-$100,000. But as a group, can do $250,000- $1M plus(rare).
+Knox Massey
+",1192582664
+68849,comment,68837,68837,0,0,gscott,,,"I suggest waiting and seeing if you get into YC but in case you don't and you still need to eat (I like to eat too) then I would suggest looking on Craiglist for a job.<p>If they really like you ask to see if you can work 3 weeks a month and take 1 week to work on your project in there office on there computer, that way you are there available to them but they don't have to pay you.  <p>That is what I am doing and if I get into YC I will be in a position to quit entirely and only work on my project.",1192582456
+68848,comment,68563,68831,0,0,DaniFong,,,"That's crazy. I used to think if anything like this happened,  I'd be one of the first to be aware. I guess not. O.o",1192582314
+68847,comment,68798,68798,0,0,socmoth,,,"you found me.<p>i'd love speaking tips/feedback in general.  or tech whatever.",1192582276
+68846,comment,68535,68720,0,0,adrianwaj,,,"I would expect that in a more perfect world PG (or an equivalent) would also say ""We also like to give feedback and point out the things that would have made us more interested had it been included.""",1192582122
+68845,comment,68563,68563,0,0,DaniFong,,,"I was gasping. I'm in shock. I used to dream about something like this. =)",1192582114
+68844,comment,68552,68602,0,0,dcurtis,,,"It might be unfair for you or for developers on the iPhone, but it will at least be a step forward for the end users. Hand-picked software is better than no software at all. <p>If there is no competition, the quality of the software is dependent only on Apple's standards, which are generally quite high. I doubt the software that is approved by Apple will be crap.<p>I still agree with you though-- it should be freely open.",1192582083
+68843,story,,,1,0,nickb,"Making programming pay: Ruby, Smalltalk and Lisp  Revisited",http://pab-data.blogspot.com/2007/10/ruby-smalltalk-and-lisp-revisited.html,,1192582025
+68842,story,,,2,0,nickb,"Questioning functional programming",http://radar.oreilly.com/archives/2007/10/questioning_fun.html,,1192581900
+68841,comment,68794,68794,0,0,speedmax,,,"look forward for announcement.",1192581820
+68840,comment,68563,68830,0,0,DanielBMarkham,,,"I understood what you meant. The wobble prediction method is a lot more mature than various models of planetary formation. And the planet cannot be directly observed, only properties about it inferred from the wobble. No spectral measurements of the planet or its atmosphere were made.<p>
+It'll be great when we can start making direct observations instead of doing a lot of inference.",1192581526
+68839,comment,68834,68834,0,0,pg,,,"Good plan.",1192581489
+68838,comment,68629,68690,0,0,dcurtis,,,"To the submitter's credit, this is a fairly popular website that was hacked, and that's interesting. <p>Then again, because it's Ann Coulter, I think I have to agree with you.",1192581462
+68837,story,,,3,6,DaniFong,"Day Jobs",,"Might anyone have any tips on finding day jobs which are not immoral, pointless, demoralizingly stupid, or energetically draining?<p>It's a rollercoaster. One minute, Google thinks I'm the hottest thing. The next, the interviewer is fired (literally), and I'm talking to interviewers claiming about my 'junior' status and how I haven't used Access.<p>I know that if I take a fulltime job, there won't be many hours left in the week for my own project. HAs anyone had any luck negotiating for a fulltime position, and then just dropping one or two days off the schedule?",1192581358
+68836,comment,68550,68550,0,0,amichail,,,"Here's the song that plays at the end:<p><a href=""http://www.youtube.com/watch?v=RthZgszykLs"" rel=""nofollow"">http://www.youtube.com/watch?v=RthZgszykLs</a><p><a href=""http://dump.zetopia.com/Portal%20-%20Still%20Alive.mp3"" rel=""nofollow"">http://dump.zetopia.com/Portal%20-%20Still%20Alive.mp3</a><p>Lyrics:<p><a href=""http://www.steamfriends.com/forums/showthread.php?p=5255"" rel=""nofollow"">http://www.steamfriends.com/forums/showthread.php?p=5255</a>
+",1192581297
+68835,comment,68752,68752,0,0,pg,,,"Argh.  I never said SV was the only place for startups, just that all other things being equal it was the best.",1192581265
+68834,story,,,4,2,gibsonf1,"Yahoo: Bringing Geeky Back",http://www.businessweek.com/technology/content/oct2007/tc20071015_144425.htm?chan=technology_technology+index+page_top+stories,,1192580964
+68833,comment,68581,68639,0,0,akkartik,,,"Nu is what I call a language remix. Combine the syntax from one language with the runtime of another. It's relatively easy to do; we should be doing more of these. Backward compatibility be damned.<p>---<p>The ruby/smalltalk connection is a bit of a red herring; the 'inspiration' from them seems to be just inserting symbols in the argument list. Perfectly doable in lisp, just not very conventional.<p><a href=""http://akkartik.name/lisp.html#bind"" rel=""nofollow"">http://akkartik.name/lisp.html#bind</a>",1192580754
+68832,comment,68794,68794,0,0,rokhayakebe,,,"""the pressure is on, but guess who ain't gonna crack""",1192580715
+68831,comment,68563,68563,0,0,ptn,,,"I really don't want to crash this party, but has anyone taken a look at the date of the new? It isn't exactly...""new"".",1192580627
+68830,comment,68563,68817,0,0,npk,,,"I didn't explain myself properly.  The planet is almost certainly there.  <p>The atmosphere, color, etc.. of the planet is still in the speculation stage.",1192580555
+68829,comment,68455,68495,0,0,akkartik,,,"Trevor Blackwell calls it tweakability. <a href=""http://tlb.org/busywork.html"" rel=""nofollow"">http://tlb.org/busywork.html</a>",1192580425
+68828,comment,68794,68794,0,0,rms,,,"It is very good if you get some feedback from them before the announcement date, but it is certainly not bad if you don't get any interaction with them prior to that date.",1192580074
+68827,comment,68563,68793,0,0,danteembermage,,,"<a href=""http://www.youtube.com/watch?v=gaFZTAOb7IE"" rel=""nofollow"">http://www.youtube.com/watch?v=gaFZTAOb7IE</a>",1192579897
+68826,comment,68563,68816,0,0,DanielBMarkham,,,"Gee yep. Sure enough (sheepish grin)<p>
+I must have stopped reading it fairly early, because looking at the cover I don't remember any of it. I remember the first book, however -- that super guy they brought back for Ender's training and the planet and all. It's been a few years, though. Good thing I kept all the books.<p>
+Apologies for the poor memory.",1192579796
+68825,comment,68794,68794,0,0,nmeyer,,,"This reminds me of applying to college...",1192579778
+68824,story,,,6,0,krs,"The Future of Software Development",http://www.readwriteweb.com/archives/the_future_of_software_development.php,,1192579496
+68823,comment,68563,68694,0,0,plusbryan,,,"<a href=""http://xkcd.com/304/"" rel=""nofollow"">http://xkcd.com/304/</a>",1192579436
+68822,story,,,11,12,bootload,"Phone credit low? Africans go for ""beeping""",http://www.usabilitynews.com/news/article4211.asp,,1192579285
+68821,comment,68508,68555,0,0,lanceweatherby,,,"They are not my numbers so I don't want to defend them, but I think that what we are seeing is some of the differences in ""localness"" in angel markets.  Knox's group mostly invests in enterprise software plays which are a bit more capital intensive then web apps.<p>Of course you are a ""friend"" of startups.:)<p>",1192579268

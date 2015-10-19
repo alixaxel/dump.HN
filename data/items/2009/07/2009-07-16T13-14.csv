@@ -1,0 +1,289 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+707927,comment,705873,707653,0,0,ErrantX,,,"welcome to my catch22. Not crossing the line is really difficult - there have been times when a laptop turns up that is obviously nicked... (for whatever reason). From reputable sources too.<p>This is above board though (long term trustworthy customer - who is also totally dopey with computers).<p>We sent him it back in the end :) the ""consultant"" is giving it a shot.. he quoted 24hrs, £2,000, half up front :o",1247752798
+707926,comment,704876,705264,0,0,sown,,,"Well, it can't get much worse now, so go ahead and try!",1247752716
+707925,comment,707770,707770,0,0,ErrantX,,,"Title is silly.<p>Post is a bit useless too - because the technique is super common anyway. Ok so HP is going to be popular - and it will be youngsters downloading it (though it's possibly a bit ageist to assume their more targetable).<p>But still - I dont think this is a community that needs ""warning"" ;)",1247752645
+707924,comment,706711,706923,0,0,cakeface,,,"The book referenced in OP called <i>Born to Run</i> talks about the Tarahumara a lot.  Its a really interesting story and I'd recommend the book to anyone.",1247752640
+707923,comment,707294,707481,0,0,mlLK,,,"Now, I think the 'out of date' idiom is out of date. . .BTW, what's up with submission filter or how did saveie6.com end up in the index 3 times?<p><pre><code>   google 'site:ycombinator.com (saveie6.com) AND (intitle:ie6 OR intitle:saveie6)'</code></pre>",1247752585
+707922,comment,706657,707121,0,0,scott_s,,,"No.<p>I chose courses that interested and challenged me. I had semesters that were nothing but computer science, math and physics. Between implementing a compiler, figuring out how to display a polygonal topographical map and learning the life cycle of stars, I didn't have time for side projects.<p>I submit that if your side projects interest you more than your studies, then you are in the wrong place.",1247752567
+707921,comment,706968,707833,0,0,raganwald,,,"Please forgive my simplistic questions, I do not have any higher education in physics and in my reading of pop science magazines I doubtless remain ignorant of important developments.<p>What is the proof that there are only three spatial dimensions?<p>You say ""three spatial dimensions and time."" Is time a dimension just like the spatial ones but we perceive it differently? Or is time something other than a dimension? And when was this proved or demonstrated?",1247752534
+707920,comment,707639,707639,0,0,tdavis,,,"I never, ever gloat or make fun of others when it comes to security. It seems like a no-win situation. If you go to someone privately with security concerns, you're generally seen as helpful. If I publicly oust somebody, there are all sorts of people like the author (but far less scrupulous) who might consider it their duty to knock me down a peg... and I'm no security expert.<p>Using ""password"" for a password is really stupid, but ""really stupid"" is relative to the knowledge level of the person pointing it out, in most cases. I'd prefer not to find out what really stupid thing I've done to allow some script kiddie access to my servers (or whatever the case may be).",1247752531
+707919,comment,707905,707915,0,0,jacquesm,,,"They do if you switch on 'showdead' in your profile.",1247752518
+707918,comment,707466,707853,0,0,kossovsky,,,"callback is not good enough, it has to be a synchronous operation with ability to stop after specified number of milliseconds",1247752512
+707917,comment,707877,707877,0,0,systemtrigger,,,"The YC startup CO2Stats charges a fee to analyze the energy footprint of your site and purchase an equivalent amount of wind/solar energy, offsetting your usage. You can then advertise your carbon neutrality with a ""green certified site"" logo like the one on the bottom of this page.",1247752456
+707916,comment,706657,707133,0,0,praptak,,,"""I'm curious: how would people compare the prestige of working at Fog Creek vs. the prestige of working at Google?""<p>Improving PageRank (Google) > gluing APIs (anywhere) > editing project docs (anywhere)<p>It depends on what you do. Google definitely has more high profile jobs than Fog Creek, but also probably more grunt jobs than a typical small company.",1247752440
+707915,comment,707905,707914,0,0,ErrantX,,,"I think it's a troll - the guys last submission was 43 days ago (or there was a meta discussion 10 days ago).<p>Unless it got killed (do they show in submissions?)<p>EDIT: oh ok, yeh they were killed. He was posting links from paulmidler.com.",1247752438
+707914,comment,707905,707905,0,0,jacquesm,,,"Plenty, but why is that a problem. HN is voluntary last I checked, nobody <i>has</i> to look at your really good article.<p>What I think is 'good' does not have to be what other people here think is good. Think of HN as a list of suggestions for possible discussion with 0 guarantee of that discussion actually taking place, no matter how good your submission.<p>Also, you keep submitting stuff from 'paulmidler.com', maybe you've been identified as a spammer or something like that ?",1247752394
+707913,comment,707639,707865,0,0,biohacker42,,,"I think the @mailinator was a tip off.",1247752362
+707912,comment,707647,707712,0,0,rbanffy,,,"How often would anyone who does something really unusual (and not having a TV is still highly unusual) tell you they do?<p>Were it not for cable, I would probably have no TV here except, perhaps, one to plug the computer in to watch a movie.",1247752324
+707911,story,,,1,0,paliwalashish,"Retrieving Image Information using Sanselan",http://www.ashishpaliwal.com/blog/2009/07/apache-sanselan-retrieving-image-information-using-sanselan/,,1247752310
+707910,comment,707647,707845,0,0,cousin_it,,,"The Web has made me a better programmer, a better musician, a better debater, gave me a better understanding of mathematics, kept my English skills from rusting, and a lot more. Wikipedia or the instructional videos on YouTube are miles above TV in usefulness. Also, TV doesn't enable me to talk with intelligent people across the ocean.<p>Would you exchange the Web for a TV with 1000 channels?",1247752280
+707908,comment,707228,707228,0,0,00bama,,,"I review your site and theirs. Functionality is different. I was looking into their contract and project management feature. It looks pretty good. I dont see that as a feature for ur app.",1247752193
+707907,comment,707906,707906,0,0,codeodor,,,"And here's a link to the actual site, if you want to explore: <a href=""http://www.myexperiment.org/"" rel=""nofollow"">http://www.myexperiment.org/</a>",1247752187
+707906,story,,,2,1,codeodor,"Social networking site for researchers: myexperiment.org",http://www.physorg.com/news166943362.html,,1247752170
+707904,story,,,1,0,lexx12,"Opera 10 Beta2 Out",http://www.opera.com/browser/next/," Changes since Opera 10 beta
+User Interface
+Added<p><pre><code>    * New Speed Dial icon
+    * Enabled a errorlog-upload dialog box
+    * Opera Turbo warning icon
+    * Warning and advice about why dictionaries.xml file sometimes is missing from Auto update
+    * A ""Synchronize Opera"" button in the Speed Dial page
+    * Tab icons (inverted) for panels viewed as tabs
+    * An Open Folder menu item to the file browse control
+    * Multiple-server support for Auto Update
+    * A left-click context menu to the Opera Turbo button
+    * New icons for DOM Console, Who is, Send File, Spell Check, Authormode, and Usermode
+    * A context menu option to reload images in high quality
+    * Widget version support
+    * Password Manager with context-menu support
+</code></pre>
+Improvements<p><pre><code>    * Resized the Mac Add-tab icon
+    * Changed the way Widgets are launched after an installation on Mac
+    * Removed the menu items to enable/disable the menu bar
+    * The file input element no longer allows multiple selection
+    * ""Check for update"" moved from Help submenu to Opera submenu
+    * Updated opera:x, error and fraud page interfaces
+    * Preinstalled dictionaries now have full name in the ""Choose default language"" page in the wizard
+    * Allowed Speed Dial to have a custom favicon
+    * Now possible to set a new spell UI session without a pop-up menu
+    * Adjusted the progress spinner on thumbnails not to overlap other tabs when tabs are small
+    * Updated the ID for the Widget logo icon used in installation wizard
+    * Implemented a progressive disclosure control on ""Report a site problem"" dialog box
+    * All submenus are now given icons from the skin
+    * Shadows on active tabs are now less harsh
+    * Implemented new Dialog Toggle icons and revised the Mail icons
+    * Swapped the Send and Do Not Send send buttons in error-report dialog box
+    * Adjusted the position of the menu button menu
+    * Updated dialog images
+    * Allowed for addition of extra line padding in the Widgets panel
+    * Windowless Silverlight no longer disappears when using context menu
+    * Pressing Enter to select an item in a dropdown box no longer submits a form
+    * Enabled tab thumbnails check box by default in Customize dialog box; if selected forces ""wrapping off""
+    * Updated Check, Send and Check/Send icons
+    * Updated Search icon
+    * Notification now shown when Opera Turbo servers are busy
+    * Improvements to hover state on tabs (better contrast) and tabs on the side
+    * Panels viewed as Tabs now have their own favicon and thumbnail image
+    * Removed text shadow on buttons and its influence on Web buttons
+    * Images appended after page load will now display until ""screen refresh""
+    * Updated appearance of standard-skin dialog boxes
+    * Applied a small tweak to the background of the standard-skin close buttons
+</code></pre>
+Renamed<p><pre><code>    * ""Transfers"" to ""Downloads""
+    * ""Wand"" to ""Password Manager"" (Tools > Advanced > Password Manager)
+</code></pre>
+Fixed<p><pre><code>    * MenuButton reappearing after a restart
+    * Dropdown menus on play.com not having background styling
+    * A white artifact covering entire page when reloading using Reload button only
+    * Startup problem after upgrading from 9.x
+    * Importing feeds without a window being open
+    * More than 9 Speed Dials covering the Speed Dial image
+    * Web fonts affecting Mac
+    * Default font-size for single-line Text fields on OS X not being 12px large on the CJK system
+    * Text overlaps in enhanced tabs
+    * Aborting the printing of a Web page
+    * Login dialogs corrupting on startup
+    * MultiEdit fields being spellchecked if the spell checker is turned on without focus
+    * Files with spaces not opening after download
+    * Editing file/folder chooser boxes by hand
+    * Automatic Opera Turbo mode not being reflected in the status field
+    * Aqua skin Progress Bar display
+    * Translated strings in Romanian not fitting the error-report and Appearance dialog boxes
+    * Some UI buttons enlarging on focus
+    * Tiled background in Speed Dial not being remembered
+    * Panel header text becoming unbolded when customized
+    * Internet-to-Intranet override polishing
+    * Background image change not repainting a new area
+    * Setting Opera Turbo through the Details dialog box
+    * Activate Next Tab not working when tabs are launched in the background via control-shift-click
+    * Leaks in the error-logging dialog box
+    * Closing tabs while a tooltip is rendering
+    * Issue with Trash can being dragged to the widgets area in Widgets panel
+    * Background color of alternate rows disappearing in a list
+    * Opera continuously opening tabs if choosing ""Opera Internet Browser"" and ""Remember choice"" in the BitTorrent Client Selection dialog
+          o BT download dialog box now inherits most of the functionality from the download dialog, including the Save functionality
+    * Progress Bar not always disappearing after a page has finished loading
+    * Creating a search when right clicking on a search text field
+    * Yahoo! mediaplayer in learnenglish.de
+    * Spatial navigation on the Yahoo! frontpage
+    * Spell checker occasionally stopped working when immediately pressing Del and Space
+    * Saving a picture that has not been fully downloaded
+    * Uninstalling a dictionary
+    * Spell checker occasionally stops working after correcting a word
+    * Spacing between Search and the Address fields
+    * Incorrect escaping/unescaping of characters in WebserverRequest.uri
+    * Session not being saved when closing Opera
+    * Creation of Speed Dial duplicates when merging
+    * ""Go"" button not taking new search field into account
+    * Downloading a new .torrent file with Opera Turbo enabled
+    * The Wikipedia Cortado Java Theora player working in Opera 10
+    * Posting loading/posting of links on a wall at Facebook
+    * An issue with TinyMCE and Opera Dragonfly
+    * Keyboard focus not showing in the Opera user interface
+    * SVG background images disappearing on hover
+    * Inability use a folder nickname as home page
+</code></pre>
+Mail, News, Chat
+Added<p><pre><code>    * A dialog to warn about the mail database consistency check
+    * An account preference to determine if the content transfer restriction is set to 8 bit or 7 bit
+    * Several icons to the Compose menu
+    * New icons for setting status in a chat window
+</code></pre>
+Improvements<p><pre><code>    * Lightened the color of the Page Bar: icons now working on all toolbars, panel color enhanced for better differentiation
+    * Changed several icons in the Tools menu to colored versions that already exist
+    * Mail-header buttons no longer overlap the bottom of the toolbar
+    * Improvements made to HTML e-mail composition
+    * Clicking on a new message notification now trying:
+         1. to find a window where the message is visible
+         2. to open unread if it is visible there
+         3. to open the account view if it is not visible there
+</code></pre>
+Fixed<p><pre><code>    * Double-clicking a note to insert into mail when replying
+    * Replying to a message and the cursor is invisible
+    * 8 bit not being the default content-transfer encoding
+    * Changing a mail account breaks the automatic encoding selector
+    * Opera Mail welcome message encoding and other strings
+    * Reopening a HTML draft with ""prefer plain text"" and HTML source shows in compose window
+    * Pasting a message and the paste buffer is cleared
+    * An old draft being shown on reopening
+    * HTML keyboard shortcuts working in plain text mode
+    * Mail client selection dialog not being displayed on first mailto click after an upgrade
+    * Chat connection status for multiple accounts
+    * Adding a large attachment to a message prevents e-mail composition
+    * Plain text e-mail composing
+    * Setting ""Open with other application"" to ""Opera"" for mailto
+    * Printing mail which resulted in an empty page
+    * Doing ""Synchronization"" on POP3 mail check
+    * Importing mail stops when files are open
+    * Disabling spell checker in multiline edit boxes causing a shut down
+    * Title in IRC channels equalling the title shown in the app window title bar
+    * Ability to paste into inline find in mail view
+    * Decoding error when writing an HTML mail with a non-ASCII character
+    * Text not fitting in several dialog boxes when switching to the Romanian language
+    * Signature not changing when changing an account
+    * Links opened from mail and newsfeeds not loading when focusing on another mail/feed entry
+</code></pre>
+Display and scripting
+Added<p><pre><code>    * An Open Folder menu item to the file browse control
+</code></pre>
+Improvements<p><pre><code>    * Web fonts loaded in memory and the font name retrieved
+    * FormatBlock now correctly affects ancestors of the contentEditable element
+    * browser.js can now be disabled when doing auto update
+    * DOMContentLoaded now fires when traversing history
+    * Support for getting localized strings from JavaScript
+    * Max values now set for the automatic memory cache
+</code></pre>
+Fixed<p><pre><code>    * Onload script not executing in frameset where one frame's src is set to ""#""
+    * Hardcoded strings in XML files
+    * Scope when defining getter for the HTMLElement document prototype
+    * Regex [^x]* failing to match certain characters
+    * Recursive regular expression causing stack exhaustion
+</code></pre>
+Network
+Added<p><pre><code>    * A link on the error page for cross-network communication
+</code></pre>
+Security
+Added<p><pre><code>    * Full set of padlock icons for security dialog box
+</code></pre>
+Improvements<p><pre><code>    * Improvements made to prevent spoofing of services
+</code></pre>
+Fixed<p><pre><code>    * Recognizing EV certificates issued directly from the Root
+    * Importing certificates
+</code></pre>
+Miscellaneous
+Added<p><pre><code>    * A placeholder in Opera Turbo for plug-ins that are not loaded yet
+    * Functionality for switching Opera Turbo mode off for separate image elements
+</code></pre>
+Improvements<p><pre><code>    * Now possible to add Opera Turbo configuration files per language
+    * Improved anti-spoof checking
+</code></pre>
+Fixed<p><pre><code>    * Loading an automatically saved session
+    * Various dialogs with third-party mouse plug-ins installed
+    * High memory use related to the disk cache on huge torrents</code></pre>",1247752059
+707903,comment,707552,707742,0,0,jacquesm,,,"what is the trend in the audience sizes of those groups like ?",1247751930
+707901,comment,707552,707862,0,0,jacquesm,,,"That's extremely interesting. Thank you!<p>The funny thing is while coding that stuff the bigger problems were financial and the enormous amount of cruft that is the web. The actual search engine wasn't that hard at all.",1247751850
+707900,comment,707647,707647,0,0,iuguy,,,"I used to watch a lot of TV. Then I got an AppleTV. This combined with Boxee meant that for about a year I only watched what I wanted to watch when I wanted to watch it. My wife didn't really like this so much but our digibox died recently (I'm in the UK) so we're back to 4 channels + a rather poor reception of channel 5. The quality of the shows (if quality is the term you'd use) is so abysmal that I can't be bothered putting it on.<p>Recently we've been listening to music in the evenings instead or watching content on the AppleTV, it's much better and we talk more.",1247751845
+707899,comment,706202,707709,0,0,electromagnetic,,,"A company giving positive reviews as non-existent customers on consumer products for money is fraud. I worked as a reviewer and I worked hard to be honest and genuine, this kind of BS that goes on on amazon.com and places is insulting to all reviewers because generally you work very hard and don't get nearly enough pay.<p>Oh BTW your house is at risk with virtually any company you start until you get limited liability, so I don't really get what point you're trying to make. Almost anyone can start an ULC for the very reason that if you fail and get hugely in debt (like a large amount of companies do) then the bank still gets its money. You either need to have the money to cover your expenses up front, or you risk losing your home.<p>My father has run a business all his life, but all the important stuff was always in my mothers name and never joint so if he ever had a problem the house and cars weren't going to disappear without a major fight.",1247751838
+707898,story,,,4,0,clawrencewenham,"The Nature of Failure Modes",http://sites.google.com/site/yacoset/Home/the-nature-of-failure-modes,,1247751704
+707897,story,,,2,1,fiaz,"Will Twitter Sue TechCrunch?",http://www.pcworld.com/article/168511/will_twitter_sue_techcrunch.html,,1247751691
+707896,comment,707759,707759,0,0,mlLK,,,"C'mon guys, duplicating duplicates? Really? <a href=""http://news.ycombinator.com/item?id=542177"" rel=""nofollow"">http://news.ycombinator.com/item?id=542177</a> broken submission filters + an influx of noobs = :( user",1247751674
+707895,comment,706488,707393,0,0,jemmons,,,"Please note ""<i>especially on user-facing interfaces</i>"" above. The Pre identifying itself as an iPod in a protocol is not an issue. The problem is that doing so ultimately advertises to the user that the Pre <i>is</i> an iPod via dialogs, icons, and other interface verbiage.<p>If for Internet Explorer to ape Mozilla/4.0 compatibility, it had to momentarily change its name, icon, and all user-facing interfaces to match Firefox so that one could not distinguish between an actual instance of Firefox and the ""IE-in-fox's-clothing"", you can bet that the Mozilla foundation would be peeved. Aside from legal considerations, what if IE-with-firefox-dress crashed all the time and people wrongfully blamed Firefox for this sorry state of affairs?",1247751656
+707894,comment,707204,707794,0,0,icey,,,"The question is whether they will be left with enough business to stay alive. I'm positive their bread and butter is windows issues. Why would anyone go see the Geek Squad with a Windows issue when they can go see ""the Microsoft guy""?",1247751649
+707893,comment,707634,707828,0,0,garply,,,"Why not? They could make a hell of a calendar.",1247751608
+707892,comment,707647,707729,0,0,petercooper,,,"Note that people who feel smug about not owning a TV (not saying that you are in this group, but it does exist) are more likely to cast a vote here, skewing the results.<p>The results so far are almost 60/40, which I find intriguing from a personal point of view because I've never known a single person in real life who didn't own a TV - geeks and otherwise.. correlating somewhat with the ""official"" figures of 98-99% penetration.",1247751599
+707891,comment,706657,707859,0,0,gaius,,,"Same here, I alternated between being a lifeguard and being a freelance coder and technical writer. Did a bit of studying in my free time...<p>But you can earn money anytime, I shouldn't have been so impatient.",1247751511
+707890,comment,706343,706430,0,0,thenduks,,,"In that case you will need to stay away from all laptop manufacturers that use LG-Phillips panels.",1247751423
+707889,story,,,9,7,rick888,"Amazing new css and 3d features",http://www.browserinsider.com/148/amazing-new-css-and-3d-features#,,1247751356
+707887,comment,707647,707647,0,0,mlLK,,,"Anyone else only watch cartoons?",1247751318
+707886,comment,706999,707353,0,0,alxp,,,"StackOverflow does some pretty clever things like using JavaScript to dim or hilight questions on the front page based on the user's Ignored or Interested tags, instead of generating a unique set of front page items HTML for every user.",1247751313
+707885,comment,706343,706343,0,0,thenduks,,,"WOW. I'm finding this hard to believe. So the MacBook Pro 13"" doesn't have an 8bit display, that's a little lame, we agree. But, here's the problem. You were <i>in</i> an Apple store and used the laptop and didn't notice. Then you took the laptop home and somehow 'found out' it doesn't support the millions of colors you apparently need (I'm no designer so I have no appreciation for this)... So... go back to the store and do the same 'check' you did for this laptop on a 15"" model -- if it passes, problem solved, if not... well, maybe you should just do your designing on your 30"" cinema which you now have working after receiving a $70 discount on the adapter (granted a $70 discount - the pain involved in not having it for a week or whatever). /rant",1247751264
+707884,story,,,4,0,vollmond,"Human Interfaces",http://www.openthefuture.com/2009/07/human_interfaces.html,,1247751133
+707883,comment,707647,707845,0,0,sree_nair,,,"Totally Agree. It's Just another level of idiotisam. 90% of the time is wasted on the Net.",1247751128
+707882,comment,707732,707732,0,0,nailer,,,"Why can't I just visit firefox.com, have it detect my OS, and provide a dpkg to install?<p>Firefox seems to dedicate less resources to Linux than OS X and Windows. That may be in keeping with their market share, but its certainly not doing their fellow Open Source brethren any favors.",1247751046
+707881,comment,707014,707329,0,0,stuff4ben,,,"Sure he might have a sincere message in the end, but the way in which it is presented gives the impression that the guy is a 5 year old throwing a tantrum.  It's not the curse words that bother me, it's the childishness and unprofessional way that he presents his arguments.",1247751038
+707880,comment,706711,706829,0,0,cakeface,,,"I run around Boston on sidewalks and in the road and it doesn't tear up your feet too bad.  The first few times I had a couple of blisters but lately I've been fine.",1247751030
+707878,comment,707552,707558,0,0,erlanger,,,"You're not alone, but you're likely in the minority. They've built up a nice little data ecosystem, and I for one love Yahoo Sports. The journalism is so-so, but being able to get a player's Game Log/other stats quickly is something I value, and it seems like all of the other sports sites have conspired to make sports data load slowly as all hell. It's gotten to the point where now I'm more likely to search ""clinton portis yahoo"" than the player name alone. It's also nice that they treat the NHL as one of the major sports (which it is).",1247751003
+707877,story,,,3,2,beeker,"Footprint webapps",,"I'm looking for (carbon) footprint webapps. Anybody seen some inspiring my-carbon-footprint calculating webapps?",1247750980
+707876,comment,707647,707647,0,0,sree_nair,,,"No. 2 Years back When I ended up in a Room Share where there was no TV, It was suffocating for me, the TV addict. But then something nice happened. I started reading more books, Going out more, Went to bed early, Had more time in general. So When I moved to a flat, I decided No TV. And it worked out nicely.<p>But guess what, I am slowly turning into an internet addict now :). Now I had to start going to the swimming pool to avoid being a couch potato with my Laptop !.<p>With TV, there is always one more channel to check before you turn it off. With the net, it's one more link to check out !!.",1247750759
+707875,comment,707552,707558,0,0,tokenadult,,,"I use Yahoo Groups email lists every day. They have been enormously helpful in strengthening and building the parent networks formed through the statewide nonprofit organization of which I am now president. I was brought on the state board of directors of the nonprofit in 2003 largely because I knew how to apply Yahoo Groups technology to build cohesion in the organization and its chapters.",1247750742
+707874,comment,707647,707782,0,0,thismat,,,"""- There's a lot of smalltalk I can't engage in, you might not notice but there's a lot of references to TV personalities in daily interaction with people.""<p>Heh, I know exactly how you feel. Normally I'm fine with being left out of those conversations though.<p>""- When I watch television somewhere I instantly think how much facade and how little information the medium contains. This has gotten worse over the years.""<p>This is also spot on, besides it feeling like a facade, it also is very very boring.",1247750702
+707873,comment,707647,707843,0,0,jgrahamc,,,"That was my reaction.  But now I know (<a href=""http://en.wikipedia.org/wiki/Jordan_%28Katie_Price%29"" rel=""nofollow"">http://en.wikipedia.org/wiki/Jordan_%28Katie_Price%29</a>) Don't click that link unless you really want to know, some things can't be unlearnt.",1247750603
+707872,comment,707014,707805,0,0,gaius,,,"If you are using a language that is amenable to it, you can refactor at will and the IDE will verify its correctness.<p>Many people use unit tests as a crutch for a lack of strong typing.",1247750587
+707871,comment,707776,707838,0,0,michael_dorfman,,,"Unfortunately, it's more like spitting in the ocean.  As of 2007, the worldwide spam estimate was about 100B messages <i>per day.</i>",1247750575
+707870,comment,707647,707839,0,0,thismat,,,"Honestly, I know the reply to this has a valid point about ""idiot net"", but I feel the same way as you.<p>Except I grew up with the TV always on, even if no one was watching it, it was running, when I moved out, I avoided cable and TV for a while, too busy really. Now when I visit my parents or my brothers, it drives me up the wall that the TV has to constantly be running.",1247750567
+707869,comment,707620,707620,0,0,wallflower,,,"I'm wary of uploading health data (however innocuous (weight) to the web). It's only the beginning; the web-connected eScale reminds me of these hypothetical ""Huggies Smart Diapers"":<p><a href=""http://www.wired.com/wired/archive/13.11/images/found.jpg"" rel=""nofollow"">http://www.wired.com/wired/archive/13.11/images/found.jpg</a><p>Also, stumbled across this excellent archive of Wired's previous ""Artifacts from the Future""<p><a href=""http://www.metafilter.com/73510/Artifacts-from-the-Future"" rel=""nofollow"">http://www.metafilter.com/73510/Artifacts-from-the-Future</a>",1247750557
+707868,comment,707034,707034,0,0,GiraffeNecktie,,,"Some of the processes they use at Manning seem a bit archaic. To send a document to multiple people for review, it's vastly more efficient to use Adobe Acrobat to convert it to the the version of PDF that's enabled for markup using just the free Adobe Reader. You can then put the document on a website or Acrobat.com where everyone is looking at the same instance of the document and, most importantly, everyone can see the previous comments. That way, if one review says something dumb, another reviewer is likely to pick up on it. You can then bring all the comments back into a Word file.",1247750552
+707867,comment,707639,707851,0,0,jgrahamc,,,"Boy, some people really don't like Michael Arrington.",1247750485
+707866,comment,707634,707793,0,0,pxlpshr,,,"we just had a debate on this a week or two ago on HN. the eternal optimism of a hacker is usually a sign of inexperience, imo.<p>so sure, a few MIT students could ""roll their own"" in 12-18+ months. It likely still won't be as feature complete nor user friendly, and they spent 25% of their university time re-inventing the wheel.",1247750437
+707865,comment,707639,707858,0,0,jgrahamc,,,"You think I don't know Michael Arrington's email address, or how to verify that it's really him?",1247750418
+707864,comment,707714,707757,0,0,axod,,,"The US is typically 2-3 years behind when it comes to this sort of thing...",1247750401
+707863,comment,707639,707846,0,0,jgrahamc,,,"Uh. No.",1247750395
+707862,comment,707552,707696,0,0,Keyframe,,,"<a href=""http://www.80legs.com/"" rel=""nofollow"">http://www.80legs.com/</a> - jdrock, founder, is around here on HN",1247750386
+707861,comment,707634,707745,0,0,mahmud,,,"Have you seen what's been coming out of MIT Press in the last 8 years? They went full on pop-psych with their ""internet and society"" type publications. I have seen books on gamer anthropology, virtual currency and the ""web mind"" sort of stuff coming out of MIT Press. A weird cross between Wired and Kuro5hin. They want to create ""leaders"" and ""visionaries"", i.e. people who make it to business magazine covers dressed in geek-chic lab-coats, holding microscopes and calculators, while in reality, running a fully outsourced bio-startup out of Manhattan :-D",1247750373
+707860,comment,706124,706691,0,0,wizard_2,,,"When is that coming back online?",1247750343
+707859,comment,706657,707599,0,0,mgrouchy,,,"Or you could be me and work close to full time the entire time you are in university so you aren't in ridiculous debt when you leave.
+(that being said, I would have done much much better in my undergrad if I hadn't of done that)",1247750313
+707858,comment,707639,707846,0,0,TweedHeads,,,"Hey it is me, Michael Arrington.<p>Please tell me which machine it is, send info to:<p>michaelarrington@mailinator.com<p>Thanks!",1247750299
+707857,comment,706940,707149,0,0,fsniper,,,"And not for Turkey..",1247750290
+707856,comment,707647,707647,0,0,nollidge,,,"None of the above, I guess: I have a TV, but it's really acting as a monitor hooked up to a PC so I can watch shows online on-demand (using hulu or pbs.org or whatever)",1247750289
+707855,comment,707732,707849,0,0,tan1337,,,"Will the updates work in this case ?",1247750260
+707854,comment,706346,706658,0,0,boundlessdreamz,,,"Say there are 3 million chrome users. 700 KB * 3 million = 2.1TB. That is quite a lot of bandwidth. They are not trying to reduce the costs. They are trying to minimize the time it will take to push an update to all users.<p>If they set the time interval of update check to 1 hour, then they have 1 hour to push out this data. If they can reduce the data by 10 times, they can schedule the update check more aggressively.",1247750227
+707853,comment,707466,707466,0,0,adharmad,,,"Why not use Threads and communicate via a flag or callback?",1247750219
+707852,comment,707718,707812,0,0,silentbicycle,,,"I'd never heard of Omega - it looks like it combines prototypes with optional static typing. I ordered the book, looks very interesting. Thanks!<p>It doesn't mention Lua, either, and Lua is used a lot in e.g. the game industry. It does mention Javascript, albeit as an afterthought.<p>Also, Slate: (<a href=""http://slatelanguage.org/"" rel=""nofollow"">http://slatelanguage.org/</a>) (Never used it, though.)<p>I'm glad to see mainstream interest in prototype-based OO building.",1247750200
+707851,comment,707639,707790,0,0,TweedHeads,,,"Make him sweat for 24 hours before giving any clue, so other hackers can put their mad skillz to test.<p>If they break in that wouldn't be your fault.",1247750199
+707849,comment,707732,707732,0,0,thenduks,,,"My version:<p>- wget <a href=""http://www.mozilla.com/products/download.html?product=firefox-3.5&os=linux&lang=en-US"" rel=""nofollow"">http://www.mozilla.com/products/download.html?product=firefo...</a><p>- make && sudo make install<p>- change symlink at /usr/bin/firefox to point to new binary",1247750168
+707848,story,,,5,0,smikhanov,"20 Intermediate Haskell Exercises",http://dibblego.wordpress.com/2008/09/18/20-intermediate-haskell-exercises/,,1247750162
+707847,comment,705894,706235,0,0,thelonecabbage,,,"Group health care plans (what your employer gives you) are given largely without consideration for the health of the individuals involved. Basic tests, like making sure you don't have a major heart problem and pee tests are involved but thats it.  Friends of mine who have a business with only 3 employees listed me as one of their employees to get the number up to four.  Some how I was registered whilst living in another country.<p>And I believe there are already laws on the books about pre-existing conditions (assuming you have continuous coverage)",1247750131
+707846,comment,707639,707790,0,0,scorpion032,,,"Would you also let know, which machine it is, if _someone else_ mails you.",1247750124
+707845,comment,707647,707839,0,0,axod,,,"Come now. Is the internet <i>really</i> all that much better for people? seriously?<p>You could easily call the internet the 'idiot net'. People under the delusion that their opinion matters, mindlessly posting inane useless comments like this one.<p>Many of the biggest sites out there serve no real use other than to waste peoples time.",1247750116
+707844,comment,706711,707657,0,0,San,,,"It's the cheap kind ($5 or $10) you can get at sport outlet stores or even large super markets. They have a TPR (rubber) outsole and an EVA (foam) insole (which I removed). The upper part made from nylon mesh and some thin neoprene.<p>But going barefoot allows my feet and toes to flex freely and feel the surface. I am able to use parts of my feet and legs that used to be constrained by my running shoes (most notably my arches and calves). Because of this, my running gait has changed a lot. After years of pounding the pavement (striking heel-first) I am able to run smooth and easy, and it feels great.<p>Thanks to this new running style, there is hardly any wear to the soles. I think they will last around 500 miles. After that, I'll just spend $10 on a new pair.",1247750089
+707843,comment,707647,707824,0,0,mixmax,,,Who?,1247750033
+707842,comment,705810,705810,0,0,brown9-2,,,"Link to actual paper: <a href=""http://www.gmu.edu/jbc/Tyler/turingfinal.pdf"" rel=""nofollow"">http://www.gmu.edu/jbc/Tyler/turingfinal.pdf</a>",1247750021
+707841,comment,707228,707725,0,0,skwiddor,,,"modding me down doesn't make it false<p>If you remember SCO made exactly the same threat, and though it didn't work out that way, it is still a legal recourse where the infringer is outside of jurisdiction but the customers aren't",1247750004
+707840,comment,707634,707825,0,0,mahmud,,,"If it was Sendmail, maybe. But not Cyrus IMAP.<p>(for the uninitiated; read the ""Internet Mail"" chapter of Unix Hater's Handbook for MIT admins struggling with Sendmail, circa 1990 ;-)",1247749952
+707839,comment,707647,707762,0,0,cousin_it,,,"<i>Not having a TV when you have kids is borderline abuse IMHO.</i><p>For me, <i>having</i> a TV at home when I was a kid was borderline abuse. I've considered it the idiot box for as long as I can remember myself, which would be since about three years old.<p>When I first moved away from my parents to live with my then-GF, she kinda wanted a TV but I firmly said no.<p>I've never had my own TV and never will.<p>I can't stand being in the same room with a running TV. I always ask to mute it at least; if that isn't possible, I leave the room or cover my ears. The issue isn't the noise; it's those horrible fake intonations that everyone uses on TV.",1247749897
+707838,comment,707776,707776,0,0,jacquesm,,,"Sending out 300M+ spam messages to do research ? That's a little over the top isn't it ?",1247749847
+707837,comment,707647,707647,0,0,eob,,,"My TV was broken for about 4 months this spring and it was great; didn't miss it one bit.<p>Now that it's back, I find myself watching ~1.5 hours a night again. I should just throw the thing out the window.",1247749814
+707836,comment,707732,707819,0,0,tan1337,,,"Well the blog includes the original author. Only the steps are copied here, not everything.",1247749813
+707835,comment,707634,707807,0,0,itgoon,,,"I tend to agree. I came from an Exchange background, and went all around trying different alternatives. There's nothing out there that quite compares.<p>I'm currently using Zimbra, and it is good enough, but it just isn't as nice. And ""good enough"" isn't really good enough. Whoever wants to topple Exchange is going to have to do better than this ""me too"" crap.<p>How about actually integrating the contacts, tasks, schedules, and email in some intelligent way?",1247749737
+707834,comment,707714,707714,0,0,systemtrigger,,,"The word free sure gets abused. Read Virgin's ad: <a href=""http://allyours.virginmedia.com/html/specialoffers/netbook.html"" rel=""nofollow"">http://allyours.virginmedia.com/html/specialoffers/netbook.h...</a>. To get a netbook you have to spend at least $1600 on a service contract.",1247749709
+707833,comment,706968,706968,0,0,TweedHeads,,,"There are only three spatial dimensions, and time.<p>If you are going to play tricks using color, you may as well use flavors and odors for a sixth dimension visualization (and any other property you may think of for further extending dimensions).<p>I call bullshit.",1247749678
+707832,comment,707634,707807,0,0,skorgu,,,"As loathe as I am to admit it (and I still won't recommend or adminster it) Exchange is reasonably decent for the end user. You need to keep a sacrificial Windows install/VM for the rare cases you need an Outlook-specific feature but most of the daily functionality is accessible from other clients.<p>Between Thunderbird and a Blackberry I only really dip into Exchange to set new filters anymore.",1247749677
+707831,comment,707634,707793,0,0,eob,,,"You'd be surprised at how much home-grown stuff we run around here (I'm a grad student at MIT). All of the school-owned computers still run Athena OS, everyone uses Kerberos, emacs still rules the day..I once saw a secretary use the `finger` command to look up a phone number and couldn't believe it.<p>The problem is all the home-grown stuff is inevitably pretty low-level compared to today's solutions. Sure, there are plenty of hackers around to build OSS replacements for all our needs, but these hackers are students and professors: their main job is to do research, not implement enterprise software.<p>So I think the decision to move to outlook was probably based on the simple fact that it offers a lot of nice features that we don't currently have.",1247749668
+707830,comment,706711,707538,0,0,hs,,,"i like neither, i prefer the 'nipple' (ibm and fujitsu laptops).  touchpads are nice too.<p>i got physical pains from reaching the mouse",1247749633
+707829,story,,,1,0,jacquesm,"Steve Ballmer proves his ticker is fine",http://files.ww.com/files/21895.html,,1247749581
+707828,comment,707634,707793,0,0,trapper,,,"You think that the worlds best minds are spent building a calendar?",1247749555
+707827,comment,707759,707759,0,0,onreact-com,,,"LOL. Great satire. ""Often I am amazed at the pure Salvador Dahli-esque features of IE6. For years I have been trying to achieve the random div placements in any other browser and failed miserably.""",1247749504
+707826,story,,,1,0,emontero1,Meta-Reframing,http://www.artima.com/weblogs/viewpost.jsp?thread=262876,,1247749490
+707825,comment,707634,707761,0,0,blub,,,"Getting on with the times?",1247749490
+707824,comment,707647,707782,0,0,jgrahamc,,,"On the social aspect where you don't get to know about people I had this effect when I returned to the UK after 15 years away.  Since I had no idea who the new, local celebrities were I would find myself slightly alienated from conversations about people such as Jordan/Katie Price.",1247749423
+707823,comment,707634,707737,0,0,Hoff,,,"Apple is moving from Cyrus to Dovecot with Snow Leopard Server.",1247749418
+707822,comment,707714,707714,0,0,onreact-com,,,"They are not free. In most cases you even pay more during the time you pay the fees from the contract that gets you the ""free"" netbook.<p>It's just a new name for credit.<p>You repay the netbook during your contract. German telecoms offer netbooks for 1 Euro all the time but in the end you pay more compared to paying right away for a netbook and then choosing the cheapest telecom.",1247749386
+707821,comment,707639,707789,0,0,gaius,,,"<i>cough</i> Unbreakable Linux <i>cough</i>",1247749382
+707820,comment,706575,707304,0,0,goodgoblin,,,"I think at each stage the vitriol has decreased as a function of the maturity of the solutions.  FastCGI was desperately bad.",1247749362
+707819,comment,707732,707732,0,0,andyking,,,"This blog post is just copied verbatim from: <a href=""http://tombuntu.com/index.php/2009/07/15/install-firefox-35-in-ubuntu-904-using-ubuntuzilla/"" rel=""nofollow"">http://tombuntu.com/index.php/2009/07/15/install-firefox-35-...</a> - except the original has a better written introduction.",1247749349
+707818,comment,706097,706097,0,0,kimovski,,,"This actually makes sense, Google's new policy is to work on problems on a scale that no one else can. Too hot in the data center? Ah, just turn it off and redirect the traffic! :)",1247749341
+707817,comment,707647,707777,0,0,dtf,,,"Yes. Though it would only be legally required for watching a <i>live</i> iPlayer stream. Not quite sure how the dudes in the vans (<a href=""http://www.youtube.com/watch?v=8NmdUcmLFkw"" rel=""nofollow"">http://www.youtube.com/watch?v=8NmdUcmLFkw</a>) detect this though.",1247749292
+707816,comment,706124,706922,0,0,brown9-2,,,"NPR claims some of them were erased: <a href=""http://www.npr.org/templates/story/story.php?storyId=106637066"" rel=""nofollow"">http://www.npr.org/templates/story/story.php?storyId=1066370...</a>",1247749278
+707815,comment,707647,707712,0,0,Retric,,,"I own a really nice 55"" 1080p TV, cable, and a DVR.  However, the last time I turned it on was 3 weeks ago to play though the force unleashed.  As a teen I used to watch TV all the time, but I ended up not having a TV for ~2 years and found it freeing.  I think breaking the cycle of boredom = time for TV has value.  But, so does watching the Olympics in all it's HDTV goodness.",1247749278
+707814,comment,707647,707695,0,0,skorgu,,,"Depending on your definition of ""tv"" I may or may not have one. I do own a digital tuner and a projecter and they are technically hooked up but I only actually used it once to verify that it worked. I find the extra effort of turning on the projector and waiting for the bulb to warm stops me from idly using it.",1247749253
+707813,comment,707714,707779,0,0,brown9-2,,,"Giving one away for signing up for FIOS too.",1247749204

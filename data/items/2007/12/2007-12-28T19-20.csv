@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93296,comment,93216,93292,0,0,brlewis,,,"Cheating would be putting an open paren at the top of the file, a close paren at the bottom, and implementing it in Scheme as<p><pre><code>   (apply + (read))</code></pre>",1198871751
+93294,comment,93216,93217,0,0,Tichy,,,"I don't want to code in Java anymore, but I haven't found a better alternative yet. Did not like Rails.",1198871320
+93293,story,,,6,1,gscott,"Snorting a Brain Chemical Could Replace Sleep... ",http://www.wired.com/science/discoveries/news/2007/12/sleep_deprivation,,1198871270
+93292,comment,93216,93281,0,0,Tichy,,,"I don't think that Java programmer was up to scratch, although admittedly Java won't get as short as Ruby. I would count that readline construct of Ruby as kind of cheating, though. It's a specialized feature that doesn't say much about the brevity of Ruby in general.",1198871213
+93291,comment,93174,93174,0,0,kashif,,,"My silliest yet...<p>#TODO:",1198870551
+93290,comment,93161,93161,0,0,bayareaguy,,,"FreeDup (<a href=""http://news.ycombinator.com/item?id=89078"" rel=""nofollow"">http://news.ycombinator.com/item?id=89078</a>) can work better than either of these when you have lots of small files which are rarely updated.",1198870544
+93289,story,,,2,0,agentbleu,"The Hobbyists Part 2. ",http://startupcrunch.org/the_hobbyists_part_2,,1198869853
+93288,comment,93216,93248,0,0,hello_moto,,,"I dare to bet with you. Give me the exact number. <p>We did research into Ruby/Python/PHP and none could help us more than Java.<p>You know, Rails/CakePHP/Django/TurboGears are not silver bullet.",1198869728
+93287,story,,,21,4,iamelgringo,"Scaling MySQL at YouTube",http://itc.conversationsnetwork.org/shows/detail3299.html,,1198869199
+93286,comment,92946,93128,0,0,zyroth,,,"Anything related to the concept of infinity tends to be hardly understandable in an ""emotional"" or ""intuitive"" way. We can just apply the rules of logic and accept.",1198868593

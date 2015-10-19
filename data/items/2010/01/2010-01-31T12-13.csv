@@ -1,0 +1,74 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1090436,comment,1090384,1090384,0,0,FluidDjango,,,"I shudder to think how routine may be such activity by Chinese corporations.  Imagine sending a not-too-tech-savy sales/marketing dude to China. In the evening he gets 'friended' by a young lady offering a free thumb drive (or herself).  How much training are western corporations giving their international staff about high-tech security?",1264942701
+1090435,comment,1090177,1090374,0,0,Sapient,,,"Heh, one step at a time... Those sound like they can produce headaches.",1264942567
+1090434,comment,1090361,1090361,0,0,raganwald,,,"It can't possibly be good for consumers that any one middleman is so powerful that they can lay a major hurting on MacMillan like this. I really dislike the arbitrage model where the middleman tries to capture all the profit at the expense of the supplier and the consumer. I like the fixed margin model (like Apple's). I think it's good for everybody.",1264942475
+1090433,comment,1089829,1089829,0,0,dmn001,,,"UK, graduate mathematician from Imperial College London looking for entry level position. Specialise in machine learning, financial mathematics, programming: C, C++, Python, Matlab. Contact for CV: dmn001 <AT> gmail.com",1264942350
+1090430,comment,1090177,1090177,0,0,silentbicycle,,,"FWIW, RobertFischer's blog is <a href=""http://enfranchisedmind.com/blog/"" rel=""nofollow"">http://enfranchisedmind.com/blog/</a>",1264941967
+1090429,story,,,11,0,fcesarini,"2010 SF Bay Area Erlang Factory Programme",http://www.erlang-factory.com/conference/SFBay2010/programme,"The preliminary programme for the SF Erlang Factory is now up. Talks from Joe Armstrong, Steve Vinoski and Kenneth Lundin, manager of the Erlang/OTP team at Ericsson.",1264941909
+1090428,comment,1090383,1090419,0,0,olefoo,,,"With which constituency? Authors are, understandably very upset with what they see as a power grab by Amazon. You can get a sense of the sentiment in that community by looking through the comments here <a href=""http://nielsenhayden.com/makinglight/archives/012148.html#012148"" rel=""nofollow"">http://nielsenhayden.com/makinglight/archives/012148.html#01...</a><p>But in a larger sense, most readers understand that authors do need to get paid if the flow of new books are to continue.<p>My take is that Amazon will come to regret this action.",1264941888
+1090427,comment,1089919,1090027,0,0,pavlov,,,"<i>- - Adobe has failed to deliver a major mobile Flash upgrade since early 2007.</i><p>Flash Player 9.4 is shipping on the Nokia N900, and works pretty nicely in the standard browser. Wouldn't that count as a major upgrade? (It's still one version behind the desktop counterpart, but at least it supports all the features of Flash 9 instead of a Lite subset.)",1264941840
+1090426,comment,1090180,1090285,0,0,Raphael_Amiard,,,">and likely OS, too<p>I think it's worth insisting on that too. Their hybrid linux looks horrible, and is lagging terribly. The whole point about the ipad is the whole experience, as with every Apple products.<p>Also the 2 computers in one idea is quite ridiculous if you ask me. I hope they add some sort of sync, but if it is as buggy as their linux OS, it promises to be awful.<p>In short, this is the opposite of an apple product : 
+Bad user experience, useless display of technology, and weak hardware.<p>I'm no fan of apple but it's gonna take a better product to do better than the iPad<p>EDIT : Understanding how software works would be the first step in here. Ubuntu MID looks 1000x times better than their so called OS
+<a href=""http://www.ubuntu.com/products/mobile"" rel=""nofollow"">http://www.ubuntu.com/products/mobile</a>",1264941629
+1090425,comment,1089750,1089750,0,0,Mz,,,"Elitism does have a negative connotation.  I think ""excellence"" would have worked better in the title.  For that matter, I don't really understand why the word ""economics"" is in the title.  The title doesn't seem to fit the article all that well -- at least not to me.  The article is about the culture and design process at Apple, not Steve Jobs per se. Yes, Steve Jobs is intrinsically part of that culture.  He founded the company and he is an important leader within it.  No, you can't really separate the two at this point.  But he isn't actually a one man show.<p>I like the quote used within the article that ""A defining quality of Apple has been design restraint.""  I think that basic idea should have somehow made it into the title, rather than the name Steve Jobs and this incomprehensible, seemingly irrelevant, phrase ""Economics of Elitism"".  Perhaps they could have just said ""At Apple, Less is More"" and then explained why.",1264941570
+1090424,comment,1090180,1090180,0,0,lallysingh,,,"When will hardware makers realize that you can't half-ass (or in this case, 1/8 to 1/16th-ass) the software stack for a new usage paradigm?  Assembled parts does not a system make.<p>Tablet PCs have sucked for years for the simple reason that they just wanted to sell touch-screen, keyboardless laptops.  They're completely different systems from the user's point of view, and just shoving an onscreen keyboard and handwriting recognizer doesn't cut it.  Proper tablet computing is 10 years of user interface and systems research that hasn't (afaik) been done.<p>Notice how apple started with an appliance (an ipod touch) and scaled it up to just be a larger appliance.  They recognized the problem and (not-very-cleverly) avoided it.<p>Sadly, we're going to see more bad ideas like this for a while; there are too many hardware vendors who simply don't understand the whole system stack.  It's no coincidence that the only vendor to do a tablet that wasn't a desktop OS bolted-with-crap is Apple, a full-system vendor.",1264941537
+1090423,comment,1090008,1090318,0,0,demallien,,,"No, your analogy isn't right. Or rather, using your analogy, no one is being prevented from competing with Apple either, all you need to do is build your own wildly successful gadget with AppStore. Easy!<p>No, a better analogy would be to look at how Google restricts use of their APIs.  I remember a couple of years ago, I wanted to geo-code a couple of hundred addresses of handicapped parking spaces in Paris for a handicapped friend.  Google's terms of service required me to pay money for this access, because a couple of hundred hits, run over a few minutes, was considered commercial use of their service.  I didn't have an automatic right to use Google's service in an innovative way.  And indeed, I tried it anyhow, just to see how they reacted, the server stopped responding after the first 50 or so hits.<p>Both companies are very restrictive in how you, as a developer, may use the services that they provide.  And they are both near-monopoly providers of those services. As others have pointed out, both are publicly traded companies that are there to make a profit, and both will put restrictions on developers that they feel are using their systems in ways that <i>they</i> have decided are inappropriate.",1264941515
+1090422,comment,1090180,1090228,0,0,aw3c2,,,"Nothing keeps you from installing your favourite OS on it. And I do not see why they would not provide an option to simply ""add"" the keyboard to the currently running tablet OS if you plug it it.",1264941272
+1090421,comment,1089919,1090146,0,0,FluidDjango,,,"Every time i see a page with flash on it i think,<p>""Sure glad i installed clickToFlash.""<p>[ —not affiliated with CTF... but not a fan of hyperkinetic ads and auto-start videos.]",1264941246
+1090420,comment,1090177,1090374,0,0,mapleoin,,,"you can do that with python generators, too. These don't seem like the most eccentric Haskell features to me.",1264941034
+1090419,comment,1090383,1090403,0,0,potatolicious,,,"You have a point - but bear in mind that ""corporate back room strategery"" in this case involves Macmillan trying to raise prices <i>by 50%</i> for consumers. This isn't David vs. Goliath.<p>In a serious PR war, I don't see how MacMillan can win this one.",1264941022
+1090417,comment,1089800,1090375,0,0,lolcraft,,,"From my understanding of the issue, a scripting language was once a small language with one purpose which quickly expanded to fill all possible needs (e.g. Perl).<p>By this definition C isn't a scripting language, as it was small and stood that way.",1264940961
+1090416,comment,1090041,1090284,0,0,olefoo,,,"I find the rush to judgment on whether the iPad is or is not a success to be wildly premature. We won't really be able to tell until it's been shipping for at least 6 months.",1264940915
+1090415,comment,1089821,1090263,0,0,andrewljohnson,,,"Ok, thanks :)",1264940709
+1090414,comment,1090256,1090402,0,0,moe,,,"True, I should've had my coffee first.",1264940436
+1090413,comment,1089948,1089948,0,0,Tichy,,,"Most iPhone users who are also blogging are tech freaks, who suck up every word Apple lets out. So they know every trick for using the iPhone.<p>Recently a non-geek friend of mine bought an iPhone. She already had if for over a week when I met her and finally showed her how to zoom...<p>Not saying the iPhone interface isn't great, but it is still not problem free.<p>Also, doing specific things might require using iTunes (to buy the required apps), and the iTunes interface is definitely not great.",1264940416
+1090412,comment,1090383,1090383,0,0,patio11,,,"Seems to me that Macmillan threatened to play hardball (see ""extensive and deep windowing of titles"": i.e. we will forbid you to sell our books on your Kindle until after your competitors have sold them to your customers) and Amazon decided Macmillan deserved an object demonstration of who needs whom in this relationship.",1264940046
+1090411,comment,1090008,1090338,0,0,Tichy,,,"Launching a mobile operating system seems very different from launching an iPhone. Possibly the time was just right? People forget that there where mobile phones before the iPhone, and programmable ones, too. You could even buy ""apps"" for them.<p>What changed is the viability of mobile internet. It's only recently that it has become fast enough and affordable enough. Why should Apple be the only company inspired by these new possibilities?",1264940003
+1090410,comment,1089821,1089821,0,0,moe,,,"Cat'alan translation:<p>---------<p><pre><code>  NAME (don't translate this line)
+  =================
+  GAIA GPS
+
+  DESCRIPTION (don't translate this line)
+  =================
+
+  GAIA GPS TURNS UR IFONE INTO FULLY-FUNCSHUNAL GPS HANDHELD.
+
+  USE GAIA GPS 4 HIKIN, BIKIN, SNOWBOARDIN, SKIIN, DRIVIN, RUNNIN, SAILIN, AN OTHR OUTDOOR ACTIVITIEZ.
+
+  * RECORD TRACKZ, WAYPOINTS, AN TAEK GEO-TAGGD FOTOS.
+
+  * VIEW TOPOGRAFIC AN ROAD MAPS. USE MYTOPOO MAPS IN DA US/CANADA, AN CLOUDMADE MAPS ALL OVAR TEH WURLD.
+
+  * DOWNLOAD MAPS 4 TIEMS WHEN U DOAN HAS AN INTERNET CONNECSHUN.
+
+  * DISPLAY SPED, DISTANCE, AN OTHR NAVIGASHUN STATISTICS.
+
+  * SEARCH 4 NEARBY WAYPOINTS AN REPORTS BOUT PLACEZ.
+
+  * IMPORT AN EXPORT GPX FILEZ, BY EMAIL OR 2 EVRYTRAIL.COM.
+
+  PLZ EMAIL US WIF QUESHUNS, BUG REPORTS, FEACHUR IDEAS, AN OTHR FEEDBACK AT GAIA@GAIAGPS.COM. EMAILIN US IN ENGLISH IZ BEST, BUT WE CAN ALSO READ GERMAN AN SPANISH.
+     IF U R GPS ENTHUSIAST, WEÂ??D ALSO BE HAPPEH 2 ADD U 2 R BETA TEST GROUP. BETA TESTERS PREVIEW AN TEST NEW RELEASEZ BEFORE THEY HIT TEH APP STORE, AN HALP GUIDE TEH DEVELOPMENT OV GAIA GPS.
+  
+  _________________________________________
+  IMPORTANT - IPOD TOUCH AN 1ST GENERASHUN IFONEZ
+
+  DIS APPLICASHUN WILL NOT BE FULLY FUNCSHUNAL ON THEES DEVICEZ. TEH GPS RECORDR AN COMPAS WILL BE INACTIV. U WILL BE ABLE 2 VIEW MAPS AN WAYPOINTS, BUT U CANT RECORD TRACKZ, FOTOS, OR WAYPOINTS
+
+  DIS APP HAS ALSO NOT BEEN TESTD ON 1ST GENERASHUN IFONEZ, AN IT WILL RUN SLOWLY.
+
+  DESCRIPTION ADDENDUM FOR LITE VERSION (don't translate this line)
+  =================
+
+  UPGRADE 2 GAIA GPS 2 RECORD TRACKZ OV ANY LENGTH AN DOWNLOAD LARGE MAPS 4 OFFLINE USE. GAIA LITE IZ INTENDD AS TRIAL VERSHUN 4 GAIA GPS.
+
+  KEYWORDS (don't translate this line)
+  =================
+  GPS, MAPS, TOPO, TOPO MAPS, OFFLINE MAPS, OFFLINE GPS, TRAILS, HIKIN, RUNNIN, BIKIN, GEOCACHIN
+
+  BRAZILIAN PORTUGUEES, PORTUGUEES, KOREAN, ITALIAN, MEXICAN SPANISH, AN SWEDISH
+
+  PLZ EMAIL ME AT ANDREW@GAIAGPS.COM 2 TELL ME WUT LANGUAGE U WANTS 2 TRANZLATE DIS TEXT 2. TEH POTENTIAL LANGUAGEZ R BRAZILIAN PORTUGUEES, PORTUGUEES, KOREAN, ITALIAN, MEXICAN SPANISH, AN SWEDISH. DO NOT USE TEH SUBMISON FORM TIL AFTR WE HAS EMAILD.</code></pre>",1264939903
+1090409,comment,1089919,1090012,0,0,InclinedPlane,,,"I don't think it's fair to say that the Hulu developers ""picked"" flash. The number of technologies suitable for displaying video on the web in a reasonable way (pre-html5) is extremely limited, flash is pretty much the only game in town.  Vimeo, youtube, break, etc, they all use flash. Now HTML5 is at least a reasonable alternative for a small fraction of web users but still Flash is the only reasonable option for video on the web today.",1264939508
+1090408,story,,,28,1,nice1,"McPixel, a frivolous lisp hack.",http://ahefner.livejournal.com/17723.html,,1264939473
+1090407,comment,1089919,1090306,0,0,amilr,,,"In most browsers you wouldn't know if it was Flash that crashed or the browser itself. In Chrome it is more explicit.",1264939354

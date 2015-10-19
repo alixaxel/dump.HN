@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+46154,story,,,2,0,danteembermage,"I don't know Lisp, but I know SAS; are my macros Macros?",,"I have been wondering this for quite a while; I write a lot of SAS both for my dissertation and my research assistant duties. As a language it is a very strange beast (For example there are at least three if-then syntaxes (data if, matrix if, macro if, and assuming SQL has an if that's four, at least that I've found so far)). It has a ""macro facility"" which I will do my best to describe given my meager CS vocabulary. A SAS program is interpreted, not compiled, but if a & character is encountered, the program passes to a pre-compiler of sorts and & are translated into code and then interpreted. If && are encountered, they resolve to & and then a second pass with the pre-compiler is run, and so on. I've attached a code snippet below; This takes a data set and divides it into many datasets, one for each unique value in listdataset (I use this to change a comprehensive stock-returns dataset into aapl,goog,etc. returns databases) So, for the first iteration of the loop, dat_&&temp&k. resolves to dat_&temp1. which resolves in the second pre-compile to dat_goog or whatever temp1 was set to by 
+call symput('temp'||left(_n_), tempvar);<p>So, in just a few lines of macro code I can generate volumes of interpreted code. Does this make SAS a dialect of Lisp, or is the ""macro facility"" something else entirely? <p>
+%macro partition(listdataset,dataset, varinquotes, var1, var2, obs);
+data &listdataset.;
+	set &listdataset.;
+	tempvar = trim(left(&var1.));
+	call symput('temp'||left(_n_), tempvar);
+run;
+%do k = 1 %to &obs.;
+	data dat_&&temp&k.;
+		set &dataset.;
+		if &var2.= ""&&temp&k."";
+	run;<p>%end;
+%mend partition;
+",1187960251
+46153,comment,46095,46095,0,0,Goladus,,,"Results 1 - 10 of about 1,280 for ""when i worked at denny's""<p>",1187959995
+46152,story,,,10,8,farmer,"Scoble: Twitter etc are the next email",http://www.fastcompany.com/magazine/118/the-next-email.html?partner=rss,,1187959639
+46151,story,,,1,0,joshwa," Facebook = Platform + Graph + Feed. It's that Simple. ",http://500hats.typepad.com/500blogs/2007/08/facebook-platfo.html,,1187959524
+46150,comment,45698,45698,0,0,mojuba,,,"I think some high-class programmers don't really need to rewrite code to understand the system or to make changes in it. High-class programmers usually put minimal effort to achieve maximum result.",1187959491
+46149,story,,,1,0,farmer,"MorphThing: Online Face and Picture Morphing",http://www.morphthing.com/,,1187959182
+46148,comment,45698,45698,0,0,berlinbrown,,,"I agree.",1187959053
+46147,comment,46136,46136,0,0,eposts,,,"First it was the ""we are the dot in dotcom"", now this :(. ",1187959026
+46146,comment,45644,45644,0,0,staunch,,,"Foggy memory, but either the CIA or KGB embedded tiny prisms in embassy window(s) so it was easy to capture the reflection. Without the prism it seems like this would be a real pain.<p>Here's another awesome way to pick up sound covertly: <a href=""http://www.nsa.gov/museum/museu00029.cfm"" rel=""nofollow"">http://www.nsa.gov/museum/museu00029.cfm</a><p>I'd love to see some instructions how to do that easily. I'd love to try it.",1187958634
+46145,comment,46007,46055,0,0,staunch,,,"According to what statistic? If you mean population count that's not very significant. There's more males under 65 than females in the US/UK. I'd also bet men use the internet disproportionately more.
+",1187957857
+46144,story,,,1,0,amichail,"A history of the Amiga",http://arstechnica.com/articles/culture/a-history-of-the-amiga-part-3.ars,,1187957619
+46143,story,,,1,0,jyrzyk,"Why Applications Suck (Part 1)",http://billmill.org/why_apps_suck.html,,1187957324
+46142,comment,46024,46109,0,0,staunch,,,"He did farm out the work to a random person on ELance (for $2k), his name is Owen Byrne. But he's a Canadian I think, so maybe ""nearshore"" would be more accurate.<p><a href=""http://www.elance.com/p/corporate/community/resource-center/elancer-oct-06.html"" rel=""nofollow"">http://www.elance.com/p/corporate/community/resource-center/...</a>",1187956886
+46141,comment,46088,46088,0,0,pg,,,"<a href=""http://news.ycombinator.com/item?id=46023"" rel=""nofollow"">http://news.ycombinator.com/item?id=46023</a>",1187956835

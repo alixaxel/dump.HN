@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+58297,comment,57868,57999,0,0,AF,,,"I'm sure you know that the idea of using code in templates is controversial anyway. But I do like it, and Mako, imo, solves the issue with Python very well.<p><pre><code>    % for row in rows:
+        * Here is a row: ${row}
+    % endfor
+</code></pre>
+<a href=""http://www.makotemplates.org/"" rel=""nofollow"">http://www.makotemplates.org/</a><p>That's kind of 'hackish', but not bad at all if you ask me.<p>Compared to an ERB snippet it is about the same (though you'd probably use each and a block here in Ruby.<p><pre><code>   <% for row in row %>
+      * <%= row %>
+   <% end %></code></pre>",1190451022
+58296,comment,58291,58291,0,0,bootload,,,"Winer makes a good point here. Don't let the technologists hijack a meaningful and understandable description with something that belongs in a CS lecture. Exclusion comes in many forms, one of them is language. <p>Keep it plain and simple in public.",1190449750
+58295,comment,58025,58135,0,0,soundsop,,,"<i>This side of philosophy tends to suffer from being extremely difficult to understand, but yields much genuine insight for those who take the time to study it.</i><p>Insights such as?<p>",1190449277
+58294,comment,58244,58265,0,0,SwellJoe,,,"But if you have to do new features, you're screwed.  So, yeah, I guess it is the final version...new ones are such a pain.  (I don't dislike C++.  It's fine for systems-level programming.  But I'm not using it for anything else.)",1190448677
+58293,story,,,11,1,rms,"Neutrons not so neutral after all, study says",http://www.cbc.ca/technology/story/2007/09/19/science-neutron-neutral.html,,1190448612

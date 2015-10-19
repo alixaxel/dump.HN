@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25063,story,,,1,0,dawie,"Putting users in charge",http://www.ft.com/cms/s/560c6a06-0a63-11dc-93ae-000b5df10621.html,,1180367967
+25062,comment,25029,25029,0,0,antirez,,,"The term programmer makes me thinking ""we need 100 programmers to meet our deadline!""... stupid concepts like working_code=num_programmers x time and in general that programmers are easily interchangeable.<p>Developer is much better and is able to evoke the idea that it's not just a matter of writing code but there is a design process involved.<p><i>p.s. how can I write a verbatim asterisk? backslash quoting does not work</i>",1180367793
+25061,comment,24959,25045,0,0,antirez,,,"Mi ci vorrebbe una vacanza per girare un po' il mondo infatti ;)<p>Btw, your Italian is fine!",1180367399
+25060,comment,16031,25044,0,0,danielha,,,"That first person sounds like failure to me. A persistent one, however.",1180367198
+25059,comment,25042,25058,0,0,danielha,,,"It's a great situation to be in, but it's not a great problem to have. Worry about this before you launch because turning away potential users isn't a goal.",1180367028
+25058,comment,25042,25043,0,0,r38y,,,"I would say plan for some traffic you can afford, but know of someone that can help you out if you really get into trouble. It's along the lines of ""worry about that problem when you have it, because that problem is a great one to have"".",1180366610
+25057,comment,24535,25054,0,0,aston,,,"Good to know.",1180365704
+25056,comment,24940,24940,0,0,juwo,,,"why is the thread marked dead?",1180365292
+25055,comment,25029,25029,0,0,dshah,,,"I prefer the term developers. Programmers program computers.  Developers develop software (which involves programming computers, but goes beyond that).",1180364868

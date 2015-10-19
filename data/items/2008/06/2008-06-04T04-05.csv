@@ -1,0 +1,101 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+208609,comment,208437,208437,0,0,quellhorst,,,"Any details on using MySQL with this?",1212555485
+208608,comment,206982,207249,0,0,xirium,,,"> the major cost center for PCs is hardware, not software<p>Microsoft has increased the cost of Windows licences while the cost of hardware components has decreased. The result is that the ""free"" copy of Windows that comes with pre-built PCs takes an increasing slice of the costs. If a hardware manufacturer can sidestep the OS cost while providing its customers with a functional computer then it gives them a huge competitive advantage.",1212555369
+208607,comment,208518,208528,0,0,menloparkbum,,,"maybe the moderators are off on a honeymoon, or something?",1212554960
+208606,comment,208518,208594,0,0,logjam,,,"Methinks you get your info from some pretty biased sources, none of which you cite.<p>And your last ""point"" is just plain horseshit.<p>Congratulations to Obama.  You've got my prediction here and now he will be the next president...by a landslide.",1212554938
+208605,comment,208303,208441,0,0,hugh,,,"Really? Which magic bin is that? I've got a PhD from a foreign university and I'd like to get a green card at some point in the future. (Haven't started looking into it yet, still on a J1 visa.)",1212554846
+208604,comment,207684,207943,0,0,falsestprophet,,,"Hey, I my research is heading in that direction. Maybe we can help each other out. (Although, I suspect I may not have much to offer yet.) Send me an email if you have time (purdue.edu walshmj). Thanks.",1212554604
+208603,story,,,9,4,markbao,"Third-party iPhone applications to arrive Monday",http://news.cnet.com/8301-13579_3-9958320-37.html,,1212554433
+208602,comment,208518,208595,0,0,jobeirne,,,"Whoops, I meant 'Go Barry!'",1212554423
+208601,comment,208480,208480,0,0,bprater,,,"Hrm, I submitted the same link two days ago.",1212554385
+208600,story,,,2,0,markbao,"Icahn Steps Up Yahoo Attack, Seeks Yang's Removal from CEO",http://online.wsj.com/article/SB121251736489942015.html,,1212554334
+208599,story,,,2,0,TheBigRedDog,"Organizations of interest to FOSS developers",http://blog.milkingthegnu.org/2008/06/organizations-of-interest-to-foss-developers.html,,1212554326
+208597,comment,208495,208591,0,0,Mystalic,,,"No, it's not just you.  It's PR bull basically.  The good HN job posts are witty, humorous, and get to the point without any BS.",1212554043
+208596,story,,,1,0,psogle,"Ten Essentials for a Web 2.0 Entrepreneur",http://community.izea.com/blog/2008/06/ten-essentials.html,,1212553722
+208595,comment,208518,208518,0,0,jobeirne,,,"Let's hear it for a crippling capital gains taxes!",1212553667
+208594,comment,208518,208566,0,0,mynameishere,,,"If I could legally bet against him I probably would. McCain is an idiot. He's old. He's ugly. He's got awful cancer scars. He's sick as a pike. He's a hypocrite. He's a criminal. He's (possibly) insane. I'm aware of his faults, but I'm also aware that none of them ""stick"". Obama and his various followers have consistently broken a key rule of politics: Do not insult the voters. I expect more of the same.<p>Obama is a pyschologically interesting person, and I can't help hoping he wins, in a way. (Only because it would be interesting, though). McCain is as interesting as Franco, which is to say: Not at all. Obama, by contrast, grew up politically as a strict identity-politician. That is, a ""black"" politician, who mainly tried to divert public money and favors to a particular race. Read his bio. This attitude is somewhat artificial and I'm not sure that he has the sort of natural bigotry of Jesse Jackson or Sharpton. Nonetheless, his politics are damn close.<p>His goal now is to divorce himself from his past: First, whatever his ""real"" personality is, plus the somewhat phony personality he concocted during his Chicago inner city days. He's got a lot of contradictions to cover up, and a lot of hard acting to do. I think he'll crack, frankly, before it's over.<p>Another thing: He's a wimp. Wimps lose. McCain is a bully. Bullies win.",1212553391
+208593,comment,208549,208549,0,0,akd,,,"This not new. The phone etiquette since Day 1 has been that the person who made the call, redials.",1212553375
+208592,comment,208518,208575,0,0,breily,,,"You could say that about basically any politics story - the point is that when politics are involved, discussions like this one happen.  Politics has made Reddit's frontpage basically unreadable to me, and I would hate to see that happen here.",1212553324
+208591,comment,208495,208495,0,0,dshah,,,"Perhaps I've had a long day, but this feels a bit like recruitment spam to me.",1212553303
+208590,story,,,4,0,jlhamilton,"Don't Phage Me, Bro",http://blog.diybio.org/2008/05/dont-phage-me-bro.html,,1212553288
+208589,comment,208456,208456,0,0,johns,,,"<i>do all ASP.NET websites really require a VPS/dedicated server</i><p>No. A shared hosting plan will go a long way. From my experience the biggest performance issues with hosts have been with shared SQL servers with hundreds or thousands of dbs on them. I have not used SQL Express in a shared environment, so I can't comment on the performance of that scenario.<p><i>I'm guessing I would be running IIS</i><p>Correct<p><i>Would Windows Server 2003 be difficult to set up and manage from someone who is used to setting up Linux servers</i><p>No. The concepts are the same. You may find IIS limiting (no built in mod_rewrite for example) but you should be able to find your way around any limitations. The problem with running your own Windows server is that you have to become a Windows security expert. You can't know enough about how to secure a Windows box (and yes, it can be done). If you don't want to manage the server and security, there are plenty of managed hosting services.<p><i>On the same note, how memory-intensive are simple ASP.NET websites?</i><p>As memory intensive as simple PHP sites. The sites will use as much memory as you program them to. ASP.NET itself is not memory intensive. You can run a ton of small-traffic sites on a single box, although I'd recommend more RAM but that's for Windows and not ASP.NET specifically.<p><i>would I need to pay anything in terms of licenses</i><p>Nope. The Windows license is included in the hosting fee. SQL Server on a shared server will likely be included, SQL Express is free. If you get a VPS and want to run your own full-blown SQL Server instance, you will need to pay for it and it's expensive. Some hosting companies offer SQL licenses payable per month. Visual Web Dev and SQL Express are free to download and use, including for commercial sites.",1212553222
+208588,comment,208492,208492,0,0,ca98am79,,,"I've been taking resveratrol for months and I have definitely noticed an increase in endurance.",1212553131
+208587,story,,,1,0,markbao,"Democractic Nomination: Twitter, Blog, and Nominee Website Activity",http://www.web-strategist.com/blog/2008/06/03/democractic-nomination-twitter-activity-and-blog-activity/,,1212553121
+208586,comment,208229,208229,0,0,randy,,,"Adventure time!<p>> Do you actually want to work in a large dev team?<p><pre><code>  -- Yes
+
+    >> Why ?
+
+      --- Want to gain knowledge about 'working in a large dev team'
+
+         >>> Why?
+
+            ---- Because... it might be useful?
+
+                >>>> You're stupid.
+
+            ---- Don't know.
+
+                >>>> You're stupid.
+
+            ---- Some actually valid reason.
+
+                >>>> Wonderful! Please state it next time.
+
+      --- Want to learn about [insert hard thing here].
+
+         >>> What's stopping you?
+
+            ---- Nothing.
+
+                >>>> Damn strait!
+
+            ---- Not motivated enough to learn it by myself.
+
+                >>>> Join a start-up dealing with [insert hard thing here].
+
+                    ----- But... but... it's against my entrepreneurial spirit. (Which, by the way, please don't lump together with the hacker spirit, you insensitive clod!)
+
+                         >>>>> Wipe off your wah-wah tears?
+
+      --- Want to be around people.
+
+         >>> Hint: The open source community doesn't hit up bars after work.
+
+      --- Need large team experience to tackle cool problem X.
+
+         >>> Are other people tackling cool problem X?
+
+            ---- Yes.
+
+                >>>> Join them.
+
+            ---- No.
+
+                >>>> You don't need large team experience. Take your passion and just get to work.
+
+      --- Don't know.
+
+         >>> Read 'Getting things Done'. Also: You're stupid.
+
+  -- No
+
+    >> Then why did you post this?
+
+      --- Because you're silly.</code></pre>",1212553086
+208584,comment,208229,208402,0,0,edb,,,"To my credit, I also tend to recognize that I fall into the trap of learning new things because I like to learn new things and never use them. This is the same trap that catches you always starting projects and never finishing them.<p>Learning a new language to me would be just that; starting a NEW project. Instead, I'd like to take something I know well and learn to do <i>even more</i> with it. That to me would be an educational effort well spent.<p>In that vein I feel that working with other devs who code at my level on a collaborative goal would be something I have yet to experience and that I think I could learn alot from.",1212552930
+208583,comment,208518,208564,0,0,breily,,,"How are we supposed to find out who voted it up and ban them?  We're not mods (at least I'm not).  The best we can do is express our distaste at the fact this that is on the front page.",1212552828
+208582,comment,208518,208580,0,0,rms,,,"She actually said they were mistaken? From what I watched of her speech she completely ignored the issue.",1212552740
+208581,story,,,1,0,atduskgreg,"RailsConf 2008 Lightning Talk Roundup: 36 Talks in 3 Days",http://www.urbanhonking.com/ideasfordozens/2008/06/railsconf-2008-lightning-talks.html,"Including such subjects as git and lighthouse integration, projects for managing everything from ec2 deployment to the arduino microcontroller, and the usual Zenspider rant.",1212552684
+208580,comment,208518,208518,0,0,andreyf,,,"This sucks for the Democratic campaign in '08 - Obama/AP/CNN says he will be nominee, Hillary campaign says they are mistaken, Democratic party can't say much until the convention. Doesn't seem like much of a time of unity... hopefully, we'll all come together by November.",1212552681
+208579,comment,207440,208335,0,0,jfarmer,,,"The people who engage in it don't call it theft or piracy.  At least not any of the ones I know.",1212552654
+208578,comment,208518,208518,0,0,rms,,,"If anyone wants to read his tech policy, here it is. This election is a battle for net neutrality.<p><a href=""http://www.barackobama.com/issues/technology/"" rel=""nofollow"">http://www.barackobama.com/issues/technology/</a><p>The education policy is also good, it basically comes down to ""spend more money on education.""<p><a href=""http://www.barackobama.com/issues/education/"" rel=""nofollow"">http://www.barackobama.com/issues/education/</a>",1212552644
+208577,comment,208542,208567,0,0,ykristiawan,,,"Basically it is similar to a simple accounting system. Thanks.",1212552582
+208576,comment,208518,208569,0,0,rms,,,"The man has his own social network to recruit volunteers.",1212552563
+208575,comment,208518,208545,0,0,helveticaman,,,"I think it is relevant to hackers.  It might not be hacker-specific, but it significantly affects all kinds of things, many IP related.",1212552488
+208574,comment,206764,207022,0,0,nertzy,,,"“I skate to where the puck is going to be, not where it has been.” --Wayne Gretzky",1212552434
+208573,story,,,1,0,prakash,"The 6 Markets You Need to Know Now",http://adage.com/cmostrategy/article?article_id=127428,,1212552401
+208572,comment,207924,207934,0,0,helveticaman,,,"Their specs sound a lot like Ycombinator's.",1212552396
+208570,comment,207684,208510,0,0,BenS,,,"I think the goal is to create a new source of renewable energy. I think the right oil company could be part of the process...all that said, 'if you solve it' is a pretty big if :)",1212552266
+208569,comment,208518,208518,0,0,MaysonL,,,"One point to bring it on topic: Obama has by far the best use of the Internet any candidate has ever had. From fundraising to volunteer recruitment to local organization to event coordination, he blows the competition away.",1212552127
+208568,comment,208437,208437,0,0,bprater,,,"Appears to be tightly bound to Rails.",1212552119
+208567,comment,208542,208542,0,0,smoody,,,"That depends on the specifics of the application and the traffic it receives. Perhaps you can tell us more about the application?<p>There are a subset of applications that App Engine is perfectly suited for at this specific point in time, but it is tough to give you an answer without more information.",1212552030

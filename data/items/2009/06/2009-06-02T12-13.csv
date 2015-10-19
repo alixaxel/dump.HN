@@ -1,0 +1,85 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+637726,comment,637676,637712,0,0,burke,,,"The increased productivity of writing in a scripting language typically outweighs the cost of extra servers. Whereas with a desktop application, you only have X resources to allocate to a task, you can always ""just throw more servers at"" a web application to some degree.<p>It is done occasionally though; last I heard, large portions of Amazon.com were written in C.",1243947473
+637725,story,,,1,1,fromedome,"Twitter's Next Project: Location",http://www.businessinsider.com/one-of-twitters-next-projects-location-2009-6,,1243947431
+637724,comment,637676,637676,0,0,niyazpk,,,"In web the model is different: You develop an app, push it live and find out what works and what does not, change and iterate.<p>This means that doing the iterations with minimum time and effort are important than worrying about scalability and performance.<p>You can always throw hardware at the perfortmace problem. If you get enough traffic to become worried about performace, that itself is the mark of success. But to become successful, first you must build the app and get it live somehow instead of worrying about performace issues or wasting months coding in some very low level language!",1243947379
+637723,comment,637518,637609,0,0,amalcon,,,"Well, I don't know that it really matters.  If Microsoft knows what they're doing, the only way they're going to release this thing is either bundled with a game that's expected to be popular, or as a part of the next Xbox.<p>Console perhipherals released in other ways have historically not been successful, no matter how good they are.<p>Given this, I'd bank on them shipping the thing with the next Xbox.  That should give them a few years to work the bugs out.",1243947359
+637722,comment,637590,637590,0,0,TweedHeads,,,"Cool hack is cool.",1243947266
+637721,story,,,1,0,muon,"Business.view: Innovation through regulation",http://www.economist.com/business/displaystory.cfm?story_id=13766329&fsrc=twitter,,1243947253
+637720,comment,637648,637648,0,0,keltecp11,,,"Wouldn't a taser be less messy?",1243947235
+637718,story,,,1,0,crsmith,"Ribbit, Sprout join forces for ad campaigns with phone features",http://venturebeat.com/2009/06/02/ribbit-sprout-join-forces-for-ad-campaigns-with-phone-features/,,1243947195
+637717,comment,637065,637567,0,0,pchristensen,,,"<i>Have you ever done business in Tanzania or Senegal or Kazhakstan or Peru?</i><p>Would you want to start a company in any of those places?",1243947193
+637716,comment,637464,637679,0,0,pygy,,,"It would be quite a trump!<p>I'm sure it could be amended to remove that impression, but I don't have the time to look into that now.",1243947186
+637715,comment,637676,637676,0,0,sounddust,,,"It's been done.  <a href=""http://advogato.org/proj/mod_virgule/"" rel=""nofollow"">http://advogato.org/proj/mod_virgule/</a>",1243947129
+637714,comment,637676,637676,0,0,wooby,,,"I wrote the upload and download handlers for droplink.me in C as FastCGIs, anticipating performance problems.  I built it; but they never really came. It was a fun exercise, but if I wasn't interested in having fun with C, I would have written it in a dynamic language.<p>I think the reason there isn't a ""C web development community"" is that programmers are more than willing to trade time for performance.  Safe, readable code can be written in high level languages in a snap. You can see your ideas happen very quickly.  If you run into performance problems (which I think is safe to say is a fairly rare occurrence for the average web developer who produces decent code, in any language), you can a) refactor or streamline what you already have or b) start fresh, lessons learned, in something lower level.<p>An aside: the site <a href=""http://halfbakery.com"" rel=""nofollow"">http://halfbakery.com</a> is implemented entirely as an Apache module.",1243947112
+637713,comment,637035,637363,0,0,gscott,,,"For the longest time I wouldn't have agreed with you but I had a change of heart while exhibiting at this one conference and this 21 year old guy came driving up in an expensive car while my 2004 Chevy Cavalier was being parked.  There is a certain amount of hardship a person can take but it can go too far.  Even going from Ramen to Cup of Noodles would be good sometimes.",1243947091
+637712,comment,637676,637676,0,0,trjordan,,,"Ranting aside, this seems like a valid complaint. Scaling and performance seem to be reasonably important in web applications, so why not write them in C? If the only complaint is the lack of good tools, why not build those tools?<p>Disclaimer: I don't actually work on web apps, and therefore have no experience with these things.",1243947048
+637711,comment,637272,637272,0,0,luccastera,,,"Thanks for putting this together Rusty. I had a good time.<p>For the next one, I think crabs at Quarter Deck would be great.",1243946994
+637710,comment,637617,637617,0,0,pohl,,,"It's tragic that this article even needed to be written, but at least the people the author is responding to are aware that wave is a protocol, huh?  Baby steps...",1243946960
+637709,comment,637676,637676,0,0,jerryji,,,"<p><pre><code>  > So this is why I’m writing a web framework in C.
+</code></pre>
+Why C, why not assembly? In fact, you know what real programmers use? -- <a href=""http://xkcd.com/378/"" rel=""nofollow"">http://xkcd.com/378/</a><p><pre><code>  > Grow the fuck up...
+  > finding Rails developers is fucking impossible...
+</code></pre>
+You grow up<p><pre><code>  > ediblepet.net is proudly powered by WordPress
+</code></pre>
+When will you release your compiled blog platform?",1243946879
+637708,comment,637518,637609,0,0,whatusername,,,"Want to clarify and expand on (a) for us?  Impossible is a big word.<p>As to (b) - The voice recog Buzz looked pretty amazing to me.  Some of the mini games - not so much...  The face tracking stuff was cool though.<p>(I think MS might be setting themselves up for a fall though - I agree this comment makes it look like this tech wont work as well as the ad makes it out to be)",1243946843
+637707,comment,637517,637642,0,0,swombat,,,"I'm not joking. I write articles about what I believe to be complex subjects all the time on my blog (<a href=""http://danieltenner.com"" rel=""nofollow"">http://danieltenner.com</a>). Making your ideas intelligible to others is part of the process of communicating them.<p>Just because an idea is hard to communicate doesn't give you an excuse to not even try.",1243946813
+637706,comment,629040,629509,0,0,tocomment,,,"Nice!  Can you add MD to the name?",1243946744
+637705,comment,637590,637673,0,0,jdp,,,"It's definitely a stretch, but most things that are clever are",1243946720
+637700,comment,635784,636152,0,0,frogking,,,"Wouldn't pure functional programming fit <i>that</i> specific bill perfectly?",1243946459
+637699,comment,637581,637581,0,0,spoiledtechie,,,"Very Nice.",1243946420
+637698,comment,637590,637666,0,0,bhousel,,,"Tables ain't done 'til IE6 won't run!",1243946309
+637697,comment,637676,637676,0,0,jimbokun,,,"Not a bad troll.  Not the best I've ever read, but not bad, either.",1243946262
+637696,comment,637464,637625,0,0,RossM,,,"Thanks, the #4 is interesting too, reminds me of Stargate :s",1243946243
+637695,comment,637590,637590,0,0,discojesus,,,"<table></table> ?",1243946201
+637694,story,,,7,0,Anon84,"NASA Uses Semantic Web to Help Power its Constellation Program",http://www.readwriteweb.com/archives/nasa_uses_semantic_web_to_help_power_its_constellation_program.php,,1243946183
+637693,comment,637613,637613,0,0,pmjordan,,,"Wow, I was completely unaware of AoE's existance until now. Although I don't have any immediate practical uses for it, I could see it being pretty useful with a clustering file system like OCFS.",1243946009
+637692,comment,637518,637518,0,0,jimbokun,,,"Microsoft has poured lots of money into basic research R&D over the years, which did not seem to pay off much in terms of popular products.  Apple, Nintendo, Google, etc. seemed to come out with more innovative products, despite spending nowhere close to what Microsoft spends on R&D.<p>This looks like a big exception to that.  Johnny Lee, as a recently minted PhD, certainly knows the state of the art in this field, so if he says it is way beyond what other researchers are doing I believe him.<p>If they can deliver the kind of sensing, voice and face recognition in the demo, along with higher end graphics than the Wii, they should easily own the next generation of consoles.",1243946004
+637691,comment,636586,637496,0,0,conanite,,,"Not at all, on the contrary, thank you. Sometimes my wife comments on my ""original"" colour combinations when getting the kids dressed in the morning. I retort that she should tag their clothes with proper CSS labels.<p>But for an icon editor, I'm guessing HSV colour choosers work better for most non-developers. But don't worry, you'll get your #rrggbb field (I prefer it, too :))",1243945972
+637690,comment,637491,637491,0,0,edw519,,,"""If you call your variables a, b, c, then it will be impossible to search for instances of them using a simple text editor.""<p>This may be the single most important piece of advice in the history of writing source code.<p>Then why do I keep running into violations of this.  Just yesterday.  Again today.  3 times last week.  It's tough enough sifting through your garbage when I don't know what the variables means, it's 10 times tougher when I can't find them.<p>The solution?  If you ever murder a programmer who wrote<p><pre><code>  for x = xx to xxx
+</code></pre>
+the penalty should be an $18 fine and community service.<p>[Seriously, I would amend this rule to, ""No variable name should fully contain any other variable name or reserved word.""  If I do a global search for ""vendEmail"" I should get every instance of that variable and <i>nothing else</i>.  Naming variables is not rocket science.  Sometimes it just seems that way.]",1243945841
+637689,comment,637431,637431,0,0,tocomment,,,"Just a reminder .. <a href=""http://utilitymill.com"" rel=""nofollow"">http://utilitymill.com</a> is still up an going strong if you need an alternative.<p>Of course it's quite different from appjet, but I'd say it's the same category: hosted, rapid web tool development.<p>And it costs me almost nothing to run, so there's no reason I'd ever take it down.",1243945747
+637687,comment,637532,637532,0,0,michael_dorfman,,,"Why try to frame this in terms of ""evolutionary advantage""?  There's absolutely no reason to believe that the belief in free will is not epiphenomenal, or a spandrel.<p>I know that evolution is a very impressive hammer, but that still doesn't make every trait a nail.",1243945733
+637686,comment,637464,637601,0,0,jnorthrop,,,"You shouldn't feel bad for being honest. Also, I'm glad you posted, I didn't see the ""a"" at all. After reading your post I went back and it still took me a good 10-15 seconds to finally see it.",1243945704
+637685,comment,637518,637609,0,0,jimbokun,,,"Looks pretty fun to me.",1243945669
+637684,comment,637129,637378,0,0,joezydeco,,,"Right, and just like in #2 all the existing Pre users cry all over the internet claiming Apple took away their right to enjoy their music using iTunes.<p>I'm also wondering if enough complaining could grab the attention of the government.",1243945616
+637683,comment,637575,637649,0,0,pilif,,,"gitorious is a real bitch to install though.<p>and githubs user centric way of looking at things is much more compelling than the project centric way of gitorious.",1243945613
+637682,comment,637491,637491,0,0,Maro,,,"My first ""real"" job was basically maintenance programming. This is priceless indeed =)",1243945414
+637681,comment,637590,637660,0,0,burke,,,"CSS is perfectly fine for what it was designed for. Unfortunately, when it was being designed, tables were still viewed as perfectly acceptable for layout, and as far as I can tell, CSS didn't really aim to replace it. It seems to me that it was us OCD designers that wanted semantic markup who adopted CSS for layout, where sane people would use tables.<p>(EDIT: I should probably clarify that this is 100% speculation, and based in no way on having read anything published by the W3C or anything like that.)<p>Right now, everything sucks.",1243945348
+637680,comment,637065,637604,0,0,bitdiddle,,,"""china is doing all this silently""<p>no, actually we just haven't been listening.",1243945323
+637679,comment,637464,637611,0,0,axod,,,"Is it only me who sees an abstract representation of a penis and testicles there? :/",1243945303
+637678,comment,636711,637548,0,0,alexkearns,,,"Please don't dis other people's code before you have had a chance to look at it, especially when your sole aim is to promote your own product. I am very ""cognizant"" of my DOM, scripting practices and loops. The reason my animations are slow is the sheer amount I am trying to do with this app, not because I write slow animatations whatever framework I use.",1243945266
+637677,story,,,1,0,csbartus,"Democratic Political Technology Revolution",http://www.infoq.com/news/2009/06/fowler-exley-demo-pol-rev,,1243945180
+637676,story,,,129,172,csbartus,"Web Applications Should Be Compiled",http://ediblepet.net/2009/05/23/web-applications-should-be-compile/,,1243945158
+637675,comment,637525,637525,0,0,snorkel,,,"At least it doesn't use gradients.",1243945034
+637673,comment,637590,637590,0,0,yan,,,"Isn't it a stretch to call this a ""framework""? I guess ""frameworks"" are the ""startups"" of the CSS world.",1243944951
+637672,comment,637431,637431,0,0,netsp,,,"Well <i>somebody</i> needs to build a platform for learning to program.",1243944928
+637671,comment,636670,637652,0,0,axod,,,"Sure, bear in mind though ""people who don't find ads useful"" is a very small niche market. Also by definition, they're not the type of people you can monetize.",1243944886
+637670,story,,,1,0,bobbud,"Venture Socialism---The Story of Jo Tango and Kepha Partners",http://www.xconomy.com/boston/2009/06/02/of-venture-socialism-and-the-future-of-vcs-the-story-of-jo-tango-and-kepha-partners/,,1243944876
+637669,comment,637464,637560,0,0,jcsalterego,,,"Ah whoops - thanks for pointing that out. It should work now.",1243944828
+637668,comment,637575,637629,0,0,pilif,,,"agreed. I don't feel comfortable uploading all my code to a third party, which in this case is even located in a different country I'm not familiar with the legislation details.<p>I'm using gitosis and redmine internally now, but this one is really interesting",1243944820
+637667,story,,,13,1,ujal,"EtherPad Blog: Listening with Big Ears",http://etherpad.com/ep/blog/posts/listening-with-big-ears,,1243944794
+637666,comment,637590,637660,0,0,ewiethoff,,,"That people have to resort to such creative contortions is a testament to what a pile ""Thou shalt not use tables for layout"" is.",1243944779
+637665,comment,637648,637648,0,0,ckinnan,,,"""Set Phasers to Stun!""",1243944719
+637664,comment,632702,633049,0,0,jules,,,"<p><pre><code>    collection.each(lambda x:
+      ...
+      ...
+    )
+</code></pre>
+Or if the language doesn't require () to call a method, and uses `do` instead of `lambda`:<p><pre><code>    collection.each do x:
+       ...
+       ...
+</code></pre>
+If it's not the first argument:<p><pre><code>    map(lambda x:
+      ...
+      ...
+    , collection)
+</code></pre>
+Yes this is ugly, but using a multi line anonymous function in the middle of an argument list will always be ugly.",1243944585
+637663,story,,,16,2,ckinnan,"How to automate EC2 instance setup with user-data scripts",http://alestic.com/2009/06/ec2-user-data-scripts,,1243944314
+637662,comment,637411,637627,0,0,DanielBMarkham,,,"I don't think anybody doubts the benefits of fly-by-wire. It's the failure modes that concern some.<p>Not that this issue bears on this particular incident. I was just listing the topics of conversation that come up when talking about the airbus and turbines and T-storms.",1243944174
+637661,comment,637532,637651,0,0,jhancock,,,"Your comment suggests that ""free will"" in a human mind is a result of small differences in the makeup/brain chemistry of the individual.<p>Its my understanding that the 'free will theorem"" <a href=""http://en.wikipedia.org/wiki/Free_will_theorem"" rel=""nofollow"">http://en.wikipedia.org/wiki/Free_will_theorem</a>  is not that.  It says ""if we have a certain amount of ""free will"", then, subject to certain assumptions, so do some elementary particles.""<p>It may well be that both your perspective _and_ the free will theorem are at play.",1243944154
+637660,comment,637590,637590,0,0,ryanvm,,,"That people have to resort to such creative contortions is a testament to what a shit pile CSS is.",1243944076
+637659,comment,637411,637623,0,0,quizbiz,,,"Does a gradient apply to fly by wire systems?<p>You and others seem to imply that Boeing/other aircrafts can be less(?) fly-by-wire. How does that work? Shouldn't there always be redundant systems?",1243944070

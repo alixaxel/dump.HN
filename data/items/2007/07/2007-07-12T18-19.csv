@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33879,story,,,13,0,nickb,"The 'Aha!' Moments of Lisp",http://groups.google.com/group/comp.lang.lisp/browse_frm/thread/a12b2503c989761a/c5318848c215296f?tvc=1#c5318848c215296f,,1184266611
+33878,comment,33826,33826,0,0,brlewis,,,"If you know RCS, you can look at the evolution of WWW software development from the end of 1994 until May, 1997:<p>wget <a href=""http://web.mit.edu/wwwdev/www/RCS/brlewis.html,v"" rel=""nofollow"">http://web.mit.edu/wwwdev/www/RCS/brlewis.html,v</a>
+",1184264956
+33877,comment,33848,33873,0,0,koolmoe,,,"There are many counterexamples to Godin's point, such as wikis.  Wikis are useless with few contributors but extremely useful with many.<p>A secondary advantage (mentioned in pg's essays) is that you can more effectively take a ""constant beta"" mentality.  Rolling a web app out to many users can certainly speed up the process of detecting bugs versus rolling it out to a few.",1184264602
+33876,story,,,1,0,thinkingserious,"Let it Rain On My Web 2.0 Startup",http://blog.thembid.com/index.php/2007/07/12/let-it-rain-on-my-web-20-startup/,"9 essentials to getting and keeping users. Useful for any business.",1184264427
+33875,story,,,2,0,amichail,"What would your friends and family think of your web surfing?  Find out without asking them! [pdf]",http://ambient.media.mit.edu/assets/_pubs/what-woult-they-think-IUI2004.pdf,,1184264046

@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+90221,story,,,3,1,ivankirigin,"Django Performance Tips",http://www.b-list.org/weblog/2007/nov/27/performance/,,1197859609
+90220,comment,90073,90073,0,0,SwellJoe,,,"This has been asked a few times.  I answered at length in this thread (our products all include source...some are Open Source, some are proprietary that just happen to include the source):<p><a href=""http://news.ycombinator.com/item?id=81351"" rel=""nofollow"">http://news.ycombinator.com/item?id=81351</a>",1197859452
+90219,story,,,1,0,dean,"How Much Fuel Does Your Startup Need?",http://www.tonywright.com/2007/how-much-fuel-does-your-startup-need-toer-start/,,1197859277
+90218,story,,,1,0,transburgh,"Facebook Sues Porn Company Over Hacking Attempt",http://www.techcrunch.com/2007/12/16/facebook-sues-porn-company-over-hacking-attempt/,,1197858772
+90217,story,,,2,0,transburgh,"Do You Use Google For Vanity Searching? You're Not Alone",http://www.techcrunch.com/2007/12/16/do-you-use-google-for-vanity-searching-youre-not-alone/,,1197858766
+90216,story,,,5,5,transburgh,"Wikia's Got A Truck Full of Servers -- 1,000 To Be Exact",http://www.centernetworks.com/wikia-servers-for-search-crawl,,1197858688
+90215,comment,90154,90154,0,0,lsb,,,"the making of the 2 and 5 was pretty cool; how far advanced are techniques for content generation?",1197857987
+90214,comment,90154,90188,0,0,ivankirigin,,,"Mitchell's book on Machine Learning is a great introduction.",1197857893
+90213,comment,89603,89783,0,0,ivankirigin,,,"what a clown",1197857739

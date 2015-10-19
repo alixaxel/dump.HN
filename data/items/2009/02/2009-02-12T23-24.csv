@@ -1,0 +1,98 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+479200,comment,479119,479119,0,0,nreece,,,"<i>shameless plug</i><p>Create one with Feedity - <a href=""http://feedity.com"" rel=""nofollow"">http://feedity.com</a>",1234483121
+479199,story,,,14,7,nreece,"The Big PHP IDE Test",http://www.smashingmagazine.com/2009/02/11/the-big-php-ides-test-why-use-oneand-which-to-choose/,,1234483060
+479198,comment,478754,478842,0,0,d0mine,,,"numpy arrays do not copy on `[:]` therefore an explicit `.copy()` is required.<p>`copy.copy()` makes a shallow copy of both a ordinary list and numpy arrays.",1234483057
+479197,story,,,1,0,psogle,"Social Media: Bull Market on Users, Bear Market on Revenue",http://www.funnelholic.com/2009/02/12/social-media-bull-market-on-users-bear-market-on-revenue/,,1234483002
+479196,story,,,16,4,jimbokun,"How the Crash Will Reshape America",http://www.theatlantic.com/doc/200903/meltdown-geography,,1234482995
+479195,comment,479054,479182,0,0,Hexstream,,,"The promise of not getting shot in retaliation in the future?",1234482854
+479194,story,,,1,0,jbandi,"Rocky Lothka about Oslo",http://blog.jonasbandi.net/2009/02/rocky-lothka-about-oslo.html,"Oslo == Access Reloaded?",1234482813
+479193,comment,478754,479176,0,0,dood,,,"Are you suggesting that a cryptic regex is as easy to read as [:] or [::-1]? If you know python, that syntax is clear at a glance, dense regular expressions are not comparable.<p>Basic language features don't need comments, difficult to read lines do.",1234482644
+479192,comment,479054,479054,0,0,alexandros,,,"It seems lax transactional guarantees bit banks in the rear. I am not sure how difficult it would be to avoid parallel use of cards at different ATMs (especially given the inter-bank nature of ATMs), but it was not done, and this weakness was taken advantage of.",1234482642
+479191,story,,,40,13,ggrot,"Search Engines: Specify your canonical URL",http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html,,1234482626
+479190,comment,479165,479165,0,0,bprater,,,"I'm sure the day will come when RMDBs will be a distant memory, but sometimes it so comforting to open a database and see all the data in pretty columns and rows.",1234482615
+479189,comment,479165,479180,0,0,bprater,,,Insightful!,1234482564
+479188,story,,,1,0,nreece,"Shut Up and Go Create Something",http://www.codethinked.com/post/2009/02/08/Shut-Up-and-Go-Create-Something.aspx,,1234482479
+479187,story,,,1,0,nreece,"Cloud Idea using GridGain – Get VC Funded in 90 Days",http://www.jroller.com/nivanov/entry/cloud_idea_using_gridgain_get,,1234482450
+479186,story,,,7,0,nreece,"The Real Risks of Obama's BlackBerry",http://news.cnet.com/8301-13739_3-10159055-46.html,,1234482358
+479185,story,,,45,6,Anon84,"Some Datasets Available on the Web",http://www.datawrangling.com/some-datasets-available-on-the-web,,1234482354
+479184,comment,478850,479109,0,0,latortuga,,,"Not to mention a planet, an element on the periodic table, and a badass Roman god (perhaps in exactly the reverse order, in terms of which came first).",1234482330
+479183,comment,478401,478580,0,0,netcan,,,"I'm not sure if they meant con in the premeditated, organised sense. But there are probably all sorts of shady dealings going on.<p>Economies like Dubai's (& Hong Kong & other gateways) tend to attract money launderers, scams & other such 'cons.' There were probably builders that knew it couldn't last but built anyway.",1234482306
+479182,comment,479054,479054,0,0,bprater,,,"The big question I have is this: how did they insure that cashers returned the money to the core group?<p>If you walked out with a fistful of cash, what would motivate you to give most (some?) of it back? The promise of more money in the future?",1234482212
+479181,story,,,8,6,tsally,"Will We Live On Mars? (Predictions From 2000)",http://www.time.com/time/reports/v21/science/mars.html,,1234481977
+479180,comment,479165,479165,0,0,jacquesm,,,no.,1234481951
+479179,comment,478632,478928,0,0,blader,,,"Because the vast majority of users out there can barely click a mouse, much less write code to define sorting functions.",1234481946
+479178,comment,478675,478675,0,0,jonasb,,,"I've given it a spin, and must say that I like it a lot. Thanks a lot meese_!",1234481938
+479177,story,,,1,0,jasonlbaptiste,"YouTube Hopes To Boost Revenue With Video Downloads",http://www.techcrunch.com/2009/02/12/youtube-hopes-to-boost-revenue-with-video-downloads/,,1234481902
+479176,comment,478754,479056,0,0,jpd,,,"But regular expressions are not neat tricks, they're basic features of Perl, and are immediately understandable once you've learned about them.",1234481865
+479175,story,,,1,0,ph0rque,"Turning skin cells into stem cells",http://esciencenews.com/articles/2009/02/12/how.do.you.mend.a.broken.heart,,1234481812
+479174,comment,478887,479160,0,0,Retric,,,"I think the important part was <i>when integrated carefully with the device.</i> Laptops spend energy on other things than just the LCD. However, reducing energy in other places has diminishing returns when the LCD is draining a lot of  juice.  Take the 17 inch mackbook's battery and use it to power a dell mini 9 with this type of LCD and you might get a weeks worth of use (7 * 8hours + standby) out of the thing.",1234481739
+479173,comment,477955,478717,0,0,calambrac,,,"Again, interesting analogy.  Big lumbering dinosaurs were the peak of their evolutionary line, too, but the small rodents are who survived and thrived after the asteroid hit.",1234481629
+479172,comment,478632,478632,0,0,lacker,,,"The simple formula is to assume a Dirichlet prior. This gives you<p><pre><code>  score = positives / (negatives + x)
+</code></pre>
+and you can fiddle with x to get something that looks reasonable.",1234481524
+479171,comment,478518,478860,0,0,beastman82,,,"go outside and run.  works wonders.",1234481447
+479170,story,,,1,0,habs,"Appreciating evolution on Darwin's 200th birthday",http://arstechnica.com/science/news/2009/02/appreciating-evolution-on-darwins-birthday.ars,,1234481435
+479169,story,,,1,0,ctingom,"The 7 Stages of Design Grief",http://www.aptmediainc.com/About/Apt-Lab/7-Stages-Of-Design-Grief,,1234481395
+479168,comment,478632,478632,0,0,sachinag,,,"OK, I came to this late, but there are other solutions.<p>On Dawdle, we spent <i>a ton</i> of time thinking about this.  For their Marketplace sellers, eBay does number one; Amazon does number two.  What we do <i>is not three</i>, but something that I think is better: we just rank our users.<p>Look, you can't ask buyers on the site to rank any particular transaction against all others; that's crazy talk, especially as you get into large numbers and people forget about all their experiences ever on a site.  But we guide all our buyers to leave feedback of 3 - not 5 or a positive.  The hope is that you'll have a semi-normal distribution of all feedback.  <i>Then</i>, and only then, do we do all sorts of stuff to that.  We have bonus points for good behaviors, some of which we talk about (shipping quickly, using Delivery Confirmation, linking your Dawdle account to Facebook, MySpace, XBL, PSN, etc) and some we don't.  Then we just throw the ranks on a five point scale.<p>We call this our Seller Rating, not a feedback rating.  Feedback is just the beginning of the process.  KFC starts with the chicken - necessary but not sufficient - then adds their 13 herbs and spices.  That's what we do, and it's why we don't even allow users to see the individual feedbacks.  They're designed to be useless individually, and I don't want some new eBay expat bitching about not having 100% feedback.<p>Does this mean that some people are going to end up with 1s on a 5 point scale?  You betcha.  And we don't want them anyway - they're more hassle than they're worth.  They can go to eBay or Amazon.",1234481360
+479167,comment,478867,478867,0,0,jackowayed,,,"Why does she keep saying stuff like that it's a <i>""a hybrid approach that incorporates investment/incubation theory""</i> when it doesn't invest at all?",1234481259
+479166,story,,,1,0,joepruitt,"DevCentral Weekly Roundup Episode 74 - All Mashed Into One",http://devcentral.f5.com/weblogs/dcpodcast/archive/2009/02/12/devcentral-weekly-roundup-episode-74---all-mashed-into-one.aspx,,1234481180
+479165,story,,,71,47,timf,"Is the Relational Database Doomed?",http://www.readwriteweb.com/archives/is_the_relational_database_doomed.php,,1234481015
+479164,story,,,1,0,blogimus,"Darwin on a Godless Creation: ""It's like confessing to a murder""",http://www.sciam.com/article.cfm?id=charles-darwin-confessions,,1234480941
+479163,story,,,1,0,kqr2,"Why do boys and girls prefer different toys?",http://blogs.psychologytoday.com/blog/the-scientific-fundamentalist/200804/why-do-boys-and-girls-prefer-different-toys,,1234480890
+479162,comment,478973,478973,0,0,b1tr0t,,,"Journalist, news network or blogger -- it all comes down to brand.  ""Do you trust the source?"", for millions, Fox news is a ""trusted source"" in spite of published memos from the business side telling editorial staff to change stories. I haven't seen a trust system implemented on the web I'd have confidence in to resolve to automatically suggest a trust weight either.",1234480819
+479161,comment,478754,479136,0,0,henryprecheur,,,"That wasn't my point. My point was that [:] conserves the type of sequence.<p>Also [:] returns a reference to the existing tuple instead of a copy:<p><pre><code>    >>> a = (1, 2, 3)
+
+    >>> id(a)
+    3081276268L
+
+    >>> id(a[:])
+    3081276268L</code></pre>",1234480750
+479160,comment,478887,478887,0,0,jpd,,,"<p><pre><code>  The problem with that E-Ink is expensive, slow (you can't 
+  have moving cursors or any kind of video) and boring.
+</code></pre>
+The price will decrease once the technology behind its production improves (and people stop there willingness to actually spend that much), it will also speed up over time (its just how things work. To address the last point: WTF?<p>Secondly, from the Pixel Qi site:<p><pre><code>  Our screens use 1/2 to 1/4 the power of a regular LCD 
+  screen, and when integrated carefully with the device can 
+  increase battery life between charges by 5-fold. 
+</code></pre>
+and from Giz:<p><pre><code>  Jepsen says it's even possible to get a week of battery 
+  life from LCD tech, of course depending on the device the 
+  screens are embedded in.
+</code></pre>
+I really don't see how those two can statements can coexist. Currently we get around 8 hours from labtops, improve that by her 1/4 estimate and we now get 32 hours which fall short of our weeklong estimate.<p>Lastly:<p><pre><code>  Infrastructurally and perhaps historically speaking, the 
+  odds are in LCD's favor.
+</code></pre>
+I'm going to need this one spelled out for me...",1234480667
+479158,comment,478632,478983,0,0,gojomo,,,"They can be. But if they are shallow, dogmatic assertions, they often (and should) go negative and stay negative.<p>I've seen lots of good, fair comments with strong opinions (whether I agree with them or not) go initially negative -- early downvotes from the anonymous censorious underemployed peanut gallery -- then creep back up to small positive values after a full day's cycle. Those are much better comments than any pandering +20 one-liner.",1234480602
+479157,comment,479009,479112,0,0,axod,,,"Wonder how much traffic they had at the time. There don't seem to be any public stats out there that go so far back.",1234480601
+479156,story,,,1,0,robg,"Abolish legal tender laws and see whose money people trust.",http://online.wsj.com/article/SB123440593696275773.html,,1234480586
+479155,story,,,4,0,kqr2,"Greenspan Says He Was Mystified by Subprime Market",http://dealbook.blogs.nytimes.com/2009/02/12/greenspan-says-he-was-mystified-by-subprime-market/?hp,,1234480579
+479154,comment,478807,478902,0,0,joe_the_user,,,"I am for more immigration. My father was immigrant to the US. The H1b program is slanted against both immigrants and the native programmers. Against the first by making them depend on a particular company and against the second by making them compete against the first. Let programmers immigrate to the US based only on their skills and then let them both compete for jobs and let the companies compete for their skills.",1234480576
+479153,comment,478632,478931,0,0,iamwil,,,"And Wolfram's ""A New Kind of Science"", if I remember correctly.",1234480523
+479151,comment,478593,478593,0,0,illumen,,,"for python loving folks, who don't want to miss out on the fun...<p>you can do this easily with pygame.org too...  Or with pyaudio(a good wrapper of portaudio).<p>Also the latest pygame pre-releases include a wrapper for portmidi... so you can do midi sounds easily.",1234480418
+479150,comment,478850,479053,0,0,neilc,,,"<i>Github is YCombinator (I think, right?)</i><p>Not AFAIK: ""We had a talk and agreed right away: no outside funding. We wanted to keep the whole company.""<p><a href=""http://37signals.blogs.com/products/2008/07/how-github-used.html"" rel=""nofollow"">http://37signals.blogs.com/products/2008/07/how-github-used....</a>",1234480372
+479149,comment,478832,478832,0,0,lazyant,,,"A few years ago I wrote a little script for what you're describing or similar (but very simple, no indexing) using a Perl module for fuzzy/approximate matching; I think it was this one: <a href=""http://search.cpan.org/~jhi/String-Approx-3.26/Approx.pm"" rel=""nofollow"">http://search.cpan.org/~jhi/String-Approx-3.26/Approx.pm</a>",1234480295
+479147,comment,478807,478952,0,0,joe_the_user,,,"""I think the biggest potential issue with the H1-B program is that employees are bound to a particular company once hired, but it looks like at least the major companies pay their foreign employees on par with American workers. That means they're not hiring to keep wages down, but instead to get the best people.""<p>Uh, if the second statement were true, then the first condition would not be necessary",1234480266
+479146,comment,478887,478887,0,0,twopoint718,,,"I'm kinda in the Cory Doctorow school of thought. Whenever I see it reported that this or that e-book reader will soon be <i>the</i> thing, I can't help but think of: <a href=""http://www.locusmag.com/Features/2007/03/cory-doctorow-you-do-like-reading-off.html"" rel=""nofollow"">http://www.locusmag.com/Features/2007/03/cory-doctorow-you-d...</a><p>Those waiting for the e-book to ""arrive"" may have already missed the fact that it's here.",1234480251
+479145,comment,479012,479089,0,0,MikeCapone,,,"Thanks for posting that! Saw it a while ago, but had forgotten about it.",1234480235
+479144,comment,478954,478954,0,0,trapper,,,"I hope it's not just me, but there should be an equation based on objective measures about the desired product and the teams quality and experience that could determine the best development methodology.<p>Obviously this would require a lot more fundamental research, but I don't see it as an impossible task. I am continually surprised at the lack of this type of research in computer science.",1234480210
+479143,story,,,2,0,Anon84,"Answering the question: “Was this a successful project?”",http://blog.google.org/2009/02/answering-question-was-this-successful.html,,1234480204
+479142,comment,477601,478262,0,0,skmurphy,,,"I have no problem with Hacker News' focus. It's useful because it's narrower than ""all startups.""",1234480195
+479141,comment,478632,478632,0,0,jackowayed,,,"<i>How Not To Sort By Average Rating</i><p>Or, ""How to Make Your Host Very Happy Because You Suddenly Have to Move Up To a Server With Double the Processing Cycles""",1234480117
+479140,comment,479009,479112,0,0,jacquesm,,,"ah yes, I see :)<p>here I was thinking this was <i>news</i>.ycombinator.com, I should check those submissions better I guess!<p>The site does seem to be functional though, I just signed up for a trial account and that seems to have worked just fine.<p>Any zoto.com users here ? Apparently the CEO is
+called 'Kord Campbell', <a href=""http://www.blogger.com/profile/2622955"" rel=""nofollow"">http://www.blogger.com/profile/2622955</a>",1234479967
+479139,comment,478593,478771,0,0,IsaacSchlueter,,,"I also had to modify the portaudio Makefile to remove the -arch flags, and it worked then.",1234479958
+479138,comment,478754,478827,0,0,ggrot,,,"Agreed. The deep copy is much much better.  Consider this code:<p>>>> a = [1, [2, 3]]
+>>> b = list(a)  # or a[:], they are identical
+>>> a[1].append(4)
+>>> a.append(5)
+>>> a
+[1, [2, 3, 4], 5]
+>>> b
+[1, [2, 3, 4]]<p>If you had used copy.deepcopy, b would now be [1, [2, 3]] as intended.",1234479950
+479137,comment,478720,479099,0,0,MrGunn,,,"We've had troubles raising money, too. Our core business is making real things, we have technology no one else has, it fits a under-served and well-defined market niche, and there's tons of customer interest. The deals that were available before just aren't there.",1234479871
+479136,comment,478754,479034,0,0,anewaccountname,,,"Give me one example where you would ever want a copy of a tuple rather than another reference to it.",1234479730
+479135,comment,478632,479044,0,0,timr,,,"Well, with the caveat that the surest way to kill humor is to explain it, I thought it was funny because option 1 was a super-simple equation, option 2 was a super-simple equation, and the ""right"" answer was Quantum Rocket Surgery.<p>(I suppose it's funnier if you've done research.  Roughly 88.69% of all research literature is some dude trying to ""improve"" a simple model with pages of mathematics.  Not that this guy was wrong -- it was just evocative.)",1234479676
+479134,story,,,1,0,melvinram,"Ruby 1.9.1 & Friends",http://frozenplague.net/2009/01/ruby-191-rubygems-rails/,,1234479671
+479133,comment,479012,479012,0,0,eru,,,"Hitler was also at the front in WWI.  Lots of opportunities to get yourself (nearly) killed there.",1234479657
+479132,comment,479009,479009,0,0,delano,,,"Heroku gave us an example of how to do it right:
+<a href=""http://blog.heroku.com/archives/2009/1/12/whats_up_at_heroku/"" rel=""nofollow"">http://blog.heroku.com/archives/2009/1/12/whats_up_at_heroku...</a><p>In short: keep both versions.",1234479655

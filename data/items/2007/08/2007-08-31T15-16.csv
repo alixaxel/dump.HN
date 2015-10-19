@@ -1,0 +1,45 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+48752,story,,,10,34,nickb,"Paul Graham's near-death experience",http://valleywag.com/tech/acquisitions/paul-grahams-near+death-experience-295574.php,,1188575975
+48751,comment,48657,48743,0,0,pg,,,"here's one:<p><pre><code> (defmacro aif (test then &optional else)
+   `(let ((it ,test))
+      (if it ,then ,else)))</code></pre>",1188575793
+48750,story,,,1,0,drm237,"Use informal advisers to guide your startup",http://www.azcentral.com/abgnews/articles/0830abg-abrams0830.html,"Building a company can be lonely work. One way to reduce your isolation and gain a wealth of knowledge is by forming an advisory committee. I've had advisory committees for two of the companies I've owned, and I've found them to bring experience, skills, contacts - and friendship.",1188575696
+48749,comment,48642,48649,0,0,kashif,,,"Actually SQL sucks and hence all wrappers suck too. The over-engineered SQLAlchemy sucks most. If you are python user you should find SQLAlchemy ugly.<p>As far as frameworks goes, for most deployments(not for all) I would suggest pylons over django.<p>Mako is very useful.",1188575489
+48748,comment,48294,48534,0,0,thingsilearned,,,"haha!  It goes through my mind every day...  ",1188575468
+48747,comment,48642,48642,0,0,kashif,,,"What are you designing? One might be better suited.",1188575301
+48746,comment,48642,48674,0,0,kashif,,,"You are on the money dude, I have been using pylons for a while and it is much more usable than Django.",1188575239
+48745,comment,48713,48713,0,0,champion,,,"I think I read recently that the VC money invested in Boston-area is about 1/4th that of Silicon Valley. (For ""IT"" tech, not biotech.)<p>I like how Scott Kirsner, Globe reporter, compared it to the Red Sox vs. Yankees rivarly. The Sox have a huge budget compared to most teams, except the Yankees. And while the Sox have a complex about the Yankees, the Yankees barely know their is a rivalry. Can't go wrong with Red Sox analogies ;-)<p>",1188575115
+48744,comment,48688,48732,0,0,omouse,,,"Also, they appear to have moved back to the US. Based in San Fran...hey, some YCombinator guys should go and see if they're still alive :P",1188574658
+48743,comment,48657,48736,0,0,abstractbill,,,"One reason I've heard is that sometimes you actually <i>want</i> those collisions (I haven't come across a good example though - anyone know of one?).<p>For me the reason is just that defmacro is easier to read.",1188574543
+48742,comment,48657,48657,0,0,omouse,,,"Macros produce kickass code: <a href=""http://neverfriday.com/blog/?p=10#more-10"" rel=""nofollow"">http://neverfriday.com/blog/?p=10#more-10</a><p>If I didn't create a string-case= macro, I would have to write the final expression over and over again. With multiple string-case matches I would have to write string=? many many times:<p><pre><code> (cond ((or (string=? ""hello"" my-string)
+            (string=? ""world"" my-string))
+        (print ""match"")))
+</code></pre>
+To do that with the string-case= macro:<p><pre><code> (string-case= my-string
+   ((""hello"" ""world"")
+    (print ""match"")))
+</code></pre>
+Saves quite a bit of typing and now I have a good example of why macros are good to have around :D<p><i>edit: formatting ftw.</i>",1188574406
+48741,comment,48553,48619,0,0,chaostheory,,,"I forgot to mention this: Americans are either descendents of risk takers or risk takers themselves (if they are immigrants). I've forgotten the article/research but even in horrible times of famine, economic disaster, or war; for some reason very few people actually leave their country. I think less than 30%. I'm willing to bet that the US probably has taken in a huge majority of the people that were willing to take a risk in a place where they know little of (including the native language) for greater opportunity...",1188574386
+48740,comment,48697,48697,0,0,ivankirigin,,,"Wind power scales linearly with land used. There is nothing environmentally friendly about significantly greater land-use for energy output. I'm surprised how rarely this is observed.",1188574260
+48739,story,,,4,4,chmac,"How does karma work?",,"How does the karma and points system on this site work? I can't figure it out. Do people with more karma generate more points per vote? How are the points generated, I've seen some comments which are worth 17 points, where does that number come from?",1188574170
+48738,comment,48720,48720,0,0,ivankirigin,,,"Not so instant for me :-P",1188574087
+48737,comment,48698,48698,0,0,ivankirigin,,,"Look for someone with a cause other than helping the environment when they say ""X is a big cause of hurting the environment"".<p>For the practical minded, the best thing you can do to help the environment is to move to a place where you don't need much AC or much heating, but the latter matters more. Good Insulation do much more than almost anything else to decrease your footprint, but it isn't sexy and you can't show it off to the Jones next door.<p>I look forward to hearing what Woz has to say, now that he's on his quest for efficient homes. ",1188573984
+48736,comment,48657,48695,0,0,omouse,,,"Hygienic macros do seem to be a good idea: ""Hygienic macros are macros whose expansion is guaranteed not to cause collisions with existing symbol definitions."" (from Wikipedia, <a href=""http://en.wikipedia.org/wiki/Hygienic_macro"" rel=""nofollow"">http://en.wikipedia.org/wiki/Hygienic_macro</a>)<p>What are the disadvantages? Is there any reason to dislike defining syntax rules?",1188573950
+48735,comment,48713,48719,0,0,byosko,,,"From what I've read and seen in the Valley and Boston, I agree 100% with you - but that's why I thought it was interesting to put it up here for discussion.",1188573938
+48734,comment,48707,48707,0,0,mpc,,,"Check out South Korea and North Korea. Yikes, what a difference.",1188573720
+48733,comment,48553,48676,0,0,jimbokun,,,"Americans do hate WalMart.  But they still shop there.",1188573697
+48732,comment,48688,48688,0,0,Jd,,,"Does zAgile make any money?  The  product page on their website has a scant two paras and no screenshots.  <p>I'm much more inclined to take the advice of people who have made something work...
+",1188573656
+48731,comment,48414,48414,0,0,oditogre,,,"Anywhere.fm is really cool...but how do they make money?  That's what I'm not really understanding.  I don't see any ads or anything...",1188573579
+48730,comment,48690,48690,0,0,trekker7,,,"Cool. Do you think big companies could do this if they wanted to? All it involves is having technically proficient customer service representatives, or at least reps that can quickly query engineers for help. But maybe there's just no incentive. ",1188573492
+48729,comment,48705,48705,0,0,chmac,,,"In my view, it's a pretty useless list, it contains a total of 10 links, 4 of which are NYC specific.",1188573391
+48728,comment,48707,48707,0,0,chmac,,,"Not sure what the point is, but it sure looks pretty!",1188573351
+48727,comment,48690,48690,0,0,chmac,,,"That's what I call service, if only I had a Blackberry... :)",1188573338
+48726,comment,48689,48689,0,0,dfranke,,,"> Am I worried that the Java platform may not last forever (should you put it on your license plate :-) ? No. It's the single most pervasive technology Sun has ever invented - and the most valuable brand we've ever built. It's one of the few technologies that may outlast the century.<p>I have nightmares about this sort of thing.",1188573066
+48724,comment,48720,48720,0,0,kirubakaran,,,"It is silly, really. But I just thought I'll share anyway.",1188572739
+48723,story,,,10,0,transburgh,"Man Fired Thanks to GPS Tracking",http://www.nypost.com/seven/08312007/news/regionalnews/track_man_is_sacked.htm,,1188572732
+48722,comment,48657,48695,0,0,Tichy,,,"Thanks for the info! I learned Scheme with a rather obscure implementation (LMU Scheme, from my university), so I wasn't aware of the Macro capabilities of Scheme. Edit: I just checked, LMU Scheme is based on R4RS and indeed has no Macros.",1188572680
+48721,comment,48671,48693,0,0,ph0rque,,,"Can't tell if you're sarcastic or not :-/.",1188572671
+48720,story,,,2,7,kirubakaran,"Instant Word Search : Something I wrote for fun",http://www.instantwordsearch.com/,,1188572514
+48719,comment,48713,48713,0,0,pg,,,"I wish I could agree with this, but as someone who switches back and forth between the two every year, Boston is way behind.",1188572500

@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21669,comment,21628,21628,0,0,far33d,,,"Hiring is obsolete. Google knows it. Why sift through 100349234 resumes for one job when you could just get some technology and great people? ",1179014062
+21668,comment,21571,21571,0,0,far33d,,,"I love python. I really enjoy programming in it. But then I went to my local bookstore and checked out the web section. <p>There's not a single django book. Or even a web related python book at all. But there's a whole section of Rails books. Now, that isn't to say that you need a book to write a rails/django app, it's just an example of all the energy and community behind rails. <p>It's got so much momentum. The same kind of momentum php once had.. It's only a matter of time before the tools get better and better because of it. Working in Django might be nice, but I really think it will be more like swimming upstream.
+",1179013964
+21667,comment,21442,21444,0,0,hello_moto,,,"No, PHP isn't dead. But most people here won't be a great company either because they chose RoR/Python because of the hype. ",1179013384
+21666,story,,,2,0,far33d,"Digg and Reddit: Why I Read the Comments First",http://mashable.com/2007/05/12/digg-reddit-comments/,,1179012512
+21665,comment,21413,21521,0,0,papersmith,,,"Pylons is awesome, but be aware that they're changing the default template to Mako soon, and form handling to ToscaWidgets.  The latter doesn't have much documentation yet.",1179011873

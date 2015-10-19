@@ -1,0 +1,32 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97658,comment,87239,87348,0,0,dclayton,,,"Try looking at the following alternative notation, and see if it makes more sense:<p><pre><code>  #include <stdio.h>
+  #include <stdlib.h>
+  
+  void fn(char* c) {
+      printf(""[%c]\n"", *c);
+  }
+  
+  int main() {
+      char* c;
+      c = malloc( sizeof(char) );
+      *c = 'a';
+
+      printf(""start\n"");
+  
+      fn(c);
+  
+      return 0;
+  }
+  </code></pre>
+Regards,<p>dclayton",1200178750
+97657,comment,97557,97591,0,0,dag,,,"Emacs + Slime + Swank = <3 and 0 interruption when deploying new code. Swank is an amazing tool to connect to a remote REPL. I wonder what the Vim lovers do without it.<p>And don't forget Paredit ... in fact just go ahead and read <a href=""http://www.cliki.net/Editing%20Lisp%20Code%20with%20Emacs"" rel=""nofollow"">http://www.cliki.net/Editing%20Lisp%20Code%20with%20Emacs</a>",1200178568
+97656,comment,97590,97590,0,0,henning,,,"If we're going to have government spending, we might as well spend it on something interesting and beneficial, rather than finding new ways to ruin countries and kill people.",1200178479
+97655,comment,97615,97615,0,0,daniel-cussen,,,"I hope someday I too can say, ""Because I'm the CEO, and I think it can be done.<p><pre><code>    * Time, 2005-10-24
+    * On why Jobs chose to override engineers who thought the iMac wasn't feasible.""</code></pre>",1200178262
+97654,comment,97561,97611,0,0,daniel-cussen,,,"Yeah, on that note, it'd be nice to make a database of VCs and make profiles based on how they treat founders based on publicly available information.  Just look at their track records and that will help you decide whether or not to take funding.",1200177805
+97653,comment,87239,97635,0,0,horia314,,,"Hardest thing about pointers is that it forces the programmer to switch abstraction levels. One moment you're thinking about values and the next your thinking about memory addresses and the values at those addresses. Also, I've gotten more than one  :| look when I've said to people that pointers are variables of their own and you can get pointers to them and do all sorts of nasty stuff.<p>I have a feeling that if you learned Assembler and then a language without pointers and then came to C, you'd still be confused.",1200177362
+97652,comment,97590,97590,0,0,mhb,,,"""It is true that, for every dollar we spend on the space program, the U.S. economy receives about $8 of economic benefit.""<p>Hmm?!?!",1200177128
+97651,comment,97615,97615,0,0,__,,,"Good stuff:<p>""When you're young, you look at television and think, There's a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that's not true. The networks are in business to give people exactly what they want. That's a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards! We can have a revolution! But the networks are really in business to give people what they want. It's the truth.""",1200177012
+97650,comment,97446,97446,0,0,zach,,,"Clever title.  But true.  Dreamhost begging for Rails developers to help them run Rails on their shared hosts is a lot like the blighted urban area trying to get a Trader Joe's in their neighborhood instead of another dollar store.",1200176389
+97649,comment,97128,97128,0,0,aswanson,,,"This article is exactly right  if you have a concrete functional spec of what the code is supposed to do.  It's advantages become crystal clear when you have multiple developers on the same codebase and are coding in a lower-level language.  It is mechanistic and dull but it works.",1200176196
+97648,story,,,11,16,JRM,"Rails Shared Hosting",http://mattmaroon.com/?p=323,,1200175339

@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4509,story,,,4,9,e1ven,"Techstars is a YC-style program out of Boulder. Has anyone considered it? Why or why not?",http://www.techstars.org/,,1174010236
+4508,comment,4102,4102,0,0,smackaysmith,,,"I may be blind, stupid, etc., but I couldn't print. Couldn't find the menu item and ctrl+p didn't work.",1174009692
+4507,comment,4402,4417,0,0,far33d,,,"e1ven: have you used GWT? Any reactions/feelings about it? The debugging environments seem particularly appealing (especially for me - I'm a (very) experienced programmer, but not w/ web apps.. <p>Also interesting is that while you could fork a version, since it compiles to JS and HTML, you could always just hack up the results when the going got really tough.
+",1174009630
+4506,comment,4503,4503,0,0,far33d,,,"dupe. ",1174008670
+4505,comment,4504,4504,0,0,amichail,,,"Livingston: Can you tell me about any of the challenges you've faced?<p>Ross: One thing is just time.  Whenever I'm doing something now, I feel like I should be doing something else instead.  If I got married tomorrow, I'd probably be worrying about a code issue during the ceremony and deliver my vows in Python. It's a nonstop state of stress. ...
+ ",1174008409
+4504,story,,,1,1,amichail,"Founders at Work p. 402 ""If I got married tomorrow, I'd probably be worrying about a code issue during the ceremony and deliver my vows in Python.""",,,1174008312
+4503,story,,,1,1,farmer,"Ron Wayne, Apple's forgotten third founder",http://extras.denverpost.com/books/chap0411h.htm?,,1174008025
+4502,story,,,1,0,farmer,"New Google Talk module better than desktop app",http://www.webware.com/8301-1_109-9697660-2.html,,1174007920

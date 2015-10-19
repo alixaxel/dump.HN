@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+20016,comment,19986,19986,0,0,yaacovtp,,,"Of course shared hosting will offer rails. Since it's more cpu intensive they'll be able to force you to upgrade to a virtual/dedicated server sooner because of violating their terms of service.",1178488704
+20015,comment,19992,19994,0,0,vlad,,,"Hey, Paul, where do you think Viaweb would have been in 1998 had you not used a PR firm?  Would you have kept your PR firm in 2007, switched to Google Adsense, or both?  Also, did you do any advertising at the time, or have affiliates or resellers of your service, other than PR?  I seem to remember VIAWEB banner ads.  Thanks.",1178488267
+20014,comment,19980,20011,0,0,vlad,,,"You know, when I first started using Windows 95, it felt weird to see the word OK on every single dialog or confirmation screen.",1178488207
+20013,comment,20009,20010,0,0,gibsonf1,,,"That is a sweet site.  How did you make it?  (Just the basic tech infrastructure)",1178487613
+20012,story,,,40,8,npk,"The Bipolar Lisp Programmer",http://www.lambdassociates.org/blog/bipolar.htm,,1178487611
+20011,comment,19980,19984,0,0,tomcat111,,,"<p>A great lesson...the obvious, no matter how obvious, may in fact be the best choice.",1178486735
+20010,comment,20009,20009,0,0,abstractbill,,,"<a href=""http://lispdoc.com/"" rel=""nofollow"">http://lispdoc.com/</a><p>Lispdoc, a search engine for Common Lisp documentation, is always going to be about as niche as a site can get.  But it gives me something to hone my skills on and stops my brain from turning to mush while I wait for my Green Card.<p>I've been putting some more effort into it recently.  I'd be interested to know if people here have suggestions for what I could improve.  Please feel free to consider no nit too small to pick.<p>Some stats:<p>Lispdoc responds to around 3000 searches per day on average.<p>Its Google page-rank is 4/10<p>Alexa rank is 568,856 (three weeks ago it was 1,130,856.  current 1 wk avg is 228,583)<p>A Google search for 'lisp documentation' puts lispdoc in 7th place.",1178486687
+20009,story,,,9,8,abstractbill,"How popular can Lisp documentation be?",,,1178486632
+20008,comment,20007,20007,0,0,ed,,,"Thread here: <a href=""http://news.ycombinator.com/comments?id=17969"" rel=""nofollow"">http://news.ycombinator.com/comments?id=17969</a>",1178486202
+20007,story,,,6,4,ed,"Meetup Reminder: Boston Meetup Tonight (7:00PM)",,,1178486156
+20006,comment,19891,19965,0,0,jlf,,,"It's definitely worthwhile watching the Slime movie.  You can find links to it at <a href=""http://bc.tech.coop/blog/050728.html"" rel=""nofollow"">http://bc.tech.coop/blog/050728.html</a>
+",1178485982
+20005,comment,19891,19952,0,0,jlf,,,"You can make Emacs scroll a line at a time by adding this to your .emacs:<p>(setq scroll-conservatively 1)",1178485816
+20004,comment,19986,19986,0,0,robertgaal,,,"Hm, I'm not so sure. Rails doesn't do that well with shared setups at the moment.",1178485446
+20003,story,,,3,0,jslogan,"The death of (fill-in the blank)",http://www.jslogan.com/content/view/171/,,1178485384

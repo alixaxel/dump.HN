@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+23252,comment,23229,23251,0,0,omouse,,,"What is that? Perl? ;P",1179597014
+23251,comment,23229,23229,0,0,jtoy,,,"get the book:<p>require 'open-uri';(1..48).to_a.each{|x| open('<a href=""http://www.fbbook.com/promo/mashable/read.php?p='+x.to_s){|u|"" rel=""nofollow"">http://www.fbbook.com/promo/mashable/read.php?p='+x.to_s){|u|</a> File.open(""page_#{x}.html"",""w""){|f|f.puts u.readlines}}}",1179595999
+23250,comment,22928,22958,0,0,castlenut,,,:-)))),1179594555
+23249,comment,22928,23231,0,0,twism,,,"Cool... Thanks for the feedback.. Im thinking just make the entire web page black and see how it looks",1179594466
+23248,comment,22517,23142,0,0,Alex3917,,,"Just because it's well written doesn't mean it's made up. All of the posts on waiterrant read the same way.",1179594015

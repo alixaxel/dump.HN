@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+779,comment,363,363,0,0,Alex3917,,,"I'd like a way to differentiate the startup tips from other discussion topics. I am really interesting in participating in the community, but I don't want to have to wade through stuff I've already read in my RSS reader. Already the front page is filled with mostly stuff I've already read, which is drowning out potentially interesting discussions.",1172271570
+778,comment,775,775,0,0,danielha,,,"Great panel. Django is absolutely wonderful. With some more documentation, a surge in widespread use is imminent.",1172271553
+777,comment,363,620,0,0,Alex3917,,,"I support this suggestion. I have a bunch of problems I'd like people to solve that might potentially make a great startup for someone.
+",1172271296
+776,comment,775,775,0,0,mattculbreth,,,"No web.py but otherwise a pretty good list.
+",1172269162
+775,story,,,3,2,mattculbreth,"Python Web Framework Discussion (with the project leaders)",http://www.b-list.org/weblog/2007/02/23/pycon-2007-web-frameworks-panel,,1172268439

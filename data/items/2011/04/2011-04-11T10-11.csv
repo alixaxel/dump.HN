@@ -1,0 +1,187 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2432151,story,,,2,0,aycangulez,"The dishonesty of sighted listening tests",http://seanolive.blogspot.com/2009/04/dishonesty-of-sighted-audio-product.html,,1302519568
+2432150,comment,2431585,2431761,16,0,robin_reala,,,"Except this is within spec, given a particular (and different) spec.",1302519507
+2432149,comment,2430947,2431866,1,0,Raphael,,,"Not likely. Facebook took over the location database for Foursquare some time ago.",1302519499
+2432148,comment,2430532,2430573,1,0,Prisen,,,"Motion controls and button controls are not mutually exclusive. And buttons <i>are</i> essential for games that require more precise controls, in the same way that a physical keyboard is essential for writing long texts.",1302519475
+2432146,story,,,27,7,jrnkntl,"StripeSpotter, open source barcode scanner for Zebra's and other animals",http://code.google.com/p/stripespotter/,,1302519460
+2432145,comment,2432132,2432132,1,0,jeffwidman,,,"It's spring--which means students are thinking about internships & resumes.<p>You don't have to do it by the book--I built this originally for Seth back in '08, then realized I wanted to intern a few other places as well, so I sent them each a copy with a customized ""Why do you want to work here?"" speech bubble.<p>Landed me a summer externship with Seth, the month of August doing odd-jobs at TechStars, and November thru January working at TechCrunch.",1302519442
+2432144,comment,2431431,2431555,3,0,michaelochurch,,,"<i>Instead, it introduces them to lucrative career options (e.g., investment banking) available mainly to Ivy League grads. Given the massive salary differential compared to virtually anything else one could choose, most go that route.</i><p>Entry-level investment banking compensation is pretty low on an hourly basis-- definitely lower than entry-level technology. IBD is about the only six-figure job available out of college, but it's awful when you consider the nature of the work and most people leave the industry within a year, not capitalizing at all on the ""exit options""",1302519422
+2432143,story,,,108,18,wglb,"Followup on the star torn apart by a black hole: Hubble picture ",http://blogs.discovermagazine.com/badastronomy/2011/04/07/followup-on-the-star-torn-apart-by-a-black-hole-hubble-picture/,,1302519338
+2432142,comment,2431778,2432136,1,0,arethuza,,,"That's not a bad idea. Some suggestions/ideas:<p>- It would need to be asynchronous<p>- It would be nice to collect a log locally and send it centrally under specific circumstances (e.g. an error occurs send everything that has been logged so far)<p>- Using some kind of local storage option might be nice (e.g. the interface to SQLite that WebKit-based browsers have).",1302519316
+2432141,story,,,1,0,Roberto-ca,"STEVE JOBS OFFICIAL BIOGRAPHY ARRIVES IN EARLY 2012",http://allaboutstevejobs.wordpress.com/2011/04/11/steve-jobs-official-biography/,"The book, ISTEVE: THE BOOK OF JOBS, is being penned by Walter Isaacson, famed biographer and the former CEO of CNN and managing editor of TIME. While very little is known about the contents of the book, Isaacson did manage to obtain unprecedented access to Apple, Steve Jobs and even Jobs family. Simon & Schuster will publish and distribute the book.",1302519310
+2432140,comment,2426459,2426715,1,0,fecklessyouth,,,"Yet, correct me if I'm wrong, but Adams is advocating an entrepreneurship class. If all he's aiming for are the skills developed in entrepreneurship, why make it a class at all?",1302519245
+2432139,story,,,1,0,ZeroMinx,"Ask HN: Single sign-on for external website on corporate intranet",,"I'd like to hear how people have solved single sign-on for SaaS websites, for integration in a company intranet.<p>The problem: Creating a seamless experience for the user (no extra login screen) while still having the external website authorize/authenticate the user.<p>On one hand, you could have a ""company password"", and the link to the external site posts company password + the specific user id. This is easy to set up (using their email as user id, and the internal cms includes that in the form submission) and doesn't require any additional services, just using the https connection that's already there.<p>On the other hand, you could do some AD integration. Not sure about the specific details here, but it could be a more solid, secure solution. More work would be required for this.
+This would also provide for easier maintenance of user accounts (adding/removing users).<p>I'm sure there are several solutions in between. Which approach would you take if you were to integrate a SaaS website into a corporate intranet? Which solution would be best, with regards to 1) security and 2) ease of setting up and maintaining ?",1302519184
+2432137,comment,2431431,2432048,6,0,varjag,,,"Yes, because Thiel has better credentials so can be singled out. This is sorta the parent's point.",1302519092
+2432136,comment,2431778,2431778,3,0,retube,,,"Isn't this what Tapestry uses for client side error messaging? It's actually pretty useful for including in web-app frameworks: you can alert the developer to framework errors which might go un-noticed if just written to console.log. Of course you can disable in production.<p>On a side note, I've wondered how useful/practical server-side logging of js running client-side would be. For keeping track of what your users are doing, errors thrown etc.",1302519045
+2432135,story,,,1,0,edcobb,"Gordon Brown phone-hacking inquiry halted by civil service |",http://www.guardian.co.uk/uk/2011/apr/10/gordon-brown-hacking-inquiry-civil-service,,1302519026
+2432134,story,,,1,0,rpsubhub,WikiLove,http://www.mediawiki.org/wiki/WikiLove,,1302519022
+2432133,comment,2431037,2431835,1,0,dawgr,,,"It says that I would have to pay 9 dollars a month. Do you know if I can tell them to charge the whole subscription once instead of 9 dollars every month?",1302518991
+2432131,comment,2431006,2431206,1,0,revorad,,,"It's a blog post, not a PhD thesis. If you read Rand's other stuff or watch his talks, you can find plenty of evidence.",1302518975
+2432130,comment,2431974,2432128,1,0,HerraBRE,,,"I'd sign that petition. :-)",1302518904
+2432129,story,,,1,0,luigionline,"Does Google Need a Dedicated Social Site?",http://www.i4u.com/46027/does-google-need-dedicated-social-site,,1302518896
+2432128,comment,2431974,2432104,2,0,bensummers,,,"I'm sure we can shame Microsoft and Apple into using random numbers instead of MAC addresses.",1302518865
+2432127,comment,2430957,2430957,3,0,daimyoyo,,,"iSteve is a horribly unimaginative title for Steve Jobs' biography. Frankly I thing the second half if the title is better. ""The book of Jobs: The authorized biography of an American original.""",1302518828
+2432126,story,,,2,0,terrisv,"Steve Blank Part 1 of 5",http://www.founderly.com/2011/04/steve-blank-part-1-of-5/,,1302518709
+2432125,comment,2431215,2431215,2,0,retree,,,"This makes a lot of sense and echoes my experience. I'm lucky enough to study Engineering at one of the (if not the) top universities for Engineering in the UK. It also has a reputation for being one of the most theoretical in the country.<p>Right from day one, we have design orientated tasks, whether or not it's a structural design project linking in with our structures course, or designing an automated robot in a team from scratch (combining the mechanical, software and electrical courses). I think they've realised that people become Engineers because they want to see the fruits of their labour physically and not just in a purely mathematical sense.<p>I know without these design projects and frequent lectures from leaders in industry I would quickly lose sight of what I'm actually doing and would almost certainly have transferred course.",1302518700
+2432124,comment,2431778,2431778,1,0,muxxa,,,"MochiKit has LoggingPane (works in IE):
+<a href=""http://mochi.github.com/mochikit/doc/html/MochiKit/LoggingPane.html"" rel=""nofollow"">http://mochi.github.com/mochikit/doc/html/MochiKit/LoggingPa...</a>",1302518681
+2432123,story,,,1,0,Garbage,"The Singleton pattern and its simplest implementation in Java",http://www.2ality.com/2011/04/singleton-pattern-and-its-simplest.html,,1302518656
+2432122,story,,,2,1,donohoe,"Rare Javascript Operators in 20 Slides",http://www.timmywillison.com/pres/operators/,,1302518654
+2432121,story,,,2,0,Garbage,"Some insights from Oracle on the their plans for Java",http://www.java7developer.com/blog/?p=307,,1302518634
+2432120,comment,2432020,2432020,7,0,daimyoyo,,,"He forgot one big one ""he who names the price first, loses."" While he was a very capable engineer, it took an experienced sales professional to extract real value for the software he was selling. Frankly, I'd have given her a HUGE bonus for getting the price she did. It's certainly worth the lesson she'd taught him.",1302518631
+2432119,comment,2431585,2431998,9,0,judofyr,,,"SPDY is always encrypted, so it would be more fair to compare it with HTTPS, where you can't do anything like that anyway.",1302518617
+2432118,comment,2431037,2431395,1,0,muyuu,,,"<a href=""https://github.com/msporny/dna"" rel=""nofollow"">https://github.com/msporny/dna</a><p>a hackernews reader: <a href=""https://github.com/orta/dna"" rel=""nofollow"">https://github.com/orta/dna</a>",1302518584
+2432117,comment,2431526,2431526,6,0,aycangulez,,,"These results were expected by neuroscientists. Different senses are encoded differently in the brain. So, the subjects were unable to link them at first. The surprising thing here is the speed the association between tactile and visual encodings happened, and the article makes that clear.",1302518565
+2432116,story,,,1,0,JacobAldridge,"Star Wars the (High School) Musical [video]",http://vimeo.com/22019730,,1302518497
+2432115,comment,2431037,2431560,5,0,jrockway,,,"So what?  All you need is the initial email to work, nobody is going to notice fake whois that quickly.  No person is going to show up at the address you list to verify that it's actually <i>your</i> address.<p>I've used fake whois records for a while and have never had any problems.  I did make my main domain ""real"" a few years ago to avoid any problems, however.",1302518448
+2432114,comment,2431323,2431323,1,0,HerraBRE,,,"Having a ToS and Privacy Policy were a requirement before I could hook <a href=""http://pagekite.net/"" rel=""nofollow"">http://pagekite.net/</a> up with a payment processor - you can't take people's money unless there's a clear statement of what they are (and aren't) getting for their money. Refund policies, things like that.",1302518327
+2432113,comment,2431037,2431282,1,0,rancar2,,,"I agree. It was a word choice between free and sale. I assumed free was a more effective title than sale for HN.<p>Note that when buying add a one-year subscription which will bring the total price to $108.",1302518260
+2432112,comment,2431069,2431467,1,0,torpor,,,">What else can we learn from here?<p>That the mob will never decide in your favour.",1302518210
+2432111,comment,2431585,2432081,7,0,corin_,,,"I'm not saying that Google isn't doing this for business reasons - it just happens that in Google's case, they benefit more from all browsers being better than trying to make Chrome kill off other browsers.",1302518206
+2432110,comment,2431431,2431737,7,0,maigret,,,"You're so right. A bubble accepts exceptions. Google and Amazon survived the tech bubble, Paulson made lots of money with the 2008 crash, etc. Harvard will probably stay Harvard even with the bubble explodes. But the other 99% overprised colleges will be hurt badly.",1302518062
+2432109,comment,2431778,2431778,4,0,lscharen,,,"I found this project a few days ago while looking for a javascript logging framework.  It looks slick, but I think I'll stick to my choice of using log4javascript due to it's support for logging to a server via AJAX -- this is a very important feature for a JS logging framework, as far as I am concerned.",1302518043
+2432108,comment,2431127,2431582,1,0,muyuu,,,"The Atrix does this. However, it's not so trivial that it should be always expected just yet.",1302518003
+2432107,comment,2431978,2431978,1,0,reddittor,,,"lyrics:<p><pre><code>      ( javascript mothaafuckkka )
+      ( node.js mothhafuckkka )
+      ( javascript mothaafuckkka )
+      ( dont cry for rails )
+      ( nodejitsu motthhafuckkka )
+
+      caus its the java-to-the-script doing this since 96'
+      peace to brendan eich for making it exist 
+
+      it's an open-source license, of course we be frugal
+      peace to Lars Bak for v8 from Google
+
+      big ups to Ry Dahl for keeping it real
+      big ups to Joyent for paying all the bills
+
+      big ups to Marak, the new kid on the block 
+      saying invest in nodejitsu, its a top pick stock!
+
+      ( why? ) node.js allows for real-time sockets
+      over http, its socket.io and you cannot stop it! 
+      Guerimo from learnboost blowing up like a rocket
+      just go to the github for the source (if you wanna cop it!)
+
+      need to install packages, use the module system
+      it was built by isaacs a man of knowledge and wisdom
+
+      npm install foo, now you rocking
+      require foo in any script you be dropping
+
+      ohh so you know a jQuery?
+      don't write write node and code 
+      thats crazier then tim leary
+      because thats kinda scary if you don't know flow control
+      too many callbacks, its time to slow you roll
+
+      try Step by Tim Caswell
+      Chainsaw by Substack, it's just as swell
+      make your node code sane and not looking loopy
+      Node.js is the best so you better run Ruby.
+
+      (Run Ruby Run Ruby Run)
+      (Run Ruby Run Ruby Run)
+
+      so we throw our hands in the air like we don't just care
+      we wreck with Connect as our middle-ware
+      using the node-inspector to get up in there
+      we dance around on Github like Fred Astair, i swear
+      the Node wiki page is our second home
+      if it's not open-source yo we leave it alone
+      Node is the king and he can't be dethroned
+      Node is the code that's the hottest tech
+      if you don't have Node you better protect your neck
+
+      you see, node blurs the line of the server and client
+      battle hardened technologies and a community that is reliant
+      10 year javascript veterans that never threw in the towel
+      immense skill and experience like my friend paolo
+
+      it's javascript time, we own this shhhh
+      have a refreshing taste of caffeinated coffeescript
+
+      drip, drip, drip, thats the sound of OSS 
+      from document cloud jeremery ashkanes is the best!
+
+      from nyc.js im making it clear yo
+      big ups to indexzero computer science hero
+      big ups to brian mitchell, and fotoverite
+      big ups to tmpvar,  his capacity is very
+      intimidating, there is no debating
+      if you are a hater, node is what are you should be hating
+
+      ( javascript mothaafuckkka )
+      ( node.js mothhafuckkka )
+      ( javascript mothaafuckkka )
+      ( nodejitsu motthhafuckkka )
+
+      ( PEACE )</code></pre>",1302517921
+2432106,comment,2420399,2420399,1,0,cerventus,,,"I believe it exits are important but should not be the focus of a startup.",1302517885
+2432105,story,,,1,0,bogdans,"Useful jQuery Tooltip Plugins That You Could Use On Your Web Projects",http://www.designyourway.net/blog/resources/useful-jquery-tooltip-plugins-that-you-could-use-on-your-web-projects/,"The other week a client asked me to make a div appear when hovering a link so I thought immediately at a jQuery tooltip. Sure, getting one that was appropriate to my needs was a little bit difficult and I found myself searching through a lot of them. At the end of the day I had a serious list of jQuery tooltips that I could download and even tutorials about how to create some hover effects that popular sites are using. Im sharing this list with you and hope it will be as useful for you as it was for me.",1302517879
+2432104,comment,2431974,2431974,3,0,HerraBRE,,,"Aside from the predictable troubles the author experienced as an early adopter, I find it interesting that he has stumbled on one of the few motives web hosts and service providers might have to deploy services on native v6 (instead of relying 6-to-4 NAT): easier tracking and profiling of customers, by recording the MAC portion of their visitors v6 IP addresses.",1302517855
+2432103,comment,2431431,2431431,1,0,ericingram,,,"I couldn't agree more.",1302517692
+2432102,story,,,2,0,BrainScraps,"DIY peripherals for Android",http://www.sparkfun.com/products/10585,,1302517664
+2432101,comment,2422967,2424371,1,0,RuadhanMc,,,"No problem, I added my email to my profile and emailed you.",1302517650
+2432100,comment,2429770,2429770,1,0,asymptotic,,,"RE: Nitrogen.  I've started using an Erlang RESTful HTTP toolkit called Webmachine (<a href=""http://webmachine.basho.com/"" rel=""nofollow"">http://webmachine.basho.com/</a>) paired with an Erlang-based distributed key-value store called Riak (<a href=""http://wiki.basho.com/"" rel=""nofollow"">http://wiki.basho.com/</a>) and I am very pleased with the ease of using these libraries.  However, I can't offer you a comparison with other functional languages as I only have experience with Erlang.<p>I'm starting an extended and thorough series of technical articles regarding deploying Webmachine and Riak on Amazon Web Services on my personal website.  Over the next week feel free to follow the articles and see what you think of Webmachine/Riak!",1302517558
+2432099,comment,2432049,2432049,2,0,revorad,,,"That's beautiful. Congrats John!",1302517494
+2432098,story,,,1,0,expathos,"Civolution & Ex Machina - Multiplatform Synchronization - Content Recognition",http://www.appmarket.tv/news/1136-civolution-and-ex-machina-to-showcase-second-screen-synchronization-and-automatic-content-recognition.html,,1302517471
+2432097,story,,,1,0,kusti,"An API for sharing stuff in the real world",http://www.shareable.net/blog/an-api-for-sharing,"Should ""collaborative consumption"" services collaborate more by creating a common API that would enable people to transfer the stuff, skills and spaces they are sharing from one service to another.",1302517439
+2432096,story,,,1,0,catalogcreator,"Auto Transport Avondale, Arizona",http://shipanycar.com/auto-transport/2011/04/auto-transport-avondale-arizona/,,1302517319
+2432095,comment,2431431,2431792,8,0,6ren,,,"Yes, Christensen in <i>The Innovator's Solution</i> talks about people buying products to get the jobs done that they want to do - we can consider a library and the internet as products, to get the job done of education.<p>He notes (p.94) that many companies tried to use the Internet to reshape the textbook industry, by supplying more content. But, he says, the job most students are really trying to get done ""is pass their courses without having to read the textbook at all"". These companies were trying to help students do something that they were trying <i>not</i> to do. He imagines a hypothetical ""cram.com"" would be more successful.<p>Most people (not all) find self-study extraordinarily hard - how many things have you, dear reader, set out to study but not completed? I think the only ones I have managed are when I'm using a textbook to help me achieve something specific - write some code, build a business,  solve some problem. I wonder, is this really ""study"" or just ""use of references""? e.g. Looking a word up in a dictionary is not really ""study"", to comprehensively master a topic.<p>It would be incredibly disruptive if someone found a way to make study - giving useful skills - enjoyable and easy. Gameplay seems the most favourable. I don't just mean things like SO-style badges, but like physical sports (games) teach motor-skills, eye-hand coordination, teamplay and strategy. It's like the ""purpose"" of play is learning. Note that even animals  play (e.g. dogs and wolves have a ""play bow"", that indicates what follows in not a genuine attack).",1302517297
+2432094,story,,,84,24,ahmicro,"Simon Peyton-Jones - A Taste of Haskell ",http://ontwik.com/haskell/simon-peyton-jones-a-taste-of-haskell/,,1302517292
+2432093,comment,2432043,2432043,1,0,getonit,,,"<i>""I'm 60. If I've got my figures right, I'll live at least 20 years, so I believe in the next 20 years we will see the first sub two-hour marathon,"" London Marathon race director Dave Bedford says.</i><p>Wishful thinking? How does his lifespan affect the probability of the 2-hour mark being broken?",1302517243
+2432092,comment,2429004,2429004,1,0,elmindreda,,,"You don't master it, so instead I will write about what I did to learn reasonable amounts of it.<p>I wrote lots of code, tried use it and then fed what I learnt back into the design.  Repeatedly.<p>I read tons of other people's code. Large, running projects. Example code won't work.<p>Occasionally, I read books, but the only one I ever read all the way through was /Teach Yourself C++ in 21 Days/ back in 1996 (and its title is ridiculous; I'm still learning every day).",1302517241
+2432091,comment,2432087,2432087,1,0,filipcte,,,"Clickable: <a href=""http://www.jobberbase.com/"" rel=""nofollow"">http://www.jobberbase.com/</a>",1302517154
+2432090,comment,2430532,2431909,3,0,lancewiggs,,,"To log out of App store on the iPad use Settings (the app), choose Store, then click on your email/user ID and choose Sign-out.",1302517140
+2432089,story,,,1,0,Krunald2,"Door Handles",http://www.premierdoorhandles.co.uk/,"Premier Door Handles provide plenty of variety in different materials and good design which makes your home very beautiful. for more information please quote ""Premierdoorhandles"" mkd",1302517132
+2432088,comment,2431855,2432062,1,0,grimen,,,"I totally agree, and...people that state stuff without any more evidence than some sloppy written bullet points without any references to stats or scientific results is usually are BS. If you wanna state such, step down a few steps on the attitude-stair...",1302517096
+2432087,story,,,8,8,filipcte,"JobberBase: open-source platform for job sites. How to make it a business?",,"3 years ago I created jobberBase, an open-source platform for building job sites.<p>It's fairly successful, there are hundreds of sites powered by it (others existed but disappeared in time), we have an active community, freelancers build custom extensions... it's a good environment.
+However, we've never made any money with it and it has stagnated for about a year, in terms of development, because there aren't any incentives to continue to develop it.<p>I'm looking for options, because it's a pitty to just see it exist out of inertia and other people's interest.<p>What would <i>you</i> do with it?
+How would <i>you</i> build a business on top of it?<p>Thanks, I'd appreciate any insights!<p>http://www.jobberbase.com/",1302517077
+2432086,comment,2431585,2432022,7,0,gcb,,,"Less true for tcp dumps<p>which I believe was the previous poster intention since he mentioned wire shark..<p>Also piping bunch of unix command will suffer a little of they",1302517065
+2432085,comment,2431543,2431781,7,0,halo,,,">These platforms are much more compelling than any other OS was during the PC/Mac wars<p>Seems a bit like historical revisionism to me. RISC OS, Amiga OS and NeXTSTEP were all pretty compelling at the time.",1302517037
+2432084,story,,,1,0,bergie,"Interoperable content repositories in PHP",http://bergie.iki.fi/blog/phpcr/,,1302516944
+2432083,story,,,1,0,lmacvittie,"Solutions are Strategic. Technology is Tactical. ",http://devcentral.f5.com/weblogs/macvittie/archive/2011/04/11/solutions-are-strategic.-technology-is-tactical.aspx,,1302516922
+2432082,comment,2431431,2431501,1,0,ig1,,,"You're assuming that the schools don't in themselves add value beyond signalling.<p>Even after adjusting for academic achievement students from top-tier university do better post-university, as this broadly tends to hold true across subjects. Of course this could be purely be down to signalling effect, but if so it would imply signalling has as strong impact across all industries not just a handful of professional ones.",1302516921
+2432081,comment,2431585,2431674,4,0,jamaicahest,,,"How is that different? MS wants marketshare, Google wants marketshare, faster internet for everyone is just a means to an end: more people using Google services. I'm sorry for not buying into the Google-hype, but keep in mind they're a business like everyone else and they are in it to make money. If you ever need proof that Google is doing this for money like everyone else, just take a look at the history of their advertising services.",1302516871
+2432080,comment,2431526,2432046,3,0,bobds,,,"I was going to say the same thing. I'd really like to see what objects exactly they used.<p>I have a variation on the original question. Suppose someone blind has never touched a cube. However, he knows that a cube is an object with 6 sides of equal dimensions and 8 corners. Then his blindness is suddenly cured. If he sees a cube would he be able to associate it with the description of a cube that's already in his head?",1302516795
+2432079,story,,,19,2,pelf,"Carbon fiber iPad on the way?",http://www.9to5mac.com/60691/hire-indicates-apple-shift-from-aluminum-to-composites/,,1302516789
+2432078,story,,,4,2,jakubgarfield,"Git Server for Windows",http://www.chodounsky.net/bonobo-git-server/,"Bonobo Git Server for Windows has been released. It is a web application you can install on your IIS and easily manage and connect to your git repositories.",1302516704
+2432077,comment,2431431,2431545,0,0,gaius,,,"<i>providing access to everyone for something by nature devalues it</i><p>Particularly true in education. Consider a hypothetical scenario where a law is passed that all CS curriculums across the nation have to be synchronized. Could you take the curriculum from MIT or CMU and simply drop it on Podunk U unchanged? Probably not. The only way to provide access is actually to lower standards.",1302516674
+2432076,comment,2431902,2431971,1,0,zaph0d,,,"I compared the prices of iPad2 and the education store has 0% discount on that. Whereas the link mentioned by OP has a USD 10 discount.",1302516647
+2432075,story,,,6,0,pelf,"The man who won Steve Jobs' trust",http://tech.fortune.cnn.com/2011/04/10/the-man-who-won-steve-jobs-trust-2/,,1302516589
+2432074,comment,2431561,2431561,4,0,xiaoma,,,"I was already familiar with this research in relation to distance athletes.  For marathoners, the difference is extreme.  They typically have telemeres the length of people many years younger.<p><a href=""http://well.blogs.nytimes.com/2010/01/27/phys-ed-how-exercising-keeps-your-cells-young/"" rel=""nofollow"">http://well.blogs.nytimes.com/2010/01/27/phys-ed-how-exercis...</a>",1302516506
+2432073,comment,2430261,2430341,1,0,revorad,,,"Photosynth is pretty awesome.",1302516470
+2432072,comment,2431318,2431972,4,0,gnaffle,,,"Probably cost and lack of effort. Just look at the iTunes / App Store DRM. It can be removed quite easily, it's mostly there for deterrence. As soon as Apple could, they dropped DRM on iTunes audio files by switching to iTunes Plus (and before that, you could burn the songs to a CD and import it back).<p>You'll find a quite different story when Palm made the Pre compatible with iTunes through reverse engineering. The certainly didn't want non-Apple devices in the iTunes ecosystem and spent quite some effort to put a stop to that, even though it had nothing to do with DRM.",1302516463
+2432071,story,,,2,0,edcobb,"Firefox 5 to be released in June - Techworld.com",http://news.techworld.com/operating-systems/3273119/mozillas-firefox-5-to-be-released-in-june/?olo=rss,,1302516449
+2432070,comment,2431554,2431697,1,0,marcomonteiro,,,"Yes and that's what makes the equity trade worth it.  The money is too small to justify giving up 5-10% if it wasn't for the quality of advisors (and their reputation) that you'd be adding to your company.",1302516385
+2432069,comment,2431431,2431664,5,0,gaius,,,"<i>but so valuable that past a point</i><p>That point is pretty high tho'. The thing is, that people who don't hire people usually don't understand, is that programming experience that organizations are interested in is only experience of programming to external requirements under external constraints, because that is what working programmers do, e.g. ""write a program to do X on system Y by time Z"", where none of those things are what you would have chosen yourself. Which is why it's a really bad idea to put on your CV that you've had 10 years experience when you're 21, the guy interviewing you has 10 years actual experience and he'll not be impressed.",1302516358
+2432068,comment,2431978,2431978,1,0,alex_carlill,,,"novelty rap songs haven't been funny for a long, long time - much less those about prototypically geeky topics.",1302516222
+2432066,comment,2429034,2429034,1,0,losethos,,,"<a href=""http://www.usccb.org/nab/bible/1corinthians/1corinthians14.htm"" rel=""nofollow"">http://www.usccb.org/nab/bible/1corinthians/1corinthians14.h...</a><p>God says, ""hurt narrowly sufficed literary daemons createst recollect 
+accomplished armed east woe exhort wine guilt GUTINDEX 
+Date fluently nation having unconscious substantial derision 
+plenary Times partaker Death blottedst condemning Envy 
+whales Whither crown plausibility Lo intoxicated glows 
+preachers concerned assailed VI credit rashness inactive 
+TM readily dare heretofore constant sharpsighted unsought 
+achieve calf audaciously stiffneckedness averred hindered 
+narrowness rescuing aided mutable exclusion beat sleepest 
+Art portions reserved ungoverned receiveth indications 
+Sun tickled disciple under following corresponded impostors 
+sloth Does altogether forth Copyright impatience perverted 
+settle unperceived Defects Virgin reposes bands haste 
+here report influences points toiling review exists confessing 
+allotted profound disposed astonishment old entitled Carthage 
+alluring Accept Innocency nigh flagitiousness oblation 
+oil Anger Replacement Can act spreadest difficulty availed 
+slumber illusion parley GET angels energy impart contain 
+cried quieter glories excused needful "".",1302516220
+2432065,comment,2431554,2431796,2,0,marcomonteiro,,,"The money to me was important as well as everything else YC offered.  I wouldn't have applied otherwise.  I can't afford to build my business without the seed money at this point.  So it's either find a job, go back to school and/or look for funding elsewhere.",1302516177
+2432064,comment,2431543,2431543,2,0,demallien,,,"Any comparison of the Microsoft / Apple wars to the iOS / Android wars needs to take into account one major difference:  the presence of Steve Jobs.<p>Jobs left Apple in 1987, after which the company quickly became a stodgy computer company, a Dell wannabe.  They lost their design mojo - anyone else here remember the dark days of all of the performas, and quadros and powermacs with impenetrable model numbers after the names?  Beige boxes without any style running an increasingly creaky OS.<p>Jobs returned in 1997, and immediately the design chops came back, and the Mac's marketshare has been steadily climbing ever since, until today the Mac has enough presence in the US market that the platform is once again well supported by software and hardware vendors.<p>This time around, with the battle between iOS and Android, Apple is not as likely to drop the ball, like they did in the late 80s, early 90s.  The end result, in my opinion, will be a market with two dominant platforms.  Over time I would expect Android to become the budget choice with Apple picking off the high margin segment of the market. Indeed, this is the current market configuration that we see in the PC / Mac market.<p>Of course, the day is coming when Steve Jobs will no longer be at the helm of Apple.  I would hope that the board has understood the lesson from the first Jobs-less period, by choosing a successor that understands the primacy of design for Apple.",1302516121
+2432063,comment,2432031,2432031,1,0,hdragomir,,,"How do you answer to ""Can you do this?""",1302516020
+2432062,comment,2431855,2431855,2,0,CodeMage,,,"I really hate to be this negative, but I confess that a post on ""ingredients for a <i>successful</i> entrepreneur"" would inspire a lot more confidence if it was by an author whose name I could readily recognize.",1302516016
+2432061,comment,2431585,2431585,1,0,adrianwaj,,,"Anyone seen:<p><a href=""http://www.acceloweb.com/images/diagram_with.png"" rel=""nofollow"">http://www.acceloweb.com/images/diagram_with.png</a><p><a href=""http://www.acceloweb.com/product_features.html"" rel=""nofollow"">http://www.acceloweb.com/product_features.html</a> (note how quick pages load)",1302516005
+2432060,comment,2430090,2430090,0,0,ebaysucks,,,"And this is why I just won't visit the USA anymore.<p>Don't get me wrong, I love the principles your country was founded upon, but somehow you turned into testicle grabbing sociopaths.",1302516000

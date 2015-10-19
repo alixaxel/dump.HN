@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97539,comment,97274,97502,0,0,joshwa,,,"Yeah, that was kinda misplaced-- I was actually thinking of an example of a Apple acquisition continuing to use its own brands.",1200153230
+97538,comment,97446,97446,0,0,Tichy,,,"Maybe it is not so widely used with non-PHP stuff because it is so impractical? And wonder why PHP is so successful? So to announce the irrelevance of shared hosting is a bit premature?",1200152599
+97537,comment,97491,97491,0,0,pg,,,"I've thought about this, but it seems just as well to let people resubmit such questions, because the answers change.",1200152040
+97536,comment,97446,97446,0,0,maurycy,,,"Waiting for a title: Hacking why is a Ghetto considered harmful for fun and profit.",1200151334
+97535,comment,97491,97491,0,0,dag,,,"Please post under the ""Feature Requests""at <a href=""http://news.ycombinator.com/item?id=363"" rel=""nofollow"">http://news.ycombinator.com/item?id=363</a>",1200151267
+97534,story,,,2,0,getaway5,"Howto - Form Usability OR No Fucking Signup Needed",http://un-america.com/submit/,,1200151154
+97533,comment,97396,97497,0,0,maurycy,,,"There's yet another factor, which reminds me the Market Wizards book. One of the famous traders asked who has, in his opinion, more chances to success, a poor one or a rich one, picked the poor one, because the poor one _feels_ pain when loses money.",1200151074
+97532,comment,97384,97407,0,0,Zak,,,"I've been finding a bunch of errors[0] in the Pickaxe book lately. If you're using it as a reference, and finding that things don't behave as expected, double check at ruby-doc.org.<p>[0] or at least differences between Ruby 1.6, which is covered in the book, and 1.8, which most people use.",1200150378

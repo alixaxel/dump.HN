@@ -1,0 +1,83 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+399300,comment,398293,398979,0,0,bkj123,,,"Thank you for the input.",1229410598
+399299,comment,399225,399240,0,0,whalesalad,,,"I'm with you here as well. It's essentially a glorified version of the missiles that we currently use to shoot enemy missiles out of the sky. This is where all of the government Military contractors are headed, autonomous packs of weapons that hunt together and act as one mind to destroy something. My dad worked at Lockheed for 20 years and has since moved on to Northrop where they have some pretty crazy pack-hunting autonomous helicopters that look pretty fearsome. That's the kind of stuff I might worry about, but something up in outer space shooting down an enemy rocket doesn't really concern me as potentially dangerous... at least not any more dangerous than shit the Military already has :)",1229410561
+399298,comment,399192,399268,0,0,peterlai,,,"We targeted much smaller blogs for several weeks before developing the credibility necessary to approach the larger ones. Also, when approaching the larger blogs, we approached as a company launching a product. Perhaps you should try maturing your projects a bit more before asking some of the larger blogs to cover your work. Do you have any specific projects in mind that you're trying to launch?",1229410450
+399297,comment,398321,398551,0,0,psnajder,,,"I'll just assume he built it out of mashed potatoes.",1229410432
+399296,comment,399094,399094,0,0,ajkirwin,,,"Un.. durr.. lin?",1229410365
+399295,comment,398597,399262,0,0,etal,,,"Doing the legwork to get back to school and lining your life up with the admissions schedule can take a year or more of planning before it's safe to quit your day job. It helps if other people you know are doing the same thing at the same time. But one thing it doesn't require is getting rich beforehand.",1229410241
+399294,comment,398354,399168,0,0,zmimon,,,"Well, I think you completely missed my point, since I didn't anywhere say that PHP can't scale in the sense you are talking about.",1229410218
+399293,comment,399199,399199,0,0,nickb,,,"From the thesis:<p><i>MusicBox is written in Java 6, and uses Processingfor drawing the visuals. Its dependencies are 
+written in Python (for creating the cached soundsieve thumbnails) and Perl (for uploading and 
+retrieving analysis result ﬁles from The Echo Nest). Audio analysis depends on The Echo Nest 
+Analyze API [56] and Rhythm Histogram Matlab code from the Vienna University of 
+Technology . Jonathan Hilliker created the icons used for the playlist playback buttons.</i><p>The Echo Nest (the.echonest.com) seems to be the classification engine that makes it possible.",1229409848
+399292,story,,,4,4,bootload,"Analysis: Is Apple about to have an enterprise moment?",http://arstechnica.com/guides/askars/apple-in-enterprise.ars,,1229409529
+399291,comment,398597,399178,0,0,evdawg,,,"If you had followed Derek's link you would have found out he sold CD Baby for $22 million :)",1229409450
+399290,comment,399225,399225,0,0,nickb,,,"Obey the first law, please!<p><a href=""http://en.wikipedia.org/wiki/Three_Laws_of_Robotics"" rel=""nofollow"">http://en.wikipedia.org/wiki/Three_Laws_of_Robotics</a>",1229409348
+399289,comment,398593,398593,0,0,time_management,,,"Seeing as it's past my bedtime, can you give a synopsis?",1229409198
+399287,story,,,1,0,kqr2,"US auto woes mean trouble for Japanese makers, too",http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/12/15/financial/f012531S14.DTL,,1229408986
+399286,comment,399192,399223,0,0,lakeeffect,,,"B2C in the first wave, ad based also initially, we are attempting to make money of course",1229408970
+399285,comment,386493,386493,0,0,mdonahoe,,,"spell check time<p>""In a lot of startups—probaby most startups funded by Y Combinator""<p>you mean ""probably"" i assume. no big deal",1229408837
+399284,story,,,28,13,lallysingh,"Five Strangest Programming Languages",http://www.computersight.com/Programming/Five-Strangest-Programming-Languages.397205,,1229408700
+399283,comment,399097,399097,0,0,light3,,,"Wow thanks for posting this I was looking for a good lecture to watch. Not only does this talk have interesting ideas, it is also good to learn from Mr Soros on the pursuit of knowledge and how to live as a human being.",1229408603
+399282,comment,398597,398597,0,0,mdolon,,,"Share the wealth! (cough)",1229408580
+399281,comment,399161,399161,0,0,jjs,,,"""Fork queue?""<p>Same to you, buddy!",1229408564
+399280,comment,399161,399161,0,0,EliAndrewC,,,"I haven't tried out Git yet, but I think this feature may be the most impressive example of what Linus Torvalds said awhile back about Git: that perhaps its most significant advantage would be the tools that people will be able to build on top of it.<p>This seems like an excellent example, especially since it's not something that I could see being feasibly grafted onto Subversion.  I've got a personal codebase that I'm planning on making into an open source project, and this feature alone makes me inclined to try out GitHub.",1229408546
+399279,comment,399177,399184,0,0,tlrobinson,,,"It's something you write codes in.<p>(a pet peeve of mine is when people refer to code as ""codes"")",1229408536
+399278,comment,399192,399192,0,0,mdolon,,,"If your site is Stumble worthy, check out their advertising service @ <a href=""http://www.stumbleupon.com/ads/"" rel=""nofollow"">http://www.stumbleupon.com/ads/</a>. I've been using it for my flash games site with decent success so far and their rates seem pretty fair to me.<p>Also, take a look at the following two posts in which petercooper makes some great suggestions:<p><a href=""http://news.ycombinator.com/item?id=341138"" rel=""nofollow"">http://news.ycombinator.com/item?id=341138</a><p><a href=""http://news.ycombinator.com/item?id=351709"" rel=""nofollow"">http://news.ycombinator.com/item?id=351709</a>",1229408470
+399277,story,,,2,2,IsaacSchlueter,"Should employers discriminate against World of Warcraft players?",http://www.boingboing.net/2008/12/15/should-employers-dis.html,,1229408407
+399276,comment,398692,398938,0,0,tocomment,,,"Now if they'd just provide javascript hooks for the location, acceleratometer, sounds, etc.  (Yes, I've seen PhoneGap)",1229408386
+399275,comment,399199,399269,0,0,mullr,,,"But for a DJ looking to beat match songs, it's a pretty important thing.",1229408283
+399274,comment,398692,398692,0,0,tocomment,,,"Nice ideas and all, but most developers still benefit from being able to charge on the app store, plus the marketing Apple is doing for you (less and less, but it's still better than a web app no one goes to, and google ignores for 6 months.)<p>BTW, I'm going to be disappointed if I don't see the $5000/week people keep mentioning once I get up to speed on iPhone programming :-~",1229408214
+399273,comment,399271,399271,0,0,utsmokingaces,,,"They a tool kit called HAWHAW <a href=""http://www.hawhaw.de/"" rel=""nofollow"">http://www.hawhaw.de/</a> 
+Anyone have any experience with this? I am looking to create a mobile friendly web app but more gear towards the hi-tech / next gen phone. (iphone, android, storm)",1229408176
+399272,comment,399192,399245,0,0,nathanburke,,,"You're right, these are pretty obvious and appealing to a mass audience is much harder than just marketing to the tech crowd. I'd suggest checking out Andrew Chen's blog: <a href=""http://andrewchenblog.com/"" rel=""nofollow"">http://andrewchenblog.com/</a>
+This guy is THE guy to read when it comes to user acquisition.",1229408107
+399271,story,,,3,1,utsmokingaces,"Mobile Version of Wikipedia Finally Launches",http://mobile.wikipedia.org/,,1229407912
+399270,story,,,2,0,kingkawn,"Images derived from Brain Scans",http://scienceblogs.com/pharyngula/2008/12/soon_well_be_reading_your_mind.php,,1229407862
+399269,comment,399199,399199,0,0,mynameishere,,,"<i>beats per minute, length, tone, and a whole bunch of other semi-tangible quantities</i><p>Not once have I ever gone through my collection looking for a song fitting any of the above particular qualities. Maybe some have, but when Pink floyd, the Clash, and Beethoven can occasionally aggree on BPM, it becomes a distinctly useless metric.",1229407838
+399268,comment,399192,399253,0,0,tocomment,,,"I've written to them for a couple projects I made, but never heard a peep back.  What does it take to get their attention?  Any tips?",1229407782
+399266,comment,398913,398913,0,0,ricardo,,,"A great technique is to modify the UI based on context and allowed actions.  As I started using Basecamp (37signals) on a daily basis I realized that there are hardly any error messages in the application.  If you aren't allowed to do something they hide any UI elements associated with the invalid action.  This results in a simpler interface that is more intuitive.",1229407630
+399265,comment,398913,399120,0,0,mahipal,,,"A good interface is intuitive, in the sense of both easily learnable and easily usable. I don't think you can really decouple the two. It sounds like you're mostly just displaying giant blocks of text, so I'd recommend this excellent slideshow on web typography:<p><a href=""http://www.slideshare.net/jeff_croft/elegant-web-typography-presentation"" rel=""nofollow"">http://www.slideshare.net/jeff_croft/elegant-web-typography-...</a><p>It's a bit long, but very thorough and very helpful for content-heavy design -- and it gives you exactly the CSS you need. To summarize it very briefly: a little bit of white space goes a long way.<p>It's also worth putting a little bit of thought into styling the forms, especially since unstyled web forms can be really hideous. Here's a quick walk-through of styling a web form: <a href=""http://www.webcredible.co.uk/user-friendly-resources/css/css-forms.shtml"" rel=""nofollow"">http://www.webcredible.co.uk/user-friendly-resources/css/css...</a><p>Obviously a contrived example, and you wouldn't want so many fancy colors in a professional setting. But the key point there is to align everything nicely, and go to the trouble of grouping related fields using fieldsets and legends.",1229407570
+399264,comment,399192,399245,0,0,mixmax,,,"Very true - if you have any elaborations we'd love to hear..",1229407507
+399262,comment,398597,398878,0,0,antiform,,,"If it's so important to you personally, what is stopping you from going after it now?",1229407445
+399261,story,,,1,0,kainth56,"Google AdSense Steps to Success",http://ludhyana.blogspot.com/2008/12/google-adsense-steps-to-success.html#,,1229407403
+399260,comment,399207,399207,0,0,nathanburke,,,"Please let me know if this post is useful or if you have any questions. I know that a lot of these points are of the ""duh"" variety, but if you have any questions specific to your startup, I'm happy to help.",1229407401
+399259,comment,398597,399258,0,0,JabavuAdams,,," ... learn how to format HN posts ...",1229407376
+399258,comment,398597,398597,0,0,JabavuAdams,,,"Duty:
+* Make sure that if I do nothing else, and barring a collapse of society, I don't have to work for anyone else again.
+* Make sure my wife can stop working for others, too.
+* Make sure my daughter can afford to go anywhere for higher-education. If she doesn't want to go to school, provide her the ability to try startup ideas.
+* Make sure my parents and parents-in-law are looked after.
+* Keep my relatives provisioned with computers, and buy my Dad copies of Mathematica and Matlab.
+* If I have sufficient funds, make sure my relatives can study anything/anywhere they want, as long as their marks are sufficient.
+* Prepare to leave some money to various causes.<p>Fun:
+* Actually spend the summer playing tennis, instead of in crunch mode.
+* Take my parents to Wimbledon, the French Open, the US Open, and the Australian Open.
+* Re-activate my Scuba licence, and spend some time diving.
+* Go sky-diving
+* Go on a ""shooting range tour"" where I fire all those guns you only see in games and movies, and to some kind of CQB training.
+* Learn to fly a plane
+* Learn to fly a helicopter
+* Re-learn how to ski and spend more time doing that.
+* Spend more time playing piano. Maybe learn the cello, the violin, or guitar.
+* Spend some time in extremely remote locations, like the high-seas, in mountains, or underground.<p>Non-Commercial Research:
+* Read even more. Make sure I've read the classics.
+* Spend a few years really learning Physics, at least up to EM with relativistic effects, QM, and GR.
+* Learn cell and molecular biology fundamentals.
+* Research Superconductivity.
+* Research computer vision, motion control, learning, and memory.
+* Research and implement a lifestyle that maximizes my own cognitive abilities, even if it's eccentric.
+* Re-learn French and German. Learn Mandarin and Japanese.
+* Research and implement programming languages.
+* Research meta-programming.<p>Make:
+* Build a legged tele-operated or autonomous robot.
+* Build a submarine
+* Start or contribute to open-source projects in games, simulation, and education.
+* Start a game studio.
+* Become a competent illustrator
+* Make an animated short.
+* Make a smart sci-fi film
+* Build a virtual CAVE.<p>... you get the idea ...",1229407319
+399257,comment,397808,399032,0,0,Zev,,,"I would <i>hate</i> to be stuck knowing/doing only one thing for the rest of my life. As much as i love computers and the internet and the like, I couldn't imagine not being able to pick up a notebook and write a short story or draw something. Not to be able to compose (or hell, even just identify and listen to) good music, discussing politics in depth with lots of details with people and so on.<p>Not being able to do anything but math/code? That honestly sounds horrible to me.",1229407241
+399255,comment,399141,399163,0,0,icefox,,,"Isn't the point of the book that it isn't challenging?  That it is fun and you want to complete it and get a wide range of lessons and then go off exploring on your own?",1229407212

@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+79124,comment,79104,79104,0,0,marcus,,,"<a href=""http://www.thumbshots.org/"" rel=""nofollow"">http://www.thumbshots.org/</a>
+<a href=""http://www.thumbshots.com/"" rel=""nofollow"">http://www.thumbshots.com/</a>",1194940790
+79123,story,,,4,0,jlhamilton,"Which company best nurtures upstart acquisitions: Yahoo or Google?",http://money.cnn.com/galleries/2007/fsb/0711/gallery.google_or_yahoo.fsb/,,1194940637
+79122,comment,79057,79116,0,0,rms,,,"It could, but we still need the money to hire teams of PhDs. It's unfortunately not the kind of thing we can do in someone's basement.",1194940607
+79121,comment,79043,79043,0,0,fauigerzigerk,,,"Old but important to read.",1194940551
+79120,comment,78764,78899,0,0,pistoriusp,,,"I don't mind the Java that much, but I would have preferred Python. The one thing that really bothered me was all the XML intertwined and spangled all over...",1194940332
+79118,comment,79053,79053,0,0,carpal,,,"And I thought that 54 hours was hard...<p>(<a href=""http://atlanta.startupweekend.com"" rel=""nofollow"">http://atlanta.startupweekend.com</a>)",1194940137
+79117,comment,79057,79057,0,0,fauigerzigerk,,,"I'd finally create the fgPhone. You may now speculate about how it will purge the world of all phone carriers and generally redefine telecommunication as we know it. How it works? Well, I'd make the ISO, the W3C and the JCP join forces to create the mother of all committees...",1194940063
+79116,comment,79057,79059,0,0,fauigerzigerk,,,"If that actually works it's a shame that it depends on you becoming a billionaire first. Can it not work the other way around?<p>",1194939654
+79115,comment,78933,78933,0,0,carpal,,,"Georgia's HOPE scholarship requires that you keep a 3.0 GPA in order to receive free tuition.<p>My final GPA was 3.1.  It is not a coincidence.
+",1194939644
+79114,comment,78907,78907,0,0,marcus,,,"Notification is not very interesting, as it doesn't help you withstand the spike, there is little you can do once the spike started to help. But something that will help you withstand the spike now thats an interesting question, there are tons of tool to help you withstand the traffic better but none that I know of are plug & play or leverage your capacity beyond what can be provided by your existing hardware.
+Maybe a distributed offsite cache application, maybe even a p2p approach i.e. a 1000 blogs subscribe to the service and the load of spikes is distributed among them.
+Both of these could be the basis of a good business model actually... Too bad the Winter 2008 deadline for YC applications passed.<p>But a well crafted website should be able to withstand a ton of traffic without any outside help, check out plentyoffish.
+",1194939623
+79113,comment,79048,79048,0,0,Neoryder,,,"You are an inspiration!",1194939127
+79112,story,,,6,9,JRM,"The Future of the Recording Industry",http://mattmaroon.com/?p=293,,1194939106
+79111,comment,78933,79099,0,0,rms,,,">Are you saying the only incentive for students to spend hundreds of hours in the research lab is just to get a letter of recommendation from the professor and land a job? As a student, I find that ridiculous. Are you saying the only incentive for Catholics to pray the rosary is to rack up points in the afterlife? As a Catholic, I find that objectionable.<p>In this context, the reason to pray the rosary or spend a lot of time learning in college is for self-fulfillment. If you find it fulfilling, great. If not, your time is probably better spent doing something else, if the afterlife points or letter of recommendation don't matter to you.",1194938851
+79110,comment,79057,79057,0,0,mxh,,,"Two possibilities:<p>a.) Physics.  Always found it interesting, but not into academia as a way to pay the bills.<p>b.) Feeling poor compared to those bastards with 11 figure net worths.
+",1194938819
+79109,story,,,2,0,nickb,"Internet advertising revenues in Q3 '07 surpass $5.2 billion, setting new high",http://iab.net/news/pr_2007_11_12c.asp,,1194938807
+79108,comment,78933,78991,0,0,tyler,,,"""they just don't seem well refined...""<p>I'm not sure if you're talking about all degrees, or just CS... However, speaking specifically about CS, I believe that my lack of refinement comes not from lack of Computer Science courses, but from lack of Math.<p>There is not much that an undergrad CS education teaches that I have not learned on my own over the past few years.  However, I find that when I'm delving into deeper magic, my lack of math comes into sharp perspective.  Most recently, this came up while I was hacking together a recommendation engine.<p>Sure, I can read a few articles and throw something together that works.  But, when it comes to fine tuning it... I'm lost.<p>By the way, I'm a 22 year old hacker who did not go to college (yet).    And I'm taking a Linear Algebra class right now to alleviate some of this problem anyway... heh.",1194938722
+79107,comment,79048,79048,0,0,neelesh,,,"The preview is awesome! Hats off to your dedication! ",1194938687
+79106,story,,,3,0,nickb,"Truck driver in Texas kills all the websites you really use",http://valleywag.com/tech/breakdowns/truck-driver-in-texas-kills-all-the-websites-you-really-use-321881.php,,1194938686
+79105,comment,78933,78997,0,0,jey,,,"Addendum: I'm especially interested in hearing arguments for why I should finish my degree. I try not to be dogmatic about any views and am continually open to new data/ideas to refine my thoughts, so if you know of some compelling reasons, I'm all ears.",1194938479
+79103,story,,,13,6,dfranke,"A Bayesian filter for stupidity",http://stupidfilter.org/main/,,1194937907
+79102,comment,78850,78850,0,0,marcus,,,"I don't think it will be a very accurate predictor of ability but it might send the message that you are not a standard company to work for, and make your company stand out in the applicants memory.
+I'd only consider doing it if game playing is part of your company's ethos, for example as a way to relive tension.
+As a predictor nothing beats having the applicant write or tinker with a small program.",1194937728
+79101,comment,79015,79015,0,0,aaroneous,,,"What is Gatherama?
+Submitted and voted continuously by citizens like you, Gatherama is an instant reflection of the world's opinion on current events that are happening.<p>Huh?",1194937646
+79100,comment,79066,79086,0,0,myoung8,,,"Nothing special. Eventually, it will be a relatively high transaction volume--in the hundreds of thousands of transactions per year, hopefully breaking 1M at some point.<p>Nicely designed site, btw.",1194937640

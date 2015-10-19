@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+200779,comment,198542,198542,0,0,ntoshev,,,"I'll release a solution to this problem (among others) in a month or so. If you are interested, drop me a line on my username at gmail.",1211875055
+200778,comment,200559,200748,0,0,avinashv,,,"Email me for an invite.",1211874828
+200777,comment,200433,200433,0,0,viergroupie,,,">Adam Leibsohn, a 27-year-old communications strategist who makes roughly $60,000 a year and pays $1,650 a month for his own apartment in the East Village...“It’s kind of a spartan lifestyle,” he says.<p>We admire your frugality.",1211874580
+200776,comment,200228,200477,0,0,davidw,,,"I think 'rural' is going a bit far, but it would be fair to characterize the valley as ""All the drawbacks of a big city with non of the benefits"".",1211874372
+200775,comment,200670,200727,0,0,boredguy8,,,"Interesting work makes boring data sets appear interesting. Start by seeking interpretations.",1211874061
+200774,story,,,1,0,nreece,"Guy Kawasaki on Innovations",http://www.sun.com/solutions/smb/guest.jsp?blog=darrenrowse,,1211874020
+200773,story,,,1,0,bdfh42,"Play Processing.js Tower Defense",http://www.willarson.com/code/processing/ptd.html,,1211873895
+200772,story,,,1,0,bdfh42,"Never Confuse Corporations With Law Enforcement",http://gilesbowkett.blogspot.com/2008/05/never-confuse-corporations-with-law.html,,1211873796
+200771,comment,200562,200632,0,0,mtts,,,"Re: Nobody uses Silverlight: some tv channels (Italian RAI, Dutch NOS) do for streaming TV over the web. Don't know why, though.",1211873776
+200770,comment,200728,200728,0,0,nuggien,,,"There are no stupid design patterns, only stupid programmers who don't understand why they are using the design patterns.",1211873705
+200769,comment,200562,200562,0,0,tlrobinson,,,"I think we'll eventually see the convergence of web apps and desktop apps. Sort of a hybrid of the two. AIR and Google Gears are steps in that direction.",1211873635
+200768,story,,,3,0,nreece,"Shattering the Conventional Wisdom on Growing Inequality",http://freakonomics.blogs.nytimes.com/2008/05/19/shattering-the-conventional-wisdom-on-growing-inequality/,,1211873618
+200767,story,,,2,0,nreece,"The Only Eight Books I’ve Kept (After Hundreds of Reviews)",http://www.thesimpledollar.com/2008/05/20/the-essential-bookshelf-the-only-eight-books-ive-kept-after-hundreds-of-reviews/,,1211873530
+200766,comment,200545,200545,0,0,doubleplus,,,"""podcasts that chronicles the news of the web"" s/b ""chronicle""<p>""Devorak"" s/b ""Dvorak""<p>This blog is pure filler, yet every entry makes the front page here.  The bad poems written by the random 17 year old goth girl I added on livejournal three years ago have more insights than these posts.  Is the maintainer a HN member?  Someone almost-famous?  I don't get it.",1211873409
+200765,comment,200558,200745,0,0,zenspider,,,"with one clarification... (last I checked) 1.9.1 will be the stable, it won't be incremented to 2.0. Matz decided against the even/odd = stable/dev versioning scheme.",1211873368
+200764,comment,200558,200701,0,0,zenspider,,,"not true anymore... disregard",1211873328
+200763,comment,200502,200611,0,0,zenspider,,,"wrong. have you bothered trying what you're claiming to be true?<p><pre><code>    % ./blah.rb; ./hah.rb 
+    blah
+    blah
+    % cat blah.rb
+    #!/usr/bin/ruby
+    
+    if __FILE__ == $0
+      puts ""blah""
+    end
+    % ls -F hah.rb
+    hah.rb@</code></pre>",1211873260
+200762,comment,200670,200670,0,0,dejb,,,"I agree that solving 'new' problems is a lot of fun. This can cause problem if you try to turn more mundane problems into interesting ones by making your code cover substantiatlly more general cases than is necessary. This is what has happened to me sometimes.<p>I guess you could consider the optimisation problem of how to finish your 'less than new' problem most effectively as a potentially interesting meta-problem.",1211873074
+200761,comment,200336,200650,0,0,demallien,,,"I do DRM for a day job, including cracking systems to find their vulnerabilities (and then patch those vulnerabilities, before the pirtes exploit them - fun!).  TPM is not the same as the other solutions, it really is a bitch to crack.  You're pretty much reduced to reverse enginering the entire CPU, removing the TPM module, and then fabbing your own unprotected copy of the CPU.  As you can probably imagine, this is not within the reach of a couple of bored uni students.",1211873033
+200760,comment,200728,200728,0,0,Tichy,,,"Ironically, my experience was that everybody seemed to only understand the factory pattern. Wherever I worked, people loved using factory, whether it made sense or not.",1211873031
+200759,comment,200582,200582,0,0,sown,,,"It renders all weird in links. :(",1211873022
+200758,story,,,1,0,breily,"Friendfeed Is Going To Kill Google Reader, Not Twitter",http://www.loiclemeur.com/english/2008/05/friendfeed-is-g.html,,1211872659
+200757,story,,,1,1,davidw,"In case you weren't convinced that ""rockstar"" has jumped the shark",http://www.flickr.com/photos/rbowen/sets/72157605257536663/,,1211872570
+200756,comment,200451,200451,0,0,astrec,,,"A poor title selection detracts from what is otherwise very good advice.<p>The formula is simple and elegant and the result quite useful: an elevator pitch. I can't count the number of times over the years that I've tripped over myself trying to explain what I'm working on.",1211872361
+200755,comment,200228,200629,0,0,Tichy,,,"I thought there are robot harvesters guided by GPS already?",1211872099
+200754,comment,200670,200740,0,0,LPTS,,,"I know how the system works, yeah.",1211872089
+200753,comment,200228,200450,0,0,Tichy,,,"It makes him sound like some kind of hero, though. Maybe he is, but in general, I think ruining one's health through working too much is not a good idea.",1211872062
+200752,comment,200459,200459,0,0,signa11,,,"""OTP should re-branded as ""OTP on rails"" it's really just a framework for building fault tolerant systems."" nice !<p>edit: using that as the title, would have gotten this much more upvotes.",1211871964
+200751,comment,200559,200559,0,0,ardit33,,,"codespaces.com  subversion account, and it is free for the basic one.",1211871904
+200750,comment,363,363,0,0,rms,,,"Allow duplicate stories after 365 days.",1211871823
+200749,comment,363,363,0,0,rms,,,"Collision detection for www.<i>.com and </i>.com in the dupe checker.",1211871809
+200748,comment,200559,200672,0,0,schtog,,,"tried to signup for dropbox but it is just an invite-only beta.<p>looks very good though, exactly what i want. fast simple and free(?).",1211871765
+200747,story,,,1,2,szferi,"A new type of cipher: DICING_CSB","http://www.ecrypt.eu.org/stream/phorum/read.php?1,1039",,1211871654

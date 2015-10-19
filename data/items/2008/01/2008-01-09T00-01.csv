@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+96213,comment,96013,96209,0,0,henning,,,"It's intentional, and it more or less makes sense if you've listened to Autechre's music.<p>IDM people are kind of the intelligent chin stroking artsy bedroom-techno loners of the electronic music scene.",1199840376
+96212,comment,95722,95793,0,0,Tichy,,,"I thought the article would have been more interesting if it had been more about frameworks and less about hammers.<p>Thinking further, it also seems odd that there actually are different hammers, not just an universal hammer. Maybe for good reason? So maybe the analogy was not that great.",1199839867
+96211,comment,96038,96038,0,0,bayareaguy,,,"Has any ""saved"" thing ever disappeared from YC?",1199839691
+96210,comment,96028,96028,0,0,alaskamiller,,,"wait till one of them suddenly drifts to mars",1199839467
+96209,comment,96013,96013,0,0,bayareaguy,,,"Is the page supposed to look like this or is Opera having a really bad day?<p>- <a href=""http://i250.photobucket.com/albums/gg244/yc96013/YC96013.png"" rel=""nofollow"">http://i250.photobucket.com/albums/gg244/yc96013/YC96013.png</a>",1199839250
+96208,comment,95153,95495,0,0,Tichy,,,"Yes, probably lot's of cool things can be done with it, some that even the inventors have not yet thought about. At first it seems like a recipe for disaster, though (debugging hell) ;-)",1199839177
+96207,comment,95931,95931,0,0,tptacek,,,"Lots of important technology makes no money, and is a poor investment. Do Prototype, Mochikit, or Twisted have VC funding?",1199839107
+96206,story,,,11,11,iamelgringo,"The IT department is dead",http://www.networkworld.com/news/2008/010708-carr-it-dead.html,,1199838664
+96205,comment,96020,96020,0,0,bayareaguy,,,"If I were Microsoft, I'd try to come up with some way to get Passport (aka Windows Live ID) into to the data portability effort.",1199838603
+96204,comment,96200,96200,0,0,ivankirigin,,,"I'd rock some major freecell with this guy",1199838298
+96203,story,,,7,0,iamelgringo,"832GB solid state drive launching ",http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyName=storage&articleId=9055681&taxonomyId=19&intsrc=kc_top,,1199838254
+96202,comment,96057,96057,0,0,ntoshev,,,"Someone mentioned dapper.net and I upmodded it, but I think it will get lost in the noise.<p>As far as I understand, they are very close to what you are trying to do, so study them carefully as a competitor.",1199838158
+96201,story,,,5,2,iamelgringo,"SQL Insertion mass hack infects tens of thousands of sites",http://www.computerworld.com.au/index.php/id;683627551,,1199838109
+96200,story,,,1,1,iamelgringo,"Huge Monitor: Alienware Curved Monitor Looks Like It's From Another Planet",http://gizmodo.com/341413/alienware-curved-monitor-looks-like-its-from-another-planet,,1199838071
+96199,story,,,2,0,ivankirigin,"Circuit Bending",http://youtube.com/watch?v=w6Pbyg_kcEk,,1199838058
+96198,comment,96194,96194,0,0,iamelgringo,,,"Best excerpt from the end of the article:<p><i>There are all sorts of lessons in these cases. One is that the border seems be a privacy-free zone. A second is that encryption programs work. A third is that you should keep your password to yourself. And the most important is that you should leave your laptop at home.</i>",1199838009
+96197,comment,95903,96185,0,0,Tichy,,,"Well, perhaps he would be persuasive enough to convince management to switch over to LISP ;-)",1199837931
+96196,comment,96013,96171,0,0,ivankirigin,,,"Autechre is very mild, as far as noise is concerned. Try ""Incunabula"" for a very listen-able album.<p>For noise, try Venetian Snares - ""A Giant Alien Force More Violent & Sick Than Anything You Can Imagine"". Served best with a FPS.",1199837901
+96195,comment,96025,96145,0,0,ntoshev,,,"The article did mention internet and that got me confused. Thanks. Here is the company site for reference:
+<a href=""http://www.fastsearch.com/"" rel=""nofollow"">http://www.fastsearch.com/</a>",1199837893
+96194,story,,,1,1,iamelgringo,"U.S. courts consider legality of laptop inspections at the border",http://www.iht.com/articles/2008/01/07/america/legal.php,"At the end of the article:<p><i>There are all sorts of lessons in these cases. One is that the border seems be a privacy-free zone. A second is that encryption programs work. A third is that you should keep your password to yourself. And the most important is that you should leave your laptop at home. </i>",1199837878
+96193,story,,,6,1,iamelgringo,"Comcast promising 160 Mb/s Internet ",http://www.cnn.com/2008/TECH/01/08/ces.comcast.ap/index.html,,1199837655
+96191,comment,96010,96010,0,0,Tichy,,,"""kids who are really interesting in programming, not computer science""<p>I have troubles imagining that kind of person? In any case, I would be wary of a programmer who doesn't even know Quicksort.",1199837569
+96190,story,,,10,0,iamelgringo,"Domain Registrar Network Solutions Purchases Searched Domain Names",http://www.domainnamenews.com/featured/domain-registrar-network-solutions-front-running-on-whois-searches/1359,,1199837435
+96189,story,,,3,0,iamelgringo,"Google and Facebook Join DataPortability.org",http://www.readwriteweb.com/archives/goog-fb-data.php,,1199837322
+96188,comment,96119,96121,0,0,Tichy,,,"Thanks - I really don't understand why scientific publications go into ""closed"" journals...",1199837055
+96187,story,,,2,0,abarrera,"America's downfall: Hey teachers, leave us laptops alone!",http://alwaysnewmistakes.wordpress.com/2008/01/09/americas-downfall-hey-teachers-leave-us-laptops-alone/,,1199836879
+96186,comment,95605,95814,0,0,gruseom,,,"""Premature optimization"" has become a mantra for not thinking about performance at all. If users notice it, it's not premature.",1199836867

@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+211537,comment,211500,211500,0,0,michael_dorfman,,,"...and here I was, guessing ""recursion"".",1212850669
+211536,story,,,2,0,echair,"Everything that can be digitized, will be digitized",http://www.nytimes.com/2008/06/06/opinion/06krugman.html?em&ex=1212984000&en=5d9bfa8281e87170&ei=5070,,1212850516
+211535,story,,,3,1,echair,"Cell Services Keep It Easy, and Free",http://www.nytimes.com/2008/06/05/technology/personaltech/05pogue.html?em&ex=1212984000&en=e64f1abd6e8e8522&ei=5070,,1212850455
+211534,comment,211532,211532,0,0,davidw,,,"Post the original story, please, not a linkjacking.",1212850247
+211533,story,,,14,13,jmorin007,"The clowd",http://sethgodin.typepad.com/seths_blog/2008/06/the-clowd.html,,1212849478
+211532,story,,,5,3,fuad,"The 10 Best Linus Torvalds Quotes",http://www.businessreviewonline.com/os/archives/2008/06/the_10_best_lin.html,,1212848714
+211531,comment,211500,211500,0,0,mynameishere,,,"""Routine"" as he means it is a control structure with an implicit stack with a memory range associated with each JMP. (That is foo(int x) has four bytes on the stack devoted to x). If a language has no routines, they can be faked out if you can make a stack data structure, which would be a little difficult in basic, having no pointers or references. Hence, I'd say pointers are somewhat more ""great"".",1212848399
+211530,story,,,4,0,smanek,"The strange allure of making your own fonts",http://www.slate.com/id/2192535/,,1212848098
+211529,comment,211461,211461,0,0,metajack,,,"I started using twitter a lot more right before blaine left.  Now I barely use it because the IM integration is gone.  Hopefully someone will move forward to implement the distributed twitter on top of XMPP and Pubsub.  There is already a tentative little XEP: <a href=""http://www.xmpp.org/extensions/inbox/microblogging.html"" rel=""nofollow"">http://www.xmpp.org/extensions/inbox/microblogging.html</a>",1212847922
+211528,comment,211255,211361,0,0,icey,,,"I think this might seriously be one of the most helpful replies I've seen on YC - Thank you!",1212847605
+211527,comment,211438,211438,0,0,jgrahamc,,,"From TFA:<p>> Just how will Apple meet expectations? Using the patent 
+> application as a guide, Apple appears to be making room on 
+> the iPhone for flash memory, which means an end to Apple's 
+> standoff with Adobe (ADBE) that's kept iPhones from easily 
+> viewing a plethora of Internet videos.<p>Translation: At CNN we have _no idea_ what we are talking about.  Flash Memory != Adobe Flash.",1212847291

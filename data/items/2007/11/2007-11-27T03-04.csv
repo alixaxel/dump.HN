@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83809,comment,83783,83783,0,0,oPerrin,,,"This falls into a class of technologies which can be described thus: It would be awesome if it worked but probably won't.<p>On 15 search queries which I regularly perform on Google Scholar (e.g. QED, fMRI, Feynman, Jeff Hawkins etc.) I got zero useful results. The one hit on Feynman for example was a false positive.<p>While I really enjoyed their UI and watching the transcript follow along with the speech (play a video to see this happen) the accuracy was so low on all the key concept terms that I can't imagine how it would be useful at this level. <p>",1196135930
+83808,comment,83806,83806,0,0,rms,,,"This is definitely a worthwhile skill to develop. People don't like it when you forget their names, even when they themselves admit to being bad with names.",1196135859
+83807,story,,,5,0,hhm,"What's my name - naming your product, business or domain",http://www.halfagain.com/general-marketing/whats-my-name.html,,1196135592
+83806,story,,,9,4,german,"How to Always Remember People's Names",http://litemind.com/how-to-always-remember-peoples-names/,,1196135481
+83805,comment,83594,83757,0,0,michael_nielsen,,,"I'm Michael Nielsen (the first author). I'm very glad you liked our book!  A little correction: my co-author is Ike Chuang.<p>(I'm not grepping my name.  I've  taken an extended, possibly permanent, break from quantum computing, and will likely start a web-based company or foundation.  YC News is a great resource, which I check regularly.)
+",1196135318
+83804,story,,,2,0,bootload,"Data portability and thinking ahead to 2008",http://factoryjoe.com/blog/2007/11/26/data-portability-and-thinking-ahead-to-2008/,,1196134720
+83803,story,,,13,9,nickb,"   The Unintended Consequences of OLPC",http://gigaom.com/2007/11/26/cloud-client-computers/,,1196134194
+83802,story,,,6,0,nickb,"   Zoho Seeks to Replace, Not Embrace, Microsoft Office ",http://gigaom.com/2007/11/26/zoho-seeks-to-replace-not-embrace-microsoft-office/,,1196134173
+83801,story,,,1,0,nickb,"iHound: Lowjack For Your USB Devices",http://www.techcrunch.com/2007/11/26/ihound-lowjack-for-your-usb-devices/,,1196134114
+83800,story,,,1,0,nickb,"TechCrunch40 Presenters' Traffic Two Months In",http://www.techcrunch.com/2007/11/26/techcrunch40-presenters-traffic-two-months-in/,,1196134095
+83799,story,,,1,0,nickb,"Facebook Privacy Issue Won't Die",http://www.techcrunch.com/2007/11/26/facebook-privacy-issue-wont-die/,,1196133688
+83798,story,,,10,3,nickb,"Has TechCrunch jumped the shark? They're profiling a website that sells videos of fireplace logs (yes, really)",http://www.techcrunch.com/2007/11/26/iyuletv-a-yule-log-for-your-iphone/,,1196133580
+83797,comment,83359,83620,0,0,jey,,,"I haven't played with it enough to evaluate it on functionality, but as-is, it's not pretty enough to get popular. It's sad that aesthetics matter so much for a purely functional tool, but that's just how things are.",1196133396
+83796,comment,83702,83702,0,0,nickb,,,"This is amazingly cool and showcases the power of the web and the spirit of mashups. Only an open platform allows stuff like this. Thanks!",1196133343
+83795,comment,83685,83777,0,0,jey,,,"So that the other users don't have to be on the VPN, only the firewalled ones.",1196133109
+83794,comment,83569,83569,0,0,damien,,,"I'm curious as to what made Delphi ""legacy code"" and why it needs replacing? Also, doesn't Delphi 2007 allow targeting to .NET? See: <a href=""http://en.wikipedia.org/wiki/Borland_Delphi"" rel=""nofollow"">http://en.wikipedia.org/wiki/Borland_Delphi</a><p>Be sure you aren't doing this rewrite for the wrong reasons.",1196132988
+83793,comment,83594,83757,0,0,jey,,,"Awesome, thanks!",1196132842
+83792,story,,,1,0,thomas,"Media Temple Grid Review- One Year and Counting",http://www.arghyle.com/2007/11/26/media-temple-grid-review-one-year-and-counting/,,1196132714

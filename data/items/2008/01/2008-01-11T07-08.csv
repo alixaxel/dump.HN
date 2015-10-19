@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97091,story,,,1,0,mudge,"The Ultimate Web Developer Setup",http://tech.aaronparecki.com/index.php?/archives/29-The-Ultimate-Web-Developer-Setup.html,,1200037792
+97090,comment,96769,96769,0,0,Tichy,,,"I seem to have heard the same kind of answer from the Rails community before: ""do it yourself if you really care"". I don't blame DHH for it, but I think it is interesting to note the difference to the major Java frameworks I know, like Spring. I think they care a lot more about their community and the popularity of their framework.<p>Apparently since DHH built Rails for his own use, he doesn't care if anybody else uses it or not. Although I wonder how much the popularity of Rails contributes to the success of 37signals - would anybody even know about their web applications if it wasn't for the Rails hype?<p>In any case, that kind of thing is why people still choose Java over Ruby.",1200037571
+97089,comment,97051,97051,0,0,johnrob,,,huh?,1200037447
+97088,comment,96917,97023,0,0,Tichy,,,"I completely don't understand that kind of humor. The episode Steve Wozniak describes in iWoz, playing pranks with the remote control a few decades ago, OK, it was weird and sort of interesting, although I am also glad that I was not the victim of his joke. But to copy that kind of thing now, I really don't get it. At least Wozniak built his own remote control.<p>Sorry to rant about it, but it seems to me to be the same mentality as the script kiddies, it's just plain annoying and making the lifes of everybody else harder.",1200037115
+97086,comment,96866,96866,0,0,bigbee,,,"Our first lump of cash came from angel investors that I got to know working (as an employee, not a founder) in a previous startup.
+In general, people who know you already, are more likely to be willing to bet on you.",1200036747
+97085,comment,97082,97082,0,0,oppositionradio,,,"me:<p>jowyang
+Scobleizer (duh)
+steverubel 
+factoryjoe
+swardley
+gruber<p>for starters ... great stuff - other recommendations?",1200035838
+97084,story,,,1,0,wturner,"Needed:Sombody to help me customise Wikimedia",,"Hi,<p>I am looking for a programmer/developer to help me customise wikimedia and integrate it w/ a messageboard.<p>if anyone is interested email:
+oneokayfella@gmail.com<p>Pay is negotiable
+Thanks.",1200035486
+97083,comment,97011,97081,0,0,samson,,,"Not to over beat the question, but I think he said what any futuristic type programmer on a deadline would say: ""if you give me more time I can make it better"".",1200035424
+97082,story,,,1,1,oppositionradio,"Who do you follow on twitter that helps keep you informed?",,"Who do you follow on twitter that helps keep you informed?",1200035081
+97081,comment,97011,97011,0,0,samson,,,"I don't think he said Windows sucks, I think he was saying whatever they make five years from now will make what we currently use look like garbage.<p>Any one who's ever listened to Gates knows this is how he likes to talk.<p>But, sadly even after five years Microsoft products usually don't get that but much better.",1200034924

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+206586,comment,206399,206399,0,0,earthboundkid,,,"Humans are the moral animal.",1212400658
+206585,comment,206489,206557,0,0,greendestiny,,,"Well templates do let you do just about everything being a meta-programming language - however libraries rarely use them and they are very complicated to implement yourself.<p>I've not found static typing to be a big productivity win. I think it disallows a small subset of bugs. Like most people I've been a C++ programmer because it was the highest performance language with the best support for operating and window systems. I'm gleefully looking forward to it playing a smaller and smaller part of my programming work.",1212400654
+206584,comment,206288,206288,0,0,davidw,,,"More random hints about Tsumobi without any meat.  Argh:-)",1212399964
+206583,story,,,4,7,davidw,"WuChess: Online Chess For The Hip Hop Crowd. Why Not.",http://www.techcrunch.com/2008/06/02/wuchess-online-chess-for-the-hip-hop-crowd-why-not/,,1212399761
+206582,story,,,2,0,wumi,"Andrew Chen: Data portabillity: Is the social network data you're hoarding treasure or trash?",http://andrewchen.typepad.com/andrew_chens_blog/2008/06/data-portabillity-is-the-social-network-data-youre-hoarding-treasure-or-trash.html,,1212399630
+206581,comment,206146,206146,0,0,pierrefar,,,"Remember, whatever you start with will change. So make sure it's easy to change.",1212399358
+206580,comment,206511,206571,0,0,mattjung,,,"What were the reasons that you decided to write the wrapper code yourself (Facebooker e.g. looks pretty ruby-ish to me)?",1212399043
+206579,comment,206489,206569,0,0,gaius,,,"Funny, I look at Ada every day ('cept it's called PL/SQL).",1212398944
+206578,story,,,1,0,prakash,"Belgian researchers develop desktop supercomputer.",http://fastra.ua.ac.be/en/index.html,,1212398696
+206575,comment,206525,206568,0,0,wumi,,,"i didn't really mention anything about messaging, as in buddy lists, but simply to facilitate action that already happens -- manually following a user of interest to see their latest threads and submissions.",1212397391
+206574,story,,,9,14,dragonquest,"2012: The Year The Internet Ends",http://ipower.ning.com/netneutrality,,1212397308

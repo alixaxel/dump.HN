@@ -1,0 +1,37 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+174658,story,,,1,3,rockstar9,"CakePHP vs. RoR: Which One Do You Prefer?",http://www.sproutly.com/2008/04/26/cakephp-vs-ruby-on-rails/,,1209268701
+174657,story,,,1,0,breily,"Haptic Technology Coming to iPhone",http://www.engadget.com/2008/04/26/apple-looking-to-immersion-for-haptic-technology-on-iphone/,,1209268580
+174656,comment,174586,174611,0,0,yawl,,,"Right. There is no way you can relicense it. The derived code is still GPL.",1209268574
+174655,story,,,5,3,naish,"Still Debating With Plato--Is Mathematics Discovered or Invented?",http://www.sciencenews.org/view/generic/id/31392/title/Still_debating_with_Plato,,1209268497
+174654,comment,174586,174595,0,0,Herring,,,"GPL isn't any more viral than ordinary copyright. You can never distribute copyrighted material except under terms that the author grants.<p>It's like saying the windows license (no unauthorized distribution) is viral because if you got the windows source code & used bits in your program you wouldn't be able to distribute the program at all without getting sued to hell. Did the windows license spread to your program?",1209268464
+174653,story,,,9,5,iamelgringo,"Inside the Forgotten X Prize—the One That Can Save Your Life",http://www.popularmechanics.com/science/health_medicine/4260863.html,,1209268426
+174652,comment,173918,174484,0,0,euccastro,,,"I don't know what part or aspect of SL you think couldn't have been done Open Source, but there was this company called Nevrax who developed and launched this MMO called Ryzom. It was not a commercial success, but it got done, and it was open sourced all along, which AFAIK did't hurt them much.<p>Edit: <a href=""http://www.fsf.org/news/free-ryzom"" rel=""nofollow"">http://www.fsf.org/news/free-ryzom</a> (where it also says Linden Labs has GPLed the client code for Second Life, back in 2007.)",1209268341
+174651,story,,,19,12,naish,"Django: queryset-refactor branch merged into trunk",http://code.djangoproject.com/changeset/7477,,1209268012
+174650,story,,,1,0,aykall,"Transforming a idea into business",http://www.monetizelab.com/startup/2008/04/26/transforming-a-idea-into-a-business/,,1209267997
+174649,comment,174581,174581,0,0,greendestiny,,,"This nothing to do with computing being less useful, its just that now computing is so essential for other fields. If other courses want to have a computing for X then go for it, it's not the problem of the Computer Science department.",1209267559
+174648,comment,174522,174522,0,0,anupamkapoor,,,"what a nice article ! i have had similar experiences (total of  8 years in barbados + us of a), and when my kid came along it seemed unfair (on my part) to bereft him of his roots. after some soul searching, we came back...",1209267551
+174647,comment,173548,174089,0,0,dennykmiu,,,"There is not much that you can learned from people who failed, neither.<p>I think PB's comment is still the best, ""Advice = Limited Life Experience + Overgeneralization"".<p>However, what I learned is that if I accept that there is limitation to other people's advise, I would still like to hear from them in order to help me make my own decision and according to my own circumstances.<p>My experience with startups is that it always come down to impedance match.  Having an academic background in mechanics, what I learned is that condition for perfect impedance match is when system is at resonance.  The opposite of resonance is dissonance.  In my previous career, I had discovered that dissonance is in fact a resonance, but it is a resonance of a sub-structure when someone has put an artificial constraint on the sensory point (such that there is no signal).<p>In some way, that's how startups work.  Just because you fail doesn't mean that the rest of the world has failed.  In fact, they might very well have succeeded but somehow you just weren't part of that success.  So our job is make sure that we have as perfect as an impedance match with the rest of the world as possible, so that we are part of the resonance and not part of the dissonance.<p>This sounds very theoretical.  But it is not.  It is really about paying attention to others in your eco-system (VC's, customers, co-Founders, channel partners, etc.) and make sure that you are part of their success.  Specifically in this conversation thread, we are talking about starting startups with VC money or through bootstrapping.  I never felt that it is a religious question.  Either way will lead to success and either way can lead to failure.<p>But as entrepreneurs, our job is to figure what VC's bring to the party and if we take VC money, how we could be part of their success.  If we don't take money from VC's, how we could still be successful nevertheless.<p>I tried to organize my experience and my thoughts in my book-in-progess (<a href=""http://www.StartupForLess.org"" rel=""nofollow"">http://www.StartupForLess.org</a>).",1209267121
+174646,comment,174575,174641,0,0,SwellJoe,,,"Frankly, I wouldn't want to argue with Knuth on very many things.  While I don't get literate programming, I suspect he understands something that the rest of us don't (yet).<p>And, I share his suspicion of most XP techniques.",1209267097
+174645,story,,,1,0,rrival,"When Free Content Remains Captive",http://www.internetevolution.com/author.asp?section_id=619&doc_id=151578&,,1209267045
+174644,story,,,5,4,SwellJoe,"YAPC:NA 2008 in Chicago",http://conferences.mongueurs.net/yn2008/,,1209266952
+174643,comment,174257,174257,0,0,DenisM,,,"I was advised to use ""omnibus survey"" on the theory that it's cheaper that normal full-blow survey. Never gotten to use it, so just passing it on.",1209266794
+174642,comment,174582,174582,0,0,gibsonf1,,,"<i>""This might be what helps us escape from the emacs ghetto.""</i><p>Wow, I guess I have no idea what this means.  Emacs/Slime has been truly enjoyable to work with.",1209266273
+174641,comment,174575,174575,0,0,anupamkapoor,,,"bottom line :<p>- tex / latex rocks<p>- lp not so much",1209266213
+174640,comment,166905,166905,0,0,workgold,,,"similar to programming is martial arts.
+<a href=""http://en.wikipedia.org/wiki/Miyamoto_Musashi#First_duel"" rel=""nofollow"">http://en.wikipedia.org/wiki/Miyamoto_Musashi#First_duel</a>
+""If you try to wield the long sword quickly you will mistake the Way. To wield the long sword well you must wield it calmly.
+stage1: only when happy are you calm.  Feel the force, Luke SkyWalker.
+stage2: calm at all times, whether angry or drowsy
+stage3: minimizing emotion; just aa game
+stage4: harnessing emotion; Music Composers write when 
+they are in love
+stage5: emotional and concentration peaks bio-rhythym.<p>many car accidents from Americans driving drowsy, inattentive.
+ADD?  writing boring, routine, same old, same old code?
+are you driving drowsy?<p>Why is tennis champion champion?  Because only on the
+'critical match point' shots he wins.  Difference in percentage
+between loser and BIG winnner is very small.
+270 baseball batter and 320 batter difference is 50 points.
+1/4 second - OLympic gold medal swimmer.<p>a possible good way (controversial) introduce the competitor's
+star team of programmers and comedy writers to 'fashion models',
+'drama queens', inject an overload of emotion.<p>Can you concentrate on writing critical code after have your
+face slapped by a girl friend or even her friend?",1209265858

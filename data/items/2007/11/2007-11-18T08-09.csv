@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81167,comment,80662,80839,0,0,killerstorm,,,"have you ever tried to use Windows API and COM stuff? often even simple task requires several pages of complex and cryptic code. there is fine documentation for each function, but barely anyone can write meaningful programs using only this documentation, you need a code samples to do this, and problem is not because APIs are too low level -- they are just too complex.<p>i had no luck of using Lisp Machines, but if you compare CL to them, i can say CL is absolute easiness, joy and bliss comparing to WinAPI/C++ stuff.<p>even pure C++ (w/o WinAPI) gets very cryptic with modern template-metaprogramming stuff.<p>so.. WinAPI and C++ were quite popular and prolific in 90-s, despite their weirdness and complexity. so maybe it's not actually so much problem of itself?",1195376223
+81166,comment,80662,81157,0,0,sohail,,,"I know :-) Are his gripes with it documented somewhere then? Or is that Arc?",1195374074
+81165,comment,81076,81112,0,0,ardit33,,,"haha... me too.",1195374000
+81164,comment,81074,81074,0,0,calambrac,,,"Well, now that laserboy at ArsTechnica has weighed in, I think we can consider the matter settled.  Let's all close the book on this one and head over to Fox News for some insight on foreign policy, then to Slashdot for a nice explanation of copyright law, and finally hit up Penthouse forum for some solid relationship advice. 
+",1195373770
+81163,comment,81123,81123,0,0,insertcoin,,,"Office, The",1195373502
+81162,comment,81032,81032,0,0,gregp,,,"what problem are you solving?",1195373088

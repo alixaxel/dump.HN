@@ -1,0 +1,32 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+72146,story,,,6,0,markpeterdavis,"The Significance Of Patents",http://getventure.typepad.com/markpeterdavis/2007/10/the-significanc.html,"When discussing their barriers to entry, many entrepreneurs cite their pending patents. While obtaining patents is worthwhile, many IT focused VCs do not believe that they alone create sufficient barriers...",1193248568
+72145,story,,,1,0,byrneseyeview,"20-year-old student's proof that a 2,3 Turing Machine is universal",http://www.wolframscience.com/prizes/tm23/TM23Proof.pdf,,1193248305
+72144,story,,,2,0,donna,"Inside Microsoft's New F# Language","http://www.extremetech.com/article2/0,3973,1102795,00.asp",,1193248137
+72143,comment,71967,71967,0,0,jey,,,"<p><pre><code>  char*____=""RDCO$Utho{kfah||0R}wq5\x7fy8Z;"";int main(int _,
+  char**______){return _>!0xBADC0DE?main(!0[______],&____):!
+  (-_)[*______]?!putchar(10):putchar((*______)[-_]^-_)?main(
+  --_,______):0xDEADBEEF^!!""Valid C89 but not C++ nor C99"";}
+  
+</code></pre>",1193247913
+72142,story,,,2,0,terpua,"Audi unveils metroproject quattro",http://www.automotoportal.com/article/audi-unveils-metroproject-quattro,,1193247300
+72141,comment,72123,72123,0,0,adnam,,,"We need an F.A.Q.",1193247292
+72140,story,,,2,1,geek42,"If you like C/C++ you may like D even better",http://www.digitalmars.com/d/,"There have been a couple of attempts at D, but this one is gaining traction. Have a look at the specs. It's clean, portable, compiles to a runtime and has many innovative ideas. It's just very well designed from a practical perspective. ",1193247095
+72139,comment,72027,72027,0,0,andreyf,,,"Why does YC not accept applications that have anything to do with porn? Do you find it distasteful, or is it a PR decision?",1193247016
+72138,comment,72080,72117,0,0,andreyf,,,"From the little I understand, it's also likely that a patent like this would be bought up by some company which would find the technology disruptive (competitive) to their current business, just to keep it out of the market.",1193246851
+72137,comment,72010,72010,0,0,jey,,,"Where's the paper? And most importantly, how the hell did he go about proving that?<p>Published proofs are often so opaque, but I always wonder what the mental thought process was to get to the proof. What were you tinkering with, what were the failures, etc",1193246657
+72136,story,,,34,13,adnam,"""Name me a herd animal that hunts."" (Hilarious book review)",http://www.nypress.com/18/16/news&columns/taibbi.cfm,,1193246539
+72135,comment,72123,72123,0,0,dfranke,,,"<a href=""http://news.ycombinator.com/item?id=38704"" rel=""nofollow"">http://news.ycombinator.com/item?id=38704</a><p>But PG wrote that before he implemented vote weighting.  I don't know if he's turned it on yet.  If so, it's more complicated now.",1193246383
+72134,comment,72113,72113,0,0,davidw,,,"I think his economics are off when he says that ""The network effect is being repriced to zero.""  What's happening is that a strong competitor is emerging, and the network effects of eBay aren't <i>that</i> strong that people won't migrate for a significantly better price on a network that sees a  reasonable amount of business.",1193246016
+72133,comment,72076,72076,0,0,darose,,,"Also <a href=""http://www.easyvmx.com/"" rel=""nofollow"">http://www.easyvmx.com/</a>",1193245839
+72132,story,,,1,0,arete,"Otetsudai Networks - Just In Time Work",http://joi.ito.com/archives/2007/10/21/otetsudai_networks.html,,1193245702
+72131,story,,,4,0,transburgh,"The Longtail Of Venture: Why Some Companies Will Continue To Need VC And Others Won't",http://www.centernetworks.com/longtail-venture,,1193245699
+72130,comment,71967,72111,0,0,davidw,,,"> some languages naturally fit with some people more than others<p>Precisely!  Because, in the end, languages are for people, and people are fickle and weird, and often irrational.<p>I think there <i>are</i> some things that make some languages more or less objectively better for some tasks, but like anything that revolves around people, it's often not so clear cut.",1193245679
+72129,story,,,9,0,transburgh,"How NOT to bootstrap",http://foundread.com/2007/10/24/how-not-to-bootstrap/,,1193245654
+72128,comment,71967,71967,0,0,far33d,,,"C is the language of the operating system. It's also very portable. It doesn't require that any other packages be installed - it compiles to machine code. LISP/Haskell/Python/Java don't have this quality, and so desktop software will probably always be dominated by C and it's sad offspring C++. <p>Other ""high level"" languages are however, becoming increasingly dominant on server-side or hosted products, since the developers can control the execution environment closely. 
+",1193245576
+72127,comment,72010,72099,0,0,programnature,,,"That quote is pretty vague, but I don't think he is trying to say that people haven't heard of Turing machines, which they obviously have. <p>I think the point is that ""textbook"" turing machines, just like other ""textbook"" forms of engineering, are typically constructed by hand, top-down to have a specific, predictable behavior.<p>What is interesting about Alex Smith's proof is that it implements the reverse approach, starting with an empirical discovery of the 'natural primitives' of the emergent behavior and building up the construction from the bottom up.",1193245527
+72126,comment,71967,71967,0,0,Zak,,,"A lot of software has a base runtime written in C with much of the higher-level functionality written in a higher-level language. Firefox does this with Javascript and Emacs does it with Lisp.",1193245489
+72125,story,,,3,0,andreyf,"What is the Google Collections Library? Interview with the Developers",http://www.javalobby.org/articles/google-collections/,,1193245442
+72124,comment,72068,72068,0,0,simianstyle,,,"These are great!",1193245264
+72123,story,,,2,4,augy,"YC submissions",,"What is the formula YC uses to rank submissions on hacker news?  ",1193245257
+72122,comment,72066,72077,0,0,transburgh,,," CenterNetworks is not an SEO group, think more like a Techcrunch. Although, bloggers do like to linkbait. ",1193245220

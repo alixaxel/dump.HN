@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+80483,comment,80325,80325,0,0,edw519,,,"""Bugs are always about a lack of good information""<p>Wrong.<p>Bugs are the result of either:<p>- not knowing what you're doing<p><pre><code>            or
+</code></pre>
+- knowing what you're doing but releasing prematurely anyway<p>
+",1195177695
+80482,comment,80399,80480,0,0,rms,,,"Get over yourself",1195177634
+80481,story,,,1,0,plusbryan,"(Social) Power to The Email Inbox!",http://www.smartbiz.com/article/articleview/2323/1/58,,1195177367
+80480,comment,80399,80399,0,0,immad,,,"This does not seem like Hacker News",1195177365
+80479,comment,79727,80230,0,0,brianmckenzie,,,"If you go to a school whose physics department is helping NASA with something, and you have a job there, you can work on NASA robots. I knew a guy who worked on the Mars rover when he was 19 or 20.<p>He was super-smart, but that probably goes without saying.",1195177242
+80478,comment,80399,80399,0,0,ctkrohn,,,"Explosions In The Sky - The Earth Is Not A Cold Dead Place<p>Post-rock is nearly ideal coding music.",1195177224
+80477,comment,80182,80182,0,0,danielha,,,"Nice work, guys. Looking forward to seeing you around YC.",1195177157
+80476,comment,80460,80460,0,0,jmzachary,,,"I like that explanation. You should know this, too:<p><a href=""http://philip.greenspun.com/materialism/money"" rel=""nofollow"">http://philip.greenspun.com/materialism/money</a>
+",1195176699
+80475,story,,,2,0,nickb,"iLike Publishes Unreleased U2 Song",http://www.techcrunch.com/2007/11/15/ilike-publishes-unreleased-u2-song/,,1195176561
+80474,comment,79982,80072,0,0,ereldon,,,"Yeah. Aaron has a lot more homemade videos to make before he catches up with those two.",1195176335
+80473,comment,80399,80399,0,0,omnipath,,,"The Adam Carolla Daily Radio Show Podcast",1195176325
+80472,story,,,1,0,nickb,"DoubleClick unwittingly distributed malware ads",http://blog.wired.com/business/2007/11/doubleclick-red.html,,1195176298
+80471,story,,,5,0,nickb,"Andy Grove: Forget about startups, it's large companies that generate real change. ",http://www.portfolio.com/views/columns/2007/11/15/Innovation-At-Big-Companies,,1195176253
+80470,comment,79982,80284,0,0,nostrademons,,,"I also switched from web.py to Pylons.  Long-term, I think you're better off with it; it's much more mature and won't choke on things like deployment, or internationalization, or multiple database servers.<p>But if you're new to Python web frameworks, I'd start with web.py and write a few apps with that.  It's much simpler to get into, and you'll understand how things work a bit better.",1195176173
+80469,comment,80370,80370,0,0,jsmcgd,,,"I was thinking of something that persists between logging in.",1195175876
+80468,comment,80399,80458,0,0,abstractbill,,,"I've been enjoying those too.",1195175828
+80467,comment,80301,80301,0,0,tsuru,,,"tech vex or tech tantrum",1195175746
+80466,comment,80182,80253,0,0,nostrademons,,,"Congrats!  I'm not surprised at all...",1195175745
+80465,comment,80399,80399,0,0,nostrademons,,,"Mike Oldfield, Tubular World.",1195175703
+80464,comment,80428,80428,0,0,nostrademons,,,"Time, and brainpower.  Too big a problem, too stupid.<p>Money isn't really an issue - for the stage we're at now, more people would only hurt us, so our only expenses are my living expenses (practically nil; thank you mom & dad) and a cheap server.",1195175661
+80463,comment,80399,80399,0,0,edw519,,,"The little voice in my head, saying, ""Who wrote this $*(&##?""  That is all.",1195175591
+80462,comment,80399,80399,0,0,brianmckenzie,,,"Spiritualized, You Know it's true",1195175471
+80461,story,,,13,10,nickb,"30 Interview Questions You Can't Ask and 30 Sneaky, Legal Alternatives to Get the Same Info",http://www.hrworld.com/features/30-interview-questions-111507/,,1195175273
+80460,story,,,36,6,nickb,"What You Should Know About The Stock Market ",http://betterexplained.com/articles/what-you-should-know-about-the-stock-market/,,1195175248
+80459,comment,80178,80193,0,0,nostrademons,,,"I use a very thin database access library over DBAPI (modeled after PEAR DB, basically just wrapping queries with logging and timing, and converting results to Python dicts instead of DBAPI cursors).  It was no problem using this with Pylons, instead of the default SQLAlchemy.  If you don't like a Pylons module, just swap it out; the framework is built so you can easily substitute your own components in instead of the defaults.<p>I used the same library with web.py.  Web.py's built-in database library is pretty impractical.  Global DB connection means it's very difficult to do testing/mockobjects, and it wouldn't scale beyond one machine.",1195175184
+80458,comment,80399,80399,0,0,Elfan,,,"jwz's mixtapes<p><a href=""http://cerebrum.dnalounge.com/mixtapes/"" rel=""nofollow"">http://cerebrum.dnalounge.com/mixtapes/</a>",1195174898
+80457,comment,80178,80406,0,0,nostrademons,,,"Are you sure that's SQL and not JDBC?<p>I moved from PHP/PearDB to Java/Hibernate3.0 to Python/DBAPI, and found that Java was by far the most verbose.  Even with Hibernate annotations, I was writing more than twice as much code for equivalent functionality.<p>Perhaps the difference is that you have business objects defined already, and so the cost of Hibernate is only the annotations?  My PHP and Python programs keep the SQL and drop the <i>objects</i>, and so they end up with incredibly tiny data access layers.  <p>SQL is optimized for writing data access queries extremely concisely, so I don't see how it could end up as more than 50% of the codebase, unless you're using an exceptionally verbose database library (JDBC certainly counts) or your codebase is exceptionally tiny.",1195174867
+80456,comment,80399,80455,0,0,webnrrd2k,,,"Your comments features suck ass -- you can't even put in basic html lists or br's. ",1195174855

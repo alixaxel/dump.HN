@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94373,comment,94282,94282,0,0,redorb,,,"yeah that site is the to the shame of the creators. Def a popularity contest.
+.rb",1199310903
+94372,comment,94271,94271,0,0,redorb,,,"I think have 37 signals in the title is wrong.<p>imho,.rb",1199310766
+94371,story,,,12,0,transburgh,"28 Things Didn't Happen In 2007",http://www.webpronews.com/topnews/2008/01/02/28-things-didnt-happen-in-2007,,1199310721
+94370,comment,94104,94336,0,0,mojuba,,,"The breakthrough is in the idea that what our brain does is basically it generalizes input and performs detailization on output. It seems so obvious even speculatively that both generalization and detailization are the core of natural intelligence, yet the AI science so far failed to include them as research subjects at least.<p>And it seems like Jeff Hawkins found both mechanisms in the neocortex.<p>Surprisingly, at the moment we don't have any theory for generalization, not even a single try to formalize it and create algorithms -- not to be confused with the theory of inference. Evidently, this is terra incognita and a very promising one.<p>His claim, though, that what he's found is <i>the</i> intelligence looks like an exaggeration. Intelligence is not only generalization, although there is no intelligence without it.",1199310527
+94369,comment,94288,94288,0,0,redorb,,," <sike> seems logical </sike>",1199310454
+94368,comment,94254,94254,0,0,shawndrost,,,"fyi, bug -- when comments are deeply nested and the line that says ""username  -- x hours ago with y points"" has to wrap, the second line appears in the middle of the comment.",1199309807
+94367,story,,,4,3,terpua,"Plaxo's For Sale",http://www.techcrunch.com/2008/01/02/plaxos-for-sale/,,1199309534
+94366,story,,,4,0,terpua,"Freemusiczilla: Best Music Downloader I've Tested",http://www.techcrunch.com/2008/01/02/freemusiczilla-best-music-downloader-ive-tested/,,1199309328
+94365,story,,,12,2,iamelgringo,"Damien Katz: New Gig ",http://damienkatz.net/2008/01/new_gig.html,,1199309241
+94364,comment,94348,94348,0,0,sanj,,,"A ribcap!<p><a href=""http://www.ribcap.com"" rel=""nofollow"">http://www.ribcap.com</a>",1199309145

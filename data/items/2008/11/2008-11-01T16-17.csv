@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+350777,comment,350034,350530,0,0,PStamatiou,,,"agreed. why would i get an _old_ mbp? Most of the time I'm hooked up to my 24-inch dell anyways",1225558525
+350776,story,,,6,0,prakash,"IMVU: Learning What Customers Want",http://www.businessweek.com/technology/content/mar2007/tc20070326_796549.htm?chan=technology_special+report+--techs+best+young+entrepreneurs_tech%27s+best+young+entrepreneurs,,1225558427
+350775,story,,,8,2,twampss,"StackOverflow Podcast #27 - Interview with Alex Ohanian and Steve Huffman",http://blog.stackoverflow.com/2008/10/podcast-27/,,1225558419
+350773,comment,350516,350664,0,0,raganwald,,,"I left the tank off, and the wife wouldn't let me wear flippers while carrying the baby. But I went with the long hose, thigh pocket, harness and wing.<p>You'll notice I left the steel backplate at home for this one. Too lazy to lug a heavy rig down the street even without a steelie 130 on it.",1225558213
+350772,comment,350766,350766,0,0,mellow,,,"I would use a 3D printer to make another 3D printer.",1225558123
+350771,story,,,11,0,ciscoriordan,"Paul Polak: 15 Rules for Business Success in Any Market",http://gigaom.com/2008/11/01/paul-polak-15-rules-for-business-success-in-any-market/,,1225557679
+350770,story,,,43,32,prakash,"Highest funded US Startups from 2006 to 2008",http://revotra.com/2008/10/highest-funded-startups-from-2006-to.html,,1225557555
+350769,comment,350683,350683,0,0,watmough,,,"What's wrong with using Swing?<p>I had some experience with using Swing and Clojure, and was able to easily wire up GUIs laid out in NetBeans to Clojure code.<p>This included subclassing elements such as table view headers to customize appearance, cross-platform on OS X and XP.<p>Note also that Clojure can be hinted to eliminate type reflection, bringing performance to a par with Java.",1225557312
+350768,story,,,35,16,maxwell,"Where is your user name registered?",http://www.usernamecheck.com/,,1225557002
+350767,comment,350708,350708,0,0,tocomment,,,"How do they work?  I can't picture how the art one is made.",1225556825
+350766,story,,,16,23,nir,"What would you build with a 3D printer?",,"3D printers are starting to get a lot of attention, I was wondering about uses - what would you use a 3D printer for?",1225556782
+350765,comment,349814,349875,0,0,ScottWhigham,,,"And it was just down: <a href=""http://i37.tinypic.com/21drlsg.jpg"" rel=""nofollow"">http://i37.tinypic.com/21drlsg.jpg</a>",1225556770
+350764,comment,350159,350469,0,0,bitdiddle,,,"Berkeley DB is very much the same idea as couchdb, a persistent hash. What's interesting about couchdb is the REST API that makes use of JSON and the use of Erlang/OTP. Erlang was built by and for telecom apps. It's robustness and scalability are phenomenal.<p>Couchdb also includes a map/reduce framework based on javascript. It's really worth a close look. The one thing I don't quite get is why they haven't used Mnesia instead of rolling their own storage model. Perhaps because it wasn't designed for very large datasets.",1225556287
+350763,comment,350603,350685,0,0,angstrom,,,"Probably have to show them Ferris Bueller's Day Off before they get the point.",1225556258
+350762,comment,350652,350739,0,0,ivanstojic,,,"Which is probably why this post got to the front page :-)",1225556051
+350761,comment,350708,350756,0,0,ph0rque,,,"Can you talk more about what <i>your</i> company is planning to do with 3D? There was talk on here about starting a 3D printer startup, but it never went anywhere (yet)...",1225555927
+350760,comment,350708,350708,0,0,pietro,,,"I've seen enough. I want one!",1225555743
+350759,comment,350594,350594,0,0,tdavis,,,"There are some experiences you just can't digitize accurately. Building with Legos is one of them, dammit!",1225555709
+350758,comment,349029,350571,0,0,rlm,,,"Google Apps :-)<p>I use GMail on my own domain.",1225555463
+350757,story,,,3,0,robg,"Video Is Dominating Internet Traffic, Pushing Broadband Prices Up",http://bits.blogs.nytimes.com/2008/10/31/video-is-dominating-internet-traffic-pushing-prices-up/,,1225555385

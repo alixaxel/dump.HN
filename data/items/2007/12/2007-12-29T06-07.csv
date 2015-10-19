@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93432,story,,,7,4,terpua,"Is it safe to send my deck to investors?",http://www.venturehacks.com/articles/sending-decks,,1198911387
+93431,story,,,9,0,terpua,"Kindle Easter Eggs: We have GPS",http://interface.puhala.com/2007/12/28/kindle-easter-eggs-we-have-gps/,,1198911353
+93430,comment,93419,93419,0,0,wumi,,,"i feel like i've seen this article a while back",1198911256
+93429,comment,93334,93334,0,0,cduan,,,"While I see the value in optimizing a language for these ""language-enhancements"" such as adding new iterators, I would be concerned about a language architect who sacrificed efficiency in other areas as a result. I'd much rather have blazing-fast each() alone over medium-speed each(), map(), fold(), unfold(), collect(), etc.<p>(Sidenote: isn't it a little unfair to compare the collect() implementation, which uses a for-loop, with a recursive unfold() method? Though I don't doubt that the iterative unfold() version would still be relatively slow.)",1198911132
+93428,comment,93216,93266,0,0,staunch,,,"Java ascended to the throne through blind arrogance and force. It ruled with an iron fist. Now that the tables have turned the dynamic language revolutionaries will not be kind. There will be blood. They will take vengeance for all the hours of their lives that were ""disappeared"". Viva La Dynamico Revolution!",1198910489
+93427,comment,93419,93419,0,0,simianstyle,,,"Peter Thiel is primarily a finance geek, and only a technologist afterwards. Let's not focus on the outliers shall we?",1198909910
+93426,comment,93334,93334,0,0,simianstyle,,,"Why would you ever use Ruby to write another programming language?<p>If I had all the time in the world, and speed was really the only issue - I'd go with assembly.",1198909790
+93425,comment,93287,93330,0,0,simianstyle,,,"Or a link to the transcript? I usually read HN at work.",1198909655
+93424,comment,93320,93320,0,0,simianstyle,,,"activemerchant ftw!",1198909618
+93423,comment,93413,93413,0,0,rms,,,"Do you plan on hooking it up to external monitors? How many different workplaces do you have that plan on moving it between?",1198908902
+93422,comment,93349,93349,0,0,pg,,,"Sure enough, that's a bug.  Will fix in the morning.",1198908521

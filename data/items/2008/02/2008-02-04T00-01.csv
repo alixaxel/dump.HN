@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+108866,comment,108475,108852,0,0,bayareaguy,,,"I think the problem with the Power=Work/Time approach for programming languages is you can never get people to agree on how to measure Time.<p>Whose time?  What does it include?",1202086774
+108865,comment,108861,108861,0,0,parenthesis,,,"Are you a philosopher?",1202086678
+108864,comment,108152,108400,0,0,wumi,,,"and web based mobile apps even bigger. 2.2 billion mobile phones vs. 700 million computers in the world.<p>I doubt more than 1000 people in under-developed world know what Y C is. Again YC's reach is not world-wide -- not yet anyways.",1202086578
+108863,comment,108861,108861,0,0,gibsonf1,,,"Arc' fails the saved time test as the gratuitous syntax would take more time to learn, debug, write editor extensions for, etc - making it less powerful.",1202086491
+108862,comment,108794,108826,0,0,mooneater,,,"And soon it may be held by the Beast.",1202086351
+108861,story,,,18,59,dfranke,"A hypothetical counterexample to ""succinctness is power""",,"Let's construct a hypothetical language called Arc'.  Arc' is identical to Arc except for one difference, as follows.  Arc' has two styles of parentheses: () and {}.  The two have no semantic difference, but, gratuitously, the programmer is required to alternate between using () and {} at each level of nesting depth.  Failure to do so is a syntax error.<p>So, trivially, for every Arc program there is an equivalent Arc' of the same length.  So Arc and Arc' are equally succinct.  However, without the assistance of an editor that would rewrite your parentheses for you, Arc' would be an absolute bear to work with for exploratory program.  A change as simple as adding a conditional around a large block of code would require toggling the form of every paren within that block.  I'd rather work in FORTRAN.<p>So, while Arc' is equally as concise as Arc, it seems to me that it is considerably less powerful.",1202086015
+108860,comment,108769,108854,0,0,bayareaguy,,,"There is a little of it cached:<p><a href=""http://www.google.com/search?&q=why-microsoft-acquiring-yahoo-would.html"" rel=""nofollow"">http://www.google.com/search?&q=why-microsoft-acquiring-...</a>",1202085871
+108859,comment,108850,108850,0,0,paulgb,,,"Cool video, but the headline is a bit misleading.",1202085768
+108858,comment,108172,108288,0,0,apgwoz,,,"If git has five files and you have five files then git has more files than you.<p>Git can kill two stones with one bird.",1202085247
+108857,story,,,1,0,drm237,"Developing an improved online environment for educating computer users",http://radar.oreilly.com/archives/2008/02/developing_an_i.html,,1202084968
+108856,comment,108723,108782,0,0,paulgb,,,"Project Euler is great for practice, but it doesn't really give you a well-rounded math education. The problems focus mainly on number theory and a few other small areas.",1202084793
+108855,comment,108382,108851,0,0,bayareaguy,,,"No change from the earlier screenshot.  Here's the About info:<p><pre><code>  Version information
+    Version  9.50 Beta
+    Build    4506
+    Platform MacOS X
+    System   10.5.1
+    Java     Java Runtime Environment installed
+  Browser identification
+    Opera/9.50 (Macintosh; PPC Mac OS X; U; en)</code></pre>",1202084697
+108854,comment,108769,108849,0,0,drm237,,,"Yeah, it looks like the author removed it... Google doesn't have it cached either.",1202084667
+108853,comment,108723,108762,0,0,paulgb,,,"Wikipedia is great for math topics. Also, PlanetMath (<a href=""http://planetmath.org/"" rel=""nofollow"">http://planetmath.org/</a>) and MathWorld (<a href=""http://mathworld.wolfram.com/"" rel=""nofollow"">http://mathworld.wolfram.com/</a>) are both good free online math encyclopedias as well.",1202084600
+108852,comment,108475,108643,0,0,andreyf,,,"<i>TIME</i><p>Agreed. These are all correct ways of defining the same thing (the ""power"" of languages), and we need to pick whichever is useful depending on what we're trying to do. If we're trying to put a precise measure on the power of a language, PG's treelength seems to do the job perfectly. But how do we design a language which would create programs with the smallest tree length, or which would take the least time to write it? To answer this, it's best to consider how easily our basic mental structures can be expressed in the language.<p>The concept of sets, lists, map, and reduce exist in our lives whether we know program or not. If a language contains or lets us easily express other embodied mental structures such as relations, tags, partitions, etc. easily, it will be more powerful than languages which don't.",1202083985
+108851,comment,108382,108513,0,0,amichail,,,"Could you try it again?  It works for me on Opera.",1202083787
+108850,story,,,10,2,lisper,"A REALLY innovative way to write (domain-specific) code",http://www.youtube.com/watch?v=ziIdjrR_MRs,,1202083562
+108849,comment,108769,108769,0,0,danw,,,"I'm getting a 404 on the link",1202083561
+108848,comment,108475,108658,0,0,andreyf,,,"<i>That's because my whole point is that programming is much too rich and complicated for any one metric to be particularly useful.</i><p>I think that's where Paul disagrees. I don't have enough experience to agree or disagree with either one of you - it would be nice if Paul were right, and there were a simple ""rule of thumb"" metric that could guide him to create the 100-year language, but your point sounds truthy also.",1202083538
+108847,comment,108834,108834,0,0,brk,,,"Joyeur had some PR/blog post earlier this week or last week announcing that Twitter was on its own again, but Joyeur was standing by to assist.  (Or some such wording that read to me at the time like ""you'll be back"").",1202083292
+108846,comment,108834,108834,0,0,danw,,,"Twitter seems up for me via the twitter site, but not via twitterific.",1202083287
+108845,story,,,6,1,danw,"Linearity is killing the Living Web: Blogs don't work anymore, Google search is useless",http://cognections.typepad.com/lifeblog/2008/02/linearity-is-ki.html,,1202083263

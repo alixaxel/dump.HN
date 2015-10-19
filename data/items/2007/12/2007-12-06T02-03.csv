@@ -1,0 +1,80 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+86488,comment,86402,86427,0,0,greendestiny,,,"I have another theory on Facebook's massive valuation, or at least an adjunct to. Facebook is pretty much headed to an IPO and the IPO valuation will be far less than the Microsoft valuation. This will create a false sense of value driving the stock price up. <p>What's in it for Microsoft? I'm guessing Facebook is an important part of their online advertising plan, and they are going to get preferential treatment and power in excess of their share.<p>At least thats how it might play out, the root cause could still well be Zuckerberg's arrogance.",1196909974
+86487,story,,,1,0,dherman76,"The Kid's Human - entrepreneurial mistakes",http://www.darrenherman.com/2007/12/05/the-kids-human/,"A lesson for entrepreneurs",1196909852
+86486,comment,86362,86485,0,0,cellis,,,"Not everyone needs 1440x900, or a $2k comp. I am simply providing an alternative to the largely unjustified, yet astronomically priced MBP. I guess I should have looked for a budget. ",1196909656
+86485,comment,86362,86465,0,0,mrtron,,,"I hate to be ""that guy""<p>~700$ cheaper?  For the base model, yes.  Make the specs comparable to the MBP:
+2x2.2ghz, 2 gigs of ram, read/write drive, comparable battery: ~200 cheaper.
+They still dont exactly match, the MBP now has a better vidcard still, and the Sony has 1280x800 resolution instead of 1440x900.<p>Apple hardware is very comparable in price to most other providers.",1196909127
+86484,comment,86362,86413,0,0,mrtron,,,"> It ended up breaking on me after a few months, so my screen wouldn't stay shut unless I squeezed it a bit where the little ""hooks"" drop down and sort of shook it a bit. <p>My friend had that and they fixed it for him in about an hour at the local apple store.  Take it in since it is just a few months old, it will be covered for sure.",1196908583
+86483,comment,86362,86464,0,0,mrtron,,,"Not so much because it is too difficult or a big deal, or anything like that.<p>I have found OSX to be more than an adequate operating system for efficiency while coding.  Unless you have a fairly good reason to go with Linux (Ubuntu in your case), I don't see the motivation to do it.  However, if I was getting a Dell, I would instantly go Linux for obvious reasons - I need to be running my dev stack on my local machine, remotely connecting won't cut it.",1196908432
+86482,story,,,3,0,hhm,"Even the best-written code can't reveal why it's doing what it's doing",http://acmqueue.com/modules.php?name=Content&pa=showpage&pid=511,,1196908208
+86481,comment,86348,86348,0,0,iamelgringo,,,"I can't believe that he got press in the Financial Times after just 45 days.  <p>He's developing buzz.  It'll be interesting to see if he can carry that through to developing software that people want to use.",1196908187
+86480,story,,,7,9,nextmoveone,"Describe yourself as a programming object",,"I was looking at craigslist posting for a job and it asked me to program myself as a php class. I thought this was cool and wanted to see if any YCer's wanted to give it a try. Here is me:<p><?php<p>class Auston {<p>function Auston(){
+ //basic stats
+ $age = 21;
+ $experience = 2.5;
+ $knowsajax = true;
+ $knowssemantichtml = true;
+ $knowscss = true;
+ $phone = '944-870-6259';
+ $email = 'auston.bsen@gal.cm';
+ }<p><pre><code> function beCreative($input){
+ //Does defining myself as an object constitute creativity?
+ $output = $input.rand($ideas, $thoughts);
+ return $output;
+ }
+
+ function learn($skill, $language){
+   //I love learning new things
+    if(isset($skill)){
+         $relatedinfo = $query->google($skill);
+         $query->storeIntoDB($relatedinfo);
+        }
+    elseif(isset($language)){
+        $relatedinfo = $query->google($skill);
+        $query->storeIntoDB($relatedinfo);
+         $readbook = $buybook->fromborderson($relatedinfo);
+        $query->storeIntoDB($readbook);
+        }
+    else{
+      return false;
+    }
+ }
+ 
+ function multitask($arrayofupto5tasks){
+   //I can easily manage 3-5 small tasks
+   $i = 0;
+  foreach ($arrayofupto5tasks as $value){
+  $query->storeIntoDB($value);
+  $execute->task($arrayofupto5tasks[$i]);
+  $i++
+  }
+ }
+ 
+ 
+ function deliverProjectIn($time){
+ $deliverytime = $time/3;
+ $execute->projectIn($deliverytime);
+ //that was a joke
+ }
+ 
+ function beAtWorkBy($time){
+ $wakeup = $time+3600;
+ $drivetowork = $wakeup+1800;
+ $gettowork = $drivetowork+1800;
+ //that was a joke
+ }
+
+ function showDemo(){
+ $arrayofsites = array('http://www.nextmoveinc.com/ycomb/heom_demo.html ', 'http://www.investorscrystalball.com', 'http://www.expeditedtravel.com/call-center/index.html' );
+ $site = rand(0,2);
+ header('Location :'.$site.');
+ }
+</code></pre>
+}<p>?>",1196907746
+86479,comment,86360,86431,0,0,Goladus,,,"I'd rate this about a 6/10 on the ""sorry, we fucked up"" scale.  I agree that in a climate where Sony's response to the rootkit thing is normal, any humility goes a long way.  This post is mostly sincere and mostly apologetic, but Zuckerberg needs a better editor.  It could be streamlined a lot.  He'd lost my attention by the second use of the word 'lightweight,' and I knew exactly what he meant.",1196907257
+86478,comment,86437,86437,0,0,rrival,,,"Disagree! Symmetry/attractiveness indicates genetic traits which predispose individuals for success / survival / more options in selective mating. This could, if taken to an extreme, result in the dilution of the gene pool and the elevation of Hot or Not to some kind of Big Brother. ",1196907111
+86477,story,,,1,0,gscott,"Microsoft shuts down Santa for talking dirty ",http://www.signonsandiego.com/news/nation/20071205-1503-microsoft-badsanta.html,,1196907073
+86476,comment,86362,86373,0,0,initself,,,"No complaints here about the Lenovo quality on a T60P.  When I say 'here' I mean in my first hand experience with it.<p>Here's someone who agrees with me: <a href=""http://www.notebookreview.com/default.asp?newsID=2864&Review=Lenovo+ThinkPad+T60p"" rel=""nofollow"">http://www.notebookreview.com/default.asp?newsID=2864&Re...</a>",1196906694
+86475,story,,,3,5,rrival,"Ask YC News: Issue Tracking?",,"The situation: one support / customer service email address and 2-3 people keeping track of incoming email / responses / etc. <p>Is there something well designed that we can set up (or subscribe to) to allow us to share info on who responded to whom, see what those conversations were to maintain consistency, keep notes on contacts/situations, etc? Something like a Basecamp for issue tracking / support request tracking? Thanks =)",1196906511
+86474,comment,86302,86350,0,0,iamelgringo,,,"It's an old sales adage:  Never stop selling, kid.  Never stop selling.<p>And, he does it because it works.  We all know what Fog Creek Software does, don't we?  I betcha a number of people here have tried his bug tracking software, too.",1196906445

@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+84169,story,,,1,0,nsimpson,"The greatest problem of communication",http://fridayreflections.typepad.com/weblog/2007/11/the-greatest-pr.html,,1196236213
+84168,story,,,1,1,agentbleu,"Why are some links on here no follow and others not?",,"I am wondering why many of the links on this board are no follows and some are not? who decides on this  policy? ",1196236131
+84166,comment,84039,84160,0,0,eusman,,,"if you did a simple  ""dig www.hackerne.ws CNAME""
+you would see there is a record for news.ycombinator.com
+thus I don't steal anything.<p>there is no even server hosting the domain.
+nslookup could give you a hint
+",1196235366
+84165,comment,84108,84159,0,0,henryw,,,"I think the average hardware has not caught up to Vista yet. I just reinstalled it after 6 months when I upgraded my computer to 2x Raptor Raid 0, along with the existing 4gb ram and quad core. It's running really great now. I can have all my work apps open and then load up a game like COD4. I think the hard drive transfer speed was the biggest bottleneck.",1196235174
+84164,comment,84154,84154,0,0,joeguilmette,,,"hmm why dont you just put up a wiki",1196235162
+84163,comment,84091,84119,0,0,RyanG,,,"I agree. I worked doing php development during while studying CS undergrad. The thing with hiring students is that they work cheap, but don't expect them to get much done during midterms or finals.",1196235022
+84162,comment,84039,84086,0,0,eusman,,,"you are right...i guess it could be redirected directly to news.ycombinator.com...
+",1196235022
+84160,comment,84039,84039,0,0,mattmaroon,,,"Good password stealing sir. I had this and about 11 other things open in tabs, plus was AIMing and got confused. Good thing I use Roboform and have randomly generated passwords for each site.<p>Hey PG, is there a change password function?",1196234855
+84159,comment,84108,84108,0,0,mattmaroon,,,"I can definitely see this. I like a lot of things about Vista. One of them is not the speed.<p>I'm wondering if MS just decided to optimize the user experience aesthetically and let the hardware catch up on speed, figuring that in 4 years everyone will be running 16 cores and an SSD.
+",1196234536
+84158,story,,,16,4,gourneau,"YouTube for Computer Science researchers",http://videolectures.net/,"""2138+ free video lectures from the world's leading and prominent scientists."" There are so many fascinating videos that it is difficult to select just one series to link to.",1196234504
+84156,comment,84091,84091,0,0,Zak,,,"Here, perhaps, but you may find PHP is less popular here than average.",1196233857
+84155,comment,84141,84141,0,0,rms,,,"xkcd continues to impress me with its immense cleverness. I saw Randall Monroe speak at CMU a couple weeks ago.<p>First, I was surprised that he was 23. I assumed he was older. I also assumed that the deep romanticism of some of xkcd's comics meant that he was in a serious relationship of some kind -- he isn't, and implied that he always has trouble with girls. ",1196233688
+84154,story,,,1,5,chinmayk,"What quantitative facts would you like to know about your startup's market?",,"Hi. 
+A friend and I are trying to create some sort of resource where founders can share /swap quantitative facts about their (soon-to-be-launched) companies. <p>Wanted to know what are the questions that YOU would like answered? (I always get to ""So how many users will pay for my service?"" sooner or later, unfortunately ;) )<p>Note that I'm talking hard facts (of the sort you could put in a wiki), not opinions.<p>Thanks  :)",1196233616

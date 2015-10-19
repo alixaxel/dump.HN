@@ -1,0 +1,110 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+609890,comment,609395,609395,0,0,patio11,,,"You have no idea how many times I've seen variations on that sales graph -- a few years in the coding salt mines with gradually increasing but sporadically up and down sales, followed by new version and a step function increase.<p>Incidentally, contra the article, if you get advertising on the Internet right its a fairly low-stress way to make a lot more money than you would otherwise for a small software company.  Sure, Google gets 50 cents on the dollar from my last $1000 of sales every month... still, 95% gross margin exclusive of advertising, you do the math.  (This is a complementary strategy to wowing customers and having an unpaid sales force of fans.  You now have more customers to wow and more unpaid fans.  What is not to like?)<p>Another note against the article: if you're doing software over the Internet, I beg you, please get over your hangups about SEO.  You may think its about being an evil spammer.  It isn't.  (Well, OK, it doesn't have to be.)  You can do great SEO for your business and still touch holy water without suffering 3rd degree burns.  (In a nutshell: publish useful stuff, get linked, win.  You'll note how this <i>dovetails very nicely</i> with constantly positively surprising people and extracting value out of folks who are unwilling to pay you money.)<p>I'm still in the salt mines but 3.0 is coming out any week now.  I'm cautiously optimistic. ;)",1242352705
+609889,comment,609881,609881,0,0,meterplech,,,"This is another sad example of the US's twisted immigration policy. Brilliant entrepreneurs, scientists, and academics want to come in legally and are rejected, while thousands of others come in illegally.",1242352674
+609888,comment,609809,609809,0,0,vaksel,,,"good interview, but I don't recommend watching it, just listen. The audio is horribly out of sync.<p>The ""your ip"" website idea, just goes to show you, that digg was a fluke.",1242352670
+609887,comment,609861,609870,0,0,noaharc,,,"That's an extreme, but it's certainly common economic knowledge that income inequality -- in rich nations -- tends to promote economic growth.  Of course, common knowledge is sometimes wrong, but I think it takes more than one article to disprove it.<p>One example of such common knowledge: <a href=""http://www.springerlink.com/content/w26530m1x3163184/"" rel=""nofollow"">http://www.springerlink.com/content/w26530m1x3163184/</a>",1242352647
+609886,comment,608430,608430,0,0,bkudria,,,"How does this compare with RescueTime?<p>(RescueTime, for one, tracks URLs in Firefox. The Wakoopa FAQ says a FF extension is too complicated. Right.)",1242352607
+609885,story,,,1,1,soundsop,"Detecting Liars by Content",http://www.schneier.com/blog/archives/2009/05/detecting_liars.html,,1242352552
+609884,comment,609809,609809,0,0,breck,,,"I had assumed that Owen was in his 20's. Whoops. Very cool.",1242352507
+609883,story,,,6,0,meterplech,"Does Announcing Your Goals Make them Less Likely to Occur?",http://www.newsweek.com/id/197006?from=rss,,1242352493
+609882,comment,609825,609825,0,0,ShabbyDoo,,,"I had to stop about half way through because the woman speaking is so painful to listen to.  If one is this inarticulate, she should use a teleprompter.",1242352425
+609881,story,,,60,70,jerryji,"Today My US Investor Visa Application Was Denied",,"<p><pre><code>  Yesterday I left my wife and 3-month old son
+
+    to come to Singapore for my US investor visa
+    
+    second interview.
+
+  Today my application was denied
+
+    because the visa officer thinks my $65,000
+
+    startup investment is not substantial.
+
+  This application has cost me countless number of
+
+    hours and $10,000+ to prepare
+
+    that I wanted to ask her if I could have
+
+    invested that time and money in my startup
+
+    would it make my investment substantial?
+
+  But I wasn't given a chance to dispute.
+
+  Today is a long day
+
+    that I wonder why America does not welcome
+
+    entrepreneurs
+
+    and have to rant from a hotel whose desk is
+
+    smaller than my laptop.
+
+  But tomorrow I will return to my wife and son
+
+    and continue to work on my startup
+
+    then write a much longer rant someday.</code></pre>",1242352424
+609880,comment,609464,609691,0,0,sharkbrainguy,,,"<a href=""http://common-lisp.net/pipermail/slime-devel/2005-September/011823.html"" rel=""nofollow"">http://common-lisp.net/pipermail/slime-devel/2005-September/...</a><p>This is a discussion on the slime-devel list about a scheme48 backend. Reasons are discussed as to why SLIME (should)|(could)(n't)? support scheme backends.",1242352375
+609879,comment,609785,609848,0,0,mrkurt,,,"He speaks to the currying syntax directly in the comments.  The important distinction is that the ""nice"" Scala syntax for currying requires that you allow for it when you write your functions.  That's not really broadly useful, though it can pretty up some applications.",1242352341
+609878,comment,609831,609831,0,0,stonemetal,,,"Ranked by who? As the community grows this ranking body is going to become more burdened. If the community is doing the ranking as well as the answering you are talking about X sms messages per question where X is the size of the community that responds to the message. I really can't see someone going along with answering some question then dealing with voting on 200 responses for very long.<p>It could work but I don't see it working as posed.  You probably need some way to limit the scale and have some sort of incentive.",1242352299
+609877,comment,606495,606579,0,0,Ennis,,,"I actually think it's a good idea. I don't know about fantastic or if it would make much money but I can see potential in it.<p>I don't think they had the right team for it. I did not see much creativity or innovation going on here. It's a very difficult proposition to sell someone something that they can't keep. They should have tried other methods. Maybe allowing towns to pool money together to get pricey famous art to spend a year in their museums? Or allowing anyone online to purchase a fraction of art in Iraq so that it is protected from looting - it can be toured worldwide and returned to the country when it can actually be protected. I can keep going. But they apparently chose not to.",1242352068
+609876,comment,609606,609864,0,0,mindslight,,,"After reading a button press, wait a while for the level to settle (say 50ms or so). This kind of thing is normally done from a timer interrupt that polls all buttons and saves their state for the foreground thread (I'd think this would be in the Arduino library somewhere).",1242351945
+609875,story,,,1,0,colins_pride,"What Makes Us Happy?",http://www.theatlantic.com:80/doc/print/200906/happiness,,1242351884
+609874,story,,,1,0,estromberg,"Lost robot crosses city by asking directions (video)",http://www.slipperybrick.com/2009/05/lost-robot-crosses-city-by-asking-directions/,,1242351828
+609873,comment,609589,609698,0,0,paulbaumgart,,,"<p><pre><code>  const uint numBits = 3*numPieces;
+  const u64 lowBits  = ((1ULL << numBits)-1);
+  const u64 highBits = lowBits << numBits;
+  const u64 allFours = 04040404040404040404;
+  const u64 allTwos  = 02020202020202020202;
+
+  // Flip around horizontal axis
+  flippedIndex = index ^ (allFours & lowBits);
+  
+  // Flip around vertical axis
+  flippedIndex = index ^ (allTwos & lowBits);
+</code></pre>
+Is my fix for the first two, but, as you point out, they're significantly easier.<p>The patterns are pretty neat, but I can't figure out how they result in any sort of rule for diagonal flipping.",1242351811
+609872,comment,609777,609777,0,0,teehee,,,"According to Malcom Gladwell's book Outliers, 1955 was the best year for geek births. (Bill Joy, Steve Jobs, Bill Gates)",1242351769
+609871,comment,609606,609864,0,0,kd5bjo,,,"It's not too bad: keep an exponentially decaying average of the pin state, and use some hysteresis (different levels for on/off) on that value.  You should be most of the way there.<p>It'll take (worst case) 8 bits for the average and 1 for the current state.  You could probably still get reasonable results with a 7-bit average so that the whole thing still fits in a byte of RAM.",1242351626
+609870,comment,609861,609861,0,0,bkmrkr,,,"I think we already tried this experiment ... Communism vs Capitalism",1242351569
+609869,comment,609590,609854,0,0,viper,,,"Sorry,<p>Yes that is a limitation I will remove shortly. You can use any user name you want. I didn't make that clear either.<p>I have lots of work to do thanks to all the good feedback from everyone thanks again!",1242351553
+609868,comment,609809,609809,0,0,nickb,,,"Excellent interview! Congrats Owen.",1242351502
+609867,comment,609590,609807,0,0,viper,,,"Do you know it doesn't leave the users machine?
+(I'm not asking that to be smart or anything.) 
+My point is that you are trusting the backup providers that it doesn't.<p>My main point is that you are trying to protect your data from the backup providers or their sloppy security. You aren't trusting them on one hand yet trusting them on the other that they don't store or save the key on their servers.<p>One popular online backup product can recover the key if you use their generated key. Which of course means they store it on their servers.<p>Honestly implementing private key encryption is trivial. My hesitation is that it only adds a level of security if the backup providers are trustworthy. The lack of trust of the backup providers is kind of why it is there.<p>Here is the scenario I envisioned that made me question it. 
+Let's say client X performs backups of their computer using service Y. 
+Service Y provides private key encryption. Client X types in his secret phrase and thinks that his/her data is secure. 
+Service Y must either require the secret phrase to be typed in each time the software is run or must store the key locally. They store it locally. 
+Someone comes with a court order demanding every reasonable effort to release the data to the court. Service Y may WANT to comply to catch bad guy client X. Or they may just not want to be held in contempt of court and get fined etc. Can they reasonably recover the key? My answer is yes service Y can reasonably recover the key. I don't believe the answer is yes if it is encrypted with a third party tool.<p>There are of course holes in the above scenario. You might need to automatically update the software to upload the key for that user etc. Perhaps they don't do automatic updates. They could also require an update just for that users account to function. My main point again is you are back to trusting the backup provider.<p>I found it highly ironic to be writing code to protect my potential customers to gain their trust without disclosing the inherent holes in that process.<p>My hesitation to adding private key encryption was purely on the side of NOT wanting to pretend that backup software with private key encryption protects their data against all scenarios.<p>But having written this post and explaining it frequently. I think I probably should just add it in.<p>Thanks,<p>Rasch",1242351461
+609866,comment,609613,609613,0,0,swolchok,,,"Re: development time, you must have a pretty fast compiler. One big argument in favor of dynamic languages is the shortened edit/compile/test cycle; it's down to edit/test.<p>Re: speed, I think the prevailing wisdom is ""write the damn thing in Python and if it's too slow, we'll profile it and write the tiny bit that needs to be fast in C or C++"". You still have to do this with C++ -- native code does not magically make your application bottleneck-free.",1242351429
+609865,comment,609453,609852,0,0,delano,,,"Pun intended?",1242351256
+609864,comment,609606,609715,0,0,sketerpot,,,"They're not really software resistors; they're hardware that's controllable from software. </pedantry><p>And this is very useful; this will definitely save some resistor wiring. Now if only there was some easy way to debounce a switch in software....",1242350947
+609862,comment,609822,609822,0,0,dougp,,,"I would say the big no no in ruby is requiring extensive configuration files.  Which I think is also because of Java and its heavy reliance on XML to set things up.
+If the hello world code cant be done on one line then we won't bother with it.",1242350894
+609861,story,,,28,75,david927,"Why More Equal Societies Almost Always Do Better",http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/non-fiction/article5859108.ece?print=yes,"The Sunday Times review of the book 
+""The Spirit Level: Why More Equal Societies Almost Always Do Better"" by Richard Wilkinson and Kate Pickett",1242350772
+609860,comment,609823,609823,0,0,swolchok,,,"May be tangential, but:
+1) I've never read of Lisp graybeards (or, actually, any graybeards) advocating testing. Ditto for open-source projects. Is the constant evolution and experimental nature of pg-style Lisp coding a replacement for testing?
+2) How much testing do you bother to do in an early-stage startup?<p>In my own limited experience with UmBus (<a href=""http://mbusreloaded.com/umbus"" rel=""nofollow"">http://mbusreloaded.com/umbus</a>, it's a free, local service), my testing is limited to ensuring that it Works For Me when I implement it and monitoring for unusual and failed requests.",1242350771
+609859,story,,,2,0,peter123,"Coding style: Helpers that return params",http://www.37signals.com/svn/posts/1729-coding-style-helpers-that-return-params,,1242350771
+609858,comment,608960,608960,0,0,ShabbyDoo,,,"I wish the graphs of weight seized had been normalized to some sort of dose unit.  That I can't do so with my own knowledge shows how far removed I am from the issues.",1242350611
+609857,comment,609809,609809,0,0,delano,,,"That's a very candid interview Owen, thanks (I'm assuming you'll be reading the comments!).",1242350508
+609855,comment,609785,609846,0,0,ontilt,,,"...not that there's anything wrong with that.  I love the conciseness of Scala compared to Java and, even if it's not as elegant as a pure functional language, it seems like a great language for Getting Things Done.",1242350469
+609854,comment,609590,609590,0,0,pt,,,"While registration, it is not allowing '-' char in the email address. (I am using yahoo address guard thing with disposable email addresses)",1242350437
+609853,comment,609268,609268,0,0,viergroupie,,,"Oh God, the horror. Almost every time neural network library I've seen manages to obscure a very simple idea in piles of useless objects.<p>""Neural networks"" are just the composition of several nonlinear regressions. There's nothing particularly ""neural"" about them.<p>Here's a typical 3-layer network:<p>f(x,Wh,Wo) = tanh(Wo * tanh(Wh * X))<p>Wh, and Wo are the hidden and output weight matrices respectively. Fix some loss function (ie, L(x,Wh,Wo,y) = || f(x,Wh,Wo) - y||^2), get the gradient of this function, and a take step down the gradient. There's your learning rule.<p>Now, I understand the desire for flexibility/modularity, but  (1) what's the sense of trying to house supervised and unsupervised methods in the same hierarchy? 
+and 
+(2) what could possibly justify Connection and Weight objects?",1242350422
+609852,comment,609453,609453,0,0,uninverted,,,"It seems like a lot of new languages have macros. Lisp is moving on to phrase four of it's diabolical scheme...",1242350397
+609851,comment,609822,609822,0,0,swolchok,,,"Am I in the minority in being unable to guess what this article is about from its title? I thought maybe ""Magic"" was some new programming language, and I didn't know that the PHP community (such as it is) hates Java.",1242350383
+609850,comment,609725,609813,0,0,avdempsey,,,"Michael the CEO is speaking about justin.tv's money-making strategy at the Google campus on Monday. A couple of other 'community status' style companies will be there too.<p>Search 'Monetizing Web 2.0' on meetup.com if you're curious.",1242350358
+609849,comment,609824,609838,0,0,AdilD,,,"good idea, thanks.",1242350168
+609848,comment,609785,609785,0,0,stephenjudkins,,,"It seems he may have some good points, but he definitely tried pretty hard to make some of the examples ugly.  The way currying is generally done in Scala is much cleaner-looking than this, as the first several google results for ""scala currying"" show.  Also, he seems to throw in some extra unnecessary stuff (sealed?) in the case classes example.<p>I appreciate informed criticisms like this, but he is definitely representing Scala in as poor a light as possible.",1242350081
+609847,comment,609725,609816,0,0,Element2,,,"Company's like Zuffa (UFC) have already started cracking down on JTV their ppvs were once a common thing, now they are removed pretty swiftly.",1242349923
+609846,comment,609785,609785,0,0,ontilt,,,"I've been hacking in Java, Ruby, and Haskell for some time and when I started learning Scala, I quickly came to the conclusion that it was much more like Ruby than it is like Haskell.",1242349827
+609845,comment,608675,609808,0,0,mindslight,,,"A simple digital low pass filter certainly has uses, I just don't think any of them are applicable here. Averaging several values per reading certainly wouldn't tax the resources of even the smallest micros.<p>I was including the sensor in the 'analog system'. If full range is 0.2% BAC (optimistic), thats a step of over 0.01%! I'd expect more from a sensor that's supposed to perform ""beyond a reasonable doubt"".<p>I don't know if ASM would have really hindered analysis. Certainly it's easier to deliberately hide malicious code with ASM, but naive code is generally readable and I doubt the audit firm would have given up. Chances are an ASM programmer would have paid better attention to detail, too ;).",1242349778
+609844,comment,609166,609310,0,0,dandelany,,,"Presumably because they're shooting for acquisition by one of the two big OS'es?",1242349558
+609843,comment,609777,609834,0,0,asciilifeform,,,"I disagree, as do some of the commenters:<p><a href=""http://www.raphkoster.com/2009/05/14/the-perfect-geek-age/#comment-147768"" rel=""nofollow"">http://www.raphkoster.com/2009/05/14/the-perfect-geek-age/#c...</a><p>Cultural climate changes with time. And it is worth asking whether all of the changes were for the better:<p><a href=""http://yarchive.net/physics/effete.html"" rel=""nofollow"">http://yarchive.net/physics/effete.html</a><p>Sometimes ""nostalgia"" is not an empty illusion, but is instead a longing for the days when <i>actual progress</i> based on <i>original ideas</i> was taking place. This longing can be a productive one, if it motivates you to invent, deviate from prevailing trends, and otherwise fight back against enforced mediocrity.",1242349491
+609842,comment,609427,609694,0,0,imajes,,,"what bothers me is why this isn't more like 90% (in other words, why you don't check all items in and out - anything else is pretty lame supply chain management)",1242349231

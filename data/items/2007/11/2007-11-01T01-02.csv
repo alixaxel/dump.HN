@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+74914,comment,74605,74764,0,0,henning,,,"there was some tutorial on recovering original text from gaussian blurs i saw out there, i.e. blurring isn't like a hash function. to be safe you have to totally black it out.",1193882308
+74913,comment,74866,74883,0,0,apgwoz,,,"This is obviously the week of Aaron Swartz. Seems every time I look there's a new post about him. Maybe he needs to write a news.aaronsw.com.",1193881748
+74912,comment,74605,74878,0,0,nostrademons,,,"Page is private.",1193881692
+74911,comment,74605,74909,0,0,noahlt,,,"I mean the one for syntax highlighting, which I suppose is TextMate (I don't use it).<p>Incidentally, there is a vim version here: <a href=""http://niw.at/articles/2006/08/06/twilight"" rel=""nofollow"">http://niw.at/articles/2006/08/06/twilight</a>",1193881633
+74910,comment,74751,74801,0,0,nostrademons,,,"concise != short.<p>You can have short code by using single-letter variable names and avoiding whitespace.  It doesn't gain you anything.  But concise code says exactly what it needs to say and no more, and that can be much more readable than lots of boilerplate.",1193881456
+74909,comment,74605,74906,0,0,joshwa,,,"which color scheme? if you mean the rainbow gradient I used to cover my private info, that's just one of the default patterns built into photoshop.<p>Adium is using the standard ""Aqua"" theme.<p>TextMate uses the standard ""Twilight"" theme.",1193881445
+74908,story,,,2,0,nickb," OpenSocial - Can it Compete with Facebook? ""...leadership can change in a matter of weeks.""",http://weblogs.hitwise.com/bill-tancer/2007/10/opensocial_can_it_compete_with.html,,1193881436
+74907,comment,74781,74781,0,0,nickb,,,"Has anyone printed it (I think you need Windows)? I'd love to see what it looks like.. I'm wondering what kind of a coding scheme it uses. I've seen one scheme that was created by some company few years back and you could restore it even if you teared off a corner of the page. It had enough redundancy to fix the loss of data.",1193881270
+74906,comment,74605,74713,0,0,noahlt,,,"That's a beautiful color scheme.  Where/how can I get it?",1193880861
+74905,story,,,2,0,nickb,"Google OpenSocial Image Gallery",http://www.techcrunch.com/2007/10/31/google-opensocial-image-gallery/,,1193880794
+74904,story,,,1,0,staunch,"Flash Player Not Just .flv Anymore: New File Extensions and MIME Types",http://www.kaourantin.net/2007/10/new-file-extensions-and-mime-types.html,"
+",1193880677
+74903,comment,74421,74421,0,0,arvid,,,"The problem with age is that you know enough to know that you know diddly. The young, on the other hand,  are ignorant of scope of their ignorance.",1193880304
+74902,comment,74841,74841,0,0,staunch,,,"<i>She works hard for the money<p>so hard for it honey<p>she works hard for the money<p>so you better treat her right!</i><p>Blast it in your headphones in your cube and use your mouse as a microphone.
+",1193880284
+74901,comment,74811,74820,0,0,nextmoveone,,,"I agree.",1193880124
+74900,story,,,9,4,ajkates,"Facebook: Why Applications Suck",http://www.alexkates.com/2007/10/facebook-why-applications-suck.html,"My take.  Let's hear what you guys think.",1193880014
+74899,story,,,1,0,drm237,"Why Incorporate?",http://blog.newscred.com/?p=27,,1193879969
+74898,story,,,1,0,apgwoz,"WikiPedia trust coloring demo. (coloring edits based on reputation of authors)",http://trust.cse.ucsc.edu/,,1193879767
+74897,comment,74714,74714,0,0,nanijoe,,,"No offense, but how hard is it exactly to build your own social news 'platform' ?
+If I were starting a social news site, I would rather use an open source package like pligg that I can modify to my hearts content than use any of these so called platforms </end rant>",1193879555
+74896,story,,,2,0,jawngee,"Java crybabies",http://griddlenoise.blogspot.com/2007/10/java-crybabies.html,"Thank god someone somewhere finally said something about this stupid stink over Java 6 on OS X Leopard.",1193879057
+74895,comment,74605,74840,0,0,nikolaj,,,"as an RIT CS grad ('03), I cackled when i saw your desktop.. very CSH :)",1193878868

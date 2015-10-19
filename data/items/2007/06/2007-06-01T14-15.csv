@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25871,story,,,1,0,jkush,"MVC In Web Forms",http://ayende.com/Blog/archive/2007/06/01/MVC-in-WebForms-The-impossible-fight-to-get-rid-of.aspx,,1180709611
+25870,comment,25861,25861,0,0,abstractbill,,,"Definitely true.  See also <a href=""http://www.bikeshed.com"" rel=""nofollow"">http://www.bikeshed.com</a>",1180708286
+25869,story,,,3,0,dawie,"RIA: What is it good for?",http://www.readwriteweb.com/archives/ria_what_is_it_good_for.php,,1180707776
+25868,comment,25861,25865,0,0,brlewis,,,"PG's essay is an interesting, broader view, but I like Buchheit's focus on what the next action is to kill the problem.  Having a prioritized list of issues and keeping it prominent is key.  It's different from the to-do list PG says to avoid, in that to-do lists don't have to be aggressively prioritized.  They get filled with random schleps.",1180707278

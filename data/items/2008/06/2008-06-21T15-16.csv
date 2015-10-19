@@ -1,0 +1,42 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+223719,comment,222866,223213,0,0,rplevy,,,"When scribd loads a pdf as a flash only page (the links from Hacker News for example go to the flash only) there is no way to download it. But I have seen scribd pages where they have a row of icons above the embedded flash and one of them is a download link.<p>Personally, the only problem I have with scribd is the use of Flash.  I think I would actually use the site if it presented pdfs using javascript and images, much like Google books.  You could still search the book, just as Google books does, because it searches the text on the server side and returns images of the pages with highlighted text.  I think this does add something new to PDF in that it makes it possible to share a book online without allowing easy download if there is interest in doing that.",1214063992
+223718,comment,222746,223678,0,0,gregwebs,,,"Exactly.  There are few places where we can get free energy.  Making TVs more energy efficient is one of them, so we may as well do it since it is such an easy task.<p>If you do the math (40W * 24h * 365 * .09 $/kWh)
+You end up with a savings of $30 a year<p>At 5 seconds to turn off the TV properly you are at $60/hour.  Most people would think this is a good rate for their work.<p>Maybe if I try and generalize this to something that it doesn't really apply to by using abstract principles with no math behind them I can get more up votes...",1214063682
+223717,comment,223654,223700,0,0,mojuba,,,"I understand there are syntactic obstacles, in fact I've been following these discussions, but... I'm very sorry, who cares?",1214063268
+223716,comment,223654,223711,0,0,mojuba,,,"There is one advantage in having necessary stuff built into the language: others can understand your code quickly.<p>As for printing, it is so basic and simple, if implemented right of course, that I wouldn't call it ""tons of fancy features"".",1214063157
+223715,story,,,1,0,miijoo,"The Trons: Robot Band That Could Play Better Than You",http://www.miijoo.com/index.php/2008/06/19/the-trons-robot-band-that-could-play-better-than-you/,,1214062933
+223714,comment,223512,223564,0,0,ajross,,,"An unhandled case is only one kind of bug.  Needless to say, filling in all those entries in your spreadsheet says absolutely nothing about whether those decisions are <i>correct</i>.<p>Look, this is a gimmick.  Not having used such a tool, I'm not going to say that it's worthless.  But I will say that I'm very suspicious of anyone who looks to gimmicks as the Salvation of Modern Programming.  I've seen it too many times.",1214062776
+223713,story,,,1,0,Andi,"Algorithmic Structures with POV-Ray",http://flickr.com/photos/aka-fotos/sets/72157605707492447/,"I created some algorithmic structures with the free ray tracer POV Ray. I tried to create a city with a few lines of code by just setting houses normally distributed around the center.
+Or look at the recursive box structure I created.<p>Any other new ideas - let's discuss it ;)",1214062578
+223712,comment,223535,223705,0,0,Anon84,,,"I'm guessing that it would also not be too hard to remove the watermark... just like people did with iTunes. On the other hand, that doesn't seem to have hindered Apple's revenue stream.",1214062274
+223711,comment,223654,223707,0,0,alexk,,,"That's because really cool languages provide you with the power to build what you want, not the ton's of built-in fancy features.",1214062261
+223710,comment,223695,223695,0,0,ROFISH,,,"This is a solution looking for a problem. This just solves the 'I save exactly x gallons' while most people just want to drive to work slightly cheaper.",1214061807
+223709,comment,223654,223697,0,0,globalrev,,,"what does a real one consitute of?<p>and why do you want that? i use pyhton as a superb general-purpose language and for gluing together a lot of different parts of software/programs.<p>for that purpose, simplicity and readability is essential.",1214061609
+223708,story,,,9,11,Allocator2008,"What do you guys think of the ""reseller"" hosting business model?",,"I recently came across the concept of ""reseller hosting"" from for example hostgator.com. Apparently one purchases a cpanel plan from them, along with web templates and related tools to be able to create a site to ""resell"" hosting solutions to customers.<p>Is this a worthwhile pursuit? Or is the market simply too over-saturated for it to be worth a risk?",1214061453
+223707,comment,223654,223702,0,0,mojuba,,,"Of course I can do it, then why isn't it done already in the language?<p>Printing is something we do all the time in server applications, and that means, the printing facility in the language should be polished to death.",1214061211
+223706,story,,,16,3,ca98am79,"Login Form Design Patterns",http://www.flickr.com/photos/factoryjoe/sets/72157600010029792/,,1214060899
+223705,comment,223535,223634,0,0,tomjen,,,"It would be possible to clearly watermark a PDF file with the serial number of the person who checked it out of the library. That way if it is leaked it shouldn't be too difficult to find the person who leaked it.<p>I would definitely use such a library if it existed, provided that it wasn't too expensive and had novels or books I could not find at my local (and free) public library.",1214060851
+223704,comment,222837,223163,0,0,jauco,,,"probably spam",1214060731
+223703,comment,223621,223661,0,0,nirmal,,,"I also tried and failed at his suggestion.",1214060655
+223702,comment,223654,223674,0,0,alexk,,,"You can always consider print as low-level feature and wrap the whole thing in a fancy stream.<p><pre><code>    class err_class:
+        def __lshift__(self,other):
+            print(other)
+            return self
+
+    err = err_class()
+    err<<'fatal error:'<<'thats what happened'</code></pre>",1214060653
+223701,comment,220733,222739,0,0,KirinDave,,,"mileszs, what's more disappointing is that they did it the wrong way from the start. I fully understand the decision to wait awhile if you've got an established project and you want to slowly move it over. But the reddit guys didn't, and it's pretty clear they did basically no git homework before proceeding with this.<p>That would be bad enough on its own, but then they handled the response really poorly. This ""we don't have time"" response was the sane cap on the mouth of a bottle of crazy agitated mailing list messages from a different maintainer saying strange things. It's pretty likely they never even considered it before someone mentioned it.",1214060491
+223700,comment,223654,223693,0,0,jauco,,,"from pep 3099:<p><pre><code>    At one point lambda was slated for removal in Python 
+    3000. Unfortunately no one was able to come up with a 
+    better way of providing anonymous functions. And so 
+    lambda is here to stay.
+
+    But it is here to stay as-is. Adding support for 
+    statements is a non-starter. It would require allowing 
+    multi-line lambda expressions which would mean a  
+    multi-line expression could suddenly exist. That would  
+    allow for multi-line arguments to function calls, for  
+    instance. That is just plain ugly.
+</code></pre>
+Thread: ""genexp syntax / lambda"", <a href=""http://mail.python.org/pipermail/python-3000/2006-April/001042.html"" rel=""nofollow"">http://mail.python.org/pipermail/python-3000/2006-April/0010...</a>",1214060454
+223699,comment,223447,223447,0,0,ROFISH,,,"a = Array.new<p>a[0x7fffffff] = 55<p>(irb):14: [BUG] Segmentation fault<p>Presumably this is one of the attack vectors that was fixed.",1214060411

@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+47819,story,,,1,0,cyberhill,"How Mubs launches a new project, ""Every 5 Weeks""",http://www.hatchthat.com/mubashar-iqbal/,,1188395678
+47818,comment,47622,47622,0,0,bboland1,,,"I just read about the 17 year old founder of whateverlife.com yesterday. That is a great story. 
+",1188395335
+47817,story,,,1,0,staunch,"Firebug's Javascript Debugging Can Cause Sites To Seem Unusually Slow",http://dean.edwards.name/weblog/2007/08/firebug-slow/,,1188395183
+47816,comment,47597,47597,0,0,rustartup,,,"All spoken here do not understand .Net enough. I worked for tagworld.com and this web project is ""quite"" big. Viewstate and drag'n'drops and the like are nowhere used. <p>.Net is NOT for web sites, it is for web projects, really big and heterogeneous, with lots of services behind. <p>For other please use php and the like, with ""quick submit to db"" approach.",1188395047
+47815,comment,47696,47774,0,0,ivankirigin,,,"Yes, I work in image processing, but there are many of people with the requisite level of knowledge.",1188394970
+47814,comment,47798,47798,0,0,jsjenkins168,,,"That was quick.. RC2 just came out last week! Google never ceases to amaze me..",1188394969
+47813,comment,47636,47636,0,0,axod,,,"Here's a work in progress of mine that uses long polling and keep-alives.<p><a href=""http://www.zchatter.com"" rel=""nofollow"">http://www.zchatter.com</a><p>It works quite well.. pretty much like having a conventional tcp/ip connection for receives, (interlaced with HTTP traffic), and using a separate series of POST requests to send data to the server.",1188394640
+47812,story,,,5,3,Alex3917,"What Makes Twitter Twitter?",http://alexkrupp.typepad.com/sensemaking/2007/08/what-makes-twit.html,,1188394166
+47811,story,,,4,0,transburgh,"If You Can't Beat Em, Join Digg",http://www.techcrunch.com/2007/08/29/if-you-cant-beat-em-join-digg/,,1188392674

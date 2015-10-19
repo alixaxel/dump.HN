@@ -1,0 +1,37 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+79809,comment,79713,79713,0,0,wschroter,,,"All that ass kissing aside in the article, it really is amazing how many people blossomed from that one startup.  It's cool to see people that make a ton of jack and yet are still very young and idealistic about the world.  Thiel's singularity ideas may sound ""off"" in mainstream media but the fact that he can still manage the money and resources to support those ideas in a meaningful way is sweet.",1195066425
+79808,comment,79764,79764,0,0,joefaron,,,"impressive, although i dont think i'd ever really use it.  its surprisingly advanced, which is good - but being an advanced user, theres NO reason to NOT just get photoshop.",1195066160
+79807,comment,79778,79778,0,0,cperciva,,,"The canonical place to find hosting recommendations is <a href=""http://www.webhostingtalk.com"" rel=""nofollow"">http://www.webhostingtalk.com</a> .<p>If you're looking for information about where YC-funded startups are hosted, here's the latest numbers from wikipedia's list of non-acquired, non-defunct YC companies:<p><pre><code>   4     SoftLayer Technologies Inc.
+   3     Layered Technologies, Inc.
+   3     ThePlanet.com Internet Services, Inc.
+   2     NoZone, Inc.
+   2     Rackspace.com, Ltd.
+   1     Amazon.com, Inc.
+   1     BitPusher, LLC
+   1     Carnegie Mellon University
+   1     Columbus Network Access Point, Inc.
+   1     Global Netoptex, Inc
+   1     ServePath, LLC
+   1     Simpli Hosting, Inc
+</code></pre>",1195065992
+79806,comment,79405,79405,0,0,goofygrin,,,"""redacted""",1195065629
+79805,comment,79764,79764,0,0,alaskamiller,,,"Just curious: how does Adobe's plan to release the web-based Photoshop play into your strategy?",1195065129
+79804,comment,79764,79764,0,0,eusman,,,"i found a form to submit this but when I went again to ""contact us"" i didn't find the feedback form <p>
+bug: when creating text if the text box is empty and click somewhere in the image new text layers are created with the previous textbox remaining active.<p>also simple users wont be familiar with the layers concept so if they try to create some text and right afterwards try to paint with the brush because the background layer is not selected it will seem to them it doesn't work because they wont be able to paint.<p>other than that its obvious it's great work<p>* oh and i was impressed when I even found layer effects",1195065106
+79803,comment,79778,79799,0,0,optimal,,,"foodawg,<p>Thanks--that looks better than the thread from 148 days ago I had bookmarked (whatever date that happens to be):<p><a href=""http://news.ycombinator.com/item?id=29011"" rel=""nofollow"">http://news.ycombinator.com/item?id=29011</a><p>Is there a search function here I'm missing? I did search for search to parse prior posts but withdrew without the words of the most.",1195065056
+79802,story,,,20,14,jkush,"If Elected, Barack Obama Would Name a Chief Technology Officer",http://venturebeat.com/2007/11/13/exclusive-barack-obama-to-name-a-chief-technology-officer/,,1195064899
+79801,comment,67216,67335,0,0,Halve,,,"I am the affiliate coordinator over at Vidoop and just wanted to mention that we have an affiliate program as well. It is a simple sign up process and is basically the same as myopenid.com's affiliate sign up. Another point to make is that offering users a few recommendations to a few ""good"" OIP's is good practice and let's them know you are helping them select a reputable OIP. The sign up is at affiliates.vidoop.com",1195064770
+79800,comment,79764,79777,0,0,jey,,,"""<i>I couldn't capture an image from my webcam. I'm using latest Firefox, Flash & Macbook Pro... tried all sources listed and all I got was a black image.</i>""<p>Go to fauxto, right click the window and click settings, then the webcam tab, then select your webcam in the drop-down list. On a MacBook Pro you need to select ""USB Video"" to use the built in iSight.",1195064738
+79799,comment,79778,79778,0,0,foodawg,,,"I don't know if your referring to <a href=""http://news.ycombinator.com/item?id=64795"" rel=""nofollow"">http://news.ycombinator.com/item?id=64795</a> as the older post, but it is only a month old. The web hosting industry is pretty cyclical, but within a month, the data should still be relevant.",1195064606
+79798,story,,,5,1,pius,"American Hacker: Frank Lucas Waxes Poetic on the Dangers of Outside Investment",http://piusuzamere.com/2007/11/14/american-hacker-frank-lucas-waxes-poetic-on-the-dangers-of-outside-investment,,1195064401
+79797,comment,79713,79768,0,0,garbowza,,,"Every similarity between today and the tech bubble does not necessarily indicate we're doomed for a bust. There are self-congratulatory articles in nearly every industry (economics, sports, politics, etc), but that doesn't mean you're on the tail end of a bubble.",1195064291
+79796,story,,,1,0,Ztrain,"Top 100 Business Blogs",http://smartstartup.typepad.com/my_weblog/2007/11/the-top-100-bus.html,,1195064277
+79795,comment,79164,79251,0,0,hydra,,,"Hi Cibermole. hows about meeting in London. I'd like to show you some cool sw that you're gonna like. need a little of your time.
+H",1195064169
+79794,comment,79694,79712,0,0,Zak,,,"I wouldn't be shocked if it becomes the example app provided with Arc.",1195064168
+79793,comment,79778,79788,0,0,brlewis,,,"<a href=""http://linode.com/"" rel=""nofollow"">http://linode.com/</a>
+",1195064014
+79792,comment,79232,79718,0,0,neilc,,,"How about D. E. Shaw? I'm not sure how much he's made, but it's surely quite a lot.",1195064009
+79791,comment,79508,79787,0,0,jgrahamc,,,"I plan to open source it once I get it a little cleaned up :-)  It's on my TODO list.<p>John.
+",1195063940
+79790,story,,,1,0,makimaki,"How to Email a Stranger ",http://www.lifehack.org/articles/communication/how-to-email-a-stranger.html,,1195063899

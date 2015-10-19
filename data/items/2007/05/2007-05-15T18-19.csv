@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+22298,comment,22248,22260,0,0,pg,,,"Can you give me an example of something YC does that seems 
+clubby, and that we could do differently to cure that?  
+",1179254476
+22297,comment,22253,22253,0,0,angelasimpson,,,"Why?  Y Combinator funded companies don't build real businesses.  ",1179254217
+22296,comment,22231,22231,0,0,mynameishere,,,"I'll just throw out a bit of advice for no good reason: Don't name anything after a file format. They tend to go obsolete.",1179253762
+22295,story,,,1,0,gibsonf1,"What Lean isn't - The Lean Software Enterprise (In response to IBM layoffs)",http://www.leansoftwareinstitute.com/blog/index.php?/archives/6-What-Lean-isnt.html,,1179253759
+22294,comment,22062,22134,0,0,a1k0n,,,"I'd like to see an AJAX ssh/terminal client.  How do you plan to do that?  Lots of XMLHttpRequest polling?  <p>I hate that there isn't a way to do some kind of persistent socket connection in browser-Javascript, unless you include Flash into the mix.",1179253697
+22293,comment,22277,22277,0,0,pg,,,"Thanks, I have just been worrying about this recently.  The site is now growing to the point where people feel anyonymous enough to get quite rude in comments. I've tried asking them to be civil.  Sometimes it works, but not always; and in any case it doesn't scale.  So when I get back to the US in June I will try to add some flame-retardant features.  If anyone has any suggestions, let me know on this thread.",1179253424
+22292,story,,,12,15,knewjax,"Rejected Y Combinator Company, Bandsintown now in private beta! Sign up For your Invite Code",http://www.bandsintown.com,,1179253245
+22291,comment,22279,22279,0,0,Sam_Odio,,,"I found the actual story more informative:  <a href=""http://www.latimes.com/business/la-fi-linkedin7may07,1,5870712.story?coll=la-headlines-business&ctrack=1&cset=true"" rel=""nofollow"">http://www.latimes.com/business/la-fi-linkedin7may07,1,5870712.story?coll=la-headlines-business&ctrack=1&cset=true</a>",1179252981
+22290,comment,22248,22248,0,0,angelasimpson,,,"The blog is a bit of a rant but there are a lot of valid points.  I doubt this is someone who got turned down by Y Combinator though since he/she knows nothing about the application process.<p>That being said, I think the arrogance is reaching all time highs and Paul Graham needs to get it under control.",1179252579
+22289,story,,,5,7,nivi,"How to sell debt to investors",http://www.venturehacks.com/articles/attractive-debt,,1179252574
+22288,comment,22278,22278,0,0,mf,,,"Good looking out. I totally missed that. I thought I read January 2007. Are you familiar with any of the contributors?
+",1179252277

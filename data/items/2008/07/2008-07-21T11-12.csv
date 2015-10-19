@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+252158,comment,252019,252049,0,0,zacharye,,,"On this note, I love the concept and the simple design but with all of that open real estate on the homepage you might consider one short explanatory blurb to greet visitors and pull them right in.",1216641461
+252157,comment,251660,252083,0,0,nuclear_eclipse,,,"I believe it's a matter of complexity vs reward.  There are already so many unobfuscated addresses available on the internet, that it's not really ""worth it"" to spend extra time parsing even simple obfuscation techniques.  Something about low-hanging fruits?",1216641221
+252156,story,,,2,1,asciilifeform,"""Synergetics"" - Full Online Text of Buckminster Fuller's Magnus Opus",http://www.rwgrayprojects.com/synergetics/toc/toc.html,,1216641206
+252154,comment,252019,252129,0,0,kimovski,,,"In the beginning we will add customers manually and charge them via www.kreditor.se",1216640706
+252153,comment,252144,252144,0,0,rahulgarg,,,"Also can you add a ""test contact"" like in skype?
+I am now logged in but have no idea whether its working or not :)",1216640697
+252152,comment,252144,252144,0,0,indafon,,,"Sure! We'll have this opportunity in a few weeks.",1216640520
+252151,story,,,1,0,lmacvittie,"Does your virtualization strategy create an SEP field?",http://devcentral.f5.com/weblogs/macvittie/archive/2008/07/21/3471.aspx,,1216640130
+252150,comment,251180,251180,0,0,ssharp,,,"I don't get these names...they already claim to have failed once because of their name.  I don't think this one is much better.",1216640053
+252149,comment,252144,252144,0,0,rahulgarg,,,"Can I get an option to display rates in CAD or if not at least USD please?",1216639922
+252148,comment,252019,252019,0,0,mstevens,,,"Some explanation would be nice...",1216639855
+252146,comment,252095,252095,0,0,morbidkk,,,"I havent done any hands on yet but found a good resource from Oreilly <a href=""http://oreilly.com/catalog/9780596515812/"" rel=""nofollow"">http://oreilly.com/catalog/9780596515812/</a>",1216639434
+252145,comment,251584,251584,0,0,dejb,,,"Understanding the algorithms in your code, both the ones you wrote and the ones that the the compiler/interpreter are adding, is the useful thing in my view. In as far as C forces you to explicitly deal with many of these issues manually it would help with your understanding of this. Usually however the difference in complexity (both space and time) between the algorithm you think you are using and the one the computer is using constant or at worst Log(n) which doesn't justify delving into the lower levels such as C or machine code.",1216638911
+252144,story,,,17,8,indafon,"Rate/review our startup - Web-based VoIP+Jabber IM",http://www.indafon.com,,1216638764
+252143,comment,251774,251774,0,0,agentbleu,,,"louislouis great start.<p>I'm some competition...lol<p><a href=""http://www.myplaylist.biz/"" rel=""nofollow"">http://www.myplaylist.biz/</a><p>I would recommend Linode for hosting/scaling.
+you need controls, SEO advice, legal statement - have a read of this:
+<a href=""http://thenextweb.org/2008/01/30/the-music-wars-continue-warner-bros-records-vs-seeqpod/"" rel=""nofollow"">http://thenextweb.org/2008/01/30/the-music-wars-continue-war...</a><p>Good luck with the app, it looks great.",1216638723

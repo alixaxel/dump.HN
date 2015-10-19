@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+42779,story,,,1,0,dawie,"RedHerring Returns: New Website, Videos, Social Network",http://www.readwriteweb.com/archives/redherring_returns_new_website.php,,1187207841
+42778,story,,,5,0,hhm,"Srinivasa Ramanujan: the genius mathematician",http://www.usna.edu/Users/math/meh/ramanujan.html,,1187207531
+42777,story,,,2,0,drm237,"Google-funded startup to offer free Wi-Fi in San Francisco",http://www.theregister.com/2007/08/15/meraki_expands_in_sanfrancisco/,"Now, a Google-funded startup is announcing an alternate plan to bathe the 49-square-mile city in Wi-Fi. It comes at a fraction of the cost, doesn't require the city to commit to anything, and employs hardware that's likely to outperform anything Earthlink can provide. It may prove to be a fatal blow to Mayor Gavin Newsom's already struggling plan to bridge the digital divide.",1187207408
+42775,story,,,2,0,andrewcooke,"Getting Started with Gambit and Snow (an alternative to R6RS?)",http://www.acooke.org/cute/GettingSta0.html,,1187206757
+42774,comment,363,363,0,0,champion,,,"I really wish the RSS feed had a link to the news.yc post about the link and not only to the link itself. <p>Often I want to jump to reading the thread on news.yc after reading the link itself, without having to find that story again on the news.yc page.",1187206753
+42773,story,,,1,0,bosky101,"ExcelKoder : [hack] spreadsheets to wiki / html",http://bhaskervk.com/js/excelkoder/demo.html,"struggling with all kinds of ascii art to get a decent display in a barcamp wiki,hacked a utility one evening to do just that. ports to html(with preview) as well !",1187206705
+42772,comment,42730,42730,0,0,far33d,,,"If you are a siggraph member (I think it's $50 a year or so) you can stream the talks for free.
+",1187206646
+42771,comment,41051,41171,0,0,blored,,,"We were, now I guess the cat is a bit out of the bag.  I've touched the samples up a bit.  Hope they are a bit better.",1187206522
+42770,comment,42702,42717,0,0,menloparkbum,,,"I'll posit that the ""startup"" theme was what was responsible for all the self-help-SEO type posts. <p>I'll gladly put up with arcane posts about how to configure your emacs environment to write haskell if it means I don't have to see anymore inane posts about improving my credit score by ""track suit CEO.""",1187206307
+42769,comment,40783,41125,0,0,blored,,,"I'd imagine that it's just a race against the clock.",1187206297
+42768,comment,42627,42758,0,0,Darmani,,,"Adjectives such as ""short"" only make sense used relatively. For example, Napoleon Bonaparte is of average height relative to early 19th-century France, and short relative to 21st century France.<p>Similarly, with 63 pages worth of text, compared to the average web page, this link is extremely long, but, compared to the average programming-related book, this link is extremely short.",1187205983
+42767,comment,42630,42674,0,0,electric,,,"how does one edit the original?",1187205808
+42766,comment,42630,42630,0,0,electric,,,"<a href=""http://www.canada.com/ottawacitizen/news/business/story.html?id=3e235634-d62f-450c-8057-02c10a972434&p=1"" rel=""nofollow"">http://www.canada.com/ottawacitizen/news/business/story.html...</a>",1187205783
+42765,comment,42702,42735,0,0,moses1400,,,"I would hope you like CenterNetworks as well and all of the other sites that provide the same as TC.",1187205681
+42764,story,,,1,0,ivankirigin,"New Keepon. Fun from legit research into rhythm of human speech patterns.",http://beatbots.org/,,1187205152
+42763,comment,42317,42317,0,0,rms,,,"Thanks Paul.",1187204557
+42762,story,,,2,0,augy,"Gates, Jobs, & the Zen aesthetic",http://www.presentationzen.com/presentationzen/2005/11/the_zen_estheti.html,,1187204529

@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+29684,comment,29596,29618,0,0,jsjenkins168,,,"No Flash support on the iPhone. <p>Its a very closed box for developers. Apple is shooting themselves in the foot IMHO.<p>The LG Prada (iPhone clone) supports Flash lite 2.1. In fact, the entire UI is built on it.",1182379922
+29683,comment,29634,29634,0,0,davidw,,,"What do you know already?",1182379896
+29682,comment,29516,29516,0,0,tyohn,,,"So cool!  I've been playing on the site and I'm impressed.  Who's your ideal customer? How do you plan on making money?",1182379350
+29681,story,,,1,0,kevinxray,"New Jersey = Russia, Illinois = Mexico, Iowa = Venezuela",http://www.boingboing.net/2007/06/20/which_countries_gdps.html,,1182379084
+29680,comment,29634,29634,0,0,Tichy,,,"Java :-)",1182378149
+29679,story,,,50,13,dannyv,"Jessica Livingston, Founders at Work author and YC partner, launches her new blog powered by Weebly",http://www.foundersatwork.com/blog.html,,1182378106
+29678,comment,29677,29677,0,0,rami,,,"1. We have no competition<p>2. Our financial projections are (and/or valuation is) conservative<p>3. We know more about (software / search / media) than (Microsoft / Google / Fox )<p>4. This will be our last round of funding<p>5. If we only get 1% of the market, then we will all be rich",1182377463
+29677,story,,,3,3,rami,"The five worst things to say to a potential investor",http://www.reportonbusiness.com/servlet/story/RTGAM.20070614.wsb-seanwise/BNStory/specialSmallBusiness/,,1182377437
+29676,comment,29619,29619,0,0,Alex3917,,,"I heard a story about some guy who started a sports website six months ago, and then sold it for thirty million dollars three months ago. Not sure of the details, but it seems like there's money to be made.",1182377389
+29675,comment,29527,29629,0,0,wschroter,,,"@ Tichy - I really like your point about a younger generation missing out on an older trend.  Perhaps we're just used to seeing more opportunities creep up from the younger generation than vice versa.  <p>Point well made.",1182377238
+29674,comment,27532,27589,0,0,falsestprophet,,,"Would immediately storing data and sessions to S3 be problematic?<p>Is it a better idea to use an external machine as a load balancer and an automatic EC2 instance manager?<p>Is it reasonable to try to build a traditional functional web application in this asynchronous paradigm?
+",1182377120
+29673,comment,29619,29667,0,0,veritas,,,"Huh really?  I'm logged in from a macbook (13 in) and it fits fine.  Its also a fluid layout so it should resize automatically.  I'll take a look and see what's causing it.  Anyone else having this problem?<p><i>Edit: alrite... I've deployed a fix to the CSS.  It should fit the screen now.  Can you try it out and get back to me?</i> ",1182377058

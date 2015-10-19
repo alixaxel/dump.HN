@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+64412,story,,,5,0,moses1400,"Help find Local Perps with PostACrime",http://www.centernetworks.com/postacrime-find-local-perps,,1191754744
+64411,story,,,2,0,alaskamiller,"15 Most Ridiculously Useful Websites. Can you make one that's better?",http://www.webupon.com/Web-Talk/15-Ridiculously-Useful-Websites.50487,,1191754219
+64410,comment,64382,64408,0,0,rms,,,"All Rights Reserved definitely works",1191752721
+64409,comment,63836,63836,0,0,astrec,,,"can't go wrong with postfix",1191752602
+64408,comment,64382,64406,0,0,bootload,,,"<i>""... but I don't think you can relicense anything under CC that is derived from something with standard copyright. ...""</i><p>Ok, I'll look into this. I certainly will be licensing my individual XML submissions how I like. Maybe what I should do is add another field in the XML submission field, license? So each added submission can be individually licensed by default ""All Rights Reserved"" by default without explicit authorisation of a submitter.",1191752227
+64407,story,,,11,0,mqt,"Slashdot's CmdrTaco Looks Back at 10 Years of 'News for Nerds'",http://www.wired.com/entertainment/theweb/news/2007/10/slashdot10year,,1191751947
+64406,comment,64382,64403,0,0,rms,,,">Do you think google get/need permission to extract titles?<p>No, but I don't think they are relicensing anything, they are just publishing it and in a way that should be allowed for by fair use. <p>I'm not antagonized at all by your use of this data as such; I think it's a very reasonable fair use for you to make this collection of data -- but I don't think you can relicense anything under CC that is derived from something with standard copyright. Copyright doesn't allow for derived works. If I put up a block of unlicensed code that I wrote on my personal website, it would be inappropriate for someone to incorporate that code into any copylefted software because without any other license that code I wrote is automatically copyrighted in the USA.",1191751879
+64405,comment,64382,64404,0,0,adrianwaj,,,"Good onya mate",1191751570
+64404,comment,64382,64401,0,0,bootload,,,"Ok, I'll have a hack at it. From this ... <p><pre><code>  <user>rms</user>
+  <inception>226 days ago</inception>
+  <karma>1622</karma>
+  <item>63912</item>
+  <title>Aaron Swartz: How to Get a Job Like Mine</title>
+  <url>http://aaronsw.jottit.com/howtoget</url>
+  <points>62</points>
+  <comments>30</comments>
+  <posted>1 day</posted>
+</code></pre>
+to something like this ...<p><pre><code>  <item>
+      <title>Aaron Swartz: How to Get a Job Like Mine</title>
+      <link>http://aaronsw.jottit.com/howtoget</link>
+      <description>rms (1622 karma|226 days ago) 62 points,30 comments,1 day ago.</description>
+      <pubDate>Tue, 03 Jun 2003 09:39:21 GMT</pubDate>
+      <guid>http://news.ycombinator.com/item?id=63912</guid>
+    </item>
+</code></pre>
+I'll see how I go.  Then the only real value added compared to the current RSS file is <p>- mine is delayed (I read the RSS file at the moment)<p>- it breaks down the useful readable facts<p>- has an associated XML data file<p>- probably buggier :)<p>Sort of why I didn't bother doing an RSS feed in the first place, xml is much richer to digest. ",1191751348

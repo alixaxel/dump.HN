@@ -1,0 +1,43 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16275,comment,16098,16254,0,0,rtm,,,"The drives whose documentation I've
+read say they may not copy the write-cache to the surface
+during a power failure. I don't know about other drives, or
+about why.<p>Such a feature would anyway be hard or impossible to use as
+part of a design to get fast writes and crash recovery.
+Crash recovery usually depends on constraints on the
+order writes were applied to the disk surface -- for
+example that all the log blocks were on the surface
+before any of the B-Tree blocks. Or (for FFS) that an
+i-node initialization goes to the surface before the
+new directory entry during a creat(). Drives that just
+provide write caching don't guarantee any ordering
+(much of the point of write-caching is to change
+the order of writes), and don't tell the o/s
+which writes have actually completed. So the
+write-order invariants that crash recovery depends on
+won't hold with write-caching. That's why tagged command
+queuing is popular in high-end systems: TCQ lets the
+drive re-order concurrent writes, but tells the o/s when
+each completes, so for example a DB can wait for the
+log writes to reach the surface before starting the
+B-Tree writes.<p>In our case, perhaps a pure log-structured DB could use
+a disk write-cache. Crash recovery could scan the whole
+disk (or some guess about the tail of the log) looking
+for records that were written, and use the largest
+complete prefix of the log. But we would not be able to
+use the disk for anything with a more traditional crash
+recovery design -- for example we probably could not
+store our log in a file system! Perhaps we could tell the
+disk to write-cache our data, but not the file system's
+meta-data. On the other hand perhaps we'd want to write
+the log to the raw disk anyway, since we don't want to be
+slowed down by the file system adding block numbers to
+the i-node whenever we append the log. ",1177408046
+16274,comment,16211,16211,0,0,ivan,,,"Be careful otherwise you will ""twitter"" soon because of huge load :) If you wish, I can create a css for you as you mentioned on your site.",1177407211
+16273,comment,16270,16270,0,0,maurycy,,,"I was thinking about this site a long time, and started work few days ago, before all these recent discussions. I have always had too many startup ideas, and not enough resources to use them.<p>It still lacks some serious features, like voting, tags, private ideas, friends. I'm not a CSS wizard, so the stylesheets probably have their own problems too. I even not incorporated yet.<p>I initially wanted to wait, but it turned out to be a bad move. Hope you'll enjoy it.",1177406904
+16272,story,,,1,0,amikael,Widgets,http://www.widgetplus.com,,1177406812
+16271,comment,15988,16065,0,0,jey,,,"<i>Besides, I remember Ray Kurzweill </i>[sic]<i> writing that the Bubble wasn't really a bubble. The companies that really created value created so much value that they compensated for the ones that went bankrupt.</i><p>Sure, overall the whole Internet thing has created a lot of actual value, and this is evidenced by the fact that the recession that followed was pretty mild. But it's still true that it was a bubble in the sense that companies were being invested in with little to no actual value, with unworkable business schemes, and a ""hemorrhage money now, make billions later!"" mentality. The perception was that the Internet was a money-generating panacea, all you had to do was open a site with a .com suffix, like RoofShingles2U.com, and you'd automatically put all roofing salesmen out of business and corner the roof shingle market.
+",1177406024
+16270,story,,,8,15,maurycy,"Have too many startup ideas? Share them!",http://startupideatr.com/,,1177405706
+16269,comment,16098,16247,0,0,dfranke,,,"I said any <i>decent</i> DBMS.",1177405629
+16268,comment,15743,16086,0,0,blader,,,"Let me just say this: ""the idea doesn't matter"" is a statement that we found to be highly, highly unreliable. Don't expect to get funded without a solid idea that is different. I'll elaborate on this later, but trust me on this one.",1177405386

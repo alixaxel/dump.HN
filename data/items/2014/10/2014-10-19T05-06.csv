@@ -1,0 +1,211 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8477358,comment,8477124,8477124,0,0,sillysaurus3,,,"I went AFK after reaching a particularly hard level, and came back to &quot;Lost connection to server.&quot;  Apparently it boots you if you&#x27;re AFK for more than a minute or two.<p>A bit frustrating, considering how much &quot;work&quot; I put in to get to that point.<p>It&#x27;s hands-down the best HTML 5 game experience I&#x27;ve ever had.  I look forward to more.",1413698396
+8477357,comment,8477114,8477300,0,0,jsonne,,,"Would hydroponics be efficient on a large scale like this?",1413698395
+8477356,comment,8477124,8477124,0,0,bevenky,,,"A simulated social experiment it is. This is pretty much how societies will need to be like. WIN - WIN - WIN!",1413698380
+8477355,comment,8477124,8477353,0,0,kevinchau,,,"too much load",1413698379
+8477354,comment,8477124,8477350,0,0,grepper,,,"And we were so far along, too :(
+<i>crosses fingers for persistent state</i>",1413698379
+8477353,comment,8477124,8477124,0,0,waitingkuo,,,"I got a &quot;Lost connection to server&quot; Anything went wrong?",1413698355
+8477352,comment,8477124,8477327,0,0,bentcorner,,,"I did that for a bit - you can observe that people&#x27;s cursors don&#x27;t warp to the beginning at that exit.",1413698345
+8477351,comment,8477124,8477124,0,0,flyrain,,,"Cool game, love it.",1413698317
+8477350,comment,8477124,8477124,0,0,thethrows,,,"And it&#x27;s dead.",1413698314
+8477349,comment,8475809,8476972,0,0,avmich,,,"One reason for one-character names is the habit of these languages to sidestep naming problem. Naming things is one of the hardest problems in software. APL programs are ideally read as &quot;variable X is ...&quot;, not &quot;do this, then this, then this&quot; - so appropriate names of variables could be something like &quot;max of reduce by difference...&quot; - hence the hardness of coming with good names.<p>Another reason is the same as in math. When you write equations on a whiteboard - the long-sought golden standard of expressiveness - you don&#x27;t use long names - at best you encode names with subscripts, indexes etc. But names themselves are usually pretty short. APL languages use the same rationale.<p>Just like you need to read carefully every line of a math equation to understand what&#x27;s going on, you have to read carefully each symbol of programs in APL family languages. It&#x27;s unusual for programmers who got used to more help along the line - but the vocabulary of all such languages is quite short and doesn&#x27;t extend that often. Another reason why APL could be used for teaching math.<p>I don&#x27;t agree that this style of naming is not good for anything. Somehow majority of programmers in these languages agree with that. Regarding much more useful things -<p>&quot;If you are interested in programming solutions to challenging data processing problems, then the time you invest in learning J will be well spent.&quot; (<a href=""http://jsoftware.com/"" rel=""nofollow"">http://jsoftware.com/</a>)",1413698279
+8477348,comment,8476818,8477163,0,0,abecedarius,,,"On the general point that the European literate culture pretty much starts with classical Greece: yeah. OTOH if you look just a little later at people like Euclid, Archimedes, Eratosthenes, ... you see work that&#x27;s both correct and of the highest quality. I wish there was much more left from that era to give us a better idea how that happened. Later antiquity had terrible taste in what to preserve.",1413698275
+8477347,comment,8477259,8477259,0,0,Animats,,,"But having to think before you code isn&#x27;t Agile.<p>The hard line on this is Dijkstra&#x27;s &quot;A discipline of programming&quot;, where he says, basically, that programming is hard and programmers should <i>suffer</i>.  There&#x27;s a case to be made for that, and it&#x27;s the classic MIT programming philosophy.
+Not everything needs to be done that way. Progress is made by encapsulating the parts that are really hard, so that second-raters can grind out appcrap fast enough to keep up with the market.<p>Problems come from exposure of hard problems at the higher levels. Race conditions at the application level tend to be poorly understood and handled badly. That&#x27;s the sort of thing Lamport is addressing.",1413698264
+8477346,comment,8475983,8475983,0,0,ambrop7,,,"Most people don&#x27;t understand the WPA PSK security model and its insufficiency for anything but private networks where every device is trusted. When you give someone the PSK, you give them the capability to impersonate the access point.<p>That being said, is there any better solution for public networks? One where giving someone a password doesn&#x27;t let them impersonate you. I&#x27;m not sure how good support for EAP-TLS is on common client devices. To actually make it secure the device would not only need to support it but also validate the AP&#x27;s public key some way.",1413698222
+8477345,comment,8477124,8477338,0,0,hanief,,,"I think no, that is the message from the server whenever it was overloaded. The drawing is not persistent. It goes away after a while.",1413698206
+8477344,comment,8477124,8477329,0,0,jaktet,,,"Woo  <a href=""http://i.imgur.com/4RN9UN0.png"" rel=""nofollow"">http://i.imgur.com/4RN9UN0.png</a>",1413698203
+8477343,comment,8477124,8477336,0,0,aganders3,,,"The control is hard if you disable the cursor lock, which I had to do to get it to work in Safari. If you lose track of your &quot;game&quot; cursor, you get the red circle around your &quot;real&quot; cursor until you link them back up.<p>It worked as expected for me in Chrome (then I went back and tried it in Safari after figuring it out).",1413698148
+8477342,comment,8475809,8477323,0,0,icsa,,,"Make a request at kparc.com for the research version of k (k5).<p>If that doesn&#x27;t work download q/kdb+ from kx.com (Windows/Linux/Mac OS X). It can runk4.<p>/ k4 implementations of the Bell Labs benchmarks are available
+<a href=""http://kx.com/a/k/examples/bell.k"" rel=""nofollow"">http://kx.com/a/k/examples/bell.k</a>",1413698141
+8477340,comment,8477124,8477336,0,0,jaredandrews,,,"Same here. Intriguing though.",1413698133
+8477339,comment,8475809,8475809,0,0,lafar6502,,,"I don&#x27;t buy this story. Maybe kdb is fast and great, but the article attempts to describe it as a work of a genius, better than anything else because it&#x27;s 100 lines of code, doing its own memory management and running on bare metal. But in fact many other programs do their own memory management and can run on bare metal. JVM or .Net do their own mem management, all database servers too, and many, many others. So what&#x27;s left on the table? 500 lines of C code that&#x27;s meant to change the world? I really doubt it (or, these guys arent using line breaks). We&#x27;ve read so many similar stories about Lisp and how it&#x27;s one language that can do everything in 5 lines of code or how you can build an entire OS and all applications in Lisp, but where&#x27;s that OS now?",1413698082
+8477338,comment,8477124,8477332,0,0,aganders3,,,"Ahh, that&#x27;s what the &quot;Area too full, drawing is disabled&quot; was for. I saw some drawing in a later level and didn&#x27;t connect the dots.",1413698050
+8477337,comment,8475995,8477152,0,0,nitrogen,,,"<i>Should I spend 1 hour explaining</i><p>Yes, absolutely.  Medicine needs to descend from its status as a high priesthood and be a little more accessible.",1413698050
+8477336,comment,8477124,8477124,0,0,tux1968,,,"Everyone seems to be loving it, but doesn&#x27;t work for me.  I don&#x27;t control any of the cursors.  There&#x27;s a message in the bottom corner &quot;Area too full, drawing is disabled&quot;.  Latest Firefox.",1413698040
+8477335,comment,8476204,8476204,0,0,comex,,,"Pretty weird that their homepage shows a screenshot of an iPad (only), while the Product page indicates that iOS isn&#x27;t actually supported yet.",1413697929
+8477334,story,,,4,0,dkarapetyan,"Is War Over? – A Paradox Explained",https://www.youtube.com/watch?v=NbuUW9i-mHs,,1413697917
+8477333,story,,,2,0,Jarred,"Uber's Founding (2010)",http://blog.uber.com/2010/12/22/ubers-founding/,,1413697877
+8477332,comment,8477124,8477124,0,0,hanief,,,"I love it. I learn to be sometimes sacrificing myself and sometimes to be selfish enough.<p>Ps: I just realized you can draw something on board. Hint: Press and hold Ctrl.",1413697841
+8477331,story,,,4,0,whatcanudo,"Computing for Ebola Challenge",http://www.hackerleague.org/hackathons/computing-for-ebola-challenge,,1413697794
+8477330,comment,8475809,8476563,0,0,icsa,,,"I don&#x27;t think so. Many of K&#x27;s primitives operate on arrays using stride 1 access. Being cache-friendly accounts for much of the performance gains.<p>In addition, K is written in ANSI C to maintain portability.",1413697786
+8477329,comment,8477124,8477319,0,0,RoboTeddy,,,"Yep! <a href=""https://roboteddy-img.s3.amazonaws.com/051583a403c58c10a87d3756310cd822.png"" rel=""nofollow"">https://roboteddy-img.s3.amazonaws.com/051583a403c58c10a87d3...</a>",1413697626
+8477328,comment,8467924,8467924,0,0,BorisMelnik,,,"The hard part about monetizing them is there are really no popular ways to run ads, and the browser addons that DO run some sort of ads are immediately called out as &quot;adware&quot; and shunned from the network.<p>In my experience, most add-ons/extensions fall into these categories:<p>-open source and generally want to help UX holistically
+-corporate and looking to advance their brand by way of addon
+-individuals looking to create some sort of monetization strategy",1413697617
+8477327,comment,8477124,8477296,0,0,RoboTeddy,,,"Did they figure out which was the real one, and then restart the game and get to that level just to point out the correct answer?",1413697606
+8477326,comment,8474623,8475566,0,0,jalonso510,,,">>On the other, writing code for 8 years as a single founder is right about the definition of doing things that don&#x27;t scale, which is a good thing.<p>Doing things that don&#x27;t scale isn&#x27;t good in and of itself - it&#x27;s just a means to figuring out what product people want, and offering an early version of it without investing in the ability to scale.  Once you&#x27;ve done that, I think the point is to figure out how to scale the previously un-scalable activity, and then you have a business.",1413697579
+8477325,comment,8475809,8477040,0,0,dragonwriter,,,"except .find_all.with_index passes the index to the predicate block, but still only returns a view of the matching elements from the list.<p>What I think is being sought is more like:<p><pre><code>  module Enumerable
+    def find_indices
+      each.with_index
+          .find_all {|x,_| yield x}
+          .map {|_,y| y}
+    end
+  end</code></pre>",1413697563
+8477324,comment,8475751,8476470,0,0,wodenokoto,,,"I actually think the default assumption is that shows will decline after a few seasons.<p>I think that South park is a show that really improved with time, and to some degree Family Guy had a revival, but other than that, I can&#x27;t really think of a show that has gone on with a high, constant level of quality.",1413697561
+8477323,comment,8475809,8477308,0,0,burntsushi,,,"Ok... Now how do I run those programs such that they are comparable to the ones on the benchmark game?",1413697544
+8477322,comment,8477124,8477296,0,0,eclipsor,,,"My big smile moment was in the level with a torturously long path between blue barriers that snaked around... UNLESS someone was on the blue barrier.<p>At that point, everyone was free to go straight to the exit (except the kind soul, who had to wait for someone to hit the cyan trigger and let them out)",1413697515
+8477321,comment,8476818,8477073,0,0,tjradcliffe,,,"Philosophers are proto-scientists in the same way that alchemists are proto-scientists. They were both pursuing a goal that we now know is both impossible and uninteresting: turning base metals into gold in the case of alchemists, and certain propositions in the case of philosophers.<p>As a scientist who has studied philosophy seriously, I am comfortable saying this is generally true of everything philosophers do: it is based on a fundamentally mistaken approach to understanding the world that vastly over-states the role of introspection, the fidelity of the senses, common-sense, memory, and the human perspective. The arts are an appropriate place for such explorations, and they should be understood as what they are: studies of human experience, and nothing else. They can&#x27;t teach us anything about the way the world actually is, or what are the optimal principles to govern our behaviour, or any of the other things that philosophers claim to this day is their unique subject of study. There is a role for natural philosophy as the foundations of science, but the rest? Un-natural philosophy has neither place nor use, and Einstein&#x27;s modest affection for Spinoza was almost completely irrelevant to this actual science.<p>Philosophers have been trying to claim &quot;inspiration&quot; for the work of scientists for centuries (there used to be a significant contingent of Aristotelians who claimed Newton was inspired by Aristotle, which is almost completely without empirical basis.) It&#x27;s kind of sad, seeing a several thousand year exercise in wrong-headedness finally meet its inevitable end, and of course there will be a few who insist on soldiering blindly on, arbitrarily privileging the human scale and human senses, blissfully unaware they are spouting gibberish, while the rest of us feel rather sad for them, and try to keep them away from sharp objects and the reins of power.",1413697489
+8477320,comment,8473791,8473791,0,0,BorisMelnik,,,"Find ways for low/mid level developers to see that this will help to advance their career. I&#x27;ve been a part of 1 open source project, and that was normally the question I would see before a developer would decide to chip in. They want to see that <i>you</i> the founder/CEO are invested and won&#x27;t decide to drop off the project from a funding or marketing perspective. (a lot of) developers want to see their name on the top of the contrib. list at the end of the day when it is successful.<p>one very small example / aspect that I can contribute.",1413697467
+8477319,comment,8477124,8477124,0,0,jaktet,,,"Has anyone finished?",1413697443
+8477318,comment,8475809,8476511,0,0,cbsmith,,,"The kdb+ folks have no need to astroturf, and if they did it wouldn&#x27;t get them anywhere.",1413697423
+8477317,comment,8475809,8476979,0,0,cbsmith,,,"Oh goodness... don&#x27;t do scan like that. Way easier (and more efficient) to use a generator:<p><pre><code>    def scan(f, iterator, initial=0):
+        yield initial
+        yield from scan(f, iterator, f(initial, next(iterator)))
+</code></pre>
+Even with python2, you could make a non-recursive version that&#x27;d be still shorter than your scan and faster. Alternatively, you could pair a coroutine with that reduce function....<p>But always be suspect of your code if you are iterating and appending to a list. Likely there is a much better way.",1413697354
+8477314,comment,,8474595,0,0,joeclark77,,,"Me too.",1413697303
+8477312,comment,8477124,8477124,0,0,Aaronneyer,,,"So much fun, great to see how people work together to help each other win.<p>I gave up on the one where you had to squeeze through a bunch of narrow red pathways, it&#x27;s not so easy on a trackpad.",1413697270
+8477311,comment,8472429,8472429,0,0,BorisMelnik,,,"cisco 7900 > voip my own network > sip somewhere else<p>gave up my cell last year. rarely am I afk (home, 2 offices) for more than 20 minutes and when I am I am with my wife and kids, both of which have cell phones if I need them.",1413697250
+8477310,comment,8476818,8477163,0,0,abecedarius,,,"Can you back up this claim of an illiterate Plato? That sounds like the sort of assertion this post complains about. Plato&#x27;s dialogs do have Socrates complaining about book-learning.<p>AFAICT literacy rates in classical Athens are uncertain. I recently read <a href=""http://www.amazon.com/Intimate-Lives-Ancient-Greeks-Peoples/dp/0313385718"" rel=""nofollow"">http://www.amazon.com/Intimate-Lives-Ancient-Greeks-Peoples/...</a> which left me with an impression of relatively high rates for male citizens, but I don&#x27;t remember anything concrete. Searching turns up <a href=""http://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/literacy-and-democracy-fifth-century-athens"" rel=""nofollow"">http://www.cambridge.org/us/academic/subjects/classical-stud...</a> which says the orthodoxy is for low rates, but argues against it.",1413697159
+8477309,story,,,5,0,bradleach,"I spent a month on a treadmill desk",http://www.dailylife.com.au/life-and-love/real-life/i-spent-a-month-on-a-treadmill-desk-20141016-3i631.html,,1413697154
+8477308,comment,8475809,8476895,0,0,icsa,,,"/ <a href=""http://shootout.alioth.debian.org"" rel=""nofollow"">http://shootout.alioth.debian.org</a><p><a href=""http://kparc.com/z/comp.k"" rel=""nofollow"">http://kparc.com/z/comp.k</a>",1413697139
+8477307,story,,,3,0,brotchie,"Consciousness is a Mathematical Pattern",https://www.youtube.com/watch?v=GzCvlFRISIM,,1413697050
+8477306,comment,8475177,8476228,0,0,gmays,,,"2. Warfight(ing) is actually MCDP1/FMF1, the Marine Corps&#x27; core doctrine and an introduction to maneuver warfare.  It was written under the direction of General Gray, the Marine Corps Commandant at the time.  More on it here: <a href=""http://www.clausewitz.com/readings/Warfit1.htm"" rel=""nofollow"">http://www.clausewitz.com/readings/Warfit1.htm</a>  It&#x27;s the first book new Marine officers are expected to master.",1413697031
+8477305,comment,8475995,8475995,0,0,j_lev,,,"Some questions:<p>1) How far along are we in terms of those computers that were predicted in the 80s to one day replace doctors? Not trying to antagonize but I can&#x27;t see any harm in having a row of booths with terminals that patients can log into and start answering questions about symptoms, being led through the &quot;troubleshooting&quot; steps, etc. There&#x27;s a lot of time spent just waiting around in hospitals, waiting rooms, etc. Maybe you could have a swipe card that saves your progress on the terminal, combines it with the lab results. The system wouldn&#x27;t replace a GP just yet but it would instead work alongside the GP.<p>2) Are there any crowd-sourced solutions available yet for these cases where doctors clearly have no idea? Someone enters all their symptoms and people discuss online and try to come up with some possible options.<p>3) How much are insurance companies responsible for the sorry state of health care in the US? I was speaking to my friend who says that he pays $850 bucks a month (up from $800 a month last year) on top of what his company pays. I&#x27;ve heard other stories about people basically being a slave to their company because they can&#x27;t leave due to the generous benefits. I&#x27;ve also heard that insurance companies pay back only 60 cents in the dollar, so to make up the same $100 a doctor was previously earning he now has to charge about $170 (the other option is to be cut from the network of doctors used by the insurance company). And is this the logical conclusion for health care? Will Canada/Australia head the same direction? Seriously, there is a massive opportunity for the US to fix some of these problems now, yet it just seems that you guys are heading in entirely the opposite direction.",1413696989
+8477304,story,,,3,0,caffeinewriter,"Ad Muncher's 15 Year History",http://www.murrayhurps.com/blog/ad-muncher-history,,1413696962
+8477303,comment,8475809,8476113,0,0,wglb,,,"Actually it is a good metric, certainly to the first order.  Yes, you can have a line or three that is more complex than the rest but practically it isn&#x27;t going to reduce the line count that much.<p>And token counts don&#x27;t help as code that insists that each brace must be on its own line detracts from readability. For one thing it pushes the last bit of the function off the bottom of the screen meaning you have to scroll.<p>A line that is overly complex is eventually get rewritten.<p>I say this as someone who has written large bodies of code in sigma 5 assembly, Fortran II and IV bliss 36, C, C++, and Lisp. Perhaps more to the point, these days I read large bodies of code measured in millions. Lines of code dictates how long it will take to understand it.<p>Peter Norvig in paip gives some examples of small code and how it can be exceedingly clear.",1413696960
+8477302,comment,8477124,8477296,0,0,macu,,,"Community spirit <3",1413696913
+8477301,comment,8476063,8477253,0,0,rahimnathwani,,,"Yes, but most Chinese people can speak Mandarin, even if it&#x27;s not their mother tongue.  So learning Mandarin will indeed enable you to converse with any of a billion people.",1413696891
+8477300,comment,8477114,8477114,0,0,cjensen,,,"Nice idea, but what about the Elephant in the Room? How do you eliminate the buildup of salt in the soil which can ruin the farmland?",1413696861
+8477299,story,,,3,0,superchink,"Troll  Artist  Author  Musician  Coder  Nerd in Social Status",http://zedshaw.com/2014/10/18/troll-artist-author-musician-coder-nerd-in-social-status/,,1413696852
+8477298,comment,8477124,8477124,0,0,macu,,,"&quot;Warning: Next iteration in a genre of basic addiction games.&quot;<p>These games really are impressive though. I wonder if there&#x27;s been a good thesis written on them yet.",1413696837
+8477297,comment,8477288,8477288,0,0,zaroth,,,"As a pay scale, it&#x27;s an interesting model. Start under-market, face a thorough weeding-out process, and end up quite rich. But I doubt this idea is so &#x27;democratic&#x27; in practice.<p>How about a tech company offering such a pay scale? For one, it would discourage people from job hopping there with no intent to stay for the long term. Also, it recognizes that the value of a good dev increases exponentially as they gain deep understanding of your systems. Some company&#x27;s sure to have tried this.",1413696814
+8477296,comment,8477124,8477124,0,0,SethKinast,,,"The level that really made me smile was one with about twenty &quot;exits&quot;, only one of which was real.<p>One of the cursors sat by the real one and danced invitingly until everyone noticed.",1413696801
+8477295,comment,8476132,8476132,0,0,sogen,,,"Artists these days take a long time between records, just compare discogs of John Lee Hooker [1] and The Beatles [2] versus U2 [3] or Iggy Pop [4]. 
+The amount of creative output of the first two is astounding, i.e. in his first five years John Lee Hooker released 25 records; 
+these days artists release just one record every five years.<p>[1] <a href=""http://www.discogs.com/artist/94557-John-Lee-Hooker?type=Releases&subtype=Albums"" rel=""nofollow"">http://www.discogs.com/artist/94557-John-Lee-Hooker?type=Rel...</a><p>[2] <a href=""http://www.discogs.com/artist/82730-Beatles-The?type=Releases&subtype=Albums"" rel=""nofollow"">http://www.discogs.com/artist/82730-Beatles-The?type=Release...</a><p>[3] <a href=""http://www.discogs.com/artist/6520-U2?type=Releases&subtype=Albums"" rel=""nofollow"">http://www.discogs.com/artist/6520-U2?type=Releases&subtype=...</a><p>[4] <a href=""http://www.discogs.com/artist/11073-Iggy-Pop?type=Releases&subtype=Albums"" rel=""nofollow"">http://www.discogs.com/artist/11073-Iggy-Pop?type=Releases&s...</a>",1413696791
+8477294,comment,8477124,8477124,0,0,joshmn,,,"My head hurts.<p>I love it.",1413696757
+8477293,comment,8475847,8475847,0,0,angersock,,,"A very good piece, and some excellent historical context thrown in--disco, no less!<p>At the same time, author is selectively ignoring (as many have) the full picture.<p>Author would like to paint the aggrieved gamers as the overdogs--as the numbers tell us, in both number of gamers and in media representation, they&#x27;re not. They actually <i>are</i> the minority, and the complainy and hateful ones even moreso. On one side, a bunch of angry trolls; on the other side, everyone looking to maintain credibility in the gaming media and media at large is arrayed against them.<p>The grumpy gamers are, actually, the minority.<p>For a lot of us growing up in the 80s and 90s, to be a gamer was not something cool or hip. For a lot of us, learning to use memmaker and autoexec.bat and config.sys and weird incantations to run Quake or Doom on our shitty 3.11 boxen was not something we were respected or lauded for.<p>Many times, you were met with &quot;Video games? huh.&quot;. Mostly, you were met with minor teasing for being a geek, or nerding out about video games, or whatever. In some cases, you were met with outright suspicion or hostility--being a Doom or Quake modder following Columbine was not something that made friends with fellow students or administrators (or parents!) for a while. Let&#x27;s not even go into the shitty gender dynamic here for gamers, or how it usually affected social skills and romance and all that stuff...that&#x27;s just unfair to play as a card.<p>In the mainstream coverage, nobody seems to be pointing this out. Nobody seems to be pointing out that, following that period in the 90s, there was a massive push (not seen since the early 80s) for AAA games with even further juvenile masculine power fantasies in the advertising. Nobody notes that, concurrent with that push, there was a strong sort of societal disdain for gamers, for Counter-Strike players, for these folks continually portrayed as manchildren. Playing Asheron&#x27;s Call or Everquest or Ultima Online or RO or WoW didn&#x27;t do <i>shit</i> for you socially.<p>But, now that it&#x27;s convenient for some people&#x27;s careers (for whatever reason), suddenly we portray gamers as this super privileged class. Suddenly gamers are this oppressing majority, this totally reasonable target for our scorn and hatred.<p>And so now, just as happened before, we mock them, we jeer at them, we call them dirty names and pan them in the press and make fun of these kids who just want to escape into a fantasy world for a little bit and fuck around.<p>And then, we act so fucking surprised that some lash back, make threats, act like buffoons...while the rest just wish we&#x27;d leave them alone, so they can go back to playing games.",1413696751
+8477292,comment,8476903,8477234,0,0,scintill76,,,"I like this title (&quot;What Organized Crime Pays&quot;), but would also point out: &quot;When you join the Mafia ... you wouldn’t be making all that much, though you’d probably earn more than you could at a legal job in those parts of Southern Italy.&quot;  So, strictly monetarily, it looks like organized crime does pay (at least at the average person&#x27;s entry level, in this particular geographical area.)",1413696709
+8477291,comment,8476155,8476927,0,0,nitrogen,,,"<a href=""http://www.hackerposse.com/~rozzin/journal/whole-home-pulseaudio.html"" rel=""nofollow"">http://www.hackerposse.com/~rozzin/journal/whole-home-pulsea...</a> may be interesting for those looking for synchronized multi-device audio (I am not the author).",1413696672
+8477290,comment,8476903,8477282,0,0,scintill76,,,"(Not the same poster)  Nice, I&#x27;ll keep that in mind!  Love that I&#x27;m getting vim tips from comments on an article about organized crime.",1413696590
+8477289,comment,8476204,8476759,0,0,lucaspiller,,,"If they use that language for their job listings I&#x27;d assume their company culture has a similar &quot;bro&quot; feel to it. It works both ways, you can take it as a warning that you won&#x27;t like it and only &quot;bro&quot; people will apply :-)<p>Edit: Just to be clear, I also agree it&#x27;s a bit over the top.",1413696586
+8477288,story,,,1,1,zaroth,"Organized Crime Pays",http://www.vice.com/read/organized-crime-pays-0000477-v21n10,,1413696545
+8477287,comment,8476132,8476132,0,0,atavistic,,,"<p><pre><code>  I&#x27;m a Very Important Person!
+  I park as a V.I.P.
+  And when I go to the bathroom...
+  I go in the V.I.P toilet.
+  And when I wanna change a lightbulb...
+  I don&#x27;t do it myself... 
+  Ohh no...
+  I have a technician!
+
+  &#x27;cause I&#x27;m a V.I.P.
+
+  Now, as I began to become a V.I.P...
+  I forgot what i&#x27;ve become a V.I.P for
+  I began to grow accustomed to people saying:
+  &quot;Right this way sir...drinks are on the house...&quot;
+  Flight attendants on airplanes saying:
+  &quot;Please...
+   Really, I don&#x27;t wanna bother you sir, 
+   but it&#x27;s such a pleasure to have you on board.
+   May I have your autograph... for my... daughter?&quot;
+
+  &quot;Yeah baby right after I go to the toilet.
+   I&#x27;ll give you a couple of &#x27;em!
+   &#x27;cause I&#x27;m a V.I.P!&quot;
+
+  Now, one thing about V.I.P is,
+  they never seem to be alone.
+  Oh no.
+  The &quot;true&quot; V.I.P must travel with an entourage!
+  People who say &quot;Right on boss&quot;
+  &#x27;cause it&#x27;s a V.I.P!
+
+  Right on boss.
+
+  As i began to realise that i had gained V.I.P status,
+  worries began to creep in.
+  What if one day, i woke up,
+  and i was no longer a V.I.P ?
+  No more good tables at the restaurants...
+  No more strange women smiling and approaching me on the streets...
+  No more top notch booty!
+  No more entourage to say &quot;Right on boss!&quot;
+  I began to have nightmares
+  And in my nightmares, I was just a fucking nobody.
+  Laying at the beach, imagining myself being a VIP!
+  Just like i was before...
+  Hearing the applause in my head 
+  Beautiful warm embraces of superior members of the female gender...
+
+  Of course, when one becomes a V.I.P, one meets other V.I.Ps at social occasions...
+  And one inevitably thinks:
+  &quot;How shallow and crass these people are!
+   They&#x27;re not down to earth and real like me...
+   Ohh no! I&#x27;m a very special V.I.P&quot;
+
+  Another interesting phenomenon, associated with V.I.P celebrityhood, 
+  is the &quot;V.I.P reflection effect&quot;, during which 
+  anyone associated with the V.I.P, 
+  becomes a sort of V.I.P in their own right.
+  Such as: 
+  &quot;son OF the V.I.P&quot;,
+  &quot;guitar player FOR the V.I.P&quot;,
+  &quot;girlfriend WITH the V.I.P&quot;,
+  &quot;accountants of the V.I.P&quot;
+  The maid, the dog, the music publisher...
+  All enjoy a sort of &#x27;reflected glory&#x27;, as in:
+
+  &quot;Hi this is Nastea
+   I work for Iggy
+   And i&#x27;d like 6 tables tonight in the V.I.P section
+   And he needs passes for everyone
+   And free drinks of course in the V.I.P area&quot;
+
+  Right on boss.
+
+  &#x27;cause i&#x27;m a V.I.P.
+
+  It&#x27;s also true that when one is a V.I.P, everybody&#x27;s happy to see you... 
+  All the time !
+  And there&#x27;s an implicit rule that a V.I.P must never...
+  NEVER
+  Be on a bummer.
+  &#x27;cause everybody expects YOU to make THEIR day
+  And they&#x27;ll all be on to you if you&#x27;re in a bad mood.
+  They will &quot;tisk tisk tisk!&quot; and &quot;mur mur mur mur mur mur...&quot;,
+  And you will find yourself with the WRONG kind of attention:
+  A *DIFFICULT* V.I.P.
+  Psychologists tell us that a sense of self-esteem is so necessary in today&#x27;s world.
+  As a V.I.P, I can guarantee you...
+  You&#x27;ll never be alone.</code></pre>",1413696416
+8477286,comment,8477124,8477124,0,0,prezjordan,,,"This is <i>way</i> more interesting than I thought it&#x27;d be. I bet it was a blast to build, too.",1413696320
+8477285,comment,8475983,8477063,0,0,Retric,,,"Retailers can use video footage + motion capture software to track you which works much better as not everyone has active wifi.",1413696306
+8477284,comment,8477054,8477054,0,0,dang,,,"<a href=""https://news.ycombinator.com/item?id=8476120"" rel=""nofollow"">https://news.ycombinator.com/item?id=8476120</a>",1413696166
+8477283,comment,8475177,8475177,0,0,tristor,,,"So much of how you decide to lead comes down to your philosophy, so I&#x27;m surprised they didn&#x27;t include<p>Meditations by Marcus Aurelius:  <a href=""http://classics.mit.edu/Antoninus/meditations.html"" rel=""nofollow"">http://classics.mit.edu/Antoninus/meditations.html</a>",1413696147
+8477282,comment,8476903,8477080,0,0,Danieru,,,"You might know this already but ZZ is faster and a bit more reliable method than :wq<p>ZZ has the side benefit of never saving out copies into randomly named files.",1413696113
+8477281,comment,8475979,8476186,0,0,A1kmm,,,"We have only heard one side of the story, written by the author herself. It is very easy to paint someone in a misleadingly bad light even without lying by selectively presenting facts and writing the story so that the reader draws incorrect inferences to the detriment of the subject.<p>Psychopathic trolls themselves rely on this - and sometimes manage to manipulate online communities into rallying against their victim.<p>There is not enough information in the article to tell who is the troll and who is the victim here. The main argument relates to the use of pseudonymity is not wrong, and this is not really catfishing, just the use of a pseudonym - the blogger never invited the author to contact her.<p>Maybe the review was completely fictitious, and the reviewer never read the book, in which case she is the troll. Maybe it was heartfelt, and the reviewer read the book and really thought it sent a socially irresponsible message - and indeed, reached out to the author to help her improve future books, in which case the author is really the troll here.",1413696055
+8477280,comment,8476079,8477250,0,0,alexatkeplar,,,"Interesting, I&#x27;ll take another look at RAML. I have to confess I found it a bit weird that when we started with Swagger that we couldn&#x27;t start &quot;schema first&quot; (i.e. just describe the API in a doc, but instead had to start with the annotations). I guess that&#x27;s part of the wider problem you describe.",1413696049
+8477279,comment,8477228,8477228,0,0,dang,,,"Url changed from <a href=""http://alastairphilipwiper.com/blog/copenhagen-suborbitals/"" rel=""nofollow"">http://alastairphilipwiper.com/blog/copenhagen-suborbitals/</a>, which points to this.",1413696030
+8477278,comment,8477185,8477185,0,0,dang,,,"Sockpuppet votes are not ok here.",1413695872
+8477277,comment,8476095,8477049,0,0,GuiA,,,"I believe so too, but let&#x27;s not get ahead of ourselves. They don&#x27;t even have a consumer version yet.<p>I do think that there is a possibility here to push computer tools to their next evolutionary step, much like what the GUI did in its day, allowing entirely new classes of applications to emerge.<p>Oculus could enable new tools that we can barely imagine today, much like Final Cut or Photoshop would have been hard to imagine in 1970. Being able to visualize simulations and other visual explanations in a way that is so close to our real world is potentially a game changer for machine assisted work.<p>But they sold the company to a megacorp with a terribly uninteresting product, and a CEO who believes that &quot;anyone over 30 is useless&quot;. So maybe this vision won&#x27;t happen just yet, and instead we&#x27;ll get social-gamified-&quot;ready player one&quot; VR bullcrap.",1413695651
+8477276,comment,8476903,8477195,0,0,jaredandrews,,,"The market is not rational?",1413695546
+8477275,comment,8476787,8477126,0,0,vishnugupta,,,"Seconded! Also, I&#x27;d highly recommend &quot;Introduction to Functional Programming using Haskell&quot; by the same author. This was the book that set me forth on the path of FP during post graduation. Though, professionally, I&#x27;ve been programming in Java for close to a decade now most of the FP principals have held me in good stead.<p>[edit] Preface says &quot;The present book is a completely rewritten version of the second edition of my Introduction to Functional Programming using Haskel&quot; so my recommendation is moot.",1413695495
+8477274,comment,8475983,8476372,0,0,ma2rten,,,"Google.com also doesn&#x27;t seem to have it.",1413695469
+8477273,comment,8475809,8477099,0,0,KayEss,,,"I think part of the difficulty here is that it&#x27;s almost like Haskell&#x27;s point free style, but not quite. It isn&#x27;t really clear where the arguments to avg go. It seems that it&#x27;s meant to be a bit like this:<p><pre><code>    avg list -> (sumall list) / (tally list)
+</code></pre>
+I guess you just need to know how the argument you give to avg when you use it distributes over the functions that comprise the expression. The list argument to tally isn&#x27;t a problem, but why does sumall get it&#x27;s own copy of it? Or is the execution model something else entirely?",1413695464
+8477272,comment,8428973,8428973,0,0,deevus,,,"This looks interesting. Anyone actually using it?",1413695423
+8477271,story,,,2,0,superchink,"Deliveries 1.0 for Mac",http://junecloud.com/software/mac/deliveries.html,,1413695373
+8477270,comment,8476095,8477049,0,0,sillysaurus3,,,"... and then surrendered it to Facebook.  Which means they aren&#x27;t really like Jobs or Woz, except in a technical capacity.<p>I have nothing against Facebook.  But would you have respected Zuck as much if he&#x27;d sold Facebook to Yahoo?<p>Either way, Facebook controls the industry now, and there are few industries that have grown to their full potential under the stewardship of a company that acquired the primary creator.  Take automobiles, for example.  Ford started his own company.  He didn&#x27;t start his own company and then sell it.  Automobiles would certainly have done well even if he had, since transportation is a fundamental technology, but VR goggles aren&#x27;t.  How long will their development be delayed because Oculus no longer feels the pressure of getting their company off the ground?  People keep talking like &quot;they now have the resources they need to make Oculus great,&quot; but if history is any indication, having excessive resources tends to produce excessive failure, not success.  For example, companies that take huge investment rounds usually fail to deliver something of value to customers.  Maybe Oculus is in the same position. After all, if they don&#x27;t deliver something people want, then there&#x27;s no downside anymore for Oculus.  They&#x27;ve already been bought by Facebook.   They could fail to do anything from this point forward and it would no longer matter to them (except emotionally).<p>Breathless hero worship is a little over the top, considering the outcome.  Let&#x27;s wait and see what actually happens.",1413695305
+8477269,story,,,6,1,lunaru,"Do You Have Any Questions for Us?",http://blog.reamaze.com/2014/10/18/do-you-have-any-questions-for-us/,,1413695224
+8477268,comment,8476222,8477203,0,0,yzzxy,,,"Yeah, wouldn&#x27;t this violate tons of labor laws? Perhaps not on the high seas?",1413695214
+8477267,comment,8475350,8477184,0,0,dang,,,"Good point. We changed it. (The original title is baity, which is why we haven&#x27;t reverted to it.)",1413695201
+8477266,story,,,5,0,superchink,"Thank you, Apple",http://tiamat.tsotech.com/thank-you-apple,,1413695005
+8477265,comment,8475983,8476833,0,0,cbsmith,,,"That&#x27;s good, because now you are just broadcasting your phone&#x27;s SSID & MAC everywhere. ;-)<p>Seriously, just VPN over the hotspot.",1413694991
+8477263,comment,8476787,8477214,0,0,seubert,,,"The Kindle edition, at least, is available now. Bought it earlier this week and it&#x27;s been great thru the first couple chapters.",1413694974
+8477261,comment,8474032,8475136,0,0,x0x0,,,"<p><pre><code>   I really don&#x27;t think you should look for a competing offer unless you&#x27;re 
+   willing to accept that offer if you don&#x27;t get what you want from your 
+   current employer.
+</code></pre>
+That mostly sounds like whining after you were handed a warm (or better!) prospect and screwed up the sale.<p>Also, unless you&#x27;re one of the very very few companies that are honest in their job descriptions, offer a good work environment, <i>and</i> release the salary plus comp on offer at the beginning of the negotiation rather than the end, you&#x27;re wasting a candidate&#x27;s time just as much as he or she is wasting yours, if you choose to view it that way.",1413694918
+8477260,comment,8475350,8477048,0,0,inportb,,,"It appears that the tip of the chain housing fits into the lock &quot;vestibule&quot; to apply torque.",1413694905
+8477259,story,,,63,10,dkarapetyan,"Leslie Lamport on Distributed Systems and Precise Thinking",http://www.infoq.com/news/2014/10/ser-lamport-interview,,1413694904
+8477258,comment,8476787,8477214,0,0,musicaldope,,,"It also says 30 Nov 2014",1413694902
+8477257,comment,8475983,8476256,0,0,cbsmith,,,"Yes, but that shouldn&#x27;t be of much of a privacy concern.<p>Keep in mind that your devices are also broadcasting a variety of globally unique identifiers <i>everywhere you go</i>.",1413694886
+8477256,story,,,2,0,smacktoward,"I read the 1500 mentions Anita Sarkeesian and Brianna Wu got in the last 20 hrs",https://medium.com/@evanderkoogh/so-i-read-the-1500-mentions-anita-sarkeesian-and-brianna-wu-got-in-the-last-20-hours-f0bbc27f3ac4,,1413694868
+8477255,comment,8475979,8476601,0,0,A1kmm,,,"Once the public adapts a term or practice from an in-group, it is usually futile for members of the group to fight it.<p>Hacker, troll and inline posting (vs top-posting) are a few examples, and there are many more where specialised crypto / computer science / software engineering terms are given more generalised definitions.<p>However, this is not specific to the Internet or hacker community, and some other fields probably have it worse. The words lunatic, maniac, retard, imbecile, moron, and idiot were all once psychological terms used by medical professionals to refer to people with mental illness or intellectual disability, but these words continuously get taken up by the public to be used as insults (against people who do not meet the original definition). The hacker community can probably learn from the response of the medical community here, which is to accept the loss of the term with its original technical meaning from the lexicon, and make up another technical term to replace it.",1413694851

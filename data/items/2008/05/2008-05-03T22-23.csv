@@ -1,0 +1,25 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+180481,comment,180202,180474,0,0,rms,,,"Scientific studies show that caffeine is most effective when consumed slowly over a period of time. So sip that double latte and make it last until lunch.",1209855448
+180480,comment,180311,180472,0,0,DenisM,,,"The idea is that there is enough chaos in the Internet to produce practically random result with sufficiently large number of users.
+Random is pretty good, unless you must proactively shift load to least-loaded systems (in which case you have to be super careful to avoid oscillations) .<p>One drawback is that you can't take system out of rotation as quickly, but this can be somewhat mitigated by setting very low TTL (60 seconds).",1209855325
+180479,comment,179993,180352,0,0,rms,,,"Oh, sure, I could use some support staff, but I could use hackers more.",1209855110
+180478,comment,180459,180459,0,0,ericb,,,"Aside from the robot to bring me beer, this is one of the best  prediction-sets I've seen. I shop online at Peapod for groceries, and I'm scanning some docs to email to my accountant, so the ""mail-slot"" is about right too. Although, looks like they're predicting this for 1989, so they were a little optimistic. The funny thing is that this seemed wild and futuristic then, and now it's just mundane.<p>I try and maintain my sense of wonder...",1209854943
+180477,comment,180311,180311,0,0,brianr,,,"I'm using nginx in a couple different setups:<p><pre><code>  nginx -> paste (pylons)</code></pre>
+nginx on one machine, three other machines with 8 instances of paste each. Nginx proxies directly to the paste port (which incidentally is also itself a threaded server, but I've gotten best results by running several instance per box). Volume has been as high as ~8mm dynamic requests/day.<p><pre><code>  nginx -> lighttpd -> php-fcgi</code></pre>
+nginx on its own box proxying to 8 app servers each running 160 php-fcgi instances. Volume here is ~16mm dynamic requests/day.<p>Both have worked pretty well so far. As anortherjesse said, there's not a lot of feedback, but it's done everything I need so far.",1209854774
+180476,story,,,3,0,foemmel,"The Twitter Conspiracy",http://ola-bini.blogspot.com/2008/05/twitter-conspiracy.html,,1209854766
+180475,comment,180407,180407,0,0,rickmb,,,"Laziest straw-man argument I've read in a long time. Web 2.0 and/or cloud computing is not about the old ""thin client"" idea, in fact, it's more like the opposite (with ""fat"" clients being part of the cloud).<p>The writer is just trying to re-hash a very old debate nobody is having anymore. Ars Technica's standards seem to be dropping rapidly these days.",1209854432
+180474,comment,180202,180202,0,0,ubudesign,,,"take two shots of expresso and get to work :). alternative would be to splash your face with ice code water and go out for a quick run. 
+do any intelectual thinking after.",1209854408
+180473,comment,180115,180115,0,0,ubudesign,,,"use digest",1209854252
+180472,comment,180311,180442,0,0,crescendo,,,"Don't you forfeit too much control this way? For example, the load on your servers would be determined by the caching behaviors of all the various DNS servers and clients out there. I think this scheme should only be used as a front line that leads to another layer of load balancers.",1209854237
+180471,comment,180264,180264,0,0,ubudesign,,,"why would you even waste your time building on google apps?",1209853916
+180470,comment,180274,180446,0,0,rms,,,"So do you think NASDAQ:JAVA is a good buy right now or it is too risky?",1209853867
+180469,comment,180317,180386,0,0,wumi,,,"which is why we'll keep driving cars in the US until it makes sense not to, which will be several more dollars/ gallon.",1209853723
+180468,comment,180311,180311,0,0,ubudesign,,,"what is your app server? or is this only http?",1209853711
+180467,comment,180393,180393,0,0,wmf,,,"What's the point? Is this better than KVM?",1209853111
+180466,comment,180318,180388,0,0,technoguyrob,,,"Oh, right. I got it for free. :)",1209852749
+180465,comment,180224,180463,0,0,amichail,,,"There's a risk associated with that.",1209852636
+180464,comment,179857,179857,0,0,ricardo,,,"There's a uWink coming soon to downtown Mountain View (corner of Castro and California where they old ranch house used to be).  I just hope it isn't too gimmicky.",1209852489
+180463,comment,180224,180250,0,0,volida,,,"ever heard of laser surgery?",1209852364
+180462,comment,180311,180442,0,0,jamess,,,"+1. Round robin DNS has worked well for me in the past,",1209852141

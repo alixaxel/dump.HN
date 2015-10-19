@@ -1,0 +1,101 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+389882,comment,389401,389787,0,0,cousin_it,,,"No.<p><i>Function scope is the entire point of closures. If it was lexical scope it would not be a closure, it would just be a regular function.</i><p>Many more languages with closures have lexical scope than function scope. Lexical scope is the entire point of closures in those languages, indeed everywhere except JavaScript.<p><i>Just pass in j when you call it and you can have lexical scope easily.</i><p>I don't know j when I call the closure. Give a code example.<p><i>But if you changed that, a TON of code would be impossible, so I'm very happy with it working that way.</i><p>I can't imagine any code that would become impossible, <i>or even the slightest bit more difficult</i>, if function scope were replaced with lexical. Indeed all code using function scope could be mechanically translated into a (hypothetical) lexically-scoped-JavaScript by moving every var declaration in every if/for/while/etc block up to the toplevel of the containing function. If you disagree, give a code example.",1228748230
+389881,comment,389574,389802,0,0,nebula,,,"I agree with you that popular vote is not something that can accurately select the ""greatest genius"".
+I'm also skeptical of these ""greatest""/""No.1"" rankings as far as Scientists go; no matter who does the selection. You can definitely say that Einstein, Newton and a bunch of others are great scientists and contributed greatly to the progress of science. Why does one have to come up with rankings? these are more of a media hype in my opinion.<p><i>""I'd venture that Newton was a greater genius for his time.""</i><p>I don't want to get into the trap of Newton Vs Einstein debate; However here are some reasons that IMO make Einstein's contribution to science a very important:<p>When Newton declared that he was ""standing on the shoulders of giants"", it was literally true. Galileo with his experimental physics, and Kepler's work on planetary motion had pretty much figured out everything necessary for Newton's work on gravitation. Newton had to formalize these things and put a framework around. Newton's work here was incremental.<p>OTOH, when Einstein entered the scene, Physics was in trouble. There were many things that classical physics couldn't explain. Though earlier works had pointed at the dichotomies in classical physics, no one was able to come up with a consistent theory to explain things. At this point in time, Einstein came with his fresh ideas and explained so many fundamental things like ""what is gravity"".
+Another important thing to note here is that the concepts Einstein came up with are not something that could have been learnt from observations of the world around us. [""like deducing Earth's gravity from an apple that fell on one's head""].
+In that respect Einstein's contributions are really important; It's not often that one comes up with a grand theory about how the universe works by pure imagination and the universe obeys the theory.<p>Also, AFAIK, Newton is at least as popular as Einstein with the masses.",1228748199
+389880,comment,389474,389736,0,0,halo,,,"That's at least partially because you can make Windows and Linux look like Mac OS X, but there's no practical way of making Mac OS X look like Windows or Linux.",1228748153
+389879,story,,,39,23,robg,"In Defense of Teasing",http://www.nytimes.com/2008/12/07/magazine/07teasing-t.html?ref=magazine&pagewanted=all,,1228748112
+389878,story,,,1,0,tomh,"Europe puts its cultural treasures online",http://lisagoldresearch.wordpress.com/2008/11/20/europe-puts-its-cultural-treasures-online/,,1228748074
+389877,comment,389778,389872,0,0,pkrumins,,,"this works for me:<p><pre><code>  viwstp>
+</code></pre>
+turns<p><pre><code>  foo
+</code></pre>
+into<p><pre><code>  <p>foo</p>
+</code></pre>
+Edit: (30 mins later) Now I understood fully what was happening. ;)",1228748068
+389876,story,,,2,0,Archimedius,"Infrastructure 2.0 and Cloud Computing",http://rationalsecurity.typepad.com/blog/2008/12/infrastructure-20-and-the-virtualizedcloud-networking-wait-wheres-my-dnsdhcp-server-again.html,,1228748057
+389875,comment,389176,389463,0,0,Retric,,,"This is useful to get around the latency issues, which let's you use more of your memory bandwidth before stalling a core.",1228748052
+389874,story,,,1,0,tomh,"Your Seat at the Table @ Change.gov",http://change.gov/open_government/yourseatatthetable,,1228748027
+389873,story,,,1,0,tomh,"Tripwolf: Free customized travel guides in PDF",http://www.springwise.com/media_publishing/free_customized_travel_guides/,,1228747927
+389872,comment,389778,389864,0,0,thomasmallen,,,"Of course. surround.vim couldn't get away with clobbering ""s"" in normal mode.",1228747853
+389871,comment,389176,389710,0,0,Retric,,,"Your assuming a linear relationship between memory access and number of cores but the size of L2/L3 cache mitigates the problem to some degree.  We already have chips with 12+ MB which is plenty of RAM to run windows 3.11.  The real question is what type of workload do you have and how well does that play with the number of cores your using etc.",1228747823
+389870,story,,,1,0,tomh,"Review of Lighttpd book by Packt",http://blog.kovyrin.net/2008/11/27/lighttpd-book-from-packt-great-thanksgiving-present/,,1228747813
+389868,comment,389474,389663,0,0,jgranby,,,"That isn't the case, because his site <i>isn't</i> broken in IE. All he said was that he doesn't care to check any more. I used to access it when I was at school and IE was the only option, and the only thing that didn't work was the unicode character he uses to return from a footnote to where it is referenced. The reason that IE's share is so low is the nature of the web site and the type of people who read it.",1228747564
+389867,comment,389321,389791,0,0,dejb,,,"I have nothing against professional athletes. In fact I admire them a lot. But let's face it, sports is a zero sum game from the perspective of skill level. What real difference would it make to the world if all the world's athletes were 10% less fast/strong/coordinated etc...?  Would people still be interested and entertained by sports - of course they would. In watching sports people like to see a contest of the best but the absolute standard of the best doesn't really influence that value. This is even more the case in sports participation. People like to feel they can compete at a particular level but it is all relative.<p>Now contrast this with mental abilities. If people can solve medical problems then they can prevent deaths and enhance health. If they can solve technical problems they can make peoples lives easier and allow them to achieve more. In general mental skills can make the world a better place. Not a zero sum game.",1228747460
+389866,story,,,1,0,robg,"Finding and Grooming Breakthrough Innovators",http://harvardbusinessonline.hbsp.harvard.edu/hbsp/hbr/articles/article.jsp?articleID=R0812D&ml_action=get-article&print=true&ml_issueid=BR0812,,1228747456
+389864,comment,389778,389856,0,0,pkrumins,,,"You must have a different surround.vim script. Perhaps someone else wrote a script and called ""surround.vim"" as well.<p>The one I am talking about does not define stp and requires < > between tags.<p>What does your 'stp' do?<p>Edit: I see what you did there. You were in visual mode!",1228747220
+389863,comment,389615,389615,0,0,kzar,,,"I think I'm the only one not cool enough to know but what is this?",1228747038
+389862,comment,389299,389829,0,0,thomasmallen,,,"Yep. See, I'm from the days when IE6 was just fine, and we all loathed IE5.5/Mac (and weird proprietary Netscape stuff). My first HTML and CSS books listed compatibility issues for every browser for every technique. This was expected knowledge.<p>For me, as a designer, the lack of alpha transparency support is annoying indeed, but it's pretty rare that a design absolutely requires true alpha transparency. Usually you can ape it during slicing, unless the ""below"" elements move, in which case I'll look to SuperSleight and what not.",1228746822
+389861,story,,,1,0,raju,"Laptop searches at border might get restricted",http://tech.yahoo.com/news/ap/tec_laptop_searches,,1228746782
+389860,comment,389574,389802,0,0,william-newman,,,"You write ""in mathematics, Andrew Wiles and Gregory Perelman solved more vexing problems than Einstein did in physics.""<p>Wiles and Perelman are rightly honored for solving problems that had been posed long ago and resisted any number of efforts to solve them. But Einstein is honored not only for that, but also for being the one who posed some of the startling questions that he also answered. E.g., is the speed of light an absolute bound on causal interactions, with all coordinates and other measures being bent as necessary (and quantum phase information being hidden as necessary) to keep that bound from being passed?<p>Einstein's technical achievement in solving problems that everyone else recognized was very impressive: see General Relativity especially. But if that was all Einstein did, we might (only!) compare him to Maxwell or Dirac. To appreciate Einstein's achievements in terms of analogous achievements of mathematicians, you can't just compare to the achievements of people like Wiles or Perelman, you also need to compare to the achievements of people like Goedel, who is famous for both stating and proving a fundamentally important out-of-the-blue conjecture.",1228746765
+389859,story,,,1,2,raju,"Would You Pay Money to See Your Favorite Site Ad-Free?",http://adage.com/digital/article?article_id=133039,,1228746738
+389858,comment,388876,388876,0,0,jm4,,,"I wish the author of this article had learnt to spell...",1228746724
+389857,story,,,2,0,raju,"Intel develops fast, cheap optical links on silicon",http://news.cnet.com/8301-13924_3-10116603-64.html,,1228746708
+389856,comment,389778,389846,0,0,thomasmallen,,,"No, the plugin <i>does</i> define stp.<p><pre><code>  :help Surround
+</code></pre>
+The pattern you have there (""ysiWtp"", < is unnecessary, as is >) is actually not thoroughly tested (as mentioned in the docs) and is used when not in a visual selection. In a visual selection, you use ""s"" followed by what you want to surround with, e.g. s""",1228746705
+389855,comment,389779,389779,0,0,alexandros,,,"obligatory hindsight is 20/20 comment?",1228746680
+389854,comment,273529,273824,0,0,alnayyir,,,"the amount you receive by spending 1 hour in the sun.<p>next question?",1228746599
+389853,story,,,2,0,yan,"How To Write Shared Libraries",http://people.redhat.com/drepper/dsohowto.pdf,,1228746570
+389852,comment,389234,389313,0,0,DLWormwood,,,"Because many (if not most) people mistakenly think that herpes is exclusively a sexually transmitted disease.  (It's actually a virus family, like the common cold; many members of which are transmissible via social or familial contact.)  The reporter probably didn't want the headline to risk stigmatizing the elderly or ""forgetful"" by those too quick to judge.",1228746511
+389851,story,,,5,3,naish,"Laptop Searches at Border Might Get Restricted",http://news.wired.com/dynamic/stories/T/TEC_LAPTOP_SEARCHES?SITE=WIRE&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2008-12-08-07-08-40,,1228746244
+389850,comment,389778,389835,0,0,pkrumins,,,"Try 'R' instead of 's' that you were used to.<p><pre><code>  OR
+</code></pre>
+Edit surround.vim and comment out the 's' mappings in visual mode. Like this:<p><pre><code>    ""    if !hasmapto(""<Plug>Vsurround"",""v"")
+    ""        if exists("":xmap"")
+    ""            xmap  s    <Plug>Vsurround
+    ""        else
+    ""            vmap  s    <Plug>Vsurround
+    ""        endif
+    ""    endif
+    ""    if !hasmapto(""<Plug>VSurround"",""v"")
+    ""        if exists("":xmap"")
+    ""            xmap  S    <Plug>VSurround
+    ""        else
+    ""            vmap  S    <Plug>VSurround
+    ""        endif
+    ""    endif</code></pre>",1228746188
+389848,comment,387789,388385,0,0,swombat,,,"A tip to anyone thinking of starting an MLM scheme: if you ARE thinking of building an MLM scheme around your product, you NEED an MLM-specialised lawyer to validate that your scheme is legal in each of the jurisdictions you plan to operate in (most likely, US and UK).",1228746009
+389847,comment,388950,389458,0,0,time_management,,,"I'm talking about the compile-time type checker that ML and Haskell have. This is a very powerful tool that doesn't exist in dynamically-typed languages. It seems like a mere curiosity, because a lot of the super-cool things you can do with type-checking are impractical (e.g. the use of phantom type hackery to do bounds-checking on arrays). However, on large projects with multiple programmers, it also helps to keep interfaces stable and self-documenting.<p>For example, let's say you change the output type of a function deep in the trunk-- instead of returning a 'a or throwing an exception, it returns a 'a option, e.g. a discriminated union between None or Some x, where x is a 'a, using the None value to represent failure, in lieu of the exception-- and want to find all the places where things break in the leaf code, so you can adapt them to the changes. What tool do you use: grep? Nope. You attempt to compile the tree, and all the code-breaks are caught and displayed by the compiler.",1228745945
+389846,comment,389778,389836,0,0,pkrumins,,,"This plugin does not define 'stp'. You must be using some other plugin that has this mapping.<p>The plugin I wrote about wraps HTML around perfectly. Try:<p><pre><code>    ysiWt<p>
+</code></pre>
+Or if you knew the tag you were going to wrap your ""Hello!"" in, then in <i>insert mode</i> you could have pressed:<p><pre><code>    <CTRL+s>t<p>.</code></pre>",1228745910
+389845,comment,389819,389819,0,0,nazgulnarsil,,,"the author has failed to note one of the steps of the scientific process: creating testable predictions.
+If your hypothesis is right, what predictions does it make?  what does it predict that current explanations do not?",1228745830
+389844,comment,389692,389743,0,0,swombat,,,"If you require CCs up front, charge a set-up fee - that's easier to explain to potential customers (a well accepted concept, whereas test charges sound shady to most non-geeks, and even to some geeks). And it makes you more money. So long as the set-up fee is reasonable, people are unlikely to mind. They expect to whip out their credit card when they buy something.",1228745825
+389843,story,,,1,0,Anon84,"Merriam-Webster’s Words of the Year 2008",http://www.dailywritingtips.com/merriam-websters-words-of-the-year-2008/,,1228745781
+389842,comment,389692,389728,0,0,swombat,,,"Well, you can't generalise from a single gateway. I'm not trying to generalise to say that what I'm saying is true for the whole industry, but I've used 2 different providers so far and not had the experience that you've had.<p>So your article might have been better titled ""6 things they don't tell you about authorize.net""...",1228745719
+389841,comment,389321,389394,0,0,nazgulnarsil,,,"conflating ""median"" and ""correct"" is the natural result f people being steeped in collectivist ideology and politics their whole life.  in a true democracy you have social constructivism.",1228745555
+389840,comment,389491,389667,0,0,gur,,,"It is, in the same way many fun things are.",1228745532
+389839,comment,389321,389730,0,0,nazgulnarsil,,,"<a href=""http://www.overcomingbias.com/2008/06/thou-art-physic.html"" rel=""nofollow"">http://www.overcomingbias.com/2008/06/thou-art-physic.html</a><p><a href=""http://www.overcomingbias.com/2008/03/righting-a-wron.html"" rel=""nofollow"">http://www.overcomingbias.com/2008/03/righting-a-wron.html</a><p>free will is probably a further side effect of the same biological processes that gave rise to what we view as self-awareness: recursive thinking.",1228745411
+389838,comment,389692,389692,0,0,ssharp,,,"Merchant Services is a relatively shady and EXTREMELY cut throat industry.  The good news is that you have tons of options and can play providers against each other.  The bad news is that some places are shady with their terms and hidden fees.  If you're thinking of doing a lot of $$$ volume, it's very much worth spending some time and talking to as many people as possible.",1228745347
+389837,comment,387248,389135,0,0,bdfh42,,,"Not quite.<p>The ""document"" might perhaps be how some VB programmers conceived of their code - as a totality not just a collection of code lines delivering an algorithm - but perhaps you are right and this is not an idea that you can take very far.<p>I am not sure that I agree that VB.NET was ""completely different"" - different yes, but still clearly a dialect of Basic (of which there have been many - and some new ones popping up all the time). I suspect that you overstate the difficulty in migrating from one dialect to another - sure it is going to take time to reach similar levels of productivity but time and languages move on - it's something that programmers above all should be glad to embrace.<p>On your final point - ASP.NET does not in fact require the Visual Studio IDE. There are many advantages to be gained from the IDE but it is not a requirement and there are many texts around that demonstrate development outside of VS. OK VBScript was coming to the end of it's life but in any case it's client side (browser) utility was very limited and something more powerful was certainly needed server side. Oddly - the next generation of VB.NET will include a dynamic option - son of VBScript perhaps?",1228745303
+389836,comment,389778,389778,0,0,thomasmallen,,,"<p><pre><code>  <!-- Ugh. Surround is OK, but sucks for wrapping in HTML tags. If I select the line: -->
+
+  Hello!
+
+  <!-- And use stp (surround selection with <p/>) I get: -->
+
+  <p>
+      Hello!
+  </p>
+
+  <!-- Instead of -->
+  
+  <p>Hello!</p>
+
+  <!-- The workaround? ^v$ which is tedious. I recommend mapping this for those times when you want to wrap the current line quickly in XML tags. 
+
+  function! TagWrapper()
+      let a:tag = input(""Tag: "")
+      normal `>
+      exe ""normal a</"" . a:tag . "">""
+      normal `<
+      exe ""normal i<"" . a:tag . "">""
+  endfunction
+  --></code></pre>",1228745213
+389835,comment,389778,389778,0,0,thamer,,,"I tried this plugin a few days ago, but it seemed to break the s (substitute) command, so I removed it. Does someone know how to make it work?<p>The problem is the following: Write a line of text, select part of it using v, then press s to remove the selection and enter insert mode to start replacing it. This doesn't work anymore when surround.vim is loaded. Too bad, it sure looks great…",1228745201
+389834,story,,,2,0,ccraigIW,"Windows Admin IQ Test",http://www.infoworld.com/tools/quiz/news/IQ2008windows-news-quiz.php,,1228745152
+389833,comment,389615,389722,0,0,sant0sk1,,,"I think DHH is a pretty ""normal"" Ruby advocate.",1228745018
+389832,comment,389199,389704,0,0,wagerlabs,,,"No plans to work on a Ruby version. Donation target not reached.",1228744944

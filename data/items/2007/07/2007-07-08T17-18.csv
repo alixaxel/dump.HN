@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33110,comment,363,33103,0,0,pg,,,"precisely<p>thanks for the tip, btw; let me know if you notice any other breakage",1183917207
+33109,comment,33030,33101,0,0,willarson,,,"That would really depend on how you implemented comments. As you move toward requiring users to login/verify themselves this becomes more likely that users will not bother. Larger blogging platforms can often diminish this barrier because you only have to make an account for their entire network of blogs.<p>
+You can reduce/avoid that problem by not requiring logins, or by patching into an existing network (OpenID is the way of the future ya know). I don't think that is a major issue though (what I would worry more would be scalability).<p>
+It was mostly a joking comment so take it with a grain of salt. I built my own blog software and it (along with configuring the server its hosted on) has been a bit more of an extended learning process than I expected.",1183916489
+33108,comment,33045,33045,0,0,dpapathanasiou,,,"SeekSift (<a href=""http://www.seeksift.com/"" rel=""nofollow"">http://www.seeksift.com/</a>) is headed in that direction, though it works a little differently from what you described.<p>I hadn't thought about the possibility of producing OPML as the output, but it's certainly something I could add in a future version (it's still in a fairly early stage of development right now).",1183916283
+33107,comment,32933,33014,0,0,brett,,,"At that point it's not so much a comment as a description field for the link. You'd probably want to implement it as such and the question becomes, ""Do you want to add descriptions for all links?""",1183915780
+33106,comment,33071,33071,0,0,kcl,,,"<a href=""http://kx.com/a/k/readme.txt"" rel=""nofollow"">http://kx.com/a/k/readme.txt</a>
+",1183915485
+33105,story,,,9,1,pg,"Meet Joe Hewitt, iPhone Web App Interface Guru",http://blog.wired.com/monkeybites/2007/07/meet-joe-hewitt.html,,1183915468
+33104,comment,363,33103,0,0,brett,,,"good, i guess; i was sort of having fun with that one. ",1183915381
+33103,comment,363,32999,0,0,brett,,,"and <a href=""http://ycombinator.com"" rel=""nofollow"">http://ycombinator.com</a>""style=""font-size:30px ?",1183915110

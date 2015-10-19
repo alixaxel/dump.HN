@@ -1,0 +1,97 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1207764,comment,1207721,1207721,0,0,swombat,,,"Another factor: Many software projects are research projects, i.e. new technology development, because they try to do something new, whether on a technical level or on a user interface development level.<p>It is fairly common for new technology development to cost vast sums of money while yielding nothing practical. Importantly, when developing new technologies, people understand that something may or may not come out of it, and they accept that (somewhat).<p>The other factors are definitely an issue too, though:<p>- Lack of physicality of the output<p>- Increased likelihood of unintended interactions between components<p>- Clients changing their mind halfway through (!)",1269165468
+1207763,story,,,14,29,cwan,"China state media accuses Google of political agenda",http://www.reuters.com/article/idUSTRE62K0A120100321,,1269165412
+1207762,comment,1207392,1207710,0,0,aaronbrethorst,,,"Having a working product with positive customer feedback is no Kevin Costner Hollywood gimmick; it takes tons of hard work. 'If you build a good product that can attract users, you'll have an easier job of convincing potential employers of your usefulness' is the only point I'm trying to get across. Do you disagree with that notion?<p>I'm perplexed and somewhat disturbed by what I interpret as an assertion that <i>creating a successful product indicates a lack of software development skills</i>. Am I misunderstanding you?",1269165313
+1207761,comment,1207342,1207737,0,0,jrockway,,,"When your project's size warrants it, you can switch from pull requests to an off-site mailing list.  But most projects never get there, and so pull requests are quite useful for the long tail.<p>I remember back in the sourceforge day, most projects died before they ever got a mailing list, CVS account, web page, wiki, bug tracker, ..., all setup.  Now, reasonable defaults are provided for you, and you can focus on writing the code.  Once your project has a bunch of contributers that are all working on time-consuming projects... then you can invest some time in moving away from the defaults.  But if you project is like most and has 3 users, you won't have to waste your time.",1269165221
+1207760,comment,1206546,1207221,0,0,ZeroGravitas,,,"If you click through and read the comments this seems to have pissed off a whole bunch of folk (for reasons that are still not obvious to me) from all across the net.",1269165122
+1207759,comment,1207597,1207597,0,0,soyelmango,,,"Oh, the Daily Mail. Just so you know, the DM is known here as a hysterical paper - not hysterical haha, but hysterical panic-mongering arm-flapping. Does it not realise that it's drawn the attention of millions more readers and bloggers/HNers to this? I imagine their journalist went to Hereford and asked the leading question... ""How angry and furious are you that Goggle have exposed our hero SAS' secret base so that those evil refugee terrorists can terrorise you, Sir?""<p>And their readers are no smarter:<p>""...The little close where I live, has my carport with motorcycle (reg number displayed) and 1000 pounds worth of mountain bikes, illustrated for all to see! Thanks to Google....""
+- Ian Woolger, Budleigh Salterton",1269164980
+1207758,comment,1207721,1207744,0,0,InclinedPlane,,,"The vast majority of college degree programs don't teach the core skills necessary for success in the field, regardless of naming, but that's a different problem.<p>Nevertheless, naming has a powerful influence on understanding. If people think that software development is a science, they'll treat it that way, similarly, how they treat it will change if they think it's an engineering discipline or an artistic effort.<p>I've come around to the idea that software development is partly engineering and partly creative, much like architecture. Treating it like a science is the surest recipe for failure, as you'll be lucky if you ship anything worthwhile on schedule. Treating it like engineering will result in a much higher rate of success, with higher quality, and greater scheduling certainty, but will frequently result in mediocrity and developer dissatisfaction. Treating it like pure art sans engineering will probably result in lower quality, and unpredictable scheduling. But giving proper respect to the importance of both sound engineering and creativity seems like the sweet spot to me.",1269164976
+1207757,comment,1207399,1207510,0,0,jmtame,,,"that's one enormous generalization.",1269164929
+1207756,story,,,1,0,BurgherJon,"The Role of Online Universities",http://jonathancavell.com/wordpress/business/2010/03/the-role-of-online-universities,,1269164923
+1207755,comment,1197587,1206315,0,0,bad_user,,,"Personally I think ActiveRecord is the weak link in Rails (2.x ... I see they are doing some fixing in 3.0).<p>Coming from Hibernate and such, it may seem like a breath of fresh air, but the result of a find ain't lazy, the query language sucks making you drop to SQL even for sub-selects, and the model definitions look weird ... inferring the columns from the DB schema is the wrong approach IMHO (they should take a look at Django sometimes).",1269164850
+1207754,comment,1207494,1207662,0,0,brazzy,,,"The key words to understand the author are buried in there: ""As a sysadmin"".<p>For sysadmins, the time saved in development means nothing, while every additional machine (and especially the infrastructure to run them as a cluster) means more work.<p>Still, shouldn't even a sysadmin appreciate the increased reliability and especially security that modern languages bring?",1269164808
+1207752,comment,1207462,1207673,0,0,bluesmoon,,,"with an autoincrement id, duplicate rows may get inserted.  having a primary key derived from the data results in duplicate rows getting discarded (this is important).<p>secondly, the autoincrement id adds 4 bytes to each row which are never used for anything.  only use an id if you need to reference a row from another table.",1269164732
+1207751,comment,1201912,1202792,0,0,Chronos,,,"Note that pure Einsteinian General Relativity does <i>not</i> conserve energy -- even without a cosmological constant.  Sometimes people fake it using tortuous analogies that only hold if their spacetimes are nearly flat, but it fails to hold in the presence of curvature.<p>The first link on Google for the relevant keywords is <a href=""http://www.phys.ncku.edu.tw/mirrors/physicsfaq/Relativity/GR/energy_gr.html"" rel=""nofollow"">http://www.phys.ncku.edu.tw/mirrors/physicsfaq/Relativity/GR...</a>, which lays it out nicely.",1269164691
+1207750,comment,1207721,1207721,0,0,oliveoil,,,"Terence Parr (the author) is ""the maniac behind ANTLR"": <a href=""http://www.antlr.org/"" rel=""nofollow"">http://www.antlr.org/</a>",1269164504
+1207749,story,,,33,11,smikhanov,"Ioke - strongly typed, dynamic, homoiconic, prototype-based JVM language",http://ioke.org,,1269164473
+1207748,comment,1207093,1207443,0,0,Luyt,,,"Reminds me of a Dutch proverb: ""He who thinks in quarters will never be a millionaire.""",1269164455
+1207747,comment,1207136,1207163,0,0,Confusion,,,"If you take for granted that executing a 'hard' task (why do we deem it 'hard'?) gives you a stronger sense of entitlement, then you can explain the result away. The question you are thn overlooking is: <i>why</i> do they feel a stronger sense of entitlement? If that is <i>because</i> our capacity for self-control is exhausted, then the explanation in the article holds, only the consequence of the exhausted self-control has shifted one step up in the chain of cause and effect.<p>The fact that you imagine this task being 'hard' indicates that you are aware of the mental exhaustion the task will cause. It's actually the exact same explanation given in the article, only you overlook it, because the 'hardness' of the task seems so obvious that you forget to ask why it is 'hard'.<p>From a classic play by Moliere: Why do sleeping pills make you sleepy? Because they have sleep-inducing qualities!",1269164308
+1207746,comment,1207187,1207722,0,0,thibaut_barrere,,,"Well no actually! I didn't know about this one. Thanks for the link!",1269164012
+1207745,comment,1207187,1207593,0,0,thibaut_barrere,,,"well - I just did it, but just because you were threatening :)<p>It would be good to get the twitter kingapi name, but no luck so far!",1269163939
+1207744,comment,1207721,1207721,0,0,Legion,,,"Does it really matter what you call it?<p>At the university I attended, the Computer Science program shifted from the Engineering department to the Science & Mathematics department during the course of my studies. Incoming freshmen were still handed copies of SICP and Introduction to Algorithms at the door.",1269163870
+1207743,comment,1207553,1207553,0,0,Luyt,,,"""Robot Warz"" already exists, I seem to remember.",1269163756
+1207742,comment,1207637,1207637,0,0,chunkyslink,,,"Fell at the first hurdle.<p>I don't have a facebook account. I am allergic to facebook and can't have an account on medical grounds (I get a rash and a great deal of irritation).<p>Sort out the login and I'll take a look.",1269163577
+1207741,comment,1207439,1207717,0,0,psawaya,,,"I agree, I just don't think tough love over the internet is really going to change his attitude. He knows he was a bad employee, and it wasn't as if he wrote his post bragging about how much slacking off he got away with before, how dumb his bosses are, etc.",1269163562
+1207740,story,,,1,0,mapleoin,"The confusion of the first years of the Fedora Project (an IRC dialogue)",http://lwn.net/Articles/83360/,,1269163439
+1207739,comment,1207152,1207385,0,0,buro9,,,"The down vote isn't visible now, if that's what you're wondering.<p>I came into the thread just after it had started and the only comment was ihodes. I thought it was interesting in that after reading the article I shared some of the same thoughts but at this point that single comment was down voted and with zero as the score.<p>I up voted it back to one and ihodes had already replied asking why it was down voted.<p>So there's no visible history and he's not seeing down votes, just the final score. It's just that the first vote was a down and he responded to that.<p>He has a fair question though on down vote policy. It's very hard to see why it should've been down voted.<p>My policy is to up vote everything worthy of up voting but to only ever down vote the really irrelevant, off topic and rude posts. Others do seem to down vote really random things.<p>Maybe people should be asked for a reason when they down vote so that they stop and think about it for a moment.",1269163436
+1207738,comment,1207462,1207543,0,0,gaius,,,"Or just get your storage to do it transparently. Every vendor has something like this these days <a href=""http://www.emc.com/products/detail/software/srdf.htm"" rel=""nofollow"">http://www.emc.com/products/detail/software/srdf.htm</a>",1269163154
+1207737,comment,1207342,1207708,0,0,davidw,,,"Which is why traffic has stopped on the linux kernel mailing list, despite being long time users of git?  Nope.  All serious open source projects have some sort of discussion area.  Even github lets you comment on commits, but that's not quite as convenient to read for most people as a publicly visible mailing list/forum/whatever.<p>Git is a nice tool, but you can't take things to extremes.  It is not a substitute for actual discussion.   What happens when the patch is 'pretty good', but not quite right and both people are willing to work on it?  It just gets discussed in commit messages?  No, it goes to a mailing list, especially when it's a larger project with many interested parties.  This is pretty elementary open source stuff:-/<p>Where you're completely correct is that git and github make it easier to contribute 'at the margins'.  In the sense that what once may have simply lain idle on one's own hard drive is easier to simply throw at some project in the hopes that they can do something useful with it.",1269163090
+1207736,comment,1207124,1207674,0,0,Confusion,,,"As iskander put somewhat less eloquently: what you say does not make any sense. Godel's incompleteness theorem places a theoretical limit on the completeness of (non-trivial) formal mathematical systems. 'Computations' take place within such formal systems and are, by definition, math. Both are subject to the consequences of Godel's theorems and you can't distinguish between them based on those theorems.",1269163002
+1207735,comment,1207637,1207679,0,0,eam,,,"You're right I wouldn't log in using my FB account, but at least this would reduce the number of cocks.",1269162974
+1207734,comment,1206993,1206993,0,0,malbiniak,,,"There was a pretty good comparison between the main ones mentioned here some time back. Worth checking into.<p><a href=""http://news.ycombinator.com/item?id=975301"" rel=""nofollow"">http://news.ycombinator.com/item?id=975301</a>",1269162957
+1207733,comment,1207187,1207730,0,0,thibaut_barrere,,,"It doesn't 'feel' well, I agree.<p>We will put some kind of profile page later on, for the mean time I'm just going to redirect to the website directly, it's just more clear.<p>Thanks!",1269162804
+1207732,comment,1207124,1207674,0,0,roundsquare,,,"So, if you are going to refer to Godel's theorem, its best to explain your point.  Godel's theorem is on of the most poorly understood popular ideas in mathematics and its easy to trip over (for you or the reader).<p>I'm going to try to guess what you mean.  You are trying to say that since a computer is essentially a formal system and humans are something more, we can't replace human mathematicians with computers to do the work because they won't be able to come up with new ideas outside a fixed problem space?<p>In any event, I think you are misunderstanding @ihodes's question.  The question is not ""can we replace mathematicians with computers"" but is more about the practice of mathematics.  I.e., @ihodes is asking if the mental activity of experimenting and doing computations is conceptually similar to doing proofs.",1269162532
+1207730,comment,1207187,1207338,0,0,decadentcactus,,,"I second point 2, it just seemed weird. As well it wasn't very pronounced (ie it was on top of the list, but maybe it was just sorted funny? Didn't feel like I came to the page to see that).<p>Definitely agree on using a single profile page.",1269162230
+1207728,comment,1206463,1206463,0,0,mbenjaminsmith,,,"I guess this means if I want to not break the law I have to buy another, heavier os to VM for testing. Do I really have to buy win7 or vista just to test another substandard browser? (Screams at ms, shakes angry fists towards the heavens.)",1269162220
+1207727,comment,1206955,1207558,0,0,andrewmayne,,,"I think it comes down to how you value what other people do.  I value certain musicians and actually enjoy paying for what they do.  It's not enough for me to say I like them. I feel it's only fair to spend money some money to reward what they've done for me.<p>I don't think it takes talent to make music.  It takes talent to make <i>good</i> music.  Talent is something I believe in rewarding.",1269162120
+1207725,story,,,22,56,swdev,"Ask HN: I will work for free ...",,"I am willing to work for free on interesting project until you find me useful and decide to pay for my work (hope this will occur within few months).<p>My current location is bangalore and I'm a senior developer (10+ yrs exp.) working for Top notch software consulting company.<p>Very interested in mobile technologies. Love to work on 
+iPhone or Android applications<p>Profile:
+    * C#, Java, Ruby, Rails
+    * Silverlight, AJAX
+    * Windows, Mac, HPUX
+    * Oracle, MySQL, SQL Server, SQL, database schema design.
+    * Subversion, Git, ClearCase
+    * Knowledge of object oriented design concepts and design patterns. 
+    * Proficiency with n/jUnit, n/jmock, ASP.NET framework, and CruiseControl.NET. 
+    * XP, TDD, Continuous Integration",1269162043
+1207724,comment,1207494,1207494,0,0,littleidea,,,"I'd comment on the blog if I didn't have to login.<p>Wins prize for most naive rant this week. There are a lot better reasons to hate on java, but speed really isn't one in 2010.<p>I'd love to see the rewrite of one of the apps he's complaining about in C and blog post about that.<p>--omg-optimized",1269162021
+1207723,comment,1039140,1119811,0,0,ununoctio,,,"{In Pascal Language+Assembly}
+{$ASMMODE INTEL}
+function equi (A : Array of longint; n : longint ) : longint;
+var c:Longint;
+    label noOverflow1;
+    label noOverflow2;
+    label ciclo;
+    label fine;
+    label Over;
+    label tot;
+Begin
+ Asm
+    DEC n
+    JS over
+    XOR ECX, ECX   {Somma1}
+    XOR EDI, EDI   {Somma2}
+    XOR EAX, EAX
+    MOV c, EDI
+    MOV ESI, n
+  tot:
+    MOV EDX, A
+    MOV EDX, [EDX+ESI*4]
+    PUSH EDX
+    ADD ECX, EDX
+    JNO nooverflow1
+    ADD c, ECX
+    nooverflow1:
+    DEC ESI
+  JNS tot;
+    SUB ECX, c
+    SUB EDI, c
+  ciclo:
+    POP EDX
+    SUB ECX, EDX
+    CMP ECX, EDI
+    JE fine
+    ADD EDI, EDX
+    JNO nooverflow2
+    DEC EDI
+    nooverflow2:
+    CMP EAX, n
+    JA over
+    INC EAX
+    JMP ciclo
+    over:
+      MOV EAX, -1
+    fine:
+  end;
+End;",1269162002

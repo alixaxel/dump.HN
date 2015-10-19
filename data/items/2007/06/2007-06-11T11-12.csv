@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27239,story,,,1,0,bootload,"Cognitive Lock-in (cost with thinking about & using products decrease as a function of experience)",http://arstechnica.com/news.ars/post/20070605-product-loyalty-consumers-mistake-familiarity-with-superiority.html,,1181562959
+27238,comment,27209,27209,0,0,3KWA,,,"I am usually ENTP but this time came out as and INFJ ... the complementary type - strange!",1181562422
+27237,story,,,4,0,bootload,"Weighing the Web (numerical estimates of mass, energy & horsepower)",http://adamant.typepad.com/seitz/2006/10/weighing_the_we.html,,1181562286
+27236,story,,,3,4,bootload,"This time, it's Microsoft which must adapt or die (Science & Nature refuse Word07 - 'incompatible with MathML')","http://technology.guardian.co.uk/weekly/story/0,,2096652,00.html",,1181561938
+27235,story,,,3,0,gibsonf1,"Hollywood's YouTube frustration grows",http://news.com.com/Hollywoods+YouTube+frustration+grows/2100-1030_3-6189853.html?tag=nefd.lede,,1181560680
+27234,story,,,1,0,gibsonf1,"Adobe's Apollo platform, now called AIR, goes beta",http://news.com.com/Adobes+Apollo+platform%2C+now+called+AIR%2C+goes+beta/2100-1012_3-6189700.html?tag=nefd.lede,,1181560396
+27233,story,,,7,4,gibsonf1,"First Public View Of Powerset Results",http://www.techcrunch.com/2007/06/11/first-public-view-of-powerset-results/,,1181560233
+27232,story,,,1,0,gibsonf1,"Google to harness satellite power for an Amazon tribe",http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/06/10/MNGR0QC65E1.DTL&type=tech,,1181560060
+27231,comment,27086,27087,0,0,mojuba,,,"I was curious about C#, started reading about it and I stopped precisely at the point when I saw this piece of code in their tutorial:<p>if (System.Text.RegularExpressions.Regex.IsMatch(s, sPattern,
+   System.Text.RegularExpressions.RegexOptions.IgnoreCase))
+...<p>So Miguel de Icaza wants to bring this mess to UNIX? This is ridiculous and so un-UNIX.<p>(Though GNOME, too, was probably one of the messiest GNU projects so far)",1181559918
+27230,story,,,1,0,gibsonf1,"Leopard Pounces: New Mac OS upgrade will be showcased at conference for Apple's third-party developers. (IPhone)",http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/11/BUG8SQC5B71.DTL,,1181559850

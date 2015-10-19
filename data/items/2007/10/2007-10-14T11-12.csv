@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+67637,story,,,9,3,danw,"Forward-thinking CSS float-clearing",http://blogs.pathf.com/agileajax/2007/09/developers-note.html,,1192361222
+67636,comment,67604,67604,0,0,almost,,,"What about the API? It wouldn't be at all hard to make a ""Facebook-exporter"" application using that. The question is: why would I bother doing that? Facebook is crap as an address book, it's the other bits that are useful...<p>Whatever other reasons there are to think Facebook sucks I don't think this is one.
+",1192360875
+67635,story,,,5,5,mdemare,"Implore YC: Refactor My Code (uses Ruby and continuations)",http://refactormycode.com/codes/83-combinatorial-explosion-with-continuations,"This is a real (if sanitized) problem that my start-up has, ready for refactoring (on refactormycode.com which I love and am unaffiliated with). ",1192360372

@@ -1,0 +1,573 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+9285542,comment,9283249,9283933,0,0,sporkenfang,,,"I am not bitter in the slightest, I&#x27;m just astounded that so many people expected their parents to pay for their college (and in turn expect to pay for their adult offspring&#x27;s education). Simply put, it doesn&#x27;t compute.",1427648374
+9285540,comment,9284796,9284796,0,0,nemo44x,,,"I remember anxiously playing Mc Donald&#x27;s flexi on my sisters Fisher Price record player. And then realizing, after we lost, it was just a crummy advertisement. Cynicism in me was born.",1427648325
+9285539,comment,9284672,9284672,0,0,unk_,,,"My Alma mater in Brno, Czech Republic still have one
+<a href=""https://www.youtube.com/watch?v=0t_1rqeQwOc"" rel=""nofollow"">https://www.youtube.com/watch?v=0t_1rqeQwOc</a>",1427648319
+9285538,comment,9285245,9285493,0,0,ics,,,"What exactly would you want to see compared? The same or similar examples for code comparison? &quot;Features&quot; or libraries?",1427648312
+9285537,comment,9285016,9285224,0,0,dalke,,,"&quot;this could result in a nuclear war within the next fifteen years&quot;<p>We&#x27;ve been hearing these exact warnings for over 20 years. There&#x27;s even a timeline of these warnings at <a href=""http://www.csmonitor.com/World/Middle-East/2011/1108/Imminent-Iran-nuclear-threat-A-timeline-of-warnings-since-1979/Earliest-warnings-1979-84"" rel=""nofollow"">http://www.csmonitor.com/World/Middle-East/2011/1108/Imminen...</a> :<p>> Fear of an Iranian nuclear weapon predates Iran&#x27;s 1979 Islamic revolution<p>> 1984: ... US Senator Alan Cranston claims Iran is seven years away from making a weapon.<p>> 1992: Israeli parliamentarian Benjamin Netanyahu tells his colleagues that Iran is 3 to 5 years from being able to produce a nuclear weapon – and that the threat had to be &quot;uprooted by an international front headed by the US.&quot;<p>> 1992: Israeli Foreign Minister Shimon Peres tells French TV that Iran was set to have nuclear warheads by 1999. &quot;Iran is the greatest threat and greatest problem in the Middle East,&quot; Peres warned, &quot;because it seeks the nuclear option while holding a highly dangerous stance of extreme religious militanCY.&quot;<p>> in early 1992 a task force of the House Republican Research Committee claimed that there was a &quot;98 percent certainty that Iran already had all (or virtually all) of the components required for two or three operational nuclear weapons.&quot;<p>> 1997: The Christian Science Monitor reports that US pressure on Iran&#x27;s nuclear suppliers had &quot;forced Iran to adjust its suspected timetable for a bomb. Experts now say Iran is unlikely to acquire nuclear weapons for eight or 10 years.&quot;<p>> 1998: The same week, former Defense Secretary Donald Rumsfeld reports to Congress that Iran could build an intercontinental ballistic missile – one that could hit the US – within five years. The CIA gave a timeframe of 12 years.<p>> 2007: A month later, an unclassified National Intelligence Estimate (NIE) on Iran is released, which controversially judges with &quot;high confidence&quot; that Iran had given up its nuclear weapons effort in fall 2003.<p>> June 2008: Then-US Ambassador to the United Nations John Bolton predicts that Israel will attack Iran before January 2009, taking advantage of a window before the next US president came to office.<p>(Bolton is the author of this op-ed piece. He was wrong then. Why should I believe he&#x27;s right now?)<p>> May 2009: US Senate Foreign Relations Committee reports states: &quot;There is no sign that Iran&#x27;s leaders have ordered up a bomb.&quot;<p>...<p>Despite decades of warnings of nuclear war within the next decade or so, the response so far has not been to bomb Iran. What&#x27;s different now that we need to bomb them, that we didn&#x27;t need to do so a decade ago?<p>I also see plenty of evidence that there are more than the two options of &quot;war with Iran&quot; and &quot;ignore Iran completely.&quot; Few say that we should sit back and do nothing at all.",1427648297
+9285536,comment,9284226,9285359,0,0,adventured,,,"HN was never just about technology, for the same reason hackers don&#x27;t only hack. That&#x27;s part of what makes it so great.",1427648283
+9285535,comment,9284782,9285478,0,0,vbezhenar,,,"Thanks, I&#x27;ll look into that. I&#x27;m more interested with iOS and OS X apps (though Pidgin works well for OS X). And iOS doesn&#x27;t permit messaging apps to work in background as far as I know, so push notifications are needed for comfort work. Though I&#x27;m usually near my laptop and probably can live without them.",1427648270
+9285534,story,,,3,0,tom-lord,"Missy Elliott's Reciprocal Cipher, and Perfect Oscillating Sequences",http://tom-lord.weebly.com/blog/missy-elliotts-reciprocal-cipher-and-perfect-oscillating-sequences,,1427648243
+9285533,story,,,6,2,stasy,"Newscombinator: Google news for hackers",http://newscombinator.com,,1427648243
+9285532,comment,9285095,9285508,0,0,blamarvt,,,"The DDoS tactics may have changed but the initial attack [0] was from all non-Chinese IPs who were visiting Chinese websites. That&#x27;s what makes this attack so difficult to block -- requests aren&#x27;t being made from Chinese IPs but rather from everwhere else.<p>[0] - <a href=""http://insight-labs.org/?p=1682"" rel=""nofollow"">http://insight-labs.org/?p=1682</a>",1427648240
+9285531,comment,9284226,9284226,0,0,majke,,,"I must say I wonder a lot of the volume of generated traffic. Is that hundreds of connections? Thousands? Millions? What is the number of unique IP&#x27;s hitting them, bandwidth, etc.<p>Does anyone have any data on that?",1427648215
+9285530,comment,9284782,9284782,0,0,zackmorris,,,"I wish there was something like Bitcoin for messaging.  Users need a better way to prove their identities (or hide them, depending on the situation) and be able to verify peers.  The current hierarchical security system is probably destined to require money, but the free alternatives make me uncomfortable because they tend to need private keys.<p>What I really want is an open version of Skype where the private key can always be generated by the user&#x27;s mind, overcomes all the limitations like NAT that make users second class netizens, has no central tracker, and (optionally, but possibly required to work around the limitations) allows a certain amount of traffic to be forwarded like Tor.<p>I don&#x27;t see how we can have a conversation about who pays for messaging when the underlying infrastructure for truly secure online communication hasn&#x27;t yet gone mainstream.  I don&#x27;t really trust Freenet or Tor and can&#x27;t quite figure out how come, so maybe we could start there and figure out why that is.<p>And a billion dollars for anything messaging-related completely blows my mind.  Most of the world-changing software was developed for a few thousand dollars by a couple of people working in their spare time.  To me, paying that much completely misses the point and probably hinders progress by locking capital up in niches that exclude developers who are working towards creating a non-scarcity based economy.",1427648215
+9285529,comment,9285004,9285004,0,0,agf,,,"Trello + Google Calendar is a big improvement over my previous, ad-hoc system.<p>For years, I used:
+- Google Calendar for timed events
+- Starred Messages in Gmail for things I&#x27;d need to reference
+- Drafts in Gmail for things that needed replies
+- a flat text file for misc things / things that didn&#x27;t involve interation with others so didn&#x27;t have emails.<p>The main problem with that system is that it doesn&#x27;t really help with prioritization. Even things that have a date / time and go into my calendar, I needed some additional note about if they required preparation ahead of time. The text file would also regularly become cluttered with ideas I didn&#x27;t have time to follow up on, that had to periodically be moved to a separate file.<p>Trello supports:
+- Custom categories / prioritization levels
+- Dates & Times
+- Checklists
+- Easy movement between phone + laptop
+- A separate category for &quot;long term&quot;, un-prioritized cards.<p>It is also perfectly functional at the free level if you don&#x27;t want to pay.<p>So while I still star messages in Gmail if they&#x27;re short-term and need to be referenced frequently, and I still use a calendar for timed events (Sunrise.am now instead of the Google Calendar interface), I&#x27;ve moved everything else into Trello. It also helps that I used the same two tools at work now -- I don&#x27;t have to transition between two different sets of tools every day.",1427648214
+9285528,comment,9283608,9283875,0,0,crimsonalucard,,,"Shifting power consumption away from gasoline onto the grid is definitely more efficient. However a significant amount of our grid is still powered by fossil fuels. It will depend on whether or not renewable sources have the capacity to support a car economy.",1427648214
+9285527,comment,9285095,9285452,0,0,ikeboy,,,"OP wanted &quot;a political figure acknowledge that an American company was cyber attacked by the Chinese government&quot;<p>That&#x27;s an <i>accusation</i>, and that happened many times. What OP wants already happened.<p>>Hackers associated with the Chinese government have repeatedly infiltrated the computer systems of U.S. airlines, technology companies and other contractors involved in the movement of U.S. troops and military equipment, a U.S. Senate panel has found.<p>>In May U.S. authorities charged five Chinese military officers, accusing them of hacking into American nuclear, metal and solar companies to steal trade secrets.",1427648209
+9285526,comment,9285409,9285409,0,0,na85,,,"I&#x27;m going to assume this isn&#x27;t an April Fool&#x27;s joke and express my revulsion at the thought of moving from an anti spam team to an industry whose sole purpose is to push results I don&#x27;t want to see higher in the search results list - in effect creating and evangelizing spam.",1427648208
+9285525,story,,,8,1,stared,"Two heads are better than one. How about more? (2014)",https://egtheory.wordpress.com/2014/01/30/two-heads-are-better-than-one-how-about-more/,,1427648202
+9285524,comment,9284226,9284922,0,0,dang,,,"This goes well into flamewar territory. Please stay on topic and be civil.",1427648187
+9285523,comment,9285409,9285409,0,0,dewey,,,"> Error establishing a database connection<p>maybe they should hire the head of engineering too while they are at it.",1427648176
+9285522,comment,9285095,9285411,0,0,allochthon,,,"It&#x27;s a reasonable tactical move, and GH can&#x27;t be expected to bear the cost indefinitely.  But it would ultimately hurt freedom of speech <i>outside</i> of China if GH capitulates.  (Asked HN about this yesterday: <a href=""https://news.ycombinator.com/item?id=9282950."" rel=""nofollow"">https://news.ycombinator.com/item?id=9282950.</a>)",1427648173
+9285521,comment,9285034,9285327,0,0,edandersen,,,"I think the full screen pop up (on mobile at least) asking for 3 USD a month to support &quot;high quality independent journalism&quot; rubs the salt in the wound a bit. I too had to stop reading it.",1427648139
+9285520,comment,9284226,9284757,0,0,majke,,,"Usually no.<p>There are generally two types of floods against DNS infrastructure:<p>- Flood of &quot;valid&quot; requests, to a large number of open DNS recursors. To avoid caching they usually contain random prefix. Flood against large number of open DNS recursors basically causes the recursors to not work, and many authoritative servers to be overwhelmed.<p>- Flood directly against authoritative servers, to fill the network or use up all the CPU.<p>Traditional reflections aren&#x27;t that popular any more.",1427648134
+9285519,comment,9281954,9283548,0,0,seunosewa,,,"Please explain how it avoids TCP-over-TCP. It doesn&#x27;t seem to me that multiplexing multiple TCP connections over a single TCP link avoids the problem.",1427648125
+9285517,comment,9277269,9280823,0,0,copsarebastards,,,"I hear this frequently but I don&#x27;t buy it. What about the MITM scales worse than a passive listener?<p>As far as I can tell, both insertion of a passive listener and a MITM are algorithmically O(n) on the number of connections being surveilled. All you&#x27;re increasing for the MITM is the constant factor.<p>When you&#x27;re on the order of billions of connections being surveilled, even linear growth is hard, but we know that <i>the NSA already has done that</i>. Increasing the difficulty by a constant factor is not much harder, and there&#x27;s no question that the NSA has the budget to do so. And in fact, the constant factor isn&#x27;t even large: it&#x27;s whatever the resource costs of two connection handshakes per connection is, plus decryption/encryption on the data flowing across, all of which are highly optimized algorithms at this point.",1427648078
+9285516,comment,9284226,9284786,0,0,vpeters25,,,"I think they should: traffic through the Great Firewall of China has been compromised, it&#x27;s getting injected with malware and therefore cannot be trusted.<p>Browsers and all safe browsing software should treat any traffic through the Great Firewall of China as malicious and show a scary warning in your browser asking to confirm before going there.<p>The drop of traffic to Chinese servers and therefore customers would create such a big outcry it might make them stop.",1427648060
+9285515,comment,9284655,9284655,0,0,gayprogrammer,,,"&quot;unique id useful for licensing&quot; => Linux &quot;/sbin/ifconfig eth0&quot;<p>Really?",1427648058
+9285514,comment,9285128,9285128,0,0,officialjunk,,,"Is this at all related to the recent news of Uber storing private keys in the github repo?",1427648034
+9285513,comment,9284782,9285186,0,0,deathy,,,"Interesting question. Anyone and everyone.<p>I may host my own email server or I might pay someone to host it. Or the government could host it, or my university could host it. Or I could get it for free by agreeing to be served some ads.<p>But who pays for it doesn&#x27;t matter. I can send you an email even if we use very different providers (from the point of view of both technology and payment). For messaging I don&#x27;t see this yet.<p>I feel like XMPP was supposed to be the chosen one. I had a google account but chatted to my gmail contacts through my self-hosted jabber server. I wonder if this new generation of messaging apps will get to that point anytime soon.",1427648021
+9285512,comment,9285209,9285484,0,0,preillyme,,,"I trust that RH has their reasons for such a large shift. So far they&#x27;re doing amazing work contributing back to Kubernetes especially all the shepherding that Clayton Coleman is doing for the broader community. As the CEO of Kismatic I&#x27;m excited that more companies are jumping on the Kubernetes bandwagon.",1427647972
+9285511,comment,9264121,9269548,0,0,stewbrew,,,"Use the right function, subset(), for the right effect then.",1427647928
+9285510,comment,9285409,9285409,0,0,kitcar,,,"This could just be a scammy link building technique - release fake news relevant to the SEO industry in order to get links from high authority SEO sites, in order to increase rankings of your SEO consulting firm. The proximity to April 1st doesn&#x27;t help...",1427647890
+9285509,comment,9284688,9284688,0,0,durabell,,,"<a href=""http://www.theepochtimes.com/n3/1301111-anti-censorship-github-pages-under-ddos-attack-from-china/"" rel=""nofollow"">http://www.theepochtimes.com/n3/1301111-anti-censorship-gith...</a><p><a href=""http://www.theverge.com/2015/3/27/8299555/github-china-ddos-censorship-great-firewall"" rel=""nofollow"">http://www.theverge.com/2015/3/27/8299555/github-china-ddos-...</a><p><a href=""http://motherboard.vice.com/read/did-china-just-launch-a-cyber-attack-on-github"" rel=""nofollow"">http://motherboard.vice.com/read/did-china-just-launch-a-cyb...</a><p>It&#x27;s getting wall to wall online coverage mate.",1427647881
+9285508,comment,9285095,9285095,0,0,eliben,,,"Silly question: Can Github just carpet-block all Chinese IP addresses? Would this mitigate the attack? Or is it that GH doesn&#x27;t want to punish real Chinese users (some of whom may well be paying customers) for their government&#x27;s tactics?",1427647870
+9285507,story,,,5,0,paralelogram,"Apple Is Hitler, Says Chinese CEO",http://www.theverge.com/2015/3/27/8298999/apple-hitler-china-letv-jia-yueting,,1427647856
+9285506,comment,9284226,9284520,0,0,zaroth,,,"L7 attacks come down to how much you can cache. If GitHhub was a purely static site, they wouldn&#x27;t have trouble serving the requests themselves in any case.<p>Github can solve this problem with CloudFlare to the same extent that Github&#x27;s product can be replaced with a hundred nginx servers with 10Gbit uplinks, large RAM caches, and effectively zero CPU time spent on each request.",1427647819
+9285505,comment,9284688,9285083,0,0,yzzxy,,,"I don&#x27;t follow Al Jazeera America personally (I think they are mostly focused on TV?) but I know there are a lot of parallels to RT.<p>It&#x27;s not blind &quot;hate&quot; for Al Jeezera as much as concerns that the parent organization is owned by the rulers of Qatar.",1427647805
+9285504,comment,9283249,9283588,0,0,sehutson,,,"Yeah, I understand why they&#x27;re doing it, and I think it&#x27;s great since you can&#x27;t really expect kids who grew up poor to have that kind of money at 17 or 18. If you&#x27;re coming out of a sub-par school system and you spent your childhood constantly worried about money issues, you&#x27;re doing well just to qualify for those kinds of schools.<p>I just wish there would have been SOME kind of retroactive forgiveness for those of us who were well below the family income threshold but were born just a couple years too soon. Don&#x27;t get me wrong, I understood the implications of taking out huge loans and I&#x27;m doing pretty well now (finally making progress on the loans) - but it kills me to think I could have had the same education without the crushing debt.",1427647803
+9285503,comment,9284688,9285376,0,0,fragsworth,,,"The U.S. is obligated to protect and defend individuals and corporations that don&#x27;t violate <i>U.S.</i> policy. Not some foreign policy.<p>If the U.S. government is not going to protect us from this shit, then what is the purpose of our military?",1427647794
+9285502,comment,9283440,9284143,0,0,vxNsr,,,"Look at the very first link on the home page (excluding the menu) :)",1427647785
+9285500,comment,9284803,9285071,0,0,jekrb,,,"JavaScript makes sense for the backend stuff too. (io.js, node.js)",1427647764
+9285499,comment,9285409,9285433,0,0,walshemj,,,"Well a couple of years&#x27; ago I heard rumors that Matt had been courted by one of the Big publishers (no names no pack drill) - to leave google and work on a project with them.",1427647724
+9285498,comment,9284501,9284501,0,0,dpedu,,,"Pyramid scheme. Steer clear.",1427647677
+9285497,comment,9285019,9285019,0,0,preillyme,,,"I&#x27;m curious which of the Marathon bugs caused your downtime?",1427647671
+9285496,comment,9284172,9285053,0,0,zo1,,,"And ironically, no &quot;Email&quot; address at all to go with said GoDaddy hosting. Despite paying for a domain name, and a basic managed WordPress site.<p>Sorry, bit of a personal rant at my first GoDaddy experience.",1427647654
+9285495,comment,9285004,9285004,0,0,stinos,,,"Work related: Jira for pretty much everything. Seriously, it&#x27;s a fantastic product with insane amounts of customisation and only some quirks. The rest goes in OneNote (typically if I see something new which looks interesting but I don&#x27;t have time to check it right away)<p>Personal: again OneNote for the same things (for example have a list of wines I really like).<p>Calendar-wise: my two jobs nor personal life require a full-blown calendar. I just put in in my head!",1427647648
+9285494,comment,9284226,9284961,0,0,yzzxy,,,"The official cyber force of China is not the biggest suspect in most attacks like this. The loosely controlled civilian hacker force (think privateer pirates) launch most ddos-style attacks on foreign soil.",1427647645
+9285493,comment,9285245,9285245,0,0,themodelplumber,,,"Is there a big table somewhere that compares all these? Processing, P5, Nodebox versions, this one, etc.",1427647626
+9285492,comment,9284172,9285053,0,0,dublinben,,,"But then you&#x27;d be using GoDaddy.",1427647624
+9285491,comment,9285004,9285004,0,0,favadi,,,"Todo list never works for me, I always use a calendar (google calendar sync to lightning). For note taking, I use simplenote (nvpy as desktop client). I&#x27;m not very satisfied with simplenote, but haven&#x27;t found anything better.",1427647618
+9285490,comment,9284390,9284912,0,0,Someone,,,"You definitely want the graphing calculator story [<a href=""http://www.pacifict.com/Story/"" rel=""nofollow"">http://www.pacifict.com/Story/</a>], and likely also want to look at folklore.org, for example the -2000 lines story [<a href=""http://www.folklore.org/StoryView.py?project=Macintosh&story=Negative_2000_Lines_Of_Code.txt&sortOrder=Sort+by+Date&topic=Management"" rel=""nofollow"">http://www.folklore.org/StoryView.py?project=Macintosh&story...</a>]<p>There&#x27;s also the stories of Knuth inventing and writing TeX and Metafont because he isn&#x27;t happy with the way his books are typeset and of RMS and the Xerox 9700, but I don&#x27;t know whether these have been written well yet.",1427647614
+9285489,comment,9284226,9284226,0,0,eliyak,,,"<a href=""http://www.ijcat.com/archives/volume3/issue7/ijcatr03071006.pdf"" rel=""nofollow"">http://www.ijcat.com/archives/volume3/issue7/ijcatr03071006....</a>",1427647569
+9285488,comment,9284688,9285045,0,0,yzzxy,,,"I can almost guarantee that most of those outlets have more stringent policies regarding fact-checking and quotation than the &quot;average&quot; internet source.",1427647552
+9285487,comment,9285409,9285409,0,0,kzhahou,,,"As April 1 pranks go, this is a great one.  Totally deadpan, plausible language, no obvious giveaways except for the overall absurdity.",1427647540
+9285485,comment,9284226,9285405,0,0,vixsomnis,,,"I&#x27;m not well-versed in the technical details of defending from DDOS, but unless it&#x27;s a mathematical NP-complete problem, they have a chance.",1427647504
+9285484,comment,9285209,9285349,0,0,zwischenzug,,,"Hi, working for a company that has 2.x and am working on 3.x.<p>Can&#x27;t say too much but it&#x27;s a big shift. The rewrites are significant; under the hood I know less about.<p>It&#x27;s certainly a big focus for RH. I think it&#x27;s great that they&#x27;ve embraced Kubernetes and Docker, but I can imagine it&#x27;s going to frustrate early adopters who have already got used to one set of terminologies.",1427647482
+9285483,comment,9284172,9284172,0,0,SteasonTee,,,"Too bad. Github.io is kind of unreliable. Is down now.",1427647473
+9285482,comment,9284782,9285403,0,0,Zigurd,,,"I used email before there were infrastructure-based spam filters. It was very usable with client-based spam filters. You can&#x27;t do encrypted email without either a whitelisting system or client-based spam filters.",1427647465
+9285481,comment,9285004,9285004,0,0,grandalf,,,"Here are a few tips that have worked for me to achieve the desired kind of big picture awareness and mental state suitable both for flow and for strategic thinking:<p>- keep a simple per-project todo list (I use a text file that I edit with emacs in text mode, one item per line. Delete when finished).<p>- realize that if you are procrastinating it might be because part of your brain disagrees with a decision you have made.  Reflect on the decisions and uncertainties you feel, and let any objection come to the surface of your consciousness. Often the remedy is pretty quick and the procrastination disappears.<p>- escape the echo chamber.  Maybe some people in your life are reinforcing stupid decisions or criticizing good ones.  Be brutally honest with yourself and believe in yourself.  Seeking social validation is in many ways a crutch.<p>- environment matters (people, architecture, city, flat, office, etc.).  Be picky and find one that gives you the right mix of ingredients for productivity, inspiration, and happiness and doesn&#x27;t make you feel bad about yourself, discouraged, etc. It may be very different than what works for other people or what is trendy.",1427647443
+9285480,comment,9285423,9285423,0,0,bediger4000,,,"<i>A broad general education helps foster critical thinking and creativity.</i><p>Indeed. But critical thinking and creativity are the things second least prized in US classrooms, right after outright disobedience. So it&#x27;s no real wonder that broad, general education has fallen out of favor.",1427647441
+9285479,comment,9285095,9285095,0,0,dujiulun2006,,,"Doesn&#x27;t matter to us Chinese people because WSJ is evil and we are protected by the mighty GFW from it too. [sarcasm sign]",1427647433
+9285478,comment,9284782,9285439,0,0,catern,,,">synchronizing chats between clients,<p>The Carbons XEP[0] is now fairly widely supported and does exactly this.<p>>user-friendly mobile clients.<p>Conversations[1] is excellent and is free software.<p>>push notifications<p>The centralized system of push notifactions on Android and iOS is not yet supported, it&#x27;s true, but XMPP with its extensions has pretty good support for battery-constrained devices with intermittent network connections.<p>I use XMPP across multiple devices with my own server to communicate to other people running their own server and it works great.
+Setting up your own server is extremely easy (&quot;apt-get install prosody&quot; works out of the box on Debian; stay away from ejabberd which is a pain) and I highly recommend it.<p>[0] <a href=""http://xmpp.org/extensions/xep-0280.html"" rel=""nofollow"">http://xmpp.org/extensions/xep-0280.html</a><p>[1] <a href=""https://play.google.com/store/apps/details?id=eu.siacs.conversations"" rel=""nofollow"">https://play.google.com/store/apps/details?id=eu.siacs.conve...</a>",1427647406
+9285477,comment,9282218,9284850,0,0,TheDong,,,"Running &quot;make -p&quot; is running a full parser which someone else wrote. Grep is not extracting the targets from a makefile there, it&#x27;s extracting the targets from an intermediate representation of a makefile.",1427647395
+9285476,comment,9284782,9285451,0,0,tedunangst,,,"How do you collect rent on an open platform?",1427647385
+9285475,comment,9285004,9285004,0,0,Walkman,,,"I use Anki for a lot of things: Everything programming, sysadmin related, foreign words, facts I want to remember.<p>It&#x27;s a tool for repetitive learning, but you can also use it as a snippet store, much like nvalt. The browser is excellent, it&#x27;s cross platform, syncing is simple (You only need an ankiweb account).",1427647382
+9285474,comment,9285004,9285004,0,0,mergy,,,"Wunderlist everywhere.<p><a href=""https://www.wunderlist.com/"" rel=""nofollow"">https://www.wunderlist.com/</a>",1427647362
+9285473,comment,9285095,9285283,0,0,rellik,,,"For those that find this doesn&#x27;t work (like me), just go to google and type the name of the article.",1427647362
+9285472,comment,9284226,9285145,0,0,zaroth,,,"> It could be some test gone wrong... Or maybe [misdirection]<p>There&#x27;s a MITM injecting malicious javascript causing a prolonged DDoS for several <i>days</i> now. There have been times in the past where BGP &quot;misconfigurations&quot; have redirected large amounts of internet traffic, and we <i>used</i> to think, oh, Hanlon&#x27;s razor, now we know better.<p>What convinces me this is not Hanlon is the precisely targeted nature and significant duration of the attack. Whoever controls these servers and routers knows this is happening and wants it to happen.",1427647300
+9285471,comment,9285004,9285004,0,0,MarcScott,,,"Emacs org-mode does it for me. My calendar, to-do list and other notes all feed into my agenda.<p>I have a nice work-flow for capturing email from mutt and shoving it into another org file.",1427647298
+9285469,comment,9284655,9284980,0,0,copsarebastards,,,"Your comment depressed me.<p>Take a look at this: <a href=""https://en.wikipedia.org/wiki/Rosetta_Stone"" rel=""nofollow"">https://en.wikipedia.org/wiki/Rosetta_Stone</a>",1427647286
+9285468,comment,9284226,9285081,0,0,low_battery,,,"Your 2 statements has nothing to do with each other. Here take another 50 cent.",1427647263
+9285467,comment,9285034,9285393,0,0,tobr,,,"I think it&#x27;s machine translated. I can&#x27;t think of another reason for writing &quot;The adventure begins in Bar Scumm&quot;, when the bar in the game is called the Scumm Bar.<p>The part written by Gilbert was actually taken directly from his blog and can be found at <a href=""http://grumpygamer.com/if_i_made_another_monkeyisland"" rel=""nofollow"">http://grumpygamer.com/if_i_made_another_monkeyisland</a><p>EDIT: Except they randomly capitalized words, removed random parts of sentences to make them incomprehensible, and inserted the word &quot;blackberries&quot; in the middle of a sentence. The more I look at this article, the weirder it gets.",1427647219
+9285466,comment,9285004,9285004,0,0,gmays,,,"What I do:
+I add anything associated with a date to Google Calendar.<p>For to-do&#x27;s on my main project I use Google Tasks.<p>For ongoing, less important to-dos or ideas I keep a draft email and just add to the list.  I reopen it and keep it minimized when I&#x27;m working from that list.<p>For short-tem stuff that I want to knock out I keep it in my inbox so I can knock them out quickly when I have time or I&#x27;m motivated to get a few things done.<p>Urgent/quick stuff I try to take care of the first time I look at it.<p>I send myself a quick email for everything so I don&#x27;t forget, then sort it into the appropriate place above when I get a chance.<p>I generally stay ~close to inbox zero.  This system works for me because I like everything in once place and accessible from anywhere.  Additionally, all of my 5+ email accounts feed into my Gmail inbox.  I don&#x27;t use Gmail tabs or anything like that, I just spam/unsubscribe from most things.",1427647207
+9285465,comment,9285365,9285365,0,0,KatRob,,,"A really good iniative, shame the BBC had to realise this, and address it, rather than the government. Well done BBC!",1427647201
+9285464,comment,9284803,9285259,0,0,jekrb,,,"Above I mentioned io.js, an up-to-date fork of node.  I think either are a great option.",1427647186
+9285463,comment,9285004,9285004,0,0,schizoidboy,,,"I&#x27;ve been working on a &quot;virtual life assistant&quot;: <a href=""https://myplaceonline.com/"" rel=""nofollow"">https://myplaceonline.com/</a>. It&#x27;s in private beta since my target audience is just me right now, but the code is all open source: <a href=""https://github.com/myplaceonline/myplaceonline"" rel=""nofollow"">https://github.com/myplaceonline/myplaceonline</a>",1427647167
+9285462,comment,9284655,9285187,0,0,pconner,,,"As far as I know, UNIX isn&#x27;t really a standard. POSIX is, with varying degrees of compliance from these OSes.",1427647145
+9285461,comment,9285384,9285384,0,0,getdavidhiggins,,,"Have a read: <a href=""http://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"" rel=""nofollow"">http://mako.cc/copyrighteous/google-has-most-of-my-email-bec...</a><p>As with all homebrew things, it is possible. The only caveat is the time spent hardening the server, and time is always against us, my friend.",1427647138
+9285460,story,,,3,0,coleifer,"Meet Scout, a Lightweight Python Search Server",http://charlesleifer.com/blog/meet-scout-a-search-server-powered-by-sqlite/,,1427647132
+9285459,comment,9284672,9285310,0,0,ptaipale,,,"Parliament in Helsinki also has a paternoster elevator in use still today. This film from (I think) before Second World War shows also other contemporary elevators, and making of them:
+<a href=""https://youtu.be/Cddo-ifmUsA?t=75"" rel=""nofollow"">https://youtu.be/Cddo-ifmUsA?t=75</a>
+Audio track is in Finnish and there is a ruinous VCR time code on top right, but still, a nostalgic piece.<p>The film says no year of production but I think it is from around 1938-1939 because the Olympic Stadium is there, and the general tone is optimistic in the pre-war style.<p>It features prominently  Kone Oy (still a major Finnish elevator and escalator manufacturer) so it might be produced for or by it.",1427647099
+9285458,comment,9284575,9284575,0,0,ToJans,,,"Greg Young did the same thing in .Net; he built a product out of it. In the end he figured out it wasn&#x27;t a viable business, so he made it open source. You can download it here <a href=""http://www.continuoustests.com/"" rel=""nofollow"">http://www.continuoustests.com/</a> and the code is OSS.",1427647085
+9285457,comment,9284782,9285406,0,0,aaggarwal,,,"You are only considering the cost of infrastructure. What about the basic salary for the people working on the application and monitoring infrastructure, who will pay for that, if not users and not ads and not government?",1427647081
+9285456,comment,9284226,9284226,0,0,rellik,,,"Thanks (China) for doing this on a weekend! Works out well for what I imagine are a large portion of Github&#x27;s paying users.<p>Please stop by tomorrow morning.",1427647079
+9285455,comment,9284672,9285190,0,0,guava,,,"The video does not comment on the situation which arises when a car stops for a prolonged period, blocking the cars behind it. What would or should happen in this scenario?",1427647064
+9285454,comment,9285095,9285283,0,0,PeterWhittaker,,,"Thanks, tried it, but with or without cookies, this still tells me I need to subscribe or login.",1427647042
+9285453,comment,9285004,9285004,0,0,barrkel,,,"I use a plain text editor of my own design. The back end is written in C#, compiles with Mono, and I have front ends written in GtkSharp and WinForms. It treats files in a directory as pages in a notebook, and it automatically tracks history of edits and autosaves every few seconds.<p>Its primary distinguishing characteristic is that it auto-saves to two files: a plain .txt file, and a .log file containing deltas. Replaying the log file reproduces the contents of the txt file. I can scroll backwards and forwards through the log in the editor, as well as through pages (files) in the directory in modification order. By default, it opens up the most recently modified page.<p>Whenever I start on a new task or bug, I create a new page (with a single keystroke) and simply start writing out a TODO list or steps of investigation. As I complete items, I delete the detailed text associated with the item (leaving only the header line, moved to a DONE section), or as I discount threads of inquiry, I delete them. If needs be, I can scroll through the deltas, retracing my logic. Works great for refreshing my memory or reloading context when I need to switch to something higher priority.<p>By convention, I use the first line in each file as a title. I have a single keystroke that brings up a search box; the search box incrementally searches through every title of every file. Files are lazily loaded when opened. I don&#x27;t browse the filesystem to open files, I open things up by title. If I need deeper search, I can grep the txt and log files in the file system; I haven&#x27;t had a big enough need to add that feature directly.<p>The directory is stored in Dropbox for synchronization, which also makes my notes accessible on my phone. It&#x27;s backed up separately.<p>Any conflict between .txt file and .log file is resolved by replaying the log, then appending the delta between .txt and result to the log. Thus if I make concurrent updates, or modify text files on my phone, they&#x27;re still available without losing history.<p>I use this editor at several levels. I have some high-level pages that track broader priorities in a category, some that act as idea dumping grounds, and lots and lots of pages that involve work specific to a task.<p>I&#x27;m not far from considering linking it to Google Calendar - creating a text convention that can be cheaply scanned for and calendar entries created, for deadlines or whatever.",1427647034
+9285452,comment,9285095,9285416,0,0,teamhappy,,,"You should read the articles before you post them.<p>> The United States has <i>accused</i> China [...] China has denied accusations of cyberwarfare, and has <i>accused</i> the United States [...]<p>> The FBI warned U.S. businesses on Wednesday that hackers it <i>believes</i> to be backed by the Chinese government [...]<p>> [...] Chinese espionage and cyber espionage activities may be carried out by individuals <i>without obvious government ties.</i><p>(Emphasis is mine.)<p>That seems to be the game we&#x27;re playing. Everybody is super concerned but nobody&#x27;s actually doing anything for the aforementioned reasons.<p>// ↓ Fair point (the accusation bit) If an accusation is all the OP wants, I don&#x27;t see why anybody would doubt that will happen tomorrow.",1427647033
+9285451,comment,9284782,9285419,0,0,troymc,,,"It seems you missed this chunk of the article:<p><quote>Will he continue to bankroll the business -- or does he see revenue opportunities? &quot;We will become financially sustainable at some point,&quot; he says. &quot;It will most likely involve third-party paid apps built on the <i>Telegram</i> platform.&quot;</quote>",1427647025
+9285449,comment,9284172,9284172,0,0,ada1981,,,"Now that your friend has made the site, you could curate a collection of tutorials from people on things that take an hour or less to make.<p>Could be really great as a resource to send to friends who complain about doing XYZ. Send them to MakeThisInAnHour.com",1427647011
+9285448,comment,9281466,9284829,0,0,graycat,,,"Part II<p>I&#x27;d been at FedEx for over a year.  I had
+been commuting every few weeks home to
+Maryland for a few days at a time -- not
+good.  There had been no more about the
+stock that had been supposed to come in
+&quot;two weeks&quot;.  The company had some
+problems, e.g., had nearly gone out of
+business due to not inviting me to the
+Board meeting.  Also the basic planning
+was way off -- the planning said that we
+could fly the planes around half full and
+nearly print money, but we were flying the
+planes packed solid, had doubled the
+rates, and still were losing money --
+bummer.<p>So that I could be a good bread winner in
+my marriage and for our kids if we could
+have some, as we hoped, I wanted something
+valuable no one could take away from me, a
+Ph.D. for my career and/or stock.<p>So, I&#x27;d gotten accepted for an appropriate
+Ph.D. at Brown (Division of Applied
+Mathematics), Cornell, Princeton, and
+Johns Hopkins.<p>The oil crisis hit.  Saving money,
+especially on jet fuel, became a biggie.
+So, I was working on that.  I was getting
+a lot of flack from others, especially my
+manager.<p>Finally I called a meeting to explain what
+I was working on, three projects.  My
+manager said I couldn&#x27;t do that because he
+was busy and couldn&#x27;t come.  I told him,
+fine, then don&#x27;t come.<p>He came.  So did Fred, Roger Frock, Art
+Bass, the top 15 or so people in FedEx.
+My manager was sitting next to Fred and
+kept objecting to what I was saying until
+Fred told him to cool it.<p>One of my problems was to use
+deterministic optimal control theory to
+say how to climb, cruise, and descend the
+planes.<p>A second problem was to use 0-1 integer
+linear programming set covering to develop
+schedules that would save on OpEx and
+maybe also CapEx.<p>A third problem was how to buy fuel during
+a trip from Memphis and back.  So, broadly
+the idea was to buy extra fuel where it
+was cheap and carry it to the next stop or
+two where fuel was more expensive.  We
+were getting fuel for $0.16 a gallon in
+Memphis but paying up to $0.55 cents a
+gallon (in Nashville).  So, that&#x27;s a case
+of what has long been known as <i>fuel
+tankering</i>. But doing that interacts with
+how to climb, cruise, and descend the
+airplane, not being late in the schedule,
+loads, weather, air traffic control, etc.
+And typically a lot of the cheap fuel gets
+burned off just from trying to carry it,
+and how much gets burned off has a lot to
+do with the flight plan.  And any such
+decision to buy extra fuel is a <i>bet</i> on
+the future of the trip back to Memphis,
+that is, a bet against the <i>random</i>
+package loads, weather, air traffic, etc.<p>So, how the heck to solve that?  And, for
+various reasons, couldn&#x27;t get a solution
+from carrying a computer on the plane and,
+really, not even from using a computer on
+the ground after landing.  I&#x27;d found a
+way!<p>So, Fred put me under Senior VP of
+Planning Mike Basch and, thus, made me
+<i>Director of Operations Research</i>.<p>But the fall came, and I had to decide
+actually to leave for graduate school or
+not.  With no stock, not a lot of thanks,
+with a lot of scars from being attacked,
+still away from my wife, the company still
+at risk, I decided to go to graduate
+school.  I liked FedEx, the challenges,
+the work, etc., but making the
+stockholders rich, with me not one of the
+stockholders, while wrecking my marriage
+and passing up the chance for a Ph.D. that
+might help my career and that no one could
+take away from me looked not good.  If I
+couldn&#x27;t get stock with the company still
+at risk and worked to make the company
+valuable, then what hope would I have of
+getting stock in the company I&#x27;d helped
+make valuable before getting any stock?<p>I went home to Maryland.  At the last
+moment, Fred wanted me back in Memphis.
+He and I met with Mike Basch, and Fred
+said, &quot;You know, if you stay, then you are
+in line for $500,000 in Federal Express
+stock?&quot;.  Heck no; I didn&#x27;t &quot;know&quot; any
+such thing; I had had and accepted such
+promises before, &quot;two weeks&quot;, and after 18
+months, saving the company twice, and with
+three projects to do much more for the
+company, all there was were more such
+promises, not on paper that a lawyer could
+do something with, no thanks -- &quot;Fool me
+once, shame on you.  Fool me twice, shame
+on me.&quot;.<p>Sure, that $500,000 would be ballpark $50
+million to $500 million today.  And
+apparently some people did get some stock.
+But there that last day, Fred still was
+just not putting it down on paper.<p>Since then I ran all this past a lawyer
+who concluded, &quot;Legally FedEx owes you
+nothing.  Morally they owe you
+everything.&quot;.<p>So, here on HN, maybe I definitely should
+tell this story as I have so that others
+can benefit so that more promises of stock
+can become ownership of stock.<p>Of course, there is a lot more to getting
+wealthy from stock in a startup than what
+I&#x27;ve outlined here.<p>Broad Lesson:  The broad lesson for people
+in startups with promises of stock, become
+very well informed and be very careful.<p>My reaction:  Do my own startup.  Doing
+it.  Need to get back to it.  It&#x27;d be fun
+to make more money than Fred!  I have a
+shot!  Back to it!",1427646999
+9285447,comment,9284672,9284672,0,0,dash2,,,"There is one at Essex University library, with the splendidly enigmatic sign:<p>Overtravel In Lift Is Not Dangerous, But Not Recommended",1427646982
+9285446,comment,9284796,9284796,0,0,ChuckMcM,,,"Those were fun, my parents had some &quot;talking postcards&quot; which were pictures of famous places you could then play on the turntable where a narrator would talk about that place.",1427646966
+9285445,comment,9284226,9285230,0,0,nevir,,,"Donate those bitcoins to groups that deal with the GFW",1427646959
+9285444,story,,,3,0,KatRob,"How to avoid a big mobile data phone bill",https://medium.com/noosfeer-stories/mobile-data-is-a-bastard-2094424d0e18,,1427646942
+9285443,story,,,180,83,etiam,"TPP leak: states give companies the right to repeal nations' laws",http://boingboing.net/2015/03/26/tpp-leak-states-give-companie.html,,1427646920
+9285442,comment,9284226,9285332,0,0,kaeawc,,,"Yes. The nature of git means this has not stopped our workflow. Just because we can&#x27;t update a central source doesn&#x27;t mean we can&#x27;t continue to get things done. Also, if a large enough entity doesn&#x27;t like what you&#x27;re doing, you&#x27;re better off putting your code in Github/Bitbucket/etc because chances are you can&#x27;t mitigate a DDoS of this scale by yourself.",1427646917
+9285441,comment,9282539,9282699,0,0,rquirk,,,"I disagree, and think they&#x27;ve done a great job. The CMake devs have always been really responsive to bigish projects that find CMake to be almost-but-not-quite good enough for their project, adding in missing autotools features or other semi-commonly used bits and bobs.<p>They manage to keep up with all the churn in the world of compiled software, whereas it would be so easy to let a tool like CMake bitrot. Old mistakes have sensible deprecation policies too, so they have managed to avoid the accumulation of cruft that could have brought it to a standstill.",1427646907
+9285439,comment,9284782,9285355,0,0,vbezhenar,,,"XMPP have troubles with synchronizing chats between clients, with push notifications, with user-friendly mobile clients. I like XMPP, I did set up my own server, but I finally abandoned it. It&#x27;s usable only with one client, preferably on desktop.",1427646897
+9285438,story,,,36,27,paralelogram,"American Millennials are among the world's least skilled",http://fortune.com/2015/03/10/american-millennials-are-among-the-worlds-least-skilled/,,1427646885
+9285437,comment,9284672,9284672,0,0,pdq,,,"While vacationing last year in New Orleans, they had a Belt Manlift used by the parking attendants at the Omni Hotel garage.  It was scary as heck looking, but the valets seemed quite confident on it.<p>It&#x27;s basically a continual ladder running through holes in the floor in a continual loop.  The best picture I can find is something like this:  <a href=""http://www.americanbeltmanlift.com/main.png"" rel=""nofollow"">http://www.americanbeltmanlift.com/main.png</a>",1427646880
+9285436,comment,9284688,9284946,0,0,brudgers,,,"The mainstream press also has an interest in operating on the ground in China. Promoting the attack on Github as newsworthy has some potential for making that work on the ground more difficult or impossible. It&#x27;s as simple as a business decision that reflects the greater profit tweets about presidential contenders as the subject of journalism.",1427646874
+9285435,comment,9283146,9284246,0,0,pixl97,,,"At amazingly huge expense. It&#x27;s way cheaper to re-string it every few years on the pole when it gets damaged then to avoid the myriad of other cables already underground.",1427646858
+9285434,comment,9284172,9285053,0,0,throwy,,,"Yep but you wouldn&#x27;t get free hosting right?",1427646836
+9285433,comment,9285409,9285409,0,0,slg,,,"It must be noted that due to the unexpectedness and questionable nature of this move combined with his April 1st start date there is some speculation on Twitter that this is an early April Fools gag.  Although Matt has been on leave from Google and his last blog post is about him reducing social media use which is mentioned in the article.",1427646827
+9285431,comment,9283876,9283876,0,0,mmenafra,,,"If its for production use, I would think about it twice, and analyze the other options first.",1427646824
+9285430,story,,,2,0,nicholasjbs,"How I learned to (stop worrying and) love HTTP",https://codewords.recurse.com/issues/two/how-i-learned-to-stop-worrying-and-love-http,,1427646822
+9285429,comment,9281466,9284829,0,0,graycat,,,"Part I<p>My offer (from Art Bass, then head of
+Flight Operations in part because he was,
+as the FAA required, a pilot) and offer
+letter said that (A) there would be a
+stock plan, (B) I would be part of the
+stock plan, (C) the plan would be based on
+salary in which case I would be quite high
+up, (D) the Board was considering the
+stock plan now and results were expected
+in two weeks, (E) if the plan were not
+equitable then the first plane out of
+Memphis would be full of ex-Federal
+Express employees.<p>With that, I joined, kept teaching my
+courses in computer science at Georgetown
+until the courses were over, at home got a
+time sharing terminal, a CP67/CMS account,
+etc., and dug into writing the software to
+schedule the fleet.<p>Some Board Members, including one with a
+lot of experience at American Airlines,
+doubted there could be a schedule.  So,
+the Board wanted to see a schedule, say,
+for the full, planned fleet of 33 planes
+serving the full, planned list of 90 US
+cities.  Some crucial funding, some
+equity, some loans on the planes, were
+being held up waiting for the schedule.
+The company was at risk.<p>I wrote the software, finished my
+teaching, drove to Memphis, and rented a
+room.<p>So, with the Board having doubts and the
+company at risk, one evening Roger Frock
+and I used my software to develop a
+schedule for the 33 planes and 90 cities.
+We printed out the schedule, had copies
+made, and handed them around.<p>Board Member General Dynamics had sent two
+representatives, one an aeronautical
+engineer and one a finance guy, to
+provide, say, <i>adult supervision</i>; those
+two guys went over the schedule fairly
+carefully and announced &quot;It&#x27;s a little
+tight in a few places but it&#x27;s flyable&quot;
+(pretty good from just a little fast work
+from Roger and I); CEO Fred Smith&#x27;s
+reaction at the next senior staff meeting
+was &quot;Amazing document.  Solves the most
+important problem facing the start of
+Federal Express.&quot;. The funding was
+enabled.  FedEx was saved.  Pretty good
+from typing in 6000 lines of PL/I in six
+weeks while also teaching two courses!<p>PL/I is a nice language -- good on data
+types, data manipulations, data
+conversions, data structures, scope of
+names, exceptional condition handling,
+storage management, debugging, etc.  E.g.,
+its <i>Based structures</i>, can serve as a
+poor-man&#x27;s <i>classes</i> in object oriented
+programming.<p>Later the Board wanted to see some revenue
+projections.  I didn&#x27;t want to get
+involved, but no one had more than wishes,
+hopes, dreams, intentions, etc.  So, I
+started with the common high school
+question, what do we know?  Well, we knew
+the present revenue or, if you will,
+number of packages per day.  From our
+initial long term planning, we knew what
+revenue we expected with 33 full airplanes
+serving 90 US cities.  So, in some at
+least a somewhat meaningful sense the
+desired <i>projections</i> were an
+interpolation between those two facts we
+did know.<p>Then the question was, how will the
+interpolation go?  Well, why will the
+revenue grow?  Sure:  The revenue will
+grow as it has been so far, customers to
+be hearing about FedEx from current happy
+FedEx customers.  E.g., maybe a customer
+to be gets a package via FedEx.  So, we&#x27;re
+talking <i>word of mouth advertising</i> or
+<i>viral</i> growth.<p>So, the rate of growth in revenue per day
+or packages per day should be directly
+proportional to (A) the number of current
+customers and (B) the number of customers
+to be.  That is, the rate of growth should
+be proportional to both (A) and (B), that
+is, to their product.<p>So, all downhill from there:  At time t,
+let y(t) be the revenue, say, per day, at
+time t.  Let t = 0 correspond to the
+present.  So, we know y(0).  Let b be the
+revenue per day with a <i>full</i> system, that
+is, 33 full airplanes and 90 US cities.
+That is, we know both y(t) and b.<p>So, from freshman calculus, the rate of
+growth is the first derivative of y(t),
+that is, d/dt y(t) = y&#x27;(t).  So, from the
+proportionality, we have that there must
+exist some constant k so that<p>y&#x27;(t) = k y(t) ( b - y(t) )<p>So, we have an initial value problem (we
+know y(0)) for a first order, linear
+ordinary differential equation.<p>Okay, how to get a solution?  Easy, just
+need freshman calculus, not even a course
+in differential equations.  And, yes,
+there is a closed form solution, right,
+with some exponentials.<p>Right, the solution is the famous
+<i>logistics curve</i> sometimes seen as doing
+well tracking, say, the growth of TV set
+ownership in the early years of TV.  So,
+my derivation, as just above, can be seen
+as an <i>axiomatic</i> derivation (maybe
+rediscovery, maybe original) of the
+logistic curve.  The solution may remain
+an okay, first-cut approach to
+understanding <i>viral</i> growth.<p>So, I showed my work to Senior Vice
+President Mike Basch, likely the one most
+responsible for getting the projections
+for the Board, and he liked my work.  So,
+on a Friday afternoon we picked several
+candidate values for the constant k and
+drew the corresponding graphs of the
+revenue projections.  We used my HP
+calculator, reverse Polish notation, stack
+machine, etc. -- HP should run an ad! We
+picked a value of k that gave what seemed
+to be reasonable projections and declared
+the problem solved.<p>The HP?  It&#x27;s still in my center desk
+drawer.  Checking, right, it&#x27;s an HP-35.
+My wife and I paid $400 for it.<p>The next day, a Saturday, at about noon, I
+was in my office likely working on fleet
+scheduling and got a call from Roger Frock
+asking if I knew anything about the
+revenue projections.  Saying I did, he
+asked if I could come over to the HQ and
+explain.<p>So, I got into my Camaro hot rod (396 <i>big
+block</i>, etc.), and drove over.  Yes, I
+brought my HP-35.<p>As I arrived, at one of the old WWII
+wooden hanger buildings, people were
+standing around and not happy.  Our two
+guys from General Dynamics were standing
+in the hall with their bags packed and not
+happy.<p>Roger led me to a table with the graph,
+picked a point in time, and asked me to
+calculate the value on the graph.  So,
+with my HP-35, I punched the buttons,
+stopped, slowed down, cleared the HP-35,
+started again, slowly and carefully
+punched the buttons again, and got the
+value on the graph.  I did that for
+several points for the graph, and then
+everyone started to get happy.<p>It turned out that the Board meeting had
+been that morning; Mike Basch was
+traveling; I&#x27;d not been invited to the
+Board meeting; the graph had been
+presented; the two guys from General
+Dynamics (GD) had asked how the graph had
+been calculated; and everyone else at the
+meeting dug in trying to answer.  They
+worked for hours with no results.  Finally
+the two guys from GD lost patience with
+FedEx, returned to their rented rooms,
+packed their bags, got plane reservations
+back to Texas, and as a last chance
+returned, with their packed bags, to the
+FedEx HQ to see if anyone could explain
+the projections.<p>Somehow Roger Frock had guessed that I&#x27;d
+done the projections, called me, and got
+me to the Board meeting just in time.<p>It was close, but I&#x27;d saved FedEx a second
+time.<p>Right:  Some people in FedEx would rather
+have seen FedEx go under than invite me to
+the Board meeting.  We&#x27;re talking some
+severe cases of jealousy, bureaucratic
+<i>infighting</i>, attacking the guy down the
+hall instead of the competition outside of
+the building, <i>goal subordination</i> as in
+<i>organizational behavior</i>, etc., right?
+Bummer.<p>Right:  Apparently I was the only person
+at FedEx who still understood freshman
+calculus.  Gads.  And I never even took
+freshman calculus, taught it to myself
+from a book, and started with sophomore
+calculus.<p>I never got any thanks for saving the
+company the second time.",1427646817
+9285428,comment,9285095,9285257,0,0,zo1,,,"Or you could, instead, not bother wasting time on it? I can&#x27;t get to it, and I&#x27;m not willing to subscribe, so I won&#x27;t read the article.",1427646812
+9285427,comment,9285095,9285411,0,0,ikeboy,,,"It&#x27;s a copy, in the hopes that governments won&#x27;t want to block github.",1427646791
+9285426,comment,9284226,9285332,0,0,chrishas35,,,"What service wouldn&#x27;t be susceptible to such an attack? The only way to avoid it would be to not put your [code|website|etc] on the internet.  That seems a bit extreme.",1427646779
+9285423,story,,,57,93,zonotope,"America's obsession with STEM education is dangerous",http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html?hpid=z3,,1427646732
+9285422,story,,,1,0,manume,"How to validate the uniqueness of an attribute across multiple models in Rails",https://www.krautcomputing.com/blog/2015/03/29/rails-validate-uniqueness-across-models/,,1427646729
+9285421,comment,9283922,9284327,0,0,SilasX,,,">Exponential improvements aren&#x27;t very helpful if you&#x27;re working on exponentially hard problems.<p>Sure they are! They reduce it to a problem that&#x27;s only polynomially hard! :-p<p>>Exponential growth of technology hasn&#x27;t solved machine intelligence (by direct simulation) for essentially the same reason why it hasn&#x27;t solved numerical weather prediction or made quantum computers pointless.<p>Okay, but that&#x27;s a rather high bar to judge it against. Humanity has solved many lesser machine intelligence problems, like web search, voice recognition, routing, and recommendation. Though I agree the relevant exponential growth was in the power of the algorithms, not so much the hardware.",1427646718
+9285420,comment,9276605,9280209,0,0,aktau,,,"I you&#x27;ve got a Mac, check out OpenEmu.<p>Otherwise, go for the lower level part: mednafen.",1427646716
+9285419,comment,9284782,9284782,0,0,bmmayer1,,,"Just the opposite. The free software movement has led to apps and programs where the users are the product, not the customer, and companies bend over backwards for advertisers. The companies have no incentive to care about your privacy, just your data.<p>Paid messaging apps, however (at least until they get acquired by advertising companies like Facebook), give companies incentives to service their customers first, and the users are actually the customers. That&#x27;s why Slack and WhatsApp and HipChat and Basecamp have taken off--because they offer the security and paid customer/company relationship.<p>This article&#x27;s title is woefully non-conclusive. Sure it would be wonderful if ALL messaging apps could by built and funded by Russian billionaires such they were private and free for the end user, but the fact is that to support the infrastructure of a billion+ user messaging app, you need to make money. And if you can&#x27;t make money from the users to whom you are promising security and privacy (and thus to whom you owe allegiance), you have to make money elsewhere. And the alternative is arguably what has caused so many security and privacy problems in the first place.",1427646707
+9285418,story,,,1,0,animalous,Animalous.com,https://www.animalous.com/,,1427646698
+9285417,comment,9285004,9285004,0,0,kentt,,,"I use the Getting Things Done methodology using todoist.",1427646696
+9285416,comment,9285095,9285385,0,0,ikeboy,,,"Ahem.<p><a href=""https://en.wikipedia.org/wiki/Cyberwarfare_in_China#United_States"" rel=""nofollow"">https://en.wikipedia.org/wiki/Cyberwarfare_in_China#United_S...</a><p><a href=""http://www.nbcnews.com/tech/security/fbi-warns-u-s-businesses-china-backed-cyberattacks-n226821"" rel=""nofollow"">http://www.nbcnews.com/tech/security/fbi-warns-u-s-businesse...</a><p><a href=""http://www.darkreading.com/risk-management/china-cyber-espionage-threatens-us-report-says/d/d-id/1085047"" rel=""nofollow"">http://www.darkreading.com/risk-management/china-cyber-espio...</a><p><a href=""http://www.investing.com/news/technology-news/chinese-hacked-u.s.-military-contractors,-senate-probe-finds-309836"" rel=""nofollow"">http://www.investing.com/news/technology-news/chinese-hacked...</a>",1427646686
+9285414,comment,9284688,9285171,0,0,fma,,,"As a follow up, WSJ is covering it. <a href=""http://www.wsj.com/articles/u-s-coding-website-github-hit-with-cyberattack-1427638940"" rel=""nofollow"">http://www.wsj.com/articles/u-s-coding-website-github-hit-wi...</a><p>They beat BuzzFeed to it!",1427646683
+9285413,comment,9283922,9284978,0,0,sumitviii,,,"But we have working examples of that machine.<p>The problem is in completely understanding it. If we completely understand it, then it shouldn&#x27;t be hard to simulate.",1427646683
+9285412,comment,9283922,9284751,0,0,ForHackernews,,,"Fair enough, but that&#x27;s like saying &quot;intergalactic travel is a bounded problem&quot;",1427646659
+9285411,comment,9285095,9285095,0,0,jessaustin,,,"<i>Specifically, the traffic was directed to two pages on GitHub... the other linked to a copy of the New York Times’ Chinese language website... A spokeswoman for the New York Times declined to comment. It isn’t clear who controls the GitHub site that contains the copy of the paper’s content.</i><p>[EDIT: Apparently this is a copy.] Notwithstanding the actions of some in China, reposting newspapers doesn&#x27;t seem like a service GitHub really wants to provide. Would anyone complain if GH were to pull this content?<p>Incidentally, TFA was quite informative; good job WSJ!",1427646636
+9285410,comment,9285004,9285271,0,0,patrickg,,,"NV and nvALT were such a gereat push in note taking. My first note is now five years old. Before that, I have used a plain text file for everything.<p>I really like the hyperlinks and full text search in nvALT.",1427646620
+9285408,story,,,1,0,sharp11,"Climate clubs and Copenhagen Theory to address climate change",http://www.nytimes.com/2015/03/29/upshot/how-idealism-expressed-in-concrete-steps-can-fight-climate-change.html,,1427646552
+9285407,story,,,130,24,bpierre,"V8worker – Minimal Go binding to V8",https://github.com/ry/v8worker,,1427646534
+9285406,comment,9284782,9285379,0,0,joelthelion,,,"Costs are very low. If the owners don&#x27;t want to maximize profit, the service can very well run like this for a very long time.",1427646528
+9285405,comment,9284226,9285222,0,0,mirashii,,,"Nullifying DDOS doesn&#x27;t take ingenuity, it takes a big wallet, which Github no doubt has, but let&#x27;s not pretend that its some engineering feat. If it was, a small company being ddosed would have a chance at fending it off all the same, but that&#x27;s just simply not the case.",1427646486
+9285404,story,,,1,0,cloush,"Show HN: Cloush – multi cloud sharing",http://www.cloush.de,,1427646473
+9285403,comment,9284782,9285186,0,0,api,,,"Google and every other company that invests the immense time and money required to keep it clear of spam. Email without a large spam filtering infrastructure is unusable.",1427646473
+9285402,comment,9283571,9283940,0,0,Jimmy,,,">I wish that when GC encountered a cycle it would just tell the programmer that they now have a leak, maybe even suggest where it could be fixed with one of those neat little IDE quick fixes, and continue chugging along.<p>Are you saying that cyclic data structures are always a bad idea?  So no one should ever make a doubly-linked list?<p>Or, to take a case from a game I&#x27;m working on:  I&#x27;m writing a set of GUI controls for the game&#x27;s UI.  There will almost always be at least a few controls on screen, so I have a WindowManager object that lives for the entire duration of the application and does, among other things, tasks like telling all of the controls to draw themselves, determining which control has focus, etc.  The controls all have a reference to the WindowManager object (or whatever their direct parent is, once I start supporting more complex controls) so they can implement methods like onClick() { parent->removeGroupOfControls(); }<p>Even though the WindowManager is persistent, the individual controls come and go quite often.  So if I was using a GC (I happen to be doing this in C++) that simply threw up its hands whenever it encountered a cycle, none of the controls would ever get garbage collected, leading to a huge memory leak over time.<p>Is this a case where you think cycles are appropriate?  Or is there a better way to refactor this so it doesn&#x27;t use cycles?  (If someone has ideas for a better design, I would absolutely love to know.)",1427646463
+9285401,comment,9285004,9285164,0,0,shahocean,,,"I just checked the website. It looks like its similar to Trello. Is that so?",1427646420
+9285400,story,,,7,23,abhinovb,"Ask HN: Do you think there is a need for a community for career advice?",,"I guess plenty of students use Reddit/ Quora for career related tips. Please give your thoughts",1427646380
+9285399,comment,9284226,9285354,0,0,SXX,,,"I do understand this, but if it&#x27;s Chinese government behind attack the reason why they doing this it&#x27;s these anti-censorship projects hosted on GitHub. Considering GitHub already supported censorship in Russia I see no reason why don&#x27;t they just block access from China to projects that Chinese gov don&#x27;t like.",1427646376
+9285398,comment,9283249,9285043,0,0,analog31,,,"Those are interesting points. I think there are some other factors as well: College provides kids with the experience of face-to-face interaction in an academic setting, which is sufficiently similar to a professional setting. And it also may provide psychological conditions necessary for some kids to actually finish. I would have had a hard time earning my BS degree sitting in front of a screen all day every day for 4 years, while living in a my backwards little hometown.<p>As a thought-experiment, imagine going down the hallway at a large company, talking to all of the new entry level recruits, and trying to guess which ones went to college and which ones studied at home, just from their behavior. Now guess which ones will move up the ladder and which ones won&#x27;t.<p>If colleges are driven out of business, affluent parents will find other ways to provide their kids with those extras, poor kids won&#x27;t know why their online education hasn&#x27;t made them employable, and we&#x27;ll just be back to the same disparities as before.<p>I&#x27;m obviously pushing a particular agenda here, but I think it&#x27;s worth considering.",1427646355
+9285397,story,,,1,0,phpcmsframework,"WP Super Cache – Wordpress caching plugin free download",http://www.phpcmsframework.com/2015/03/wp-super-cache-wordpress-caching-plugin.html,,1427646344
+9285396,comment,9284226,9284969,0,0,jtgeibel,,,"Do you have a link to this?  I haven&#x27;t seen anything regarding HTTPS injection.  Just injection of code into javascript resources hosted by Baidu CDN, over HTTP.",1427646338
+9285395,comment,9282209,9284744,0,0,geocar,,,"Thank you.<p>I promise I don&#x27;t actually mean to speak for anyone other than myself.<p>I have observed assistive technology before and wondered just how effective it is. I suspect many sighted programmers (like the parent poster) have wondered this as well, and the point of my post was, to use your metaphor, to point out it is a very different experience riding in a car versus driving one.<p>That said, some of your report surprise me.<p>Do you program in K?<p>You wrote you programmed in all of the languages that I mentioned, but you made mention of how dense Haskell seems and K is much more dense than Haskell.<p>For example, and I&#x27;m sorry if your screen reader doesn&#x27;t like this, in K I can write:<p><pre><code>    c:{+(.#:&#x27;=x;?x)}
+</code></pre>
+Q sounds better on a screen reader to me, but is harder for my eyes to parse:<p><pre><code>    c:{flip(value count each group x;distinct x)}
+</code></pre>
+Here&#x27;s a Python implementation of &quot;c&quot; above:<p><pre><code>    def c(v):
+        h = {}
+        for el in v:
+            h[el] = h.get(el,0) + 1
+        a = []
+        for el in h.keys():
+            a += [[ h[el], el ]]
+        return a
+</code></pre>
+Now I don&#x27;t know if you know K or Q, but I must say that I don&#x27;t find this easy to read. Not with my eyes or with my ears. When I pointed to the fact that Python functions are longer and delimited by whitespace caused me a great deal of frustration, I hope that if you don&#x27;t know K or Q that this gives you a better understanding of what I&#x27;m comparing it with.<p>On the other hand: If you do know K or Q, then I&#x27;m wondering if you could explain how you experience a python program like that in your environment is preferable to the K or Q example.",1427646305
+9285394,comment,9285388,9285388,0,0,abiro,,,"Hello,<p>I’ve been working on a project to figure out a way to achieve continuous movement in an urban environment captured by immersive panoramas. I came up with something that I call perspective scaling where frames between pairs of panoramas are recovered by applying transformations to them based on their depth maps.<p>The method runs entirely on the GPU and will yield a steady 60 FPS in web browsers on modern PCs. Behind the link is a demonstration of this method on a synthetic scene. The code is available on GitHub.<p>There are several issues that need to be worked out such as the disocclusion of static objects, the presence of moving objects in the scene, and transitions between panoramas need to be smoothed. I believe that a satisfactory solution can be found to all of these issues. Also, the current implementation of the algorithm is very wasteful which might be a problem on higher resolutions and mobile devices. I haven’t tested those cases.<p>All feedback is appreciated.",1427646286
+9285393,comment,9285034,9285327,0,0,sandworm,,,"I hope that is the case, but I&#x27;ve seen far too many of these articles written by native english speakers.  I&#x27;ve graded papers by university students (year three!) that were far worse than this article.",1427646281
+9285392,comment,9281077,9281264,0,0,lifeisstillgood,,,"Serious if not rigorous.<p>Someone downthread quoted 10 days at 100Mbps is fine - when that&#x27;s two years at 1Mbps a common end to end throughput.<p>Cloud computing is a massive game changer, but while the economics have changed, the laws of physics and calculus of reliability has not - at some point I cannot imagine not saying &quot;my really important data is, once all is said and done, mirrored across those two physical hard disks in this physical location.  Preferably encrypted with this key.&quot;<p>Moving across the network to retrieve from disk is always the slowest part of an operation. This is unlikely to stop being true.  And until the entire internet thinks nothing of 10TB as a transfer then storing that much &quot;somewhere&quot; is always going to be far far less reliable than planning a storage stack taking into account topology, relevance, usage and risk.<p>We used to worry about fitting things into 1KB, not a word doc takes 1MB, neither of which trouble any modern network.<p>But to me, and I may be wrong, we are in the 1KB internet while these guys are offering cloud storage for 1MB word docs.",1427646271
+9285391,comment,9285076,9285076,0,0,brudgers,,,"I fell it would be best if it was connected to the current internet, or at least if I could search for things on it at duckduckgo.com",1427646266
+9285390,comment,9284261,9284261,0,0,jlarocco,,,"The headline is misleading.  SRFI isn&#x27;t retiring.  The current editor and maintainer is retiring.  The process is only being retired if nobody steps up to take over.",1427646237
+9285389,comment,9284226,9285336,0,0,Ygg2,,,"In same way Trinity was a test, I assume ;)",1427646236
+9285388,story,,,1,3,abiro,"Show HN: Towards continuous movement in a city captured by 360° panoramas",http://www.agostbiro.com/demo.html,,1427646222
+9285387,comment,9285004,9285004,0,0,clearing,,,"taskwarrior and taskwarrior-vim so I can keep tasks in the same terminal as work.<p>ghi to keep track of github issues<p>mutt for email, with notmuch for searching/indexing<p>ynab via wine for budgeting, though I&#x27;m not the best at keeping up with that : )<p>other than that I have a moleskine that I fill with random things related to that day/week/month, inspired somewhat by bullet journal",1427646198
+9285386,comment,9285004,9285150,0,0,shahocean,,,"I found GS bit complex. Are you comfortable using it on your mobile device?",1427646190
+9285385,comment,9285095,9285360,0,0,teamhappy,,,"Not happening, because:<p><pre><code>    1. You need facts to back that claim
+    2. $1.3 trillion debt
+    3. Stuxnet et al.
+</code></pre>
+Nobody gains anything from opening that particular door.",1427646161
+9285384,story,,,5,14,biglucy,"Newbie wants to exit Google apps set up email etc.",,"debating if i&#x27;m crazy to think i can set up my own server / email or should depend on outside service.  want privacy seems like it&#x27;s sketchy unless you set up your own server... thoughts?",1427646137
+9285383,comment,9283688,9285108,0,0,mercurial,,,"Sure, but if you&#x27;re using both a read/write master and a hot standby for read-only queries on another machine, you&#x27;re going to need TCP.",1427646122
+9285382,comment,9285004,9285004,0,0,shahocean,,,"I personally use Trello for this. It works well on all my devices and sync immediately when I add any task in it. Also, its very easy to use. Surprising thing is I don&#x27;t pay any single penny for it.",1427646083
+9285381,comment,9282539,9285205,0,0,rquirk,,,"You can speed it up somewhat by tweaking ~/.gradle/gradle.properties and adding org.gradle.daemon=true
+ and org.gradle.parallel=true. That way at least it doesn&#x27;t have to re-read all the build files each time and will run some parts in parallel.<p>The benefit wrt the old Ant-based build is the way it lets you specify 3rd party dependencies. Being able to just add in say Timber, ButterKnife and Guava with a few lines of config, rather than downloading the jars, faffing with paths, making sure the pre-processing bits are in place, etc, is really a big benefit. Maybe Maven would have been a more sensible choice, since Gradle/Groovy seems pretty niche and not really used that much outside Android.",1427646078
+9285380,comment,9285034,9285327,0,0,oneeyedpigeon,,,"It gets better (i.e. readable) when you get to the bit written by Ron Gilbert at the bottom, but there are still some really weird, seemingly random, word insertions, and the whole thing needs a proper edit - shame.",1427646074
+9285379,comment,9284782,9284782,0,0,aaggarwal,,,"Either users will pay with their money or pay with their data (getting ads), else the model is not sustainable. Since, messaging using Internet is being considered here as basic necessity, one could argue that Messaging apps turns to be non-profit organizations or government supported organizations (but anonymous).",1427646062
+9285378,comment,9284226,9285332,0,0,hackedips,,,"Downvoter, why did you down vote this?  What I said is absolutely true.  Sometimes the truth hurts.",1427646053
+9285377,story,,,38,26,enginous,"Aeron: High-Performance Open Source Message Transport [video]",http://www.infoq.com/presentations/aeron-messaging,,1427646045
+9285376,comment,9284688,9284688,0,0,brudgers,,,"To a first approximation, nobody cares. Inside particular segments of the tech community, lots of people care. But the tech community is very small on an absolute scale and its segments even smaller.<p>The other group of people who care are those engaged in ongoing cyber warfare. To them Github is probably not worth defending at the risk of escalating to a wider cyber and economic conflict.<p>Even should US government cyber warefare assets attribute the attack directly to an entity with a direct relationship to 中华人民共和国 diplomatic corps, why would the US deploy assets to protect a company that is knowingly violating 中华人民共和国 policy? Github is neither required nor prohibited from hosting projects that violate 中华人民共和国 foreign or domestic policy. It has made a business decision for business reasons.<p>Don&#x27;t get me wrong, I am not defending 中华人民共和国 policies in regard to the dissemination of information and propaganda [or the US policies regarding the same]. Nor am I criticizing or praising Github&#x27;s business decisions. I am just explaining what I believe is the case, not what I think should or should not be the case.",1427646038
+9285375,story,,,20,9,ulf,"Show HN: Squirrel feeder based on Raspberry Pi",http://blog.ulfster.com/post/114938394419/diy-automated-squirrel-feeder,,1427645984
+9285374,comment,9285076,9285076,0,0,dalke,,,"The question is too open-ended. There are many proposed alternatives to what we have now, and &quot;internet&quot; itself has several meanings. There are technical alternatives (like mesh topologies - <a href=""http://www.theatlantic.com/technology/archive/2014/06/the-promise-of-an-alternative-internet/372501/"" rel=""nofollow"">http://www.theatlantic.com/technology/archive/2014/06/the-pr...</a> - or simply requiring that all communications be encrypted), regulatory changes (eg, regulated essential utility, nationalization of all internet services), and organizational changes (decentralization of sites like Facebook and YouTube).<p>An alternative to the current internet could be that all people who connect to the internet are required to login to a government server, using biometrics and a password from a security token.<p>I feel a lot different about that than a decentralized mesh topology.",1427645970
+9285373,comment,9284672,9284672,0,0,MarcScott,,,"When I was about 15 I had a work experience placement at a local hospital that had a paternoster for staff use.<p>I remember the first time I rode the thing all the way - a complete revolution, and the trepidation I felt, not really knowing what would happen when the lift got to the top.<p>Not to mention the exhilaration of jumping on and off the thing and wondering what would happen if I tripped and my legs got caught.",1427645942
+9285372,comment,9283608,9283859,0,0,crimsonalucard,,,"Sorry shouldn&#x27;t have wrote that. Capital gains represents income a person gains simply from owning an asset. No GDP or work is produced by that person yet by simply owning assets he gets money. Rent is a form of this.",1427645928
+9285371,comment,9284226,9284734,0,0,joshuak,,,"To be clear these are attack vector prevalence relative to each other, and represent &#x27;known&#x27; attack traffic identified by Akamai, not general traffic in these protocols.<p>However, this is no doubt not a complete list of DDoS vectors as it doesn&#x27;t account for application level exploits like demonstrated in the GitHub attacks. And obviously not everything that is a DDoS is a protocol flood.<p>Either there is a way to identify those types of attacks now, or improved attack identification should be included as a requirement for the X-Prize.",1427645905
+9285370,comment,9284803,9284803,0,0,lewisjoe,,,"Here&#x27;s a book that got me started - <a href=""http://www.amazon.in/Practical-Django-Projects/dp/1590599969"" rel=""nofollow"">http://www.amazon.in/Practical-Django-Projects/dp/1590599969</a><p>Practical Django Projects got me started with a simple webapp in around 24 hours.",1427645880
+9285369,comment,9285004,9285004,0,0,Link-,,,"I&#x27;ve been battling with this issue for quite sometime now. I did not find the &#x27;ultimate&#x27; solution (probably because there isn&#x27;t any but self-discipline). One important tool that I found most helpful was `Reminders` on OSX, specifically the fact that I can put an alarm (one-off or recurrent) on each task. Given that Reminders are synced across devices (iPhone, iPad) and are available in the notifications center this helps me a lot when I&#x27;m on the move. One downside of using this method or any other is that your capacity to memorize the due tasks disappears as soon as you write them down. I&#x27;m not sure what&#x27;s the psychological/neurological explanation for this, but it&#x27;s true. If your task list is not that big, your brain is the best way to keep track of them. Otherwise be prepared to skip a few as soon as jot them down.",1427645876
+9285368,comment,9283922,9284117,0,0,Houshalter,,,"2029 is a long way still and I would be surprised if the Turing Test wasn&#x27;t passed. The past few years have had massive progress in AI. A few years ago machine vision was an impossible problem believed to require strong AI, and now we are exceeding humans.<p>Massive progress is being made in natural language understanding too. A number of papers have just come out on using deep NNs to do question answering or conversation.",1427645866
+9285367,comment,9285004,9285189,0,0,teddyh,,,"Nobody keeps track of <i>everything</i> – this would require omniscience.",1427645852
+9285366,comment,9284575,9284575,0,0,lectrick,,,"Had the exact same idea. Never finished it. He&#x27;s on to something here. Take note.<p>This will still force you to run most of the test suite if you make changes to a &quot;god object&quot;",1427645839
+9285365,story,,,2,1,jacquesm,"BBC launches flagship initiative to inspire a new gen. with digital technology",http://www.bbc.co.uk/mediacentre/mediapacks/makeitdigital,,1427645833
+9285364,comment,9283249,9283445,0,0,rhino369,,,"They are cash cows for the universities.<p>The Fed gov gives unlimited loan money to anyone for grad school.<p>And why should they subsidize a degree that is supposed to put into a high paying job. Even if you were poor, you won&#x27;t be after.",1427645830
+9285363,story,,,137,82,pedrocr,"Racing goes electric: At the track with Formula E, the first e-racing series",http://arstechnica.com/cars/2015/03/racing-goes-electric-at-the-track-with-formula-e-the-first-e-racing-series/,,1427645817
+9285362,comment,9284655,9284980,0,0,jessaustin,,,"Congratulations, language software company, you have better SEO than a 2200-year-old stone carving.",1427645806
+9285361,comment,9285128,9285128,0,0,halviti,,,"Considering they have the plaintext passwords and that Uber can&#x27;t identify a breach, it&#x27;s most likely people who re-use the same password and were a victim of another hack (adobe et al.)",1427645797
+9285360,comment,9285095,9285095,0,0,camhenlin,,,"While it&#x27;s nice to see a large news organization reporting the attack, it would still be nice to see a political figure aknowledge that an American company was cyber attacked by the Chinese government",1427645793
+9285359,comment,9284226,9284226,0,0,paradite,,,"Why are there so many condescending comments about &quot;saving the Chinese people&quot;. Ask yourselves, are you really qualified to judge the Chinese people? Have you been to China? Have you been to different parts of China? What are the main sources that you obtain news? Are you reading the &quot;assumptions&quot; over and over again until they are &quot;assumed&quot; as facts? I liked this place when it used to be just about technologies.",1427645787
+9285358,comment,9285004,9285004,0,0,danwakefield,,,"Random Thoughts - Google Keep<p>Events / Anything with a date - Google Calendar, Not a huge fan but haven&#x27;t found anything better.<p>Movies / TV - Combination of Letterboxd and episodecalendar<p>Random Files - Dropbox, Thinking of moving to Google drive though since I dont actually use the sync. Contains a copy of ~/documents and ~/code.<p>Code - Github / Gogs mirror on one of my servers.<p>Email - Yahoo. In the process of switching to self hosted though.<p>Passwords - Lastpass.<p>Everything Else - Just using logical folder structures.
+I.e<p>~/video/movies/unwatched/ or ~/video/tv/keep/Archer/1/Archer.S1E01.mkv",1427645780
+9285357,comment,9281466,9282997,0,0,eventualhorizon,,,"I believe that pilots refer to this as density altitude. It factors greatly into allowable takeoff weight, takeoff distance and ability to climb over obstacles in the takeoff path. Pilots are or should be very aware of the density altitude on very hot days especially at high altitude.",1427645768
+9285355,comment,9284782,9284782,0,0,zanny,,,"> &quot;We&#x27;re trying to create a new type of IT company, one that never focuses on maximising profits, but instead provides value to society,&quot;<p>This is dreadful. The Free software movement has existed for decades and Telegram brings nothing new to the table that Google hadn&#x27;t already a decade ago (open yet crippled protocol, proprietary servers). There is nothing new here, besides the fact that Telegram basically makes no money. Which is also nothing new, since Google Talk and Voice never made money either!<p>I don&#x27;t mind it, because we know the protocol and can reengineer the clients easily in the event they betray their users trust. It is much better than WhatsApp or Skype being a whole-pipe black box. But at the end of the day, XMPP has existed, has improved, and today provides all the features of all these other messaging transports and more, the problem is there is no money to be had in providing an easy signup XMPP service, so nobody advertises them. Which makes Telegram perplexing, because their only valuable resource is their userbase, and they are not directly monetizing it at all. Contrast that with Duckduckgo having an XMPP server @dukgo.com that basically got a blog post and hasn&#x27;t been talked about much since, that I use all the time on all my devices.<p>But fundamentally none of this absolves how stupid all these companies re-implement a wheel poorly (XMPP) because the old wheel is so well known and understood that you can&#x27;t lock people in or profit off the users using it.",1427645742
+9285354,comment,9284226,9285343,0,0,cmpb,,,"Its because the requests aren&#x27;t actually coming from China. China is redirecting worldwide users from Baidu to GitHub. Sorry, I don&#x27;t have the link handy, but it was in that WSJ article on the front page.",1427645725
+9285352,comment,9284226,9284226,0,0,codr4life,,,"1) Fork everything you need.
+2) Fuck up GitHub
+3) Profit?",1427645715
+9285351,comment,9284172,9284172,0,0,Silhouette,,,"Let me first say that I appreciate anyone making an effort to help a friend with modern technologies.<p>However, I can&#x27;t help noticing that when I first used a home ISP, you got some web space thrown as part of the deal, and setting up a first web site would have required only this:<p>1. Write the index.html file.<p>2. Upload it to your ISP-provided server by FTP.<p>3. There is no step 3.<p>This was 15-20 years ago and pretty much universally available free of charge with any residential ISP here in the UK. The most complicated thing would have been getting your own domain name, because that would have required a few more button clicks and a small payment.<p>Sadly, the centralised &quot;build my web site&quot; sites and social networks seem to have taken over, and looking around it seems like today most ISPs no longer offer basic shared web hosting for free as a routine part of their plans.<p>So today, per this article, getting your own site on-line might need all of this:<p>1. Know the most complicated VCS in history.<p>2. Be comfortable with CLI use.<p>3. Have Python installed, just to run a local web server for testing.<p>4. Depend on a third party (GitHub) and all that comes with that (I wonder how many people who advocate GH all the time have actually read what they&#x27;re signing up for).<p>5. Know how to order a domain name from a separate registrar and then how to hook it up to the aforementioned third party.<p>Any one of those things will probably be a huge barrier and a cause of repeated failures and frustrations for anyone who is interested in this kind of help in the first place.<p>Again, I appreciate the effort to help a friend navigate these waters for the first time, but in general I&#x27;m not sure this constitutes progress.",1427645651
+9285350,comment,9285054,9285054,0,0,rsuelzer,,,"Here is a sensationalist article about the upcoming leap second: <a href=""http://time.com/3666522/leap-second/"" rel=""nofollow"">http://time.com/3666522/leap-second/</a>",1427645648
+9285349,comment,9285209,9285209,0,0,pquerna,,,"From a quick read, this looks like more or less a ground-up rewrite of OpenShift?<p>Is anyone a user of 2.x?  How does this feel?",1427645603
+9285348,comment,9283608,9284173,0,0,TheCoelacanth,,,"It&#x27;s one of the few with passable public transportation, and the in the others with passable public transportation (e.g. NYC, DC, Boston), many people who could afford to drive take public transportation.",1427645599
+9285347,story,,,1,0,msanand,"Jekyll Starter: Scaffold a Blog in Seconds with Yeoman",http://anandmanisankar.com/posts/jekyll-starter-scaffold-blog-yeoman/,,1427645596
+9285346,comment,9284688,9285125,0,0,moe,,,"<i>how would a bored teenager somewhere have control over injecting attacks in traffic passing through the &quot;Great Firewall of China</i><p>The same way a 15yr old once took out Yahoo, CNN, eBay, Dell and Amazon: Dedication.<p>Perhaps it&#x27;s even a Chinese activist, looking to draw attention to the firewall or to spark a little diplomatic quarrel with the US?",1427645563
+9285345,story,,,1,0,msanand,"Node.js vs. io.js: Why the fork?",http://anandmanisankar.com/posts/nodejs-iojs-why-the-fork/,,1427645562
+9285344,comment,9283571,9284804,0,0,smarks,,,"Maybe if we get rid of regular expressions we&#x27;ll have one fewer problem. :-)",1427645538
+9285343,comment,9284226,9284226,0,0,SXX,,,"This news about attack make me wonder why isn&#x27;t GitHub just blocked these repositories for all Chinese IPs. It&#x27;s would be logical after they censored certain repositories for Russian IPs:<p><a href=""https://github.com/github/roskomnadzor"" rel=""nofollow"">https://github.com/github/roskomnadzor</a><p>Just in case anyone who try to access repos from Russia get something like that:<p><a href=""http://imgur.com/ytD5VYx"" rel=""nofollow"">http://imgur.com/ytD5VYx</a><p>And no I&#x27;m don&#x27;t support any of this and strictly against any censorship, but still it&#x27;s looks weird why GitHub agree to deal with Russians, but not Chinese.",1427645524
+9285342,comment,9284226,9284898,0,0,RogerL,,,"Please don&#x27;t write such baseless assertions; we are trying to keep the post quality high here.<p>Your other responder works in this field, and I have been on the other side (worked for a company that got this sort of help). We also regularly had the FBI come in and give talks on the sorts of things they were working on in this space.",1427645486
+9285341,comment,9284782,9285315,0,0,harigov,,,"In certain way, cost of doing business has reduced because of cloud service providers. However, network effects and the scale requirements still add up and make it hard for startup&#x27;s to work on their long term vision. It would be nice if computation was similar to electricity. That way, the onus of paying for the services lies on the end users - the more you use, the more you pay. It is more straightforward and startups can sustain paying themselves for few years without having to worry about paying for computation, storage and network.",1427645456
+9285340,story,,,4,4,zupa-hu,"Ask HN: How to find devs for feedback in London",,"I&#x27;m working on a new website builder, aimed at developers, and I wanted sit down with devs to get feedback (invite them for a coffee).
+I talked to almost every developer I know and they all loved it (subscribed for free beta), now I wanted to get feedback from strangers.
+I just moved to London for work so I barely know anyone here. I set out to talk to 100 strangers. With a pace of 1 stranger a week, it would take 2 years.<p>Any ideas would be great on how to shorten this time.
+If you are in London and would enjoy a coffee with me, that would be double great.",1427645436
+9285339,comment,9285141,9285141,0,0,gus_massa,,,"Read also the comment #2, by Lou Jost:  <a href=""https://whyevolutionistrue.wordpress.com/2015/03/29/a-new-and-bizarre-shape-shifting-frog/#comment-1167632"" rel=""nofollow"">https://whyevolutionistrue.wordpress.com/2015/03/29/a-new-an...</a>",1427645410
+9285338,story,,,2,0,danso,"The United States Code Schema and XML",http://uscode.house.gov/download/download.shtml,,1427645404
+9285337,story,,,1,0,jacquesm,"Festos Ants and Butterflies (robotic insects)",http://www.i-programmer.info/news/169-robotics/8433-festos-ants-and-butterflies-.html,,1427645385
+9285336,comment,9284226,9285145,0,0,nick89,,,"> Weird. It could be some test gone wrong, but I still don&#x27;t buy Chinese gov attacking purposely and openly github like that.<p>A &quot;test&quot; that specifically targets two projects that promote anti-censorship. Yeah, that&#x27;s some &quot;test&quot;...",1427645381
+9285335,comment,9282791,9284115,0,0,SSLy,,,"Then why there are no... bouncers to eject them?",1427645362
+9285334,comment,9284782,9285317,0,0,textrmessenger,,,"I agree with everything you said and I think protecting users versus monetizing is a fine line that every field has to work with.",1427645355
+9285333,comment,9284590,9284590,0,0,kovvy,,,"This seems error prone. Any mutation will damage integrity. Translating to amino acid sequences would be more reliable, since they use redundancy to protect against the more likely mutations. You could order the amino&#x27;s by that redundancy - the ordering then also makes it easy to set a desired level of integrity protection by choosing how many amino&#x27;s to use.",1427645322
+9285332,comment,9284226,9284226,0,0,hackedips,,,"The github service is nice, but do you really want to put your [code|website|etc] somewhere that can become inaccessible if some [person|group|criminal|government] decides they don&#x27;t like something about it?",1427645322
+9285331,comment,9283688,9285007,0,0,amirmc,,,"> <i>&quot;But in any real Xen deployment I&#x27;m aware of, Linux is running in dom0 anyway.&quot;</i><p>It&#x27;s still separated from the the domUs via the hypervisor.  So an exploit in one place isn&#x27;t easy to escalate into a breach of the whole system.  This is a <i>security</i> benefit.<p>From the rest of your comment, I get the impression that you care more for speed/convenience (even the post you link to is about speed).  That&#x27;s a perfectly reasonable position and the examples you provide are perfectly valid for different threat models (i.e. running your own trusted code on your own trusted server).  Deployments to the cloud (or large scale teams) do need to consider different threat models.<p>As avsm points out in a sibling comment, you can target numerous back-ends with MirageOS -- meaning that you can compose a system that suits your particular needs.",1427645314
+9285330,comment,9284068,9284851,0,0,joshuak,,,"The owner of the application stack is not always (rarely?) the owner of the host os / vm. While your container may remain vulnerable it&#x27;s the application owners responsibility (and capability) to update the application stack.  In CoreOS security issues at the host level not only don&#x27;t require manual admin intervention, but don&#x27;t even require admin knowledge that there is a security issue or how to solve it to begin with.  The CoreOS deployments do all that work for you.  It&#x27;s even reasonable for non root application maintainers to have permission to do reboots. Immediately and simply removing a HUGE workload for admins.  Plus it alleviates any concern as to how good your admins are at managing security updates.<p>In past OpenSSL security issues many servers could not be patched because of complicated application interaction.  With the CoreOS architecture these issues are mitigated on multiple levels.<p>The old way:<p>VM + Package Manager + application executables = single host system with unknown os and application security issues that are interrelated and may break when patched. Security patches must be known and correctly applied by the admin. Security breach at the application level is equal to full system compromise.<p>The CoreOS way:<p>CoreOS host/vm + Docker + container = isolated fire breaks and a pristine host.  It isn&#x27;t possible to contaminate the host, all applications and application environments are in containers.  The os can safely upgrade on reboot as soon as patches are available without regard for application deployments. Security breach at the application level is isolated to the container, and require additional exploits to escape the container. And of corse kernel level security patches are inherited by all containers.<p>You could apply the CoreOS philosophy to an Ubuntu host for example, but since you are not prohibited from running apt-get at some point on an Ubuntu host the odds of contaminating the host is very high unless you do all the homework of locking out such mistakes.<p>Add to this the CoreOS features (integrated etcd, fleet, docker, systemd, small foot print), and you have a server OS that takes full advantage of what docker enables on the host and application sides.<p>(In my opinion of course.  And just to be clear, I am not an employee of CoreOS.  I&#x27;m genuinely very excited about CoreOS, and use it exclusively as our server OS of choice.)",1427645312
+9285329,comment,9284672,9284672,0,0,theophrastus,,,"Very interesting bit of Victorian engineering, thank you!  I&#x27;m surprised that some scifi fan hasn&#x27;t added at least a small link on that Wikipedia page to the ground-breaking film &quot;Metropolis&quot;, as the &quot;Paternoster Machine&quot; was an recurring symbol there. Its imagined parts forming a lot of the scenes <a href=""http://www.script-o-rama.com/movie_scripts/m/metropolis-script-transcript-fritz-lang.html"" rel=""nofollow"">http://www.script-o-rama.com/movie_scripts/m/metropolis-scri...</a>",1427645305
+9285328,comment,9284782,9285172,0,0,andyidsinga,,,"users could certainly pay ..but through a donation model similar to public radio or maybe Wikipedia. there&#x27;s a carefull line to walk if &#x27;sponsors&#x27; come on board but it&#x27;s possible.",1427645289
+9285327,comment,9285034,9285034,0,0,carbocation,,,"This is an interesting article that I confess I could not finish. I love Monkey Island and some of the details here are interesting, but the writing is so poor that I eventually decided to stop reading.<p>Clearly this is written by someone for whom English is not their primary language, and their English is better than my (probably Mandarin) by far. But this piece could benefit from some heavy copy-editing for readability.",1427645285
+9285326,comment,9250571,9274048,0,0,humanarity,,,"Thanks for that. I don&#x27;t know much about Browsers and W3C, and maybe your idea works.",1427645251
+9285325,comment,9222873,9223338,0,0,Nutella4,,,"There&#x27;s been plenty of affirmative action related to Asian Americans in university admissions.  What often happens is that strict reliance on grades and test scores gives an oversupply of people who are of Asian descent or Jewish and when the university&#x27;s management and alumni see that, they push for affirmative action to get the white Christian men percentages up to a high enough number that the largely white Christian men of the university&#x27;s management and alumni feel comfortable.",1427645235
+9285324,comment,9281466,9282104,0,0,shoesandsocks,,,"graycat, my dad was one of those first pilots. Thanks for posting about this; makes me nostalgic. (Did you have stacks and stacks of those styrofoam punch-out planes around the house, too?)",1427645231
+9285321,comment,9283608,9283856,0,0,crimsonalucard,,,"Think about the lifestyle we have today. If I live on the farm and work on the farm then yes it&#x27;s cheaper. But I&#x27;m talking about suburbia, in which most people live outside the city but drive into the city to work everyday. That&#x27;s a huge energy cost that can only be paid for through oil.<p>Perhaps this statement is more clear: Due to cheap oil this is the only time in history where living outside the city and driving miles and miles to work everyday is cheaper then living in the city right next to work.",1427645170
+9285320,comment,9284782,9285234,0,0,harigov,,,"Messaging is important because it provides a person-to-person communication platform for arbitrary data. It blends in the rich interaction capabilities offered by internet with more personalized and free-form interaction offered by telephones or personal visits. Sending text messages to each other is only the first step. One can perform any kind of communication on top of messaging with proper apps. You can charge for these value added services and generate reasonable revenue.",1427645104
+9285319,story,,,35,4,ca98am79,"Twitter Data Mining Reveals the Origins of Support for Islamic State",http://www.technologyreview.com/view/536061/twitter-data-mining-reveals-the-origins-of-support-for-islamic-state/,,1427645104
+9285318,comment,9284782,9285243,0,0,learnstats2,,,"The cost of storing and transporting e-mail is potentially so low that I would claim you are overpaying Google.",1427645063
+9285317,comment,9284782,9285280,0,0,caoilte,,,"Nobody sets out to do evil but until he creates an ownership structure which prevents himself from cashing in once he&#x27;s won everyone&#x27;s trust this is just an underdog doing whatever it takes to attract customers.<p>To be succinct, one day he will sell out and the buyers will have every incentive to make money out of their users.",1427645058
+9285315,comment,9284782,9285304,0,0,textrmessenger,,,"I think that is a good point. For start-ups who are interested in making messaging services, I wonder what Durov&#x27;s recommendation would be as far as financials go. One has to be able to support the team they are working with and there are few people out there who can take the route Durov has due to his financial freedom.",1427645023
+9285314,comment,9238839,9239430,0,0,batraatin,,,"Would love to help!
+@batraatin, Hong Kong",1427645011
+9285312,comment,9284226,9285145,0,0,Matumio,,,"I agree it seems to be a stupid move for a government, and maybe someone else has gained access to the right routers. But &quot;some test gone wrong&quot;? You can&#x27;t be serious. This is a carefully targeted attack and includes packets that can&#x27;t be generated from a web browser.",1427644972
+9285311,comment,9284782,9285234,0,0,learnstats2,,,"The marginal cost of messaging is low enough that phone companies are happy to offer you an incredibly low cost per formerly-private communication (landline or mobile).<p>while the marginal cost of e-mail is so low that we get tonnes of spam.<p>Who needs to pay anything more? We already pay for the infrastructure.",1427644942
+9285310,comment,9284672,9284672,0,0,lordnacho,,,"The parliament in Copenhagen has them:<p><a href=""https://www.youtube.com/watch?v=lO3i8LxewUk"" rel=""nofollow"">https://www.youtube.com/watch?v=lO3i8LxewUk</a><p>Unfortunately no politicians have been killed in them yet.",1427644937
+9285309,comment,9284782,9285227,0,0,unicornporn,,,"> Encrypted by default<p>However, it does not use the end to end encryption &quot;by default&quot;.<p>Relevant: <a href=""https://www.haystacksoftware.com/blog/2014/10/its-not-about-the-encryption-its-about-the-encryption-keys/"" rel=""nofollow"">https://www.haystacksoftware.com/blog/2014/10/its-not-about-...</a>",1427644923
+9285308,comment,9285004,9285004,0,0,thirdtruck,,,"A YAML file, edited in vim and reported on by Ruby scripts. Seriously. Here&#x27;s a sample:<p><pre><code>  date: XXMar2015#                                                                                                       
+  IWT at gym:                                                                                                            
+   tasks: [atx]    #                                                                                                    
+   time estimate: &quot;1.5 hours&quot;                                                                                            
+  Mail processing:                                                                                                       
+   pomodoros: [ax, ax, ax, ax]                                                                                           
+   tasks:                                                                                                                
+    Review unsent drafts: [atm]                                                                                          
+  Move prep:                                                                                                             
+   pomodoros: [ux]                                                                                                       
+  Taxes:                                                                                                                 
+   time estimate: &quot;1.0 hour&quot;                                                                                             
+   tasks:                                                                                                                
+    Download and send W2: [atx]</code></pre>",1427644922
+9285307,comment,9284672,9284987,0,0,achamayou,,,"Wheelchairs, prams, crutches etc.",1427644917
+9285306,comment,9284803,9285134,0,0,cageface,,,"I&#x27;d second this. Using the Cloud9 development environment eliminates the hassle of setting up a local dev environment, which can be a major road block for beginners.",1427644914
+9285305,comment,9284782,9285234,0,0,avalaunch,,,"It wasn&#x27;t left out.  You must have missed it.<p><i>Will he continue to bankroll the business -- or does he see revenue opportunities? &quot;We will become financially sustainable at some point,&quot; he says. &quot;It will most likely involve third-party paid apps built on the Telegram platform.&quot;</i>",1427644911
+9285304,comment,9284782,9285280,0,0,harigov,,,"You can always say that the messaging app itself isn&#x27;t making money but the underlying technology is.",1427644905
+9285303,story,,,1,0,normalocity,"RailsChallenge: Official Rules announced",http://railschallenge.com/official-rules/,,1427644896
+9285302,comment,9264531,9268304,0,0,mastazi,,,"Yes I&#x27;ve been reading a bit about GCC and yes, turns out I was very wrong. I&#x27;m sorry that my comment sounded overly critical, I was actually trying to defend JS and opposing the idea that somehow &quot;we need to fix JS&quot;. Having said that, I can see why there exists a need for &quot;compiling&quot; from other languages to JS - the latter being the only alternative when it comes to running code in a browser - even though personally I consider it unnecessary overhead.",1427644895
+9285301,story,,,1,0,chernevik,"Cloud Providers and China Censorship",http://www.wsj.com/articles/u-s-cloud-providers-face-backlash-from-chinas-censors-1426541126,,1427644887
+9285300,comment,9284172,9285093,0,0,Swizec,,,"Obviously the fault lies with me. The problem I&#x27;m having is exactly the question I opened with: where do you draw the line? <i>How</i> do you draw the line?<p>At what point do you say &quot;You know what, a beginner should know this&quot;? Or whatever the specific level you decide to teach at.<p>Personally I try to teach at levels above beginner. This only makes the line blurrier because there&#x27;s no clear divide between someone who kinda knows his stuff and someone who&#x27;s an expert. It&#x27;s the same problem as putting rocks in the same place. At what point does a bunch of rocks become a pile?<p>Same here, at what point does a total beginner become just a beginner? When do they become not a beginner? What turns them into someone who kinda knows what they&#x27;re doing? At what point do they become &quot;actually kinda good&quot;?<p>For instance: my mum can accomplish all her work tasks with a computer. But she has no conceptual idea of what is a file. She thinks in documents and she only knows how to open documents by going through the app she created them with. The attachments in her email are a completely different world than the ones she creates with Word directly. I once blew her mind by showing her that she can use Word to open something that was sent to her via email.<p>How would you teach her how to make a dynamic HTML5 JavaScript app? Or would you suggest some basic computer use classes first?<p>Or, for another example, my girlfriend always gets frustrated with me because I can&#x27;t just &quot;Explain How Everything in Computers Works. How Does a Source File Turn Into A Working App?&quot; in under five minutes. How do you even begin answering a question like that? Do I claim magic, or start with turing machines and work her way up to formal grammars and compilers? She&#x27;s asking a question so far beyond her understanding that I don&#x27;t even know how to begin answering.",1427644887
+9285299,comment,9283249,9283249,0,0,paparush,,,"My son goes to UNC Chapel Hill.  He was his high school&#x27;s valedictorian and had excellent SAT&#x27;s.  He won an academic scholarship (The Johnston) that has a needs based criteria as well.  My wife (she&#x27;s disabled and receives Social Security Disability) earn less than $100K.  Based on our income, our son&#x27;s scholarship is whittled down to all of $1000.00 per semester.  I&#x27;m paying nearly $9,000.00 per semester so he can graduate with no loans.",1427644883
+9285298,story,,,1,0,adamzerner,"Life Is a Picture but You Live in a Pixel",http://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html,,1427644882
+9285297,comment,9284803,9285151,0,0,abhinovb,,,"True, I started using it few days. Absolutely brilliant framework for beginners.",1427644858
+9285296,comment,9284782,9285227,0,0,aw3c2,,,"Encrypted with their home-grown crypto. Telegram is not fully free and open source. Encryption by default? That has to be new, it was not when I recently checked. And of course there is <a href=""http://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest"" rel=""nofollow"">http://www.cryptofails.com/post/70546720222/telegrams-crypta...</a><p>Use Signal/Textsecure, folks.",1427644855
+9285295,comment,9283922,9285278,0,0,wpietri,,,"Oh, and I encourage everybody to come by The Interval: <a href=""http://theinterval.org/"" rel=""nofollow"">http://theinterval.org/</a><p>The Long Now for years had a little museum space that got only a modest number of visitors. But conversation about the long term is their goal, and they realized that coffeehouses and bars are where a lot of good conversation happens, so they converted the museum into a cafe during the day and a bar at night.<p>If you&#x27;re ever in San Francisco, it&#x27;s a great nerdy tourist stop. It&#x27;s in Fort Mason, on the north edge of San Francisco between Fisherman&#x27;s Wharf and the Golden Gate Bridge.",1427644833

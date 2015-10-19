@@ -1,0 +1,59 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16373,comment,16363,16371,0,0,jkush,,,"Give them a private key they can append to the RSS url request? They can use that private url to pull out stickies that are for their eyes only.<p>Example:
+www.studystickies.com/rss/privatekey<p>As far as having an export format, if you target specific apps/services then you'd have a better idea of what format to use, since it would be a format those apps/services would support.<p>",1177433995
+16372,comment,16284,16284,0,0,far33d,,,"Marshall: What's the new startup you funded from the Kiko team?<p>Paul: I can't say yet, but it is certainly the most entertaining idea we've ever funded. In fact, insane might be a better word. But it's what they wanted to do.",1177433976
+16371,comment,16363,16366,0,0,amichail,,,"Users may specify some of their stickies to be private, so how would that work with RSS?<p>Also, it would be desirable to have an export format that the user can easily edit and perhaps even import into some other app/service.",1177433748
+16370,comment,16006,16006,0,0,erdos2,,,"I'd recommend reading Knuth's TAOCP. <p>Example: Knuth introduces the Grey code permutation of the natural numbers in The Art of Computer Programming, Volume 4 Fascicle 2, Generating All Tuples and Permutations (2005). Knuth gives the following equations defining Grey code sequences of length 2^n<p>    G_0 = ()   [the empty list]<p>    G_{n+1} = 0G_n 1G_n^R<p>where 0G_n means prepend 0 to everything in the list G_n,
+and G_n^R means reverse the list G_n, and juxtaposition is concatenation of sequences. Successive elements of the list differ in precisely one bit position: this is obvious inductively, since if G_n does, so do 0G_n and 1G_n^R, and since the last element of G_n is the first element of G_n^R, the last element of 0G_n differs from the first element of 1G_n^R in the first digit. So this is a Grey code. <p>
+We get<p>G_0 = ()<p>G_1 = (0 1)<p>G_2 = (00 01 11 10)<p>G_3 = (000 001 011 010 110 111 101 100)<p>...
+ <p>The sequence of G_n's induces a map g:N-->N
+recursively by<p>    g(0) = 0<p>    g(k) = 2^n + g(2^n -1 - r)<p>    for k = 2^n + r with 0≤r<2^n, <p>Here's an algorithm in Lisp for the function g.<p>The function MSB below kills off everything but the high-order bit of the binary representation of a non-negative integer.<p>(DEFUN MSB (n)
+   
+   (LET (( x (LOGAND (- n 1 ) n)))
+   
+     (COND ((EQUAL x 0) n)
+   
+        (T (MSB x)))))<p>The MSB can be used to compute the Grey permutation 
+GREY:N-->N<p>   (DEFUN GREY  (n)
+      
+      (COND
+      
+          ((= n 0) 0)
+       
+          ((= n 1) 1)
+        
+          (T (LET ((x (MSB n))) (+ x (GREY (- (- x 1) (- n x))))))))<p>
+Restricting the domain and range of the GREY map to [0, 2^n -1] is a (well-defined) permutation; for example:<p>CL-USER> (MAPCAR #'GREY '(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15))<p>(0 1 3 2 6 7 5 4 12 13 15 14 10 11 9 8)<p>And for fun, in my CMU common lisp system (under SLIME,
+the Superior Lisp Interpretation Mode for Emacs):<p>CL-USER> (GREY 192873918237981273981279381729837127365712653712301098
+102938891278389123112340983748920192834783201982374839201293874839201
+982374893029872839409281729304983729102983748937291802357893465475648
+576478658379128347635847658376485736451056105616516506105874568365836
+503856836487134783748374817302893017308238713702873028730817387283462
+864875387568475683756837458476583765847658376583746583764857364857638
+4756387465837465917594857)<p>286196834290309414650371370191599291822213999612489335464107566352602
+435648412184492184118063912008181215334900454318743739932993272952760
+387272995403870156929179002537545706221256001587464111519239740005353
+408236614872495338180309330035229762434762038407959020204331793558334
+836843659189298641925497207483471043513624920173604726882678415424392
+178475727939609277383096934996157278859779639219997432292981867624407
+5270836893<p>Much larger numbers can be handled.",1177433442
+16369,comment,16331,16365,0,0,sabat,,,"Python is only four years older than Ruby. The rest ... YMMV.",1177433440
+16368,comment,16265,16265,0,0,far33d,,,"It looks a lot like the yc site.",1177433350
+16367,story,,,1,0,danw,"What the Bubble Got Right",http://www.paulgraham.com/bubble.html,,1177433274
+16366,comment,16363,16364,0,0,jkush,,,"RSS. 
+",1177433248
+16365,comment,16331,16331,0,0,damien,,,"I agree with him that Python is more useful right now as a general programming environment... mainly because it's been around longer, it's a more mature and stable platform, has better libraries in general, better performance, etc.",1177433222
+16364,comment,16363,16363,0,0,amichail,,,"I would like to add an export feature to Study Stickies:<p><a href=""http://studystickies.com"">http://studystickies.com</a><p>It's unlikely that many people would use this service much if there's a chance they could lose their data. So an export feature is critical.<p>I was thinking of HTML since the stickies can have HTML tags in them.  However, I recently added a math mode that uses TeX syntax. So stickies can be a mixture of HTML and TeX.<p>Any suggestions on a good export format?<p>",1177433103
+16363,story,,,1,5,amichail,"How would you export users' data in a note taking service?  Which format would you use?",,,1177432968
+16362,comment,16270,16348,0,0,mojuba,,,"One thing that comes to mind is the ability to ""lock"" (grab, block - whatever) ideas. Someone decides to implement an idea and posts a special comment that says, ok, I take it, and gives a web site address where it's supposed to happen. The ""locker"" may get back and edit that comment, and possibly trigger an ""implemented"" status for that idea.",1177432859
+16361,story,,,2,0,entrepreneur,"What is a Niche Expert?",http://mindfulentrepreneur.com/blog/2007/04/24/what-is-a-niche-expert/,,1177432805
+16360,story,,,12,2,mattculbreth,"Google releases code for MySQL enhancements",http://google-code-updates.blogspot.com/2007/04/google-releases-patches-that-enhance.html,,1177432726
+16359,comment,16358,16358,0,0,jkush,,,"I know this is way off topic but every time I see that pic on his blog, I become unnerved. I'm not sure he's a real person.  He's kind of plastic looking. It's almost like he's Steve Ballmer's avatar. ",1177432644
+16358,story,,,5,11,mattculbreth,"First, second, or third is great--anything else and you have problems",http://dondodge.typepad.com/the_next_big_thing/2007/04/1st_2nd_or_3rd_.html,,1177432494
+16357,comment,16284,16332,0,0,BrandonM,,,"Yeah, it was actually submitted here before.",1177432303
+16356,story,,,2,1,jcwentz,"VentureBeat: Creating a killer team",http://venturebeat.com/2007/04/17/creating-a-killer-team/,,1177431953
+16355,story,,,3,2,pg,"major labels: the problem with music",http://www.arancidamoeba.com/mrr/problemwithmusic.html,,1177431828
+16354,comment,16341,16350,0,0,nostrademons,,,"It is, apparently.  I've switched to SendSpace ( <a href=""http://www.sendspace.com/"">http://www.sendspace.com/</a> ), and there's also MegaUpload ( <a href=""http://megaupload.com/"">http://megaupload.com/</a> )",1177431347
+16353,comment,16352,16352,0,0,pg,,,"Though the article is recent, they've been doing this for a long time.",1177430944
+16352,story,,,3,3,dpapathanasiou,"Landlords who also want to be your Investor, start a VC Fund (a sign that the Bubble is Back?)",http://venturebeat.com/2006/03/17/amidzad-the-rug-merchants-turned-venture-capitalists/,,1177430738
+16351,comment,16331,16331,0,0,jamongkad,,,"Funny thing his blog is written in Ruby hehehe but seriously it's good to see that someone is hitting a wall. Never knew it was the runtimes fault that led to issues.",1177430529

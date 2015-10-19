@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2607,comment,2602,2602,0,0,danielha,,,"I love this idea. My co-founder and I were working on something similar a while ago before deciding to pursue our next idea.<p>Scribd's implementation is absolutely top-notch. I'm very excited for them, especially knowing that our ideas are shared by some other clever folks. ",1173214600
+2606,comment,2605,2605,0,0,mytreo,,,"Is anyone else here looking to be a webmaster for a website or looking for a website to work on, post what you are looking for and your email. ",1173214377
+2605,story,,,1,1,mytreo,"Looking for webmasters post what your looking for here ",,,1173214304
+2604,comment,2598,2599,0,0,brett,,,"On second thought you might be able to do it here if you scraped the fnid before you rendered your page. I have not tried it so I don't know if the fnids are user specific, if not it should work. ",1173212378
+2603,story,,,7,0,jrbedard,"London FOWA 2007, MP3s and Presentations (Kevin Rose, Mike Arrington and others)",http://www.futureofwebapps.com/,,1173212218

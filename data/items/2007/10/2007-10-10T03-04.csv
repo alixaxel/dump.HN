@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+65636,comment,65566,65620,0,0,rms,,,"When I want to immediately engage in a financial transaction, I always click on the Google ads because I know there I will find someone selling me something rather than useful pure information",1191988565
+65635,story,,,2,0,bootload,"Google & IBM giving students a distributed systems lab using Hadoop",http://radar.oreilly.com/archives/2007/10/google_ibm_give.html,,1191988519
+65634,story,,,2,1,tzury,"MacBook With Gold and Diamonds -- Best Seller @ HipPop Community",http://www.computer-choppers.com/,"24kt Gold Macbook Pro Finished",1191988511
+65633,story,,,1,0,bootload,"Maxed out on social software",http://radar.oreilly.com/archives/2007/10/maxed_out_on_so_1.html,,1191988457
+65632,comment,65310,65310,0,0,bootload,,,"Just occurred to me after reading this article, (<i>""Google plans software, not phone""</i> ~ <a href=""http://www.australianit.news.com.au/story/0,24897,21432315-15321,00.html"" rel=""nofollow"">http://www.australianit.news.com.au/story/0,24897,21432315-1...</a> ) that Jaiku could be part of the google software.",1191988121
+65631,comment,65565,65565,0,0,axiom,,,"I've seen 4 or 5 of these power suits coming out of academia in Japan. There seems to be a ton of research aimed at the rapidly aging population there. Definitely a business opportunity.",1191988048
+65630,comment,65563,65563,0,0,aston,,,"I think last time me and my buddies applied, I left the main idea part blank, then threw like 15 into the ""anything else"" section. Didn't get an interview, but did get a little bit noticed.",1191988008
+65629,comment,65566,65620,0,0,aston,,,"Basically. Although, for what it's worth, some users do understand the concept of a Sponsored Link and prefer to click them over organic (aka 'computerized') results. Something about trusting someone more if they're willing to put money into the advertisement.",1191987823
+65628,comment,65622,65622,0,0,planetbeing,,,"Knee-jerk reaction: And make it even SLOWER?",1191987711
+65627,comment,64085,65267,0,0,nostrademons,,,"Gmail doesn't: <a href=""http://news.ycombinator.com/item?id=56768"" rel=""nofollow"">http://news.ycombinator.com/item?id=56768</a>.  Dunno about Calendars or Reader.",1191986742
+65626,comment,65327,65577,0,0,AaronS,,,"You join YC so you will be able to tell stories about how pg supplied you with cup-o-noodles for several months in exchange for 6% of your company.<p>It's like the story in the Bible where Esau sells his birthright for a bowl of lentils. Genesis 25: 30-34",1191986466
+65625,comment,65563,65588,0,0,SwellJoe,,,"Ah, yes.  Now that you mention it, I remember it clearly (OK, not really clearly, but I do remember it).  Of course, that makes me wonder how much can be gleaned from the application without an idea.  But pg knows his business far better than I do.",1191986035
+65624,comment,65582,65582,0,0,samwise,,,"took about 15-20 min to fill out application. would be cool to be accapted but not the end of the word if not. i think many of you rely way too much on YC. If you truly have a good idea and good team you can make work without YC and/or any funding. in any case, good luck",1191985614
+65623,comment,65530,65530,0,0,ALee,,,"Project Agape who is behind the Causes Facebook app uses the following:<p><pre><code>    *  mySQL 5.0
+    * Ruby on Rails
+    * 14 application servers, 2 database servers and 5 boxes in reserve
+    * 3 Image Servers (2 Squid, 1 image source)
+    * Apache 2 on Image Source
+    * WebApp servers have 2GB of ram
+    * 1 server for serving static content
+    * 26 Mongrel services per box
+    * 4 GB of RAM per box
+    * 50 - 60 MB of RAM per Mongrel service for a total use of around 1.5 GB of memory set aside for Mongrel
+</code></pre>
+Additional:<p><pre><code>    * A pair of F5 Loadbalancers
+    * All systems running FreeBSD 6.2
+    * memcached
+    * nginx (not pound)
+</code></pre>
+Specific Rails technologies used: nginx (not pound), Evented Mongrel, squid
+From: <a href=""http://www.nonprofittechblog.org/interview-with-joe-green-and-chris-chan-of-project-agape"" rel=""nofollow"">http://www.nonprofittechblog.org/interview-with-joe-green-an...</a>",1191985453
+65622,story,,,2,1,brett,"Getting started with Rubinius",http://redartisan.com/2007/10/5/rubinius-getting-started,,1191985236

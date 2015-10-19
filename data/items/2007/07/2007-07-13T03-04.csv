@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33967,comment,33660,33785,0,0,gibsonf1,,,"Just curious: why are you in Tokyo?",1184299092
+33966,comment,33947,33947,0,0,snoopdogg123,,,"Can't wait for the initial release!
+",1184297352
+33965,comment,33886,33957,0,0,Jd,,,"After some reflection, I suppose my only hesitation with this method is that it locks one into dealing with the comments in a particular way, whereas the lisp model I outlined is easily adaptable to a variety of schemas.  <p>However, I'm not sure how else one would want to model things.  Must think more...",1184295761

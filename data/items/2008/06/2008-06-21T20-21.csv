@@ -1,0 +1,52 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+223855,comment,223708,223708,0,0,icky,,,"Last I checked, hostgator's own host is The Planet.  Go directly to them, if you're going to go that route.<p>There's no sense in having your customers have to wait through a chain of three companies (counting yours) before their support tickets get resolved.",1214081992
+223854,comment,223846,223846,0,0,PieSquared,,,"Yup, I'm still studenting, and have a long way to go. I wonder if all these start-up opportunities and communities will still be around when I finish college...",1214081968
+223852,comment,223769,223839,0,0,PieSquared,,,"Hey! That's what I was about to say. Actually, my exact comment was about to be, ""This isn't hacker news no matter how you look at it, but it's pretty interesting nonetheless.""<p>Somehow we'll need to find a balance between what is interesting but isn't hacker news - sometimes, non-hacker news is interesting enough to deserve a place here, although most of the time it isn't. Or maybe we can just say, for the sake of safety, that anything non-hacker related is inappropriate? Not sure about that.",1214081831
+223851,comment,,223846,61,0,sah,,,Other,1214081321
+223850,comment,,223846,126,0,sah,,,"Going to school",1214081321
+223849,comment,,223846,251,0,sah,,,"Working at an established company",1214081321
+223848,comment,,223846,114,0,sah,,,"Working at a startup",1214081321
+223847,comment,,223846,182,0,sah,,,"Founding a startup",1214081321
+223846,story,,,65,52,sah,"Poll: What are you doing full-time?",,,1214081321
+223845,comment,223758,223804,0,0,dhuck,,,"5000 hours just to get the thing in the air - kind of ruins the whole thing from a purely cost advantage perspective. Just imagine what you could build in 5000 hours...<p>Not to take any credit from this guy at all. He deserves mad props (heh heh) for this project. Truly a hacker in every sense of the word.",1214081230
+223844,comment,222424,222726,0,0,pkaler,,,"Actually, yes.  I used to work on games for Sony.  So, I add people on XBox Live and PlayStation Network.<p>And Twitter is actually valuable based on the people that you follow.  A ton of my friends work in the mobile space and push location info to Twitter.",1214081200
+223843,story,,,3,0,markbao,"Social Media Strategy - Aligning Goals and Measurements",http://www.chrisbrogan.com/social-media-strategy-aligning-goals-and-measurements/,,1214080825
+223842,story,,,2,0,sah,"JSqueak - Smalltalk interpreter written in Java",http://news.squeak.org/2008/06/21/jsqueak-smalltalk-interpreter-written-in-java/,,1214080777
+223841,comment,223654,223831,0,0,BrandonM,,,"<i>WTF? Why doesn't the new repr(1L) return ""1L""? I thought the whole point of the repr custom was to output something that would regenerate the same object.</i><p>Because there's no such thing as 1L anymore. There is one unified (unbounded) integer, and I believe the C implementation will use int to represent small values and long when necessary (and list of long beyond that?).<p><i>Are they going to abandon the 'Format %d:%s"" % (n, s)' or just add PEP 3101? The % syntax is down-and-dirty practical good. PEP 3101 is neat, but printf() syntax is tough to beat.</i><p>I'm a little worried about this as well. I just wrote a ctemplate module that leverages % syntax a lot, so it would be quite unfortunate to see it disappear.<p>In other words, you could write code like:<p><pre><code>  char * months[%(len(pyvar_months))d];
+</code></pre>
+My module uses string interpolation on this file, but it defines a special class with a __getitem__ method that instead of simply returning the associated string (as a dict would), it evaluates an arbitrary Python expression. And it works! It's pretty cool to be able to mix C and Python in this way to more easily write C code.<p>That may seem minor, but I've used the same framework to be able to say:<p><pre><code>  %(array; char *; months; ['""%s""' % (mo,) for mo in pyvar_months])s
+</code></pre>
+Assuming that pyvar_months is<p><pre><code>  [""January"", ""February"", ""March"", ..., ""December""]
+</code></pre>
+(in Python), the automatically-generated C result will be:<p><pre><code>  /* header file */
+  extern char * months[12];
+
+
+  /* C file */
+  char * months[12] = {
+      ""January"",
+      ""February"",
+      ""March"",
+      ...,
+      ""December""
+  };
+</code></pre>
+Okay, sorry to go so off topic, but I really wanted to show that it's possible to use the current string interpolation functionality to do really cool stuff, and it would be a shame to see that change.",1214080662
+223840,comment,223820,223820,0,0,alaskamiller,,,"It works when you have the money to buy up better talent.<p>Zoho is the best example of this. They're based entirely on outsourced development.",1214080529
+223839,comment,223769,223769,0,0,LogicHoleFlaw,,,"This is Not Hacker News.",1214080375
+223838,comment,223621,223621,0,0,alaskamiller,,,"Oh, hey, yet another fluffy rant. Thanks.",1214080341
+223837,comment,223606,223606,0,0,PieSquared,,,"I think OpenID may be a good choice, especially as more sites begin to support it. Take a look at ClickPass, it seems promising, though I suppose you should offer a normal sign up too.",1214080207
+223836,comment,223708,223708,0,0,alaskamiller,,,"Hosting reselling is an old form of marketing. Welcome to the Internet!<p>As for is it worthwhile? Well, how many friends do you know? If you have a big social network and can convince them then yeah, you can make some money off of it. A buddy of mine started reselling hosting packages from a tier 2 service provider and slowly graduated into buying his own racks and providing better products. It's enough to get him a house and a comfortable living but it also took him 5 years of hustling and bustling and a friends and moderators of a tech-oriented web forum to continuously market for him.<p>If you scour the forums, it's typical that you'll find ads for them as well. And as for the guy that said you'll be fielding the tech questions: that's really true. Some service providers will be doing that for you, it depends on who you pick to partner with.<p>Should you get into it? Only if you do a bit more research than just pitching a question on Hacker News.<p>Suggestions on where to start:<p><a href=""http://www.webhostingsearch.com/reseller-web-hosting.php"" rel=""nofollow"">http://www.webhostingsearch.com/reseller-web-hosting.php</a><p><a href=""http://www.devshed.com/reseller-web-hosting"" rel=""nofollow"">http://www.devshed.com/reseller-web-hosting</a><p><a href=""http://www.thehostingnews.com/"" rel=""nofollow"">http://www.thehostingnews.com/</a>",1214080094
+223835,comment,223708,223708,0,0,Jasber,,,"As everyone points out, web hosting in general is very crowded. That being said I've seen plenty of hosts thrive in the reseller market.<p>One suggestion is don't compete on price. You'll never win. Find something else like quality or customer service.<p>I personally use a reseller account because I like not having  to worry about server security. Plus I can host multiple websites and friends/family at little to no cost.",1214079920
+223834,comment,223820,223820,0,0,vikas5678,,,"Well,IMO while its really unsafe to have everything developed outside, certain tasks not related to core functionality of your product, maintenance work, etc is best delegated. 
+However, I'd rather find freelancers to outsource to, than whole companies.",1214079906
+223833,comment,211045,211321,0,0,jdanieli,,,"It unnecessarily adds another step before the application starts for the first time. Simplicity wins.",1214079858
+223832,comment,223708,223708,0,0,stoic,,,"It can be worthwhile, but there are a couple of different types of hosting resale that you could consider, apart from web hosting. It may be more economical for you to rent a low-end dedicated server (Celeron etc) and a control panel license, and then resell service from there. However, Hostgator might provide an all-in-one solution for you to use (billing, automatic setup, etc), which may simplify the process.<p>I personally won't allow any money to ride on a machine to which I do not have root. :)",1214079651
+223831,comment,223654,223654,0,0,bkovitz,,,"WTF?  Why doesn't the new repr(1L) return ""1L""?  I thought the whole point of the repr custom was to output something that would regenerate the same object.<p>Are they going to abandon the 'Format %d:%s"" % (n, s)' or just add PEP 3101?  The % syntax is down-and-dirty practical good.  PEP 3101 is neat, but printf() syntax is tough to beat.<p>OK, the first screenful or so scared me.  The rest looks like clear-cut improvements.<p>So far, I've loved Python's balance between simple purity and down-and-dirty pragmatism.  I sure hope they don't shift too far toward purity.",1214079405
+223830,comment,223820,223820,0,0,gaika,,,digg,1214079186
+223829,comment,223793,223793,0,0,pierrefar,,,"Control the username/email and password and ensure that the password is very strong. We're talking about money here, so it's best that you control access as much as possible.",1214079143
+223828,comment,223021,223021,0,0,snowmaker,,,"""...you should prevent your beliefs about how things are from being contaminated by how you wish they were. Most people let them mix pretty promiscuously."" -PG",1214078887
+223827,comment,223654,223736,0,0,lolb,,,"Instead of writing Python 3000, they shoulda written another Haskell!!",1214078577
+223826,comment,223654,223709,0,0,bkovitz,,,"Sometimes, I just want to pass a function to a function.  And sometimes, I want to just say, very concisely, ""do this"", without giving a name to ""this"".",1214078562
+223825,comment,223654,223763,0,0,anewaccountname,,,"<p><pre><code>    In [1]: hex(-True)
+    Out[1]: '-0x1'</code></pre>",1214078441

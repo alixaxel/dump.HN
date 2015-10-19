@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+14981,story,,,3,0,gibsonf1,"Ubuntu 'Feisty Fawn' released, hit by traffic",http://news.com.com/Ubuntu+Feisty+Fawn+released%2C+hit+by+traffic/2100-1016_3-6177641.html?tag=nefd.top,,1177052087
+14980,story,,,1,0,gibsonf1,"Mozilla Thunderbird 2 takes flight",http://news.com.com/Mozilla+Thunderbird+2+takes+flight/2100-1012_3-6177557.html?tag=nefd.top,,1177051879
+14979,story,,,8,6,gibsonf1,"The scary math behind Web 2.0",http://news.com.com/8301-10784_3-9710510-7.html?tag=nefd.aof,,1177051743
+14978,comment,14891,14891,0,0,jaggederest,,,"I'm planning on doing something fun with this in the next couple of months.<p>I think the ideal app here is a high-throughput, small-message app. Seems like I need to make a twitter clone...",1177051651
+14977,story,,,1,0,gibsonf1,"Dell brings back XP on home systems",http://news.com.com/Dell+brings+back+XP+on+home+systems/2100-1046_3-6177619.html?tag=nefd.lede,,1177051599
+14976,story,,,1,0,gibsonf1,"Yoono jumps into group annotation fray",http://www.webware.com/8301-1_109-9710730-2.html?tag=blog,,1177051384
+14975,comment,14894,14894,0,0,wammin,,,"If you're planning on upgrading ... might want to wait a couple days. The update servers are slammed right now. It too me 12 hours to download some 1400 update packages (from 6.10). Though I'm happy to report that the update went very smoothly.
+",1177051342
+14974,story,,,3,0,gibsonf1,"Google 1Q Profit Rises 69 Percent",http://biz.yahoo.com/ap/070419/earns_google.html?.v=15,,1177050781
+14973,comment,14957,14957,0,0,inklesspen,,,"Vote up if you would like people to stop misusing karma voting for polls.",1177050447
+14972,comment,14605,14605,0,0,rektide,,,"mmap of course?
+",1177049628
+14971,comment,14605,14616,0,0,dfranke,,,"From ""The Other Road Ahead"":<p>""When you have the users on your server, you don't have to rely on benchmarks, for example. Benchmarks are simulated users. With server-based software, you can watch actual users. To decide what to optimize, just log into a server and see what's consuming all the CPU. And you know when to stop optimizing too: we eventually got the Viaweb editor to the point where it was memory-bound rather than CPU-bound, and since there was nothing we could do to decrease the size of users' data (well, nothing easy), we knew we might as well stop there.""<p>Couldn't you have done better if, instead of keeping all hash entries in memory, you kept them on disk and used memory as an LRU buffer?  It seems like you could have fit more users on a server that way.",1177049117

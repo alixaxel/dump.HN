@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+101198,story,,,7,3,baha_man,"The Huff [""How to lie with statistics""]",http://www.badscience.net/?p=605,,1200830112
+101197,comment,100838,100910,0,0,marcus,,,"Because ignorance is bliss.",1200829333
+101196,comment,100838,100996,0,0,marcus,,,"I think you missed Daniel's irony",1200829226
+101195,comment,101134,101144,0,0,tlrobinson,,,"Interesting idea. That seems like a lot of work, not to mention the same origin policy issues. Why not just validate it server side? A simple server side script could pull the JavaScript from the advertiser, verify it, and pass it on to the client.<p>Or use a public key signature and verify it client-side, though that would require the encryption algorithm implemented in JavaScript.<p>However, why do advertisement need JavaScript in the first place? As demonstrated by this incident, you're trusting the advertisers not to do bad things on your site.",1200828674
+101194,story,,,2,0,ivan,"Church of Scientology website being attacked by hackers",http://en.wikinews.org/wiki/Church_of_Scientology_website_being_attacked_by_hackers,,1200828355
+101193,comment,101106,101155,0,0,eru,,,"So we should invent our own uncorrelated black-boxen?",1200828270
+101192,comment,101104,101104,0,0,jward,,,"Birthday party at a pub until 4am.  Much drinking and delight.",1200827952

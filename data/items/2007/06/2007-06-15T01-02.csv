@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28245,comment,28030,28122,0,0,lupin_sansei,,,"Will he eat them like a Frenchman too?",1181872361
+28244,comment,28135,28211,0,0,staunch,,,"I recall hearing about some company that accepted tons of small investments, which made getting signatures at acquisition time a real pain. Can't remember what company though.
+",1181870368
+28243,comment,27875,27875,0,0,dazzawazza,,,"I tend to write unit tests for core functions/modules as I develop them. It helps me create an API and to think about it's use/documentation. I also write tests whenever I come across a non trivial bug: write a test to create the bug, fix the bug, prove it by passing test. I haven't gone the whole hog and employed test driven development. I think all  types of testing matter most once deployed. You need to prevent your customers 'testing' your app :-) Of course retro fitting tests is often a waste of time as your perspective isn't so clear. <p>There is always a balancing act between prefect text book engineering and just making some money!",1181869627

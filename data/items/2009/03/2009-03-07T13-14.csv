@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+506474,comment,506064,506207,0,0,TweedHeads,,,"Green is not bad, black text on green is.<p>For text use white, a very light yellow or a very very very light green and see the difference.",1236434373
+506473,comment,505509,505886,0,0,igglepiggle,,,"<a href=""http://www.circleid.com/posts/verisign_com_net_domain_dnssec_by_2011/"" rel=""nofollow"">http://www.circleid.com/posts/verisign_com_net_domain_dnssec...</a>",1236434126
+506472,comment,505752,506150,0,0,falsestprophet,,,"He drove to the school and picked up the trailer.",1236433825
+506471,comment,505174,506356,0,0,scott_s,,,"Did you feel it was a fair review? Did you take their suggestion and submit it to the Foundations of Physics journal?",1236433720
+506470,story,,,1,0,dreamz,"Windows 7 to have IE8 kill switch",http://infotech.indiatimes.com/articleshow/4237944.cms,,1236433584
+506469,comment,506398,506398,0,0,ScottWhigham,,,"I think that some kind of source code management (SCM) tool is the first step. Subversion, Git, whatever - pick something and go with it. After that, a project mgmt tracking tool of some kind. You can start small (text files) in the beginning and grow into bigger tools that feature bug tracking, feature requests, support, etc.<p>Good luck!",1236433076
+506468,comment,506144,506162,0,0,ScottWhigham,,,"You are being naive about the potential use of the server. What if this server is the user profiles and/or is a file server? You absolutely want anti-virus on that server if that's the case.",1236432898
+506467,story,,,1,0,yvesrn,"IPhone Enterprise Cred Gets Big Boost by Apperian",http://iphonecto.com/2009/03/07/iphone-enterprise-cred-gets-big-boost-by-apperian/#,,1236432468
+506466,story,,,61,30,nickb,"GW-Basic creator Greg Whitten on Joel Spolsky and other MS things",http://www.classiccmp.org/pipermail/cctech/2005-April/042999.html,,1236431986
+506465,story,,,14,4,delano,"Accounting for Clouds: Stop Saying CapEx Vs. OpEx",http://gevaperry.typepad.com/main/2009/01/accounting-for-clouds-stop-saying-capex-vs-opex.html,,1236431708
+506463,story,,,1,0,tamberg,"Running Arduino Processing Code on the .NET Micro Framework",http://blogs.oberon.ch/tamberg/2009-02-23/running-processing-code-on-the-dotnet-mf.html,,1236430891
+506462,comment,506337,506337,0,0,framiere,,,"It reminds me of <a href=""http://www.agitar.com"" rel=""nofollow"">http://www.agitar.com</a> for the java platform.<p>It is a very useful approach to prevent regressions while working on legacy code.<p>Alberto Savoya (who is behind agitar) has a nice definition of legacy code : code that has no unit-test.",1236430891

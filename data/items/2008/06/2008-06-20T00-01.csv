@@ -1,0 +1,64 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+222335,story,,,3,0,lurkage,"Amazon Said To Be Preparing a PayPal Killer.",http://www.techcrunch.com/2008/06/19/amazon-said-to-be-preparing-a-paypal-killer-wait-it-already-tried-that/,,1213923333
+222334,comment,222157,222157,0,0,dmoney,,,"> But millions of other seven-year-olds accepted identical offers.<p>Well played.",1213923281
+222333,story,,,3,0,lurkage,"The Incredibly Shrinking Venture-Capital Industry",http://blogs.wsj.com/deals/2008/06/19/the-incredibly-shrinking-venture-capital-industry/,,1213923280
+222332,story,,,3,0,parenthesis,"Beginner's Guide to the Vi editor",http://www-acs.ucsd.edu/info/vi_tutorial.shtml,,1213923242
+222331,comment,221009,221009,0,0,comforteagle,,,"Answer (not YC provided): nginx passes IPs in X-Real-IP HTTP header.  If your bot trap is not customizable, you can set up mod_rpaf Apache module on app instance.",1213923222
+222330,comment,222211,222319,0,0,gaika,,,"Maybe. I'm trying to advertise a solution to the problem. My startup is just one possible implementation of it.<p>Edit: Another solution would be to ask people to explain when they downvote. Please, what's wrong with THIS comment?",1213923209
+222329,story,,,10,2,lurkage,"Netflix killing extra queues to ""improve"" service",http://arstechnica.com/news.ars/post/20080619-netflix-killing-extra-queues-to-improve-service.html,,1213923194
+222328,comment,221822,221822,0,0,henryw,,,"i would like to see it done more like javascript with un-named function. instead of:<p><pre><code>     $replacement = function ($matches) {
+       return str_replace ($matches[1], ' ', '&nbsp;').' ';
+     };
+
+     return preg_replace_callback ('/( +) /', $replacement, $text);
+   
+ 
+</code></pre>
+do:<p><pre><code>     return preg_replace_callback ('/( +) /', function ($matches) {
+       return str_replace ($matches[1], ' ', '&nbsp;').' ';
+     }, $text);
+
+</code></pre>
+and also make array_map more like Array.each(e) in js:<p><pre><code>  $processed = array_map($array, function($e) {
+	return strtolower($e);
+  });
+
+</code></pre>
+and all the custom defined functions like usort:<p><pre><code>  $processed = usort($array, function($a, $b) {
+	return $a > $b ? 1 : -1;
+ });</code></pre>",1213923188
+222327,story,,,1,0,screamingdigg,"Developerlife - The Blog » Good videos for learning Android API",http://developerlife.com/theblog/?p=454,,1213923134
+222326,comment,222211,222316,0,0,gaika,,,"Thank you. You are right, that is not the primary motivation for the post. I liked slashdot back in the day. Had to move on to digg, then reddit, then hacker news, because the quality of discussions was degrading. I think hacker news has a chance to be free from trolls and have high signal / noise because of narrow focus, but these personal anonymous attacks on people with downvoting them for who they are and what they think started to happen here more and more often. I think there's a general solution and would be only happy if sites like Hacker News adopt it as well.",1213923076
+222325,comment,199907,222265,0,0,jamiequint,,,"is that a downmod because you don't want to make yourself face the truth?",1213923024
+222324,comment,221822,222032,0,0,henryw,,,"i think this comment belongs to the category of: say anything about ruby = upvote. say anything about php = downvote",1213923001
+222323,comment,221993,222114,0,0,Zev,,,"Since when does being smart mean its impossible to be an obnoxious prick? Its not an either or situation.",1213922991
+222322,comment,221991,222207,0,0,raganwald,,,"It's a worse-is-better thing: it makes some forms of abstraction awkward, you have to fool around chaining methods. But it does take the most common case and make it simple.<p>It seems like a legitimate design choice, even if I don't always like the resuls.",1213922776
+222321,story,,,2,0,sah,"Using genetic relatedness to predict future population declines",http://scienceblogs.com/grrlscientist/2008/06/tree_of_death.php#more,,1213922666
+222320,story,,,15,13,sah,"France to ban illegal downloaders from using the internet under three-strikes rule",http://technology.timesonline.co.uk/tol/news/tech_and_web/article4165519.ece,,1213922510
+222319,comment,222211,222318,0,0,xlnt,,,"Oh. Maybe you are being downvoted for advertising your startup too much?",1213922444
+222318,comment,222211,222314,0,0,gaika,,,"English is not my first language.<p>I meant that on the social news site that I'm working on there are no posts about downvotes, because everybody is free to express their opinion with up and down votes as they wish and it doesn't hurt anybody.",1213922400
+222316,comment,222211,222267,0,0,xlnt,,,"i'm sick of imprecise posts. the above post is not ""nothing more"" than an advertisement, even if you're right that that is the primary motivation.",1213922299
+222315,comment,222157,222198,0,0,byrneseyeview,,,"Also sounds like <a href=""http://unqualified-reservations.blogspot.com/2007/08/uberfact-ultimate-social-verifier.html"" rel=""nofollow"">http://unqualified-reservations.blogspot.com/2007/08/uberfac...</a>",1213922222
+222314,comment,222211,222253,0,0,xlnt,,,"Maybe you were downvoted for being hard to understand? ""there""?",1213922163
+222313,comment,222275,222275,0,0,gojomo,,,"I can't tell if he's mocking the Garlinghouse 'peanut butter memo', or a general big-conglomerate or old-thinking atmosphere, or even himself as part of some long-running inside joke. And the ambiguity makes it that much better.<p>I just hope Yahoo can soon get down to brass tacks.",1213922130
+222312,comment,222269,222269,0,0,SwellJoe,,,"Here's a summary for all of them:<p>It sucks.<p>Here's a couple threads where I've talked about my CMS experiences in more detail (I've deployed five CMS systems over the past 6 or 7 years):<p><a href=""http://news.ycombinator.com/item?id=186021"" rel=""nofollow"">http://news.ycombinator.com/item?id=186021</a><p><a href=""http://news.ycombinator.com/item?id=61003"" rel=""nofollow"">http://news.ycombinator.com/item?id=61003</a>",1213922010
+222311,comment,222157,222157,0,0,ph0rque,,,"I believe the author is arguing against instructionism, and for constructionism.",1213921987
+222310,comment,221993,222238,0,0,byrneseyeview,,,"I'm pretty sure I've been subscribed to the feed since before the Yahoo deal.",1213921884
+222309,comment,221750,221961,0,0,gaborcselle,,,"Sounds mostly like bad execution of a generally good idea.",1213921870
+222308,comment,222303,222303,0,0,dhotson,,,"Also here: <a href=""http://phoenix.lpl.arizona.edu/"" rel=""nofollow"">http://phoenix.lpl.arizona.edu/</a>",1213921815
+222307,comment,222033,222033,0,0,gojomo,,,"Sounds like you need a really basic primer on business, especially 'debt' vs. 'equity' as a source of financing.<p>I would search Amazon for ""starting a business"". This isn't meant to be an insult, but maybe you even want to get one of the ""...for Dummies"" or ""Complete Idiot..."" books, because it sounds like you want a general grounding from the absolute beginning, and that will take more than a comment thread here.",1213921813
+222306,comment,221876,222241,0,0,astine,,,"Being that I use Emacs (and Vim) daily, I know this. :)<p>""Eventually, you'll start writing rants like this one trying to convince all the young'uns about how wrong they are about what they want in their tools.""<p>I do; I'm just a little more subtle about it.",1213921660
+222305,comment,222292,222292,0,0,tortilla,,,"enom has a pretty decent API. You do need to buy credit in advance. I think it was around $200.  As people register domains through your site, the money gets deducted from your account.<p><a href=""http://www.enom.com/resellers/Interfaceinfo.asp"" rel=""nofollow"">http://www.enom.com/resellers/Interfaceinfo.asp</a><p>If you have specific questions for me, take my username and add it to gmail.com.",1213921525
+222304,comment,222292,222292,0,0,SwellJoe,,,"We use Register.com, which was recommended to us by the awesome Weebly guys.  The API is excellent and their developer support people are top-notch.  Domains are pricey (though not as bad as it looks when you look at their retail prices), but everything works very well.",1213921495
+222303,story,,,3,1,dhotson,"Bright Chunks at Phoenix Lander's Mars Site Must Have Been Ice",http://www.nasa.gov/mission_pages/phoenix/news/phoenix-20080619.html,,1213921465
+222302,story,,,11,4,ghiotion,"Mod_social_skills, mod_rationality",http://tales-of-an-it-director.blogspot.com/2008/06/modsocialskills-modrationality.html,,1213921032
+222301,comment,222211,222211,0,0,mpk,,,"I really don't care about being down or up voted.<p>I make a comment every now and again - if people want to vote on it, fair enough. Go ahead, that's what the system is for.<p>But please don't try to pretend this is anything other than an Internet forum. Semi-anonymous people hang out here and some of them are bound to be obnoxious. Down-votes for different opinions are par for the course. Get over it.",1213920989
+222300,comment,222157,222259,0,0,apexauk,,,"I'd find it very interesting to find out about anyone else's experiences linking home-schooling and startups (or, what makes for an entrepreneurial mindset..)<p>I was home-schooled till 11, when I entered school in a class a year ahead of my age. that was 12 years ago, now i'm running a startup (our 2nd employee starts next week)<p>I've been thankful to my mum ever since for spending the time with me when I was younger - it definately gave me a head-start with learning and a different perspective from many people. Anyone else have home-schooling experiences they relate to entrepreneurship?",1213920899
+222299,comment,222157,222260,0,0,xlnt,,,"the fact that marriages suck doesn't make school better ;p",1213920796
+222298,story,,,4,0,bootload,"Iceland, a Tiny Dynamo, Loses Steam ",http://www.nytimes.com/2008/04/18/business/worldbusiness/18iceland.html?_r=2&ei=5088&en=6893a63253ab65c6&ex=1366257600&oref=slogin&partner=rssnyt&emc=rss&pagewanted=all&oref=slogin,,1213920712
+222297,comment,222211,222263,0,0,Morieris,,,"That seems like a good idea...  I imagine it would keep out account farmers, or people using dupe accounts to vote many times.",1213920667
+222296,comment,222024,222024,0,0,timcederman,,,"I'll be honest - I'm pretty techy and I just didn't get it.  What is a ""social content app""?  Why should I care?  Clicking learn more didn't tell me anything.<p>Sorry, not very helpful now, but I am intrigued to know what the ""technical itch"" you were trying to scratch was, and how you felt it might relate to everyday people...",1213920463
+222295,comment,221715,221772,0,0,dazzawazza,,,"ahh, but there are a lot of openings for GP's. Our medical students all want to be brain surgeons and don't seem to realise that without GP's most people would be dead before needing a brain surgeon.",1213920348
+222294,comment,222033,222033,0,0,swivelmaster,,,"To answer 4 from 3, the first investor still owns shares in the company.  Except in the worst of circumstances, the next investor will always invest at a higher valuation than all before him/her.  Thus, even if the second investor does nothing after the initial investment, not only to they still own part of the company, but that part is going to be worth more (theoretically) based on what kind of equity the last investor got for the amount of money put in.<p>IE if I buy 100 shares of your company in exchange for a $100,000 investment, you can sell 50 more shares in the next round as long as they're worth more than $50,000.  It's actually more confusing than that, because the total worth of the company becomes the valuation PLUS the investment.<p>The only way anybody writes off an investment is if the company goes completely under and there's nothing left to salvage.  Most VC's have deals in place that give them preferential treatment if the company goes under and has to liquidate assets - they get their money back first.",1213920305
+222293,comment,222157,222259,0,0,KiwiNige,,,"sounds like your home schooling could never have broken your spirit enough to be ready for 'the real world'",1213920098
+222292,story,,,2,3,ericds,"Looking for advice on selling domains within a website creation app",,"I'm working on a rails app to help people create websites, similar to weebly, but focused on a specific niche. I want to make it as easy as possible for my customers to buy a domain name through the app. Can anyone recommend a domain registrar with a great reseller program/api? Are there any rails plugins that could speed up development of this piece of the app? Anything I should look out for? Thanks!",1213920052

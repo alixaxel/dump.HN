@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83546,story,,,7,1,agentbleu,"An open letter to Techcrunch editors",http://startupcrunch.org/an_open_letter_to_the_techcrunch_editors_0,"This is an open letter to Techcrunch in a last-ditch attempt to bring some sanity back to the main blog in the startup sector! ",1196081748
+83545,comment,83518,83537,0,0,imsteve,,,"My limiting factor is RAM, but it looks like serveraxis is cheaper than slicehost for that.",1196080631
+83544,story,,,2,0,jm3,"The Power of Being a Hybrid (Designer/Engineer) - 20 images x 20 seconds",http://jm3.net/hybrid,"
+",1196080316
+83543,comment,83538,83541,0,0,yrashk,,,"we are at our early stages, we can not yet afford supporting any (even popular) browser. Though Opera SUPPORT is planned to be far earlier than IE support ;)",1196080184
+83542,comment,83359,83359,0,0,axod,,,"I'm not sure it's incredibly fast, sure it uses auto-complete and ajax to load things instead of a page refresh, but it seems a similar speed to conventional web based dictionaries to me.",1196079880

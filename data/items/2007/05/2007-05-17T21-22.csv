@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+22901,comment,22871,22897,0,0,aston,,,"PHP style variables. Always fun.",1179438929
+22899,comment,22726,22728,0,0,eli,,,"Agreed. And it's nothing more than trolling to suggest that this has anything to do with PHP or Rails (especially based on the evidence given).",1179438250
+22898,comment,22699,22704,0,0,aston,,,"I heard projected revenue on gifts is like $17m for this year? I'll try to find a link to back me up.",1179438142
+22897,comment,22871,22871,0,0,eli,,,"If you spend all your time doing $X it's a good idea to take a break from doing $X every once in a while.",1179438081
+22895,story,,,3,0,dhbradshaw,"google white paper on malware: present in 1/10 of websites",http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf,,1179437351
+22894,story,,,4,3,Sam_Odio,"Why 3 equal co-founders might not be a great idea",http://www.foundread.com/view/dangers-of-a,,1179437272
+22893,story,,,1,0,npk,"Jogging Over a Distance - A Novel Use of Consumer Electronics",http://infosthetics.com/archives/2007/05/jogging_over_a_distance.html,,1179437115
+22892,comment,22733,22733,0,0,sergiutruta,,,"there are several services here (and I'm sure in other countries too) where you have a web page and can send messages for more or less money. look for ""send sms"" on Google and I'm sure you'll find some. The carrier may offer a web based service to which you can connect and send messages to. 
+Sending sms from a web page is nothing new, not paying for it is :). Try to understand the idea of giving stuff for free to your users. The number of the users will increase exponentially (well, depending on the service you're giving) .",1179437029
+22891,comment,22292,22292,0,0,knewjax,,,"Make sure you check your junk mail folder for your invite code. We sent them out to about half the list today.",1179436368
+22890,comment,22843,22859,0,0,Tichy,,,"If you are failing anyway, you might as well tell us?",1179436337
+22889,comment,22843,22846,0,0,Tichy,,,"Perhaps you could grow it? How do you define ""target audience""?",1179436262

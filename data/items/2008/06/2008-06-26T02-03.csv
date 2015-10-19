@@ -1,0 +1,55 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+228196,comment,227605,227605,0,0,wensing,,,"<i>""sure has some cool link on his site""</i><p>Do people really use 'link' in the singular form instead of plural to mean 'linkage' in some sort of Web-2.01 slang that I'm out-of-touch with?!",1214449191
+228194,comment,227249,227403,0,0,Hexstream,,,"""Yes, XML syntax is better for writing and editing structured human-readable documents. eg. something like XHTML.""<p><pre><code>  (:html
+   (:head (:title ""I like s-expressions better to read and write XHTML.""))
+   (:body
+    (:h1 ""Some advantages of s-expressions"")
+    (:ul (:li ""Not having a redundant end tag is a "" (:strong ""HUGE"") "" improvement."")
+         (:li ""Parentheses are nicer than angle brackets "" (:acronym :title ""in my humble opinion"" ""IMHO"") ""; they're also easier to type on most keyboard layouts."")
+         (:li ""You have more room to extend the language, for example having complex attributes.""))))
+
+  <html>
+    <head><title>I like s-expressions better to read and write XHTML.</title></head>
+    <body>
+      <h1>Some advantages of s-expressions</h1>
+      <ul>
+        <li>Not having a redundant end tag is a <strong>HUGE</strong> improvement.</li>
+        <li>Parentheses are nicer than angle brackets <acronym title=""in my humble opinion"">IMHO</acronym>; they're also easier to type on most keyboard layouts.</li>
+        <li>You have more room to extend the language, for example having complex attributes.</li>
+      </ul>
+    </body>
+  </html></code></pre>",1214448993
+228193,comment,227621,227939,0,0,aaronblohowiak,,,"Curiosity is nice, and have appreciation for another's interests is great.  Aptitude takes many forms.  Beauty can be its own topic of geekery. Just as there are more VB & PHP kids than hackers, there are more TV & Magazine idolizers than connoisseurs of taste.<p>EDIT: vapid eyecandy is good for one thing, and then it is seldom good.",1214448969
+228192,comment,227621,227939,0,0,bayareaguy,,,"I think Rachel Hartman's character Lalo said it best in ""Blondweg Blossoming"": the secret to being <i>interesting</i> is being <i>interested</i>.<p>My wife and kids and I have a rule - I'll watch whatever 10 minute video they want to show me on YouTube if I get to show them a 10 minute clip from Cosmos.  Let's just say they that their about at their limit of ""Star Stuff"" :-)  But I don't think any less of their intelligence or curiosity just because Carl Sagan isn't their thing.  My wife knows much more about philosophy then I and my kids interest in biology and psychology is greater than mine.",1214448902
+228191,story,,,1,0,xirium,"The Exemption Pass",http://thedailywtf.com/Articles/The-Exemption-Pass.aspx,,1214448835
+228190,story,,,1,0,ajbatac,"Web-Based PHP FTP Application: phpWebFtp",http://www.webresourcesdepot.com/web-based-php-ftp-application-phpwebftp/,,1214448810
+228189,comment,227926,228141,0,0,breily,,,"That sounds pretty cool - is there a url for it?",1214448765
+228188,story,,,1,0,ajbatac,"23+ Impressive Tools for Faster Javascript/Ajax Development",http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html,,1214448708
+228187,story,,,6,0,ajbatac,"“AutoGrid” for YUI Grids — Using JavaScript to Create Adaptive Grids » Yahoo! User Interface Blog",http://yuiblog.com/blog/2008/06/25/autogrids/,,1214448703
+228186,comment,227587,228079,0,0,muriithi,,,"Where in Kenya? I live there and unless your friend was doing drugs, his story sounds highly implausible.",1214448631
+228185,comment,227557,227557,0,0,aaronblohowiak,,,"The OS has 'pipe'<p>STDIN, STDOUT and STDERR<p>learnings from the nix",1214448377
+228184,comment,228180,228180,0,0,dmix,,,"To be fair, he mentions dual booting his mac not so much a new PC.<p>There is an app for OSX that lets you connect to xbox 360. I tried it briefly and it couldn't find my box.",1214448311
+228183,comment,228117,228117,0,0,xlnt,,,"Matt,<p>You really don't play WoW. It doesn't even go up to level 82. Heh.",1214448302
+228182,comment,228124,228124,0,0,dmix,,,"Since I know I will need to raise capital eventually I've been making sure I stay in touch with everyone in my close network. Especially family and friends parents who would be in a position to help.<p>Seems somewhat selfish but I wouldn't offer them anything that I'm willing to risk my credibility for.",1214448210
+228181,comment,227859,228156,0,0,Andys,,,"Its completely open. I have the source code and the commit logs for the project. I can read the vulnerable code myself and make up my own mind about the potential attack vectors.",1214448172
+228180,story,,,5,6,wumi,"Holy Hell, I May Buy Windows Vista",http://www.parislemon.com/2008/06/holy-hell-i-may-buy-windows-vista.html,,1214448082
+228179,comment,227992,228174,0,0,goofygrin,,,"Hedge fund jobs here in Dallas are looking heavily for C# and vba (excel) skills.<p>There are about 2-5 hedge fund jobs that have been open for at least a year that just can't find someone willing to work their butt off for $110k and 50+ hours a week.",1214448055
+228178,comment,227767,227851,0,0,wensing,,,"Although, to be fair, I hear they have fixed quite a few memory leaks this time around: ""Over 300 individual memory leaks have been plugged..."" (<a href=""http://www.mozilla.com/en-US/firefox/3.0b1/releasenotes/"" rel=""nofollow"">http://www.mozilla.com/en-US/firefox/3.0b1/releasenotes/</a>)",1214447855
+228177,story,,,2,0,DrPickle,"Results from every episode of MythBusters ever aired on the Discovery Channel",http://mythbustersresults.com/,,1214447587
+228176,comment,228117,228117,0,0,mrtron,,,"#1 Reason easily explained:<p>Blizzard<p>Their attention to creating what they consider the 'perfect' game on a platform they create is mind blowing.  They have had Starcraft 2 what any other company would consider 'finished' for probably 2 years.  But they run massive beta tests, continually tweak and perfect the game.<p>It shows in every one of their products - look at the Starcraft/Warcraft/Diablo series - not a single flop or poor game.<p>I bet you right now that Starcraft 2 becomes even more popular than the original - and the original is still played in large numbers ten years later!",1214447564
+228175,comment,227621,228114,0,0,ajross,,,"Ahem.  I said it makes me <i>more</i> of a scientist than a programmer by training.  Please read carefully before flaming.<p>And if math is your thing, that's fine.  Study what you like.  Although I'll admit I'm more than a little confused by your assertion that basic science is no longer ""in development""...",1214447488
+228174,comment,227992,228095,0,0,time_management,,,"Why is there so much FP in finance? I had the impression that finance used mostly C++, which is a big part of why I avoided applying for most quant jobs.",1214447437
+228172,comment,228073,228073,0,0,joshwa,,,"dupe <a href=""http://news.ycombinator.com/item?id=213669"" rel=""nofollow"">http://news.ycombinator.com/item?id=213669</a>",1214447277
+228171,comment,227388,227388,0,0,PieSquared,,,"That was... weird. I read the article, then clicked on the demo... and it was a chat-place, where there was no one except me. And a few moments later there appeared the guy who wrote SymbolicWeb. He was in Norway, and it was 4:05 for him, and 10 o'clock for me. These sort of encounters remind me what the internet can really do.",1214447246
+228169,comment,228147,228147,0,0,xirium,,,"JavaScript gives you the most possibilities because you can place semi-transparent items anywhere in a webpage, they can resize with user interaction and move down a webpage as a user scrolls. JavaScript can also be used to re-write a webpage, including changing images, fetching more text, revealing optional form elements and the changing the destination of hyperlinks.<p>Some, if not all, of this can be achieved with IFrames and Flash but web browser security is such that you'd have to include JavaScript anyhow.",1214446796
+228168,comment,227926,228085,0,0,bprater,,,"Never heard of such a device. You really do learn something new everyday!",1214446463
+228167,story,,,6,0,jmacd,"An Interview with Michael Parkatti & Michael Marrone who are now at Y Combinator",http://www.startupnorth.ca/2008/06/24/w5-the-who-what-where-when-why-of-y-combinator-an-interview-with-michael-parkatti-michael-marrone/,,1214446420
+228166,comment,227216,227266,0,0,lacker,,,"A lot of decent code won't fit into 78 columns with 8-character tabs. An if statement inside a for loop inside a function inside a class is already 4 levels of indentation. Call a ten-letter function with three ten-letter arguments and you're over the limit.<p>It depends a lot on the style of code... some apis will have really long names and require a lot of arguments. In this case you'll run over 80 columns even if you use two-space indentation (which we do at my workplace).",1214446412
+228165,comment,228112,228112,0,0,jmacd,,,"I have been using SportsTwit to track games that I can't watch. It has been around for quite a while: <a href=""http://www.sportstwit.com/"" rel=""nofollow"">http://www.sportstwit.com/</a>",1214446380
+228164,story,,,8,16,vlad,"Top 10 Reasons Why Dating an Entrepreneur Rocks",http://www.ladieswholaunch.com/magazine/top-10-reasons-why-dating-an-entrepreneur-rocks/1457,,1214446274
+228163,comment,227406,227406,0,0,bprater,,,"One of the ways I've learned a ton is to find a site that I really like and then begin to clone the design locally.<p>I'll go line-by-line through their original HTML and CSS and rebuild the page.<p>This seems simple and obvious, but after years of hacking design, I am still impressed and inspired by spending an hour or two mucking about in other people's code.",1214446205
+228162,comment,228009,228153,0,0,bprater,,,"Agreed, am I allowed to flag this one?",1214446023
+228161,comment,228117,228120,0,0,bprater,,,"If it were just escapism, any MMO could claim that. But none do. Not anywhere close to what Warcraft has achieved.<p>I think it's the magic combination of elements that has given WoW the megacrown. And you've listed several. If you've played Wow, you get it, but you don't exactly know why.",1214445968
+228160,comment,227926,227926,0,0,toni,,,"Are there blogs (ala TechCrunch) that cover hardware startups? It will be interesting to follow them regularly.",1214445929
+228159,story,,,5,3,amarcus,"Ask YC: Is it just me?",,"isn't twitter pretty much facebook status messages. If someone just makes a service which uses the facebook api to get your friend's status messages, would they not have cloned twitter. Facebook has a much larger userbase and obviously scales much better than twitter. 
+You can update your status in facebook using a number of different ways (api, web, mobile etc...). Whats the big deal with twitter? I can't understand it.",1214445873

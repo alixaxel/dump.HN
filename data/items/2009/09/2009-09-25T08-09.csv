@@ -1,0 +1,54 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+843150,comment,839407,842771,0,0,cpach,,,"No, they switched from Futura to Verdana.",1253869164
+843149,comment,841287,842268,0,0,cousin_it,,,"No, arijo, biohacker42 didn't say anything close to ""rational discussion focused on discovering objective truth is just a waste of time"". It's just your idea, and a stupid idea to boot. I downvoted both of your comments accordingly.",1253869079
+843148,comment,842862,843103,0,0,FooBarWidget,,,"I don't think extremophiles are a problem. Your body temperature isn't exactly extreme so those bacteria will die in your body.",1253869047
+843147,story,,,2,0,erikstarck,"Money is failure",http://blog.opportunitycloud.com/2009/09/25/money-is-failure/,,1253868957
+843146,comment,842403,842494,0,0,abesapien,,,"I agree I very rarely see articles posted here about Perl.<p>Probably the reason that you have been seeing more Perl posts in general around the net lately is due to the Perl IronMan Challenge which started at YAPC 2009. It's an initiative to promote the language. <a href=""http://ironman.enlightenedperl.org/"" rel=""nofollow"">http://ironman.enlightenedperl.org/</a>",1253868897
+843145,comment,842925,842925,0,0,kenver,,,"""you may want to try the bonus activities but you'll need the right devices""<p>Kinky!",1253868803
+843144,story,,,5,2,bosky101,"NoSQLIndia is online on September 26th",http://nosqlindia.pbworks.com,"agenda for the day, interviews, chat, etc",1253868634
+843143,comment,843073,843135,0,0,cousin_it,,,"No one uses Facebook in my country. But it's a great idea, thanks.",1253868590
+843142,comment,843141,843141,0,0,ivygreen,,,"Enjoy coupon code AY3853 to save money on www.aypearl.com<p>Established in 2005, www.aypearl.com has been known as the reliable jewelry manufacturer and wholesaler from China. Its business partners are cross the world.<p>www.aypearl.com can provide thousands of fashion jewelry items at wholesale prices including necklaces, bracelets and earrings made of pearl, gemstone, semi-precious, crystal coral, shell and beads.<p>Now coupon code is available and you can save a lot of money. Please enter your coupon code AY3853 when placing order at www.aypearl.com. Then you can enjoy the discount jewelry:<p>100usd, a discount of 2%;
+300usd, a discount of 4%;
+500usd, a discount of 6%;
+800usd, a discount of 8%;
+1000usd, a discount of 10%;
+And more than 1500usd, a discount of 12%.",1253868573
+843140,comment,842677,842809,0,0,jongraehl,,,"Other than his only working 10 hours a day (which seems generous of him if true), what could be considered passive-aggressive?",1253868390
+843138,comment,843000,843000,0,0,tfh,,,"You mean ""The 25 most dangerous colleges in the US"".<p><pre><code>  america != usa</code></pre>",1253868247
+843137,comment,842677,842786,0,0,jongraehl,,,"Unless you're desperate and have to work with malignant people, why shouldn't you care about your work?<p>I agree that in a bad situation it's best to move elsewhere, because people almost never change.",1253868221
+843135,comment,843073,843073,0,0,tfh,,,"You could write a ""random party"" facebook app.",1253868123
+843134,comment,843017,843063,0,0,axod,,,"In which case, write your own :) It's just code.",1253868023
+843133,comment,842677,842707,0,0,jongraehl,,,"I think he's helped his reputation.  I'd hire him.",1253867949
+843132,story,,,9,0,kwamenum86,"Craters Show 1970s Viking Lander Missed Martian Ice by Inches",http://www.wired.com/wiredscience/2009/09/martian-ice/,,1253867906
+843131,comment,842528,842563,0,0,throw_away,,,"you could choose formerlyknownasbabyshake as your username",1253867818
+843130,comment,842333,842824,0,0,ShardPhoenix,,,"BlueJ is a pretty good solution to this since it lets you play around with objects and methods before you ever have to write public static void main etc. In fact, in ""Objects First With Java"", the book we used in my first Java class, the main method isn't even introduced until chapter 7.",1253867628
+843129,comment,842506,842829,0,0,RK,,,"That kind of scheme unfortunately takes most of the ease of painless syncing away...",1253867599
+843128,comment,843013,843013,0,0,martey,,,"Does anyone know of a state-by-state comparison of the laws and regulations around forming a business in each state (registration fees, etc.)? This seems like it would be a useful metric, if one was choosing to relocate based on business environment.",1253867397
+843127,comment,842546,842546,0,0,unwind,,,"This must be one of the loudest screams for a good-looking, ultra-geekily designed T-shirt, ever. I'm thinking maybe something like this: <<a href=""http://www.lafraise.com/Article/index/id/25&#62"" rel=""nofollow"">http://www.lafraise.com/Article/index/id/25&#62</a>; but of course with NOR gates on the inside.",1253867387
+843126,comment,842925,843054,0,0,ashleytowers,,,"""puzzling because Windows 7 is one of the few Microsoft products that actually is somewhat fresh and not just a minor version bump""<p>Interesting... granted I don't particularly follow Windows development, but my perception was that it is <i>exactly</i> that - a minor version bump over Vista fixing the problems that shouldn't have been there in the first place...",1253867387
+843125,comment,842925,842925,0,0,alanthonyc,,,"Are these going to be playing in the middle of the night, alongside the <i>green handkerchiefs of prosperity</i> commercials?",1253867323
+843123,comment,842925,842925,0,0,ahlatimer,,,"Am I the only one that's wondering why the camera zooms in and moves around so much? I guess they were trying to ""spice it up"" and make it not seem as boring. It just made me sick.",1253867101
+843122,comment,841951,842346,0,0,apotheon,,,"Testing is one reason I think <i>Everyday Scripting with Ruby</i> is such a great book: while it's for someone with a casual acquaintance with programming, it still manages to teach TDD with Ruby in a clear, helpful manner that actually helps the reader internalize it such that the knowledge doesn't just evaporate when the book is done.",1253866819
+843121,comment,837399,837869,0,0,wlievens,,,"The way Smalltalk does things, IIRC.",1253866382
+843120,comment,837399,840431,0,0,wlievens,,,"You need lazy evaluation. If we assume that his {} blocks create lambda's, he's got it.",1253866348
+843119,comment,837399,838802,0,0,wlievens,,,"Absolutely. One of the advantages of static typing (NOT starting a type war here, oh gods) is that you can transform error conditions from the run-time to the compile-time world. Earlier failure = cheaper failure, so this  is great.<p>I try to take this as far as I can. For instance, when writing Servlet code in Java, I define all my request parameter names in an enum, so that I can never misspell any lest the compiler tell me.",1253866290
+843118,comment,786931,786931,0,0,dnewcome,,,"I know this thread is old, but I ran across it in a search.
+I use a tool called dar (<a href=""http://dar.linux.free.fr/"" rel=""nofollow"">http://dar.linux.free.fr/</a>) that is along the lines of tar, but with extra features for dealing with multi-volume backup sets and diffs easily.<p>It lets you extract a catalog from the backup set that you can use locally as a checkpoint for doing diff/incremental backups.  The catalog is really small, mine is ~10Mb for hundreds of thousands of files.<p><pre><code>  ## here is the initial backup: backing up /nas to
+  ## an archive set /mnt/usb/nas on a usb device
+  dar -R / -c /mnt/usb/nas -g nas
+
+  ## extracting the catalog from the backup and 
+  ## saving it under my home directory      
+  dar -A /mnt/usb/nas -C /home/dan/backup/nas-catalog
+
+  ## I use the local copy of the catalog in my home folder 
+  ## when doing diff backups to another mounted usb device
+  dar -R / -c /mnt/usb/nas-diff -g nas -A /home/dan/backup/nas-catalog</code></pre>",1253866249
+843117,comment,842715,842995,0,0,jessep,,,"The article and analogy definitely made me smile.<p>I agree with you to netsp, though, to a degree. I want them to be adding value in the mental space where their product lives in my brain, but not as narrowly as you say here. Relevant links, ideas, events are also good as far as I'm concerned.",1253866125
+843116,comment,843115,843115,0,0,gnoupi,,,"Weird article. Looks like some kind of hack. Or a strange prank. (or more simply, a test article which has been submitted to the RSS feed when it was not supposed to)",1253866052
+843115,story,,,1,1,gnoupi,"""Remember, I gave you the Internet, and I can take it away.""",http://www.wired.com/culture/art/news/2000/09/38562,,1253866000
+843114,story,,,1,0,kqr2,"No takers for amazing full-size Lego home",http://www.sfgate.com/cgi-bin/blogs/ontheblock/detail?entry_id=48268,,1253865976
+843111,comment,842975,843072,0,0,cubicle67,,,sarcasm?,1253865946
+843110,comment,842925,842925,0,0,snprbob86,,,"As a Microsoftie, I am genuinely embarrassed.",1253865940
+843109,story,,,1,0,DrewHintz,"Ask HN: Anyone here play Warcraft? (feedback on a project requested)",,"If you play World of Warcraft, please check out my latest project:<p>http://www.trackwarcraft.com/<p>The site quickly gathers data from the Armory, analyzes it, and presents it in an easy to glance at format. It's built on App Engine so hopefully it won't die under load like other similar tools. The site also lets you do parallel look ups of multiple characters. The big risk is if the Armory throttles my look ups -- I'm doing caching and back-off if I'm throttled. All of the URL fetches are parallelized which has shown to be an order of magnitude faster than other sites.<p>Any feedback is appreciated. The site could use some graphic design and UI work. If you have suggestions, or you'd like to help, please let me know! :)",1253865851
+843108,comment,839459,839459,0,0,wlievens,,,"Do they need any substantial changes in DWARF to pull this off?",1253865603

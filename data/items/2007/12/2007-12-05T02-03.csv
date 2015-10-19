@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+86194,story,,,2,0,terpua,"Why are so many charities ineffective?",http://www.economist.com/displaystory.cfm?story_id=10238702&fsrc=RSS,,1196823482
+86192,comment,85840,85840,0,0,modulus,,,"Confessions of an Economic Hitman,
+The Wealth of Nations,
+The Great Gatsby,
+See No Evil,
+Hannibal
+",1196823277
+86191,story,,,15,4,nickb,"New hypothesis for origin of life proposed",http://www.physorg.com/news115988029.html,,1196823233
+86190,story,,,3,0,terpua,"Edit your photos! On Flickr!",http://blog.flickr.com/en/2007/12/05/edit-your-photos-on-flickr/,,1196823206
+86189,comment,85870,85870,0,0,tel,,,"What worries me is how long it'll take to get the HTML5 Bandpass filter and how frustrating it'll be for the first 5 years after adoption writing the same site twice.",1196823161
+86188,comment,86086,86086,0,0,nostrademons,,,"I do, and didn't notice any IE issues (though our JQuery usage has gone up significantly since the last time I tested with IE...)<p>It's quite possible that UI has issues though - it's not really a 1.0-quality release, more like an alpha release that they put out in public.  I had to write 3 patches for UI Slider to even <i>work</i>, and much necessary functionality is either undocumented or unimplemented.  There's supposedly going to be a release in mid-December to fix some of the outstanding bugs.<p>I haven't really noticed IE issues in general - I use CSS and portable libraries like JQuery and code to standards, and just do a single pass before release to fix any outstanding IE issues.  Last time I did a release, it took less than a day to fix everything.",1196823141
+86187,story,,,1,0,Ztrain,"iPhone Gives Mobile a Badly Needed Kick in the Ass",http://smartstartup.typepad.com/my_weblog/2007/12/mobile-marketin.html,"iPhone continues to rock the world.",1196822894
+86186,story,,,1,0,hhm,"Myths about the arrow of time",http://motls.blogspot.com/2007/12/myths-about-arrow-of-time.html,,1196822892
+86185,comment,86086,86086,0,0,midnightmonster,,,"never had an IE-only jquery problem, but I only use the core lib.",1196822496
+86183,comment,58025,59234,0,0,thales1940,,,"My position is large in that it questions Pythagoras and so, everything that follows him.  All phillosophy today is still Pythagorean in that it implies agreement with his subjective stance.  The Greek miracle is in fact the discovery of objectivity (reasoned argument) based on the integration of ordinal and cardinal numbers, or concretes and abstractions, which is the same thing.  Pythagoras confused numbers which are abstractions with their concrete instances.  This has the effect of reversing the Thalean integration and re-establishes the mind/body dichotomy as the norm, making objectivity impossible.<p>",1196821079
+86182,story,,,19,7,dood,"Edsger Dijkstra - Discipline in Thought [video]",http://youtube.com/watch?v=EL97C8C53ZM,,1196821007
+86181,comment,85840,86163,0,0,bockris,,,"Hmmm.  Diamond Age didn't do it for me for some reason.  I liked it but not nearly as much as Cryptonomicon.  But I have had several people tell me the same thing that you did wrt DA, so it just must be me.
+",1196820568
+86180,comment,86026,86026,0,0,tlrobinson,,,"This is just silly, their top 5 (Yahoo, Facebook, MySpace, Google, and YouTube), just <i>happen</i> to be 5 of THE most trafficked websites on the Web (all in the top 7, according to Alexa). This smells like linkbait.<p>Though I do agree that MySpace is pure evil.",1196820490
+86179,story,,,2,0,hhm,"Google's Brian Grant discusses the problems of parallelism",http://www.sdtimes.com/article/LatestNews-20071115-01.html,,1196820038

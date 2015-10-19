@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+138725,story,,,1,0,apu,"Interesting 3d flash interface",http://www.absolut.com/iaaw,,1205733406
+138724,comment,138388,138388,0,0,bayareaguy,,,"GWM used lisp as an extension language too.<p>I've heard people compare Tcl with an ancient version of lisp that worked in a similar way (i.e. by string substitution).<p>Viaweb was written in lisp, could ""end users"" extend it in a way analogous to emacs?<p>The next time I need to build in an extension language into something, I'll probably end up using Lua.",1205733274
+138722,comment,138677,138714,0,0,tim2,,,"Blame the system.",1205732947
+138720,story,,,3,1,terpua,"Goodbye, P2P! P4P is Coming",http://www.readwriteweb.com/archives/goodbye_p2p_p4p_is_coming.php,,1205732569
+138719,comment,138704,138704,0,0,cellis,,,"ROCK BAND!",1205732342
+138718,comment,137080,137080,0,0,Monti,,,"Nice job guys, wish you all the best.
+My startup launches in 3 weeks :)",1205732303
+138717,comment,138508,138598,0,0,whacked_new,,,"Is all this stuff common knowledge amongst big firm traders, or Wall Street folks, or the financial sector at large? Are you just someone who follows the relevant -- and perhaps access non-layman -- information, or are you required to be sharp to know all this?",1205731936
+138716,comment,138704,138704,0,0,henning,,,"Portal is fucking awesome.<p>The ending is the best of any game I've ever played.",1205731929
+138715,story,,,3,0,Flemlord,"GameSpy sits down with StarCraft II Lead Designer Dustin Browder to discuss the coming of the swarm.",http://pc.gamespy.com/pc/starcraft-2/858336p1.html,,1205731878
+138714,comment,138677,138677,0,0,andr,,,"1) Write a script to automatically submit every XKCD and TechCrunch post on News.YC.<p>2) ???<p>3) Karma profit!",1205731847
+138713,comment,138508,138508,0,0,rokhayakebe,,,"while some people worry about a tech bubble bursting, this what happens in the financial world.",1205731656
+138711,comment,138446,138446,0,0,jbryanscott,,,"We are doing something very similar to this.<p><a href=""http://www.parkonthefly.com/"" rel=""nofollow"">http://www.parkonthefly.com/</a><p>Email me: bryan@parkonthefly.com",1205731207
+138710,comment,138629,138684,0,0,__,,,JSP.,1205730999
+138709,comment,138321,138618,0,0,ivankirigin,,,"I would imagine the conversation is different if only because there are orders of magnitude more people.",1205730949
+138708,comment,138355,138359,0,0,Monti,,,"yeah, agreed.",1205730930
+138707,comment,138355,138355,0,0,Monti,,,"very good and simple idea.",1205730891
+138706,comment,138355,138451,0,0,brianr,,,"Another good one: <a href=""http://lolinator.com/lol/lolinator.com/"" rel=""nofollow"">http://lolinator.com/lol/lolinator.com/</a>",1205730807
+138705,comment,138508,138700,0,0,caudicus,,,"Well, modern day central banks operate through Keynesian principles of economics which were not developed until the mid 20th century - <a href=""http://en.wikipedia.org/wiki/Keynesian_economics"" rel=""nofollow"">http://en.wikipedia.org/wiki/Keynesian_economics</a> - so I find it hard to apply the writings of Thomas Paine to them. I do realize the US Federal Reserve was founded before that (1913), but modern fiscal policy decisions are based on Kaynes' work.<p>Related to that, the historical US National Bank (<a href=""http://en.wikipedia.org/wiki/First_Bank_of_the_United_States"" rel=""nofollow"">http://en.wikipedia.org/wiki/First_Bank_of_the_United_States</a>) and Central Bank (Federal Reserve) have very different objectives. Do not confuse the two.",1205730803
+138704,story,,,14,5,eb,"Four console games you might like...",http://steve-yegge.blogspot.com/2008/03/four-console-games-you-might-like.html,,1205730776
+138703,comment,137531,137531,0,0,NoBSWebDesign,,,"You can write off purchases before you incorporate (as a sole proprietorship), if that's what you're asking. Incorporate if you need liability protection or if you're going to take investment. I typically do that right away if it's a project I'm serious about... why not?",1205730733
+138702,comment,138573,138574,0,0,gojomo,,,"I don't see the DMCA removal notice for this request, but have seen it for other searches, like say [xenu].<p>You can see a lot of similar DMCA takedown requests for Google and other sites at <a href=""http://www.chillingeffects.org/dmca512/notice.cgi"" rel=""nofollow"">http://www.chillingeffects.org/dmca512/notice.cgi</a>.",1205730382
+138701,comment,138355,138457,0,0,curi,,,"not until bookmarks are easy to search through. which their might be a plugin for but that's not easy enough.",1205730300
+138700,comment,138508,138693,0,0,kingkongrevenge,,,"> The whole point of a central bank is to smooth out the business cycles<p>That's the cover story.  A few centuries of data from source around the world clearly show that central banking destabilizes prices and economies and aggravates the business cycle.<p>The purpose of central banks is to allow a connected elite to rip off the population at large through seigniorage.<p>This is NOT conspiracy theory garbage.  This has been popularly understood at various times in US history.  Tom Paine wrote about it extensively as a best selling author.  Andrew Jackson got a mandate to dismantle the national bank.",1205730253
+138699,comment,138355,138355,0,0,curi,,,"the text field is a little too hard to notice in safari given the pre-entered text. i suggest adding a thicker border and using javascript to select it on pageload.",1205730252
+138698,story,,,6,1,mnemonicsloth,"What's Hot In Applied Math: Intro to Random Graphs",http://www.math.cornell.edu/~durrett/RGD/RGD.html,,1205730245
+138697,comment,137818,137818,0,0,tlrobinson,,,"<i>All of our data was anonymized; we had no access to personally identiﬁable information. 
+Also, we had no access to text of the messages exchanged or any other information that 
+could be used to uniquely identify users.</i>",1205730224
+138696,comment,137818,137874,0,0,tlrobinson,,,"<i>All of our data was anonymized; we had no access to personally identiﬁable information. 
+Also, we had no access to text of the messages exchanged or any other information that 
+could be used to uniquely identify users.</i>",1205730162
+138695,comment,138676,138676,0,0,rms,,,"<a href=""http://news.ycombinator.com/item?id=119360"" rel=""nofollow"">http://news.ycombinator.com/item?id=119360</a>",1205730126

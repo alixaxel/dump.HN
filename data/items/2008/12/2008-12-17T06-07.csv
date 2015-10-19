@@ -1,0 +1,57 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+400655,comment,400004,400460,0,0,ntoshev,,,"GAE is not suitable for porting existing programs to it regardless of the language: the architecture is too different.",1229497050
+400654,story,,,3,0,jmorin007,"It's the people, stupid.",http://ansanelli.com/blog/?p=63,,1229497045
+400653,comment,398913,399233,0,0,teej,,,"How do you mitigate the risk of local maxima?  Is there good way to try (or justify trying) radically different approaches without undermining past work?",1229496635
+400652,comment,400593,400616,0,0,tdavis,,,"I just got a server error trying to load a comments page with > 100 comments ;)",1229496582
+400651,comment,400485,400485,0,0,jobenjo,,,"We launched a similar plugin with Webmynd for Fluther and so far our users have been very receptive.<p>I have to say it's a brilliant way for them to market their service, and everybody wins.",1229496576
+400649,comment,399533,400600,0,0,david927,,,"The money each person contributes will be an equity investment.",1229496498
+400648,comment,400580,400613,0,0,mattmaroon,,,"Yeah that's why I hate it. I hope I can find it and submit some feedback saying ""I really hate having to look on more than 1 page to find every sports score ever reported.""",1229496390
+400647,comment,398913,399104,0,0,teej,,,"I know this isn't 100% relevant to your post, but AOL used to have undo on sent emails (to other aol members)",1229496378
+400646,story,,,1,0,terpua,"Software For The Recession",http://www.forbes.com/technology/2008/12/16/cio-ingres-harr-tech-cio-cx_dh_1217ingres.html,,1229496339
+400645,comment,400501,400501,0,0,psyklic,,,"This analogy is nothing new, and unfortunately it is just the latest analogy of the brain to the latest technological gizmo.<p>The brain was analogous to the telegraph, the telephone switchboard, the computer, and now ... the Internet.",1229496245
+400644,comment,400147,400147,0,0,ieatpaste,,,"Did anyone else start programming on TI calculators? I was 11 when I got a TI-83, which is essentially a portable editor and compiler. Not only could you write TI-Basic and z80 assembly, you could write pseudo-assembly with the Basic commands due to bad syntax checking - and you could do it anywhere! Oh the nostalgia. I lament the day my 83 died.<p>But was this to the detriment of my personality? I say no. Not only did it encourage relationships with like-minded peers, it also helped me understand the social attitudes through design (products for people's needs). I would like to think that I came out alright - socially-competent in respects. In fact, I'm not even the type that you would peg as a programmer.",1229496160
+400643,comment,400593,400593,0,0,sidsavara,,,"Nice. I also enjoy this one a lot<p><a href=""http://www.icombinator.net/"" rel=""nofollow"">http://www.icombinator.net/</a>",1229496098
+400642,comment,400614,400614,0,0,psyklic,,,"The study linked to says in huge type: ""Google Chrome Receives Lowest Password Security Score""<p>In comparatively tiny type it says: ""Safari Ties for Last Place""<p>hmmm sounds like biased reporting ...",1229496006
+400641,comment,400593,400593,0,0,teej,,,"Comments and a favicon please!",1229495999
+400640,story,,,3,0,kqr2,"Madoff fraud could burn those who pulled out early",http://www.reuters.com/article/ousiv/idUSTRE4BG0DT20081217,,1229495893
+400639,comment,400378,400378,0,0,jdale27,,,"""RDF is hard. Let's go shopping!""",1229495702
+400638,comment,400560,400560,0,0,psyklic,,,"I agree with Minsky -- ""anything computers can't do yet"" ;-)",1229495697
+400637,comment,400085,400591,0,0,enra,,,"This is like my personal rule. I try to avoid credit and loan, unless 1) I really need it(emergency etc) 2) it makes me money(eg. a business opportunity 3) its saves me money(eg. house loan(which isn't always the case)).<p>But most people seem to take credit and loan just because they _want_ something, and just raise their standard of living on money they don't really have, and hurting their future wealth.",1229495507
+400635,comment,398597,399335,0,0,MaysonL,,,"<a href=""http://news.ycombinator.com/item?id=386811"" rel=""nofollow"">http://news.ycombinator.com/item?id=386811</a><p>See my comment there: <a href=""http://news.ycombinator.com/item?id=388401"" rel=""nofollow"">http://news.ycombinator.com/item?id=388401</a>",1229495386
+400634,comment,400527,400618,0,0,illumen,,,"That is almost true<i>1, but completely misses the point.<p>They are using tools(gcc) by people who count on their honesty to give people the same freedom they are given.<p>Get a better business model.  Software copying has been happening since the beginning(since before people were charging for software)... learn from history.  People who still complain about copying software are very silly, they haven't learnt from over 50 years of history.<p></i>1 not a lawyer, however  --  with certain compiler switches you <i>can</i> include GPL software with gcc.  For example if you link in GPL covered object code.",1229495117
+400633,comment,56618,56618,0,0,garnerwoods,,,"Usually I will find out what book famous people has read, what are their favorite books, hope that any book which bring influence on them, will bring good influence on me too.. also, as famous n successful people combined with their experience, I'm sure they have better taste on their choice too.<p>Stephen King's Favorite:
+This Book Will Save Your Life by A. M. Homes
+Saturday by Ian McEwan
+The Mad Cook of Pymatuning: A Novel by Christopher Lehmann-Haupt
+The Girl with the Dragon Tattoo by Stieg Larsson
+The Tenderness of Wolves: A Novel by Stef Penney
+When Will There Be Good News?: A Novel by Kate Atkinson<p>J.K. Rowling's Favorite:
+The Five Red Herrings by Dorothy L. Sayers
+I Capture the Castle by Dodie Smith
+Skellig by David Almond
+The Woman Who Walked into Doors by Roddy Doyle<p>Jeffrey Eugenides, author, Pulitzer prize winner
+""Herzog,"" by Saul Bellow
+""Love in a Fallen City,"" by Eileen Chang
+""The Lay of the Land,"" by Richard Ford<p>Oprah Winfrey's Favorite:
+White Oleander by Janet Fitch
+The Color Purple by Alice Walker
+A Tree Grows in Brooklyn by Betty Smith
+The Four Agreements by Don Miguel Ruiz
+To Kill a Mockingbird by Harper Lee
+The Bluest Eye by Toni Morrison
+The Grapes of Wrath by John Steinbeck<p>For complete list visit <a href=""http://www.famouspal.com"" rel=""nofollow"">http://www.famouspal.com</a>",1229495064
+400632,comment,398597,399671,0,0,MaysonL,,,"Hey terrycojones! Thanks for the cool shit you're doing ;-)<p>Edit: Just ordered Vol 1 of the Orwell essays from abebooks [much cheaper than Amazon]",1229495026
+400631,comment,400418,400545,0,0,namcos,,,,1229494875
+400630,story,,,1,0,qhoxie,"Industrial Strength Application Development in JavaScript",http://kevinoncode.blogspot.com/2008/12/industrial-strength-application.html,,1229494745
+400629,story,,,1,1,nreece,"Marketing Geeks Make Their Predictions for 2009",http://www.readwriteweb.com/archives/top_marketing_geeks_make_their_predictions.php,,1229494741
+400628,comment,365695,366284,0,0,sown,,,"I forgot that BES sends email through canada",1229494716
+400627,story,,,3,0,nreece,"A New Theory of the Universe",http://www.theamericanscholar.org/archives/sp07/newtheory-lanza.html,,1229494706
+400626,comment,400085,400366,0,0,maxwell,,,"Capitalism is just a system that replaced heredity with exchange values as the economic imperative. It's only been used by a few primate tribes for a few hundred years. It's about as significant to the genetic tree of life as this sentence I'm writing is to the internet. And it's dying anyway; this site, for instance, implements a postcapitalist economic system.",1229494642
+400625,comment,399630,400459,0,0,DenisM,,,"If rolodex is built on company's time and dime then it's company's IP. No need for non-compete in that case.<p>Reltionships are fair game. I don't think any corproation should be able to dictate whom I can and can not talk to. This is where their business interests end and my personal liberties begin.",1229494602
+400624,story,,,1,0,nreece," Intel Pushing Parallelism to Developers",http://www.cio.com/article/470863/Intel_Pushing_Parallelism_to_Developers,,1229494519
+400623,story,,,1,0,nreece,"Does It Come Down To The IDE?",http://www.infoaccelerator.net/blog/post.cfm/does-it-come-down-to-the-ide,,1229494515
+400622,story,,,2,0,jasonlbaptiste,"LaLa, The Black Sheep Of Music Startups, Just May Have The Right Formula",http://www.techcrunch.com/2008/12/16/lala-the-black-sheep-of-music-startups-just-may-have-the-right-formula/,,1229493998
+400621,comment,400485,400485,0,0,newt0311,,,"Very nice. Its like <search term> site:news.ycombinator.com but orders of magnitudes more polished and better designed.",1229493936
+400620,comment,400004,400004,0,0,bhiggins,,,"It seems that App Engine will remain just a fun toy until more of its limitations are removed.",1229493793
+400619,comment,399395,399927,0,0,joestrickler,,,"Log critical/connectivity errors to a local disk.",1229493779
+400618,comment,400527,400611,0,0,tb,,,"Compilers licensed under the GPL do not transfer their license to their output. This is explicitly stated in the GPL.",1229493665

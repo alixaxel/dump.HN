@@ -1,0 +1,126 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3202076,story,,,1,0,TadashiYamada,,http://androck.jp/,,1320562798
+3202075,comment,3201876,3202065,3,0,veyron,,,"<a href=""http://safekidzone.com/"" rel=""nofollow"">http://safekidzone.com/</a> being tested in california iirc",1320562783
+3202074,comment,3197798,3201346,1,0,buff-a,,,"It doesn't have any new abstractions except for those two really useful ones. Oh, ok, but it <i>other than those</i> it doesn't have any new ones. =)",1320562756
+3202073,story,,,1,0,smapsekar,"New livestream",http://new.livestream.com/,,1320562627
+3202072,story,,,1,0,ashishb01,"Sotalol Side Effects",http://www.all-side-effects.com/sotalol-side-effects/,,1320562581
+3202071,comment,3201351,3201755,1,0,beambot,,,"Albeit a bit different, Kickstarter tiered ""products"" are one way to test this...",1320562541
+3202070,comment,3199463,3200433,1,0,pmiller2,,,"Your ""white girl vs brown girl"" scenario is a pure straw man. It does not deserve to be answered.",1320562483
+3202068,story,,,95,32,apievangelist,"Khan Academy Gets 5 Million to Expand Faculty & Platform & to Build a School",http://www.hackeducation.com/2011/11/04/khan-academy-gets-5-million-to-expand-faculty-platform-to-build-a-physical-school/#.TrYurm_MG4Y.hackernews,,1320562397
+3202067,comment,3200683,3201302,0,0,plasma,,,"Why the downvotes? Why would I bother mentioning alternatives next time, sheesh.",1320562396
+3202066,story,,,2,0,joshviar,"Neworking Events",http://viebusinessgroup.com/neworking-events/,,1320562268
+3202065,comment,3201876,3201876,6,0,adrianwaj,,,"Does a product exist combining a panic button with a gps (or mobile location) that links to police, ambulance or fire. 1 click police, 2 clicks ambulance, 3 clicks fire... sort of thing?",1320562221
+3202064,comment,3200193,3200608,3,0,einhverfr,,,"Let's see:<p>I learned Basic because I had a C64 (show of hands: anyone else?)<p>I learned Fortran because my Running Start advisor didn't think 8 credits of C in a term would fit into high school credits well and I had to match HS and college credits according to an arcane formula.  Ok, I still shiver at the thought of Fortran....<p>I learned some C years later because it was a ""serious"" programming language.  Not very well though.<p>PHP because it seemed like a good idea at the time.<p>Perl because I wanted to apply for jobs using it.,<p>Python because I was unemployed for a bit and bored.<p>Ruby because a customer asked me to teach them (yes, I objected saying I didn't know the language.  I was told ""that's ok!"")<p>and so on.<p>However the things that have made me better have not been knowing all these languages but knowing the human side of the problems I am solving.  I taught myself accounting to run my own business, never knowing that it would become my life (I now write open source accounting software).<p>So if I were to give a new programmer advice, it would be:<p>1)  Learn a few languages, because then you can learn new ones easily.<p>2)  Learn about databases, not just SQL, but also as much about the low level implementation as you can.<p>3)  Learn about problems and other unrelated disciplines so you can better solve the problems.  So yes, math, statistics, accounting, biology, chemistry, permaculture, etc. are all good things to study.",1320562176
+3202063,story,,,141,54,mrb,"1TB Hard Drive Prices up 180% in a Month",http://blog.zorinaq.com/?e=62,,1320562114
+3202062,story,,,1,0,hanakres,"Build Web Site",http://www-buildwebsite.com,"Build web site yourself without having to use the services of others. Be an independent online entrepreneurs.
+The site ""build web site"" is a collection of articles that discuss these materials in building a website. Starting from a unique keyword research to target the business market, determine the domain and hosting, collecting material from the start articles, photos and video. Until on page optimization and off page to sites that could be made friendly to search engines and visitors can bring in an abundance that any product sold could generate a lot of buyers so that our business will bring many benefits.",1320561938
+3202061,comment,3202058,3202058,1,0,pak,,,"For those trying to use the arrow keys to walk around the 3D environment, and finding their browser window tries to scroll instead, WASD seems to also better for me on Chrome.",1320561915
+3202060,comment,3200193,3201960,1,0,irahul,,,"Yes, indeed it should be $7 instead of $6.<p>I didn't run it when I posted the comment. I just copied it from the article.",1320561868
+3202059,comment,3200453,3200453,1,0,trevelyan,,,"The page is too text-heavy. I can't tell what it does even after trying.",1320561808
+3202058,story,,,3,1,pak,"One Millionth Tower, an interactive documentary in HTML5",http://www.wired.com/underwire/2011/11/one-millionth-tower/,,1320561729
+3202057,story,,,1,0,nativeblogger,"Big Animated Origami Tutorial Lite App for Android",http://nativeblogger.com/2011/11/big-animated-origami-tutorial-lite-app-for-android/,,1320561698
+3202056,comment,3201033,3201033,6,0,perlgeek,,,"As somebody who doesn't know python, I find  a = list(b) to be not very intuitive. b is a list already, why call list() on it?<p>So I don't think you gain any readability over the slicing syntax.",1320561632
+3202055,story,,,1,0,martinbanglow,Havermoutkoekjes,http://bakken-in-stappen.nl/2011/11/havermoutkoekjes/,,1320561602
+3202054,comment,3201876,3201876,-2,0,malbs,,,"I hope she is ok and has just gone walkabout. Even then, a courtesy ""I'm ok"" call goes a hell of a long way.",1320561342
+3202053,comment,3201876,3202047,5,0,sbisker,,,"Usually the cops are on that sort of thing. I hope. 
+But it might be worth checking Google Latitude, MobileMe, Loopt and the like; if she used any of those indirect passive GPS services.",1320561212
+3202052,comment,3200683,3201623,2,0,Detrus,,,"If you're taking your time to design some important large scale system, using proven technologies is easier overall with higher up front costs.<p>Prototypes are another story. You'd optimize against mental overhead.",1320561182
+3202051,story,,,1,0,ashishb01,"Sotalol Side Effects",http://www.all-side-effects.com/sotalol-side-effects/,,1320561145
+3202050,comment,3201033,3201992,3,0,nikcub,,,"Thanks for noticing - I got my numbers completely off. When I ran the benchmark on my machine it turns out it was still using the original copy.<p>One way to catch deepcopy bugs might be to create an autocopy function which can detect if it is a 'shallow' object and use copy, or if not use deepcopy.<p>I am going to try and write an implementation that doesn't slow it down too much. It might be worthwhile since copy bugs are so common in Python projects.",1320561128
+3202049,comment,3199718,3200146,2,0,lliiffee,,,"I don't see why not.  Different classifiers have different bias/variance characteristics.  If you want to increase variance and decrease bias, than boost your classifier.  (This is why boosting is usually applied to simple classifiers.)  But whether that will actually help depends on the characteristics of the problem and the classifier used.<p>I guess bagging is a different story.  So far as I know bagging usually decreases variance with no bias penalty, so it is more a trade-off between variance and speed.",1320561126
+3202048,comment,3201582,3201756,1,0,bjaress,,,"He set up separate hosting for some static splash pages and got some
+information for us from vendors.<p>I never did get a clear explanation of his role, and he stayed at
+another site with the project manager, so I really don't know how much
+work he did, only that I didn't see him do very much.",1320561105
+3202047,comment,3201876,3201876,2,0,geuis,,,"Assuming that she has a smartphone, has anyone checked to see her last known gps position?",1320561076
+3202046,comment,3201351,3201351,1,0,itsnotvalid,,,"One thing is true for this product is that the pricing per MB of RAM is cheaper than those on market. However most of them have 1.2Ghz or so processor and a 3.5"" bay instead of 2.5"", I really need some benchmark to tell. You don't want portability and 24/7/365 uptime with the same device.<p>Comparing eggs here, the closest you can get for something like this, say QNAP's, would cost 149 for a 256MB 1.2Ghz SoC stuff with 1 bay.<p>What most of us here would wonder, is what OS could we load into the system with adequate driver support, or just some firmware like tomato (<a href=""http://www.polarcloud.com/tomato"" rel=""nofollow"">http://www.polarcloud.com/tomato</a>).",1320561067
+3202045,comment,3201033,3201033,2,0,sygeek,,,"Despite being a non-programmer, I found this article really user-friendly.",1320561034
+3202044,story,,,1,0,rosser,"FOG Computing (DARPA-funded)",http://sneakers.cs.columbia.edu/ids/FOG/,,1320561003
+3202043,story,,,4,0,damian2000,"StackOverflow's programming language ""bias""",http://www.dodgycoder.net/2011/11/stackoverflows-programming-language.html,,1320560937
+3202042,comment,3201834,3201834,1,0,capex,,,"An illustration would've been great, but I wanted to test my ability to describe something just with words.",1320560840
+3202041,story,,,1,0,rijwankadri,"How to Learn Spanish Easily And Faster",http://learneasyspanishlessons.blogspot.com/2011/09/how-to-learn-spanish-easily-and-faster.html#.TrYowih-tyk.hackernews,,1320560837
+3202040,story,,,1,0,TORAFARUGA10,,http://karin.s362.xrea.com/daiet/,,1320560790
+3202039,story,,,1,0,MikeCorso,Copyblogger,http://www.coolsiteoftheday.com/2011/11/blogger/,,1320560761
+3202038,story,,,1,0,unixroot,"Duqu malware was created to spy on Iran's nuclear program",http://thehackernews.com/2011/11/duqu-malware-was-created-to-spy-on.html#.TrYoKjOclYI.hackernews,,1320560696
+3202037,comment,3198171,3198171,1,0,nks,,,"I've always been a little confused as to why whenever Jobs and Gates come under discussion, there is an instant contrast drawn with either one placed on completely different extremes. One was good other was bad, one was creative other was not, one was spiritual and zen-like and the other was stuffy and corporate. It's almost like they cannot be reconciled in any way possible.<p>I feel like people often conflate people with their creations and forget that they both are human beings who change, evolve and behave differently under different contexts.<p>I mean, they both are/were great visionaries and their greatness was manifested in different ways just like their weaknesses in personalities. They both created lasting companies which changed the world at an age where most of us are still figuring out what to do with our lives.<p>You don't have to hate BillG in order to like Steve Jobs or vice versa.<p>I personally find inspiring traits in both of them.",1320560682
+3202036,comment,3201540,3202020,3,0,Dove,,,"I think you accidentally posted that in the wrong thread. The notice refers to this item:<p><a href=""http://news.ycombinator.com/item?id=3201351"" rel=""nofollow"">http://news.ycombinator.com/item?id=3201351</a>",1320560657
+3202035,comment,3201540,3201867,1,0,burgerbrain,,,"What sort of beers do you recommend doing this with?",1320560638
+3202034,comment,3201351,3201673,-1,0,itsnotvalid,,,"You are talking SoC (<a href=""http://en.wikipedia.org/wiki/System_on_a_chip"" rel=""nofollow"">http://en.wikipedia.org/wiki/System_on_a_chip</a>) right? I think most NAS you get for retail users are made by some of those chips. Also true for small home routers.",1320560603
+3202033,comment,3200939,3201561,6,0,philwelch,,,"That's still within the realm of human error.",1320560539
+3202032,comment,3201811,3201811,1,0,eogas,,,"That's pretty shameful.  I wouldn't really consider this a clone so much as a shameless ripoff with no attribution whatsoever.  How does this kind of stuff make it through the approval process?  I suppose the process is more to cover Apple's own ass than to protect developers.",1320560505
+3202031,story,,,1,0,moume,"The Role of Your Website Visitor for increasing web traffic",http://increaserss.com/the-role-of-your-website-visitor-for-increasing-web-traffic/,,1320560498
+3202030,comment,3201033,3201033,-2,0,guruparan18,,,"I knew white space means a lot in Python (Disc: newbee and learning Python still!). Just found this, and thought someone out there might be able to throw some more light.<p><pre><code>  Python 2.7.2 (default, Jun 12 2011, 15:08:59) [MSC v.1500 32 bit (Intel)] on win32
+  Type ""copyright"", ""credits"" or ""license()"" for more information.
+  >>> a=[1,2,3]
+  >>> b=a
+  >>> b
+  [1, 2, 3]
+  >>> a=[1]
+  >>> b
+  [1, 2, 3]
+  >>> id(a)
+  18704984
+  >>> id(b)
+  18721728
+  >>> c = [4, 5, 6]
+  >>> d = c
+  >>> id(c)
+  10755928
+  >>> id(d)
+  10755928
+  >>> print c, d
+  [4, 5, 6] [4, 5, 6]
+  >>> c = [7]
+  >>> print c, d
+  [7] [4, 5, 6]
+  >>> e = c
+  >>> c.append(8)
+  >>> print c, d, e
+  [7, 8] [4, 5, 6] [7, 8]
+  >>></code></pre>",1320560496
+3202029,story,,,1,0,jeffreysimjilu,"Tack Worx... Where Tack Works",http://www.tackworx.com/,,1320560490
+3202028,comment,3200683,3200921,8,0,stoneg,,,"yes, we are using mongo from 1.6.3. Reliability, Locking and Data security (not losing data) are never first priorities on their to-do list, they just push new features and busy doing marketing propaganda about how web-scale mongodb is(which is fake). I submitted a jira issue about losing data when sync a slave, it's already 3+ months, all they did is let me try the new releases to see if it fix the problem. I tried the latest 2.0.1 release, and it's still cause data loss. Every time I sync a new slave, I pray to god, hoping not lose data.<p>How come a DB lose data so frequently and it sill call itself web-scale? It just breaks when you need scale!<p>For auto-sharding it's also super unreliable, tried once and it failed, and now we are using a lib that do application level sharding. We are also considering move to other databases that at least know not losing data is the first and most important thing of a DB.<p>Some one summarized the issues of mongodb, <a href=""http://pastebin.com/raw.php?i=FD3xe6Jt"" rel=""nofollow"">http://pastebin.com/raw.php?i=FD3xe6Jt</a> , we experienced most problems in the article. So just a remind for someone who want to create serious product using mongodb, read the article, it's not FUD, it's just so true that I hope I read it 1 year ago, so we don't have to try moving so much legacy data to a new database solution.",1320560443
+3202027,comment,3197798,3200361,3,0,chipsy,,,"These things are a form of ""premature optimization,"" which I think anyone can be misguided into, but which younger/less experienced programmers are particularly prone to, because they naturally tend to have uneven skill development, so they'll try to build from strengths before branching out.<p>Premature optimization of typing = complex text editor<p>Premature optimization of debugging = excessive unit tests or formalism<p>Premature optimization of product = coding features without feedback",1320560440
+3202026,comment,3201033,3201033,2,0,irahul,,,"<p><pre><code>    b = a[:]
+</code></pre>
+This happens to be fastest, and language recommended way to copy lists.<p>I really don't buy the argument about languages being intuitive to people who don't know the language. Languages should be optimized for people who know the language. I think Matz has mentioned it somewhere regarding ""principle of least surprise"" and Ruby.",1320560440
+3202025,comment,3201980,3201980,4,0,nzmsv,,,"One way to check if there is in fact some truth to a bit of folk wisdom / superstition is to see how universal it is.<p>I was born in Russia, and have never heard about the sugar+hyperactivity thing before moving to Canada. At the same time, nearly everyone back in Russia is <i>sure</i> that going out lightly dressed in cold weather will make one sick, and this seems to be news to Canadians.",1320560398
+3202024,comment,3200852,3200852,1,0,Canada,,,"Wow, finally this months old story is making the rounds here?",1320560374
+3202023,comment,3201351,3201501,2,0,noonespecial,,,"They probably wanted to say 1.2 Watt-hours per hour.<p>Where I live, a watt-year costs about a buck so it would be $1.20 to run it for an entire year.",1320560338
+3202022,comment,3200939,3200939,2,0,tawm04,,,"This is the worst piece of interview footage I've every seen. Why is the interviewee shot at the profile? Why do I care to see the interviewer head on?<p>I stopped watching after the second zoom in on interviewee.",1320560320
+3202021,comment,3201582,3201975,2,0,dantiberian,,,"Halfway through the post I was expecting it to turn out to be a chatbot, not a real person.",1320560272
+3202020,comment,3201540,3201540,-1,0,Egusta,,,"""Note: Looks like we are trending in Hacker News. We would like to offer a TP2 for the best comment in HN. We learned a lot from the HN community over the years - It is the least we can do.""",1320560253
+3202019,story,,,4,1,mikeleeorg,"Apple & Ed-Tech Payola",http://www.hackeducation.com/2011/11/05/apple-ed-tech-payola/,,1320560252
+3202018,story,,,1,0,teamPakyaw1,"Government Assistance for Single Mothers and Resources",http://grants-for-singlemothers.com/government-assistance-for-single-mothers-and-resources/,,1320560249
+3202017,comment,3200683,3201724,1,0,einhverfr,,,"The problem with Cassandra is you never believe the responses to your queries.....  until it is too late.....",1320560233
+3202016,comment,3200852,3201319,1,0,Cieplak,,,"You are absolutely correct that futures or call options could ameliorate this issue.<p>However, I think stockpiling cancer drugs is a market distortion, which might justify government intervention in the form of price ceilings for various generic drugs.",1320560215
+3202015,comment,3199907,3199907,1,0,yaix,,,"What's that additional layer of PHP code good for? Call your API from Javascript.",1320560164
+3202014,story,,,7,3,efader,"How did the VCs perform with the Groupon IPO?",http://www.trendslate.com/2011/11/05/vc-firm-groupon-gains/,,1320560126
+3202013,story,,,1,0,teamPakyaw1,"Government Assistance for Single Mothers",http://grants-for-singlemothers.com/government-assistance-for-single-mothers/,,1320560042
+3202012,story,,,1,0,luigionline,"$197 32-inch HDTV and 11.6-inch Laptop on Sale today at Target",http://www.i4u.com/48205/early-target-black-friday-sale-offers-197-32-inch-hdtv-and-116-inch-laptop,,1320560023
+3202011,comment,3201876,3201920,4,0,davyjones,,,"> but there was no indication<p>The post mentions: ""here is the information we can share"". I am guessing they whetted it out with the police and deliberately didn't mention the security cameras and other specifics.",1320559999
+3202010,comment,3201351,3201351,5,0,noonespecial,,,"I've been on Globalscale's treadmill since the very first ""SheevaPlug"" release. It wasn't until 2 products later ""Dreamplug"" that they really worked out their heat and power problems.<p>I'm a bit worried that a device like this, crammed in <i>with a hard disk</i> is going to bring all that back up again.<p>Its great if its cheap to run 24/7, but it has to actually be able to do this without overheating and locking up twice a week to be useful.<p>I'm hopeful though. I've had great luck with $149 Dreamplugs as permanent home servers. This is cheaper and fits the hard drive inside. Nice.<p>With these on the scene, it becomes ridiculous to ""turn that old desktop into a home server"". That 100watt desktop will cost you as much in power in a year as just buying one of these, not to mention being noisy, large and ugly.",1320559994
+3202009,story,,,1,0,blackhole,"One of our major parties is *clinically fucking insane*",http://doghouseriley.blogspot.com/2011/11/getting-in-on-ground-floor-before-it.html,,1320559985
+3202008,comment,3201943,3201987,1,0,there,,,"yes, every carrier's phones do.",1320559983
+3202007,story,,,1,0,anthony267,"Pittsburg Real Estate For Sale",http://theeastbayhomes.com/?p=5116,,1320559960
+3202006,comment,3201853,3201994,1,0,dillon,,,"10th most popular on Github. <a href=""https://github.com/languages"" rel=""nofollow"">https://github.com/languages</a>",1320559941
+3202005,comment,3201186,3201186,1,0,Canada,,,"This is why facebook never gets on my noscript whitelist, why I only use it in a private browsing session and why I hardly ever login.",1320559925
+3202004,comment,3200213,3201386,2,0,irahul,,,"> It's not an analogy, it's a parody.<p>Whatever it is, it's fundamentally flawed. People studying to be theoretical physicists know it's a long and hard path. Also, they are eligible for a number of quant jobs.<p>> No education makes you ""eligible"" for a ""related"" job (unless the job is ""college professor"").<p>So, those doctors, lawyers, nuclear physicists, rocket scientists, architects, civil engineers, mechanical engineers... should have just got an English major, since their education didn't do shit.<p>That's outright ridiculous, and wrong. Pretty much anything in hard sciences and technology(programming being a notable exception) requires a related formal education. And it's not bureaucratic - the job needs the background. Your well roundedness and critical thinking and whatever doesn't make you a doctor.",1320559802
+3202003,story,,,13,0,audreyw,"Apple & Ed-Tech Payola",http://www.hackeducation.com/2011/11/05/apple-ed-tech-payola/#.TrYkjwztPZ4.hackernews,,1320559765
+3202000,comment,3201033,3201847,1,0,tedunangst,,,"I believe he meant:<p><pre><code>    all = range()
+    allbut2 = all
+    allbut2.remove(2)
+</code></pre>
+which is something that catches people all the time.",1320559656
+3201999,story,,,2,0,kcurtin,"Designing to Reveal the Nature of the Universe",http://the-witness.net/news/2011/11/designing-to-reveal-the-nature-of-the-universe/,,1320559620
+3201998,comment,3201186,3201332,1,0,Hitchhiker,,,"In Criminal Minds, they talk about a perp devolving .. as business pressures increment[1] .. these incidents will only increase in occurrence and decrease in terms of surprise for users.<p>[1] - <a href=""http://www.foxbusiness.com/technology/2011/11/04/investors-unfriend-facebook-ipo/"" rel=""nofollow"">http://www.foxbusiness.com/technology/2011/11/04/investors-u...</a>",1320559548
+3201997,story,,,1,0,rajanchandi,"Hackodex.com - Chatroulette for Hackers & VCs (MVP)",http://www.hackodex.om,,1320559510
+3201996,story,,,1,0,BrianBCS9,"Awesome, Cool Website",http://www.points2shop.com/?ref=uin1315963679,,1320559413
+3201995,story,,,1,0,larisa10,"Three Simple Ways To Stop Sinus Drainage",http://ezinearticles.com/?Three-Simple-Ways-To-Stop-Sinus-Drainage&id=6641357,,1320559396
+3201994,comment,3201853,3201853,1,0,ricardobeat,,,"Yup. It's currently the 6th most popular language: <a href=""http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html"" rel=""nofollow"">http://www.tiobe.com/index.php/content/paperinfo/tpci/index....</a> (among all of IT, not just iOS)",1320559357
+3201993,story,,,1,0,EMRo,"A Day Made of Glass: Corning's vision of the future of displays",https://www.youtube.com/watch?v=6Cf7IL_eZ38,,1320559353
+3201992,comment,3201033,3201895,6,0,tedunangst,,,"I'm puzzled by your comment that there's very little degradation using deepcopy everywhere.  Your numbers demonstrate quite the opposite.",1320559344
+3201991,comment,3201351,3201971,0,0,moonlighter,,,"So if you've got $800K, does 'rounding it up' then make you a real millionaire?",1320559333
+3201990,story,,,1,0,zoowar,"Everything about Redis 2.4",http://antirez.com/post/everything-about-redis-24,,1320559270
+3201989,comment,3201540,3201779,1,0,initself,,,"Here's a great cheap online resource for goji berries:<p><a href=""http://www.drkangformulas.com/orderquick/herb1.htm"" rel=""nofollow"">http://www.drkangformulas.com/orderquick/herb1.htm</a><p>G11 - Gou Qi Zi (high)
+Price:$6.99",1320559214

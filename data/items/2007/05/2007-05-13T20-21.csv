@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21799,comment,21630,21630,0,0,jsmcgd,,,"You could try Cool Text for free (<a href=""http://cooltext.com/)."" rel=""nofollow"">http://cooltext.com/).</a>
+Their default settings are a bit naff but with a little
+effort, time and some 'taste' you can make something half decent.",1179088953
+21798,story,,,3,6,danw,"Don't Sell Your Product, Sell Your Concept",http://mindpetals.com/blog/2007/05/don%e2%80%99t-sell-your-product-sell-your-concept/,,1179088598
+21797,comment,21664,21664,0,0,startupper,,,"What is old is new again.  From the article:<p>""The Valley's new wisdom: don't fund anyone over 30.""<p>Eerily reminiscent of Bubble 1.0.<p><p>",1179088573
+21796,comment,21686,21758,0,0,phil,,,"<i>That means they're not at the stage yet where they can just throw machines in to handle growth.</i><p>Hmm, why do you say that? They've already got the DB off on other machines, and it sounds very much like they are doing all the things you do to a rails site so that you can scale it by plugging in more app servers. I.e. they already put everything shared into the DB or memcached.",1179088406
+21795,story,,,22,9,mqt,"My Facebook Interview Saga",http://www.cs.ubc.ca/~rlotun/entries/12052007a.html,,1179088333

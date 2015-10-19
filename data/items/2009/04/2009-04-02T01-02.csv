@@ -1,0 +1,141 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+542807,comment,541753,542769,0,0,palish,,,"On a related note, <i>Visualizing Quaternions</i> is a great book.",1238637399
+542806,story,,,26,21,dcurtis,"Senate majority vs. national debt",http://iamwil.posterous.com/senate-majority-vs-national-debt-getting-at-p,,1238637365
+542805,comment,542716,542716,0,0,jseifer,,,"""Investors now want to know that you're not going to be paying tons and tons of money for servers because you decided to build in a stack that isn't as efficient as possible,"" he said.<p>I've never used Scala and I'm a Ruby dev but I'm still not sure I totally agree with that.  Scala is probably great and very efficient but you probably don't need to be thinking at Twitter's level out of the gate.",1238637237
+542804,comment,541913,542679,0,0,akkartik,,,"Check out this mail and the thread around it: <a href=""http://gcc.gnu.org/ml/gcc/2002-02/msg01823.html"" rel=""nofollow"">http://gcc.gnu.org/ml/gcc/2002-02/msg01823.html</a>
+They've argued this many times on the gcc list.",1238637224
+542803,story,,,4,0,peter123,"Lean Startups: Web 2.0 Expo session followup",http://startuplessonslearned.blogspot.com/2009/04/web-20-expo-session-followup.html,,1238637183
+542801,comment,542645,542790,0,0,mustpax,,,"Yes, what a brilliant idea. ""We'll encrypt our content using a standardized language which by definition runs on several open source platforms. That ought to trump those user agents.""",1238637007
+542800,comment,542472,542735,0,0,symptic,,,"The LP's I do take roughly 60-90 minutes. When I'm not focusing on school, I can log on to IRC or AIM and find a day's work within 30 minutes if I don't have any lined up before. $175 in that time frame adds up. I fill my role well.",1238636983
+542799,story,,,1,0,babyshake,"Sesame Innovations: Four Decades of Helping Kids Know and Gr",http://www.youtube.com/watch?v=RHWQLb3eoVg,,1238636956
+542798,comment,541913,541913,0,0,dave_au,,,"It's far from a trivial task but one thing I keep wondering about LLVM is - what happens if they worked on (optional) incremental parsing/compiling?<p>Seeing the errors as you type is pretty handy in Java so I figure it'd be pretty nice in C or C++.<p>It also means you'd have enough information about what's happening at the point you are editing to do some pretty impressive things in terms of autocompletion - there's still a lot of autocompletion in C++ that there is no open source solution (as far as I've seen from looking around for a while).<p>And with the appropriate debugging hooks you could implement something like edit-and-continue from Visual Studio.  I haven't used that in years, but it'd be a nice feature to have.<p>I think that templates would make it a complex problem, but I can dream.  Or I can start hacking away when I get some free time :)",1238636877
+542797,comment,542763,542775,0,0,mrtron,,,"I don't know why we hadn't done this yet - but I am now sending svn commit notices, website errors, and all of our other msgs to a Chatterous group.<p>It took 5 minutes, and is super handy.",1238636870
+542796,comment,541655,541655,0,0,m0digital,,,"IntelliJ IDEA",1238636849
+542795,comment,542108,542108,0,0,petercooper,,,"martoo on the equivalent Reddit post had the best thing to say about this:<p><i>""There needs to be a special term for an attempt at an April Fool's Day Joke, which is in all of its points true and then ends up looking like a joke made by an author at his own expense.""</i><p><a href=""http://www.reddit.com/r/ruby/comments/8966h/ruby_is_the_future/"" rel=""nofollow"">http://www.reddit.com/r/ruby/comments/8966h/ruby_is_the_futu...</a>",1238636749
+542794,comment,542791,542791,0,0,babyshake,,,"I am almost positive that this is an April Fools joke, but maybe not?",1238636728
+542793,comment,542017,542621,0,0,Keyframe,,,"After Microsoft bought softimage and delegated its development resources to porting SI|3D to WINNT and further architecture Sumatra (code name for XSI) to be NT only, there were only a few more blows to SGI that topled the castle.<p>Alias/Thomson division of SGI was merged with newly bought Wavefront into Alias|Wavefront - they've spent money on wavefront, and delegated AW to build a new platform, code name Maya, to compete with newly announced Sumatra. So, basically PowerAnimator and Explore products they already had lacked sales suddenly in awaiting of Maya (20,000$ list price + 20K for each of the modules, like artisan for example - really).<p>Then there was talks with Microsoft regarding OpenGL future - both of them tried to join powers and bring the world Fahrenheit... Microsoft though bought some small company making what was later known as DirectX.<p>Discreet (makers of high end compositing and editing applications) was bought by Autodesk and joined with their Kinetix group (formed by autodesk and yost group - makers of 3d studio) to consolidate new media division in Autodesk. Future plans were to migrate/and or/ develop new ""systems"" platform to linux. This materialized some years later, though not in full capacity. It showed its teeth when AVID strongarmed into PC market though.<p>With all this happening, SGI also introduced PC line of workstations with some innovative architecture designs (Cobalt) - which was ridiculously priced in heavy competition by then Intergraph Z workstations and Sun. There was a nice commercial tie in with movie lost in space - which, ironically was mostly made with 3dsmax (it's first feature credits)<p>ATI bought ART-X which made custom graphics chip for N64 among other things and Nvidia was hard pressed into buying talent around - mostly from advanced graphics division of SGI. This resulted in suffering in new lines of graphics workstations from SGI - like Octane2, Fuel and Tezro. Monster Reality engine was pretty much dead in the water by then - only brute force doubling of power.<p>And the cookie crumbled. SGI was almost fully vertically integrated hardware manufacturer - they had financial trouble. So they have ditched Alias|Wavefront as Alias to some investment fund (which refurbished it and sold it to Autodesk), MIPS division went from processor manufacturer to IP core provider only. R&D left to Nvidia, with appropriate patents (sold to Nvidia). PC division was dead. All that was left was HPC which sgi with its cray division focused on - unsuccessfully. Even though Altix platform is/was great - it was in direct collision with companies like Sun, RackSaver and most importantly IBM. IBM was still fully vertically integrated (almost still is) and had lots of money to throw around. It also had several strong HPC platforms (instead of one), and even grabbed a console processor market from MIPS/SGI in a feud before.<p>SGI is a sad story of bad decisions and bad timing. Had it kept media division and bought Discreet and Softimage instead of Cray, or even along with it. Had it scaled down MIPS to IP core only after lost war with IBM and reallocated resources better to align with Microsoft's vision of Talisman by keeping its R&D lab doing Talisman... Today we would have a company that would be a hybrid of a DCC giant and Nvidia. Now we only have a nice memory of turquoise and crimson wet dreams.",1238636613
+542791,story,,,2,1,babyshake,"Twitter U.",http://www.roughtype.com/archives/2009/04/twitter_u.php,,1238636599
+542790,comment,542645,542645,0,0,smanek,,,"<i>HTML is now encrypted at the source and then decrypted using Javascript on the client</i><p>That is obfuscation, not encryption.<p>When you provide a function capable of 'decrypting' the ciphertext with the ciphertext, I don't really think it can be called encryption anymore. It's kind of like saying: smNOSPAManek@fas.REMOVETHISTOOharvard.edu is encrypted ...<p>If it's just Javascript, this should be pretty easy to fix (technically at least), right? I don't know the details of boxee's architecture, but there are plenty of free Javascript engines.",1238636580
+542788,comment,542681,542681,0,0,staunch,,,"<a href=""http://andrewchenblog.com/2007/09/26/5-things-that-make-your-social-network-monetize-like-crap/"" rel=""nofollow"">http://andrewchenblog.com/2007/09/26/5-things-that-make-your...</a>",1238636354
+542787,comment,542763,542763,0,0,jlees,,,"Chatterous looks cool enough. But I'm sorry, as soon as I clicked through and saw the default (Kubrick) Wordpress theme, I killed a kitten.",1238636327
+542786,comment,542698,542698,0,0,nessence,,,"If this is not a joke, it's funnier than an April Fools hoax.",1238636310
+542785,comment,542472,542735,0,0,iron_ball,,,"Maybe he meant per hour.",1238636306
+542784,comment,542698,542698,0,0,petercooper,,,"It's telling that so many programming related April Fools jokes have been Ruby oriented in some way.<p>First they ignore you, then they laugh at you... then they fight you, then you win.",1238636183
+542783,comment,542147,542754,0,0,smanek,,,"<a href=""http://www.scribd.com/doc/8142600/the-Stock-Market-Reaction-to-the-Challenger-Crash"" rel=""nofollow"">http://www.scribd.com/doc/8142600/the-Stock-Market-Reaction-...</a><p>Sorry for the scribd link. It's the first copy I found that wasn't behind a pay wall.<p>The gist is that within a few hours of the Challenger crash the stock for the company responsible for the component that failed went down far more than the stocks for other companies involved in building challenger. Interestingly, the equity value the stock lost (~200 Million USD) is almost exactly the same as the estimated total loss in profit (fines, lawsuits, updates to safety standards, lost contracts, etc).",1238636171
+542781,comment,542681,542681,0,0,tokenadult,,,"How do websites in general make money? (Or do they? Do they have revenues but not have earnings?)<p><a href=""http://news.ycombinator.com/item?id=542656"" rel=""nofollow"">http://news.ycombinator.com/item?id=542656</a>",1238636045
+542780,story,,,9,0,palish,"Vector Math Tricks (Distance of a Point to a Line, Explained)",http://news.ycombinator.com/item?id=542755,,1238636023
+542779,comment,542716,542716,0,0,nessence,,,"""And he's pitching his new Scala book. And his new Scala book is published by O'Reilly. And O'Reilly runs the Web 2.0 Expo. ®""<p>Timing is priceless.",1238636016
+542778,comment,542716,542716,0,0,petercooper,,,"And in case you're wondering.. no, this isn't an April Fools joke.",1238635956
+542777,comment,542763,542763,0,0,liveink,,,"w00t!!! Chatterous FTW",1238635908
+542776,comment,542681,542715,0,0,yummyfajitas,,,"PoF has another advantage.<p>If you are at PoF, you are searching for a date. PoF makes a lot of money selling ads for <i>better dating sites</i>, something it's users are almost already looking for.",1238635902
+542775,comment,542763,542763,0,0,thorax,,,"Chatterous has become essential for us really. Feels almost like a ""utility"" at this point. Keep up the great work, guys.<p>We've been playing with the API-- at the moment we're using it to send SVN commit notices and production code releases to our team. Seems cool so far.",1238635882
+542774,comment,542017,542017,0,0,joshu,,,"Anyone know WHY? What are they paying 600m for?",1238635876
+542773,comment,542681,542681,0,0,vaksel,,,"because people go on a social networking site to socialize, they focus their attention on their profile page, most people won't even let their eyes wander to the ad portion of the page",1238635867
+542772,comment,542675,542675,0,0,thinksketch,,,"To give one answer, I wrote a blog post that I think is interesting about Twitter as a protocol.  This is ringing more and more true as new apps are created that use Twitter's tagging structure as a backbone for their app's data structure and communication.<p><a href=""http://www.thinksketchdesign.com/2009/02/25/design/algorithm-design/from-microblog-to-network-protocol-how-twitter-will-redefine-the-internet"" rel=""nofollow"">http://www.thinksketchdesign.com/2009/02/25/design/algorithm...</a>",1238635464
+542771,comment,542770,542770,0,0,abl,,,"Has anyone been successful in running Cocoa via this setup?",1238635443
+542770,story,,,3,4,abl,"Install Mac OS X on VMWare",http://wiki.osx86project.org/wiki/index.php/Vmware_how_to,"Has anyone been successful in running Cocoa via this setup?",1238635408
+542769,comment,541753,542755,0,0,slackenerny,,,"<i>- normalized vectors are a succinct way to represent a direction in space, whether it be 1D, 2D, 3D, or any other D.</i><p>I'll only add that they are called versors and one can read more about their magic in any material about quaternions.",1238635338
+542768,comment,542336,542336,0,0,pg,,,"""How small? How simple?""<p>We advise startups to launch when they've added a quantum of utility: when there is at least some set of users who would be excited to hear about it, because they can now do something they couldn't do before.",1238635293
+542767,comment,542017,542724,0,0,Keyframe,,,"Softimage for example - once they have done the port to WINNT and showed the world it can be done on that platform they have sold Softimage to AVID - which recently sold it to, where all good applications die, Autodesk (Microsoft in shadows)",1238635172
+542766,comment,542763,542763,0,0,blader,,,"Congratulations Kenshi and Wilkins!",1238635054
+542765,comment,542108,542565,0,0,mkramlich,,,"in Python:<p><pre><code>    for i in range(1,11): print i
+</code></pre>
+Python FTW? ;)",1238635033
+542764,comment,542173,542173,0,0,ars,,,"""Here's the thing: Fog Creek is extremely profitable""<p>If I buy from them, I'm going to negotiate for a lower price.",1238634963
+542763,story,,,49,14,arasakik,"Chatterous (YC W08) launches im/email/sms group API and widgets.",http://chatterous.wordpress.com/2009/04/02/lots-of-new-stuff-to-report/,,1238634941
+542762,comment,542173,542271,0,0,ars,,,"His first sentence maybe, but his second asks why school experience doesn't count for the formula.",1238634910
+542759,comment,542147,542147,0,0,banned_man,,,"Of all those, I tend to think T. Boone Pickens is the one who's most likely to turn out right.<p>The question is, if someone turns out to be right, does he get removed from the list?",1238634747
+542757,comment,540687,540725,0,0,hotshothenry,,,"I definitely find this to be true, I think it's more to do with the fact that you're working for yourself and setting your own guidelines rather then having set hours or a strict set of tasks to do at a regular job.",1238634524
+542756,comment,541753,542569,0,0,trominos,,,"To be fair, the ability to solve very difficult algorithmic problems is not particularly related to the ability to do many, many different kinds of programming.",1238634384
+542755,comment,541753,541778,0,0,palish,,,"<i>What's the distance between a point and a line segment?</i><p>let A, B be the 2D start and end points of a line segment.  Let P be a 2D point.<p>We think about the problem and graph the problem like this:<p><pre><code>            P          
+            .          
+                       
+                       
+                       
+                       
+  A ------------------------ B
+</code></pre>
+Then we realize that we can re-frame the problem in terms of a right triangle:<p><pre><code>            P          
+            .         
+          / |         
+        /   |         
+      /    _|         
+    /     | |         
+  A ------------------------- B
+            Q          
+</code></pre>
+Now for some definitions.  Let's define the vector operations that we'll be working with.<p><pre><code>  class Vec2( object ):
+    def __init__( self, x, y ):
+      self.x = x
+      self.y = y
+</code></pre>
+This represents a 2D vector with properties 'x' and 'y'.<p><pre><code>  def length( V ):
+    return sqrt( V.x*V.x + V.y*V.y )
+</code></pre>
+This computes the length of a 2D vector.<p><pre><code>  def normalize( V ):
+    V_len = length( V )
+    return Vec2( V.x / V_len, V.y / V_len )
+</code></pre>
+This computes a new vector that points in the same direction as V, but is of unit length ( length( normalize( V ) ) == 1.0 ).<p><pre><code>  def dot( V1, V2 ):
+    return V1.x*V2.x + V1.y*V2.y
+</code></pre>
+This computes the ""dot product"" between two vectors.   I'll clarify this operation in a moment.<p>Finally, for clarity and succinctness:<p><pre><code>  V1 + V2 represents Vec2( V1.x+V2.x, V1.y+V2.y )
+
+  V1 - V2 represents Vec2( V1.x-V2.x, V1.y-V2.y )
+
+  S * V represents Vec2( S*V.x, S*V.y ), which 
+  scales the vector V by a factor of S.  So (2.0 * V)
+  would result in a vector in the same direction as V,
+  but twice as long.
+</code></pre>
+<i>Goal: find the length of PQ</i><p>First, we examine our graph above and write out the known and unknown quantities.<p><pre><code>  AB = B - A
+  AP = P - A
+  AB_len = length( AB )
+  AP_len = length( AP )
+  Q = ?
+  AQ = Q - A
+  PQ = P - A
+</code></pre>
+It looks like our first step is to compute Q.<p><i>A dot product trick</i><p>The trick we'll use to solve this is via the following rule:<p>For any line that passes through A and B, dot( normalize( B - A ), P - A ) is the distance between A and the closest point on the line to P.<p>Huh?<p>Let me explain this thoroughly, so you can add it to your own toolbox for your entire life.<p><i>Building an intuitive understanding of vector math</i><p>Imagine a line segment AB and a point P.  Now picture point Q, which is the closest point to P on a line that passes through A and B, just like the graph above.  You can use the dot product to find the distance between A and Q.<p>First, compute the vector AB by computing (B - A).<p>You can visualize this as follows.  Picture a line segment from point A to point B.  Now move it so that A is coincident with the origin (0,0).  Since you moved it, you didn't change its length and you didn't change its direction, just its location.  So the result of (B - A) could be intuitively described as ""a line segment that begins at the origin (0,0) whose length and direction are equal to AB's"".<p>The next step in the dot product trick is to set the length of (B - A) to 1.0, which is ""unit length"".  A few related trivia notes:<p>- if a vector's length is exactly 1.0, then it is called a ""unit vector"".<p>- when you set a vector's length to 1.0, you have just ""normalized"" the vector.<p>- normalized vectors are a succinct way to represent a direction in space, whether it be 1D, 2D, 3D, or any other D.<p>- remember the 2D line equation ""y = mx + b""?  'm' is the line's slope.  In 2D space, slope is just an alternate way of representing a vector's direction.  You can compute a vector V's slope as ""rise over run"" (V.y / V.x).  The only advantage of using slope to represent a direction in 2D is that it's efficient to compute and to use.   There are two big disadvantages.  First, it's not immediately clear how we'd compute slope in 3D.  But more importantly, you can't represent vertical lines with a slope.  A vertical line has no 'run', so (V.x / 0.0) == undefined.  In programming terms, this could cause problems.  So slope is generally avoided for those reasons.  I explained it here because I am hoping that it helps you to understand vectors more intuitively.<p>So, let's enumerate some features of unit length vectors:<p>- they can be used to represent any direction in space.<p>- the range of each component of a unit length vector is never outside of [-1.0 .. 1.0].<p>- if you compute the dot product between a unit length vector and a point, you have <i>projected</i> the point onto the vector.  The result of the dot product is the distance between the origin and the closest point on the vector.  -- <i>dot product trick</i><p>- the dot product of two unit length vectors is equal to the cosine of the angle between them.  In other words, let V1 and V2 be unit length vectors.  dot( V1, V2 ) == cos( angle between V1 and V2 ).  Related facts:<p>-- the dot product of two unit length vectors is always in the range [-1.0 .. 1.0].<p>-- if V1 points in the same direction as V2 (that is, V1 == V2), then the dot product is 1.0.<p>-- if V1 is perpendicular to V2, then the dot product is 0.0.<p>-- if V1 points in the opposite direction of V2 (that is, V1 == -V2), then the dot product is -1.0.<p>-- And now, for something fun (and totally optional -- if you don't really understand, don't sweat it.  But hopefully it will be interesting rather than confusing):  Imagine a light bulb at point L.  Now imagine a sphere at point S, being lit by that light bulb.  Imagine a point on that sphere, P.  You can compute the lightbulb's effect on the sphere at that point as follows:<p><pre><code>  L = lightbulb position
+  S = sphere position
+  P = point on sphere
+  Ldir = normalize( L - P )
+  surface_normal = normalize( P - S )
+  light_intensity = max( 0.0, dot( surface_normal, Ldir ) )
+  # that quanitity is called ""NdotL"" in computer graphics.
+  # you would then multiply that quantity by the light's
+  # ""attenuation"", which dims the light as it gets further
+  # away.  But that's outside the scope of this example.
+  # If you're interested in computer graphics, 
+  # the book ""Realtime Rendering"" is fantastic.
+</code></pre>
+<i>Solving the problem, finally.</i><p>So, let's use our newfound ninja-guru knowledge of vectors and dot products to solve the original problem.  After glancing at the above graph again, we remember we need to compute the length of the line segment PQ.  One way to solve it is to compute the point Q, then length( Q - P ) is our answer.  Getting down to business:<p><pre><code>  def dist_point_to_line( A, B, P ):
+    # represent the line segment AB as a vector.
+    AB = B - A
+
+    # determine the direction of B relative to A.
+    AB_dir = normalize( AB ) 
+
+    # compute the distance between A and Q using the dot
+    # product trick.  The first argument is a unit length
+    # vector.  The second argument is a point *relative to
+    # that vector*.
+    AQ_len = dot( AB_dir, P - A )
+
+    # Now that we know the length of AQ, we can compute Q.
+    # To do this, think of the following equation as ""start
+    # at A; move along the direction AB_dir by AQ_len units;
+    # that position is Q.""
+    Q = A + AQ_len * AB_dir
+
+    # return the length of PQ.
+    return length( Q - P )
+</code></pre>
+I hope the explanation was been illuminating, and not too confusing.  If you have any questions, feel free to ask.",1238634358
+542754,comment,542147,542742,0,0,gamache,,,"I'd love to see a reference on that Challenger remark -- seriously.",1238634314
+542753,comment,542705,542705,0,0,shard,,,"Too many April Fools Day jokes from Google, sigh.",1238634303
+542752,comment,542741,542741,0,0,SwellJoe,,,"Isn't that what the Open Source PhoneGap is intended to accomplish?  It's a cool idea, regardless.  I'm working on a small brain game that I'd like to port to desktop, as well as various mobile devices.  And the process is looking pretty daunting.",1238634301
+542751,story,,,1,0,KiwiNige,"Surf the web at work, be more productive",http://www.stuff.co.nz/technology/2310149/Surf-the-web-at-work-be-more-productive,,1238634271
+542750,story,,,1,0,MaysonL,Narcisystem,http://www.exothermia.net/monkeys_and_robots/2009/03/28/narscisystem/,,1238634240
+542749,comment,541753,541753,0,0,trominos,,,"""Math"" is just reasoning about any formally defined system. Programming <i>is a fucking subset of math.</i><p>So any competent programmer <i>necessarily</i> has some kind of mathematical inclination.",1238634236
+542748,comment,542647,542647,0,0,SwellJoe,,,"I take a nap.",1238634116

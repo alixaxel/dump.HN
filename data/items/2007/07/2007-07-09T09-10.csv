@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33213,comment,33071,33211,0,0,3KWA,,,"ah yes indeed much better! I tried to follow the K structure too much, but your code is too readable :D ",1183974695
+33212,comment,363,33127,0,0,shiro,,,"OK, I stand corrected.  Statically-typed minds also frown on this.  It might be only Lispers that feel differently (after all, they've been conflating an empty list, a boolean false, and a symbol NIL and insisting it's the right thing).
+",1183973904
+33211,comment,33071,33172,0,0,dhouston,,,"def birthday(people=23): from random import randint as rand; return sum([len(set([rand(1,365) for x in range(people)])) != people for i in range(1000)])<p>(constructs fewer inner lists, otherwise changes are completely cosmetic)",1183972826

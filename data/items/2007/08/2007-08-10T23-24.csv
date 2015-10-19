@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41387,comment,41269,41322,0,0,dhouston,,,"RTFA. the blog post lists a 2-3 word blurb for each company in the first paragraph.",1186790355
+41386,comment,41290,41290,0,0,rms,,,"<a href=""http://en.wikipedia.org/wiki/Fitts'_law"" rel=""nofollow"">http://en.wikipedia.org/wiki/Fitts'_law</a><p>Some great background here...  apparently Fitts' Law is why Xerox introduced the mouse in the first place.",1186790193
+41385,comment,41133,41297,0,0,mpc,,,"OK, I see your point now. <p>What case can you make for choosing a commercial product over MySQL when it's just as good? (but lacks tooling)<p>",1186790155
+41384,comment,41367,41367,0,0,donna,,,"sleeping in",1186789963
+41383,story,,,2,0,donna,"Rise of Roboethics",http://www.seedmagazine.com/news/2007/07/rise_of_roboethics.php,,1186789938
+41381,comment,41367,41367,0,0,sherman,,,"not here",1186789731
+41380,comment,41100,41378,0,0,weeblyrocks,,,"""What could be simpler?""<p>The evaluation of your criteria is probably impossible.  It's far from simple.  ",1186789645
+41377,comment,41290,41354,0,0,webwright,,,"Urm-- lots of web sites have left aligned nav...  lefthand nav was fairly dominant in the early web-- upper nav seems to be all the rage nowadays.",1186788883
+41376,comment,40576,40576,0,0,especkman,,,"Concerned why?  Are you concerned about someone stealing your proprietary code? <p>Or are you worried because you have made unreleased proprietary modifications to GPLed code and you are worried that running your modified version on another parties servers might be considered ""distribution,"" and give the host the option of distributing it to other parties?
+",1186788407
+41375,comment,40584,41257,0,0,wcrosby,,,"Of course we always thought that what we did was right solution.  When someone criticized it, it was a natural instinct to defend it.  <p>You have to remember the environment we were in.  When you are building a product, everyone wants to give you advice on how to do it.  It is often very difficult to tell a good suggestion from bad one when you are in the thick of it.  The most effective way we found to filter out good from bad was to mock up the suggestion (no more than 1 hour).  We then looked at the before and after and tried to make a decision based on what we observed.  The hard part for me was keeping my emotions and ego out of it and allowing myself to think clearly about what is the ""right"" solution.",1186788146
+41374,comment,41308,41343,0,0,weeblyrocks,,,"Why not a subchapter S if you wanted to keep costs down?",1186787631
+41373,story,,,1,0,farmer,"Sears Partners with Meez for Back-to-School Virtual Closet",http://mashable.com/2007/08/10/sears-meez/,,1186787626
+41372,comment,41269,41269,0,0,ashu,,,"I just don't understand why some of these guys are so hell bent on disparaging YC. Whether YC is right or not, time will tell and it's YC that has to worry about it. But, what do _these other people_ gain out of it? 
+",1186787163

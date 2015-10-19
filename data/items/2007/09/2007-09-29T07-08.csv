@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+61003,comment,61001,61001,0,0,SwellJoe,,,"I've made this mistake four times now (Zope, Plone, OpenACS, Joomla).  I think I might have a learning disability that prevents me from ever accepting that the ""free"" functionality is not worth the cost of the increased complexity of the system.",1191052688
+61002,story,,,1,0,tomh,"Google shows off GWT applications for the iPhone",http://blog.wired.com/monkeybites/2007/09/google-shows-of.html,,1191052555
+61001,story,,,5,13,nurall,"Ask YC: How do you decide when to use CMS?",,"We are employing a bottom-up approach to build our rails app. We also do know of a bunch of open-source rails based cms solutions available. But how do you decide what is best for you? Can you comment on the trade-offs?",1191051368
+61000,comment,60540,60882,0,0,leoc,,,"Now imagine the complete works of Shakespeare in that format...",1191050069
+60998,comment,60960,60960,0,0,bootload,,,"<i>""... I wrote a simple python program to make daily snap-shots of the front page stories and comments and post ...""</i><p>I'm doing 15 minute snapshots in xml format from the news feed /news (meaning score threshold is >=2). You can find the feed here ~ <a href=""http://goonmail.customer.netspace.net.au/hackerid/xml/hackerid.xml"" rel=""nofollow"">http://goonmail.customer.netspace.net.au/hackerid/xml/hacker...</a><p>I capture posts from /news including ...<p><pre><code>  <user>iamyoohoo</user>
+  <inception>118 days ago</inception>
+  <karma>60</karma>
+  <item>60759</item>
+  <title>
+  What nine of the world's largest websites are running on
+  </title>
+  <url>http://royal.pingdom.com/?p=173</url>
+  <points>23</points>
+  <comments>9</comments>
+  <posted>11 hours</posted>
+</code></pre>
+Q's<p>- Are you going to sort them by anything date, score, user or just date order? <p>- Supply a data feed?
+ 
+- identify user <p>- are you archiving them?<p>
+Like yourself I wanted to grab stuff so I wouldn't miss it. Another was to capture metadata and add some useful extra stuff like<p>- identify users by various metrics<p>- graphing of data<p>- capture relationships b/w users, data<p>You can only do this with raw data.  I'm thinking about archiving the data at least at some time. <p>Good stuff btw. I like this because the more resources we have like this the more fun you can have and more value you can add. If I have one request that would be to add a data feed that anyone can pull and use.<p>You can read how here ~ <a href=""http://goonmail.customer.netspace.net.au/hackerid/colophon/"" rel=""nofollow"">http://goonmail.customer.netspace.net.au/hackerid/colophon/</a>",1191049938
+60997,comment,60852,60994,0,0,rms,,,">AA was actually instituted to counter discrimination against Jews.<p>Well, the Jews were systematically discriminated against in college admissions with quotas, but I don't think affirmative action was a result of this. <a href=""http://en.wikipedia.org/wiki/Jewish_quota"" rel=""nofollow"">http://en.wikipedia.org/wiki/Jewish_quota</a>",1191049280
+60996,comment,60875,60950,0,0,bootload,,,"<i>""...   broken link ...""</i><p><pre><code>  Go from hell
+
+  September 28, 2007 in VRM, Past, Journalism
+
+  Why do we continue, in 2007, to believe that 
+  markets are all about What Big Companies Do? 
+  Worse, why do we continue to take advertising 
+  for granted as the primary source of the the Bux 
+  DeLuxe required to fund technical, social and 
+  personal progress? 
+</code></pre>
+Don't think so. Just checked it and pulled this in. I would be nice if Hacker News had a link checker every once and a while on say a threshold of 2 or 3. But then again high traffic subs would quickly expose this. ",1191049221

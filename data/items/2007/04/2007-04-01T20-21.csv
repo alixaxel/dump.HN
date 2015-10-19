@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8055,comment,7618,7618,0,0,jadams,,,"This reminds me of the business card scene from American Psycho. God, I love that movie!",1175461175
+8054,comment,8047,8047,0,0,mattculbreth,,,"The problem here is that it's much more tightly couple to their platform.  They have a ""Java-like"" language and a SQL dialect that goes against their Oracle database.  Still cool though--and another example of a way to lower development and operation costs.
+",1175459886
+8053,comment,8052,8052,0,0,omarish,,,"I was going to post this at Dev Shed, but I figured out that we probably have a lot of really smart people here, too.<p>Does anybody have a clue on how to figure out where a user went to after they left your site; basically a way to figure out the user's exit page? ",1175459600
+8052,story,,,1,1,omarish,"Using JS to detect exit page?",,,1175459520
+8051,comment,8049,8049,0,0,ulfstein,,,"I did come across such a site but can't remember where - didn't bookmark it as it hadn't been executed very well.",1175458662
+8050,comment,8049,8049,0,0,amichail,,,"Does such a thing exist?
+",1175458140
+8049,story,,,1,2,amichail,"startup matchmaker: build a service to recommend and facilitate startup mergers to make it more likely they would succeed",,,1175458111
+8048,story,,,1,1,domp,"Reaching critical mass is becoming harder. What are some innovative ways to expand your user base?",http://www.socialdegree.com/2007/03/30/gaining-critical-mass-is-increasing-in-difficulty/,,1175457658

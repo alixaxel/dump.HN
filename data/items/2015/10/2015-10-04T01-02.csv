@@ -1,0 +1,409 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+10326100,story,,,3,0,daave,"Static Websites with TLS/SSL Using Google Cloud Platform and StartSSL",http://blog.daave.com/2015/10/static-websites-with-tlsssl-using.html,,1443923958
+10326099,comment,10325058,10326010,0,0,hydrogen18,,,"So find an ARM SoC vendor that will make hardware that is compatible with their goals?",1443923956
+10326098,comment,10323222,10323222,0,0,foma,,,"A wonderful picture of space and time. My religion fits very well with the concepts of fate and destiny suggested by this picture. Our benevolent creator has for us woven a fantastically complex braid and I am humbled by the chance to take it in. Busy busy busy",1443923945
+10326097,story,,,1,0,tmlee,"Islam: the most untapped opportunity in tech",https://www.techinasia.com/islam-untapped-opportunity-tech/,,1443923925
+10326096,comment,10324921,10325936,0,0,losvedir,,,"It might be worth looking at how Phoenix[0] does it (or, you know, just consider using Elixir/Phoenix). Phoenix runs on cowboy out of the box and makes setting up a web app a snap:<p><pre><code>    $ mix phoenix.new my_app
+</code></pre>
+which then sets up the directory structure for you to just run<p><pre><code>    $ mix phoenix.server
+</code></pre>
+and have cowboy serving your webapp. The guides then tell you which files to add new routes, controllers, models, etc (in a way similar to Django or Rails). All that said, it&#x27;s in Elixir at that point, but maybe you could still infer how the applications and gen servers and whatnot are structured from it.<p>It may be worth asking josevalim and chrismccord in #elixir-lang for tips on setting it up, since they obviously must know how to set up cowboy pretty well to build a system on top of it.<p>I think Erlang and things like cowboy and OTP are absolutely amazing for the web, but Elixir has made things 100x easier to get up and running with them.<p>[0] <a href=""https://github.com/phoenixframework/phoenix"" rel=""nofollow"">https://github.com/phoenixframework/phoenix</a>",1443923920
+10326095,comment,10325111,10325111,0,0,erikpukinskis,,,"Generic containers are an awkward mid-way point between special-purpose containers (a Wordpress instance or a rails app on heroku) and an actual machine.<p>You get the hassle of maintaining your own instances, without the flexibility or well-defined performance characteristics of an actual box.<p>I just don&#x27;t see the market.",1443923882
+10326094,comment,10324480,10325669,0,0,Fingel,,,"I remember going over some html I had written in person with one of those coworkers. I had forgotten to write alt text for an image, and the filename itself was some ugly hex string or something. When he got to that part of the page the screen reader starting reading off the filename - it sounded like it was speaking tongues! His nose scrunched up and he shook his head disapprovingly: no, no no! After hearing that cacophony myself, I now try to remember to make things as accessible as possible.",1443923866
+10326093,comment,10324921,10326070,0,0,plainOldText,,,"As far as I know there&#x27;s no such thing as a `Cowboy application`. They&#x27;re all Erlang/OTP applications. Sure, there&#x27;s a learning curve associated with OTP apps, but since Erlang is a bit of an exotic language, I think it&#x27;s understandable.<p>If you&#x27;d like to learn about the concepts behind an OTP application, you can read this guide: <a href=""http://learnyousomeerlang.com/building-otp-applications"" rel=""nofollow"">http://learnyousomeerlang.com/building-otp-applications</a> or the Erlang documentation for OTP apps (which is pretty good I think).<p>Another viable option in my opinion would be to just look into the Phoenix framework for the Elixir language. Under the hood it uses cowboy. And it feels a lot like Rails.",1443923843
+10326091,comment,10324782,10325084,0,0,gnaritas,,,"Stress doesn&#x27;t make someone not beautiful, your premise is flawed.",1443923791
+10326090,comment,10324480,10325922,0,0,voltagex_,,,">Xamarin Studio is totally off-limits because it uses GTK, and GTK is inaccessible on Windows and Mac.<p>Shit. Is there a bug report for this? (Upstream, with GTK)",1443923787
+10326089,comment,10320446,10321910,0,0,nitrogen,,,"<i>&quot;well I don&#x27;t eat beef, but I am ok with eating fish because they are lower on the food chain.&quot;</i><p>This is interesting, because many or most of the fish we eat are predators, while cows are herbivores.  Fish are <i>higher</i> on the food chain than cows.",1443923786
+10326088,comment,10304671,10318470,0,0,bobochan,,,"I wish that I could give out those grades (except for the F, obviously).  One of the drawbacks of our system is that we have to grade on a curve, particularly the number of top grades that we give.  The deans can give some variation in that quota, but only in exceptional circumstances.  It is hard when I am teaching an elective and these are students that are specifically choosing something very challenging when they could just as easily spend their last semester coasting through.<p>I have never had to fail a student, but I have had a few violations of academic integrity that had to be dealt with.  One of the few upsides of intensive grading is that I tend to remember specific errors, and a flag always gets raised when I see the same error twice, regardless of how many variable names were changed, etc.",1443923771
+10326087,comment,10324366,10324555,0,0,sampo,,,"> <i>even things like granola which are colloquially thought to be healthy are often jam packed with sugar.</i><p>Also instant oats with added flavor (brown sugar and maple, cinnamon, banana bread, what have you) can contain a lot of added sugar, compared to plain oats version.",1443923758
+10326086,comment,10324921,10326056,0,0,digitalzombie,,,"Cowboy could serve API/data stuff instead.<p>RoR is productive for website/web apps.<p>I mean looking at just request per sec that metric would be much better for something like API/data serving app.",1443923738
+10326085,comment,10324960,10325854,0,0,sokoloff,,,"&quot;works on an airplane&quot; is an important quality for many.",1443923726
+10326084,story,,,167,50,zhte415,"ShareX – Open-source screenshare software",http://getsharex.com/,,1443923667
+10326083,comment,10324480,10325712,0,0,stevofolife,,,"&quot;I really want a book describing all of this to me from the bottom up, molecular chemistry and all, so that I can better understand my own disease. For now I am gradually building a mental model from experience and picking up bits of pieces by reading.&quot;<p>I want to reach out to you regarding what you&#x27;ve said. Mind hitting me back?! chensteven[at]outlook[dot]com",1443923616
+10326082,comment,10324366,10325544,0,0,bradlys,,,"Even if you don&#x27;t get something like that, just having a glass of water nearby is a great way to reduce consumption. I drink a lot of diet soda and it&#x27;s mainly out of compulsion to constantly drink liquids. If I keep a nice cold cup of water near where I am, the soda consumption drops super fast. Once I start drinking water during that day, that&#x27;s usually what sticks.<p>For me, it&#x27;s almost all about the habit of constantly drinking. That said, even though I know how to kick the habit, I still tend to drink a lot of diet soda because it&#x27;s a nice pick-me-up.",1443923589
+10326081,comment,10324325,10325845,0,0,bbanyc,,,"Do you know if the 2-hour timeout been brought back? That was almost as annoying as the expiration.",1443923529
+10326080,comment,10324323,10324323,0,0,zhte415,,,"Cool.  But don&#x27;t give up a little bit of coding.  For example, the email signup link you have - make that a sign-up box.<p>A lot of marketers would give gold for what you&#x27;d consider trivial.",1443923425
+10326079,story,,,50,13,breck,"Microsoft, Tesla say software-defined batteries could redirect power on the fly",http://www.pcworld.com/article/2988945/mobile/microsoft-tesla-say-software-defined-batteries-could-mix-and-match-power-on-the-fly.html,,1443923336
+10326078,comment,10325583,10325986,0,0,increment_i,,,"Yep, absolutely. I tried everything, had an MRI done, and the only thing that reduced symptoms was starting regular high intensity workouts (Olympic lifts and such). A year later and I&#x27;m nearly symptom free.",1443923302
+10326077,comment,10325583,10325583,0,0,corysama,,,"A couple weeks ago a redditor posted a simple activity that seems to give temporary relief.  Doesn&#x27;t work for me, but a lot of people responded with huge thanks.  Maybe it&#x27;ll work for you.  <a href=""https://np.reddit.com/r/WTF/comments/3l3uri/these_guys_lighting_a_mortar_shell_in_their_garage/cv3474n"" rel=""nofollow"">https://np.reddit.com/r/WTF/comments/3l3uri/these_guys_light...</a><p>Looking for that, I also found this <a href=""https://www.reddit.com/r/tinnitus/comments/3d294k/cured_my_own_tinnitus_and_wanted_to_share/"" rel=""nofollow"">https://www.reddit.com/r/tinnitus/comments/3d294k/cured_my_o...</a>  tldr is: A minority of tinnitus suffers may be helped by the neck massage described in this vid: <a href=""https://youtu.be/eDSESarTQXk"" rel=""nofollow"">https://youtu.be/eDSESarTQXk</a>",1443923284
+10326076,comment,10324807,10324807,0,0,stephen_mcd,,,"Great project. I recently used LuaJ to embed Lua scripting inside CurioDB: <a href=""https://github.com/stephenmcd/curiodb"" rel=""nofollow"">https://github.com/stephenmcd/curiodb</a> - it&#x27;s a distributed Redis clone built with Scala/Akka. In terms of matching features with Redis, LuaJ was a life-saver.",1443923241
+10326075,comment,10324937,10324937,0,0,vitd,,,"I have to wonder if this is just hype for the upcoming remake:<p><a href=""http://www.imdb.com/title/tt2058673/?ref_=nv_sr_1"" rel=""nofollow"">http://www.imdb.com/title/tt2058673/?ref_=nv_sr_1</a>",1443923239
+10326074,comment,10324480,10324480,0,0,noir_lord,,,"I think this was posted on here a while back <a href=""http://www.techinsider.io/hacked-raspberry-pi-artificial-pancreas-2015-8"" rel=""nofollow"">http://www.techinsider.io/hacked-raspberry-pi-artificial-pan...</a><p>Seems like the kind of wearable that could have a profound impact on peoples lives if done properly.",1443923238
+10326073,comment,10324366,10325145,0,0,yazaddaruvala,,,"Anyone that wants legalized drugs, wants regulated and taxed drugs. A minority advocate anarchy, but most just want access to these drugs, if they personally deem them appropriate.<p>Drug advocates still want all nutritional info and negative effects plastered all over the boxes so that they can personally make educated decisions about their lives. For example, look at the Canadian cigarette boxes: <a href=""http://www.smoke-free.ca/filtertips-5/images/Marlbo4.jpg"" rel=""nofollow"">http://www.smoke-free.ca/filtertips-5/images/Marlbo4.jpg</a> (I don&#x27;t know how people still smoke them... /mindblown)<p>Meanwhile people that do not like sugar, aren&#x27;t trying to ban sugar (some minority of them may want sugar banned). The majority, just want consumers to be informed and make educated decisions. I&#x27;d like to personally add (and I think this opinion is shared): I would like it if we limit the abilities of marketers to hide the negative aspects of these substances. For example, a company shouldn&#x27;t be allowed to advertise cereal to minors through colorful pictures and cartoons.<p>Can you imagine if cereal boxes needed 40% of their surface to be covered with pictures of diabetics with amputations/ulcers?
+Or instead of a toy inside, you get an insulin monitor? How about pictures of cavities and decaying teeth?<p>I think in that world, very few children would want to eat that product, and even fewer parents would continue to buy them.",1443923185
+10326071,comment,10308959,10318472,0,0,SamEBae,,,"In your guide page,
+could you explain how to mimic the &quot;physics&quot; ball with the click on bounce and gravity?<p>I&#x27;ve been trying to use it but I&#x27;m stuck on binding the css to the event thanks",1443923151
+10326070,comment,10324921,10326040,0,0,simoncion,,,"This gets a Cowboy application up and running, but it doesn&#x27;t tell you what to do to write your own Cowboy application, and doesn&#x27;t give you a very firm understanding of either how the hello_world example works, or how to modify it to suit your needs.<p>As someone who&#x27;s been down this road in the past, unless you&#x27;re already <i>rather</i> familiar with Erlang and OTP&#x27;s conventions, the gap between the User&#x27;s Guide and the API documentation is <i>far</i> too large to make connecting information you learn from one with information you learn from the other easy.<p>I&#x27;ve summarized my personal struggle with the Cowboy user&#x27;s guide and documentation in my other comment in the thread. Please read that comment before you downvote this one. :)",1443923125
+10326069,comment,10324920,10324920,0,0,veidr,,,"I saw this thing drive by my office in Tokyo the other day, and did a double take, but then I noticed the man sitting inside actually driving it.<p>So I thought the &quot;Robot Taxi&quot; on the side of it was just a slightly weird name for a Japanese taxi company.<p>That is cool that self-driving cars are taking off here, too.<p>However, I must admit that the whole Toyota software development practices scandal will  make me think twice before getting in a Japanese self driving cab.  I would rather be stuck at a green light while my googlecar is confused by a fixed gear bicyclist,  than in a robotic taxi suffering from unknown &quot;process death&quot; events in its  untestable assortment of dozens of interweaved subsystems…",1443923096
+10326068,comment,10325958,10326046,0,0,hga,,,"You might say they were pioneers in this particular domain: <a href=""https://en.wikipedia.org/wiki/Lysenkoism"" rel=""nofollow"">https://en.wikipedia.org/wiki/Lysenkoism</a><p>And how&#x27;s this for the last sentence in the intro:<p><i>Lysenkoism is used metaphorically to describe the manipulation or distortion of the scientific process as a way to reach a predetermined conclusion as dictated by an ideological bias, often related to social or political objectives.</i>",1443923089
+10326067,comment,10324480,10325597,0,0,noir_lord,,,"As someone with a medical condition that may result in severe if not total paralysis at some point (the damage is already pretty bad and it could get a whole lot worse) I agree.<p>I pretty much have accepted that even if I do all the sensible things I might still end up in a wheelchair but the thought of losing my sight is still far more terrifying.",1443923086
+10326066,story,,,3,2,tuyguntn,"American deaths in terrorism vs. gun violence in one graph",http://edition.cnn.com/2015/10/02/us/oregon-shooting-terrorism-gun-violence/index.html,,1443923049
+10326064,comment,10325031,10325679,0,0,max-a,,,"> I think &#x27;software is eating the world&#x27; moment comes to play
+this moment made me think that strict software/hardware division is getting pretty obsolete",1443922977
+10326063,comment,10325058,10326015,0,0,nitrogen,,,"Security from whom?  Malware has always been fairly easy to avoid as a consumer.  Built-in backdoors?  What do you do about that?",1443922969
+10326062,comment,10325958,10325958,0,0,hga,,,"Boy, the Cold War vibes are getting stronger and stronger; will this be followed by a string of &quot;bad harvests&quot;?<p>(Actually, returning that level of Stalinist stupidity is unlikely, but given the low price of oil they need maximum productivity everywhere else possible.)",1443922950
+10326061,comment,10324480,10325894,0,0,objclxt,,,"<i>She</i> might get <i>her</i> eyes back. It&#x27;s right there in the second paragraph.",1443922890
+10326060,comment,10325881,10325881,0,0,GFK_of_xmaspast,,,"Are you aware of how much fog SF receives.",1443922886
+10326058,comment,10325583,10325583,0,0,occam65,,,"Within the past year I began experiencing tinnitus in my right ear, differing between two distinct but nearby high pitch frequencies. Only noticeable in silence, such as going to sleep at night. I&#x27;ve learned to notice it and subsequently ignore, but I know I&#x27;m lucky it&#x27;s not worse. It&#x27;s only a minor annoyance for me, for others it&#x27;s much more than that.",1443922848
+10326057,story,,,16,4,jviotti,"GitHub API HTTP client with cache support to get the most of your rate limit",https://github.com/issuetrackapp/ghrequest,,1443922825
+10326056,comment,10324921,10325933,0,0,gozo,,,"I guess you can either see it as how much faster Cowboy is or how much more useful Rails is. It&#x27;s nice if you have a lot of Erlang code already, but if you&#x27;re making a web application from scratch, performance is pretty far down the list and I would stick to the half dozen stacks that are proven. Erlang can make sense sometimes, but it&#x27;s probably not(!) comparable to Rails in those cases.<p>Edit: Eh, I forgot a &quot;not&quot; in the last sentence, which is now added.",1443922779
+10326055,comment,10324325,10324325,0,0,bbanyc,,,"For what it&#x27;s worth, most of kx&#x27;s customers (including the one I work for) have datasets much larger than 4 GB, making the 32-bit edition practically worthless for production use.",1443922777
+10326054,comment,10322640,10323329,0,0,zhte415,,,"3,500,000 shares @ $28/share.",1443922750
+10326053,story,,,99,46,tilt,"Population.io – The World Population Project",http://population.io/,,1443922702
+10326052,comment,10324782,10324782,0,0,marincounty,,,"&quot;They&#x27;re cutting each others&#x27; throats as vividly as they can.&quot;<p>The very last line of the interview is what scares me about our future.  Yes, we&#x27;ve always been cut throat, but in my life--right now--I see people whom are willing to sell their souls in order make more money.  Or, maybe since a lot of us question whether their is a soul; we do horrid things in the name of business? Or, maybe I&#x27;m too sensitive to how money can corrupt; my sister pretty much put my mother on the streets with her greedy, money manipulating mouth.<p>I wasen&#x27;t part of the Hippy generation, but they did not act the way we are acting now?  At least they tried to change?<p>I don&#x27;t find our current society progressive, or fashionable.
+The &quot;Power Couple&quot;, &quot;I will do anything to make the Paper&quot;, &quot;Buy that book on how to manipulate people, and make money.&quot;
+&quot;I&#x27;ll build my scalable site so I can live like that little weasel?&quot;  I honestly find it all disgusting--<p>(Off topic, but through out that interview; it just reminded me how ugly society has gotten, and not just the defendants in the court rooms.  I guess I just was expecting a light article about art?)",1443922630
+10326051,comment,10325085,10325923,0,0,bbgm,,,"I&#x27;ve been into synths and sound design for a while.  But even for someone like me, the last few years have been amazing.  Two years ago I had a lot of software and controllers.  But now you can get high quality analog keyboard synths at great price points (e.g a Moog Sub37 or an Arturia Microbrute), and Eurorack has made modular synthesis cheaper and more accessible than ever before.  It&#x27;s a great time to be into synths.",1443922628
+10326050,story,,,2,0,burritofanatic,"Why General Assembly Exists",http://www.williamha.com/why-general-assembly-exists/,,1443922609
+10326049,comment,10324499,10325089,0,0,GaiusCoffee,,,"What do you mean? I went on Street View and there is clearly a body of water there..<p><a href=""https://www.google.com/maps/@30.384544,-97.7351451,3a,75y,104.97h,86.08t/data=!3m7!1e1!3m5!1sdtnWQVOj3EbLEWTRho_Xgw!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DdtnWQVOj3EbLEWTRho_Xgw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D33.038887%26pitch%3D0!7i13312!8i6656"" rel=""nofollow"">https://www.google.com/maps/@30.384544,-97.7351451,3a,75y,10...</a>",1443922542
+10326048,comment,10324755,10325201,0,0,thawkins,,,"+1 for the noelec device.<p>You can make an external ariel with a bunch of 11cm coax elements coupled together and placed inside a piece of 1/2 plastic pipe.<p><a href=""http://www.balarad.net"" rel=""nofollow"">http://www.balarad.net</a>",1443922516
+10326047,comment,10325670,10325670,0,0,mdcox,,,"For those interested in seeing the language, the README has a link to the tutorial ( <a href=""http://masak.github.io/007/"" rel=""nofollow"">http://masak.github.io/007/</a> ) hidden at the very bottom of the (highly entertaining) narrative.",1443922500
+10326046,comment,10325958,10325958,0,0,nso95,,,"Mmm, pseudoscience",1443922471
+10326045,comment,10324335,10326008,0,0,hga,,,"<i>Bombing tactics at the time consisted of dropping a huge number of bombs and hoping that a few of them got lucky and hit something valuable.</i><p>Ideally setting fire to the buildings housing machine tools (need to warp them, not shove them around and scour their paint with splinters).<p>But I can think of no more exquisitely vulnerable target than a refinery, and we were infamously ineffective at taking them out, starting with: <a href=""https://en.wikipedia.org/wiki/Operation_Tidal_Wave"" rel=""nofollow"">https://en.wikipedia.org/wiki/Operation_Tidal_Wave</a> and overall see: <a href=""https://en.wikipedia.org/wiki/Oil_Campaign_of_World_War_II"" rel=""nofollow"">https://en.wikipedia.org/wiki/Oil_Campaign_of_World_War_II</a> especially the final paragraph.<p>I also note that it doesn&#x27;t take long to repair railroads, and repairing them quickly after enemy damage has been a focus of engineers starting with our Civil War.<p>Although I&#x27;m not sure why we&#x27;re bothering to reply to this message, seeing as how the very first point is infamously wrong, postal code SW1A 1AA (<a href=""https://www.google.com/search?q=SW1A+1AA"" rel=""nofollow"">https://www.google.com/search?q=SW1A+1AA</a>) most assuredly did get bombed: <a href=""http://www.theguardian.com/uk/2009/sep/13/queen-mother-biography-shawcross-luftwaffe"" rel=""nofollow"">http://www.theguardian.com/uk/2009/sep/13/queen-mother-biogr...</a>  while the King and Queen were there.",1443922471
+10326044,comment,10325085,10325085,0,0,ssalazar,,,"> Because they relied on audio samples rather than sounds that were designed from scratch, the Kurzweils were known as additive synthesizers.<p>This is absolutely incorrect- this describes a wavetable synthesizer, which is what the early Kurzweil&#x27;s were. An additive synthesizer works by adding individual sine waves together of various amplitudes and frequencies.",1443922433
+10326043,comment,10322219,10324941,0,0,idlewords,,,"Thank you very much!<p>It was a really huge conference, so I unfortunately didn&#x27;t have a chance to interact with people after the talk.   I&#x27;m also very curious about whether anyone found the argument persuasive.",1443922392
+10326042,comment,10324366,10324653,0,0,the_economist,,,"The rise of coffee may have played a large part in this.",1443922382
+10326041,comment,10324937,10325871,0,0,TeMPOraL,,,"Yes, because when you break it you suddenly create a strong incentive for the original copyright holder to be found",1443922369
+10326040,comment,10324921,10325936,0,0,plainOldText,,,"Here&#x27;s the cowboy user guide: <a href=""http://ninenines.eu/docs/en/cowboy/1.0/guide/"" rel=""nofollow"">http://ninenines.eu/docs/en/cowboy/1.0/guide/</a><p>You can also clone the repo and checkout the examples:<p>Make sure you have erlang installed<p><pre><code>    $ cd examples/hello_world
+    $ make
+
+    $ ./_rel/hello_world_example/bin/hello_world_example start
+    OR
+    $ ./_rel/hello_world_example/bin/hello_world_example console
+</code></pre>
+then visit localhost:8080",1443922349
+10326038,comment,10324648,10324648,0,0,randcraw,,,"1) I&#x27;ve read the first two books of the three mentioned.  Oddly, the article&#x27;s title applies only to the first book, in which Markoff elaborates on IA (intelligence augmentation) as a second front in the rise of computer automation (along with AI).  Domingo&#x27;s book never strays outside mainstream AI, and it seems nor does the third.<p>2) On a more generic note regarding the direction of AI... I think there&#x27;s little doubt where AI will take us -- toward a future which is more predictable.  The goal of AI is to recognize patterns and predict outcomes.  Toward that end, AI and its integrators will gradually reshape business and law to make AI&#x27;s job easier and more accurate.  This will result in our lives becoming more conventional, predictable, and &#x27;managed&#x27; by both business and government. Imagine a future lifestyle that&#x27;s more like the clockwork of Sweden&#x27;s or Japan&#x27;s or Switzerland&#x27;s than the Sturm und Drang that is America&#x27;s.<p>I suspect a world shaped by AI will be less likely to resemble &#x27;The Terminator&#x27; than it will &#x27;The Man in the Gray Flannel Suit&#x27;.",1443922317
+10326037,comment,10324377,10325941,0,0,mbell,,,"In terminal / vim:<p><pre><code>    Record separator => C-v C-^
+    Unit separator => C-v C-_
+</code></pre>
+in emacs I think you can use C-q in place of C-v",1443922299
+10326036,comment,10324366,10324946,0,0,grogenaut,,,"I&#x27;ve got a cold/sore throat and when I do I drink a bunch of OJ. I don&#x27;t normally drink OJ so I get small windows into it. Every time I get it I notice less and less pulp in it. Today there were tons of &quot;NO PULP&quot; oj out there, even tropicana 50, which is watered and filtered oj. These things are essentially natural koolaid.",1443922253
+10326035,comment,10324480,10325712,0,0,lfam,,,"> This is one reason why getting insurance coverage as a type 1 diabetic is almost futile as pretty much anything could arguably be caused by your diabetes.<p>Do you mean that insurance won&#x27;t cover things related to type 1 diabetes?",1443922236
+10326034,story,,,79,95,rdl,"Why I’m sitting at home crying on a Saturday afternoon",http://violetblue.tumblr.com/post/130440543695/why-im-sitting-at-home-crying-on-a-saturday,,1443922212
+10326033,comment,10323573,10324181,0,0,eloff,,,"This is a kind of wishy washy liberal attitude that is found all over. An attempt to say both sides of an argument have a point. Which is always true, otherwise there wouldn&#x27;t be an argument. The part I take umbrage at is that it implies both sides have an equally valid argument. That is rarely true. Here JIT has been claiming superiority for twenty years. It has clearly failed. It&#x27;s slower to start, slower to run, and uses more memory. That will very probably never change. It still has some advantages in some areas and some niches, but AOT has won. The war, if you really must use that term, is over. We see this in the resurgence of interest in C++ and in the move in mobile ecosystems to AOT.",1443922187
+10326032,comment,10325085,10325998,0,0,hugh4,,,"Rejecting something because you can&#x27;t afford it, and then claiming it&#x27;s because it&#x27;s &quot;inauthentic&quot;, sounds fairly punk to me.",1443922178
+10326031,comment,10324325,10324325,0,0,sashk,,,"Unfortunately, their license comes in disagreement with what they posted on kxcommunity.com:<p>> That&#x27;s why it now can only be used in a commercial environment for development and proofs of concept.<p>But license says:<p>> 1.1. &quot;Commercial Use&quot; means any use of the 32 Bit Kdb+ Software for the User or any third party&#x27;s financial gain or other economic benefit. Any Beta-testing or production use of a User Application is Commercial Use. Notwithstanding the foregoing, the following are not Commercial Uses: (a) use solely for educational or personal purposes; (b) use by a registered charity or licensed educational institution, (c) development of a proof-of-concept application, even in a commercial setting; and (d) any use for which Kx has granted the User written permission.<p>This makes things confusing: one place they say development is ok, but in license agreement they say it&#x27;s only &quot;proof-of-concept applications&quot;...",1443922176
+10326030,comment,10324960,10324960,0,0,lips,,,"It&#x27;s striking to me that here on HN, where there&#x27;s rarely anything approaching consensus on software user satisfaction (IMHO), evernote is being roundly blasted. These feelings weren&#x27;t formed in 2015 (I&#x27;ve been disappointed by it for years), and yet they continued to let it fester. (Shruggy guy)",1443922126
+10326028,comment,10324366,10325839,0,0,grogenaut,,,"Ugh, as an americano drinker I&#x27;d be annoyed as hell by this. I have a 52oz water cup at my desk, for me much of things is about the quantity of liquid so I dilute everything. I get my alcohol drinks heavily cut with mixers so they last longer. If drinks are small I finish them way too fast. So a tumbler of a mixed drink lasts me 8 minutes but the same drink in a pint with little ice and more mixer is more like 40 minutes. One leads to shitfaced quick and is a nice buzz. Same for coffee. Sitting at my desk with a small drink I&#x27;ll finish it without noticing I&#x27;m drinking it. 20 oz coffee with the same # of shots and It&#x27;ll take 30 minutes to finish and I&#x27;ll actually notice and enjoy it.<p>I&#x27;m an adult, I can pay attention to what I order, and I&#x27;m not embarrassed to order things that are not directly on the menu. I&#x27;m tipping the bartender and the barrista so they make it the way I want it anyway.",1443922054
+10326027,comment,10324366,10325550,0,0,kuschku,,,"That study is indeed interesting. I just skimmed through it and read the abstract, definitely interesting.<p>The question now is, what is it? Could it be that the difference in food – not just caloric value of intake – has an influence? Did people start eating more prepackaged foods? If yes, what specifically influenced it? Why did it not influence Europe nearly as much?",1443922025
+10326025,comment,10324755,10325625,0,0,sokoloff,,,"It&#x27;s ADS-B-[1], which has some limitations (don&#x27;t imagine you&#x27;re getting every target, etc), but it is damned cool nonetheless.<p>[1] - <a href=""https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast"" rel=""nofollow"">https://en.wikipedia.org/wiki/Automatic_dependent_surveillan...</a>",1443922016
+10326024,comment,10324960,10325980,0,0,snaily,,,"Here&#x27;s a set of slides on how Spotify does it with playlists:<p><a href=""http://www.slideshare.net/mobile/JimmyMrdell/playlists-at-spotify-cassandra-summit-london-2013"" rel=""nofollow"">http://www.slideshare.net/mobile/JimmyMrdell/playlists-at-sp...</a>",1443922007
+10326023,comment,10317964,10319533,0,0,rdc12,,,"I remember seeing Crab a while back on HN, and thinking I don&#x27;t see why you would want this, but when you mentioned thinking in sets it was way more clear. It may be cause I don&#x27;t use SQL often that I didn&#x27;t click. Prehaps that would be a good thing to mention on the website.",1443922002
+10326022,comment,10317790,10325683,0,0,belorn,,,"The distributor must apply the license to the entire work, but individual parts can always be licensed under different license.<p>Say for example that you created some GCC code and put that under MIT. When distributing GCC, GCC as the &quot;entire work&quot; will be GPLv3 which also then apply to the MIT part. However, the MIT license will also apply to that part, must be kept in every copy, and you could take that MIT part and put that into LLVM and GPLv3 would not suddenly impact LLVM.<p>When modifying a GPLv3 project, your own additions can always be any GPLv3 compatible license (as I stated above). In most cases that would not make much sense but in a few cases, say in a compiler, it might make sense if you want to use that code in several project with different or even proprietary licenses. Nothing in GPLv3 prevents this.",1443921969
+10326021,comment,10324325,10325629,0,0,sashk,,,"Each version says which date it was released.<p><pre><code>    KDB+ 3.1 2015.01.12 Copyright (C) 1993-2015 Kx Systems
+    ...
+
+</code></pre>
+So if you have version dated 2015.09.13 (they released new build on that date) that means you have older version.",1443921940
+10326020,comment,10324960,10325829,0,0,lips,,,"NValt uses (a possibly nonstandard) markdown notation for checkboxes. So a search for unchecked would be &quot;[ ]&quot;, checked is &quot;[\]&quot;",1443921830
+10326019,comment,10322747,10325997,0,0,sokoloff,,,"The status quo advantages: a (relatively) stable and strong currency, meaning net importers are helped. Of course, that means our exporters are conversely harmed when selling to a location with a weaker currency (as our goods become more expensive). A vacation abroad is similar to a net import. You consume something in a foreign locale paid for with US currency.<p>The confusion I have is your argument of &quot;that can&#x27;t be the reserve currency advantage, because it&#x27;s already true&quot;, which seems to ignore the (strong?_) probability that it&#x27;s already true <i>because</i> of being the reserve currency.",1443921802
+10326017,comment,10322929,10323862,0,0,drivebyubnt,,,"He was a fellow at Atari too, without helping them very much. Alan&#x27;s a great guy, a great speaker, and he made fundamental contributions to OO with Smalltalk. But probably his single biggest contribution was that he funded the creation the Alto out of his group&#x27;s budget. (So as a VC rather than a scientist or manager.)",1443921730
+10326016,comment,10321857,10322490,0,0,cbd1984,,,"> I know I&#x27;m conscious<p>Ah, but do you really?",1443921661
+10326015,comment,10325058,10325841,0,0,Lx1oG-AWb6h_ZG0,,,"But if there&#x27;s one thing we learnt the last few years, it&#x27;s that we were never able to take those things for granted in the first place. You were never free of threat of spyware or kill switches. If anything, we have gotten much better at security than ever before.",1443921577
+10326014,comment,10324020,10324020,0,0,jackychow1111,,,"The interface seems great",1443921575
+10326013,story,,,66,9,sebkomianos,"Mixing Signals",https://samgentle.com/posts/2015-10-02-mixing-signals,,1443921549
+10326012,comment,10324960,10325319,0,0,PhantomGremlin,,,"I generally avoid Chrome, but I&#x27;ll give that a try. I hope it works better than my experiences with both Safari and Firefox on OS X.<p>Those browsers have long supported what is mentioned in your linked article:<p><pre><code>   File -> Print -> PDF -> Save as PDF
+</code></pre>
+However, it&#x27;s very hit-and-miss of what results you&#x27;ll get. About 80% of pages come out fine, but the remainder can be quite awful. And it&#x27;s unpredictable which browser will do better on any given page. At the least, you&#x27;d expect results to match printing to paper, but sometimes even that doesn&#x27;t happen. Safari has a Reader View that produces good results, but I don&#x27;t think very many websites support it.<p>Unfortunately, certain websites go out of they way to prevent us from saving them to PDF.",1443921548
+10326010,comment,10325058,10325060,0,0,lfam,,,"They claim they can&#x27;t do it on any new Intel hardware because the hardware is fundamentally incompatible with the FSF&#x27;s goals:
+<a href=""http://libreboot.org/faq/#intel"" rel=""nofollow"">http://libreboot.org/faq/#intel</a>",1443921405
+10326009,comment,10324960,10325948,0,0,pbreit,,,"I Guess that&#x27;s true. &quot;Deep trouble&quot; to me suggests the company is running out of money and in somewhat dire straits. Which I don&#x27;t believe to be the case at all.",1443921400
+10326008,comment,10324335,10325827,0,0,TheCoelacanth,,,"You seem to be imagining that the bombers in WW2 had modern bombing technology. At the time, they didn&#x27;t have the technology to accurately target a single building (especially at night when the raids on London were conducted). They certainly didn&#x27;t have the accuracy to target something as narrow as a train track. Bombing tactics at the time consisted of dropping a huge number of bombs and hoping that a few of them got lucky and hit something valuable.",1443921283
+10326007,comment,10317701,10317845,0,0,irixusr,,,"Theoretically.<p>I know if I burn 500 calories of fat I&#x27;ll loose 1 lb in a week. And this is a 500 cal deficiency. But since I don&#x27;t know how much of the burger I&#x27;ve digested or how much intensely my body is working to, say, regulate my T; I have no clear idea how much less I should <i>eat</i><p>That being said N. Americans eat horribly and I agree they should put some thought into what they eat.<p>(Btw, I&#x27;m 6ft 2, trying to loose a few lb to get back to the mid 170s)",1443921256
+10326006,comment,10317790,10325641,0,0,paxcoder,,,"Unlike you, I have at least taken the time to read the relevant license parts before discussing them.<p>Note that what you&#x27;ve argued before was very different from what you&#x27;re saying now. You&#x27;ve narrowed the scope of the discussion (leaving out LGPL), but also its very nature (&quot;<i>legally impossible</i> [1]&quot;, eh?).<p>Anyway, companies do use software licensed under both licenses, and even incorporate them into their services - hence the need for AGPL.
+Maybe others wouldn&#x27;t see GPLv3 as that much of a problem if people didn&#x27;t spread FUD about its supposed &quot;curse&quot; (&quot;no drama required&quot; but you couldn&#x27;t help it, huh?). And if they didn&#x27;t defend harmful practices, like Linus does tivoisation.<p>But mostly what companies avoid is copyleft, because it mandates reciprocity and prevents leeching the community. For projects such as these, LGPL is an acceptable compromise. The only valid argument against it is that apps under incompatible licenses will not be able to use it where dynamic linking is barred, and such is the requirement for apps in the Apple&#x27;s store. However, in this particular case, that wouldn&#x27;t be a problem either if the platform itself provided a decoder, like iOS does for PNGs.",1443921244
+10326005,comment,10325583,10325583,0,0,saulrh,,,"I&#x27;m not surprised by this. I have TMJ and tinnitus, and the tinnitus gets worse when I bite down.",1443921161
+10326004,comment,10324377,10325584,0,0,username223,,,"I was going to add a sentence to my comment...  They were easy to input via control-caret, etc., until various programs repurposed those combinations.  I think a bigger problem is that there is no standard way to display them.<p>(BTW, if inputtability mattered at all, Unicode wouldn&#x27;t exist. ;-)",1443921054
+10326003,comment,10324366,10325865,0,0,seizethecheese,,,"I just got back from Peru, everybody was drinking bottled water and boiling water for cooking. I&#x27;m sure this is a matter of preference.",1443921013
+10326002,story,,,1,0,rabbidruster,"Data Is a Mine and a Minefield",http://techcrunch.com/2015/10/03/data-is-a-mine-and-a-minefield/,,1443921010
+10326001,comment,10319698,10322086,0,0,graycat,,,"In short <i>measure theory</i> is 
+ordinary freshman calculus done
+in a way that is in some contexts
+significantly more powerful.<p>Here <i>measure</i> is essentially
+just a synonym for area, essentially
+just ordinary area.<p>Measure theory addresses both
+the 
+differentiation and integration
+of freshman calculus, 
+but most of the focus is on
+integration.<p>So, in freshman calculus, you
+are given, say, a real valued function
+of a real variable, say, function
+f where, for real numbers x, we have,
+e.g.,<p>f(x) = x^2 + 1<p>Then, say, we graph f and
+want the area under the curve for
+x in the interval [0,10].  Okay,
+you saw that more than 10,000 times
+in freshman calculus.<p>Well, in this case, measure theory
+will give the same answer for the
+area under the curve.  The difference
+is how that area is calculated.<p>Here is the shortest description
+of where measure theory is different:
+As you recall, in freshman calculus
+you found the area under the curve
+by picking points on the X axis,
+that is, <i>partitioning</i> the X axis
+into little intervals, on each interval
+building a rectangle that approximated
+the area under the curve over that
+little interval, inserting more in the
+partition so that the longest of 
+the little intervals had its length
+get as small as we pleased, adding up
+the areas of the rectangles, and
+taking the limit.  That was it.  That
+was the <i>definition</i> of what the
+integral was.  Of course, to integrate
+x^2 + 1 you learned about, for any
+constant C, the <i>anti-derivative</i><p>(1/3)x^3 + x + C<p>So, here&#x27;s what measure theory does:
+Yup, it also works with a partition
+but, in this case, the partition is
+on the Y axis instead of the X axis.
+Then for each little interval on the
+Y axis, we get a horizontal bar and
+look at the parts that are under the
+curve.  Then as we add points to the
+partition, we add up the ordinary
+areas of the relevant parts of the
+horizontal bars.  The picture
+is less nice than in freshman calculus
+but, still, no biggie.<p>Now, how would one do, say, numerical
+integration?  Sure:  The same
+as in freshman calculus, say,
+Simpson&#x27;s rule where work with
+little trapezoids.  Nope, measure
+theory is not suggesting that we
+change that.<p>Here are four features of the
+approach of measure theory:<p>(1) There are some goofy, <i>pathological</i>
+functions that get the integration
+theory (the Riemann integral) of
+freshman calculus all confused.
+E.g., consider the function 0 on
+the rational numbers and 1 otherwise.
+Then the upper and lower 
+Riemann sums of those little
+rectangles never converge to what
+we want.  Bummer.  Well, it follows
+from some theorems that the integral
+of measure theory rarely gets confused --
+of course the theorems are very precise,
+but the generality is mind blowing, so
+much that it&#x27;s darned tricky to
+construct a case where the measure
+theory integral fails.<p>(2) A big deal is what happens
+when a sequence of functions
+is used to approximate and converge
+to another function.  A leading
+example is Fourier series.  Well,
+on taking limits during this
+approximation, the Riemann integral
+can get confused when the measure
+theory integral (Lebesgue) does just fine.<p>H. Lebesgue was a student of
+E. Borel in France and did 
+his work near 1900.<p>(3) Often we want to pass some
+limits under the integral sign.
+Again, Lebesgue does much better
+here than Riemann.  Indeed,
+the Lebesgue integral has
+a super nice theorem on 
+differentiation under the
+integral sign (from the
+TOC of Durrett, that theorem
+may be the last topic in that
+book -- it was a really fun
+exercise when I was studying
+that stuff).<p>(4) Notice a biggie:  With
+Lebesgue, actually we used
+next to nothing about
+the X axis, that is, about
+the <i>domain</i> of the function
+we are integrating.  In this
+way, right away, presto, bingo,
+we get a theory of integration
+that works on domains 
+with much, much less in assumptions
+and properties than the real
+numbers or the usual finite
+dimensional real Euclidean 
+vector space.  In particular,
+we are now GO for doing
+probability theory --
+the Lebesgue integral is
+used to define both probability
+of events and expectation of
+random variables.  It was
+A. Kolmogorov in 1933 who
+noticed, and wrote a monster paper,
+on how to use measure theory
+and the Lebesgue integral
+for a solid foundation for
+probability theory.  Since then
+for essentially all <i>serious</i>
+research in probability and
+stochastic processes, much of
+mathematical statistics,
+nearly all of stochastic optimal
+control, is based solidly
+on the Kolmogorov, 
+i.e., measure theory, foundations.<p>So, from a mathematician not
+much interested in probability,
+probability theory is just
+a special case of measure theory
+where the total area (<i>measure</i>)
+is just 1.  That&#x27;s not literally
+or logically wrong
+but does discard a fantastic
+baby with any bathwater.
+Some of the results in
+probability are just astounding
+and powerful -- both
+beyond belief.<p>So, in measure theory, here
+is what a <i>measure</i> (a definition
+of area) is:
+We start with a non empty set,
+a <i>space</i>, say, X.  From
+X we have some subsets we
+call <i>measurable</i> sets.
+So, measurable set A is a
+subset of X.  In the special
+case of probability,
+the measurable sets are
+the <i>events</i>, that is, e.g.,
+all the <i>trials</i> where
+our coin comes up heads.<p>We ask to have enough measurable
+sets so that all of them
+form a <i>sigma algebra</i>.  Why?
+Otherwise we don&#x27;t have much.
+A sigma algebra doesn&#x27;t ask
+for much.  The <i>sigma</i> part is
+supposed to suggest 
+finite or countably infinite
+adding up, as in the usual use of
+the capital Greek sigma for
+summing.<p>Say our sigma algebra of
+subsets of our measurable
+space X is S (probability
+theory usually uses script F).
+Then we want the empty subset
+of X to be an element of S.
+For A in S we want X - A (the
+relative complement) to be
+an element of S.  And for
+B(i) in S for i = 1, 2, ...,
+we want the union of
+all the B(i) to be an element of
+S.  These conditions ensure that
+we will have enough sets
+in S to have a decently strong
+theory.<p>In what we commonly
+do in applied probability,
+we wouldn&#x27;t settle for less.
+E.g., the empty set is the
+event it <i>never</i> happens.
+If H is the event of heads,
+then T = X - H, the relative
+complement, is the event tails.
+If H(i) is the event that
+flip i comes up heads, then
+the union of all the H(i)
+is the event the coin comes
+up heads at least once or
+doesn&#x27;t always come up tails.
+In probability, those are all
+simple situations, and 
+just from those we need
+a sigma algebra of events.
+And it turns out, that&#x27;s enough,
+and has been since 1933.<p>So, for a <i>measure</i>, say,
+m, to measurable set A
+there is real number m(A),
+the <i>measure</i> (think <i>area</i>
+or, in probability theory, the
+<i>probability</i>) of A.  Of course
+in probability we call the
+<i>measure</i> P instead of m
+and write P(A) for the <i>probability</i>
+of event A.<p>You can begin to see that we
+are essentially forced into
+how Kolmogorov applied measure
+theory whether we like it or not.
+Sorry &#x27;bout that!<p>Well, for a <i>measure</i>
+m, we want <i>countable
+additivity</i>.  So,
+for disjoint measurable
+sets B(i), i = 1, 2, ...,
+we want<p>m(union B(i)) = sum m(B(i))<p>for some sloppy math notation
+since I can&#x27;t type TeX here!<p>Usually m(A) is real with 
+m(A) >= 0, and commonly we 
+need to have m(X) = infinity
+so that m can take on value 
+infinity.<p>We can also extend
+to m(A) any real number or
+any complex number.<p>Measure theory is the
+total cat&#x27;s meow for
+Fourier theory!<p>To get a sigma algebra
+of measurable sets we want,
+commonly we start with
+a topology, that is, 
+its collection of open
+sets, and ask for the
+unique smallest sigma
+algebra for which each open
+set is also a measurable
+set in the sigma algebra.<p>When we do this on the real
+line and assign
+the measure of intervals
+their ordinary length
+and extend that to
+as many subsets of the
+reals as we can, we get
+<i>Lebesgue</i> measure for the
+real line.  We get a lot
+of sets!  It&#x27;s a tricky
+exercise, that uses the
+axiom of choice, even to
+construct a subset of the
+reals that is not Lebesgue
+measurable.  Powerful theory!<p>Suppose we have spaces X
+and Y, each with a sigma
+algebra of subsets and
+a function<p>f: X --> Y<p>Then f is <i>measurable</i>
+if for each measurable
+subset B of Y
+f^(-1)(B) is also
+a measurable subset
+of X.  In measure
+theory, when we integrate
+a function, we ask that
+it be measurable.
+In the usual cases, it&#x27;s
+even tough to construct
+a function that is not
+measurable.  Darned
+near any limit of
+measurable functions is
+also measurable -- super
+nice theory.<p>In probability theory,
+a <i>random variable</i>
+is just a measurable
+function where its
+domain is 
+a probability space,
+that is, a <i>sample space</i>
+Omega with a sigma
+algebra of subsets
+script F and
+a <i>probability measure</i> P.<p>Of course, there&#x27;s much
+more, stacks, shelves,
+racks of books
+as difficult as you wish,
+but the above is
+a simple, intuitive view
+from 10,000 feet up.<p>Or, <i>measure</i> theory is
+a nicer theory of
+area and area under a curve
+that in all the simple cases
+gives you just what
+you have been used to!",1443920960
+10326000,comment,10324960,10325555,0,0,dreamfactory2,,,"apple notes works pretty well for me across devices",1443920898
+10325999,comment,10324921,10325936,0,0,simoncion,,,"My first attempt at making a simple Cowboy application was less than successful. I found the documentation spotty, inconsistent, and very difficult to understand. After about 45 minutes of <i>really</i> frustrated dicking around, I figured out how to make a simple HTTP server that allowed me to handle simple HTTP requests. I had to write code to switch on the passed-in HTTP verb, but everything worked, more or less. I could serve HTTP requests, but my code crashed after every request. (This was -of course- not fatal, but a bit of a performance killer.) Pipelined requests didn&#x27;t work due to server connection resets. (Again, not fatal, just perf-diminishing.) I was utterly unable to get cowboy_rest to work.<p>Several months later, with a <i>lot</i> of additional Erlang experience under my belt, I come back to the documentation, and it&#x27;s -somehow- 60->70% comprehensible. I figured out what was wrong with my simple HTTP server. (I was <i>calling</i> my request handler in init, rather than returning {ok, Req, []}, and letting Cowboy call my request handler later.)  I <i>still</i> can&#x27;t get cowboy_rest to work, but (OTOH) I haven&#x27;t spent more than five minutes <i>trying</i> to get it to work since my first attempt way back when.<p>I don&#x27;t know how much experience you have with Erlang, so I&#x27;ll give you some basic advice that might be entirely unhelpful. Feel free to ask additional questions. Also feel free to ask questions on the erlang-questions mailing list. [0] Everyone who regularly posts there is <i>very</i> helpful. Many (most?) of them use Erlang professionally.<p>Anyway. Advice:<p>Projects/frameworks like OTP and Cowboy provide a callback API that application code is expected to conform to. Cowboy&#x27;s documentation for this API is kind of all over the place, [1] but OTP&#x27;s is well organized. [2]<p>Because Erlang tries to eschew global state as much as it can, OTP has a convention that one of the values in the tuple returned from an callback is the state for that particular instance of your application code. This State variable seems to always be the last element in the returned tuple, and the last argument to your callback function. State can be <i>any</i> Erlang term; it only has meaning to your application code. If your callbacks don&#x27;t care about state, then you can pass anything as state. Many other frameworks have adopted this convention; it&#x27;s a pretty good one.<p>Cowboy appears to be a pretty good HTTP/SPDY server. The beginner&#x27;s documentation needs a <i>LOT</i> of love. (Even now, I had difficulty trying to piece together that walk through the docs in the footnote.) Given that it&#x27;s a one-man shop, it&#x27;s surprising that the docs are in as good a shape as they are; documentation isn&#x27;t easy. :) But, still...<p>Anyway, questions? Comments? Ask away either here, or on the erlang-questions mailing list. :)<p>[0] <a href=""http://erlang.org/mailman/listinfo/erlang-questions"" rel=""nofollow"">http://erlang.org/mailman/listinfo/erlang-questions</a><p>[1] First you have to read the examples shipped with the source code <a href=""https://github.com/ninenines/cowboy/blob/1.0.x/examples/hello_world/src/hello_world_app.erl"" rel=""nofollow"">https://github.com/ninenines/cowboy/blob/1.0.x/examples/hell...</a> <a href=""https://github.com/ninenines/cowboy/blob/1.0.x/examples/hello_world/src/toppage_handler.erl"" rel=""nofollow"">https://github.com/ninenines/cowboy/blob/1.0.x/examples/hell...</a> to kind of get the impression that you need to use the cowboy_http_handler API (kinda introduced here <a href=""http://ninenines.eu/docs/en/cowboy/1.0/guide/http_handlers/"" rel=""nofollow"">http://ninenines.eu/docs/en/cowboy/1.0/guide/http_handlers/</a> and documented here <a href=""http://ninenines.eu/docs/en/cowboy/1.0/manual/cowboy_http_handler/index.html"" rel=""nofollow"">http://ninenines.eu/docs/en/cowboy/1.0/manual/cowboy_http_ha...</a> ) in order to handle plain HTTP requests. If there&#x27;s a better way to arrive at this conclusion, I overlooked it. :(<p>[2] For example, the docs for OTP&#x27;s application API: <a href=""http://www.erlang.org/doc/man/application.html"" rel=""nofollow"">http://www.erlang.org/doc/man/application.html</a> or the gen_server API: <a href=""http://www.erlang.org/doc/man/gen_server.html"" rel=""nofollow"">http://www.erlang.org/doc/man/gen_server.html</a> The parts before the &quot;CALLBACK FUNCTIONS&quot; section are functions you use to manipulate an application or gen_server. The bits after are functions you implement in your module that the application or gen_server machinery will call.",1443920864

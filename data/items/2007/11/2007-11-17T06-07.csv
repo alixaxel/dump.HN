@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+80903,comment,80845,80845,0,0,davidppp,,,"XML Web Services for ASP.NET",1195282142
+80902,story,,,2,0,as,"Muddying the waters of the digital copyright debate",http://monolith.sourceforge.net/,,1195281881
+80901,comment,80563,80799,0,0,tocomment,,,Reference?,1195281029
+80900,comment,80668,80668,0,0,mattmaroon,,,"I wonder at what point angels/vcs will get tired of this sort of thing. I feel like each step down the ladder from Y Combinator becomes exponentially less valuable. <p>I've often wondered if investors realize that in Tech Stars they're essentially getting Y Combinator rejects. Not only that, but Y Combinator rejects who don't mind living in BFE. Now this group will get Tech Stars rejects. Doesn't seem like something I'd attend, were I an angel.",1195280580
+80899,comment,80845,80845,0,0,zach,,,"Secrets of the 3D Game Programming Sages.",1195280564
+80898,comment,79982,79982,0,0,mattmaroon,,,"If so, this thread is the sex tape.",1195280282
+80897,comment,80836,80893,0,0,tx,,,"I think you should know by now that you won't have any issues gaining and retaining users: I have witnessed your success around in my office and I am seeing your red-orange color scheme on my colleagues' monitors all day. And most of them don't care for a little and, I have no doubt, efficient background process.<p>Keep up the good work. :-)",1195280084
+80896,comment,80895,80895,0,0,cosmok,,,"demo here: <a href=""http://play.trk7.com/ip.php"" rel=""nofollow"">http://play.trk7.com/ip.php</a>",1195279248
+80895,story,,,1,1,cosmok,"ip2geo info in PHP",http://www.trk7.com/blog/programming/getting-visitor-location-in-php/,"source of the script used to get the country of an online visitor.Demo here:<a href=""http://play.trk7.com/ip.php"" rel=""nofollow"">http://play.trk7.com/ip.php</a>",1195279221

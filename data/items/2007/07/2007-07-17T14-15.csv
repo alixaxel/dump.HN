@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34763,comment,34746,34746,0,0,mynameishere,,,"Easier said than done. Consider version control, which is, in a sense, one big system for allowing ""undos"". Just today, I spent an hour struggling with subversion which seems to have a different error for every seeming non-error situation. ""Obstructed update"", ""Item is out-of-date"", ""Error bumping revisions post-commit (details follow):"" [And they DO]<p>Okay, so version control deals with TEXT, but applications deal with internal states that have innumerable interactions. For every one of those crazy subversion errors there are lots of data corruptions that could occur--and once they do, you've stuck your user with something potentially unsolvable through manual intervention.<p>A simple example would be: User deletes event at 3:00 - 3:30. User adds event at 3:00 - 3:30. User undeletes event at 3:00 - 3:30. Fairly easy to resolve, seemingly:<p>1. Undelete selected.
+2. Check conflict.
+3. [possible actions]:
+a) Announce conflict.
+b) Override new event.
+c) Allow multiple events at same time. (Hmm...was this allowed through normal interractions.)
+d) Prevent undelete, but allow the user to delete new event.<p>...that sort of thing can balloon uncontrollably. Suddenly, for every ""undo"" you have a tree of options for every possible conflict that may have arrisen from system state changes.<p>No, a better way would be:<p>1) Generic undo selected.
+2) New event undone.
+3) Generic Undo selected.
+4) Old event restored.<p>...but then you have a system-wide ""version control"" system to deal with.",1184684341
+34762,story,,,18,19,jsjenkins168,"Loopt offers its service to Sprint users",http://online.wsj.com/article/SB118463593061968439.html?mod=technology_main_whats_news/,"Unfortunately you need to be signed in the read the rest of the article.",1184684027
+34761,comment,34461,34589,0,0,aston,,,"You should join the 10-person company to figure out why a 10-person company behaves a particular way. I wouldn't be surprised if a number of aspects aligned between companies big and small with regard to choice of language.",1184683880
+34760,comment,34619,34679,0,0,omouse,,,"Punch-cards..or flat/XML-files loaded into memory.",1184683724
+34759,comment,34461,34507,0,0,omouse,,,"> <i>Point taken, but mine still stands.</i><p>Correlation is not causation. These software companies <i>just happen</i> to use C++ and Java. It's not because they use C++ and Java that they have market caps north of a billion dollars. They're making a product or selling a service that people want and if they used a different language, they would still be making a lot of money.",1184683343
+34758,story,,,1,1,amichail,"Get an advantage over your competition by sleeping only 2 hours a day",http://en.wikipedia.org/wiki/Polyphasic_sleep,,1184683189
+34757,comment,34669,34750,0,0,jsjenkins168,,,"Thanks, I'd like to check it out more when I have time... I mean hey if Linus Torvalds swears by it then its gotta be cool right?<p>Not surprised I got down modded, revision control is apparently a very passionate subject for some people.",1184682870
+34756,comment,34576,34742,0,0,Tichy,,,"I thought it is the Amazon Spyware, sorry for the confusion.",1184682261
+34754,comment,34741,34749,0,0,gibsonf1,,,"I'm hoping to get feedback here as opposed to trying to sell the service to YCers (which is not yet publicly available).  This article actually goes into some of the technology of our (Lisp based) system which is a whole new approach to project management, which I think makes it relevant for YC. We are a startup trying to find some private beta testers here as well.<p>Another example, we would really appreciate feedback on our new logo at <a href=""http://www.streamfocus.com"" rel=""nofollow"">http://www.streamfocus.com</a> which has been difficult to finalize.  ",1184681611

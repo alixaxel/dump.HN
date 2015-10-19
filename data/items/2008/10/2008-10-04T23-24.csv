@@ -1,0 +1,76 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+323728,comment,323656,323726,0,0,ojbyrne,,,"Companies are made up as individuals, and the actions of a large company are often not just the actions of the top management. And I didn't mean to suggest malice rather than stupidity, because it could have been entirely due to ""institutional"" stupidity.",1223164656
+323727,story,,,3,0,eru,"First version: An essay about an excubator",,"This is the first draft of a short text I am writing about an underappreciated corporation: McDonald's.  One can look at McDonald's as company that sells fast food - but I want to cast some light on their role as a franchiser.  McDonald's is a company that has helped other people make money before they did.<p>I welcome comments and especially criticism.  The current version is only a rough draft - but I want to try releasing early and often as a writing technique.  Just stop reading if it gets too horrible for you.  Here it comes:<p>Build it and they will come - a historic case study<p>> McDonald's gave away an operating system first, and figured out how
+  to make money second<p>Do you know what McDonald's sells?  It's not Hamburgers.  It's an
+operating system.  A very succesful operating system that turns eager
+newcomers into operators running their own fast food restaurant.<p>[More about the operating system. stats]<p>The McDonald brothers did not invent fast food back in the [40ies?].
+But they found a way to efficiently run a fast food restaurant.  Much
+like Henry Ford - who did not invent the automobile, but a way to
+produce cars cheap and of uniform quality.<p>[Who is this Ray Croc guy?]<p>What Ray Croc did was to buy the franchise rights for the system from
+the McDonald brothers.  The brothers thought he wanted to lease [?]
+the name and give a few pamphlets to franchise takers.  That's why the
+original contract stipulated ridicilously [?] low [Anteil] of the
+sales of a franchisee going to Croc's company.  [details!]<p>[""Using every ounce of persuasion he could muster, he finally
+convinced the brothers to cut a deal: Kroc would sell McDonald's
+franchises for the low price of $950. In exchange, he would keep 1.4
+percent of all sales and funnel 0.5 percent back to the
+brothers. Because franchisees kicked back such a meager percentage of
+total sales -- just 1.9 percent -- the corporate parent made very
+little money."" http://www.wiley.com/legacy/products/subject/business/forbes/kroc.html]<p>[""The crucial difference between Kroc and his rivals was one of world
+view. He saw franchisees as business partners, not as mere
+customers. In his travels selling the Multimixer, he had observed the
+way franchisers milked franchisees for profits without concern for
+their long-term viability. Kroc vowed not to fall into that lucrative but ultimately unproductive trap.""]<p>Croc had been a salesman for a long time before he essentially founded
+McDonald's [the franchising company].  He sold paper cups [source].
+One of his strategies to increase sales was to search for ways his
+customers --- [shops] --- could sell more beverages.  Help them make
+money to help you make money.<p>With McDonald's it was the same.  He almost could have used the motto
+[?] `Don't be evil.'  He religiously separated suppliers, [his
+franchising company] and the individual restaurants. [source?]  Almost
+all other franchisers [?] required franchisees to [beziehen] at least
+one key component from them.  Usually overpriced.  That was their way
+to make money.<p>Croc wanted to avoid such conflicts of interest.  [Explain.]  Thus
+while McDonald's suggested and certified suppliers - they did not take
+a part in their sales. [ausdruck!]  They only moderated the relation
+between suppliers and franchisees.<p>Ray Croc was out to build an empire - not to turn a quick profit.
+Thus he required strict standards, but did not actually take in any
+substantial amount of money.  The franchisees made more money - and
+much earlier - than his company.<p>McDonald's hab built it and the franchisees came and loved it.  By
+[1970?] McDondald's was virtually broke.  [sold a lot of equity for
+credit] Today they are a huge and thriving company.  So you know they
+found a way to make money.  Their approach grew out of another attempt
+to help their franchisees: Real estate.<p>Croc learned early that the best operators - that is franchisees - are
+not wealthy people with a background in gastronomy.  They knew too
+much about the normal way to run a restaurant and they were not hungry
+enough to get all their energy behind their [restaurant/store/shop].
+Instead [bescheiden/kleinbürger] couples who mortgaged the farm to
+start their McDonald's [confusing to use this term?] were the ideal
+operators.<p>But they could not get credit to buy the land to build their
+restaurant on.  At least not easily.  So McDonald's leased the land
+for twenty years and released it with a mark-up to the franchisees.
+[details, sources, who actually build the restaurant?]  The
+franchisees could get real estaste -- and McDonald's finally found a
+way to profit.  Today they own a large chunk of very attractive real
+estate all over the world [in prime areas?].  In Russia they are even
+the largest corporate land owner.",1223164455
+323726,comment,323656,323704,0,0,staunch,,,"Does that really make any sense? Once they owned LJ any success it had was theirs. ""Never attribute to malice that which can be adequately explained by stupidity.""",1223164438
+323725,comment,323656,323704,0,0,iamdave,,,"Possible over simplification, but powerfully relevant statement right there.  SA bought LiveJournal and the site somehow managed to get worse.  There's no need to implement an ad infrastructure to the site yet that's exactly what happened.",1223164210
+323724,story,,,43,40,ojbyrne,"The Macbook ""Brick""",http://www.9to5mac.com/macbook-brick,,1223163935
+323723,comment,323541,323702,0,0,metajack,,,"Speaking of Adium, they will bend over backwards to support a proprietary chat system from a huge site like Facebook, but they are not going to add support for arbitrary startup's creations.  Using XMPP allows your users flexibility in how they access your service.  If Adium is how they choose to stay connected, then great.  Sites like Identi.ca have XMPP interfaces for precisely this reason, and it didn't take long for Twhirl and others to add support for Identi.ca since it was well documented (via XMPP standard) and easy to do.",1223163838
+323722,comment,323656,323713,0,0,randomwalker,,,"They opened up to the public in 2003, which is when I signed on. They had memcached by then. My analysis is about the last 5 years. Other social networking sites did exist, but they didn't let you blog or read feeds. LJ had something unique.",1223163810
+323721,comment,323541,323627,0,0,metajack,,,"I seem to recall that Google Talk had an embeddable IM product as well, aside from their Google Apps for Domains Gtalk service offering.",1223163599
+323720,comment,323540,323578,0,0,sabat,,,"His accomplishments aside, I agree. Just because you've had some success doesn't mean you actually have anything to say to the world.",1223163596
+323719,comment,323541,323541,0,0,metajack,,,"Full disclosure: I'm the CEO of Chesspark and a board and council member of the XSF (the standards organization behind XMPP).<p>I highly recommend XMPP.  You get a lot of functionality for free: contact lists, presence, access to a huge and diverse library of implementations, and a large community of helpful people.  It's also fairly easy to extend, and this can be done at many levels.<p>It's true that at Chesspark we've spent a lot of time working with XMPP and molding it to our particular task.  Much of this is because we liked doing it, and you can see that passion revealed in our various open source projects related to XMPP.  For us this has paid huge dividends as our new projects are more messaging than chess related.<p>Between Tigase, Openfire, and Ejabberd, there are a number of fairly robust server implementations that are easy to set up and easy to maintain.  People think of ejabberd as a black box because they are afraid of Erlang, but the fact is that ejabberd code is pretty easy to read and modify.  You also have Google Talk available via Google Apps for Domains.<p>On the Web interface side, things are not as easy, but the XMPP solutions are well tested and have been worked on for 3-4 years (XMPP BOSH predates Comet).  I count at least 4 diferent JavaScript implementations you can choose from, one of which is commercial and comes with support.  Three of the four (my own is the odd lib out here) include chat application features, not just base protocol support.  I now of at least one AS3 implementation which should soon be open source (from Seesmic).<p>This is a classic build versus buy type of decision.  Sure you can build this yourself, but is it really less work than a little learning of the XMPP protocol, perhaps a few bug fixes in an available library, and some custom component work?  If we had done our own non-XMPP based server platform, we'd have spent more time solving similar problems but without any external help or tools.<p>One of the nice things for us at Chesspark is that many of the features we wanted to do had already been partial solved by XMPP extension protocols: group chat for watching live games, publish-subscribe for rating updates and profile notifications, and ad-hoc commands for generic RPC type functionality.<p>You mention that you'd need extensive modifications, and I can't really help much here without knowing what modifications you're thinking of.  XMPP can be extended at many levels.  At Chesspark we have XMPP bots that maintain order in the public chat rooms and our client implements the moderation facilities of the multi-user chat protocol.  Community managers can privately warn, mute, kick, and ban people.  The next step up are components, which can pretty much listen to anything going on in the server and react to it, or handle messages directly from users.  These are extremely easy to write, and ejabberd comes full of hooks for you to attach to to implement most things you can imagine.  Most of ejabberd's own modules are quite small and serve as good examples.  One thing to note about components is that ejabberd supports the component protocol, so you can write these server extensions in the langauge of your choice.  At Chesspark, most of our components are in Python, but they will run on ejabberd, jabberd2, Tigase, or almost any other XMPP server that exists.  That is the power of the open standard.  The last resort is to modify the server internals.  We've had to do this at Chesspark a single time to add an API hook for disconnecting users from our ejabberd module.<p>I think you have little to lose by spending a few hours getting ejabberd or another server set up and seeing what tools and libraries already exist that might assist you in your goals.",1223163512
+323718,story,,,3,0,eru,"Foldl - functional mnemonic",http://foldl.com/,,1223163421
+323716,comment,323041,323041,0,0,thwarted,,,"It's time to start using something _now_?  The time to start using source/version control is before you start.  It doesn't matter which, just pick one.  Other than getting used to the command interface, it should be pretty easy to migrate to a different one, either by doing a total conversion porting all the history over, or if that's not possible (which it may not be if you go with a distributed system and you want to move to a centralized setup) then just keeping the old one around as reference and just start doing all new work in the new one.",1223163313
+323715,story,,,2,0,threadman,"Early Visibility Program for new multithreading tool (Cilk++)",http://www.cilk.com/Home/sign-up-page,,1223163285
+323714,story,,,23,4,lennysan,"Harnessing Entrepreneurial Manic-Depression: Making the Rollercoaster Work for You",http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/,,1223163165
+323713,comment,323656,323656,0,0,gamble,,,"This post misses the main reason LiveJournal is a niche site today: they were invite-only for years. LJ had severe performance issues during the first couple of years, and to keep the system usable during that period new accounts could only be created if you procured an invite from an existing user. By the time they fixed the problems and removed the invite system, LiveJournal had been eclipsed by the growth of other social-networking sites.",1223163062
+323712,comment,323616,323651,0,0,13ren,,,"Andy Grove",1223162742
+323711,comment,321662,321662,0,0,thwarted,,,"""Script# brings productivity to Ajax and JavaScript development.""<p>The biggest lever in bringing productivity to Ajax and Javascript development would be for Microsoft to follow standards closer.  IE8 is progress, but it's really too late to offset the losses developers have had in dealing with previously versions.<p>""Script# empowers you with a development methodology that brings software engineering and long term maintainability of your Ajax applications and frameworks.""<p>No tool or language is a silverbullet for software engineering and maintainability problems.  These only come with diligence, foresight, and experience.",1223162520
+323710,comment,323482,323646,0,0,steveplace,,,"I've never played intrade's markets, so I don't know how liquid the contracts are... but there is an arb play here if you can time it properly.",1223162375
+323709,comment,323653,323653,0,0,13ren,,,"I'm curious: what do architects think of Christopher Alexander? I like what he says, but I'm not an architect, and they say no man is a prophet in his own country...",1223162349
+323708,comment,323540,323540,0,0,rms,,,"btw I recall an interview with Mark Cuban saying he answers about 5% of cold emails containing businesses/business ideas. Give him a try...",1223161988
+323707,comment,323563,323597,0,0,zasz,,,"You sound like Henry Ford's customers, who thought they would be happy with a faster horse.",1223161578
+323706,comment,323032,323140,0,0,tlrobinson,,,"Ok maybe just a <i>little</i> more substance.",1223161557
+323705,comment,323482,323482,0,0,davidmathers,,,"I just downloaded Randall's code and modified it to match my analysis, which is: there are only 3 states that matter (FL, OH, CO) and if McCain wins all 3 then McCain wins but if Obama wins any one of them then Obama wins.<p>Here's what I got: Obama 94.6%, McCain 5.4%<p>Assuming my analysis is right, am I doing anything wrong mathematically?",1223161381

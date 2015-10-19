@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+60815,comment,60793,60793,0,0,palish,,,"What..in the world...<p>People don't do startups to change society.  They do it to get rich.  Changing society may or may not result.<p>People give away money either to feel good about themselves or to help accomplish a goal.  <p>If a rich person's goal is ""to change society"", and a startup's goal is ""to get rich"", then the rich person will only invest in startups that will change society in the ways the rich person wants it to change.  Which is what happens already.<p>But if a rich person's goal is ""to get richer"", then they'll invest in startups that they think have a decent chance in getting rich, regardless of whether or not they change society.<p>Therefore, the current system actually invests in <i>more</i> startups than your system.<p>So what are you proposing?<p>I guess a more direct answer to your question is:  Nobody.",1191013133
+60814,story,,,13,0,luccastera,"Ask 37signals: Pressure to grow? ",http://www.37signals.com/svn/posts/625-ask-37signals-pressure-to-grow,,1191012308
+60813,comment,60321,60763,0,0,icey,,,"It's a little known fact that the P in P=NP actually stands for Paul Graham.",1191012278
+60812,comment,60321,60642,0,0,icey,,,"Hmm, I just thought of another. <p>Paul Graham named his fists: ""("" and "")""
+",1191012180
+60811,comment,60321,60461,0,0,pg,,,"No, turns out the system was just running out of memory.",1191011963
+60810,comment,60620,60670,0,0,pg,,,"The crashes were due to running out of memory.  As a temporary fix, Rtm moved the oldest objects.",1191011924
+60809,comment,60793,60793,0,0,tocomment,,,"What do you mean by ponies and rainbows?",1191011714
+60808,comment,60680,60680,0,0,karzeem,,,"Fun at-home version of the guess-the-weight-of-the-bull experiment.  Last Easter, we put a few hundred small chocolate eggs in a large jar.  We had 14 people at the house, and we all guessed how many eggs were in the jar.  The closest guess was off by about 8%, and the worst were more than 50% off.  As a little test of the wisdom of our crowd, we averaged the guesses.  Their average was 3% off the right answer.",1191011615
+60807,comment,60540,60716,0,0,twism,,,"i think both JSONs above are a bit lispy :)...<p><pre><code> {""p"":{"">"":""this is a"",""a"":{""@"":""http://example.com"","">"":""link""},"">"":"".""}</code></pre>",1191011610
+60806,story,,,2,2,benhoyt,"Why does News.YC show xyz.domain.com as just domain.com? Eg:",http://blog.flickr.com/,"Though I notice that it sometimes does (abstractfactory.blogspot.com shows the full domain) and sometimes doesn't (james.hotornot.com shows as ""hotornot.com"").",1191010966
+60804,comment,60620,60670,0,0,benhoyt,,,"Oh dear -- linkrot!",1191010044
+60803,comment,60708,60708,0,0,benhoyt,,,"Not sure it matters <i>too</i> much for sites that have login page that aren't https, but better not to email people their passwords (clear text). It also indicates you're probably storing passwords in the clear, see <a href=""http://www.codinghorror.com/blog/archives/000953.html"" rel=""nofollow"">http://www.codinghorror.com/blog/archives/000953.html</a>",1191009905
+60802,comment,60321,60794,0,0,shadowplay,,,"My impression is most Rails developers are not C programmers.",1191009855
+60801,comment,60321,60357,0,0,nr,,,"Paul Graham doesn't need Viagra.  He is NP-hard.
+",1191009704
+60800,comment,60708,60708,0,0,jsmcgd,,,"What languages/frameworks did you use?",1191009665

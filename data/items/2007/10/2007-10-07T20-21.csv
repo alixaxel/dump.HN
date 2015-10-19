@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+64508,comment,64413,64413,0,0,Tichy,,,"Interesting question, how do they make money? I guess they gather a lot of interesting data, because they can monitor who visits pages they don't own (and also which pages get recommended the most, a ka generate the most URL generation requests). Maybe they can sell that data. On the other hand, services that have a hook into the original pages, like Google Analytics, probably gather a lot more data than TinyURL can, so I don't see the advantage for TinyURL?",1191790600
+64507,story,,,1,0,chaostheory,"monkeycharger: A small Rails application for storing and charging credit cards",http://code.google.com/p/monkeycharger/,,1191790297
+64506,story,,,1,2,Tichy,"Ask YC: can you recommend a bliki engine?",,,1191790203
+64505,story,,,1,1,chaostheory,"A Ruby on Rails Amazon EC2 ""Appliance""",http://code.google.com/p/ec2-on-rails/,,1191789609
+64504,comment,63836,64191,0,0,darius,,,"You are right, that's what google suggests to do if you hit the 500 emails limit. Using a queue is another option...<p>I didn't find any other limitations to using google apps.",1191789318
+64503,comment,63702,64377,0,0,rkts,,,"Let me give you a real example from a program I worked on.  I'll simplify the code.<p>Say you write a function that takes input given by the user, inserts it into a list, and then sends the action across the network.  Every item has an ID, so when the function finishes, the current ID number needs to be incremented.<p><pre><code> add_item (item) {
+     var item_id = current_id;
+     insert_item(item, item_id);
+     update_current_id();
+     send_item(item, item_id);
+ }
+</code></pre>
+You write the function, and it works, and no one has any problems with it.<p>Two months later, you come back to the function and think, ""That's messy.  I should clean that up.""  So you do.<p><pre><code> add_item (item) {
+     insert_item(item, current_id);
+     send_item(item, current_id);
+     update_current_id();
+ }
+</code></pre>
+Do you see a problem with this code?  No, you don't.  You even run the program and try it out, and everything seems to work fine.<p>What if the function header had said ""throws NetworkException""?  You might have been more careful, but I wouldn't count on it.  If the function were longer, which it would be in real life, you probably wouldn't catch your mistake.<p>On the other hand, what if the code looked like this?<p><pre><code> add_item (item) {
+     if (insert_item(item, current_id) == INSERT_ERROR) {
+         return INSERT_ERROR;
+     }
+     if (send_item(item, current_id) == SEND_ERROR) {
+         return SEND_ERROR;
+     }
+     update_current_id();
+     return SUCCESS;
+ }
+</code></pre>
+Do you see the problem now?  Of course.  It's staring you in the face: current_id won't get updated if the network goes down.  The result is that you could have two items in your list with the same ID.<p>This isn't ""nuclear power plant"" paranoia.  What I'm describing is a real bug I had recently.  It wasn't the first time that I've done something like this, either.<p>I like your idea of putting the throws clause next to the function call.  I'd like to see something like that for checked exceptions, and eliminate unchecked exceptions completely.",1191789301
+64502,comment,64367,64395,0,0,zhyder,,,"That's just another component of intangible capital though. The reason risk-taking isn't mentioned separately is because it's of far less significance (either because it doesn't make much difference, or because the delta between developed and less-developed countries is small) than education, property rights, etc. ",1191788682
+64501,comment,64496,64496,0,0,aston,,,"<i>Worse is Better</i> is a good discussion of the philosophy of Unix, which definitely plays into the development of Linux.<p><a href=""http://www.jwz.org/doc/worse-is-better.html"" rel=""nofollow"">http://www.jwz.org/doc/worse-is-better.html</a>",1191787549

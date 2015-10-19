@@ -1,0 +1,84 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+57256,comment,57192,57248,0,0,jfoutz,,,"This is the one.<p>No more big rigs, ups drivers, fed ex drivers, taxi drivers, pizza drivers.<p>The tech seems extensible to store shelf stocking, so a pretty big chunk of <i>all</i> transportation of goods should be automated.<p>It's easy to envision a retailer that has automated delivery from the factory floor to the store shelf. <p>This will be huge.",1190264055
+57255,comment,56736,56854,0,0,bootload,,,"<i>""... Regexps. John tried a beautifulSoup parser, but it turned out to be more trouble than it was worth ...'</i><p>Took me a bit of mucking around to get it working. My trick was just utilising the FOX HTML Validator to find the page structure, then CUT+PASTE the text into IDLE and call up BS in IDLE, then write the BS expression to oarse the string till I had the right data.<p><i>""... I don't mind sharing the code if PG doesn't mind the potential flood of screen scrapers.  ...""</i><p>A better suggestion might be supply the raw data you collected as a service and let others do what they want with it. Most just want the data and are not particularly interested in the HOW. If they are interested in the HOW then it's better to point them to some scrapers to play with. ",1190263801
+57254,comment,57192,57246,0,0,randallsquared,,,"Yeah, nanotechnology was coined to mean molecular manufacturing -- mechanical chemistry.  Unfortunately, it's been applied too widely, and so we now have to use these clumsier terms to describe Drexler's idea.",1190263601
+57253,comment,57192,57248,0,0,axiom,,,"That's one that I definitely had in mind!<p>Some of the work done in computer vision in particular is pretty incredible. The SIFT result by Lowe for example has just barely started to become applied (take a look at Photosynth by Microsoft - that's entirely made possible through SIFT.) Particle filters in their various forms will become more and more widespread as computation becomes cheaper (the Condensation algorithm is a good example.) All of this is just now starting to add up to allow people to create truly intelligent systems that can interact with the world.
+",1190263310
+57252,comment,56769,56769,0,0,binnymathews,,,"CPA (Cost Per Action) advertising is the a good solution to address this $1 Billion loss. Google just launched a beta of their CPA platform. ",1190263240
+57251,story,,,8,4,brett,"PlaySpan, run 12-year-old founder, gets $6.5M in venture capital",http://venturebeat.com/2007/09/19/playspan-run-12-year-old-ceo-gets-65m-in-venture-capital/,,1190263189
+57250,comment,57195,57232,0,0,steve,,,"Better to live a day as a lion... you know the rest.<p>Maybe I'm not old enough, maybe it's because I don't have a family, but I'd rather do something few others have done than just lay around with my family until they send me off to the retirement home.<p>So, I disagree with your position 100%.<p>Anyone have a link to video of the guy who rides on top of the high speed train shortly before he dies of cancer?",1190263143
+57249,comment,57195,57195,0,0,amichail,,,"You can find a streaming video of the talk here:<p>mms://wms.andrew.cmu.edu/001/pausch.wmv",1190263027
+57248,comment,57192,57192,0,0,plinkplonk,,,"Probabilistic Robotics (think the Darpa Car Races)",1190262673
+57247,comment,57195,57243,0,0,amichail,,,"My guess is that all people -- religious or not -- are completely terrified towards the end.  But maybe religion can bring comfort to some, so that they are terrified to a lesser degree.",1190262379
+57246,comment,57192,57228,0,0,axiom,,,"Nano-technology is one of these buzz words that's been applied to everything from MEMS to car polish creams. It's so amorphous and vague that the only definition I can think of is ""anything that's pretty damn small."" I'm really not sure if it's a useful term at all anymore, or if it just obscures whatever it's used to describe.<p>One of my good friends is doing his PhD on MEMS micro-manipulators. But his work falls under non-linear control systems. Can it be described as nano-technology? sure, but what does that tell you? it hardly clarifies what his research is about, it just makes it sound like he's seeking funding from gullible VC's :)",1190262362
+57245,comment,57102,57102,0,0,chaostheory,,,"Yeah Sun's support for Ruby was also pretty evident at their JRuby hackfest a few months back in the SF Bay Area...<p>Free beer and food to boot - not to mention a good overview by Joyent on Sun's efforts to get Rails running on the JVM",1190262213
+57244,comment,57192,57192,0,0,AlexanderHood,,,"The internet is just a more sophisticated version of the cave drawing. The Genome is a discovery, not a breakthrough. The last true breakthrough was splitting the atom. Perhaps creating life from Methane gas and electricity would qualify. ",1190262204
+57243,comment,57195,57195,0,0,rms,,,"A few weeks ago, I was out to dinner with my parents and my grandparents. My grandfather is 90 years old and in relatively good health but he's slowed down a lot recently. My family has gotten much less religious over the years (we're Jewish) as it has come out that no one really believes in the religion, from my grandparents on down. The thought of my grandfather facing his own death with no faith really depressed me.<p>Have any secular individuals here come to terms with their own mortality? I haven't yet, but I sure hope I have a while to figure it out. Right now all I've got is a hope that a singularity will grant immortality. Or that this reality is a computer simulation and we wake up in a bigger computer simulation where we get bored sometimes and choose to spend lifetimes during interesting periods of time.<p>Either of these are much more likely than the eternal afterlife of a theistic god, but not nearly likely enough to give me any comfort. Dr Roth's lesson on mortality seems to be that death is inevitable, but that doesn't give me any satisfaction, for now.",1190262069
+57242,comment,56957,57130,0,0,Jd,,,"Does anything like this exist that you are aware of?",1190262050
+57241,story,,,1,0,nreece,"Digg goes deeper with social networking",http://www.businessweek.com/technology/content/sep2007/tc20070918_438912.htm?chan=top+news_top+news+index_technology,,1190261988
+57240,comment,57192,57227,0,0,axiom,,,"The internet is definitely a great example. But I guess what I had in mind was more along the lines of things that haven't borne their fruit quite yet. Things that in retrospect people will see as seminal, but that are currently still hidden in research journals.",1190261805
+57239,story,,,1,2,puneetht,"Robby's night. Lesson on perseverence",,"Robby's Night<p>At the prodding of my friends, I am writing this story. My name is Mildred
+Hondorf. I am a former elementary school music teacher from Des Moines ,
+Iowa . I've always supplemented my income by teaching piano
+lessons-something I've done for over 30 years. Over the years I found that
+children have many levels of musical ability. I've never had the pleasure
+of having a prodigy though I have taught some talented students.<p>However I've also had my share of what I call ""musically challenged""
+pupils. One such student was Robby. Robby was 11 years old when his mother
+(a single Mom) dropped him off for his first piano lesson. I prefer that
+students (especially boys!) begin at an earlier age, which I explained to
+Robby.<p>But Robby said that it had always been his mother's dream to hear him play
+the piano. So I took him as a student. Well, Robby began with his piano
+lessons and from the beginning I thought it was a hopeless endeavor. As
+much as Robby tried, he lacked the sense of tone and basic rhythm needed
+to excel. But he dutifully reviewed his scales and some elementary pieces
+that I require all my students to learn.<p>Over the months he tried and tried while I listened and cringed and tried
+to encourage him. At the end of each weekly lesson he'd always say, ""My
+mom's going to hear me play someday."" But it seemed hopeless. He just did
+not have any inborn ability. I only knew his mother from a distance as she
+dropped Robby off or waited in her aged car to pick him up. She always
+waved and smiled but never stopped in.<p>Then one day Robby stopped coming to our lessons.<p>I thought about calling him but assumed because of his lack of ability,
+that he had decided to pursue something else. I also was glad that he
+stopped coming. He was a bad advertisement for my teaching!<p>Several weeks later I mailed to the student's homes a flyer on the
+upcoming recital. To my surprise Robby (who received a flyer) asked me if
+he could be in the recital. I told him that the recital was for current
+pupils and because he had dropped out he really did not qualify. He said
+that his mother had been sick and unable to take him to piano lessons but
+he was still practicing ""Miss Hondorf I've just got to play!"" he insisted.<p>
+I don't know what led me to allow him to play in the recital. Maybe it was
+his persistence or maybe it was something inside of me saying that it
+would be all right. The night for the recital came. The high school
+gymnasium was packed with parents, friends and relatives. I put Robby up
+last in the program before I was to come up and thank all the students and
+play a finishing piece. I thought that any damage he would do would come
+at the end of the program and I could always salvage his poor performance
+through my ""curtain closer.""<p>Well, the recital went off without a hitch. The students had been
+practicing and it showed. Then Robby came up on stage. His clothes were
+wrinkled and his hair looked like he'd run an eggbeater through it. ""Why
+didn't he dress up like the other students?"" I thought. ""Why didn't his
+mother at least make him comb his hair for this special night?""<p>Robby pulled out the piano bench and he began. I was surprised when he
+announced that he had chosen Mozart's Concerto #21 in C Major. I was not
+prepared for what I heard next. His fingers were light on the keys, they
+even danced nimbly on the ivories. He went from pianissimo to fortissimo.
+>From allegro to virtuoso. His suspended chords that Mozart demands were
+magnificent! Never had I heard Mozart played so well by people his age.
+After six and a half minutes he ended in a grand crescendo and everyone
+was on their feet in wild applause.
+Overcome and in tears I ran up on stage and put my arms around Robby in
+joy. ""I've never heard you play like that Robby! How'd you do it? ""
+Through the microphone Robby explained: ""Well Miss Hondorf . . .. Remember
+I told you my Mom was sick? Well, actually she had cancer and passed away
+this morning And well . . She was born deaf so tonight was the first time
+she ever heard me play. I wanted to make it special.""<p>There wasn't a dry eye in the house that evening. As the people from
+Social Services led Robby from the stage to be placed into foster care,
+noticed that even their eyes were red and puffy and I thought to myself
+how much richer my life had been for taking Robby as my pupil.<p>No, I've never had a prodigy but that night I became a prodigy. . . Of
+Robby's. He was the teacher and I was the pupil for it is he that taught
+me the meaning of perseverance and love and believing in yourself and
+maybe even taking a chance in someone and you don't know why. ",1190261516
+57238,comment,56618,56618,0,0,sexmissile,,,"Papillion by Charest, amazing inspirational true story.
+Voltaire's Bastards - John Rolston Saul - Timeless
+anything by Nietzsche
+The economist and the New Yorker
+anything you can get your hands on but with a grain of salt.<p>",1190261454
+57237,comment,57195,57195,0,0,acy,,,"indeed great speech & life lesson ",1190261349
+57235,comment,57195,57232,0,0,neilc,,,"As I see it, the YC & startup world is consistent with the philosophy of that article. At least to me, the whole idea is that if you're a highly competent person and willing to tolerate some risk, you have a reasonable chance of being able to spend <i>more</i> time doing the things that you love in life in the long-run -- seeing your family, traveling, and having the freedom to hack on whatever you want -- if you can do a successful startup while you're relatively young.",1190261051

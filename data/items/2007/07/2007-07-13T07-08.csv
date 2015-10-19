@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33987,comment,33981,33981,0,0,palish,,,"Does this really belong in Startup News?",1184312265
+33986,comment,33361,33517,0,0,BrandonM,,,"<a href=""http://www.google.com/search?q=how+to+spoof+ip+address&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a"" rel=""nofollow"">http://www.google.com/search?q=how+to+spoof+ip+address&i...</a>",1184311691
+33984,story,,,1,2,henryw,"How do you register domains for your users?",,"I want to be able to register domains for my customers and just have their nameservers point to mine nameserver. Does anyone know how to do this? Thanks in advanced.",1184310863

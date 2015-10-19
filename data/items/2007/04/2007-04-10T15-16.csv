@@ -1,0 +1,38 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+11313,comment,11285,11303,0,0,mariandumi,,,"I'm in love with my Junk Email box today too. Nothing gets deleted without proper consideration.",1176220542
+11312,comment,10001,10001,0,0,enomaly,,,"You may want to take a look at <a href=""http://www.enomalism.com,"">http://www.enomalism.com,</a> it provides migration to and from Amazon EC2 as well as the ability to create your own geo-targeted cloud. 
+",1176220540
+11311,comment,11221,11258,0,0,juwo,,,"what are you saying?
+I think you did not understand my suggestion.",1176220481
+11310,comment,11285,11308,0,0,notabel,,,"Hurray for over-engineered solutions!  While you're at it, though, you might as well just have your robot slip inside YC and grab a copy of Arc--then it wouldn't just be Lisp, it would be Hundred Year Lisp!",1176220382
+11309,comment,11285,11285,0,0,Alex3917,,,"Emails fall through.<p>This isn't survivor. Get back to work. :-)",1176220187
+11308,comment,11285,11307,0,0,jkush,,,"I've got you beat. I built a robot last night (runs on Lisp and parts from Radio Shack) that constantly monitors the internet, my phone lines and packets going out of YC's office. As soon as my robot picks up a signal of interest it beams the messages directly to my HUD that I've been wearing ever since I sent my app in.",1176220186
+11307,comment,11285,11285,0,0,notabel,,,"I've got a Sieve script running on my IMAP server, set to redirect to my phone any message from an address containing any of the strings ""pg@"", ""tlb@"", ""rtm@"", ""x@"", or 
+""ycombinator"".<p>I also have my email here set to a subaddress, which is also included in the above forward.  Points to anyone who understands Sieve semantics well enough to predict whether the message will get matched and redirected twice.<p>Sieve happens in realtime :-)",1176219960
+11306,comment,11241,11241,0,0,litepost,,,"SXSW had at least two decent talks on web apps, including their financial performance.<p>- <a href=""http://www.carsonified.com/sxsw.pdf"">http://www.carsonified.com/sxsw.pdf</a> 
+- <a href=""http://particletree.com/sxsw/autopsy.zip"">http://particletree.com/sxsw/autopsy.zip</a><p>
+",1176219953
+11305,comment,11285,11303,0,0,jkush,,,"Heh. I didn't know YC was into that kind of thing. How interesting.",1176219888
+11304,comment,11278,11278,0,0,danw,,,"Bah, evil linkbait titles :D I was expecting there to be an actual valuation and a method rather than a shrug.",1176219808
+11303,comment,11285,11294,0,0,blader,,,"Yes, but he wants me to buy penis enlargement pills for some reason.",1176219707
+11302,story,,,1,0,Mistone,"11th Annual Webby Awards Nominees & Winners",http://webbyawards.com/webbys/current.php,,1176219680
+11301,comment,11278,11297,0,0,Readmore,,,"I take it that means they just aren't worth much ;)",1176219610
+11300,comment,11109,11109,0,0,Readmore,,,"They are building a global brain. Skynet here we come.",1176219555
+11299,story,,,6,1,wschroter,"What a Startup Office Really Looks Like",http://www.gobignetwork.com/wil/2007/4/10/what-a-startup-office-really-looks-like/10127/view.aspx,,1176219347
+11298,comment,10112,10307,0,0,jey,,,"Oops, thanks for the clarification.",1176219280
+11297,comment,11278,11278,0,0,rfrey,,,"The only thing that's worse than an armchair-quarterback WAG about something they were introduced to last week is being promised an armchair-quarterback WAG and getting ""it's hard to say"".",1176219242
+11296,comment,11296,9770,0,0,professorguy,,,"Anyone who cares can have fast Internet access now.<p>Um, no.<p>I care to have fast access (I am a network administrator at a hospital so it'd be useful).  But I cannot have it.  Therefore your comment does not reflect reality.<p>I'm sure that's true in the city where you live, but come to Dalton, NH and tell me again how I'm supposed to get high speed access.  DSL? Nope.  Cable? Ha!  Satellite? Not on my wooded hillside.  Magic internet fairies?  Oh, that must be what you're talking about!<p>",1176219140
+11295,comment,11208,11208,0,0,Mistone,,,"lets dream for a minute - 
+All things even, I would prefer Microsoft over Yahoo, but likely go with Google over both.  Even better would be a slightly smaller, more focused player like SalesForce.com. It seems that Yahoo has a tendency to sap a startup of all it's mojo, while Google is fairly effective at buying a feature/product and quickly integrating it into their suite.  <p>Microsoft has done well with some, and dropped the ball on others, but the embedded reach and business focus would be a huge value add to our business.  ",1176219035
+11294,comment,11285,11285,0,0,jkush,,,"Has anyone heard back yet?",1176218988
+11293,comment,11285,11285,0,0,dfranke,,,"Considerably more often than that.  Dreamhost is gonna be pissed with me.",1176218836
+11292,comment,11292,9770,0,0,scd,,,"Two comments:<p>1) I think you underestimate the importance of Firefox in Microsoft's decline in importance. It is Firefox that makes sure that all those Web-based apps aren't held hostage to Microsoft's implementation of web standards.<p>2) Whilst its all about the web it isn't all about the browser. Ajax-y web apps show the potential for ignoring platform specific APIs (such as Win32)--especially when you don't try to mimic platform specific behaviour (the big problem with Swing-based apps: stop pretending to be a native desktop app! Rejoice in being a x-platform web app!). But ajax inside Firefox/Safari isn't going to be enough for me to abandon all of my 'rich' Mac OS X apps: if you want me to put all of my brain in your web-based wiki or PIM, give the same 'richness' and sophistication of design that I can get with VoodooPad, DevonThink, and Curio. ",1176218772
+11291,comment,11285,11285,0,0,monjurul,,,"hakuna matata = my philosophy in life.",1176218674
+11290,story,,,11,3,Readmore,"Facebook cover story from Fast Company - Hacker, Dropout, CEO",http://www.fastcompany.com/magazine/115/open_features-hacker-dropout-ceo.html,,1176218487
+11289,story,,,1,1,monjurul,"Google Takes Partial Ownership Of Maxthon Browser",http://www.techcrunch.com/2007/04/10/google-takes-partial-ownership-of-maxthon-browser/,,1176218486
+11288,comment,11270,11270,0,0,blader,,,"This is fantastic. I've always really loved Palm software and now I know that it is for a good reason.",1176218453
+11287,comment,11285,11285,0,0,danw,,,"Of course its constantly refreshing as always :)<p>The time zone difference is killing me, its only 8am over there!",1176218388
+11286,comment,11285,11285,0,0,blader,,,"This is just for fun. Relax.",1176218068
+11285,story,,,50,96,blader,"Vote up if you're refreshing your email once a minute today",,,1176218020
+11284,comment,11208,11208,0,0,dawie,,,"Business is Business. I would sell to anyone that made a decent offer and walk away from anyone that does't!",1176217758
+11283,story,,,14,2,jkopelman,"Do you need to switch your pitch?",http://redeye.firstround.com/2007/04/do_you_need_to_.html,,1176217457

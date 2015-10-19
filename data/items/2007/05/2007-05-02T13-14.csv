@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+18701,comment,18531,18632,0,0,dpapathanasiou,,,"But even Flash for Linux seems like a low priority -- the latest version (9?) for Linux was released <i>long</i> after the Windows and Mac versions were done.",1178114054
+18700,comment,18590,18640,0,0,Agathos,,,"You may say the DMCA is a bad law. I'm inclined to agree. And if you choose to violate a bad law and risk the consequences, you'll be in some heroic company. But demanding that someone else, like Digg, violate the law and risk the consequences in your place seems a bit low.",1178114017
+18699,comment,18674,18674,0,0,ced,,,"Interesting read. Sadly, the article's chart takes figure distortion to new levels. (is that even deliberate?)<p><a href=""http://www.nytimes.com/imagepages/2006/10/14/business/15friend_Chart_ready.html"">http://www.nytimes.com/imagepages/2006/10/14/business/15friend_Chart_ready.html</a>",1178113958
+18698,comment,18675,18675,0,0,ecuzzillo,,,"I <i>still</i> don't understand how startups without hackers work. ",1178113773
+18697,comment,18669,18693,0,0,dpapathanasiou,,,"I think it just reflects how hard it is to get attention these days.<p>I didn't mind it because it was fairly novel (mail we get to that address is usually either a feature request or a user complaint), and <i>seemed</i> legit.<p>But if tons of other groups start advertising their events this way, it could get tiring, fast.",1178113593
+18696,comment,18674,18674,0,0,Goladus,,,"Why they think Friendster failed: the mostly non-technical board of directors did lots of bone-headed things.",1178113153
+18695,comment,18679,18679,0,0,BrandonM,,,"I've been looking for a reason to leave Chase ever since they bought out Bank One.  I had no problems with Bank One, banking with them for several years.  I then got a credit card with Chase that was attached to my checking account, and after one payment that was a day late, they raised my APR from 0% (intro) to 24%.  Calling them and mentioning that I had been a long-time customer did no good.  Now that I've paid off the card and seen this submission, I'm at the point where I'm ready to end my associations with Chase altogether.",1178113140
+18694,story,,,1,0,gibsonf1,"Webby Award winners: Mentos, ninjas, and 'The Office'",http://news.com.com/8301-10784_3-9714596-7.html?tag=nefd.aof,,1178113035
+18693,comment,18669,18669,0,0,dawie,,,"I got this as a comment on my blog. Is this the beginning of startup spam?
+",1178112924
+18692,comment,18521,18521,0,0,BrandonM,,,"So the lesson is that every single developer should rewrite all of their complicated code (the code which uses closures and circular referencing) so that the major browser developers can avoid writing a good GC algorithm?<p>It reminded me of this story from the Jargon File:
+<a href=""http://www.catb.org/~esr/jargon/html/koans.html#id3141202"">http://www.catb.org/~esr/jargon/html/koans.html#id3141202</a><p>So we should believe that browser developers are no more advanced than students from the 70s?",1178112905
+18691,story,,,1,0,gibsonf1,"HP touts new mold for the chip industry",http://news.com.com/HP+touts+new+mold+for+the+chip+industry/2100-1008_3-6180595.html?tag=nefd.lede,,1178112844
+18690,comment,18363,18639,0,0,create_account,,,"So you control the entire server as root, you get 1 TB of bandwidth, and it's $50 a month?<p>Wow, that's the best combination so far... they do skimp on RAM and HD size, compared to some of the others.<p>Is it too good to be true?  What disadvantages or problems have other people seen?",1178112745
+18689,story,,,2,0,gibsonf1,"Google re-branding personal home page, adding widget maker",http://www.webware.com/8301-1_109-9714279-2.html?tag=blog,,1178112694
+18688,comment,18574,18607,0,0,dawie,,,"Thanks RMS. I signed up.",1178112683
+18687,comment,18583,18591,0,0,dawie,,,"I think this could be the future of dating...",1178112638
+18686,story,,,1,0,gibsonf1,"YouTube adds Active Sharing feature to videos",http://www.webware.com/8301-1_109-9714008-2.html?tag=blog,,1178112600
+18685,comment,18531,18647,0,0,create_account,,,"But will they open source it, like Adobe did with Flex?<p>Making it cross-platform (in the short term) is a great strategy, because then, if it gains acceptance, they can force you back on Windows in the long run (assuming it stays closed during that time span).",1178112577
+18684,story,,,2,0,jslogan,"Here's why the business relationship with consultants is upside down",http://www.jslogan.com/content/view/166/,,1178112571
+18683,story,,,1,0,gibsonf1,"MySpace Launches Beta Version of Chinese Edition","http://www.foxnews.com/story/0,2933,268982,00.html",,1178112349
+18682,story,,,1,0,gibsonf1,"Defense Department Working on High-Tech Lie Detectors","http://www.foxnews.com/story/0,2933,269076,00.html",,1178112216
+18681,story,,,1,0,gibsonf1,"Vista-Based PC Games Could Blow Consoles Out of Water","http://www.foxnews.com/story/0,2933,269017,00.html",,1178112075
+18680,story,,,1,0,gibsonf1,"How the Internet took over",http://www.usatoday.com/tech/top25-internet.htm,,1178111806
+18679,story,,,3,1,gibsonf1,"YouTube Shocker: Chase Bank Records Found In Trash",http://wcbstv.com/topstories/local_story_121055435.html,,1178111579
+18678,comment,18652,18660,0,0,mojuba,,,"You have to be open and honest with your users rather than ""careful"".",1178110980
+18677,comment,18545,18604,0,0,hoan,,,"I like your color scheme and your design a lot.  There is nothing bad about it, except perhaps giving the text in the box more room to breathe.  This must be a trick question, because the design is so good.<p>So please send me an invite. :) (hoan@ton-that.org)",1178110850

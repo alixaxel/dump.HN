@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+50289,comment,49982,49998,0,0,simplegeek,,,"Yeah, I kind of agree. Site looks totally bizarre. Steven Levitt(freakonomics) has also mentioned somewhere that schooling and (obesseive)parenting are somewhat irrelevant in one's success (to some degree, at least).",1188957594
+50288,comment,50079,50228,0,0,kingnothing,,,"My father just got one for free and was offered the insurance.",1188957299
+50287,comment,50154,50276,0,0,jkush,,,"I'm with you there - prototype is first class stuff. I wasn't sure if getElementById was supported by Opera or Safari. If it is, it looks like byId() is good way to save some typing.<p>",1188957107
+50286,story,,,1,1,ahsonwardak,"The Creativity Imperative - Nurturing Nature",http://www.presentationzen.com/presentationzen/2007/08/the-creativity-.htmlf,,1188957009
+50285,story,,,1,0,ahsonwardak,"How to UnGoogle Yourself",http://www.wikihow.com/Ungoogle-Yourself,,1188956919
+50284,story,,,1,0,ahsonwardak,"Regulating Google",http://nanotechlaw.blogspot.com/2007/09/regulating-google.html,,1188956842
+50283,comment,50154,50154,0,0,pg,,,"Slow news day.",1188956116
+50282,comment,50015,50015,0,0,whacked_new,,,"There are some good ideas here, but bing a facebook app Wildfire undoes the analysis on this blog, because then you still create a closed loop of readers.<p>It's basically like automated email forwarding on facebook, and email forwarding already operates like wild fire, when things are really interesting.",1188955966
+50281,comment,50098,50119,0,0,nailer,,,"Scriggle It.<p>Start of Byline:
+Get in contact with your fans.
+End of byline.",1188955721
+50280,comment,50098,50098,0,0,staunch,,,"Congratulations on the very nice idea and beautiful site.<p>Critique: The top logo area is so tall that it pushes down the rest of the content down to half the page at lower resolutions. Definitely check it out in 1024x768 if you haven't.
+",1188955178
+50279,story,,,10,1,binnymathews,"Joe Kraus - Confessions of a Startup Addict",http://www.brendonwilson.com/blog/2006/04/30/joe-kraus-confessions-of-a-startup-addict/,,1188954749
+50278,comment,50154,50222,0,0,Locke,,,"I, too, have often wished for the method attribute you describe.<p>That said, if you're already using javascript (as news.YC is), I really don't see why you wouldn't make use of xhr.  In which case you could submit the request as a post.<p>Note:  I haven't poked around enough to see if news.YC works without javascript.  If they degrade gracefully, more power to them, and I can <i>almost</i> understand the decision to do it the way they have.
+",1188954708
+50277,comment,50086,50086,0,0,dfranke,,,"I wouldn't call this evil unless the third party in question is the government and is using it to take away rights.  I don't care what information gets incorporated into Wal-Mart's decisions about who is allowed to shop at their stores.  Information that you choose to publish is, gasp, public.",1188954460
+50276,comment,50154,50262,0,0,nostrademons,,,"document.getElementById is generally pretty portable across browsers.<p>And another clever way of doing cross-browser JavaScript is just to use a mature JS library like Prototype or JQuery.  They all give you byId for free, in the form of the $ function.",1188954416

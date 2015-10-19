@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+22287,comment,22023,22023,0,0,vlad,,,"Godaddy was #1 in NEW domain registrations for 2 or 3 years before they EVER made a TV commercial.",1179251491
+22286,comment,22248,22248,0,0,phil,,,"See also <a href=""http://news.ycombinator.com/comments?id=22277"" rel=""nofollow"">http://news.ycombinator.com/comments?id=22277</a> ;)",1179251360
+22285,comment,21686,21801,0,0,nostrademons,,,"They're one of the most popular sites on Digg - not the site itself, but individual pieces of <i>content</i> hosted on the site.  It's the YouTube effect - if you build a site that's viral, you grow exponentially, but if you build a site that <i>hosts</i> viral content, your growth <i>rate</i> is exponential.",1179251234
+22284,comment,22278,22278,0,0,andre,,,"Looks like it's coming out in June",1179251229
+22283,comment,21686,21961,0,0,nostrademons,,,"Scribd is pretty write-heavy - between traffic analytics, hit counts, votes, comments, favorites, and submissions, they're looking at several DB writes per page view.  Good indexing and DB design can make your reads really fast, but your writes are still limited by the speed at which the disk rotates.  And if you have a lot of indexes to support fast queries, they'll slow down your writes by some (fairly small) percentage.<p>You're right though - most of the sites I've been involved with have been heavier on the webserver than the DB.  It depends on the application...",1179250675
+22282,comment,22196,22196,0,0,ells,,,"I always thought about something like this.  This seems to be a more refined vision.  I thought some sort of beta registry would be good, I think that chunking down to webapps is a great idea.  I called the idea The Beta Point.",1179250644
+22281,comment,22280,22280,0,0,dawie,,,"This is a really good idea. I guess you need enough products though to put something like this up.",1179250631
+22280,story,,,1,1,dawie,"37signals Product Blog",http://productblog.37signals.com/,,1179250594
+22279,story,,,2,1,ells,"LinkedIn uses itself to find a CEO.",http://www.iq.harvard.edu/blog/netgov/2007/05/social_network_website_reaches.html,,1179250491
+22278,story,,,1,2,mf,"Has anyone read? Beautiful Code: Leading Programmers Explain How They Think",http://www.amazon.com/Beautiful-Code-Leading-Programmers-Explain/dp/0596510047/ref=pd_bbs_5/103-0966570-0920608?ie=UTF8&s=books&qid=1179250125&sr=8-5,,1179250351
+22277,story,,,29,39,andre,"How To Stop Hostile Jerks From Killing Your Social Site by Cory Doctorow",http://www.informationweek.com/shared/printableArticle.jhtml?articleID=199600005,,1179250286
+22274,comment,22248,22248,0,0,yubrew,,,"got link bait?",1179250053
+22273,story,,,2,0,transburgh,"The State of Web 2.0 Design",http://valleywag.com/tech/jakob-nielsen/the-state-of-web-20-design-260583.php,,1179249885
+22272,story,,,1,0,rami,"Improving Reddit Stories Score Display",http://raminasser.com/2007/05/15/improving-reddit-stories-score-display/,,1179249834
+22271,comment,22026,22026,0,0,pg,,,"Inaccurate title: there are at least 8 missing.<p>This article gets the amount of funding wrong.  I haven't read the whole thing, but if they got stuff wrong that's in our faq, there are probably other mistakes.",1179249384
+22270,story,,,1,0,raju,"Corkd Acquired by Wine Library Vlogger",http://mashable.com/2007/05/14/corkd-acquired/,,1179249024
+22269,story,,,1,0,awt,"Playfulness and Programming",http://loglibrarian.blogspot.com/2007/05/playfulness.html,,1179248961
+22268,comment,22231,22231,0,0,run4yourlives,,,"Moral of the story: You can dress it up however you like, but there is only one person at the top, always.",1179248736

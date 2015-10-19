@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25347,story,,,1,0,jaggederest,"Sunk Costs: Irrational decisions in Project Management",http://illicittech.blogspot.com,,1180507582
+25346,story,,,1,0,bootload,"Sharing and communicating are key",http://www.uinotebook.com/2007/05/29/sharing-and-communicating-are-key/,,1180507031
+25345,comment,25170,25170,0,0,jaggederest,,,"DHH was a PHP dev before he built Rails. Go read his blog. It's not surprising that some of their stuff is still in PHP.",1180506929
+25344,comment,25153,25324,0,0,keiretsu,,,"he has options to buy up to 40% stake",1180506111
+25343,comment,25239,25311,0,0,zach,,,"Which suggests to me that you have to start desperate with a purely social site.  You have to, have to, have to reach a critical mass or you're boned.  Free stuff or promises of it, guerilla PR, outright paying users, spam-like invitations -- whatever it takes, you need to consider it.",1180506048

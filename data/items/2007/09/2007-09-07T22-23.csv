@@ -1,0 +1,43 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+51958,story,,,1,0,nickb,"You greedy, shallow iPhone whiners",http://www.applematters.com/index.php/section/comments/squealing-swine-the-sad-position-of-early-iphone-adopters/,,1189205425
+51957,comment,51885,51919,0,0,gduffy,,,"Uh huh. I'll just revert that last commit of yours, and we won't tell anyone.<p>... whoops, wrong window!",1189205195
+51956,comment,51752,51752,0,0,thomasswift,,,"i kinda of like this",1189204868
+51955,comment,51937,51937,0,0,ereldon,,,"herdrick, sorry if this wasn't clear. khosla's name was made publicly available in march when another blog found it in a regulatory filing concerning xobni's latest funding round. <p>xobni has sinced decided to release the names of its other investors, as well.",1189204863
+51954,comment,51937,51937,0,0,zach,,,"Wow.  My curiosity is piqued.  I look at this list and wonder, what are we missing?  I don't doubt Xobni is really onto something.  But it's hard to get fascinated by an Outlook plugin.  Clearly there's a lot more going on.<p>I also find it a little curious that there's a disconnect between the ""put something in front of the public as soon as possible"" meme and the long lead times that Loopt had first and now Xobni has before their product reveal.  Is the better growth strategy to put something in front of investors first and see if you can hold off on the public launch?",1189204815
+51953,comment,51951,51951,0,0,terpua,,,"You can also get the $100 apple gift card<p>(via iPhonewebdev group)",1189204605
+51952,comment,51832,51832,0,0,thomasswift,,,"I hope this is official because Microsoft is awesome!",1189204574
+51951,story,,,1,1,terpua,"IPhone: American Express Honoring Price Protection For iPhones",http://gizmodo.com/gadgets/iphone/american-express-honoring-price-protection-for-iphones-297684.php,,1189204557
+51950,comment,51832,51845,0,0,dfranke,,,"Wait until you get bitten in the butt by ""compatibility files"".",1189204191
+51948,comment,51937,51937,0,0,bharath,,,"Very impressive! Its good to see YC having grown from an experiment to something thats represents a 1st step towards marquee VC funding. Khosla does not invest in a whole lot of web based ideas these days (mostly focused on alternative energy type of stuff) and the fact that xobni is one of a handful of exceptions speaks for itself I think.",1189204041
+51947,comment,51351,51833,0,0,Goladus,,,"Defining a function is only the first step.  Generally, one defines a function so that it can be called.  With perl, you have to use an extra symbol to specify that you're calling a function, where Python infers it if you put a parameter list.  Common Lisp lets you do it either way.<p>Here's a hypothetical Python:<p><pre><code>    mana=foo(100)
+    mana(-10)
+    mana(-15)
+</code></pre>
+Here's Perl:<p><pre><code>    $mana=foo(100);
+    &$mana(-10);
+    &$mana(-15);
+</code></pre>
+Common Lisp:<p><pre><code>    (setf mana (foo 100))
+    (funcall mana -10)
+    (funcall mana -15)
+</code></pre>
+Also Common Lisp:<p><pre><code>    (setf (symbol-function 'mana) (foo 100))
+    (mana -10)
+    (mana -15)
+</code></pre>",1189203877
+51946,comment,51937,51937,0,0,herdrick,,,"Holy crap, that is an impressive lineup.  Nice work, guys.  <p>But then what happened to Khosla Ventures between the initial announcement and now?",1189203818
+51945,story,,,4,1,terpua,"Alum Charged With Hacking Into Texas A&M",http://www.nytimes.com/aponline/technology/AP-College-Hacking.html?ex=1346817600&en=2b7a3ceda0264fcf&ei=5088&partner=rssnyt&emc=rss,,1189203768
+51944,story,,,4,0,luccastera,"Liquidation Preference and Participation Commentary",http://www.startupconversations.com/2007/08/liquidation-pre.html,,1189203688
+51943,story,,,9,2,DocSavage,"Railsify: Directory for rails plugins & tools",http://railsify.com/,,1189203673
+51942,comment,51351,51351,0,0,herdrick,,,"'Maintainability' is the last refuge of the fussy language.  ",1189203664
+51941,comment,51351,51351,0,0,herdrick,,,"Wow - I use a lisp, but this argument is awful.  Saying you can really quickly whip up something that works in Perl is an overwhelming recommendation.  That the subsequent code in unmaintainable is a relatively tiny disadvantage.  <p>From the linked-to post: ""...the language rewards idiotic behavior... you can commit any dirty hack in a few minutes in perl, but you can't write an elegant, maintainabale program...""  Sound familiar?  That's the mating call of  statically typed language programmer and the top-down 'software architect'.  That's bad.  And I'll admit, Scheme's libraries (I use Scheme) are in practice somewhat statically typed and fussy, which sucks.<p>I've never used Perl - maybe I should.  BTW, is Ruby really just as good for quick 'duct tape' work and hacks?  My very limited experience with Ruby made me think it was good, but not extraordinarily handy.  <p>",1189203462
+51940,comment,51939,51939,0,0,rms,,,"I'd like to see another source, but if true, this is a huge discovery.",1189203436
+51939,story,,,12,10,rms,"Russian scientists discover new mineral that absorbs radiation",http://www.russiatoday.ru/news/news/13304,,1189203421
+51938,comment,51885,51919,0,0,paul,,,"Sorry, I guess that should have been obvious to me given the rest of what you said.",1189203407
+51937,story,,,17,16,drusenko,"Xobni releases new investment details",http://venturebeat.com/2007/09/07/roundup-singularity-hype-xobni-rapleaf-selling-your-data-vudu-seedcamp-and-more/,,1189203184
+51936,comment,51880,51934,0,0,thomasswift,,,"thats funny. our posts are just about the same at the same time.",1189203135
+51935,comment,51880,51880,0,0,thomasswift,,,"i use namecheap.com - 8.88 per and they do whois protection for free and i have not had a problem yet.<p>godaddy is alright if you can sift through the ads on every single page, they are a little cheaper. i  don't use them and probably never will.",1189203091
+51934,comment,51880,51880,0,0,rms,,,"www.namecheap.com<p>$8.88 a year, includes free whoisguard which anonymizes your whois info.<p>It's worth paying the $.89 over Godaddy because there is no spam or upselling when you buy the domain. They just sell it to you.",1189202958
+51933,story,,,6,1,mk,"OSCON 2007 - Simon Peyton-Jones - A Taste of Haskell Part I  ",http://www.bestechvideos.com/2007/08/09/oscon-2007-simon-peyton-jones-a-taste-of-haskell-part-i,,1189202920
+51932,comment,51815,51890,0,0,vlad,,,"What makes you believe you didn't take enough steps?",1189202777
+51931,comment,51765,51765,0,0,aston,,,"You're saying these guys are taking compressed audio...and compressing it? First off, impressive. Second, I'm sure there's zero loss in quality. Maybe it'll even sound better afterwards!",1189202588

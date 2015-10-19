@@ -1,0 +1,262 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+5031259,story,,,1,0,javinpaul,"Dont Test Blindly: The Right Methods for Unit Testing Your Java Apps",http://zeroturnaround.com/labs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/,,1357736384
+5031258,comment,5030803,5030962,20,0,dons,,,"... of course Haskell is perfectly capable of representing state too ...",1357736377
+5031257,comment,5030803,5030990,7,0,cgag,,,"I'm coming from a Clojure perspective (around a year of using it), so maybe some of this stuff is different with CL, but Clojure is incredibly simple compared to C++ and in my experience there's no problem with everyone simply using the entire language.<p>I've read a decent amount of Clojure source, since documentation is admittedly a problem with a lot of libraries, but it's the language I've found actually easiest to read.  The Clojure way of going about things is to pass around and manipulate simple immutable data structures, which I find easier to understand than large class hierarchies.  Macros are usually used for creating DSLs or removing simple boilerplate, which leads to smaller, easier to understand code bases in my experience, rather than implementing custom object systems or something like that.<p>I don't think Clojure really discourages recursion so much as it lets you avoid using it explicitly by providing a good standard library, but many of the standard lib functions are themselves written recursively.<p>Anyway this was all in response to why isn't it used more.  I don't really have a good answer for that, but a lot of it comes to from people being weirded out from its simple syntax, and also not wanting to learn to think functionally.  It is being used though, the most successful Clojure example I can think of off the top of my head is Storm, which is usually billed as a Hadoop for realtime processing, and it's being used at a lot of large companies: <a href=""http://storm-project.net/"" rel=""nofollow"">http://storm-project.net/</a>",1357736349
+5031256,comment,5030803,5031230,5,0,lispm,,,"CMUCL was from the start very significant.<p>DEC Common Lisp was based on CMUCL. LispWorks was based on CMUCL. Scieneer Common Lisp is also based on CMUCL.<p>SBCL is a fork of CMUCL. SBCL is very popular in the 'free software' Lisp community - it's just a repackaged CMUCL.<p>Lot's of other Lisp implementations took and still are taking code from CMUCL, since it is 'Public Domain'. Free software.<p>Btw., CMUCL still has monthly releases.<p>AKCL spawned several implementations. Including GNU Common Lisp (GCL), which was widely used for some time - in combination with GCC.<p>GCL has been long used to run Maxima, the free version of Macsyma.<p>AKCL/GCL is nowadays ECL. Another fork. Which is maintained until today. Again ECL is possible because GCL was Free Software.",1357736334
+5031255,story,,,1,0,mstarkman,"Writing My First RubyGem - CanBe",http://blog.markstarkman.com/blog/2013/01/09/writing-my-first-rubygem-canbe/,,1357736244
+5031254,comment,5031161,5031234,3,0,laumars,,,"the terrifying thing is how hard they are to detect (basically spotting a black speck against the black of space).<p>But at least, if detected early enough, an asteroids path can be changed. If a star goes supernova within a few million light years of Earth, we'd all be fried.<p>Despite how mind boggling big space is, world extinction events are worryingly easy.<p>/me is pretty sure he'll have nightmares tonight...",1357736216
+5031253,comment,5031076,5031076,6,0,krutulis,,,"I'm baffled by people's obsession with finding The One Programming Language. Would the world be better off if everyone spoke and thought in only English?",1357736214
+5031252,comment,5028740,5029650,2,0,wmblaettler,,,"We just entered a GM Connected Car app in the ATT Hackathon in Las Vegas this past weekend.  GM provides an Eclipse plugin that has the SDK and emulator.  GM's API is Javascript-based and your app is HTML5/CSS and JS code.",1357736204
+5031251,comment,5031199,5031236,1,0,barakstout,,,"Yeah, thats is pushing it, but possible.",1357736192
+5031250,story,,,1,0,lucaspiller,"Netflix: One Year in the UK & Ireland",http://ukirelandblog.netflix.com/2013/01/celebrating-one-year-in-uk-ireland.html,,1357736172
+5031249,story,,,1,1,Corrado,"Programming, Motherfucker. Do you speak it?",http://progmofo.com/,,1357736155
+5031248,comment,5030845,5031136,4,0,huhtenberg,,,"""Hope"" is more like it. I went to one interview where they asked to traverse a list, and since it was for a senior C position I gave them the * * version. There was this pause and then their lead dev said that this <i>cannot</i> possibly work. It was really awkward.",1357736094
+5031247,comment,5030845,5031062,13,0,adamtj,,,"This is exactly what Linus was complaining about.<p>Your argument is like trying to claim that twenty lines of string munging is more readable than a straightforward regex.  That's only true if you don't really get regular expressions.<p>If you understood pointers well enough, you would see Linus's version as more readable.  The other one has so much more unnecessary fluff that makes it extra complicated and less readable.  If you don't understand pointers well enough, and ""haven't seen this before"", of course you'll find it confusing.<p>Readability is in the eye of the beholder.",1357736051
+5031246,comment,5031209,5031209,1,0,mryan,,,"Are there any plans to allow international customers (for me, UK and Netherlands) to accept credit card payments?<p>Integration with Moneybookers (or similar) would enable a huge range of payment options for European freelancers, and could really help you secure your spot in the market.<p>If there were payment options other than PayPal, I would be signing for a premium account instead of writing this comment ;-)",1357736037
+5031245,story,,,3,0,iProject,"Facebook Opens Up Registrations For Its Annual Hacker Cup Competition",http://techcrunch.com/2013/01/09/hackers-start-your-engines-facebook-opens-up-registrations-for-its-annual-hacker-cup-competition/,,1357736016
+5031244,comment,5028261,5029474,1,0,njs12345,,,"I've been on roads where this happens in Britain, when a police car is driving at the speed limit (generally quite loosely enforced on motorways) with people behind forming a cluster which won't overtake out of fear. Quite frightening, and surely combining the worst of all worlds in terms of accident risk (both a high risk of an accident and a high risk of an accident causing fatal or serious injury).<p>I asked my aunt, who is a police officer, about this, and she said in general the police try and drive slowly (well below the speed limit) on the motorways to prevent this phenomenon from occurring. I wonder whether the guy I saw was doing it deliberately or had just forgotten..",1357736011
+5031243,story,,,1,3,npguy,"Malcolm Gladwell, Meet This Genius Called The Indian Parent",http://statspotting.com/2013/01/malcolm-gladwell-meet-this-genius-called-the-indian-parent/,,1357735980
+5031242,story,,,1,1,Pr0,"The economic case for decriminalizing heroin",http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/08/the-economic-case-for-decriminalizing-heroin/,,1357735957
+5031241,story,,,1,0,iProject,"Hellish XML demon exorcised from Windows, IE bug stays",http://www.theregister.co.uk/2013/01/09/patch_tuesday/,,1357735933
+5031240,comment,5030864,5031032,4,0,sp4rki,,,"There are a lot of great designers, and a <i>whole lot less</i> great developers. And to make matters worse, the typical startup seldom needs more than a couple of designers vs needing a small army of developers - therefore increasing demand for good developers with a decent track record and decreasing job opportunities for the common graphic designer. Also, this graphic designers gravitate towards big design shops (since there is less opportunities as opposed to an ""In House Designer"") who then have a supernumerary selection choices for both, the top end very well paid designer and the photoshop grunt who spends his days pen tooling people out of photos for use in advertisement.<p>Another point to take into consideration is that most designers on the rise end up managing art and/or marketing departments in which case they stop being graphic designers and end up with titles such as Creative Director, Brand Manager, etc... while a whole lot of developers on the rise keep being developers, albeit of the Senior Developer, X Specialty Dev/Architect/Programmer, et al. This last point will probably skew the charts a little bit unless you take into consideration the carrer paths of typical top end graphical designers.",1357735904
+5031239,comment,5030945,5030945,4,0,macca321,,,"I'm working on a webapp which turns side-projects into SAAS startups (by providing CMS, auth, billing etc.), and I would love to hear from anyone in this thread.<p>I have a 3 minute questionnaire which I would love to have filled out, or if you'd like to contact me my email is on my profile page.<p>thanks, Harry<p><a href=""https://docs.google.com/spreadsheet/viewform?formkey=dEhGWjlqY0k3MDgxSVRjVXNsTkhPUEE6MQ"" rel=""nofollow"">https://docs.google.com/spreadsheet/viewform?formkey=dEhGWjl...</a>",1357735901
+5031238,comment,5028740,5029376,1,0,arethuza,,,"Trivia fact: you can get a ticket in the UK for driving an obviously commercial vehicle through a Royal Park. A few years back my wife got a ticket in Holyrood Park in Edinburgh for driving along a road that cuts through the edge of the park in a car that had the logo of the company she worked for at the time.",1357735878
+5031237,story,,,2,0,manoela,"Books with CSS 3D transforms",http://tympanus.net/Development/3DBookShowcase/index2.html,,1357735807
+5031236,comment,5031199,5031199,1,0,rikacomet,,,"how about the hardware prospect, I'm imaging a situation like in the first Transformer movie, where they send morse code from a old morse machine, to a modern cpu based computer.",1357735746
+5031235,story,,,1,0,stanley81,"Optimizacija sajta kako optimizovati sajt najbolje SEO tehnike pozicioniranja",http://www.optimizacijasajta.rs/seo-konsultant.html,,1357735697
+5031234,comment,5031161,5031161,3,0,pkorzeniewski,,,"News like this always reminds me how vulnerable our small planet is and despite all the technological development, we can be wiped out from the universe in a second and there is little we can do about it.",1357735669
+5031233,comment,5029416,5031173,2,0,gaving,,,why,1357735669
+5031232,story,,,2,0,talhof8,"Facebook Opens Up Registrations For Its Annual Hacker Cup Competition",https://www.facebook.com/hackercup/register,,1357735611
+5031231,comment,5030808,5031028,2,0,IgorPartola,,,"I have a simple idea for that: if your device has both Wi-Fi and Ethernet, then if you plug the device into the network via the Ethernet port it should immediately request and receive the Wi-Fi configuration. My premise here is that if you have physical access to the network, then you can just reset the router and change all the passwords anyway. Of course this would only be on by default for home routers, etc.<p>I just had to go through this madness with a wireless printer and it was not fun. A simple zeroconf protocol would solve this very nicely for a lot of devices.",1357735596
+5031230,comment,5030803,5031127,7,0,muuh-gnu,,,"OK, let me correct myself: No competitive free implementation existed able to take a leading position and bootstrap the ecosystem, like gcc, cpython, perl and javac did for their respective language ecosystems.<p>I did not intend to imply that nothing. existed. whatsoever. cmucl, gcl (akcl) and clisp even today are insignificant also-rans and basically unmaintained abandonware.",1357735499
+5031229,comment,5024786,5027233,1,0,cpursley,,,"Agreed - desktop apps are going away for the vast majority of people. Non technical people don't like or understand how to install software (or are afraid to do so because of viruses). Eight out of 10 times, I prefer web based software. Now that we're all connected 99.6% of the time, web based software is feasible. I actually relish those rare moments without a connection.",1357735499
+5031228,comment,5030467,5030855,1,0,ck2,,,"Once the wifi nodes are installed, they are completely solid state so the management should be completely remote except occasional failure which is just a simple swap replacement?<p>So again, why $45k a year in operation?<p>Four nodes per block X 13 blocks = 52 units? (guessing)",1357735482
+5031227,comment,5030803,5031194,3,0,lispm,,,"That's still true - for various criteria.",1357735480
+5031226,comment,5030945,5030945,1,0,kmfrk,,,"The simplest way to do it is to seek out or create a subreddit. You need to use RES[1] to display images inline, though.<p>[1]: <a href=""http://redditenhancementsuite.com/"" rel=""nofollow"">http://redditenhancementsuite.com/</a>",1357735479
+5031225,comment,5031220,5031220,2,0,rikacomet,,,"it says: MICROSOFT will stop its messenger service in march. English man English!",1357735465
+5031224,story,,,2,0,Libertatea," Steve Jobs Was Right. Tablets Are Cars. PCs Are Trucks.",http://allthingsd.com/20130109/steve-jobs-was-right-tablets-are-cars-pcs-are-trucks/,,1357735326
+5031223,comment,5028044,5029664,2,0,davidw,,,"You know what, though?  Roughly, people are happier in countries where they are wealthy enough to buy things they want.  A lot of ""alternative"" measuring sticks are far more susceptible to political fiddling, or are meaningless.  That doesn't make GDP the be-all and end-all of measuring how a country is doing, but it's not as bad as all that, either.",1357735273
+5031222,comment,5031190,5031190,1,0,rikacomet,,,"I find the title a bit vague, since most of the article was about, one man's story instead of stitches. Nor did I see how the shoe was perfect? maybe its just me.<p>I was hoping to find some tutorials, I would really love to make(or try to) my own high quality shoe, just for fun. But good shoe making tutorials are hard to find, especially any help with procuring cheap second hand machine and equipment.",1357735255
+5031221,comment,5031076,5031183,4,0,PommeDeTerre,,,"<i>No language/technology/thing is better than another. It may be better than another in a particular context.</i><p>I don't really buy into this reasoning. If a given language is worse than every other in almost every context (the ""global"" context, if you will), then it's clearly an inferior language relative to the others.<p>JavaScript does exhibit this. It has exactly one thing going for it: it's the only scripting language widely available in web browsers.<p>Aside from that, it's inferior to most other languages in almost every respect. Its syntax is mediocre. Its semantics are inconsistent and often outright confusing. It's missing critical features that are essential for anything but the smallest-scale development. Its performance is only just somewhat poor today, due to a huge amount of effort from Google and others, otherwise it was downright abysmal in its early implementations. Its libraries are more bandages for its numerous problems, rather than tools that empower developers. The supporting tooling is quite bad (Chrome's developer tools or Firebug don't compare to a real debugger, for instance). The community leaves a lot to be desired, especially given the high amount of ignorance and the extremely bad ""advice"" that is passed around so often by its members.<p>We shouldn't be politically correct when it comes to technology. Some programming languages are worse than others, and we shouldn't shy away from saying this. JavaScript is an inferior language, like it or not.",1357735253
+5031220,story,,,2,3,techentrance,"       ",http://techentrance.blogspot.com/2013/01/blog-post_9.html,,1357735235
+5031219,comment,5030845,5031197,10,0,stephencanon,,,"There is actually no difference in the memory access pattern of the two approaches, unless your compiler is entirely out to lunch.  Memory is only touched in either approach to:<p>a. loading the address of the next node.
+b. updating the link address when a node is deleted.<p>which are performed the same number of times on the same underlying data in either approach.",1357735219
+5031217,comment,5031076,5031183,3,0,lmm,,,">No language/technology/thing is better than another. It may be better than another in a particular context. This is as true for Android as it is for Visual Basic and Arduino.<p>Disagree, strongly. Progress exists. The languages of today really are better than the languages of 20 years ago. Android really is better than winCE (and this is speaking as someone who was a fan of winCE when it was the best thing available, and spent a fair amount of effort compiling apps for it), not just in some situations but overall.",1357735111
+5031216,comment,5027480,5027480,1,0,nextw33k,,,"To call it Cyberbullying is to weaken it.<p>Its the production of pornography by a minor, which is probably illegal. Its using Facebook against its terms of use which should result in a ban. Plus anybody liking or commenting on something which is banned should also receive a temporary ban from Facebook.<p>Not really a problem is the rules are enforced.",1357735084
+5031215,comment,5030845,5030963,8,0,stephencanon,,,"> The ""two star"" solution looks like it generates more memory traffic in the case of many deletions.<p>It certainly shouldn't.  There's no difference at an architectural level between keeping track of prev and keeping track of &prev->next (as should be obvious, because they differ by a constant offset): advancing in the list is just a pointer update via a load either way, and removing a link is just a store.<p>Since they do the same thing, the opportunity for an LHS stall may be avoided in either approach with a little care.",1357735060
+5031214,comment,5030945,5030945,1,0,guero,,,"<a href=""http://www.founder2be.com"" rel=""nofollow"">http://www.founder2be.com</a><p>Share your project(s) as 'idea' with a link to prototype - about 12,000 people interested in early stage start-ups / projects and co-founders use the site. it's a bit like forrst for developers, designers, marketers, sales, etc. good luck!",1357734969
+5031213,story,,,1,0,ddmma,"Intelligent Forms (i4.ms)",,"Hei guys,
+I decided to have a preview for a limited time on a new forms engine called i4.ms 
+Please do register your email on the top of the page http://i4.ms and login with the provided details.
+More tutorials on how to use will be published but as I know early adopters are quite tech savy :)
+Thank you!",1357734956
+5031212,comment,5030845,5031025,4,0,damian2000,,,"Came here to say the same thing. It would also result in more work for the original programmer, since they would be asked questions about how it works from other (non-2 star) programmers.",1357734933
+5031211,comment,5030845,5031175,4,0,corresation,,,"I am not even sure that this is what Linus was trying to say: I extracted a very different intention from his comment than the author of this post.",1357734913
+5031210,comment,5031209,5031209,1,0,subimage,,,"Just relaunched the main facing site for Cashboard a few days ago.<p>It's responsively designed with the Gumby CSS framework, and should be retina-fied for all of you guys with fancy displays.<p>Some other interesting stuff for 2013...<p>- We just dropped a killer mobile app for iOS and Android<p>- There's a new, cheaper pricing plan (compare us with some of the other options out there...we beat em all)<p>- We have a slick new help site and are prepping getting started guides to help new customers<p>Just wanted to share. Thanks for checking it out.",1357734897
+5031209,story,,,4,3,subimage,"Billing software gets a 2013 relaunch",http://cashboardapp.com,,1357734848
+5031208,comment,5026584,5027278,1,0,bonaldi,,,"And is hilariously expensive, with no free plan. More even than Basecamp.",1357734825
+5031207,story,,,2,0,smalieslami,"Twelve key lessons on the 'black art' of machine learning",http://cacm.acm.org/magazines/2012/10/155531-a-few-useful-things-to-know-about-machine-learning/fulltext,,1357734802
+5031206,comment,5030803,5031182,6,0,craftman,,,"Excellent book to discover and learn Lisp, maybe the best one actually. It covers all aspect of Lisp and provides lot of examples code based on games. This is somehow more fun than the math example of SCIP (even if this is another great book I deeply appreciate too)",1357734780
+5031205,comment,5027342,5029109,4,0,kmfrk,,,"I'm away from my desktop computer (and Opera's bookmark sync doesn't work on my MacBook Air, the PoS), but these two articles seem to capture the imbroglio well enough:<p>- <a href=""http://www.pehub.com/114113/what-not-to-do-in-a-crisis-%E2%80%93-lessons-from-the-airbnb-fiasco/"" rel=""nofollow"">http://www.pehub.com/114113/what-not-to-do-in-a-crisis-%E2%8...</a><p>- <a href=""http://techcrunch.com/2011/07/30/how-the-hell-is-this-my-fault/"" rel=""nofollow"">http://techcrunch.com/2011/07/30/how-the-hell-is-this-my-fau...</a>",1357734778
+5031204,comment,4996158,5018020,1,0,Cogito,,,"No worries :)<p>I used to be very active on the team there, but haven't contributed any code for a while now. I get the urge almost every week, so maybe I should jump back in for a bit.<p>It has its problems, but is miles ahead from where we started and really does enable plugin authors in a way straight modding never can.",1357734772
+5031203,comment,5030945,5031179,5,0,Kudos,,,"For a long time I tried to help correct that, but I gave up at the sheer number of designers offering bad (and sometimes harmful) programming advice.",1357734750
+5031202,comment,5030803,5030969,8,0,kristiandupont,,,"I would say that it is.<p>Mutable state in software is like moving parts in hardware.
+It's often necessary, but it makes everything a bit more fragile.",1357734738
+5031201,story,,,1,0,saurabh,"VimClojure Winding Down",http://usevim.com/2013/01/02/vimclojure/,,1357734713
+5031200,comment,5029160,5030361,1,0,nthj,,,"I understand when my non-technical clients ask questions like, ""I thought we fixed X?"" or ""shouldn't Y have been fixed by now?"", but I would have hoped that fellow developers would cut each other some more slack, you know?<p>There are an infinite number of reasons an app could fail at any given moment. Just because we see the same ""something went wrong"" page 4 years later doesn't mean we're seeing the same problem, or even the same class of problem.  It just means that the sun still rose in the east this morning, my stupid car will probably have something new wrong with it when I leave my apartment in a few hours, and software is still really, really complex.<p>The GitHub team is a smart bunch. I highly doubt they're still dealing with the same class of issues that plagued them four years ago, and it just seems kinda strange to even bring it up.",1357734708
+5031199,story,,,2,4,barakstout,"Morse Code Translator in Python",http://thelivingpearl.com/2013/01/08/morse-code-and-dictionaries-in-python-with-sound/,,1357734684
+5031198,story,,,1,0,onderhond,"The nature of pull quotes: a little html philosophy",http://www.onderhond.com/blog/pull-quotes-mark-up,"The nature of pull quotes: an article that poses more questions than it delivers answers: what, according to you, is the best way to approach a pull quote in html:",1357734534
+5031197,comment,5030845,5031058,1,0,ww520,,,"But memory access is more expensive.  Double de-referencing a pointer to pointer might perform worse.",1357734498
+5031196,story,,,1,0,pbotelho,"Designing For The Empty States",http://buff.ly/11fh0nY,,1357734462
+5031195,story,,,1,0,galaktor,"After Piston Valve aims to produce their own Steam box, running Linux",http://www.polygon.com/2013/1/8/3852852/gabe-newell-interview-steam-box,,1357734459
+5031194,comment,5030803,5031127,5,0,arethuza,,,"I was paid to develop in Lisp (in a research environment) from '89 to '95 and from what I recall the commercial Lisp environments were way better than the free implementations - at least on the hardware we used (Sun 3s, Sun 4s and the DEC Alphas).",1357734446
+5031193,story,,,60,14,timrogers,"Data-driven support",https://gocardless.com/blog/data-driven-support/,,1357734433
+5031192,comment,5030803,5031146,1,0,dschiptsov,,,"Yeah, thank you. It was a typo..",1357734405
+5031191,story,,,1,0,wib,"Monument to Steve Jobs opens in St. Petersburg, Russia",http://www.demotix.com/news/1714583/monument-steve-jobs-opens-st-petersburg-russia#media-1714563,"""An interactive sculpture of glass and metal in the form of the iPhone, was erected in memory of Apple founder Steve Jobs, in Saint Petersburg's State University of Information Technologies, Mechanics and Optics.""",1357734397
+5031190,story,,,2,1,leojkent,"One wrong stitch and its a reject: the pain of making the perfect shoe",http://www.humansinvent.com/#!/10420/one-wrong-stitch-and-its-a-reject/,,1357734371
+5031189,comment,5027021,5027819,1,0,s_husso,,,"That would be super useful!",1357734328
+5031188,comment,5029720,5030524,2,0,adamauckland,,,"North European countries are social democracies with incredibly high income tax (roughly 30%).<p>I don't think you can tax your way into getting societies like these. The world wars gutted large parts of the population and society had to change.<p>The NHS in the UK was set up in response to having fought a war on their own soil, something which the US has not done in a long time.",1357734299
+5031187,comment,5031161,5031161,2,0,rikacomet,,,"thanks a lot, I got to know about slooh from this!",1357734200
+5031186,comment,5029703,5030519,2,0,mistercow,,,"I went to a hippie-ish private school for elementary school and middle school. We were allowed to use the bathroom at any time without asking. It was never a problem, but if it had been, it would have been dealt with on an individual basis.<p>I really think this is a case of absurd over-extension of power over children that everyone is quick to justify, but few are willing to actually test.",1357734177
+5031185,comment,5025918,5028336,1,0,kalleboo,,,"s/touchscreen/touchscreen device/. Even iPods have cameras now.<p>OCR has been failing us really badly for 40 years now, and not for a lack of trying. In fact, OCR is so bad that the one way we use to distinguish humans from machine is by forcing them to do OCR.<p>QR codes were designed with targeting/aligning areas as well as tons of redundancy built in, there's a reason why they can be easily scanned in realtime from a video feed at an odd skewed angle in the dark, whereas OCR doesn't even work properly on books scanned on a flat scanner.<p>OCR has always sucked and will always suck. Sorry.",1357734157
+5031184,comment,5030803,5030872,10,0,Jach,,,"Geometric Algebra is really cool and powerful and good, why isn't it used more? The best things aren't often the most popular ones. (And in a practical business setting, the best is often the enemy of the good enough as well as the better. You get the circular cause problem because Lisp isn't mainstream, so most programmers will not know it, and will be faced with the decision to learn it or go with what they know.)",1357734144
+5031183,comment,5031076,5031076,1,0,FourthProtocol,,,"As far as JavaScript goes he's not off the mark. The thing that saddens me a bit is that it's yet another post about a particular language/technology/thing.<p>No language/technology/thing is better than another. It may be better than another in a particular context. This is as true for Android as it is for Visual Basic and Arduino.<p>While this is obviously my personal opinion, I think the industry as a whole might benefit a lot more from a post that discusses the pros and cons of building a solution that targets say, the web, a phone, tablet and a desktop. And how such a solution might do authN and authR, synchronise data using store/forward, work in an offline scenario (aeroplane, underground, Gobi desert...).<p>Talking about specific technologies in such a context is useful. It is even more useful when considering environmental factors such directories, monitoring software, privacy, advertising and so on.",1357734120
+5031182,comment,5030803,5030803,5,0,mwexler,,,"Great intro.  Any comments on ""Land of Lisp"" as a book for a ""want to learn Lisp"" journey?",1357734107
+5031181,story,,,2,0,komljen,"Five Important Aspects of Successful Test Automation Approach in Agile",http://www.atlantbh.com/five-important-aspects-of-successful-test-automation-approach-in-agile/,,1357734039
+5031180,comment,5030893,5031167,1,0,teh_klev,,,"""I ran over moterways, over footbridges, canals, fields, commuter packed pavements, marsh land, cobbled streets and got lost an awful lot.""<p>Lol...brilliant, and truly inspiring.",1357734023
+5031179,comment,5030945,5030984,8,0,pknerd,,,"Forrst was supposed to be _Dribbble for programmers_ but it has been hijacked by designers.",1357734022
+5031178,comment,5030845,5031099,5,0,scscsc,,,"Lists are recursive, right. Better than double pointer indirection is to have the function return the new head. Note that the following code is not functional, but returning the new head makes it cleaner.<p><pre><code>    node *remove_if(node *head, remove_fn rm)
+    {
+        if (rm(head)) {
+            return remove_if(head->next);
+        }
+        head->next = remove_if(head->next);
+        return head;
+     }
+</code></pre>
+A good use of this technique (returning pointers to the resulting node) is the following code which very cleanly implements AVL trees in C (from <a href=""http://infoarena.ro/multe-smenuri-de-programare-in-cc-si-nu-numai"" rel=""nofollow"">http://infoarena.ro/multe-smenuri-de-programare-in-cc-si-nu-...</a> -- scroll to the end (sorry, main article in Romanian)):<p><pre><code>    #define max(a, b) ((a) > (b) ? (a) : (b))
+    #define geth(n) (n->h = 1 + max(n->l->h, n->r->h))
+    
+    struct node
+    {
+    int key, h;
+    struct node *l, *r;
+    } *R, *NIL;
+    typedef struct node node;
+    
+    void init(void)
+    {
+    R = NIL = (node *) malloc(sizeof(node));
+    NIL->key = NIL->h = 0,
+    NIL->l = NIL->r = NULL;
+    }
+    
+    node* rotleft(node *n)
+    {
+    node *t = n->l;
+    
+    n->l = t->r, t->r = n,
+    geth(n), geth(t);
+    return t;
+    }
+    
+    node* rotright(node *n)
+    {
+    node *t = n->r;
+    
+    n->r = t->l, t->l = n,
+    geth(n), geth(t);
+    return t;
+    }
+    
+    node* balance(node *n)
+    {
+    geth(n);
+    if (n->l->h > n->r->h + 1)
+    {
+    if (n->l->r->h > n->l->l->h)
+    n->l = rotright(n->l);
+    n = rotleft(n);
+    }
+    else
+    if (n->r->h > n->l->h + 1)
+    {
+    if (n->r->l->h > n->r->r->h)
+    n->r = rotleft(n->r);
+    n = rotright(n);
+    }
+    return n;
+    }
+    
+    node* insert(node *n, int key)
+    {
+    if (n == NIL)
+    {
+    n = (node *) malloc(sizeof(node));
+    n->key = key, n->h = 1, n->l = n->r = NIL;
+    return n;
+    }
+    if (key < n->key)
+    n->l = insert(n->l, key);
+    else
+    n->r = insert(n->r, key);
+    return balance(n);
+    }
+    
+    node* erase(node *n, int key)
+    {
+    node *t;
+    if (n == NIL) return n;
+    if (n->key == key)
+    {
+    if (n->l == NIL || n->r == NIL)
+    {
+    t = n->l == NIL ? n->r : n->l;
+    free(n); return t;
+    }
+    else
+    {
+    for (t = n->r; t->l != NIL; t = t->l);
+    n->key = t->key,
+    n->r = erase(n->r, t->key);
+    return balance(n);
+    }
+    }
+    if (key < n->key)
+    n->l = erase(n->l, key);
+    else
+    n->r = erase(n->r, key);
+    return balance(n);
+    }
+    
+    int search(node *n, int key)
+    {
+    if (n == NIL) return 0;
+    if (n->key == key) return 1;
+    if (key < n->key)
+    return search(n->l, key);
+    else
+    return search(n->r, key);
+    }</code></pre>",1357733994
+5031177,comment,5030945,5031022,1,0,macca321,,,"<a href=""http://www.hnshowcase.com/"" rel=""nofollow"">http://www.hnshowcase.com/</a> is one. It's ok but I would prefer something with disqus comments so I would get notifications and stuff.",1357733955
+5031176,comment,5030511,5031007,3,0,dbarlett,,,"VMWare calls it vMotion [1]. You define the host cluster and it handles the rest. Xen supports live migration [2] but EC2 does not.<p>[1] <a href=""http://www.vmware.com/products/datacenter-virtualization/vsphere/vmotion.html#glance"" rel=""nofollow"">http://www.vmware.com/products/datacenter-virtualization/vsp...</a><p>[2] <a href=""http://sysadmin.wikia.com/wiki/Live_migration_xen"" rel=""nofollow"">http://sysadmin.wikia.com/wiki/Live_migration_xen</a>",1357733915
+5031175,comment,5030845,5030845,8,0,antirez,,,"The idea that you can classify a programmer's understanding of pointers based on doing linked list tricks is absurd. Usually Linus says things that make sense, but not this time IMHO.<p>Also the code proposed may work for linked lists that is a very well understood topic, but code like this in general is hard to understand and debug, without actually providing some <i>serious</i> advantage.<p>I remember some code on the Linux kernel implementing the inode caching in the virtual file system layer that was a mess like that, but multiplied by 1000. Very ""Smart"" indeed, but for the sake of what?",1357733888
+5031174,story,,,2,0,ksubramz,"It is your cloud. It is your data.",http://www.parablu.com,,1357733875
+5031173,comment,5029416,5029416,0,0,lavkesh,,,"I am going to buy a t-shirt which says ""I use Vim""",1357733869
+5031172,story,,,1,0,techinsidr,"Report Says Cyberattack Could Knock out British Military",http://www.securityweek.com/cyber-attack-could-knock-out-british-military-lawmakers,,1357733838
+5031171,comment,5029594,5029594,1,0,mileszs,,,"What I took away from this, which, reading the other comments, is not at all what everyone got out of it, is that a bunch of graphs can be a great, but a system that automatically makes recommendations based on those graphs (taking some of the decision-making out of the equation) is closer to ideal.<p>I might be projecting, though. I talk regularly with the people behind Pirate Metrics (<a href=""http://piratemetrics"" rel=""nofollow"">http://piratemetrics</a>), which does that sort of thing. (Records, displays, but makes suggestions as well.) S, that sort of idea has been on my mind.",1357733774
+5031170,comment,5030893,5031155,2,0,sw007,,,"Thanks. I would edit the title but I now can't seem to for some reason. Sorry for the confusion...",1357733767
+5031169,comment,5029210,5029210,2,0,dalke,,,"For an historical example, the anonymous author of Primary Colors was identified through a literary analysis (<a href=""http://en.wikipedia.org/wiki/Primary_Colors_%28novel%29#Unmasking_of_.22Anonymous.22"" rel=""nofollow"">http://en.wikipedia.org/wiki/Primary_Colors_%28novel%29#Unma...</a> )<p>Don Foster ""did a textual analysis of Primary Colors to identify words, phrases, and expressions that were repeatedly used and to look for ""quirky expressions"" and peculiarities of punctuation. Afterwards, he simply analyzed writing samples until he located a consistent usage of the same ""telltale"" signs of authorship. Sample after sample was rejected until finally he happened onto the writings of Joe Klein and found what he had been looking for. The literary quirks and features that Foster had isolated in Primary Colors occurred with such frequency in Klein's articles that despite Klein's initial denial, Foster knew he was Anonymous.""<p>Similar methods have been used to, for example, try and figure out who wrote which portions of the anonymously authored ""Federalist Papers.""",1357733642
+5031168,comment,5029720,5030512,3,0,ahpeeyem,,,"<a href=""http://theyrule.net/"" rel=""nofollow"">http://theyrule.net/</a><p>This is pretty old now (2000-ish?) but is a pretty great graphical and interactive demonstration of how interlinked the big corporations' boardrooms are.<p>Check out the 'popular maps' for some good examples.<p>Edit: It was connected to littlesis.org in 2011 (""a free database of who-knows-who at the heights of business and government"")",1357733637
+5031167,comment,5030893,5031147,8,0,sw007,,,"Yes it was overground as you can't literally run underground (on the tracks) as you'd kill yourself on the wires.<p>Therefore, I ran from station to station - worked out the routes before each run and ran with my iPhone and Google Maps and ran to each station on each Underground line. The distance is greatly lengthened because I couldn't run on the tracks but I still visited every station - some as many as 6 times as they appear on 6 different lines.<p>I had a picture outside of every single one and then went on my way to the next station. I ran over moterways, over footbridges, canals, fields, commuter packed pavements, marsh land, cobbled streets and got lost an awful lot.",1357733627
+5031166,comment,5030945,5030945,1,0,frankdenbow,,,"If you could also pitch a side project idea and link up with people would be awesome. I'd use it.",1357733609
+5031165,story,,,1,0,amerf1,"Short-Lived App Firegram Used Instagram Loophole to Deliver More Likes",http://www.petapixel.com/2013/01/08/short-lived-app-firegram-used-instagram-loophole-to-deliver-more-likes/,,1357733572
+5031164,comment,5029646,5030416,1,0,sageikosa,,,"To balance that out, I would state that neither the regulator, nor the <i>regulatee</i>, really understands finance enough to make arbitrarily accurate predictions of consequences to their actions.  They are betting that they understand how the whole market, the rest of the market, or the regulators (regulatees only need consider this) will act in response to information they may or may not possess based on analysis they may or may not be able to justify.",1357733535
+5031163,comment,5030945,5030945,3,0,appbot,,,"I made one in a hack day once, never actually told anyone about it. Would love to see an active one: <a href=""http://leanly.co/"" rel=""nofollow"">http://leanly.co/</a>",1357733534
+5031162,comment,5029594,5030961,1,0,buro9,,,"I haven't precluded the ability to treat textual notes as data points in level 1... so they'd be available down at level 4 and 5 as annotations.<p>I didn't really want to get into any detail on how to make a specific chart, or capture a specific event... just a general scale of maturity whereby you can't generally do the higher levels without having the earlier levels in place and done reasonably well.",1357733530
+5031161,story,,,38,51,drucken,"900 foot-wide asteroid to make close approach to Earth today",http://www.independent.ie/world-news/900-footwide-asteroid-to-make-close-approach-to-earth-tomorrow-scientists-3347065.html,,1357733529
+5031160,story,,,1,0,YODspica,"Google Plus Now Includes High Resolution Tools for Photos",http://www.yodspica.co.uk/2013/01/google-plus-now-includes-high.html#.UO1ehV8zhNI.hackernews,,1357733513
+5031159,comment,5031076,5031076,1,0,egeozcan,,,"Author has some good points. What I don't like is this superficial ""the future"" label. Hopefully, ""the future"" won't be about just one technology. In my opinion, it should be more about using the right tool for the right job. Even though I'm a big fan, it's obvious that JavaScript is not the answer to all of you casual programming questions, let alone the very complex ones.",1357733501
+5031158,story,,,1,0,amerf1,"Facebook: Instagram User Exodus? What Instagram User Exodus?",http://gizmodo.com/5974427/facebook-instagram-user-exodus-what-instagram-user-exodus,,1357733468
+5031157,comment,5029720,5030970,1,0,adamauckland,,,"In other news, the UK now has the greatest divide between rich and poor in the west.<p><a href=""http://www.independent.co.uk/news/uk-most-unequal-country-in-the-west-1329614.html"" rel=""nofollow"">http://www.independent.co.uk/news/uk-most-unequal-country-in...</a>",1357733456
+5031156,comment,5030945,5030945,2,0,guynamedloren,,,"By side projects I assume you mean web apps and programming related things.  I've pondered a system to track these, but it would be even more fascinating to extend it beyond code - think: artwork, carpentry, electronics projects, robots, etc.  Basically a <i>'Things I've Made'</i> kinda site.<p>Edit:  Interestingly, the thing about side projects is that most of their value is derived from what can be learned while building them.  Often they simply die upon completion (or when boredom sets in) because there isn't much left to learn from the project.  Because of this, I don't know if there's necessarily a personal benefit to archiving your own projects online (other than showing off / clout / credibility for resumes and such), but I can definitely see value in the social building part of it - which is probably the goal anyway.",1357733453
+5031155,comment,5030893,5031092,11,0,teh_klev,,,"I agree, the title is somewhat confusing and misleading. I thought he actually ""ran"" as in managed the whole tube, which lead me to expect some nice anecdotes about problems encountered and solved when operating a large modern underground rail network. When I realised it was ""running"" with your legs and feet I then thought he was a member of the maintenance teams and had actually run up and down all the tube lines during line closure for maintenance work.<p>That said, well done for getting off your arse and doing this.",1357733429
+5031154,story,,,1,0,alexevade,"2013: A Programmers Resolutions",http://blog.nerdability.com/2013/01/2013-programmers-resolutions.html,,1357733420
+5031153,comment,5030893,5031142,7,0,sw007,,,"Let me help you out..<p>The charity's website is www.hhho.co.uk - here you can find out all about Harry's campaign.<p>The charity JustGiving link is www.justgiving.com/steven-whyley<p>There was never a dedicated twitter account set up (there should have been), I did it all through my personal Twitter account.<p>I need to get some pictures uploaded to the blog - I didn't get round to it. I just had them on my Twitter and Facebook.<p>But I have made a video - hopefully this should give you an idea of what it was all about - <a href=""http://youtu.be/a_mb6pXyrfA"" rel=""nofollow"">http://youtu.be/a_mb6pXyrfA</a><p>Thanks for your kind comments...",1357733415
+5031152,story,,,1,0,ebae,"Alien hand syndrome",http://en.wikipedia.org/wiki/Alien_hand_syndrome,,1357733411
+5031151,story,,,1,0,newishuser,"Ghostery - Regain control of your browser privacy",https://www.ghostery.com/,,1357733324
+5031150,comment,5028044,5029664,6,0,andy_boot,,,"I always used to believe happiness was the most important thing for a society.<p>Then I read Brave new world. Happiness taken to extremes.<p>Now I'm not so sure.",1357733277
+5031149,comment,5029594,5029594,1,0,chandru89new,,,"Now, now.. comparing two very different-intent dashboards isn't cool. I know I'm late by 10 hours because people have already vented their feelings about the writeup.<p>You can partly agree that dashboards should be smart but not every dashboard _needs_ to be so. Creating smart dashboards requires you to actually identify the metrics and the requirements of the end-user.<p>When you generalize this, you end up having a dashboard that's Google Analytics. It's gigantic and by letting the user decide what labels he wishes to give to the numbers, it's actually way more smarter than the 'feeds.'<p>That's just my humble opinion but I sure don't feel comfortable about how other dashboards are treated in this piece.<p>And if someone's interested:
+<a href=""http://thisiscsr.com/post/40088895750/dashboards-smartness"" rel=""nofollow"">http://thisiscsr.com/post/40088895750/dashboards-smartness</a>",1357733266
+5031148,comment,5028545,5029929,1,0,brazzy,,,"If people are not held accountable to deliver <i>at all</i>, which is what it sounds like you're proposing, then Kickstarter is not awesome but the biggest scam in history.<p>> At Kickstarter you give money to something that might or might not work out in the end, but that will most definitely overshoot its estimated delivery date  if it doesnt its a fluke. Thats how you have to see it.<p>No, you don't.<p>Obviously there needs to be leeway given to projects that expand their scope after overshooting their funding, but shitty planning is shitty planning, no matter how you look at it. What possible positive effect is there in tolerating it? If anything it increases the likelihood of complete failure by removing sanity checks.",1357733254
+5031147,comment,5030893,5031092,2,0,guynamedloren,,,"Okay, thanks for pointing that out.  I've never been to London, or even on a subway train for that matter.  Wasn't sure if there are walkable paths alongside the tracks or something (seems dangerous).<p>So did he run from station to station above ground following the tracks, or is it too difficult to follow the tracks (buildings, obstacles, etc)?",1357733211
+5031146,comment,5030803,5031115,2,0,irahul,,,"> With all respect, Closure is nowhere near in terms of sanity, consistency and uniformity.<p>It's Clojure <a href=""http://clojure.org/"" rel=""nofollow"">http://clojure.org/</a><p>Closure is Google's js library and tools <a href=""https://developers.google.com/closure/"" rel=""nofollow"">https://developers.google.com/closure/</a>",1357733206
+5031145,comment,5030945,5030945,1,0,ebae,,,"maybe these?<p><a href=""http://showinghn.com/"" rel=""nofollow"">http://showinghn.com/</a>
+<a href=""https://twitter.com/JustShowHN"" rel=""nofollow"">https://twitter.com/JustShowHN</a>",1357733165
+5031144,comment,5028218,5028526,1,0,jrabone,,,"One of the troublemakers on a small island :-)<p>You've escaped anyway.",1357733146
+5031143,comment,5031094,5031094,4,0,Skiptar,,,"Felt like I was reading some random girl's facebook status.",1357733117
+5031142,comment,5030893,5030893,5,0,marckremers,,,"Inspiring story and noble cause. I just wish there was a bit more basic info for this. An photo gallery, a logo of the charity, a Twitter account to follow, i'd even like to donate to the cause, but can't see how :-( I want to engage.",1357733095
+5031141,story,,,1,0,amerf1,"HTML 5: Why Did You Ditch Me, Mr. Zuckerberg?",http://www.business2community.com/tech-gadgets/html-5-why-did-you-ditch-me-mr-zuckerberg-0371221,,1357733065
+5031140,comment,5030893,5030893,0,0,jstanley,,,"The title is misleading. I thought this guy had been running every station or something (i.e. managing). I would have been much more interested in a story about how running the tube changed his life than something about him running around London.",1357732995
+5031139,story,,,7,3,fekberg,"C# in 2012, here's a summary",http://fekberg.com/2013/01/08/2012-was-an-amazing-year-heres-a-summary/,,1357732914
+5031138,comment,5030845,5030845,12,0,stiff,,,"With one of my friends at the university we used to compete for a shorter/nicer implementation of each data structure in the algorithms class we were taking, and after using pointers-to-pointers in some previous cases (linked lists, binary search trees etc.) and each time ending up with an implementation I really liked, I tried to implement AVL trees[1] the same way, for example an AVL rotation would be done by a call like this:<p><pre><code>  avl_tree_rotate(avl, &t->left->right->left, &t->left->right, &t->left, t->left->right);
+</code></pre>
+Where avl_tree_rotate looked like this (avl_tree_update just recomputes the height after left or right branch height changes):<p><pre><code>  static void avl_tree_rotate(avl avl, V **from, V **to, V **parent, V *child) {
+    if(*from) (*from)->parent = *to   ? (*to)->parent   : NULL;
+    if(*to)   (*to)->parent   = *from ? (*from)->parent : NULL;
+    avl_tree_swap(avl, from, to);
+    child->parent = (*parent)->parent;
+    if(!((*parent)->parent))
+      avl->root = child;
+    else if((*parent)->parent->left == *parent)
+      (*parent)->parent->left = child;
+    else if((*parent)->parent->right == *parent)
+      (*parent)->parent->right = child;
+    (*parent)->parent = child;
+    *from = *parent;
+    avl_tree_update(avl, *parent);
+    avl_tree_update(avl, child);
+  }
+</code></pre>
+It was one of nicer programming workouts I ever got (the whole class was a great experience and I think every professional programmer should go through implementing all the basic data structures and algorithms in plain C one time), but I never managed to get deletion right, despite spending quite some hours on it, it just went beyond my head. Not that it matters for linked lists, and in this case I made it deliberately harder on myself, but I think the moral of the story is that when you are too clever with implementation details, you might run out of your cleverness when starting to deal with the actual problem domain.<p>[1] <a href=""http://en.wikipedia.org/wiki/AVL_tree"" rel=""nofollow"">http://en.wikipedia.org/wiki/AVL_tree</a>",1357732809
+5031137,comment,5029416,5030707,1,0,petepete,,,"I've just been through the YankRing tutorial and it's fantastic; I don't know how I haven't come across this before.  Thanks!",1357732803

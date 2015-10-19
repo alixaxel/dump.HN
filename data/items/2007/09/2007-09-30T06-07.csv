@@ -1,0 +1,25 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+61244,comment,60793,61099,0,0,yters,,,"Seriously, think how little money it takes to live, and fairly comfortably - probably only about $20,000 a year.  That's nothing for any of the multi-millionaires that roam this site.  There should definitely be some kind of criteria to determine whether a person is promising (such as what they've done on their own time), but besides that I don't see any problem with the idea.",1191134963
+61243,comment,60507,60691,0,0,imsteve,,,"ok that's what I thought then.",1191134577
+61242,comment,61157,61199,0,0,jamesbritt,,,"> List dest_list = squareEachElementInList(source_list);<p>Well, <i>that</i> had better be wrapped in a needless function, too:<p><pre><code>    # Correcterest way
+     assignSquaredListToVariable( dest_list, source_list);
+
+</code></pre>
+or there'll be some serious code rewrites going on!",1191133834
+61241,comment,61006,61006,0,0,sgoraya,,,"Tough Choices
+by Carly Fiorina <p>A good read concerning many of the topics mentioned in this post - Alex, cool post;  Interesting topic that is not brought up nearly enough.
+",1191133730
+61240,comment,61237,61237,0,0,rms,,,"The Piraha, an Amazonian tribe with three numbers: one, two and many. <a href=""http://findarticles.com/p/articles/mi_m1200/is_24_168/ai_n16029317"" rel=""nofollow"">http://findarticles.com/p/articles/mi_m1200/is_24_168/ai_n16...</a>",1191133636
+61239,comment,61080,61205,0,0,jamesbritt,,,"""They would do so for security reasons. Vista runs apps in user mode.""<p>That, for me, became so annoying after a few days I turned it off.  (I do keep running into inexplicable instances where I am not allowed to delete or move files I created without engaging in much unintuitive file property manipulations, so the machine still seems to be boss of things.)<p>Vista is amazingly annoying in so many little ways.  I suspect that is true of all OS, and people just become numb to them, but Vista seems keen on reminding me what ""opinionated software"" is all about.  <p>So far the only thing that keeps me from replacing Vista with XP is the pre-installed Media Center software.<p>(I already set up the dual boot for Kubuntu, for Serious Computer Usage. :))",1191133437
+61238,comment,61080,61104,0,0,nailer,,,"It doesn't run my one app I need Windows for (in compatibility mode, as admin, or any other way).<p>And updates still require reboots. Grr.
+",1191132965
+61237,story,,,11,1,rms,"Recursion and Human Thought: Why the Piraha Don't Have Numbers (quicktime video)",http://www.edge.org/3rd_culture/everett07/everett07_index.html,,1191132910
+61236,comment,61080,61080,0,0,lvecsey,,,"From what I understand Vista needs plenty of resources to even handle network traffic, for example. Its a sleeping tiger in the sense that MS is waiting for all the multicore cpus to really make a showing and power the OS to a new level.<p>",1191132871
+61235,comment,61139,61140,0,0,nailer,,,"Google 'Cave Clan'. <p>There's a fairly large network of urban spelunkers in Melbourne that have found military bases, and even held races using VW bugs through some of the tunnels.  ",1191132748
+61234,comment,61080,61080,0,0,hello_moto,,,"I use Vista (on my MacBook) more often than OSX lately. Somehow all MacBook hardware features work (except the camera/mic). The keyboard, tab and scroll down all work fine.<p>Putty works better for me compare to the default xterm that shipped with OSX. The ""just work"" phrase doesn't seem to reflect that based on my own experience. <p>For development, Vista has pretty much everything while OSX has almost everything minus .NET (yes I know there's Mono but I don't need Mono, I need Microsoft .NET and its tools Express or Full-package).<p>I prefer Office 2007 than Office 2004 or iWork. Outlook feels my need. <p>At home (PC desktop) I use Media Center frequently. Front Row isn't anywhere near. Oh, I never use Front Row because it doesn't do much. <p>I prefer to use Windows Live Gallery than iPhoto because WLG is simpler (for me) than iPhoto. <p>Overall, Vista is smooth for me. My machine is a budget one; it took $450 CAD to build it. Here's the spec:<p>ASRock (or ASUS I forgot) mobo with built-in vid-card
+AMD Athlon 64 X2 dual-core 4400+ 2.30 GHz
+Kingston RAM 2GB DDR2 800MHz
+Samsung 160GB SATA2
+Haupauge WinTV PVR 150<p>Windows Media Center detects the card with no problem at all and it fetched all cable channels. You could also watch tons of clips from MTV via Windows Media Center. 
+While I understand the real-world situation that the author describes, there's no need to hate something that you've never tried. ",1191132388
+61233,comment,61019,61087,0,0,tocomment,,,"I don't think broadcast.com even exists anymore.  Yahoo spent almost 6 billion dollars for a company/website that doesn't exist less than 10 years later (if I remember my facts right).<p>So I'm sure not everyone agrees with his definition of ""right"".",1191132263

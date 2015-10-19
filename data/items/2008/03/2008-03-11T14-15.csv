@@ -1,0 +1,65 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+134252,story,,,19,22,nonrecursive,"Guy Kawasaki launches Alltop, an ""online magazine rack""",http://www.alltop.com,"Announcement here http://blog.guykawasaki.com/2008/03/announcing-form.html",1205247475
+134251,comment,134228,134228,0,0,rashmiranjan,,,"Cronjob is a good idea .... to remind people ...<p>But in my case .... I need more and more people to participate .... to decide World IT Day ...<p>I want the World IT Day to be decided by the users ...",1205247475
+134250,story,,,1,0,martianpenguin,"Do the Test",http://www.dothetest.co.uk,,1205247396
+134249,comment,134070,134070,0,0,sharpshoot,,,"You have to be an accredited investor - which means you must have greater than $1m in net assets.",1205247225
+134248,story,,,3,0,jmorin007,"Designing ""in the pocket""",http://www.37signals.com/svn/posts/890-designing-in-the-pocket,,1205247198
+134247,story,,,49,22,robg,"Ask PG: What's the traffic effect here from the TechCrunch mention?",,"Would you mind quantifying some numbers based on the TC front page treatment - before and after?<p>Pageviews?
+New users?
+Submissions?
+Comments?
+Anything else interesting?",1205247140
+134246,comment,133356,133356,0,0,noonespecial,,,"I use three with 3, with x2vnc. Linux in the middle on a 22"", os x on the right on a 19, and windows on the left with a 19. It works wonderfully and I have instant access to multiple os's and browsers.",1205247084
+134245,comment,133430,133609,0,0,jkush,,,"I'd say Shootapult but if it sucks you risk being called Shitapult.",1205247010
+134244,comment,133983,133983,0,0,bd,,,"Google (Subscribed Links) and Yahoo (SearchMonkey) already allow some SERP modifications.<p><i>An Open Approach to Search</i> (<a href=""http://ysearchblog.com/archives/000523.html"" rel=""nofollow"">http://ysearchblog.com/archives/000523.html</a>)<p><i>An easy way to add new features to Google</i> (<a href=""http://www.mattcutts.com/blog/adding-new-features-to-google/"" rel=""nofollow"">http://www.mattcutts.com/blog/adding-new-features-to-google/</a>)",1205246984
+134243,comment,134131,134131,0,0,kingkongrevenge,,,"> one of 12 seats in the French Senate reserved for representatives of French expatriate voters<p>We need this in the US. There are hundreds of thousands of essentially disenfranchised American expats. Congress does not address the special concerns of expats. We should create one or two congressional districts called ""overseas"" and expats should have the option to register there in exchange for giving up mainland voter registration.",1205246979
+134242,story,,,3,0,jmorin007,"Good Analytics Can Get You Booty",http://www.centernetworks.com/sxsw-analytics-booty,,1205246960
+134240,story,,,2,0,cawel,"Is the Net Too Neutral?",http://www.technologyreview.com/Biztech/20394/,,1205246864
+134239,comment,133808,133808,0,0,sabat,,,"Is that mysterious slowness also known as ""The Arrington Effect""?",1205246860
+134238,comment,133294,133294,0,0,sabat,,,"37signals' actual attitude is mostly right. That is, listen to your gut before focus groups, and keep things simple even when the horde calls for feature-itis.<p>The 'problem' is mostly that they (apparently) don't understand how their public statements make them seem. They make themselves look arrogant, even if they're not.<p>Maybe they don't care about public perception. What Don Norman is saying (in part) is that they will eventually pay a price for this attitude. He may be right.",1205246753
+134237,story,,,1,0,cawel,"Google buy of DoubleClick cleared by EU",http://money.cnn.com/news/newsfeeds/articles/newstex/AFX-0013-23682695.htm,,1205246732
+134236,story,,,59,6,luccastera,"HTTP-Headers Status Diagram",http://thoughtpad.net/alan-dean/http-headers-status.gif,,1205246699
+134235,comment,133612,133612,0,0,joeter,,,"The most influential thing I’ve learned is that people act by their individual set of incentives.  Apply choice aspects of psychology and economics – then you got something big.  Think game theory.<p>Also, I'm waiting for the Human Genome Project to help elucidate more on the placebo effect.<p>I think it has a major correlation with the phenotypic vs. genotypic expression of faith - something all humans display toward an institution, ideology, themselves, and/or another person.<p>This will be immensely powerful information.",1205246605
+134234,story,,,1,0,wallflower,"Shredz64: Guitar Hero on the Commodore-64",http://www.engadget.com/2008/03/10/shredz64-is-very-real-and-very-shredding/,,1205246481
+134233,comment,134224,134224,0,0,ericb,,,"For threads like this, you'll want precede the title with ""Ask YC:""<p>I would look into using Amazon's mechanical turk to get it populated.<p>Edit: I see you fixed it. Cool.",1205246208
+134232,comment,133849,133849,0,0,izak30,,,"In my experience, when people are becoming computer literate, they get exposed to: 
+Webmail,
+Search,
+Wikipedia,
+Chat Rooms,
+Online Poker,
+MySpace,
+Facebook,<p>In no particular order.<p>I think that the mobile web would be a place to make a killing on ads once it's mainstream, no computer required.",1205245777
+134231,comment,133727,134143,0,0,jsmcgd,,,"Mine too too. It makes logic not look so logical anymore.",1205245688
+134230,comment,134228,134228,0,0,xirium,,,"Well, I created a cronjob to remind people about System Administrator Appreciation Day ( <a href=""http://www.sysadminday.com/"" rel=""nofollow"">http://www.sysadminday.com/</a> ).",1205245677
+134229,comment,134228,134228,0,0,rashmiranjan,,,"Any constructive comments are also welcome ...<p>URL is www.worlditday.com",1205245605
+134228,story,,,2,3,rashmiranjan,"How to spread awareness about World IT Day?",,"I have just started WorldITday.com....
+The purpose of the website is to decide a day to dedicate to Information Technology.<p>Now how do I promote it?
+Which is the best way to promote and create a buzz about the website?",1205245552
+134227,comment,133612,133679,0,0,Prrometheus,,,"Emergent phenomena were a big one for me, too. One of my favorite pieces on the topic of economics is Hayek’s: 
+<a href=""http://www.econlib.org/Library/Essays/hykKnw1.html"" rel=""nofollow"">http://www.econlib.org/Library/Essays/hykKnw1.html</a><p>Dawkin’s “The Ancestor’s Tale” showed me this pattern in biology, too, and drastically rewrote the way I see the world.<p>Being able to follow and understand mathematical proofs for the first time was also enlightening. I prefer the simple, clever ones, such as Cantor’s diagonal proof of the uncountability of the real numbers:
+<a href=""http://en.wikipedia.org/wiki/Cantor's_diagonal_argument"" rel=""nofollow"">http://en.wikipedia.org/wiki/Cantor's_diagonal_argument</a>",1205245292
+134226,comment,133735,133735,0,0,maurycy,,,"In other news, exceptions are rare.",1205245194
+134225,story,,,5,0,michjeanty,"Finally, EU approves Google's buy of DoubleClick",http://www.reuters.com/article/CMPTRS/idUSBFA00058020080311,,1205245070
+134224,story,,,9,5,zabub,"Ask YC: How to create enough content for launch?",,"How does one go about creating content on a site to  have a public launch of a site that would interest others to stick around and contribute? (ie - if you were building a site for customer reviews of companies in a certain industry)",1205245053
+134223,comment,134188,134188,0,0,martianpenguin,,,"this is just a repost...",1205245025
+134222,comment,133727,133944,0,0,eru,,,"No.  I read it and followed your instructions.  It's not even a contradiction when written down.",1205244939
+134221,comment,133727,133779,0,0,eru,,,?,1205244838
+134220,comment,133969,134017,0,0,mixmax,,,"What about:<p><a href=""http://economist.com/articles?somearticle"" rel=""nofollow"">http://economist.com/articles?somearticle</a><p>and<p><a href=""http://economist.com/articles?entirelydifferentarticle"" rel=""nofollow"">http://economist.com/articles?entirelydifferentarticle</a>",1205244829
+134219,comment,133453,133478,0,0,jcl,,,"It's a pity there isn't a automated way to fix this -- a Netflix-like system that sorts articles by how highly they are rated by other users who rate articles like you do.",1205244819
+134218,comment,133612,133612,0,0,tel,,,"The simplicity and difficulty of Bayes' Law.",1205244794
+134217,comment,133440,133440,0,0,njetx,,,"Gee, I registered only yesterday. I'm glad I made it before it became mainstream!",1205244645
+134216,comment,133731,133731,0,0,tim2,,,"> app would depend heavily on user-generated content<p>That's causing me to release later. Don't want to do a full launch of a site that has no content yet...",1205244627
+134215,comment,133612,133716,0,0,tel,,,"I don't know that I was surprised by the CLT itself. What surprised me about it was how <i>nice</i> it made everything else. In some sense there are whole books full of theorems which go from tedious and complex to 12-year-old simple in just 3 letters.",1205244601
+134214,comment,134131,134131,0,0,musiciangames,,,"I feel that Sarkozy has squibbed the reform process, and so France is going to have to wait a long time for a rejuvenated economy. I posted about this here:
+<a href=""http://reddit.com/info/6165b/comments/c02iflh"" rel=""nofollow"">http://reddit.com/info/6165b/comments/c02iflh</a><p>One of Sarkozy's first acts was to make an impromptu decision to subsidise fishermen because the cost of fuel had gone up. He gave them the full amount they asked for, when the fishermen themselves said afterwards that it had been an ambit claim. His private life has now detracted from his ability to wield power; this in a country where voters traditionally don't care about a politician's private life, as long as (s)he is reasonably discrete.",1205244476
+134213,comment,133612,133950,0,0,tel,,,"<i>Addendum after the edit period:</i><p>Wavelet transforms also go on this list.",1205244431
+134212,comment,133727,133902,0,0,eru,,,"The Axiom of Choice saves lives!",1205244426
+134211,comment,133440,133597,0,0,allenbrunson,,,"um, hello!  we're tired of that already.  hint, hint.",1205244396
+134210,comment,133440,134073,0,0,nose,,,"New users can't vote without karma, so it shouldn't be too bad.",1205244329
+134209,comment,134131,134194,0,0,jgrahamc,,,"Lots of people 'route around' the French legal system (especially concerning tax and social charges) because it's onerous.   This is a classic example of what happens when you introduce a really complex burdening system... people figure out now to ignore it.",1205244292
+134208,story,,,3,1,eru,"What slashdot learned about moderation systems (buried in the faq)",http://slashdot.org/faq/com-mod.shtml,,1205244283
+134207,comment,133727,134037,0,0,eru,,,"Just to make you procrastinate even more:<p><a href=""http://en.wikipedia.org/wiki/List_of_cognitive_biases"" rel=""nofollow"">http://en.wikipedia.org/wiki/List_of_cognitive_biases</a>",1205244168
+134206,comment,134188,134188,0,0,tyohn,,,"I was wondering the same thing.",1205244160
+134205,comment,133727,134106,0,0,eru,,,"I can always refuse to argue with you and punch you instead.",1205244075
+134204,comment,133905,134013,0,0,pingswept,,,"I think you've misunderstood my intent. I don't think HN is boring. I would, however, like to give the hordes I fear are visiting from Techcrunch an incentive to believe it's boring. Not having any means to <i>actually</i> fill the front page with boring news about, for example, health insurance, I submitted a link about health insurance with a title that described my hope and alluded to the Techcrunch story. It was both boring news and a joke.<p>Before any comments were added, I think it was pretty funny. With the comments explaining the details, I think it's substantially less funny. Anyway, sorry for giving the impression that I hate the place.<p>I guess that's one of the dangers of multiple inheritance.",1205244067

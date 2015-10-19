@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+17351,story,,,1,0,davidw,"European startup company structure (UK company vs local company vs US Company)",http://www.startupping.com/forums/showthread.php?t=367,,1177662794
+17350,comment,17325,17325,0,0,ralph,,,"To paraphrase Rob Pike, if you want Slashdot, you know where to find it.",1177662559
+17349,comment,17340,17340,0,0,jamongkad,,,"1. Focusing too much on the wrong target market.<p>2. Getting into a industry that is unfamiliar.<p>3. And the last most important thing(the very reason why we failed) is making something users don't want in the first place. It's very difficult to create demand. You gotta look for it!<p><p>",1177662199
+17348,comment,16714,16714,0,0,jamiequint,,,"Facebook, talking about a Facebook API Ruby adapter",1177661742
+17347,comment,17325,17325,0,0,jamiequint,,,"Haha, this is great. I got sucked in and read the whole thing, the best post was on page 13...<p>""HERE IS THE ANSWER TO YOUR QUESTION. RUN THESE SIMPLE SQL STATEMENTS, AND ALL WILL BE OK:
+SQL truncate table OUTFITTER;
+SQL truncate table ORDER_DETAILS;
+SQL truncate table STYLE_COLLS;
+Then run the query again and post the results.""<p>hilarious.
+",1177661519

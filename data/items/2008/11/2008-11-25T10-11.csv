@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+376238,story,,,166,83,jcapote,"Solve the halting problem, $300-$1000",http://www.getacoder.com/projects/bug_finder_92913.html,,1227610723
+376236,story,,,3,2,qhoxie,"Amazon Kindle 2 Slated For “Early Q1″",http://www.techcrunch.com/2008/11/25/amazon-kindle-2-slated-for-early-q1/,,1227610558
+376235,story,,,1,0,qhoxie,"ExtPlayer: Ext AIR classes get an update",http://ajaxian.com/archives/extplayer-ext-air-classes-get-an-update,,1227610550
+376234,comment,375779,375779,0,0,Herring,,,"I tried to setup a sourceforge project once & found it very complicated. Google only took me a few minutes & it's been working fine all this time.",1227609896
+376233,story,,,1,0,habs,"Americans hugely addicted to TV, but money doesn't follow",http://arstechnica.com/news.ars/post/20081124-americans-hugely-addicted-to-tv-but-money-doesnt-follow.html,,1227609556
+376232,comment,376067,376067,0,0,KevinBongart,,,"The file to print is nothing more than a music score the printer has to follow.<p>I'm wondering if there is a file that makes a specific printer play music, just like a virtual instrument following midi instructions... Oh, it's the Internet, there IS such a score.",1227609496
+376231,comment,376227,376227,0,0,jadence,,,"Also relevant - their predictions from last year for 2008 (subscription required to read the articles)
+<a href=""http://www.economist.com/TheWorldIn/index.cfm?d=2008"" rel=""nofollow"">http://www.economist.com/TheWorldIn/index.cfm?d=2008</a>",1227609311
+376230,comment,374864,375848,0,0,fallentimes,,,"Good point. And it seems like it's been very successful at doing that. It'd just be awesome if one (or more) of the startups made it big.",1227609237
+376227,story,,,1,1,jadence,"The Economist's predictions for 2009",http://www.economist.com/TheWorldIn/,,1227609184
+376226,comment,375237,375237,0,0,paul9290,,,"Blogs and press are great traffic drivers, but some have a more receptive audience then others.... with our experience here are the top blog traffic drivers.<p>1. Lifehacker
+2. Engadget (1 & 2 tie each other)
+3. TechCrunch<p>Asides from press the best thing has been StumbleUpon!<p>Though turning visitors into users is an entirely different story.",1227609076
+376225,story,,,21,17,ashleytowers,"The Ranting Rubyists",http://www.renaebair.com/2008/11/24/the-ranting-rubyists/,,1227608998
+376224,comment,374831,374831,0,0,herdrick,,,"I've been lurking in #clojure lately.",1227608852
+376223,story,,,1,0,paulsb,"Visual Guide to the Financial Crisis",http://flowingdata.com/2008/11/25/visual-guide-to-the-financial-crisis/,,1227608767
+376222,comment,375490,375722,0,0,cx01,,,"The article gives a reason:<p>Now, what are these operations that Alchemy does so well? Memory access and function calls. Alchemy compiled code utilizes new bytecodes added to FP10 for working with ByteArrays - which as you’ll remember are what make up the ""RAM"" in Alchemy. Function calls are faster because in ActionScript function calls require that their parameters be ""boxed"" and ""unboxed"" into and out of objects for each call. Alchemy code doesn’t have to do this.",1227608677
+376221,story,,,1,0,nocivus,"Python: How to wait until all threads finish",http://nocivus.posterous.com/way-to-wait-for-all-threads-to,,1227608284
+376220,story,,,1,0,marcus,"VatorNews - Google's Marissa Mayer on search evolution",http://www.vator.tv/news/show/2008-11-24-googles-marissa-mayer-on-search-evolution,,1227607550
+376219,comment,376093,376180,0,0,antiform,,,"Also, at least in math, while there is certainly more content than one can learn in a lifetime, with more content being created every day at an increasing rate, many different abstractions have been developed and clever analogies applied in order to simplify new learning.",1227607537
+376217,comment,371987,375223,0,0,cousin_it,,,"Good arguments. I was wrong about homosexuality in animals, thanks.<p><i>that's one set of cousins you don't have to compete with for food and attention</i><p>In all situations except extreme crisis, having cousins is good for your inclusive genetic fitness because your cousins share a lot of your genes. That's why instinct generally tells us to help cousins, not compete with them. So having a gay uncle is bad for you, sorry :-)<p><i>I'm against the taxes that marriage provides breaks from.</i><p>Of course I'd agree to allow gay marriage if we abolish taxes at the same time - no argument here.",1227607449
+376216,comment,376112,376112,0,0,gaius,,,"Your choices are many: R, Octave and Sage fit the bill, all are free and battle-proven.",1227607263

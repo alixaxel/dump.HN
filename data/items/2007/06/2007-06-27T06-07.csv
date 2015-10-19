@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+31037,comment,30922,30935,0,0,lupin_sansei,,,"See also <a href=""http://tastyresearch.wordpress.com/work-stories/"" rel=""nofollow"">http://tastyresearch.wordpress.com/work-stories/</a>",1182926264
+31035,comment,31012,31012,0,0,nickb,,,"You're about three months late: <a href=""http://news.ycombinator.com/item?id=4780"" rel=""nofollow"">http://news.ycombinator.com/item?id=4780</a>",1182925950
+31034,comment,31012,31029,0,0,bootload,,,"<i>'... pg implemented the search feature ... foo site:news.ycombinator.com ...'</i><p>My thoughts exactly about 5min change with a bit of static html. Not much effort for search. It doesn't have to be permanent. We sure need this functionality, now. <p>",1182925851
+31033,comment,30950,30998,0,0,davidw,,,"Hrm.  I didn't like the quote at the top myself.  I thought it focused too much on the people making the thing, rather than something like ""Thanks to Virtualmin, I can manage 31415926 servers in just 10 minutes a day!"" or ""Here at hornywetsluts dot com, virtualmin has been a blessing - it let us take our business to the next level""...  Something customer focused, in short.",1182925840
+31032,comment,30956,30957,0,0,davidw,,,"Well, lacking any other details in your post: a coin;-)<p>I'd pick the one I liked the most.",1182925488
+31031,comment,30888,31014,0,0,brett,,,"That <i>is</i> a classic blunder.",1182924791
+31030,comment,30984,30984,0,0,tx,,,"Flex has severe graphical performance issues on big surfaces: think of a giant 100% flash website, maximized 1600x1200. This is why most flash games, even simple ones, prefer to run in a tiny window in the middle. (as originally designed). In other words, it does not scale to a ""web site"" level, but rather allows you to have richer ""components"" on your page, like advanced charts and such.
+",1182924691
+31029,comment,31012,31012,0,0,uuilly,,,"plug this into a google search:<p>foo site:news.ycombinator.com<p>Most site's search features honk. I use this all the time.",1182924002

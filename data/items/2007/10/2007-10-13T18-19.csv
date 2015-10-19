@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+67367,comment,67305,67341,0,0,jsjenkins168,,,"This is basically just a database proxy, but allows the responses to be transmitted as JSON, which is cool because it can interface with just about any other server backend that supports HTTP requests and can parse JSON.<p>I can't find any indication of being able to authenticate with the HTTP request. So I assume this means you would need to ensure the connection between the web server and DB proxy services were locked down, meaning no access outside of the subnet between the severs. I guess since the service pools connections to the actual DB that is where the authentication to the DB is handled. However like you say if someone could get access to the DBSlayer they could get access to all of your data, if this were the case. An option would be to just use SSL if it were supported. There is a bit more overhead with this, but if you are not needing to make tons of frequent queries it should be fine and sufficiently secure. I cant find any info on if SSL is supported..<p>Still though, if it could be made secure I like this because it is so universal.",1192301968
+67366,comment,67337,67337,0,0,rms,,,"So is this the real deal?",1192301791
+67365,story,,,5,4,markpeterdavis,"How To Submit Your Executive Summary To A VC",http://getventure.typepad.com/markpeterdavis/2007/07/process-submitt.html,"The VC process from an entrepreneur's perspective has many steps, which I will cover in the ensuing posts. The first step is submitting your executive summary. There are lots of ways to submit your executive summary: cold channels (e.g., cold email or cold LinkedIn introduction), through introducing yourself to a VC at a networking event or through a 3rd party introduction (e.g., a lawyer or mutual contact)...",1192301480
+67364,comment,67337,67337,0,0,jkush,,,"I wonder how much power it would generate if you had a gazillion of these things lining our major highways. I bet there's nearly a constant 10mph breeze from all those cars.<p>",1192301118
+67363,comment,67349,67349,0,0,dfranke,,,"After they finish porting it to Hurd.",1192301057
+67362,comment,67216,67216,0,0,joeguilmette,,,"our idea stemmed from a recent trip to tahoe. we were bummed because we wanted to rent a sailboat, but we couldn't because they were all too expensive. <p>however, when we got there, we noticed that there were about, oh 2000 boats sitting unused in the water. <p>i was an only child for 15 years, so my mom made it a point to emphasize sharing :)",1192301015
+67361,story,,,10,3,razorburn,"The Case for Google",http://www.roughtype.com/archives/2007/10/the_case_for_go.php,,1192300819
+67360,comment,67337,67337,0,0,joeguilmette,,,"wow thats really cool. between this and dean kamen's stirling engine, i have a feeling the third world is in for some <i>major</i> changes in the next decade or two. <p>really awe inspiring :)",1192300802
+67359,comment,67337,67337,0,0,nickb,,,"Cool tech! My only concern is noise levels... anything that oscillates at high(er) frequencies is bound to produce a lot of uncomfortable noise.",1192300391
+67358,comment,67216,67216,0,0,anaphoric,,,"Hi Rob,<p><pre><code> We are building a natural language interface to databases tool. I figure that forms, key-word and hyper-link interfaces have their limitations. Our orientation is mostly scientific/technical, but we figure that if we can deliver a solid, usable solution, there will be many, many uses. 
+
+ But of course there are significant challenges. :-)
+
+ take a gander at our demo clip for VLDB.
+ 
+ http://www.youtube.com/watch?v=fWio8bHq4wQ
+ 
+
+ </code></pre>",1192300103
+67357,comment,67268,67354,0,0,Harj,,,"in what sense is the L1 expensive?",1192299548
+67356,comment,67337,67342,0,0,bluishgreen,,,"""When used judiciously, swearing can be hilarious, poignant, and uncannily descriptive. More than any other form of language, it recruits our expressive faculties to the fullest: the combinatorial power of syntax; the evocativeness of metaphor; the pleasure of alliteration, meter, and rhyme; and the emotional charge of our attitudes, both thinkable and unthinkable. It engages the full expanse of the brain: left and right, high and low, ancient and modern. Shakespeare, no stranger to earthy language himself, had Caliban speak for the entire human race when he said, ""You taught me language, and my profit on't is, I know how to curse."" <p>- Steven Pinker",1192299537
+67355,story,,,2,1,bluishgreen,"""Data visualization is more a medium than a technology""",http://www.scribemedia.org/2007/10/04/stamen-2/,,1192299358
+67354,comment,67268,67268,0,0,semigeek,,,"L1 is an expensive visa (I have one).  E2 is very hard to qualify for - but your plan does sound like it will work, as long as you have the qualifications.",1192299133
+67353,comment,67216,67253,0,0,robmnl,,,"Any chance to get private beta invite?",1192299067
+67352,comment,67257,67332,0,0,far33d,,,"Seriously. There's nothing more un-SF than living in a high-rise apartment building with asshole landlords. It's much better to live in a 3-flat building with a near psychotic landlord for the real SF experience.",1192299056
+67351,comment,67216,67348,0,0,robmnl,,,"That's strange, I sent an email to web@streamfocus.com - can you send me an invite to my email? It's in my profile. Would appreciate that very much.",1192299009
+67350,comment,67187,67187,0,0,jyot_singh,,,"If you are looking for Java hosting then www.kgbinternet.com is excellent. I used to pay close to $15 before the CAD (Canadian dollar) got stronger. Still, they are much cheaper and better than other hosting services.
+",1192298979
+67349,story,,,18,28,anaphoric,Powerset?,,"Does anyone know what's going on with powerset.
+I tried to join their powerlabs program to get a closer look, but so far I haven't heard anything.
+Anyone know when they are going to really launch?
+",1192298821
+67348,comment,67216,67231,0,0,gibsonf1,,,"Hi robmnl,  thanks for the encouraging comments.  Unless your real name is Louis, we haven't received an email from you yet to add to our private beta test list.",1192298424

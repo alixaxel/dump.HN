@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92008,comment,89525,89525,0,0,mort,,,"have sex,
+run to the forest,
+meditate",1198342709
+92007,story,,,33,11,michael_nielsen,"Alan Kay's list of recommended reading",http://www.squeakland.org/sqmedia/books/book_list.html,"Something I find fascinating about this list is how diverse it is.  Out of 100 or so books, only five relate directly to computers.  The others come from a multitude of fields. I suspect such breadth is common amongst most of the greatest software innovators - people like Engelbart, Kay, etc.  Knowing how to program is useful, but without breadth (and some depth) in other areas, your innovations are unlikely to have depth of their own.",1198342559
+92006,comment,91883,91956,0,0,vlad,,,"There was an article on YC.N or elsewhere that this was actually happening.",1198342174
+92005,comment,91975,91975,0,0,DarrenStuart,,,"<a href=""http://seedcamp.com/"" rel=""nofollow"">http://seedcamp.com/</a> has this vid too",1198340847
+92004,story,,,4,0,iamelgringo,"ActionScript 3.0: Is It Hard or Not?",http://digitalmedia.oreilly.com/pub/a/oreilly/digitalmedia/2007/12/21/is-actionscript-3-hard-or-not.html?page=1,,1198340838
+92003,story,,,13,3,nickb,"Vista sets 2007 land-speed record for copying and deleting",http://www.theregister.co.uk/2007/12/20/more_vista_copying_problems/,,1198340654
+92002,comment,91911,91969,0,0,mrtron,,,"I would absolutely disagree.",1198340567
+92001,comment,91911,91958,0,0,mrtron,,,"Yes, yes and yes!
+I took a week and evaluated basically one setup per day.
+RoR, Django, Zope, Java/Struts/Hibernate.  Yes, the last one took 2 days to evaluate.<p>My top two were RoR and Django, but the learning experience was invaluable.  I got to see a good perspective of how they all handle things front to back.",1198340471
+92000,comment,91904,91904,0,0,iamelgringo,,,"Johnny Lee needs to get hired by someone.",1198340007
+91999,comment,91911,91964,0,0,mrtron,,,"I agree with downer.
+I also strongly suggest .NET.  It is well worth borrowing 50k on credit cards to pay the licensing fees, and Windows servers are much easier to manage.  Linux is highly unstable and experimental, you get what you pay for with it.
+Additionally I would consider outsourcing your core code development, and hiring a new 'idea guy'.<p>Best of luck competitors!",1198339926
+91998,comment,91911,91978,0,0,Tichy,,,"Which language did you try to learn?",1198339721
+91997,comment,91752,91834,0,0,Tichy,,,"Is that because they are good at improving their pictures with Photoshop?",1198339574
+91996,comment,91968,91968,0,0,gibsonf1,,,"I looked at it:  What does it do exactly?  Who is it for?  (Maybe I fall outside of the target market?)",1198339540
+91995,comment,91881,91963,0,0,iamelgringo,,,":)<p>I haven't willingly used Java since those classes, however.<p>I'm just saying that for the basic stuff, you can actually learn quite a bit just by learning how to write shell scripts.  And the learning curve is quite a bit shorter than in Java before you can get something remotely useful done.",1198339519

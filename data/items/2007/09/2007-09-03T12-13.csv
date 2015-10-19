@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+49663,comment,49552,49647,0,0,davidw,,,"This is a calculation that depends entirely on your circumstances.  As a startup, you want to get the best product out to as many people as fast as possible, 7 years in the future be damned.  Other circumstances (such as being a big corporation) demand more attention to other aspects such as maintainability.",1188823365
+49662,story,,,4,2,staunch,"Good Automatic FAQ Style User Support Software?",,"I want to build up a strong FAQ page so I don't have to repeatedly answer the same questions and users can help themselves. I like what FAQ-O-Matic[1] does, but it's an old, ugly, and creaky program at this point. I'm tempted to write my own, but not if there's some good out there. Anyone know of something nice?<p>1. <a href=""http://faqomatic.sourceforge.net/fom-serve/cache/427.html"" rel=""nofollow"">http://faqomatic.sourceforge.net/fom-serve/cache/427.html</a>",1188822929
+49661,story,,,1,0,terpua,"Nirvanix To Launch B2B Online Storage: Amazon S3 Competitor?",http://mashable.com/2007/09/02/nirvanix/,,1188822725
+49660,story,,,1,0,terpua,"Pownce Offers New Features, Still No API",http://www.techcrunch.com/2007/09/03/pownce-offers-new-features-still-no-api/,,1188822489
+49659,story,,,1,0,terpua,"Real or Fake? Pictures of the New iPod Nano?",http://uneasysilence.com/archive/2007/09/12096/,,1188822222
+49658,story,,,11,1,charzom,Farmageddon,http://www.theage.com.au/news/in-depth/farmageddon/2007/08/18/1186857827581.html,,1188821991
+49657,story,,,3,0,charzom,"Digpicz: digg's missing picture section",http://digpicz.com/,,1188821367

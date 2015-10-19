@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70810,story,,,2,0,nickb,"Anti-Aliased Line Drawing",http://courses.ece.uiuc.edu/ece390/archive/archive-f2000/mp/mp4/anti.html,,1192942130
+70809,comment,70711,70711,0,0,staunch,,,"CentOS is a great option. It's simple, reliable, and theres lots of documentation written for it. By far the most popular option for hosting these days. I recommend it to others. Debian is just fine too, but not my preferred flavor. When I'm building large clusters of machines I use one build ""master"" machine (Gentoo based) that produces the binaries, libraries, and kernel that the other identical machines run.",1192941292
+70808,comment,70707,70783,0,0,mhartl,,,"This reminds me of Paul Buchheit's ""Advice on advice"" at this year's Startup School: ""Advice = Limited Life Experiences + Over-generalization."" ",1192940599
+70807,comment,70710,70710,0,0,hello_moto,,,"When you say User do you mean the cool kids in Silicon Valley or people outside Silicon Valley?",1192939243

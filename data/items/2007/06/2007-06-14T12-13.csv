@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28065,story,,,15,8,jcwentz,"That iPhone Is Missing a Keyboard",http://www.nytimes.com/2007/06/13/technology/13phone.html?ex=1339387200&en=a36bb86d614c06b7&ei=5090&partner=rssuserland&emc=rss,,1181825473
+28064,story,,,2,1,pg,"The 3D Real/Virtual World Hybrid: How Far Away?",http://www.techcrunch.com/2007/06/14/the-3d-realvirtual-world-hybrid-how-far-away/,,1181825073
+28063,comment,27875,27887,0,0,brlewis,,,"On ourdoings.com I've only ever had one error that could wipe out user-created data, and it would not have been caught by unit testing.<p>On the other hand, if I knew of a great tool for automated page tests I would use it.  I don't think creation of such tests should be hard.
+",1181825000
+28062,comment,28044,28044,0,0,cmars232,,,"The exception to this article's premise would be subreddits, like programming.  Niche groups like programming.reddit or del.icio.us do feel like they have a higher signal-to-noise ratio.  I've gotten some great links from programming.reddit, or here, for example.<p>Main reddit is where I go when I'm bored and procrastinating.",1181824795
+28061,comment,27997,28049,0,0,pg,,,"Yeah, maybe I'll leave the navigational structure at least.",1181824726
+28060,comment,28030,28030,0,0,raganwald,,,"Thanks for the reminder, I didn't even realize there were profiles on news.yc!",1181824249
+28059,comment,27864,27975,0,0,brlewis,,,"I think you must be thinking of a different kind of school.  The results for my kids have been clearly better than at a regular school, and they are clearly enjoying creativity, not being overly pressured.",1181824054
+28058,story,,,8,9,gibsonf1,"EBay slashes Google ads, escalating rift. Analyst: 'The two companies have been on a collision course for a long time'",http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/14/BUG9LQER0T1.DTL,,1181822620

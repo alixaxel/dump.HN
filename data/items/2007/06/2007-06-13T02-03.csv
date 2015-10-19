@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27672,story,,,4,0,joshwa,"James Hong: Facebook Apps",http://james.hotornot.com/2007/06/facebook-apps.html,,1181703324
+27671,comment,27666,27666,0,0,paulgb,,,"Use style=""cat-align: right"" for better lolcat standards compliance.<p>(A cat picture makes the front page? Isn't that the social news equivalent of jumping the shark :P)",1181703185
+27670,comment,27668,27668,0,0,IMorgothI12,,,"By the way I'm looking for someone who is interested in a related search engine I'm developing.",1181702263
+27669,comment,27668,27668,0,0,IMorgothI12,,,"A patent company Geomas that claims to own location-based search is sewing Verizon. By the way he raised 20 million or so he claims.<p>This is related to search engines and is also on slashdot at
+<a href=""http://yro.slashdot.org/yro/07/06/12/196234.shtml"" rel=""nofollow"">http://yro.slashdot.org/yro/07/06/12/196234.shtml</a><p>",1181701889
+27668,story,,,1,2,IMorgothI12,"Slashdot and Search Engine Patent",http://www.wired.com/politics/law/news/2007/06/location_patent,,1181701725
+27667,comment,27348,27463,0,0,Darmani,,,"There is evidence to say that marshmallows are bureaucracy and office politics, and eating them is engaging in those activities, but there is also strong evidence to support that marshmallows are bugs (and eating them is fixing them). They are likely both.<p>Remember the third M. This essay seems to both comment on Google and its bureaucracy, and Wyvern, full of bugs and a poor architecture created by a less experienced Steve Yegge, which he has been trying to improve since taking it offline nine months ago.",1181701318
+27666,story,,,8,2,lupin_sansei,"Real World HTML Alignment",http://icanhascheezburger.com/2007/06/12/lolcat-alignright/,,1181700603
+27665,comment,27610,27659,0,0,Readmore,,,"I tend to agree, it would be cool to be able to access some of the internal features but there is so much you can do with a web application now that it's not really an issue.",1181700521

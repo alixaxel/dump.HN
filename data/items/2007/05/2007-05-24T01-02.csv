@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+24215,comment,24154,24154,0,0,zaidf,,,"Nothing like TechCrunch.
+",1179970977
+24214,comment,24213,24213,0,0,far33d,,,"I wonder what this same conversation looks like in the suburbs of Connecticut, rural Kansas, or inner-city Chicago. I'm sure these SV kids are savvier than most (and richer), but this is still useful information. 
+",1179970624
+24213,story,,,3,4,far33d,"Facebook and Mobile: Teens can't live without em",http://gigaom.com/2007/05/23/facebook-mobile-teens-cant-live-without-em/,,1179970544
+24212,comment,24154,24154,0,0,jaggederest,,,"Why are people so concerned about buzz?<p>Buzz is for people who cannot build a useful product.<p>Once you have a useful product, it's not 'buzz', it's marketing. Hire a suit for that.",1179970278
+24211,story,,,17,8,dgl,"Evan Prodromou: ""As an experienced programmer, I think of a startup as an abusive relationship""",http://evan.prodromou.name/Journal/3_Prairial_CCXV,,1179969896
+24210,comment,23601,24002,0,0,bootload,,,"    ""... I'm not sure why you assume copying code leads to that code being bloated or unclean ...""<p><i></i>DEFECTS<i></i> if you cut+paste code from place to place and find a single defect in the block you have to go and find all the other instances you have pasted the code.<p><i></i>BLOAT<i></i> If you cut+paste code it increases the number of lines of code within the codebase so the LOC increases.<p>Software development within a startup context is about creating code that is <i>""reliable, smaller, cleaner & faster""</i>. Reusing code is good but not at the expense of modularity, bloat and defects. Not using <i>cut & paste</i> as a development practice isn't personal preference, its DEV 101 ~ <a href=""http://en.wikipedia.org/wiki/Copy_and_paste_programming"" rel=""nofollow"">http://en.wikipedia.org/wiki/Copy_and_paste_programming</a>",1179969864
+24209,comment,24130,24130,0,0,jaggederest,,,"Why do you care about buzz? If you build it, they will come. <p>Once it's built, it's not 'buzz', it's marketing. Hire suits for that.",1179969679
+24208,comment,24004,24134,0,0,SwellJoe,,,"Yes, it was, until he executed on it as an adult and formalized it and made it into something useful.  Had the idea stayed an idea, or just been handed off to someone else who hadn't the mental capacity to do something with it, it would have remained worthless.<p>In short, Paul was right.  Ideas are worthless.  Ideas plus execution can have value.<p>Why fight it?  Got some great ideas but no capacity to execute?  Just accept it and start executing.",1179969656
+24207,comment,24057,24057,0,0,jaggederest,,,"I was quite surprised when I started learning emacs, and accidentally used commands on the command line, and they worked.",1179969557
+24206,comment,24092,24168,0,0,staunch,,,"Agreed. That's a pretty bad decision. I want to see another Justin signup at <a href=""http://justin.tv/justin"" rel=""nofollow"">http://justin.tv/justin</a> or a guy named Kan at <a href=""http://justin.tv/kan"" rel=""nofollow"">http://justin.tv/kan</a><p>
+",1179969174
+24205,story,,,1,0,lupin_sansei,"Paul Graham was right. The final chapter.",http://news.ycombinator.com/comments?id=24044,,1179969050
+24204,story,,,2,0,bootload,"Root cause analysis: ""Ask 'Why' Five Times About Every Matter""",http://www.shmula.com/382/ask-why-five-times-about-every-matter,,1179968785
+24203,story,,,1,0,lupin_sansei,"Monkey and Banana: Nice Intro to Prolog (the language that time forgot)",http://web.archive.org/web/20060213075213/http://www.compapp.dcu.ie/~alex/LOGIC/monkey.html,,1179968721
+24202,story,,,4,11,dannymo2,"Rapleaf looking for an amazing software engineer",http://blog.rapleaf.com/jobs/,,1179968710
+24201,comment,23815,24179,0,0,sabat,,,"To whoever just down-voted me for my comment: it was worth it just to tell Arrington to bite me.",1179968479

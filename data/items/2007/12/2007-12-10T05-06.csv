@@ -1,0 +1,86 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+87656,comment,87612,87629,0,0,rokhayakebe,,,"Thanks. I think i can start with Red5.",1197266339
+87655,comment,87491,87491,0,0,simianstyle,,,"You would think that the developers at apple would've come up with a simpler blockmove function first anyway. I guess they discovered the same thing you did, and got rid of the bottleneck in a clever fashion in the next step. <p>Way to reinvent the wheel!",1197266180
+87654,story,,,16,14,nickb,"Nobel Laureate Says The Internet Makes Us Dumb",http://www.techcrunch.com/2007/12/09/nobel-laureate-says-the-internet-makes-us-dumb-we-say-meh/,,1197266089
+87653,story,,,2,0,nickb,"LinkedIn API and New Homepage Drawing Near",http://www.techcrunch.com/2007/12/09/linkedin-api-and-new-homepage-drawing-near/,,1197266072
+87652,comment,87600,87600,0,0,manvsmachine,,,"I'm pretty sure that this has already been posted, recently.",1197265973
+87651,comment,87600,87600,0,0,mmp,,,"The smarter students become aware pretty soon that grades are meaningless, and only care about them if they have a good reason to (scholarships, etc).<p>There's a middle ground of fellows like him, who are smart enough to get good grades if they work really hard, but think it matters.",1197265917
+87650,comment,87239,87348,0,0,alxv,,,"And if you change your example only slightly, you can break again most-people's mental-model of pointers:<p><pre><code>    #include <stdio.h>
+
+    void fn(char *s) {
+        printf(""[%s]\n"", s);
+    }
+
+    int main() {
+        char *s;
+        s = ""hello world"";
+
+        fn(s);
+
+        return 0;
+    }
+</code></pre>
+And yet again:<p><pre><code>    #include <stdio.h>
+
+    void fn(int s) {
+        printf(""[%s]\n"", (char *)s);
+    }
+
+    int main() {
+        char *s;
+        s = ""hello world"";
+
+        fn((int)s);
+
+        return 0;
+    }
+</code></pre>
+And back to a single char:<p><pre><code>    #include <stdio.h>
+
+    void fn(char *c) {
+        printf(""[%c]\n"", *c);
+    }
+
+    int main() {
+        char c = 'a';
+
+        fn(&c);
+
+        return 0;
+    }
+</code></pre>
+The ugly and evil way:<p><pre><code>    #include <stdio.h>
+
+    void fn(char *c) {
+        printf(""[%c]\n"", c);
+    }
+
+    int main() {
+        int c = 'a';
+
+        fn((char *)c);
+
+        return 0;
+    }
+</code></pre>
+And the obvious way:<p><pre><code>    #include <stdio.h>
+
+    void fn(char c) {
+        printf(""[%c]\n"", c);
+    }
+
+    int main() {
+        char c = 'a';
+
+        fn(c);
+
+        return 0;
+    }
+</code></pre>
+It is not difficult to see why most people find pointers in C confusing.",1197264717
+87649,comment,87558,87613,0,0,mrtron,,,"I disagree.<p>Having millions is different than living on a 30k income vs a 60k income.<p>Someone like him is in a position to do whatever he wants for a few years without worrying about rent, food, or any basic needs.",1197264696
+87648,comment,87482,87482,0,0,gills,,,"Dear author,<p>The Cake is a Lie.<p>Portal is revolutionary but not for it's gender roles.  It's revolutionary for turning FPS into a puzzle game on crack.  Go back and play with the developer commentary.<p>Look at me still talking when there's science to do...<p>:)",1197264621
+87647,comment,87612,87621,0,0,reitzensteinm,,,"We are using Flex for www.rocksolidarcade.com. It's the Adobe comand line compiler that outputs Flash files. Actionscript 3.0 is basically Javascript 2.0. You code it very much like a traditional application (or Java plugin), with any IDE and a command line compiler. The Flex SDK is free, but they've got an IDE based on Eclipse that is just too cool not to use, at least when 3.0 comes out of beta. That's about $500 I think, but the profiler is probably worth that alone (if you have funding). Alternatively, FlashDevelop is very good.<p>And frankly, even if Flex was $1000, the Adobe Flex IDE didn't exist, and the Flash IDE was free, I'd be using Flex. The Flash IDE for any kind of serious development is just horrible.<p>Hosting is a bit of a moot point - yes, you can get a Flash comm server from Adobe, but that's just an option, and an option you don't have with Java (though I know very little about the Flash comm server, you can do raw TCP in flash, so writing your own is definitely possible).",1197263928
+87646,comment,87612,87629,0,0,staunch,,,"It says a lot about the state of open RTMP media servers that JustinTV's choice to write their own was absolutely justified.",1197263860
+87645,comment,87522,87632,0,0,cperciva,,,"Right, and (speaking as a 26 year old with a doctorate in CS) what you've done is quite impressive for a 19 year old.  But you have to compare this job offer to the other jobs available to you -- not compare it to the jobs available to other YCers (which is, in effect, what you're doing by asking what other YCers would do in this situation).",1197263052
+87644,story,,,8,8,nickb,"Is being a niche language developer good for your career?",http://blog.jayfields.com/2007/12/is-being-niche-language-developer-good.html,,1197262811

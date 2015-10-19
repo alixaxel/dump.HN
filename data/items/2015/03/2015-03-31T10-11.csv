@@ -1,0 +1,333 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+9295429,comment,9291040,9291040,0,0,divs1210,,,"Rumi (on Conscience)<p>This
+that we are now
+created the body, cell by cell,
+like bees building a honeycomb.<p>The human body and the universe
+grew from this, not this
+from the universe and the human body.<p>... and Allen Ginsberg",1427799527
+9295428,comment,9293849,9295195,0,0,hkon,,,"Don&#x27;t underestimate the chinese capability to down vote",1427799515
+9295427,comment,9294954,9295338,0,0,masklinn,,,"FWIW french law is also available officially via <a href=""http://www.legifrance.gouv.fr"" rel=""nofollow"">http://www.legifrance.gouv.fr</a> though that&#x27;s not exactly sexy. All of the french code (and other sections of french laws) are available for free with full history e.g. <a href=""http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721"" rel=""nofollow"">http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=...</a>",1427799512
+9295426,comment,9294192,9294747,0,0,astrobe_,,,"This guy is actually relatively safe, because he is in the &quot;inside&quot; of the turn. The most dangerous places are the &quot;outsides&quot; of turns, where cars out-of-control are more likely to go. I believe that it is a common security measure to place people on the insides rather than the outsides.",1427799482
+9295425,comment,9294704,9294704,0,0,sjs382,,,"Chuck Klosterman",1427799451
+9295424,comment,9295343,9295343,0,0,orph4nus,,,"The main problem that i had with Clojurescript was that it seemed to be quite intensive even for the simple puzzle game that I made.
+Note that it may be because I hacked the program in one night and probably raped the language horrible. Which is why I&#x27;m still open for Clojurescript suggestions by people who have good experiences using it.",1427799425
+9295423,comment,9295343,9295346,0,0,orph4nus,,,"Oh i didn&#x27;t think about the possibility about interfacing to a native compiled program. Interesting approach.",1427799392
+9295422,comment,9291015,9295231,0,0,DRMacIver,,,"> Building a quickcheck style tester in AS3 drove me nuts at one point before finding out that the conversions between strings and floating point numbers has a bunch of weird issues. There are some obvious ones, but then also things like certain numbers convert differently if you add a trailing zero (so 0.7362856270 is turned into a different number to 0.736285627 and 0.73628562700). So my little &quot;decode(encode(x)) == x&quot; test example broke!<p>I have in fact had to deal with exactly this problem in Hypothesis internals. The example saving code didn&#x27;t work correctly with floats in the first edition, because it was serializing them as JSON, which loses some information encoded in the actual float. In the end I serialize floats (which are actually doubles) by converting them to a 64-bit integer with the same bitwise representation first.<p>The bug aryx is talking about though actually illustrates an amusing feature of Hypothesis, which is that the code in it is just weird enough that it tends to do unexpected things that trigger bugs which have nothing to do with the properties being tested. :-) In this case it was putting unicode objects onto sys.path, which is 100% allowed but causes problems for certain code running on python 2.7 on windows that previously appeared to work.",1427799359
+9295421,story,,,1,0,tunemedia,"Opera Acquires VPN Service SurfEasy",http://www.australianetworknews.com/opera-acquires-vpn-service-surfeasy/,,1427799343
+9295420,story,,,3,0,sajal83,"Amsterdam Power Outage as Seen by RIPE Atlas",https://labs.ripe.net/Members/andreas_strikos/amsterdam-power-outage-as-seen-by-ripe-atlas,,1427799343
+9295419,story,,,2,0,synthmeat,"Feds Demand Reddit Identify Users of a Dark-Web Drug Forum",http://www.wired.com/2015/03/dhs-reddit-dark-web-drug-forum,,1427799342
+9295418,comment,9294533,9295120,0,0,S4M,,,"The metro in Tokyo is really expensive though. It costs almost 1000 yens for a one way trip from the suburb of Tokyo to central Tokyo.",1427799250
+9295417,comment,9295254,9295254,0,0,mariuolo,,,"Good luck striking deals with every copyright collecting agency.",1427799248
+9295415,comment,9294988,9294988,0,0,alandarev,,,"Network Performance: d2.xlarge - Moderate, d2.2xlarge - High, d2.4xlarge - High.<p>This ambiguity alone is the reason I and probably others will look elsewhere.",1427799188
+9295414,story,,,2,0,ValentineC,"The Lee Kuan Yew Conundrum",http://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/?single_page=true,,1427799178
+9295413,comment,9295102,9295105,0,0,devnonymous,,,"Be that as it may, the unfortunate thing is that, perhaps due to some skewed sense of propriety, a lot of Singaporeans actually agree with the arrest, rather than seeing the video as food for thought at best or an ignore worthy adolescent rant at the worst.",1427799160
+9295412,comment,9294138,9295250,0,0,mjburgess,,,"The original script had machines using human brains for their computing power but the execs thought that would be too complicated for people to understand.",1427799147
+9295411,story,,,3,0,thusu,"Apple Watch GUI for Sketch",https://designcode.io/watch,,1427799137
+9295410,comment,9288710,9288710,0,0,jamix,,,"Unfortunately, the efficiency of the proposed approach is only limited to the first 32 KB of the page being compressed. Once we move past the first 32 KB, LZ77&#x27;s lookbehind window will no longer include the dictionary and the compression ratio of the rest of the page will stay the same.<p>Pre-seeding the dictionary could have a better effect in an LZ78 scheme where there is an actual dictionary built and stored in memory as opposed to a moving lookbehind window.<p>This also makes me wonder how the dictionary is delivered to the end client. If it&#x27;s sent with each page request, then it hardly makes any sense as you are hauling an extra 16 KB or 32 KB of the dictionary just to have a better chance of compressing the page&#x27;s first 32 KB.<p>I wonder if the size of the dictionary itself is factored in the compression benchmarks provided in the article.",1427799112
+9295409,comment,9294388,9295397,0,0,fit2rule,,,"Yeah, we can all quote from Wikipedia.  Here&#x27;s another interesting quote about Helium:<p>*Moses Chan, Evan Pugh Professor of Physics at Penn State, explains that the world&#x27;s supply of helium is a byproduct of natural gas production, with the Texas Panhandle arguably being the helium capital of the world. However, says Chan, &quot;Very few natural gas wells in the world have enough helium in the well to make it economical to separate helium from natural gas. The gas wells with the most helium have only about 0.3 percent, so it is in short supply.&quot; In response to the element&#x27;s scarcity, the United States has been stockpiling helium since the 1960s in a National Helium Reserve called the Bush Dome, a deep underground reservoir outside of Amarillo, Texas. By the mid 1970s 1.2 billion cubic meters of the gas was stored there. The current reserve is approximately 0.6 billion cubic meters, or roughly 4 times the current world market. But, Chan notes, in 1996 the Helium Privatization Act mandated that the Department of the Interior sell off all the stockpiled helium by 2015. &quot;As a consequence,&quot; he says, &quot;the United States government is selling the equivalent of 40 percent of the world market of helium at a below-market price.&quot; This action discourages the active exploration of helium,&quot; Chan explains, &quot;since companies can buy it from the United States at a cheap price and sell it at a premium.&quot;<p>Read more at: <a href=""http://phys.org/news/2013-04-probing-helium.html#jCp"" rel=""nofollow"">http://phys.org/news/2013-04-probing-helium.html#jCp</a>",1427799104
+9295408,comment,9294533,9295047,0,0,ianlee,,,"The goal of the government is to maximize welfare.<p>I would say that in this case, your so-called <i>&quot;government favouritism&quot;</i> and <i>&quot;sketchy business practices&quot;</i> benefits citizens immensely.<p><pre><code>  &quot;MTR trains boast a 99.9% on-time arrival rate. Fares are notoriously cheap ($.50 to $3)&quot;
+</code></pre>
+Moreover, a lot of systems that maximize public welfare are often monopolized and subsidized by the government. Do you think having myriad companies running various train tracks in a city would be beneficial? Or would one unified system make more sense? I think the evidence points to an unmistakable answer.",1427799101
+9295407,story,,,87,52,kryptiskt,"The state and rate of HTTP/2 adoption",http://daniel.haxx.se/blog/2015/03/31/the-state-and-rate-of-http2-adoption/,,1427799100
+9295405,comment,9291040,9294717,0,0,esja,,,"You&#x27;re right... I copied it from the top search result (<a href=""http://www.potw.org/archive/potw351.html"" rel=""nofollow"">http://www.potw.org/archive/potw351.html</a>), which seems to be the 1920 version. There have been others since, and Wikipedia uses the newer wording.",1427799026
+9295403,comment,9293849,9295369,0,0,interdrift,,,"On which side are you ._.",1427799013
+9295402,comment,9294058,9294942,0,0,smoyer,,,"Brutal <i>AND</i> snarky - &quot;Hey guys ... I proved that Einstein was wrong!&quot;<p>Curiously, I&#x27;ve forgotten his name already.",1427798996
+9295401,comment,9293849,9294130,0,0,interdrift,,,"It&#x27;s obfuscated.",1427798951
+9295400,comment,9294138,9294138,0,0,rasz_pl,,,"It all started with this:<p><a href=""https://www.youtube.com/watch?v=nbNnNF9JHFQ"" rel=""nofollow"">https://www.youtube.com/watch?v=nbNnNF9JHFQ</a><p><a href=""http://www.theregister.co.uk/2012/05/03/unsung_heroes_of_tech_arm_creators_sophie_wilson_and_steve_furber/"" rel=""nofollow"">http://www.theregister.co.uk/2012/05/03/unsung_heroes_of_tec...</a><p>ARM low power consumption was an accident caused by financial constrains. Small team with no money (Acorn was starting to go downhill at the time) forced Sophie Wilson/Steve Furber team to be clever with resources.<p>In 1987 hand routed ARM2 build with 30K transistors ran at 8MHz reaching 4 MIPS (of 32bit operations). Coincidentally Intels 386 build by an army of hundred engineers supplemented by state of the art emulation/validation/automation software (Mossim etc, &) and divided into large groups working on individual parts of the design achieved ... 4 MIPS at 33MHz using 275K 2x smaller transistors and >20x the power.<p>&<a href=""http://webee.technion.ac.il/people/kolodny/ftp/IntelCADPaperFinal2.pdf"" rel=""nofollow"">http://webee.technion.ac.il/people/kolodny/ftp/IntelCADPaper...</a><p>&software born from <a href=""https://en.wikipedia.org/wiki/Mead_%26_Conway_revolution"" rel=""nofollow"">https://en.wikipedia.org/wiki/Mead_%26_Conway_revolution</a> and following Darpa programs",1427798923
+9295399,comment,9294831,9294989,0,0,khoatv,,,"Thank you",1427798895
+9295398,comment,9294831,9294940,0,0,khoatv,,,"Thanks for your feedback. 
+We&#x27;re glad to hear and will update our privacy policy soon.
+We&#x27;re working to enable SSL also. 
+====
+The purpose of &quot;anonymous&quot; is to emphasize the possibility for user to raise their voice without fear of revealing their identity.",1427798876
+9295397,comment,9294388,9295232,0,0,monort,,,"World reserves are 40 billion cubic meters, yearly production is 175 million cubic meters. It seems we have 200 years supply. And it&#x27;s a renewable resource (produced during radioactive decay), and universe has a lot of helium, 23% of its baryonic mass.",1427798860
+9295396,comment,9294954,9294954,0,0,rouxrc,,,"Nioce job but it&#x27;s too bad there&#x27;s no licence and the building code is missing.<p>It&#x27;s also not really new, Seb35 already did a great job on this previously as free software:
+- <a href=""https://github.com/Seb35/CPI"" rel=""nofollow"">https://github.com/Seb35/CPI</a>
+- <a href=""https://github.com/Seb35/Archeo-Lex"" rel=""nofollow"">https://github.com/Seb35/Archeo-Lex</a>
+- <a href=""http://blog.seb35.fr/billet/Arch%C3%A9o-Lex%2C-Pure-Histoire-de-la-Loi-fran%C3%A7aise%2C-pour-%C3%A9tudier-son-%C3%A9volution"" rel=""nofollow"">http://blog.seb35.fr/billet/Arch%C3%A9o-Lex%2C-Pure-Histoire...</a><p>Also <a href=""http://www.lafabriquedelaloi.fr"" rel=""nofollow"">http://www.lafabriquedelaloi.fr</a> proposes git versioning of the parliamlentary process for each bills: <a href=""http://sunlightfoundation.com/blog/2014/06/25/opengov-voices-how-gitlaw-turns-the-french-parliamentary-process-into-open-data/"" rel=""nofollow"">http://sunlightfoundation.com/blog/2014/06/25/opengov-voices...</a>",1427798813
+9295395,comment,9293659,9295160,0,0,rlpb,,,"After reading your point I wondered whether the &quot;reasonable&quot; distinction had any bearing on the requirement for a warrant. The warrant requirement is what I&#x27;m most interested in here. I came across <a href=""http://en.wikipedia.org/wiki/Motor_vehicle_exception"" rel=""nofollow"">http://en.wikipedia.org/wiki/Motor_vehicle_exception</a> which seems particularly relevant. Apparently motor vehicles have a lower expectation of privacy, so I wonder whether this means that a separate ruling is needed on whether GPS trackers on motor vehicles need a warrant.",1427798799
+9295393,comment,9293688,9294611,0,0,tel,,,"I&#x27;ve spoken with him a bit over perhaps the last year while he graduated from high school and enrolled at CMU. I&#x27;ve always seen him to be very interested in programming languages, semantics, compilation. It&#x27;s completely unsurprising to me that now that he&#x27;s at CMU he has the opportunity to dig in (even) more deeply and produce this kind of stuff.<p>I&#x27;m not sure what you find terrifying about it. He&#x27;s put in probably 3-4 years of work in this topical area already and the world is such that today there are plenty of high-quality resources to help you learn this material—free, online—if you have the drive. His age is perhaps a little surprising, but ultimately immaterial.",1427798768
+9295392,story,,,1,0,jsmeaton,"Spreadsheets of power",http://www.themonthly.com.au/issue/2015/april/1427806800/richard-denniss/spreadsheets-power,,1427798727
+9295391,comment,9295343,9295343,0,0,guilt,,,"I like Scala because of the amount of Libraries, Concurrency Primitives available.<p>Algebird is one of my favorite projects of all time.",1427798717
+9295390,comment,9294954,9295339,0,0,masklinn,,,"> i couldnt find any other versioncontrolled articles.<p>Did you look? All markdown files aside from the readme are articles. Or did you mean articles which were altered after their initial creation? <a href=""https://github.com/steeve/france.code-civil/commits/master/Livre%20Ier/Titre%20V/Article%20220.md"" rel=""nofollow"">https://github.com/steeve/france.code-civil/commits/master/L...</a> is one, it was added in 1803 and modified in 1986 and 2014.<p><a href=""https://github.com/steeve/france.code-civil/commits/a191667dfd6f9058652087c25ba812423494a345/Livre%20Ier/Titre%20IX/Article%20375.md"" rel=""nofollow"">https://github.com/steeve/france.code-civil/commits/a191667d...</a> is also one, with modifications in 1986, 1987, 2007 and 2013.",1427798716
+9295389,comment,9292831,9294180,0,0,martin-adams,,,"As a freelancer who works with a variety of teams, it is very hard getting a moment to &#x27;get my own work done&#x27;.  I also have a young daughter, and while she didn&#x27;t say the following, I keep thinking about it to give me a slap in the face of perspective.<p>Child: Daddy, will you play wit me?<p>Dad: Sorry, I can&#x27;t I have things to finish off from work.<p>Child: Why don&#x27;t you do it when you&#x27;re at work?",1427798677
+9295388,comment,9291040,9291040,0,0,bwghughes,,,"Hovis Presley:<p>I rely on you<p>I rely on you<p>like a Skoda needs suspension<p>like the aged need a pension<p>like a trampoline needs tension<p>like a bungee jump needs apprehension<p>I rely on you<p>like a camera needs a shutter<p>like a gambler needs a flutter<p>like a golfer needs a putter<p>like a buttered scone involves some butter<p>I rely on you<p>like an acrobat needs ice cool nerve<p>like a hairpin needs a drastic curve<p>like an HGV needs endless derv<p>like an outside left needs a body swerve<p>I rely on you<p>like a handyman needs pliers<p>like an auctioneer needs buyers<p>like a laundromat needs driers<p>like The Good Life needed Richard Briers<p>I rely on you<p>like a water vole needs water<p>like a brick outhouse needs mortar<p>like a lemming to the slaughter<p>Ryan&#x27;s just Ryan without his daughter<p>I rely on you",1427798660
+9295387,story,,,2,0,dsaw,"Famous Logos with a hidden message",http://d1d-not-see.diply.com/trendyjoe/30-famous-logos-that-have-a-hidden-message/49939,,1427798652
+9295386,comment,9294954,9294954,0,0,steeve,,,"I just woke up and wow. Well, I&#x27;d be happy to answer any questions you might have of course.",1427798647
+9295385,comment,9291040,9294830,0,0,bwghughes,,,"Hovis Presley is my favourite:<p>I rely on you<p>I rely on you
+like a Skoda needs suspension
+like the aged need a pension
+like a trampoline needs tension
+like a bungee jump needs apprehension
+I rely on you
+like a camera needs a shutter
+like a gambler needs a flutter
+like a golfer needs a putter
+like a buttered scone involves some butter
+I rely on you
+like an acrobat needs ice cool nerve
+like a hairpin needs a drastic curve
+like an HGV needs endless derv
+like an outside left needs a body swerve
+I rely on you
+like a handyman needs pliers
+like an auctioneer needs buyers
+like a laundromat needs driers
+like The Good Life needed Richard Briers
+I rely on you
+like a water vole needs water
+like a brick outhouse needs mortar
+like a lemming to the slaughter
+Ryan&#x27;s just Ryan without his daughter
+I rely on you",1427798642
+9295384,story,,,1,0,arosaned,"How Particle Accelerator Maths Helped Me Fix My Wi-Fi",http://www.iflscience.com/technology/how-particle-accelerator-maths-helped-me-fix-my-wi-fi,,1427798636
+9295383,comment,9294801,9295366,0,0,nergal,,,"Thanks :)",1427798609
+9295381,comment,9294388,9294388,0,0,jnye131,,,"<a href=""http://www.hybridairvehicles.com"" rel=""nofollow"">http://www.hybridairvehicles.com</a>",1427798601
+9295380,comment,9293849,9294635,0,0,jpatte,,,"Wait, how does that work? Looking at the malicious javascript code issuing ajax requests to github, it doen&#x27;t seem github&#x27;s response is evaluated. Is this alert even displayed?<p>If that is the case, why not do something even more radical in the response like changing the targeted urls ? They could replace them by baidu urls for example, effectively transforming a DDoS against github into a DDoS against baidu (not saying baidu is the author of the attack here, but that would certainly have an impact on the traffic being monitored by the GFW).",1427798582
+9295379,comment,9291040,9291040,0,0,zecg,,,"The recently passed Tomas Tranströmer, I love his writing. He can go from personal headspace to outer space in a cherry blossom in a moment during a car crash:<p>--<p><pre><code>  After a Death 
+  (translated by Robert Bly)
+
+  Once there was a shock
+  that left behind a long, shimmering comet tail.
+  It keeps us inside. It makes the TV pictures snowy.
+  It settles in cold drops on the telephone wires.
+
+  One can still go slowly on skis in the winter sun
+  through brush where a few leaves hang on.
+  They resemble pages torn from old telephone directories.
+  Names swallowed by the cold.
+
+  It is still beautiful to hear the heart beat
+  but often the shadow seems more real than the body.
+  The samurai looks insignificant
+  beside his armor of black dragon scales.</code></pre>",1427798550
+9295378,comment,9292831,9295158,0,0,randomsearch,,,"> &quot;where my development machine can&#x27;t be a Mac&quot;? Seriously?<p>I&#x27;d actually agree with this. You want to give your employees the best possible machine to work with -- machines are cheap compared to salaries. If he wants a Mac, I&#x27;d buy him a Mac.",1427798545
+9295377,comment,9294954,9295221,0,0,masklinn,,,"> Legal documents are particularly bad to place under source control, because most of them already reference the previous code they are replacing. And, since the code is basically readonly what&#x27;s the point of using github?<p>The code is not readonly at all, each law within the domain covered by the code is an alteration to the code. Individual laws are reified as commits, and the repository tracks the evolution of the code as laws get voted in and applied.",1427798500
+9295376,comment,9293688,9294694,0,0,tel,,,"Not sure if this is what you mean, but while `foo.bar` tends to be &quot;property access of the property `bar` of the record/object `foo`&quot;, in Haskell `foo . bar` is &quot;the function `bar` followed by the function `foo`&quot;.<p>In the latter case it&#x27;s written with spaces to look a bit more like the mathematical notation.",1427798431
+9295375,story,,,1,0,naama,"Can Log Shipping Work Without Shipping the Log?",http://www.madeirasql.com/log-shipping-without-shipping-the-log/,,1427798416
+9295374,comment,9294954,9295350,0,0,phtrivier,,,"There&#x27;s a PR for that ;) <a href=""https://github.com/steeve/france.code-civil/pull/1/files"" rel=""nofollow"">https://github.com/steeve/france.code-civil/pull/1/files</a>",1427798413
+9295373,comment,9294954,9295350,0,0,nothrabannosir,,,"A bit ironic, no? That such a thing, almost exclusively useful for French people, has to come from a non-native speaker. And that the only obviously French comment so far is a critique about the style...<p>We sure do know how to complain. :)<p>(slightly unfair, of course---obviously the complaint about grammar had to come from a native speaker; who else would notice it in the first place..?)",1427798411
+9295372,comment,9294954,9295350,0,0,gregschlom,,,"Oh no, this kind of grammatical errors show that it&#x27;s clearly a native French speaker. We French suck at our own language - partly because it is fairly complicated, and partly because people don&#x27;t bother learning.",1427798392
+9295371,comment,9294954,9295350,0,0,steeve,,,"It was written at 3am as I was falling asleep on my keyboard...<p>I am french born and raised, btw.",1427798375
+9295370,comment,9293849,9294560,0,0,usrusr,,,"I agree and I even think that this will be unavoidable, if that kind of abuse keeps going on.<p>Government influence aside, Baidu would be free to host their analytics callbacks for the outside world outside of the GFW. If they stay accomplice to this kind of attack, no matter if forced or willingly, they will suffer.",1427798374
+9295369,comment,9293849,9294659,0,0,rmchugh,,,"Loading all of jQuery seems a little bit excessive when the only thing they&#x27;re using is the $.ajax function. <a href=""http://youmightnotneedjquery.com/#request"" rel=""nofollow"">http://youmightnotneedjquery.com/#request</a>",1427798339
+9295368,story,,,1,0,immad,"Be a Summer Engineering Intern at Heyzap. Ship Code to Millions",http://www.heyzap.com/jobs/31,,1427798336
+9295367,story,,,2,0,bootload,"Neurogenesis, leadership and rewiring your own brain",http://www.abc.net.au/radionational/programs/ockhamsrazor/rewiring-your-own-brain/6358410,,1427798281
+9295366,comment,9294801,9294801,0,0,Phogo,,,"There goes my day! Nice work",1427798274
+9295364,comment,9294954,9295350,0,0,peteretep,,,"The irony of course being that I thought to myself as I was reading it &quot;that&#x27;s some mighty easy-to-understand French&quot;. A long time ago I used to visit francophone Africans in a UK asylum centre who were always notably easier to understand than the French.",1427798222
+9295363,comment,9294954,9294954,0,0,troels,,,"A pity they can&#x27;t use dates before epoch.",1427798218
+9295362,comment,9294954,9295350,0,0,omtose,,,"I think you give too much credit to native speakers of any language.",1427798158
+9295361,comment,9290087,9290087,0,0,GutenYe,,,"For developing Chrome Extension, why would anyone want to use Go over Javascript?",1427798155
+9295360,comment,9289699,9289699,0,0,rafaqueque,,,"Quite scary because I see people buying this for fun. There are a lot of startups struggling to find paying customers, with real products, and then you have this kind of joke that will sell more than those startups.<p>It&#x27;s really sad.",1427798137
+9295358,story,,,2,0,thestack_alice,"OpIsrael: Anonymous vows to wipe Israeli cyberspace in ‘electronic Holocaust’",http://thestack.com/opisrael-returns-anonymous-cyberspace-holocaust-310315,,1427798107
+9295357,comment,9294954,9295076,0,0,troels,,,"The avatar is brilliant",1427798104
+9295356,comment,9294138,9295235,0,0,cheradenine01,,,"Been done - on ARM instruction sets, no less.<p><a href=""http://en.wikipedia.org/wiki/AMULET_microprocessor"" rel=""nofollow"">http://en.wikipedia.org/wiki/AMULET_microprocessor</a>",1427798089
+9295355,comment,9293849,9294316,0,0,mike_hearn,,,"I read that they tried blocking github already, but had to back down because of complaints from the software engineering community there.<p>Basically the Chinese government is desperately trying to disconnect the Chinese people from the global internet whilst simultaneously trying to minimise the economic damage that creates. Blocking news sites doesn&#x27;t do a whole lot of damage. Blocking CDNs is totally different.<p>This sort of thing makes me think about an HTTP extension that lets arbitrary websites promise to proxy for others. Web servers could set an &quot;X-Will-Relay-For: wikipedia.org, github.com, facebook.com, nytimes.com&quot; header and then browsers would be programmed to store these mappings in their local cache as you browse the web. If attempting to reach a website fails, the browser would retry via an SSLd CONNECT request via one of the cached paths, sort of a Tor-lite but aimed purely at unblocking sites rather than anonymization.<p>Of course there are lots of practical details to work out like traffic management, how to avoid an outage of a large website causing cascading failures etc.",1427798037
+9295354,comment,9292809,9293988,0,0,ghgr,,,"That&#x27;s also quite common in virtual machines. You just need to trap the cursor in a corner. Then, as long as you keep the mouse inside the window, both will be synchronized.",1427798031
+9295352,comment,9293498,9293498,0,0,bash-j,,,"If you liked this article you would probably enjoy the BicycleDutch youtube channel, filled with lots of great videos about cycling in the Netherlands.<p><a href=""https://www.youtube.com/channel/UC67YlPrRvsO117gFDM7UePg"" rel=""nofollow"">https://www.youtube.com/channel/UC67YlPrRvsO117gFDM7UePg</a>",1427797958
+9295350,comment,9294954,9294954,0,0,b08aa8b0dcfce,,,"The README is so full of grammatical and spelling errors it obviously wasn&#x27;t written by a French speaker. Urgh.",1427797879
+9295349,comment,9294954,9295249,0,0,stwe,,,"I&#x27;m the original creator of that repo. Keeping it up to date is unfortunately a time-consuming manual effort. Doing version control downstream is generally a nightmare because unraveling different law changes/typo fixes is complicated (yes, lot&#x27;s of typos when humans consolidate laws by hand).<p>If you&#x27;re interested, here&#x27;s a talk about it at Git Merge: <a href=""https://www.youtube.com/watch?v=-qql1Ess7qM"" rel=""nofollow"">https://www.youtube.com/watch?v=-qql1Ess7qM</a><p>Here are some scrapers/scripts around it: <a href=""https://github.com/bundestag/gesetze-tools"" rel=""nofollow"">https://github.com/bundestag/gesetze-tools</a>",1427797859
+9295348,comment,9293498,9293498,0,0,plq,,,"My opinion based purely on anectodal evidence says the essential reason why bikes are highly preferred by the people of Amsterdam is that it is mostly a flat city. Compare this to Istanbul, where even seemingly trivial journeys have 100m climbs in it.<p>Example for a popular home to work commute: 
+<a href=""http://cycleroute.org/?slat=41.061029&slng=29.006811999999968&elat=41.0543842&elng=28.98497999999995&mode=DRIVING"" rel=""nofollow"">http://cycleroute.org/?slat=41.061029&slng=29.00681199999996...</a>",1427797846
+9295347,comment,9292831,9293726,0,0,huhtenberg,,,"Agreed, except for the catered food.",1427797802
+9295346,comment,9295343,9295343,0,0,davidw,,,"Erlang is not for computationally intensive stuff - but it could easily be used to control something that is, like a C program.",1427797800
+9295345,story,,,1,0,jpadamsonline,"Why jQuery is the best thing to learn right after HTML and CSS",http://boxymonkey.com/2015/03/next-step-after-learning-html-and-css/,,1427797767
+9295344,story,,,1,0,martinald,"NativeScript: no provisioning profile hell on iOS",http://getcodified.com/nativescript-no-provisioning-profile-hell-on-ios/,,1427797756
+9295343,story,,,1,9,orph4nus,"Ask HN: “Best” Functional Language for the Web (key on Performance)",,"Hey. I&#x27;m planning on developing a free web game as a hobby project. The game will have quite a lot of calculations as it will rely heavily on fractal generation, pseudo variants and other forms of generation on the fly. But without going to much in details (as I&#x27;m still in the early prototyping phases) I would like to know what these days the best functional language for the web is?<p>I only ever do web development for hobby projects, as I&#x27;m a developer for personal computers and embedded systems in my professional time. I like to develop in Functional Languages as It fits best with how I think and come up with  solutions for my problems. Besides one web project that I developed with Clojurescript I don&#x27;t have much experience with functional languages for the web though. Which brings me to the question...<p>What functional languages do you recommend for the web? Clojurescript, Elixir, Erlang, or another one? Key elements I look for is completeness of libraries available and performance.<p>Thank you upfront.",1427797723
+9295342,comment,9288907,9292174,0,0,ArekDymalski,,,"You aren&#x27;t the only one in doubt. There was an experiment that caused real controversy in the 60ies:
+<a href=""http://en.wikipedia.org/wiki/Benjamin_Libet"" rel=""nofollow"">http://en.wikipedia.org/wiki/Benjamin_Libet</a>",1427797714
+9295341,comment,9293849,9294740,0,0,mike_hearn,,,"More SSL.<p>This attack works because the firewall is capable of reading plain HTTP requests to spot the ones that are requesting the target javascripts, and then statelessly injecting raced packets. Neither technique works when SSL is in use. Even if China simply demanded the SSL keys from Baidu, they&#x27;d have to decrypt every single connection on the fly and significantly upgrade their infrastructure.<p>I think the only way to continue this technique in the presence of widespread SSL use is to actually force Baidu to insert the malicious Javascript on their own servers.",1427797675
+9295339,comment,9294954,9295300,0,0,return0,,,"I see, that indeed looks like a good example. Does it only work for newly changed laws? i couldnt find any other versioncontrolled articles.",1427797654
+9295338,comment,9294954,9295249,0,0,tormeh,,,"The Norwegian laws: <a href=""https://lovdata.no/info/information_in_english"" rel=""nofollow"">https://lovdata.no/info/information_in_english</a><p>It&#x27;s a financially independent (it has a &quot;pro&quot; version) non-profit owned by the department of justice and the faculty of law of the University of Oslo. It is an official source and as such laws published there are officially, legally published and it has been that way since 2001. Laws relevant to private citizens are available for free. It&#x27;s pretty neat.",1427797653
+9295337,comment,9294138,9295185,0,0,richthegeek,,,"As an additional data point, BTU isn&#x27;t used in Britain very much these days. As with germany, kilowatt-hour is the preferred unit of (heating) energy.",1427797652
+9295336,comment,9293959,9293959,0,0,endymi0n,,,"Reading the title, I had some interesting head cinema imagining drones from stopping recruiters entering cafés close to Facebook, Apple and Google and poaching employees...",1427797635
+9295335,comment,9288898,9292190,0,0,manume,,,"We meet with the client and agree on the scope of the prototype beforehand, and based on our experience two weeks is a timeframe for which the scope can be estimated really well!<p>And you&#x27;re right, 7500€ can theoretically buy you a lot of dev time, at least from a junior developer. If you want someone more senior who you don&#x27;t have to micromanage and who has experience in working with clients professionally, our offer a good deal we think. :)<p>The value prop is the development speed, the fixed price and knowing beforehand which tools we use and the process we follow. We have talked to lots of people about this, and the latter point was especially important to many who got burnt by some developer they found on Odesk or Freelancer.com, who had her very own style of programming and used non-standard tools, and the result often was a system that barely worked and couldn&#x27;t be carried forward by another developer.",1427797602
+9295333,comment,9294533,9295268,0,0,hengheng,,,"Where do you draw the line? Air travel/airports? Mobile data networks?",1427797557
+9295332,comment,9293488,9295267,0,0,oneeyedpigeon,,,"That works for small projects, but doesn&#x27;t scale brilliantly. At some point, many projects need to handle more bug reports than one person can realistically handle in their spare time, and totally unstructured freeform text slows things down on top of that.",1427797467
+9295331,comment,9294954,9295299,0,0,ptaipale,,,"Well, I said &quot;surprised <i>if</i>&quot;, not &quot;surprised <i>that</i>&quot;.<p>The eur-lex link I mentioned lists precisely that site (legifrance) for France. But as I don&#x27;t read French and don&#x27;t know the particulars, what puzzles me is what is the additional value of putting the same thing in Github. The maintenance burden seems horrific unless you can pull it automatically, and even then the actual benefit of using Github is not so clear to me.",1427797432
+9295330,story,,,1,0,chdir,"Hacking Gmail to use custom domains for free",http://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/,,1427797424
+9295329,story,,,1,0,seifip,"Fluent Panda – Forget about forgetting languages",https://www.kickstarter.com/projects/54908586/fluent-panda-forget-about-forgetting-languages,,1427797405
+9295328,comment,9295265,9295265,0,0,duncan_bayne,,,"I&#x27;m guessing he wasn&#x27;t an economist by profession then ;-) Seriously, this seems like a great solution to the problem highlighted in the article - peer review is a slow process when left to non market forces. Seems analogous to hiring a consultant to review your code.",1427797402
+9295327,comment,9293849,9294723,0,0,xxs,,,">>I wasn&#x27;t beaten up or followed or <i>spyed</i> upon after that<p>How can you know?",1427797382
+9295326,comment,9292413,9295182,0,0,jfarmer,,,Indeed!,1427797349
+9295325,comment,9293498,9293498,0,0,nomercy400,,,"There is a move in the Netherlands to get old city centers free of cars. What you see in the first picture with cars everywhere is usually only for people living there and licensed goods trucks. Delft already has such a policy and some shopping areas can only be crossed by foot or by bike.<p>Just as not all roads have cycling lanes, not all roads are accessible to cyclists. It&#x27;s usually only smaller streets with low speeds that encourage cyclists.<p>To be honest, Amsterdam is really cramped when it comes to traffic. It is an old city amended with all the new stuff like cycling lanes, bus stops and no space to unload cargo.<p>One point they are missing: The safest bike is the one that looks most worn down and has a lock more expensive than the bike. It should also be attached to a fixed object.",1427797336
+9295324,comment,9295308,9295308,0,0,LoneWolf,,,"Seems interesting but I don&#x27;t understand how feasible this is, our heartbeat is not exactly the same all the time, sometimes beats faster, sometimes slower, what a I missing?",1427797291
+9295323,comment,9292831,9294380,0,0,_delirium,,,"Another kind of efficiency is the pure real-estate economics angle. Open office plans typically allocate fewer sq ft per employee, are cheaper to maintain, and are more easily reconfigurable as divisions/headcount changes.<p>This is probably less of a factor for Facebook, who built a bespoke office building and have a ton of cash, but it&#x27;s definitely driving things elsewhere in the real-estate market. If you read what&#x27;s being written in the architecture / office-consulting business, there is much touting of the cost/flexibility advantages of open-plan offices compared to &quot;legacy&quot; floorplans. Even boring old companies like ExxonMobil are moving towards open-plan offices in new construction mostly for this reason. And office buildings built speculatively by investors in the past 20 years almost never have actual structural offices like older buildings do, because that&#x27;s seen as producing a rental inventory that&#x27;s less flexible. Companies leasing space just get a big open floor space, and then have a choice between setting it up in open-plan or cube-farm style.",1427797264
+9295322,comment,9293849,9295261,0,0,mike_hearn,,,"Oddly, the Guardian is in fact not owned by a trust any more. It&#x27;s owned by a private corporation that calls itself The Scott Trust, but it stopped being an actual trust in 2008.",1427797253
+9295321,comment,9294954,9295271,0,0,mpasternacki,,,"If you have a text version, at least preprocessing and proposing changes could be doable (especially that as far as I know, formal French is quite uniform - but then, it&#x27;s what I heard from others, all French I actually know comes from a Dexter&#x27;s Laboratory episode). In Poland, though, the original acts are published as PDFs, and the text extraction itself needs assistance, if it&#x27;s even possible without OCR: the international agreements that are side-by-side in multiple languages (Polish, other party, sometimes also English) are usually image scans saved as PDFs.",1427797219
+9295320,story,,,4,0,sashee,"Why you should care about Vim",https://advancedweb.hu/2015/03/31/why-you-should-care-about-vim/,,1427797193
+9295319,comment,9294954,9295061,0,0,seszett,,,"The full civil code text applicable for every date since at least 1817 is available at Legifrance.gouv.fr[1] so I suppose he just wrote a parser to transform each of these pages into plaintext, another one to get a list of all amendments, and commited each different version.<p>[1]<a href=""http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721&dateTexte=18170201"" rel=""nofollow"">http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEX...</a>",1427797187
+9295318,comment,9294058,9294942,0,0,pointernil,,,"Which loopholes did stay open in this one?",1427797172
+9295317,comment,9293849,9294439,0,0,mike_hearn,,,"It&#x27;s an identical setup to the NSA QUANTUM infrastructure, just in China instead of scattered around the western internet system. So I guess it&#x27;s probably been used offensively in a more targeted approach for a while.",1427797167
+9295316,comment,9293498,9295157,0,0,bstrand,,,"It most certainly is a generalized circumstance that Dutch cyclists don&#x27;t wear helmets. A 1998 study (1) found that 0.1% of them wore a helmet. Furthermore, search for &quot;Amsterdam cyclist&quot; images (2) and you&#x27;ll find virtually no helmets and rather few of the head coverings you posit are the cause of reduced helmet usage.<p>1) <a href=""https://www.aaafoundation.org/sites/default/files/bikeuse_PBA.pdf"" rel=""nofollow"">https://www.aaafoundation.org/sites/default/files/bikeuse_PB...</a>
+2) <a href=""https://www.google.com/search?q=amsterdam+cyclist&espv=2&tbm=isch"" rel=""nofollow"">https://www.google.com/search?q=amsterdam+cyclist&espv=2&tbm...</a>",1427797164
+9295315,story,,,1,0,SteveClement,"URL Abuse – A Software for URL review, analysis and black-list reporting",https://github.com/CIRCL/url-abuse,,1427797156
+9295314,story,,,1,0,mallefitzo,"World Backup Day 2015 Infographic",http://www.cloudwards.net/world-backup-day-2015/,,1427797146
+9295313,comment,9281466,9294458,0,0,ableal,,,"Oops. Scanned too quickly on the way to the conclusions. Thanks for the heads up.<p>(Drats, it was a nice one.)",1427797144
+9295312,comment,9294138,9295269,0,0,Dwolb,,,"I&#x27;d rather use another degree of freedom: how small can I make my battery?",1427797088
+9295311,comment,9292129,9294358,0,0,aaronbrager,,,"1. I know this is true anecdotally, but are there data to back this up? Is any information available about these other classes?<p>2. It&#x27;s not my goal to hold anyone to a specific standard or complain, just to explore what the best scholarship approach is.",1427797070
+9295310,comment,9294533,9294915,0,0,api,,,"Cars are only viable because they get roads from the tax payers.",1427797059
+9295309,comment,9294138,9295269,0,0,justincormack,,,"Not if you run an operating system/code with 64 bit time_t, like NetBSD or OpenBSD. I can&#x27;t imagine you would run an OS on it though.",1427797059
+9295308,story,,,3,2,nitin_flanker,"Samsung's Smartwatch Will Use Your Heartbeats to Unlock Your Smartphone",http://www.whatafuture.com/2015/03/17/heartbeat-authentication-in-samsung-smartwatch/,,1427797034
+9295307,comment,9294138,9294138,0,0,undrwatr,,,"<a href=""http://www.eetimes.com/document.asp?doc_id=1326124"" rel=""nofollow"">http://www.eetimes.com/document.asp?doc_id=1326124</a>",1427797030
+9295306,comment,9292809,9292809,0,0,sjtechie,,,"Does it take down your computer when it bluescreens?",1427797023
+9295305,comment,9294192,9294466,0,0,ifcho,,,"Actually, after the ban of the cars, the manufacturers looked for other races where they could use their monsters. They took them to Dakar, and to the famous Pikes Peak hillclimb race in the USA. Peugeot made a very good movie about it (although it is in a 405T16, which technically never raced group B, the car is basically a 205 T16 with another body shell) - <a href=""https://www.youtube.com/watch?v=UEuZG37gFdM"" rel=""nofollow"">https://www.youtube.com/watch?v=UEuZG37gFdM</a>",1427797004
+9295304,comment,9293849,9295101,0,0,kbart,,,"&quot;It seems reasonable for anyone using Baidu to find an alternative for all of their services.&quot;<p>As always, majority of them simply don&#x27;t care. Did many people stopped using Google after Snowden&#x27;s leak on this side of GFW?",1427796932
+9295303,comment,9291040,9291040,0,0,cel1ne,,,"Goethe (german), here&#x27;s a translation of the Zauberlehrling (The Sorcerer&#x27;s Apprentice)<p><pre><code>  That old sorcerer has vanished 
+  And for once has gone away! 
+  Spirits called by him, now banished, 
+  My commands shall soon obey. 
+  Every step and saying 
+  That he used, I know, 
+  And with sprites obeying 
+  My arts I will show.
+
+    Flow, flow onward 
+    Stretches many 
+    Spare not any
+    Water rushing, 
+    Ever streaming fully downward 
+    Toward the pool in current gushing.
+    
+  Come, old broomstick, you are needed, 
+  Take these rags and wrap them round you! 
+  Long my orders you have heeded, 
+  By my wishes now I&#x27;ve bound you. 
+  Have two legs and stand, 
+  And a head for you. 
+  Run, and in your hand 
+  Hold a bucket too.
+
+    Flow, flow onward 
+    Stretches many, 
+    Spare not any 
+    Water rushing, 
+    Ever streaming fully downward 
+    Toward the pool in current gushing.
+    
+  See him, toward the shore he&#x27;s racing 
+  There, he&#x27;s at the stream already, 
+  Back like lightning he is chasing, 
+  Pouring water fast and steady. 
+  Once again he hastens! 
+  How the water spills, 
+  How the water basins 
+  Brimming full he fills!
+
+    Stop now, hear me! 
+    Ample measure 
+    Of your treasure 
+    We have gotten! 
+    Ah, I see it, dear me, dear me. 
+    Master&#x27;s word I have forgotten!
+    
+  Ah, the word with which the master 
+  Makes the broom a broom once more! 
+  Ah, he runs and fetches faster! 
+  Be a broomstick as before! 
+  Ever new the torrents 
+  That by him are fed, 
+  Ah, a hundred currents 
+  Pour upon my head!
+
+    No, no longer 
+    Can I please him, 
+    I will seize him! 
+    That is spiteful! 
+    My misgivings grow the stronger. 
+    What a mien, his eyes how frightful!
+    
+  Brood of hell, you&#x27;re not a mortal! 
+  Shall the entire house go under? 
+  Over threshold over portal 
+  Streams of water rush and thunder. 
+  Broom accurst and mean, 
+  Who will have his will, 
+  Stick that you have been, 
+  Once again stand still!
+
+    Can I never, Broom, appease you? 
+    I will seize you, 
+    Hold and whack you, 
+    And your ancient wood 
+    I&#x27;ll sever, 
+    With a whetted axe I&#x27;ll crack you.
+    
+  He returns, more water dragging! 
+  Now I&#x27;ll throw myself upon you! 
+  Soon, 0 goblin, you&#x27;ll be sagging. 
+  Crash! The sharp axe has undone you. 
+  What a good blow, truly! 
+  There, he&#x27;s split, I see. 
+  Hope now rises newly, 
+  And my breathing&#x27;s free.
+
+    Woe betide me! 
+    Both halves scurry 
+    In a hurry, 
+    Rise like towers 
+    There beside me. 
+    Help me, help, eternal powers!
+    
+  Off they run, till wet and wetter 
+  Hall and steps immersed are Iying. 
+  What a flood that naught can fetter! 
+  Lord and master, hear me crying! - 
+  Ah, he comes excited.
+  Sir, my need is sore. 
+  Spirits that I&#x27;ve cited
+  My commands ignore.
+
+    &quot;To the lonely 
+    Corner, broom! 
+    Hear your doom. 
+    As a spirit 
+    When he wills, your master only 
+    Calls you, then &#x27;tis time to hear it.&quot;</code></pre>",1427796873
+9295302,comment,9293488,9294542,0,0,jakobegger,,,"In my experience the &quot;stupid shit&quot; and &quot;crap you don&#x27;t want&quot; is often useful feedback. At the very least, it tells you which parts of your app are most confusing.<p>For example, if you get lots of complaints about something you consider obvious, maybe you should reconsider what&#x27;s obvious. Often minor changes like improved docs or more googleable error messages can improve the experience for many users. And you&#x27;ll see if changes are effective as soon as a specific sort of &quot;crap&quot; stops showing up in your bug reporting system.",1427796869
+9295300,comment,9294954,9295221,0,0,bolaft,,,"Did you take a look at the repo? It doesn&#x27;t track new laws, it tracks the entire Code Civil and considers each new law a &quot;commit&quot;, so it works perfectly. Here, as an example, the commit/law that legalizes same-sex marriage :<p><a href=""https://github.com/steeve/france.code-civil/commit/b805ecf05a86162d149d3d182e04074ecf72c066"" rel=""nofollow"">https://github.com/steeve/france.code-civil/commit/b805ecf05...</a><p>You can clearly see that the &quot;commit/law&quot; changes the wordings of various files to replace &quot;mother and father&quot; by &quot;parents&quot; and &quot;husband and wife&quot; by &quot;spouses&quot;.",1427796858
+9295299,comment,9294954,9295228,0,0,mackwic,,,"> I&#x27;m surprised if France and other supposedly civilized countries don&#x27;t do it on behalf of the Justice Ministry or equivalent.<p>Please be kind in your comments.<p>Also, you&#x27;re wrong (<a href=""http://legifrance.gouv.fr/"" rel=""nofollow"">http://legifrance.gouv.fr/</a>), but that&#x27;s secondary relatively to the harsh tone you had there.",1427796848
+9295298,comment,9294533,9294533,0,0,carsongross,,,"Reading about them makes me think of Vanderbilt, who I have heard (but cannot find the source) made some of his domestic ferry services free, in hopes that you would buy food on the trip.<p>As an aside, Vanderbilt was (possibly) responsible for one of the more memorable   business quotes I&#x27;ve come across:<p><i>You have undertaken to cheat me. I won&#x27;t sue you, for law is too slow. I&#x27;ll ruin you.<p>Yours truly,<p>Cornelius Vanderbilt</i>",1427796844
+9295297,story,,,1,0,hasseg,"Release Process Outside the Mac App Store",http://fauxpasapp.com/blog/2015/release-process/,,1427796818
+9295296,comment,9294954,9295076,0,0,danbruc,,,"The first one I more or less randomly clicked on was of course »Verordnung über Qualitätsnormen für Bananen (QNormBanV)« [1], quality standards for bananas.<p>[1] <a href=""https://github.com/bundestag/gesetze/blob/master/q/qnormbanv/index.md#verordnung-%C3%BCber-qualit%C3%A4tsnormen-f%C3%BCr-bananen-qnormbanv"" rel=""nofollow"">https://github.com/bundestag/gesetze/blob/master/q/qnormbanv...</a>",1427796756
+9295293,story,,,1,0,mike_everhour,"Our company manifesto",https://medium.com/@citizenblr/startup-manifesto-6858a0a3211a,,1427796695
+9295292,comment,9292831,9294198,0,0,Rapzid,,,"See, now, I had heard that Microsoft was moving to open &quot;team&quot; sections?  Was that just for the Visual Studio guys and such?  I&#x27;m a huge fan of team zones where everyone in the same area works on the same immediate issues, and can also get some privacy and quite time etc.",1427796682
+9295291,comment,9290697,9291652,0,0,_delirium,,,"That&#x27;s definitely true, but I wonder why Google is so tied to MV specifically, given that MV is not particularly accommodating of them? San Jose has been fairly open to high-rise development (within the constraints posed by SJC landing paths), and is not far away.",1427796679
+9295290,comment,9294954,9295224,0,0,mdemare,,,"Isn&#x27;t that obvious?<p>Pull Requests! Can you imagine a democracy editing its laws through pull requests and code review?",1427796671
+9295288,comment,9294138,9295086,0,0,minthd,,,">>  ATMEL is always great presenting fabulous MCU than sometimes takes forever to reach the low-volume markets.<p>But in the low-volume markets what wins is usually better software support, and with it&#x27;s mbed-os(and other software frameworks availble for ARM mcu&#x27;s), ARM is surely to win here.",1427796650
+9295287,comment,9292831,9293991,0,0,orik,,,"horsestaple?<p>I was translating on the first tour of your office to some japanese exchange students, and if I recall correctly, you guys had different rooms that implied different levels of &#x27;don&#x27;t interrupt&#x27; vs &#x27;really don&#x27;t interrupt me&#x27;, right?",1427796606
+9295286,comment,9291404,9291805,0,0,DanielBMarkham,,,"Ozzie&#x27;s comment is great. Well worth the read.",1427796601
+9295285,comment,9292838,9294660,0,0,jordwalke,,,"In my experience, a memory win takes place because you can use something lighter weight (ADTs) to model your data as opposed to something that consumes additional memory (objects or a record of bound functions) simply to get the type system to accept your code.<p>Furthermore, when using ADTs to store your data (and constructing modules that operate on them) I believe the resolution to the functions that operate on them are entirely done at compile time, not run time - whether or not that is being capitalized on is a different story, but I believe it has benefits now and will have even more later as the compiler authors continue to add more optimizations.",1427796593
+9295284,comment,9294954,9295273,0,0,mackwic,,,"That&#x27;s a funny story. :)",1427796581
+9295283,comment,9293849,9294495,0,0,jacquesm,,,"<a href=""http://www.ipdeny.com/ipblocks/data/countries/cn.zone"" rel=""nofollow"">http://www.ipdeny.com/ipblocks/data/countries/cn.zone</a>",1427796570
+9295282,comment,9291040,9294967,0,0,probably_wrong,,,"He actually had a typo there. It&#x27;s &#x27;cerezos&#x27;, not &#x27;cerizos&#x27;.",1427796560
+9295280,story,,,15,0,GarethX,"Null Propagation in C#6",https://gooroo.io/GoorooTHINK/Article/16282/C6-New-Features/18079#.VRpx1hDF9XI,,1427796496
+9295279,comment,9293849,9294111,0,0,kbart,,,"Exactly, that&#x27;s where these vast NSA&#x27;s datacenters could make sense and actually do something useful.",1427796489
+9295278,comment,9294954,9295188,0,0,nmc,,,"In this context, I would definitely say <i>&quot;the various assemblies&quot;</i> since the author is obviously designating <i>the various assemblies working on the Civil Code</i>, not a random ensemble of assemblies.",1427796472
+9295277,story,,,1,0,uoziod,"Simple customizable navbar component for react-native",https://github.com/Kureev/react-native-navbar,,1427796460
+9295276,comment,9293849,9293849,0,0,quarterto,,,"I was under the impression that the attack had evolved since this tactic. Is there any word on what the current attack looks like? Or is it still this?",1427796460
+9295275,comment,9291215,9291215,0,0,guilt,,,"We started building with that approach. We&#x27;re looking for people to tell us what&#x27;s cool and what&#x27;s not!<p>We at GeoG are building a safe, easy and sustainable platform for IoT. We can totally do everything if we put time and effort into it - which we are ready for!
+What we want you to do, is start hacking and building things with us. No strings attached!<p>We recently set up a Community page <a href=""http://community.geog.co"" rel=""nofollow"">http://community.geog.co</a> where we want to start listening to you, your needs and suggestions.<p>Did we mention we have an API? We&#x27;d like you to start beaming data and create cool things with us. <a href=""http://api.geog.co"" rel=""nofollow"">http://api.geog.co</a><p>Also, if you have reasons to hate us, bring it out! We&#x27;re listening.",1427796458
+9295273,comment,9294954,9294954,0,0,gadders,,,"In contrast, the list of Wales-only laws is (or used to be) maintained by one French woman at a Welsh university:<p>&quot;But any queries may well be referred to Marie Navarro, the editor and chief researcher of Wales Legislation Online.<p>Like everyone in Wales, the judges use this website when they need to find out whether the law in Wales on a particular topic is different from English law.<p>The database is not run by the judiciary, by the Welsh Assembly Government or by one of the commercial publishers that pride themselves on keeping their subscribers up to date with English law.<p>It was set up in 1999 by Cardiff University Law School, and is run by Miss Navarro, a French lawyer who came to Wales on a European scholarship 13 years ago and decided to stay.&quot;<p><a href=""http://www.bbc.co.uk/news/uk-12674539"" rel=""nofollow"">http://www.bbc.co.uk/news/uk-12674539</a>",1427796447
+9295272,story,,,12,0,century19,"Facebook 'tracks all visitors, breaching EU law'",http://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report,,1427796440
+9295271,comment,9294954,9295249,0,0,arcatek,,,"It&#x27;s the same thing in France, but that&#x27;s why the OP repo is great: you can see the actual change as a usual diff (<a href=""https://github.com/steeve/france.code-civil/commit/0d53376225b4502851e2ec062a80e45924e265ce"" rel=""nofollow"">https://github.com/steeve/france.code-civil/commit/0d5337622...</a>).<p>I&#x27;m not sure how they do it, but I guess that it wouldn&#x27;t be extremely hard to have a small grammar to automatically convert the legalese patch into an actual git patch (most of the time, the sentences which wrap the editions are the sames).",1427796392
+9295270,comment,9294138,9295183,0,0,minthd,,,"This guys sell components that enable battery free operation(according to their claims) using rf energy:<p><a href=""http://www.powercastco.com/"" rel=""nofollow"">http://www.powercastco.com/</a><p>BTW, rf energy is generally among the lowest energy harvesting sources, and in many cases environmental light, vibration(for example on a machine) ,and heat are much stronger energy harvesting sources, and most likely available at low cost.",1427796368
+9295269,comment,9294138,9294138,0,0,minikites,,,"I see that it&#x27;s 32-bit, is the year 2038 problem a significant concern for a device like this?",1427796352
+9295268,comment,9294533,9295163,0,0,mavhc,,,"You can&#x27;t have real competition with networks, be they road, rail, telephone, internet",1427796294
+9295267,comment,9293488,9294319,0,0,jakobegger,,,"I think a much better way would be to just post a public email address for reporting bugs. That&#x27;s what I&#x27;m doing for my (closed source) apps, and it works extremely well.<p>Even people with limited computer skills know how to use email. This ensures you get the maximum number of bug reports.<p>When you personally reply to emails (no automatic responses), people are extremely helpful. When I can&#x27;t immediately reproduce a bug that a customer reported, I ask them a series of questions, and they almost always respond quickly. If you send clear instructions, you will get useful information even from people who have no clue what they are doing.<p>If you force people to fill out a lot of unnecessary info beforehand, you&#x27;ll get less bug reports. If you send them automatic replies, they wont respond.",1427796257
+9295266,story,,,3,0,lmm,"How Berliners refused to give Tempelhof airport over to developers",http://www.theguardian.com/cities/2015/mar/05/how-berliners-refused-to-give-tempelhof-airport-over-to-developers,,1427796253
+9295265,story,,,5,3,p4bl0,"Editor quits journal over pay-for-expedited peer-review offer",http://news.sciencemag.org/scientific-community/2015/03/editor-quits-journal-over-pay-expedited-peer-review-offer,,1427796242
+9295264,comment,9294954,9295221,0,0,mpasternacki,,,"There are services (external, secondary to the published acts) that published a re-unified, highlighted version. I would imagine a repository that maintains a current unified text, with the &quot;update acts&quot; as commit messages (or even with the original PDFs somehow linked to the commits. I&#x27;m sure it can be implemented somehow in Git plumbing. Annotations, maybe?). I&#x27;d even pay for this kind of service - but probably not as much as lawyers who need it for their daily work pay for the existing equivalents.",1427796225
+9295263,comment,9294954,9295224,0,0,Arkanosis,,,"diff, blame… That alone are killer features.",1427796223
+9295261,comment,9293849,9294612,0,0,peteretep,,,"No, the difference is that in the west you can access Russia Today (<a href=""http://www.rt.com"" rel=""nofollow"">http://www.rt.com</a>) and China Daily (<a href=""http://www.chinadaily.com.cn/en/"" rel=""nofollow"">http://www.chinadaily.com.cn/en/</a>), state-owned propaganda channels who delight in publishing anything that would make the U.S. look bad, and in China you can&#x27;t access the NYT which helped break the Snowden stuff. The Guardian is owned by a trust who have legal obligations based on fair and balanced reporting, and all TV news in the UK - including Murdoch&#x27;s channels - have a legal obligation to not editorialised, underpinned by a legal system that&#x27;s been sticking two fingers to vested interests since the Magna Carta. Your sense of perspective is broken.",1427796198
+9295260,comment,9293849,9294953,0,0,cbsmith,,,"That&#x27;s a fair point...<p>Still, this is a read-based DoS. It should be fairly easy to mitigate with a CDN...",1427796171
+9295259,comment,9294954,9295191,0,0,BertrandBordage,,,"The clients weren’t really web 2.0 ;)
+The HTML version of diffs is also available, but not referenced by links: <a href=""https://criminocorpus.org/fr/legislation/versions/689/1/diff/"" rel=""nofollow"">https://criminocorpus.org/fr/legislation/versions/689/1/diff...</a>",1427796143
+9295258,comment,9294138,9295185,0,0,realityking,,,"While only one data point, in Germany BTU is very uncommon. Energy used for heating is expressed as kWh, same as with electricity.",1427796136
+9295257,comment,9294954,9295089,0,0,markvdb,,,"Don&#x27;t forget to send them a pull request for a README.en.md!",1427796095
+9295256,comment,9295254,9295254,0,0,altern8,,,"Netflix plans to create Netflix global, removing geo-blocking and allowing all customers access to all content. &quot;The key thing about piracy is that some fraction of it is because [users] couldn’t get the content. That part we can fix&quot;",1427796092
+9295255,comment,9293849,9295080,0,0,simonh,,,"A handful of books banned for a few individual legal issues does not make for a suppressive state. Are you seriously arguing that the USA is more suppressive of coimmunications and publications that China? Really?",1427796084
+9295254,story,,,1,2,altern8,"Netflix Wants to Make Neflix Global",http://www.overclock3d.net/articles/misc_hardware/netflix_wants_to_make_neflix_global/1,,1427796081
+9295253,comment,9291641,9293435,0,0,sireat,,,"Why would you be a proud user? User perhaps, but proud of using such a service?<p>I am an ashamed user of Dropbox still (see drop-dropbox someone posted below), because of inertia.<p>I know that that there is a high probability any three letter agency can access my unencrypted (and probably encrypted) data at Dropbox, but I suppose it is no worse than at Google Drive",1427796026
+9295252,comment,9290271,9290271,0,0,russellallen,,,"Oh for goodness sake. This isn&#x27;t a medical trial of a new anti-MRSA drug. This is an interesting piece of living history research into Anglo-Saxon medical practices.<p>Bald&#x27;s Leechbook is fascinating for many reasons. One in particular they refer to in the article - the local Anglo-Saxon remedies are in general lacking in theory and so more or less evidence based. Later medieval medicine was possibly in many ways worse - Roman and Greek ideas of the four humours were imported and applied as received truth. Later medicine was much more likely to take the approach of &quot;Who are ya going to believe? Aristotle or your lyin&#x27; eyes?&quot;<p>Anglo-Saxon medicine had no overarching theory to apply. So their salves and potions and magic incantations tended to be adhoc, complicated, and, occasionally, actually worked.",1427796020
+9295251,comment,9293498,9294897,0,0,digi_owl,,,"I sometimes wonder if the issue with helmets is their looks.<p>A quick bike helmet image search produce a multitude of helmets that looks aimed at either high speed or off-road riding.",1427796014

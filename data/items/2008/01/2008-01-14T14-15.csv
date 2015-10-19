@@ -1,0 +1,46 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+98157,comment,97709,98023,0,0,jsmcgd,,,"Does the site he created not advance society, allowing people to form relationships more easily? Also you don't know how he has spent his profits. This man may be advancing society more than most.",1200322798
+98156,comment,97396,98024,0,0,Tichy,,,"Sure, I was only joking ;-)",1200322248
+98155,comment,98009,98124,0,0,daniel-cussen,,,"I'm trying this.  I get a window that asks me if I want to load Windows XP or Debian Installer.  If I choose Debian Installer, it says welcome to grub, and then nothing happens for a while and I get the starting screen again.",1200322067
+98154,story,,,1,0,luccastera,"Functional Tests for Java project = RSpec + JRuby",http://pivots.pivotallabs.com/users/pzabelin/blog/articles/375-functional-tests-for-java-project-rspec-jruby,,1200322012
+98153,comment,98056,98056,0,0,nextmoveone,,,"no one going?",1200321708
+98152,story,,,34,20,edw519,"I Despise Facebook...",http://www.guardian.co.uk/technology/2008/jan/14/facebook?,,1200321653
+98151,comment,98009,98009,0,0,christefano,,,"Considering that the original post has almost nothing to do with Linux, the helpfulness and positive attitudes in this thread amaze me.<p>I've been spending too much time at Slashdot.",1200321206
+98150,story,,,1,0,zynoda,"RFacebook to Bebo: A plugin for running your RFacebook application on Bebo",http://blog.tierrabyte.net/2008/01/rfacebook-on-bebo-plugin.html,,1200320903
+98149,story,,,7,2,e1ven,"Ask N.YC: How to import Legacy Users?",,"For the last 9 months or so my partner and I have been working on making a
+new, web based version of Chron X. Chron X is the originally online
+collectible card game, first launched in 1997. It's a great game, but the
+engine is sorely out of date, and we're moving to a new revenue model.
+When we bought the game we knew there'd be some problems, but we've had to
+resort to more hacks that we imagined, particularly in getting the data
+out of the old database.<p>As we approach beta, one of the problems we're facing is legacy user
+authentication.<p>The problem is that Chron X was originally designed as part of a
+""collectible bits"" architecture, where you would receive a file on your
+machine to authenticate you, rather than a username and password. This
+worked well enough for the game at the time, but we know that 90% of the
+old users have most likely lost this file.<p>We're trying to find a way to let them authenticate without it. The first
+option is to let them authenticate using their email address on file. We
+could send a traditional password-reset mail, and let them confirm the
+account. Unfortunately,  since the game has been running for 11 years, I
+suspect that many of these addresses are no longer valid. We could allow a
+password-reset sent to their address, if they still have access to it.<p>As a fallback option, we've discussed allowing users authenticate if they
+remember their information, such as the address they lived in when they
+signed up.. We've been doing this manually by talking with them, and
+comparing against the DB, but obviously this solution won't scale.
+I'm hesitant to ask them to just type it in, since we've found that so
+many people don't remember exactly where which address they used, or would
+run into problems with spelling it, etc. The success rate for people
+getting the data right without prompting is sadly low. Think errors such
+as ""Elm street"", versus ""West Elm Ave"".<p>The other problem with this strategy is that many people originally
+registered under false information.. We have too many 123 Fake Streets- No
+one is going to remember exactly what they entered under such a scenario.<p>One idea we had was showing them the city and street for 15 random people
+from the database, along with their own, and asking the user to pick the
+correct data. I like this idea, but I can see a few problems with it..<p>We'd need to use some sort of hash so that we always presented the same 15
+addresses, when they asked to reset that account. If we didn't do that,
+they could just watch to see which address didn't change. The problem is,
+if we did that, they might be able to just try all 15. If we instead
+blocked them if they tried more than 2-3, then you could preform a DOS
+against other accounts, by manually trying to reset their account, just to
+ensure that they get blocked. ;(<p>Has anyone had to face a problem like this before? Do you have any clever
+ways we could try to present data to the users, without being a wretched
+user-experience?",1200320197

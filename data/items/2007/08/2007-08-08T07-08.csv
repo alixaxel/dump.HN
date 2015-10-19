@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+40436,story,,,1,0,vlad,"ValleyVag jokes about kicking out Google executives to save money",http://valleywag.com/tech/toogle-many-googlers/pick-the-googlers-who-have-to-go-283359.php,,1186559935
+40435,comment,40222,40229,0,0,davidw,,,"Finding good hackers is difficult in any case.  If you manage to get one, they can learn Rails quickly.  Unless you have a very urgent, short term need, you're taking the wrong approach if you're searching first and foremost for a rails guy rather than just someone who's good and willing to work with rails.",1186559931
+40434,story,,,1,0,vlad,"Report: Blogging has yet to hit it's peak, but may this year",http://arstechnica.com/news.ars/post/20061214-8420.html,,1186559860
+40433,comment,40222,40335,0,0,davidw,,,"PHP lowers the barriers to entry for web programming, which is a good thing.  It also means that a lot of really shitty code gets written.  At my last job, we had one file that was 10,000 lines long.  Basically, I never want to touch PHP again after that job.",1186559831
+40432,comment,40222,40222,0,0,davidw,,,"English.  It's pretty popular even in Europe, because it bridges borders.<p>In terms of programming languages, Ruby all the way, with some Java (j2me) and Hecl thrown in.",1186559678
+40431,comment,40253,40366,0,0,davidw,,,"I can't figure out whether the people who run immigration in most countries are complete morons on their own, or if their political masters have significant influence in the stupidity of the system.  My own personal example (well, one): when I got married in Italy, I had to swear, in front of a (busy) judge, with two witnesses, that no, I was not actually married elsewhere.<p>I don't think there would be any huge effects if things were basically opened up between wealthy countries... a few would go here from there, and vice versa, and things would balance out.  But it is increasingly difficult.  Bleagh!",1186559557
+40430,story,,,4,0,chmike,"Eric Schmidt's view on Web 3.0",http://www.disnetwork.info/1/post/2007/08/dis-as-web-30-root.html,"Since I had this view more than 4 years ago, I should be called a visionary.",1186559451
+40429,comment,40412,40427,0,0,davidw,,,"I think that going to them for advice is the sensible thing in any case.  They don't invest all that much money, yet do provide people with what looks like a very good package of advice and <i>access</i>.",1186559030
+40428,comment,40222,40222,0,0,damir,,,"Does it really matter? Use whatever makes YOU most productive, because at the end of the day the only thing that matter is a simple answer, yes or no. The question is always the same: Is it done?",1186558893
+40427,comment,40412,40412,0,0,prakash,,,"Mind Hack: If you are rejected by YC, assume you went to them for advice and not for money.
+",1186558637
+40426,story,,,1,0,vlad,"Setting Up Shop--picking office space",http://www.founderblog.com/2007/06/setting-up-shop-picking-office-space.html,,1186558131
+40425,story,,,5,0,vlad,"Aaron Swartz's ideas on improving Foo Camp",http://www.aaronsw.com/weblog/foofix,,1186557906
+40424,comment,40412,40412,0,0,vlad,,,"Congrats!  You made it to the interview last time, though--did Paul offer any ideas that you used to re-apply and make it this time around?  Did you have to go through another interview, or just e-mail them a better demo of what you've done so far, and they remembered you from last time?",1186557527
+40423,story,,,1,0,vlad,"""Copy and Paste"" clones of popular web apps via German Company",http://www.techcrunch.com/2007/08/07/verwandtde-german-geni-clone/,,1186557289
+40422,comment,40253,40355,0,0,darius,,,"I got mine through marriage. I came here with a college F1 visa.",1186557225
+40421,story,,,2,1,vlad,"Scrybe Closes Series A",http://www.techcrunch.com/2007/08/07/scrybe-closes-series-a/,,1186557179
+40420,comment,40402,40402,0,0,keven,,,"Most productive facebook app to get things done.  Pass todos to friends and 'crack the whip' until they're done.
+",1186557069
+40419,comment,40169,40233,0,0,waleedka,,,"Good luck. You have a unique idea, and I hope you make it. Please keep us posted. ",1186556821

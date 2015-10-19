@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+224158,comment,223977,223977,0,0,swombat,,,"Is it possible to install it under Leopard without using Ports?",1214128574
+224157,story,,,5,0,d0mine,"Realizing Jython 2.5",http://zyasoft.com/pythoneering/2008/06/realizing-jython-25.html,,1214127842
+224155,comment,223819,223819,0,0,axod,,,"Google seems to be more of a startup mentality. After reading this I'd <i>far</i> rather work for Google.<p>It's probably like the difference between Microsoft and IBM 10 or 20 years ago.",1214127718
+224154,comment,223820,223820,0,0,jawngee,,,"All of our development for <a href=""http://massify.com"" rel=""nofollow"">http://massify.com</a> was done in house, but we outsourced graphic design to an awesome shop in China, <a href=""http://plusfactory.com/"" rel=""nofollow"">http://plusfactory.com/</a>.  Run by ex-ad agency folks from NYC.<p>It was great since they're 12 hours shifted from us to be able to give them a spec at 5pm and have something to look at in the morning.  And their work is top notch.",1214127439
+224153,story,,,8,3,wumi,"A Peek Inside Google’s Gmail Usability Lab",http://www.techcrunch.com/2008/06/22/a-peak-inside-googles-usability-lab/,,1214127438
+224152,story,,,1,0,__,"The carefully woven ack duality",http://denoted.dyndns.org/ploidy/2008/06/2935/,,1214127145
+224151,comment,223977,223977,0,0,uzi,,,"While we're on something that is essentially a more powerful ""find and grep"", I wrote this years ago:<p><a href=""http://uzix.org/cgvg.html"" rel=""nofollow"">http://uzix.org/cgvg.html</a><p>Like ack, it uses perl's regexes... just add more file extensions and you're golden.  The nice thing is you do:<p><pre><code>  cg pattern
+</code></pre>
+which gives you a list with what it found, which file, the line number and an index... then you<p><pre><code>  vg index
+</code></pre>
+and it opens that file at that line.",1214125461
+224150,comment,223959,223959,0,0,sygzzy,,,"Quality of girl counts for a lot.",1214125233

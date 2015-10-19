@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3689,comment,3686,3686,0,0,immad,,,"Extract from Fabrice Grinda because he says it better than me: 
+""The book's self-help parts are annoying and the story would have been stronger if it focused only on Facebook, but that aside Inside Facebook, with its compelling characters and a story line on the way to fairy tale ending, is extremely fun and energizing!""<p>I agree :-).",1173686203
+3688,comment,3661,3661,0,0,staunch,,,"Craigslist uses MySQL FULLTEXT indexing, so it definitely ""scales"". For all my big-time searching needs I use Xapian.
+",1173686138
+3687,comment,3686,3686,0,0,immad,,,"Read some of this when it was first released (and was free for a bit). Pretty interesting, now its $10 or something so worth a read.",1173686134
+3686,story,,,1,2,immad,"Insider Facebook. Life, Work and Visions of Greatness",http://fbbook.com/fb_index.php,,1173686087
+3684,story,,,1,0,python_kiss,"Using RSS for Marketing",http://www.readwriteweb.com/archives/sxsw_using_rss_for_marketing.php,,1173683946

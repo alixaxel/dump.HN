@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+170461,story,,,8,9,EastSmith,"Get to know Firebird in 2 minutes",http://www.firebirdnews.org/docs/fb2min.html,,1208861963
+170459,story,,,5,6,ulfstein,"Ask YC: What options are available for sharing ad revenue with users?",,"Is anyone here aware of a way to share a site's ad revenue with a site's users?",1208861861
+170458,comment,169921,169921,0,0,doug_m,,,"just incredible design and interface - many congrats. Mind sharing details about what you used?",1208861843
+170457,story,,,1,0,johnm,"Can codebases gracefully age?",http://48klocs.blogspot.com/2008/04/can-codebases-gracefully-age.html,,1208861769
+170456,comment,170429,170429,0,0,asdflkj,,,"I don't know if this thread is a good idea, but the timing is certainly good for me. Yesterday, I got modded down to -7 for suggesting that a company like 37signals isn't a startup.<p>A startup is a business whose primary aim is growth. If you focus on revenue, you do so at the expense of growth, because people prefer free stuff over non-free stuff.<p>Could someone explain to me why I'm wrong? (I am not saying this rhetorically, by the way. If we assume that this community is as smart as everyone says it is, then I must be wrong.)",1208860475
+170455,story,,,1,0,joschi,"Virtual Hosting With PureFTPd And MySQL On Mandriva 2008 Spring",http://www.howtoforge.com/virtual-hosting-pureftpd-mysql-mandriva-2008-spring,,1208859522
+170454,story,,,5,0,prakash,"Putting Technology in India’s Tea",http://www.nytimes.com/2008/04/22/business/worldbusiness/22tea.html?ref=technology&pagewanted=all,,1208859502
+170453,comment,170321,170321,0,0,sharpshoot,,,"this is very very cool. did u apply to yc? you should",1208859469
+170452,comment,170429,170429,0,0,rms,,,"<p><pre><code>  <Donut[AFK]> HEY EURAKARTE
+  <Donut[AFK]> INSULT
+  <Eurakarte> RETORT
+  <Donut[AFK]> COUNTER-RETORT
+  <Eurakarte> QUESTIONING OF SEXUAL PREFERENCE
+  <Donut[AFK]> SUGGESTION TO SHUT THE FUCK UP
+  <Eurakarte> NOTATION THAT YOU CREATE A VACUUM
+  <Donut[AFK]> RIPOSTE
+  <Donut[AFK]> ADDON RIPOSTE
+  <Eurakarte> COUNTER-RIPOSTE
+  <Donut[AFK]> COUNTER-COUNTER RIPOSTE
+  <Eurakarte> NONSENSICAL STATEMENT INVOLVING PLANKTON
+  <Miles_Prower> RESPONSE TO RANDOM STATEMENT AND THREAT TO BAN OPPOSING SIDES
+  <Eurakarte> WORDS OF PRAISE FOR FISHFOOD
+  <Miles_Prower> ACKNOWLEDGEMENT AND ACCEPTENCE OF TERMS</code></pre>",1208858612
+170451,comment,170105,170310,0,0,yters,,,"I like all the intuitions he picks out, but overall isn't the book incoherent in its thesis?",1208858518
+170450,story,,,4,0,tzury,"All the Internet's a game",http://www.technologyreview.com/Biztech/20593/,,1208858408

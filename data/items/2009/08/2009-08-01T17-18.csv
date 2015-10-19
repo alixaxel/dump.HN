@@ -1,0 +1,49 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+736473,comment,736473,736331,0,0,wvenable,,,"From a previous link on this subject:<p><pre><code>  Java:
+  Attribute/Method access: foo.bar
+  Static method access:    Foo.bar
+  Package access:          foo.bar.baz
+
+  C#:
+  Attribute/Method access: foo.bar
+  Static method access:    Foo.bar
+  Namespace access:        foo.bar.baz
+
+  Python:
+  Attribute/Method access: foo.bar
+  Static method access:    Foo.bar
+  Module access:           foo.bar.baz
+
+  C++
+  Attribute/Method access: foo.bar and foo->bar
+  Static method access:    Foo::bar
+  Namespace access:        Foo::bar
+
+  Perl:
+  Attribute/Method access: $foo->bar
+  Static method access: Foo::bar
+  Module access: Foo::bar
+
+  PHP:
+  Attribute/Method access: $foo->bar
+  Static method access:    Foo::bar
+  Namespace access:        Foo\bar
+</code></pre>
+Variety is <i>not</i> unambiguously good.  Variety is good if you're producing something different.  Variety is bad if it's different for no reason.  I work in many different languages, and having to learn yet another syntax unnecessarily is not a good thing.<p>The PHP developers had a chance to add namespaces in a way that didn't make the language worse -- they didn't do that.  Sure, maybe it's not a big deal -- just like all the other bad decisions, like magic_quotes, weren't a big deal.  It's just disappointing that they couldn't do it right.",1249149513
+736472,comment,736472,736440,0,0,moe,,,"You mean the kind of revolution, well, attempts at revolution, that we have seen in Iran recently?<p>I'm not so sure about that. I think in most dictatorships most people already know that something is not quite right. Spreading that knowledge further is good - but the other guys still have the guns...",1249149502
+736471,comment,736471,736405,0,0,chime,,,"Because you are comparing apples to apples when in fact you should stop eating apples and eat spinach instead. In relative terms, the Prius vs. Hummer comparison is easy. Prius is considerably better than the Hummer. The problem is that in absolute terms, other than different amount of fuel, both of them require almost the same materials and resources for construction, maintenance, and lifetime operation. Prius drives on the same roads as the Hummer and hence needs the entire highway infrastructure to function properly. Prius uses plastic, metal, and synthetic materials and so does Hummer. Sure, it uses a lot less of each but the factories that produce these compounds still need to be built, serviced, and fueled. The spinach to this apples problem? Better trains and transportation across the entire US such that Walmart no longer needs a fleet of 10,000 trucks.<p>The big picture is not the comparison between using Prius and Hummer. It is whether automobiles should be the primary mode of long-distance transportation across a nation of 300+ million citizens. The author's point is that the pride from driving a Prius is overshadowing the anger and fury that we all should have at the lack of real, efficient solutions. Prius is a wonderful band-aid but it is not a cure and will never be a cure.<p>On a personal basis, it is in the best interest for everyone to use fuel-efficient cars, and reduce energy usage. However, this does not mean that doing wonderful ""green"" things will make more than a minor dent to the real problem of what is actually going on. It is very comforting to use textile bags instead of plastic at the grocery store but it's really not such a big deal in absolute terms. Not having to import every single item from China across the ocean is. The externalities of cheaply manufactured products are borne by China and the world as a whole. The benefit goes only to the shareholders and consumers of Dollar stores. What's the easy fix? There isn't. But using textile bag makes you feel wonderful and proud enough that you no longer think about the big picture and thus have no real voice when it comes to changing the big things.",1249149488
+736470,story,,,2,0,edw519,"Design Patterns - Using the Adapter Pattern in C#",http://www.dotnetcube.com/post/Design-Patterns-e28093-Using-the-Adapter-Pattern-in-C.aspx,,1249149479
+736469,comment,735142,736225,0,0,lisper,,,"No, fork is a lot faster than disk I/O:<p><pre><code>    [ron@mickey:~]$ time for i in {1..1000}; do echo foo>/dev/null; done
+    real	0m0.064s
+    user	0m0.039s
+    sys	0m0.025s</code></pre>",1249149431
+736468,story,,,17,3,edw519,"Saying goodbye (Mark Tarver on Qi)",http://groups.google.com/group/Qilang/browse_thread/thread/592773c562017d87,,1249149372
+736467,comment,736334,736334,0,0,yannis,,,"This will probably be shot down, but I stay focused - and yes get the flow too - by living on coffee, pizza and cigarettes when working on crushing deadlines. Alternate the pizza with your favourite junk food every other day.",1249149295
+736466,comment,736311,736311,0,0,jamiequint,,,"This is an OK article, I liked the bit about short term focus and would be interested to see some data on that. However, as far as innovation goes, Clayton Christiansen summarizes this problem much better in ""The Innovators Dilemma""<p>His studies showed that its not that big companies don't have the resources to form teams to do spin-off projects, they do try. The problem is that they miss ever identifying the opportunities that are very successful because they don't initially serve the same customer base that the company currently has (although they often grow into it).",1249149282
+736465,comment,736465,736453,0,0,kyochan,,,"feature creep?",1249149278
+736460,story,,,95,29,noss,"Can you trust TechCrunch enough to share their stories?",http://www.kullin.net/2009/08/can-you-trust-techcrunch-enough-to.html,,1249148962
+736456,story,,,17,7,alain94040,"Startup advice: iPhone developers should stop relying on handshake deals only",http://deals.venturebeat.com/2009/07/31/fairsoftware-tries-to-kill-the-handshake-deal-for-iphone-app-developers/,,1249148841
+736452,story,,,18,2,nader,"Seth Godin's Thoughts on Social Networking",http://www.brandinfection.com/2009/08/01/seth-godin-on-social-networking/,,1249148406
+736447,story,,,13,7,peter123,"RSS Subscribers or Twitter Followers: Which Are Worth More?",http://gigaom.com/2009/08/01/rss-subscribers-or-twitter-followers-which-are-worth-more/,,1249148184
+736424,story,,,7,3,peter123,"Don’t Look Now, But Flash Is (Kind Of) Working On Chrome For Mac",http://www.techcrunch.com/2009/08/01/dont-look-now-but-flash-is-kind-of-working-on-chrome-for-mac/,,1249146760
+736421,story,,,2,0,thras,"The Climate Models are in Fortran",http://www.2blowhards.com/archives/2009/07/climate_models.html,,1249146631

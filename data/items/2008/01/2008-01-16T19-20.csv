@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+99408,comment,99351,99375,0,0,henning,,,"We're all going to die!!!!!!!!!!!",1200513598
+99407,comment,99255,99255,0,0,samueladam,,,"Unix is sexier than those two ( or four, depends on what you're looking at ).",1200512978
+99406,comment,98686,98686,0,0,zandorg,,,"Did anyone notice this article is from September 2005?",1200512958
+99405,comment,99351,99404,0,0,rms,,,"From a Google news search, this is the only only source. There's nothing here: <a href=""http://www.seti.org/news/"" rel=""nofollow"">http://www.seti.org/news/</a> so this story is worthless.",1200512934
+99404,comment,99351,99351,0,0,kurtosis,,,"Does anyone have a link to more detailed information about the ""signal"" that was detected?  I'm very ignorant of SETI and radio astronomy - what does it mean to ""decode"" such a signal?  What is the evidence that this signal is produced by a civilization, and does not come from a natural source?",1200512660
+99403,comment,98112,98145,0,0,eru,,,"Seems to be part of a general pattern: For most people math is much easier to understand with a $ sign.",1200512293
+99402,comment,99092,99209,0,0,ralph,,,"Not CSP, no, but libraries that bolt onto existing languages, e.g. C, Python.  I'd love to see it become more of a mainstream technique in Python than `import threading', etc.<p>For those that wonder what we're wittering on about, visit <a href=""http://www.cs.kent.ac.uk/teaching/07/modules/CO/6/31/slides/"" rel=""nofollow"">http://www.cs.kent.ac.uk/teaching/07/modules/CO/6/31/slides/</a> and read these PDF slides in this order.<p><pre><code>    motivation.pdf -- just pages 1-39
+    basics.pdf
+    applying.pdf
+    choice.pdf
+    replicators.pdf
+    protocol.pdf
+    shared-etc.pdf
+</code></pre>
+Ignore the crufty Occam (Transputer anyone?) syntax, just concentrate on the concepts.  Although some of the PDFs seem to have many pages, often a page is the same as the previous with a minor change;  they're slides!",1200512291
+99401,comment,99372,99372,0,0,ojbyrne,,,"How is that different from the ""comments"" link? Other than you don't have to login.",1200512231
+99400,comment,99194,99245,0,0,f00bar,,,"Have a look at rsnapshot (rsnapshot.org), a perl wrapper script over rsync. Supports *nix and incremental backups that roll over.",1200512021
+99399,comment,99351,99351,0,0,jkush,,,"I hate being hopeful when I hear this type of news. It's always a big let down.",1200511977
+99398,comment,99194,99266,0,0,eru,,,"Interesting.  Could you elaborate, please?",1200511851
+99397,comment,99194,99194,0,0,damon,,,"Time Machine to a drobo.",1200511477
+99396,story,,,1,0,danw,"The incentive to share",http://blog.soocial.com/2008/1/16/the-incentive-to-share,,1200511467
+99395,comment,99351,99351,0,0,edw519,,,"""Did you say it would take them 3 million years just to get here to destroy us?""<p>""No, maam, I said 3 BILLION years.""<p>""Oh, good.  I feel much better now.""",1200511248
+99394,story,,,1,0,JohnN,"Hot Air? Apple's New Macbook",http://www.scribblesheet.co.uk/article/hot_air_apples_new_macbook,"some of the weaker points of apple's latest product",1200511166
+99393,comment,99267,99267,0,0,wallflower,,,"I've observed co-workers working long days because they don't accomplish much during 9-5. Some people confuse activity with productivity. Quote from Jim Rohn - ""If all you get from your job is a paycheck, you're underpaid"" I think it's hard to do be good at something if you don't like it - I remember near-falling asleep in some boring (to me) subjects - I think some people are awake but asleep at their job.",1200511048
+99392,story,,,2,0,edw519,"What Sun's acquisition of MySQL means for the software industry",http://blogs.cnet.com/8301-13505_1-9851662-16.html,,1200510862
+99391,comment,99255,99363,0,0,mnemonicsloth,,,"Tell it to the lab manager shooting me the dirty looks.",1200510764
+99389,comment,98360,98802,0,0,tjr,,,"Yes, C is another good example.  The language is fairly small, and it's not terribly difficult to learn the language itself and write your own programs.  But to be able to look at an arbitrary piece of C code and understand all of the implications is another matter entirely.<p>This is true of any language to some degree, although some are worse than others, and if the code was purposefully written in some non-traditional way it can be even harder.",1200510706
+99388,comment,99255,99363,0,0,wallflower,,,"I remember seeing The Titanic many years ago when it came out. During the scene where Kate Winslet poses topless for Leonardo, the artist, I was sitting next to a couple with their 8-or-9-ish year old children. It took a couple delayed seconds for the husband to react and shield his kid's eyes. During that time, the kids didn't flinch; the parents eventually did. Perhaps the kids didn't see anything wrong with seeing boobies - but now they associate them with something forbidden.",1200510669
+99387,story,,,1,0,edw519,"NSA Must Examine All Internet Traffic to Prevent Cyber 911",http://blog.wired.com/27bstroke6/2008/01/feds-must-exami.html,,1200510627
+99385,comment,99351,99368,0,0,alaskamiller,,,"our fox affiliate is equally a credible news source as a hackneyed cable news show",1200510255

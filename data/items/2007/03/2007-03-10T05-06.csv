@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3388,comment,2367,2367,0,0,iamwil,,,"I get that it's saying in order to be successful in the field of programming, there's a lot more to get good at other than programming.<p>But can a person really not get better at programming with more practice?  Or is it diminishing returns?  It makes it sound like how good you'll ever be is limited by innate talent, and can't be overcome with hard work.  Others' take on this?",1173505230
+3387,comment,3255,3376,0,0,Tron,,,"I think it's called ""capitalism"".",1173504968
+3386,comment,3264,3333,0,0,arasakik,,,"Why don't you go further and count unique ip's? 
+cut -f2 | sort -u | wc -l
+(Assuming ip is the second field after timestamp in your logs)",1173503969

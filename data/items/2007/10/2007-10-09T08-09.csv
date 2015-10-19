@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+65195,comment,64958,64958,0,0,sharpshoot,,,London,1191920321
+65194,comment,65045,65076,0,0,chaostheory,,,"not everyone in college maybe technical enough at the point to just read the documentation...",1191919926
+65193,comment,65081,65125,0,0,jgrahamc,,,"I do use email as my TODO list, but I publish the length of the queue for all to see.  Makes me deal with stuff just knowing that anyone could be looking.<p><a href=""http://www.jgc.org/blog/2007/06/measuring-my-inbox-depth.html"" rel=""nofollow"">http://www.jgc.org/blog/2007/06/measuring-my-inbox-depth.htm...</a><p>John.
+",1191919231
+65192,comment,65081,65081,0,0,sharpshoot,,,teleport,1191918752
+65191,comment,65081,65081,0,0,yters,,,"Combine email, chat, blogging, etc. into one real time system on facebook.  Everyone's going to want to start communicating there anyways, since the trust network keeps out spamminess.  (I think someone said something similar last time)",1191918731
+65190,comment,65083,65083,0,0,yters,,,"That's cool.  Someone really needs to close the email, chat, blog, etc gap.  They're really all the same thing, just with slightly different purposes in mind.  Collaboration would be so much greater if each wasn't stovepiped into it's own solution.",1191918675
+65189,comment,65081,65103,0,0,yters,,,"Valid point.",1191918534
+65187,comment,63912,65178,0,0,rms,,,"What would that style do, exactly?",1191918350
+65186,comment,65081,65158,0,0,yters,,,"Most UI problems are a lack of interoperability.  All solved with emacs and flat text.",1191918204
+65185,comment,65081,65081,0,0,samueladam,,,"Here's one for a FireFox plugin.<p>The aim is to record articles where you submitted a comment and to be able to track follow-ups.<p>The plugin has to detect HTTP POST.
+It could ask the user if he wants to save the page or have an automated process that removes logins and other unrelated actions.",1191918126
+65184,comment,65063,65141,0,0,dhouston,,,"maybe i'm misunderstanding you, but the question is hypothetical and your response isn't shared anywhere outside the app. (i.e. you're not binding yourself to anything by claiming a particularly high or low valuation)<p>on another note, your company's valuation is determined by what people are willing to pay :)",1191918072
+65183,comment,64943,65042,0,0,jgrahamc,,,"I agree.  I was amazed that she mentioned using version control.   Anyone here not using version control?<p>John.
+",1191918057
+65182,comment,65063,65180,0,0,rms,,,"Welcome to the real world!",1191917994
+65181,comment,65081,65154,0,0,yters,,,"No, not quite, it's missing the pluggable architecture.  It would be analogous to yahoo pipes, but apply to general apps, not just rss feeds.  It'd be kind of like gluing together stuff in *nix, except in a way the web savvy crowd can.",1191917804
+65180,comment,65063,65063,0,0,Xichekolas,,,"I always considered absolute minimum to be about N x 4 x 10^5 dollars (where N is number of founders). This is just because $400k is enough to support my current lifestyle on interest alone, and would allow me that much-dreamt-of freedom from the tyranny of bosses if I choose.<p>The site I'm working on is more niche than broad, so my sale goal is N x 2 x 10^6.<p>However, I think that I am strange in really hoping my site actually generates cashflow once it's up and going, and I don't have to constantly look for funding or an acquirer. ",1191917693
+65179,story,,,13,3,samueladam,"30 Usability Issues To Be Aware Of",http://www.smashingmagazine.com/2007/10/09/30-usability-issues-to-be-aware-of/,,1191917287
+65178,comment,63912,65172,0,0,earthboundkid,,,"Don't make them wrap, just use style=""overflow: scroll"". ",1191917102

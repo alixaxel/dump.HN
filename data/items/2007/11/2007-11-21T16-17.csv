@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+82492,comment,82477,82477,0,0,jraines,,,"The design elements he wants to see replace the web 2.0 look:<p><pre><code>    * Retro-Vintage
+    * Warm Dark Color Palette
+    * Rich Textures
+    * Grunge-Retro Fonts
+    * Rough Edges
+    * Ornaments
+    * Stains
+    * Rich Full Layered Headers
+</code></pre>
+I can't stand most of these.  And boucher is right, they're a lot harder to do anyway.  <p>I think the designs that appeal to me are minimally dressed up stuff, like Hacker News and Socialmoth.  And the appeal is not just the high data-ink percentage, but the fact that it doesn't take that much coding to achieve, and so is elegant conceptually as well as visually.  It does take some thought and skill though, as my own forays into web-design have shown me.",1195664330
+82491,comment,82473,82473,0,0,aston,,,"I assume that was $10 million for more than just Super Wall. RockYou's not poorly positioned in this whole widget/app/gadget/plugin space. Meanwhile, Super Wall is a Facebook developer's boring weekend away from irrelevance.",1195664248
+82490,comment,82337,82371,0,0,mrtron,,,"VC pressure also tends to dictate the decisions your company makes - and this is where I see a lot of problems.",1195663671
+82489,story,,,2,0,darragjm,"RoboDev Talk emphasizes need for more software engineers working in robotics",http://www.youtube.com/watch?v=dCI2XOPXONc&feature=related,,1195663415
+82488,comment,82390,82390,0,0,terpua,,,"I propose Dec 6 at 5pm in Makati",1195663379
+82487,story,,,5,1,r7000,"Pay Me for My Content - creative people and the web",http://www.nytimes.com/2007/11/20/opinion/20lanier.html?ex=1353301200&en=c30184eb5de46606&ei=5090&partner=rssuserland&emc=rss,,1195663317
+82486,comment,82477,82477,0,0,boucher,,,"I think one of the reasons the ""web 2.0 look"" is popular is that it is fairly easy to design.  Basic photoshop skills and a little bit of aesthetics go a long way.  <p>retro-vintage, custom fonts, crazy edges and textures.  These are all pretty difficult for a novice.  I tend to think most startups don't have a lot of time or money to become or hire photoshop/design experts, and probably the majority of hackers aren't experts either.  ",1195663271
+82485,comment,82321,82479,0,0,aswanson,,,"I meant the z-plane not s plane but it doesn't matter.",1195662876
+82484,comment,82321,82321,0,0,aswanson,,,"Guys, you are totally right.  I found a simple, 1st order  counterexample.  This was more an exercise in my wanting to believe it to be true than math.  Sorry to waste your time.",1195662829
+82483,comment,81594,81594,0,0,huherto,,,"I think GWT is very cool. I wouldn't attempt to write a big application in Javascript but I would do it in Java. Not only I am more familiar with Java, but I also appreciate having strong typing as a safenet.",1195662705
+82482,comment,82388,82388,0,0,boucher,,,"The purpose laid out at the beginning of the video was the ease of developing UI code.  But in reality, the author does almost no UI development.  He sets up projects, and then in every case where a UI could be auto generated, uses it verbatim.  <p>Forgiving the overwhelming simplicity of the sample project, the video gives little insight on how difficult it is to modify and fine tune interfaces, with the notable exception of pointing out if they work in ""html editors"".  I do not know a single serious developer who would trust his html to a wysiwyg html editor.",1195662511
+82481,comment,82473,82473,0,0,pius,,,"Of course, Lance is saying that because no one is actually stupid enough to write him a check for $10 million right now.  Not for Super Wall, at least.<p>Most Facebook-only apps are in absurdly precarious business positions: they're features, not products, they've got a low barrier to entry for competitors, and they exist at the whim of a shrewd, aggressive company with a history of ""incorporating"" applications on its platform <i>into</i> its own product with little regard to the developers who created them.",1195662434
+82480,comment,81999,82224,0,0,marvin,,,"And besides, the Facebook deal was ""only"" 200 million dollars. If Facebook tanks tomorrow, that is a small loss for a large business event. As others have pointed out, the numbers today are small by 1999-standards.",1195662413
+82479,comment,82321,82422,0,0,willchang,,,"[A real polynomial P is said to be stable if all its roots lie in the left half-plane.](<a href=""http://mathworld.wolfram.com/StablePolynomial.html"" rel=""nofollow"">http://mathworld.wolfram.com/StablePolynomial.html</a>)<p>What's your definition of stable?",1195662033
+82478,comment,82321,82446,0,0,pixcavator,,,"He probably meant that the sequence of partial sums should be stable, as a whole.",1195661989
+82477,story,,,23,24,pius,"How to Destroy the Web 2.0 Look.",http://www.snap2objects.com/2007/11/20/how-to-destroy-the-web-20-look/,,1195661916
+82476,story,,,1,0,terpua,"Nov. 21, 1905: It Was a Very Good Year, If You Were Einstein",http://www.wired.com/science/discoveries/news/2007/11/dayintech_1121,,1195661726
+82475,comment,80035,81934,0,0,pchristensen,,,"peter at pchristensen dot com. It's in my profile too",1195661666
+82474,story,,,1,0,plusbryan,"Phone controlled gaming on jumbotron (Dan Albritton's ""secret"" project)",http://www.springwise.com/gaming/phonecontrolled_gaming_on_a_ju/,,1195661437
+82473,story,,,4,11,fleaflicker,"""If you told me you were going to write me a check for $10 million, I'd say, 'Forget it'""",,"--Lance Tokuda, the chief executive of RockYou, which developed the ""Super Wall"" Facebook application.<p>I have a difficult time seeing the value in an application that can be developed by a first-year computer science student in one weekend.<p>Also, if Facebook ever decided to enhance their Wall feature, Super Wall would become obsolete. (Facebook would never cannibalize its highest profile developers like this. At least not yet.)",1195661142

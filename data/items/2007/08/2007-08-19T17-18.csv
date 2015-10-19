@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+44111,comment,43352,43913,0,0,mariorz,,,"so you don't believe advertising works on the web?",1187546155
+44110,story,,,11,1,bokonist,"Reminder: Cambridge news.ycombinator.com meetup tonight, 7PM",,"For those of you who missed the message the first time, this is a second posting.  We're doing a meetup tonight at the 1369 Coffee Shop in Central Square, Cambridge, MA.<p>Sunday, August 19th at 7 PM 
+1369 Coffee House in Central Square 
+757 Massachusetts Ave. Cambridge, MA 02139<p>A bunch of people have said they are coming, so it should be a good time.",1187545989
+44109,story,,,3,0,mariorz,"Tips on scaling on the FB Platform",http://www.flickr.com/photos/agentdero/sets/72157601461292940/,"by R. Tyler of Slide",1187545623
+44107,comment,43949,44048,0,0,wmf,,,"A $100/month dedicated server probably doesn't have RAID 10 or other server-class features, but it will probably have more CPU capacity than a $100/month VPS. As virtualization software improves, I expect the advantages of VPSes to increase.<p>If anyone knows of a particularly good provider, I'm willing to add it to the database. I just added Prgmr.com since they appear to be cheap and hacker-friendly.",1187545149
+44106,comment,43949,43949,0,0,joe,,,"Just a note concerning the <$20/month table, which is all I've looked at thus far: VPSLink's platform is Virtuozzo.<p>And I can't speak for any of their other services, but their $7.95/month service SUCKS.",1187544716
+44105,story,,,13,7,jyrzyk,"Scientists hail ""frozen smoke"" as material that will change world",http://www.timesonline.co.uk/tol/news/uk/science/article2284349.ece,,1187544370
+44104,story,,,2,0,farmer,"Latest Genealogy Tools Create a Need to Know",http://www.nytimes.com/2007/08/18/business/18genealogy.html?ex=1345089600&en=0373f83588a4292a&ei=5090&partner=rssuserland&emc=rss,,1187544215
+44103,story,,,1,0,farmer,"That Yawn After Lunch Is Perfectly Normal",http://www.nytimes.com/2007/08/19/business/yourmoney/19career.html?ex=1345176000&en=7526afdb30658149&ei=5090&partner=rssuserland&emc=rss,,1187544156
+44102,comment,44096,44096,0,0,pg,,,"It would make life complicated for a startup to have a lot of small shareholders.  Especially if they weren't accredited investors by the legal definition.",1187544042

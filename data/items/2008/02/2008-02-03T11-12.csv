@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+108627,story,,,1,0,danw,"What Freshmen Don't Know",http://www.insidehighered.com/news/2006/08/23/frosh,,1202039091
+108626,comment,108489,108489,0,0,TheWama,,,"I was going to launch pre-Railsconf and maybe recruit there, but this gives me an extra week or two of leeway... and hopefully filters out the corporate types, so I'm sold!",1202038995
+108625,comment,108433,108433,0,0,tig,,,"PHP:<p><pre><code>  if ($S['foo']) echo ""you said {$S['foo']}"";
+  elseif (PtoS('foo')) link('said','click here');
+  else form('foo');
+</code></pre>
+For me, making programs short is not a design goal. But if it would, I would do it like above. My framework then would include this functionality:<p><pre><code>  S[] contains all session variables
+  P[] contains all posted variables
+  PtoS copies an entry from P to S. Returns false if P was not set.
+  link() prints a link
+  form() shows a form with the given fields. target is the current url.</code></pre>",1202038512
+108624,story,,,9,0,danw,"Worldometers - real time world statistics",http://www.worldometers.info/,,1202038308
+108623,comment,108559,108559,0,0,cawel,,,"I really enjoyed that one. I'd be grateful if you'd could suggest some  important ""classics"" readings about this issue: free as the new paradigm.",1202037692
+108622,comment,108115,108557,0,0,cousin_it,,,"Thanks! What would you do next if you were me?",1202037459
+108621,comment,108517,108517,0,0,motoko,,,"so fluffy",1202037375
+108620,comment,108589,108589,0,0,motoko,,,"This just off the newsreels:<p>Gattaca HQ, USA: Crew member dies of heart condition on Titan Mission, investigation pending",1202037303
+108619,story,,,1,3,doubledouble,"Ask YC: Taking a job with a startup",,"Before taking a job with a startup, what are some questions you should ask them?  Also, how can you tell that they're not going to go under in a few months?<p>What generally happens when startups run out of money?  I assume they get bought out for pennies or liquidate their assets.<p>I searched a bit and found a few websites that answered this, but I think they were more geared towards companies with IPOs as exit strategies versus smaller web companies hoping to either turn a profit or get bought out.",1202037021
+108618,comment,108115,108603,0,0,cousin_it,,,"Yes, Photosynth was the inspiration, but I managed to avoid the stages of image analysis and 3D reconstruction =)<p>The main problem right now is non-intuitive interface. It's hard to predict where the camera will go when you click. Working on it.",1202036875

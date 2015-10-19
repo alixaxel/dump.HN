@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81161,comment,81093,81131,0,0,aston,,,"This code was written when the software industry looked very different. Particularly, the teams were super tiny, and cleverness won out over code clarity every time due to the relatively weak computation power that was readily accessible. I would have been surprised to hear that any of the dirty/genius hacks found in apps written in the 80's and early 90's was well documented.<p>That good sqrt code made it into Quake 3 from previous codebases is also not surprising. If it ain't broke...",1195372588
+81160,comment,81123,81123,0,0,kyro,,,"Good Eats",1195372419
+81159,comment,81123,81123,0,0,randallsquared,,,Dexter,1195372073
+81158,comment,81032,81032,0,0,RyanJG,,,"Looks too much like Digg. Is that what you are going for?
+",1195371941
+81157,comment,80662,81155,0,0,randallsquared,,,"You're arguing with the guy that wrote the book, _ANSI Common Lisp_.  Just a comment. :)",1195371919
+81156,story,,,1,0,bootload,"Oliver Sacks Observes the Mind Through Music",http://www.npr.org/templates/story/story.php?storyId=16110162,,1195371298
+81155,comment,80662,80839,0,0,sohail,,,"Oh come on, Common Lisp isn't <i>that</i> complicated...",1195371141
+81154,comment,81123,81123,0,0,jey,,,"The Daily Show with Jon Stewart<p>Arrested Development",1195371118
+81153,comment,81129,81129,0,0,rms,,,"It's still better than Firefox 2, I can't go back.",1195369406

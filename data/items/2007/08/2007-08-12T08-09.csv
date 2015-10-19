@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41646,comment,41609,41609,0,0,zurla,,,sell!,1186908344
+41645,comment,41609,41609,0,0,rms,,,"Might as well ask for $750...",1186908268
+41644,comment,41612,41641,0,0,staunch,,,"I think his point was that it's not really very much of the functional code. It's basically the little piece that pulls in  whatever's appropriate for each page. The libraries might have 50k LOC while the individual pages are a few dozen lines.
+",1186907323
+41643,comment,41565,41565,0,0,portLAN,,,"The problem with giving someone a default high score based on what they've done in the past is it devolves into a type of ""appeal to authority"" fallacy where deference is because of who someone <i>is</i>, as opposed to what someone is <i>now saying</i>.  Trivial, offhand remarks by an authority figure are given greater weight than insightful, useful posts by an unknown.  Even worse, out-and-out mistakes by the highly karmic come with an official stamp of karmic approval -- the whole system is prejudicial by design.<p>If your goal is to create a system that <i>reflects</i> people's typical judgement, then this works, because people make all sorts of logical errors.  If, however, you are aiming for a meritocracy, judging each post on its own worth without regard to <i>who</i> said it (except when identity is actually applicable), the correct approach is to have a swarm of AIs reading everything and assigning points based on content. [1]<p>
+[1] Implementing the correct approach is left as an exercise for the reader.
+",1186907252

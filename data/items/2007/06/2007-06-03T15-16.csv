@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26138,story,,,4,2,abstractbill,"Amp'd Mobile (loopt competitor) burns $360 million, declares bankruptcy",http://www.techcrunch.com/2007/06/02/ampd-mobile-implodes-burns-360-million-declares-bankruptcy/,,1180884837
+26137,comment,26134,26134,0,0,gibsonf1,,,"It's nice to see SBCL Common Lisp tying for top speed honors with C :)<p><a href=""http://news.ycombinator.com/comments?id=26136"" rel=""nofollow"">http://news.ycombinator.com/comments?id=26136</a>  
+",1180884821
+26136,comment,26135,26135,0,0,gibsonf1,,,"Impressive, SBCL (Common Lisp) is at the top of the heap :), tying with C for top speed.  We've been experiencing incredible speed with SBCL on our streamfocus.com app.",1180884745
+26135,story,,,10,9,gibsonf1,"SBCL Lisp, Ruby, Io, PHP, Python, Lua, Java, Perl, Applescript, TCL, ELisp, Javascript, OCaml, Ghostscript, and C Fractal Benchmark",http://www.timestretch.com/FractalBenchmark.html,,1180884688
+26134,story,,,23,16,Sam_Odio,"Java faster than C",http://paulbuchheit.blogspot.com/2007/06/java-is-faster-than-c.html,,1180883661
+26133,comment,26124,26124,0,0,tyohn,,,"This seems like a panacea for tailored advertising or big brother ~ you decided.  Ok, so I join/register for a web 2.0 web site (or any web site) and of course I give them my name, address, email, etc. and for fun let's say they grab my browser history.  Now they could gather information about me by doing a Google search and of course every time I revisit the site they could re-gather my browser history ~ put all that info into an ever growing database and now you have the ability to tailor advertisements.  Come to think of it maybe I should start a site that does this ~ anyone want to help :)",1180883399
+26132,comment,26091,26103,0,0,gibsonf1,,,"But completely worth reading.",1180882923

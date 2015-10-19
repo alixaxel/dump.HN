@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32399,story,,,2,0,bootload,"WHATWG community (nextgen dev of html & related tech to write/deploy web apps)",http://www.whatwg.org/,,1183514373
+32398,comment,32362,32362,0,0,donna,,,"Really good points, thank you.  I'm curious, you walked out, but do you know if the start-up ever launched?",1183514180
+32397,comment,32362,32395,0,0,staunch,,,"<i>...why purely engineer-driven start-ups fail: no business sense.</i><p>I'm not sure how you managed to draw that conclusion. His bonus point is that the CTO didn't even do work, that's hardly engineer-driven. And they had a Stanford MBA, who was apparently a drain during product development.<p>
+Most successful technology startups are engineer-driven. Google is the ultimate example of just how far a couple engineers can go without any ""business sense"".<p>",1183513712
+32396,story,,,7,1,brett,"Apple Developer Connection - iPhone for Web Developers - Optimizing Web Applications and Content for iPhone",http://developer.apple.com/iphone/designingcontent.html,,1183513433

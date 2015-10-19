@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26414,story,,,3,1,natrius,"Insecurity is Ruby on Rails Best Practice",http://ianloic.com/insecurity_is_ruby_on_rails_best_practice,,1181036490
+26413,comment,26334,26334,0,0,jaggederest,,,"There is something kinda funny about the numbers. I would expect to see more like 30-30-30 for founders, with 10 options pool. Maybe these are post-dilution numbers.",1181035239
+26412,story,,,20,15,natrius,"Kawasaki: How I wasted $12,107 on Truemors",http://www.mathewingram.com/work/2007/06/04/kawasaki-how-i-wasted-12107-on-truemors/,,1181035070
+26411,story,,,1,0,rms,"Open Source Web OS reaches version 1.0",http://www.eyeos.info/eyeOS/,,1181034842

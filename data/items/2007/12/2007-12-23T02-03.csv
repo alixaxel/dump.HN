@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92127,comment,92100,92100,0,0,lanej0,,,Sure--profile.,1198377209
+92126,comment,91911,91911,0,0,JulianMorrison,,,"People have suggested languages, but I think they (and you!) are missing out the most fundamental first step. What do you want to achieve! You need to make a high level overview of what your site will do, and from that sketch out a rough mid-level idea of the technologies you will need in the implementation. Then ask which languages have libraries or built-ins which facilitate your design. And only then, pick amongst the languages which are still in the running.<p>It's hard to learn a new language, but it's harder to write a library/binding for video frame decoding, if your favored language doesn't already have one.",1198375498
+92125,comment,92092,92109,0,0,icky,,,"Or in any country that's signed the Berne Convention.",1198375393
+92124,comment,92048,92048,0,0,fogus,,,"It's not spam.  The first paragraph is typical blog babble...
+-m",1198375310

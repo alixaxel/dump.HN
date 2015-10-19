@@ -1,0 +1,72 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+565061,comment,562824,563555,0,0,rbanffy,,,"Yes, but compiling for several hours? Even on my Bondi-blue iMac compiles don't take long enough.<p>On my Atom-based netbook, compiles don't even increase fan activity.<p>And why would that be related to a dual-head setup?<p>That's something seriously wrong going on here.",1239886688
+565060,comment,565045,565045,0,0,sivers,,,"From the book ""How to Get Rich"" - by Felix Dennis (worth about $1 billion):<p>""To become rich, you must be an owner, and you must try to own it all.   You must strive with every fiber of your being, while recognizing the idiocy of your behavior, to own and retain control of as near to 100% of any company as you can.""<p>""Never never never hand over a single share of anything you've created or acquired, if you can help it. Nothing. Not one share, to no one, no matter what the reason, unless you genuinely have to.""<p>""Ownership is the only thing that counts.""",1239886656
+565059,comment,564032,564831,0,0,pierrefar,,,"For starters, it only works with the Desktop folder, not any other folders. Personally, I like to keep my Windows desktop very tidy and so having the power of BumpTop is useless.<p>It would be great if BumpTop can navigate the full drive and directory tree using the cool features of BumpTop without resorting to Explorer and without being tied to the desktop.",1239886646
+565058,comment,564768,564835,0,0,anamax,,,"> and at least half of this is from ads<p>What is the other half from?  Do facebook users pay for applications?  Are users buying services?  (I can see a travel agent service.)",1239886626
+565057,story,,,1,0,AlleyRow,"Shutdown of Wikia Search proves empty rhetoric of collaboration",http://www.guardian.co.uk/technology/2009/apr/16/wikia-search-seth-finkelstein,,1239886554
+565056,comment,564532,564845,0,0,EvilTrout,,,"Choosing a new salt that isn't easily obtainable in a flash applet would certainly help :)",1239886506
+565055,comment,563962,563962,0,0,rarestnews,,,"Does it even worth researching? To simplify - provider (let's say Amazon) spends A dollars to build and support data center and makes B dollars profit. It charges you A+B.<p>DIY cost is very close to A (if you're talking datacenter scale).<p>A+B > A",1239886300
+565054,story,,,5,0,Anon84,"[pdf] Solving Maximum Flow Problems on Real World Bipartite Graphs ",http://www.siam.org/proceedings/alenex/2009/alx09_002_negruserin.pdf,,1239886211
+565051,comment,564998,564998,0,0,utx00,,,"google cal has reminder emails, but it's a bit more of a hassle to setup.",1239885990
+565050,comment,565045,565045,0,0,brk,,,"Equity equation...<p>You should give them a vested share amount equal in proportion to the amount of value you feel they will add to the company.  This is usually a variable range (and it varies), but something along the lines of:
+  Every new developer adds .25% of value to the company minimum.  Higher caliber people in the same position will add .35% of value.  So your equity range, per developer, will be .25%-.35% (in this example).",1239885975
+565049,story,,,1,0,mtw,"Website Response Times tips: guide on how to make your website Fast",http://blog.iweb.com/en/2009/04/website-latency-tips-and-the-path-to-faster-and-scalable-websites/2395.html,,1239885955
+565048,comment,564032,564831,0,0,cubicle67,,,"I have 1.6 million files on my computer at the moment. Not sure how they'd map to bumptop. Even just photos; all the demos I've seen limit files to only a dozen or so. How would you manage a few thousand photos?",1239885940
+565046,comment,564998,564998,0,0,maryrosecook,,,"Good implementation.<p>You could cut the text on the homepage way down - the complexity of the instructions is incongruous with the simplicity of the system.  You could dump all the text I've put in square brackets:<p>[Hi!  Thanks for contacting 3mindMe.com, here are some instructions to get you started:]<p>Quick reference:
+    help@3mindme.com    - Emails you back this information
+    <when>@3mindme.com  - Emails you at <when>
+    echo@3mindme.com    - Emails you at the <when> specified in the Subject:<p>Quick examples:
+    tomorrow@3mindme.com        - Emails you in 24 hours
+    5pm@3mindme.com             - Emails you at today 5pm (in your timezone) 
+    5pmPSTtomorrow@3mindme.com  - Emails you tomorrow at 5pm PST
+    2days@3mindme.com           - Emails you in 48 hours<p>What does 3mindMe.com do?
+Basically, we're a gateway to your future self: email us anything, and we'll mail it back to you at a future time and date of your choosing.<p>[How much does it cost?
+Nothing!  This is just a fun project for me.]<p>[put this on a separate page]
+What's new? (updated 2008/5/3)
+Hooray, the first update not for timezones!  Unfortunately, it's for spam.  Luckily, I did something really tricky, so I'm hoping it won't be a problem...  If you do get any spam via 3mindme, let me know.
+[/put this on a separate page]<p>How do I use 3mindMe.com?
+There are two primary ways:
+- Email <when>@3mindme.com and your email will be reflected back to you at whatever time or date you specify.
+- Email echo@3mindme.com and it'll be sent back to whatever time is set in the Subject line<p>[What do you mean by ""<when>""?]
+You can construct your <when> in three steps:<p>[1) Ask yourself ""When you want your email sent back to you?""]<p>2) Write that down just as you'd say it out loud, for example:
+    friday
+    tomorrow noon
+    next tuesday at 5pm PST
+    2 weeks
+    5 minutes before January 1st 2008<p>3) If you're emailing echo@3mindme.com, you're done!  Just put that on the Subject: line of the email and send it, and it'll be sent back to you at the time and day you picked.  For example, you could make the subject:
+    5 minutes before January 1st 2008: Get champagne, quick!!<p>4) Alternatively, just take all the spaces out and stick @3mindme.com on the back, and mail to that.  For example, the above ones would be converted to:
+    friday@3mindme.com
+    tomorrownoon@3mindme.com
+    nexttuesdayat5pmPST@3mindme.com
+    2weeks@3mindme.com
+    5minutesbeforeJanuary1st2008@3mindme.com<p>[put this on a separate page]      
+Do you store my mail?
+Only as long as it takes to deliver it.  After it's sent back to you, the mail is deleted.
+[/put this on a separate page]<p>[What's with the crappy name?
+Ya, 3mindMe.com doesn't exactly roll off the tongue, but all the good names were taken.  Please don't hesitate to email me suggestions at dbarrett@quinthar.com.]<p>[put this on a separate page]
+Who are you?
+I'm David Barrett, and you can read more about me at <a href=""http://quinthar.com"" rel=""nofollow"">http://quinthar.com</a>, or just email me at dbarrett@quinthar.com.
+[/put this on a separate page]<p>[Thanks for using 3mindMe.com, and enjoy!]<p>[-david]",1239885808
+565045,story,,,13,15,dmytton,"Ask HN: How much equity do you give to employees?",,"When working out employee share scheme, how much equity should be given to each employee? How is this best calculated in proportion to the overall available share capital, founders capital, etc.",1239885728
+565044,comment,564625,564625,0,0,rbanffy,,,"Actually, newer 737's have emergency exits that swing open outwards. They are probably locked into position, but not by the pressure, so, I guess, it would not be that difficult to pop them open.<p>Most A320's I ride have the plug-type emergency exit that would be rather difficult to open mid-flight.",1239885718
+565043,story,,,1,0,bdfh42,"Computer science in JavaScript: Linked list",http://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/,,1239885600
+565042,comment,564998,565033,0,0,RiderOfGiraffes,,,"I imagine they receive your email, extract the requested time, create the reply, then store the outgoing email in a cron-like outgoing batch system. Then at the appointed time your email is sent back from their system.  Emails are usually prompt, and they probably assume a flight time of seconds.<p>If I'm right then the system will work pretty well almost all the time.  It's a simple but great/fun idea.  Their ability to interpret times may be taken from something like the *n?x ""at"" command, but it looks quite nice.<p>Don't rely on this working to sub-minute accuracy, though.  Email flight times can be significantly longer when things go wrong.<p>But I like it - I may well be using this.",1239885440
+565041,story,,,5,0,bscofield,"An Introduction to Progressive Caching",http://www.culann.com/2009/04/progressive-caching,,1239885412
+565040,comment,564901,564901,0,0,edw519,,,"<i>There a lesson here; if you invent a sensational, high tech product, don’t invite competitors to come and have a good look at it.</i><p>Does that still apply?  How about to software?",1239885310
+565039,comment,564226,564411,0,0,lena,,,"There is a good book about why parents matter, that addresses Harris's ideas: Hold on to Your Kids by Gordon Neufeld, a clinical psychologist. See: <a href=""http://www.gordonneufeld.com/book.php"" rel=""nofollow"">http://www.gordonneufeld.com/book.php</a>",1239885105
+565038,comment,564863,564863,0,0,swombat,,,"This is a pretty good example of why asking people to write code in an interview is a pretty poor way to measure their fitness for the job...",1239885083
+565036,comment,564350,564967,0,0,brk,,,"I'm curious then, what do YOU see as their road to profitability?  And at this stage, I would say ""profitability"" should mean being able to pay a return to the investors in a timely manner and becoming a stand-alone company.",1239884921
+565035,comment,564659,564696,0,0,yummyfajitas,,,"If the pirates restricted their activity to illegal fishing boats and boats dumping industrial waste you would have a point.",1239884758
+565033,comment,564998,564998,0,0,greyman,,,"How can they reliably ensure that an email will arrive at certain time? Does email protocol support this? (just asking)",1239884668
+565032,story,,,1,0,dreamz,"2-day pocket MBA from B-schools",http://timesofindia.indiatimes.com/Business/2-day-pocket-MBA-from-B-schools/articleshow/4409198.cms,,1239884646
+565028,comment,564660,564791,0,0,yef,,,"That's like saying ""Thomas Edison didn't go to college, so nobody should be excited about going to college"".<p>YC is in the business of creating entrepreneurs, which I'd expect most people here would agree is a noble (and profitable) cause. You don't have to read the interview writeups if you don't want to. :)",1239884016
+565027,comment,564625,564859,0,0,reitoei,,,"> About five years ago, I managed to read all of Everything2<p>It would probably take you a few years to read all of e2. There are currently 442,874 writeups. 5 years ago there were much more. Place has changed a lot. Doesn't have the same sense of community and freedom as before. Shame really, as it was a great place to hang out. I've made some lifelong friends thought e2.",1239883974
+565026,story,,,10,2,techdog,"Does workflow always have to suck?",http://asserttrue.blogspot.com/2009/04/does-workflow-always-have-to-suck.html,,1239883876
+565025,story,,,11,5,clofresh,"In Defense of Pirates (The Old Time Ones)",http://www.npr.org/templates/story/story.php?storyId=102961315,,1239883709
+565024,story,,,1,0,waderoush,"Polaris backs MIT prof's solar hydrogen device",http://www.xconomy.com/boston/2009/04/16/polaris-venture-partners-backing-mit-chemist%E2%80%99s-%E2%80%9Csolar-fuel%E2%80%9D-startup/,,1239883684
+565023,comment,564684,564684,0,0,queensnake,,,"You wonder whether you get out any more than the creators put into it.",1239883649
+565022,comment,564660,564978,0,0,coffeemug,,,"Access helps. But one thing I've realized is that everyone (well, almost everyone) is knowable if you're willing to make the effort. A little confidence, and a little intelligently done networking will open most doors you're looking for. YC is a great opportunity, but this is a good thing to keep in mind regardless of whether you get in. They can only give you so many shortcuts. Eventually, you'll have to do the heavy lifting yourself.",1239883649
+565021,comment,564998,564998,0,0,maneesh,,,"cool---could this be a decent substitute for iwantsandy?",1239883334
+565020,comment,563949,564988,0,0,mhashim,,,"Thanks for sharing. Thats my greatest fear and the only way to avoid falling into that pitfall is to have a deal that you can measure too without relying on their data.",1239883320
+565019,comment,564955,564955,0,0,zcrar70,,,"The comparison of Ruby's Hash and Array classes to Java's collections API is not very relevant - first of all, the graph is from 1999 (there are more classes now), and secondly, Java's collections API does cover quite specific use cases which Ruby's Hash and Array classes don't (e.g. concurrent access.)<p>In Java, you could also always use List or HashMap without thinking about Sets, Trees, or weak references, but that's not the point; the Java collections API isn't an alternative to 'should I use Hash or Array', the use cases for the two APIs are completely different.",1239883298
+565018,story,,,1,0,dwynings,"When You Are A Public Company Without Being Public",http://www.avc.com/a_vc/2009/04/when-you-are-a-public-company-without-being-public.html,,1239883255

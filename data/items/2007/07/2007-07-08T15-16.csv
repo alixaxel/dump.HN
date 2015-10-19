@@ -1,0 +1,37 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33097,comment,33071,33071,0,0,rzwitserloot,,,"Unfair comparison.<p>First things first, his java skills are rusty. Here's how a real java programmer would write this. Does the exact same thing as his final java sample; it's just less than half the size:<p><pre><code> import java.util.HashSet;
+ import java.util.Random;
+ import java.util.Set;
+ public class BDays {
+	public static void main(String[] args) {
+		int people = Integer.parseInt(args[0]);
+		int days = 365;
+		int sampleSize = 1000;
+		int total = 0;
+		
+		Random random = new Random();
+		
+		for ( int k = 0 ; k < sampleSize ; k++ ) {
+			Set<Integer> s = new HashSet<Integer>();
+			for ( int i = 0 ; i < people ; i++ ) s.add(random.nextInt(days));
+			if ( s.size() < people ) total++;
+		}
+		
+		System.out.println(total);
+	}
+ }
+
+</code></pre>
+secondly: Regarding the manual import writing and compiling stuff, well, I'll try and put this nicely: That's masochistic. Download jEdit, Eclipse, NetBeans, IDEA, or any other java programming environment other than 'notepad' and 'cmd', and you no longer need to compile anything, just hit F11 or CMD+R or similar, and you'll see your results right away. Note that in the above sample, the first 5 and last 2 lines were generated completely automatically by my IDE (Eclipse), so in practice we're talking about just 5 lines of actual code. The rest is generated or setup stuff.<p>thirdly: To optimize this code, you could stop generating birthdays the moment there's an overlap. Doing this in the K example is more complicated than the java example, in java you'd change the line 's.add(Random.nextInt(days))' to:<p><pre><code>  if ( !s.add(Random.nextInt(days)) ) break;
+</code></pre>
+that's all you need to do. In K, by using the _draw shortcut (A method that exists in a number of mathemetically oriented add-on libraries, by the way) you lose that flexibility.<p>Between the cartoon swearing I actually like the java code better.<p>Java could certainly use more functional stuff and there are legitimate arguments to be made for adding something to your toolbox (I suggest Scala; compiles to JVM so you can mix and match java and scala at will). However, these trivial examples invariably have archaic java compared to state of the art $OTHER_LANGUAGE. These straw man comparisons are thus pointless exercises as no actual java programmer would ever be convinced by this kind of thing. They'd just blame to horrible quality of the java example.<p>
+",1183909907
+33096,comment,363,32914,0,0,notabel,,,"On that note, you might take a glance at the lightweight concurrency paper; it proposes a new concurrency runtime for GHC, basically moving most of the implementation into Haskell, with just a thin layer of primitives in the RTS.  Interestingly, those primitives don't include locks, but instead a very minimal transactional memory.<p><a href=""http://research.microsoft.com/~simonpj/papers/lw-conc/index.htm"" rel=""nofollow"">http://research.microsoft.com/~simonpj/papers/lw-conc/index....</a><p>(The paper is also notable for giving a complete operational semantics of the system it discusses.)<p>(But this stuff isn't in GHC mainline, and won't be, for now, because it needs serious performance work first.)",1183909506
+33095,story,,,2,0,nickb,"Social Bookmarking Showdown",http://www.wired.com/techbiz/it/news/2006/11/72070,,1183909233
+33094,story,,,2,0,nickb,"16 Best-Loved Font Bits In Web Design",http://www.inspirationbit.com/16-best-loved-font-bits-in-web-design/,,1183909113
+33093,story,,,6,8,nickb,"Amazon EC2 + S3 Doesn't Cut it for Real Applications",http://www.25hoursaday.com/weblog/2007/07/04/AmazonEC2S3DoesntCutItForRealApplications.aspx,,1183908872
+33092,story,,,1,0,nickb,"Unreal Soccer (written in JavaScript using the canvas element)",http://henrikfalck.com/unrealsoccer/,,1183908266
+33091,comment,32919,32994,0,0,willarson,,,"I don't really think that not gaining access to the iPhone would be particularly devastating to Adobe or Microsoft. MS in particular has sufficiently large pockets to weather inconvenient storms. The computer based market will remain vastly larger than the phone based market. I don't have real numbers off hand, but lets assume 5% of web views are via cellphones, thus if we reach your 5% number for iPhone penetration then perhaps 0.25% of web views would be on an iPhone. I just can't see numbers that small being decisive.",1183907575
+33090,comment,33074,33074,0,0,petercooper,,,"Not a bad read, although I wonder what reality some of these writers live in. If we look at startup participation / entrepreneurism amongst, say, people under 30 years of age, is the percentage really that high on a national scale? If even 1% of 18-30 year olds are opting to run startups instead of getting a job, I'd be surprised (although I'd love some numbers!)",1183907482
+33089,story,,,2,2,gibsonf1,"Will Google Acquire Facebook? (A win for all parties concerned including Myspace and Yahoo?)",http://publishing2.com/2007/07/07/will-google-acquire-facebook/,,1183907475
+33088,comment,33030,33030,0,0,willarson,,,"In a similar vein, the blockquote really needs to have some surrounding white space, as it is it is really crowded. Oh, and you should just give up and write your own blog software, its better than way. :)",1183907110

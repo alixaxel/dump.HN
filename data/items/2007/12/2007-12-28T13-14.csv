@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93191,comment,93174,93174,0,0,staunch,,,"I can't think of any silly comments from my code right now, but I have a new one for you :-)<p><pre><code>  # ...your computer really doesn't care if you seperate the password from the nonce with a dash; it's a computer, not a 2nd grade teacher[1]
+  echo 'MD5(): ' . md5(date('ymdHis', time()) . 'password-is-yummy-salty-safety-' . $pw);
+</code></pre>
+1. <a href=""http://www.matasano.com/log/958/enough-with-the-rainbow-tables-what-you-need-to-know-about-secure-password-schemes/"" rel=""nofollow"">http://www.matasano.com/log/958/enough-with-the-rainbow-tabl...</a>",1198849990
+93189,story,,,2,0,DarrenStuart,"YC Dashboard widget",http://darrenstuart.com/post/22537718,"I couldn't find a YC hacker news widget for dashboard so I knocked this one up in dashcode. Let me know what you think. Hope someone finds it useful  :p",1198848463
+93188,story,,,1,0,terpua,"Did Alexander Graham Bell Steal Phone Technology?",http://mobilecrunch.com/2007/12/27/did-alexander-graham-bell-steal-phone-technology/,,1198847960
+93187,comment,63009,63009,0,0,burcak,,,"""Knowing that risk is on average proportionate to reward, investors like risky strategies, while founders, who don't have a big enough sample size to care what's true on average, tend to be more conservative.""<p>I don't think that's the only reason founders want to keep risk low. <p>The most important reason is that money has diminishing effect on happiness. People want to be able to guarantee a ""moderate"" life. What comes beyond that is not as important basic needs.",1198847569
+93186,comment,93164,93164,0,0,sarosh,,,"Out of curiosity, did you consider Quickbooks (the business edition)? Or is the structure/funding of your startup very peculiar?",1198847086

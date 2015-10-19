@@ -1,0 +1,118 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+856709,comment,856317,856317,0,0,brandnewlow,,,"Interesting article on a veterinary site in which one person accuses Yext of ripping her off while a few others tout pretty impressive ROI from using it.<p><a href=""http://news.vin.com/VINNews.aspx?articleId=13851"" rel=""nofollow"">http://news.vin.com/VINNews.aspx?articleId=13851</a><p>""Dr. Randy Wiltshire reported in a VIN discussion that he’d used YextVets for six months, and during that time, was directed 67 new clients from the site, for which he paid Yext a total $2,345 in advertising fees. Those clients, in turn, spent $9,100 in his practice.""<p>So if he paid $2,345 for 67 calls, Yext was charging him $35/call.  That's a pretty nifty digit.",1254477594
+856707,comment,856317,856692,0,0,10ren,,,"The purpose is to get customers for the businesses. The startup supplies phone calls to the local business (i.e. potential customers). The local business pays for the calls, but they don't have to pay for junk calls.<p>The purpose of recognizing the nature of the call is to determine whether they need to be paid for; not to protect the business from junk phone calls.",1254477469
+856706,story,,,21,28,yarapavan,"Geeks Try Google Wave, Have Mixed Feelings",http://www.readwriteweb.com/archives/google_wave_reactions.php,,1254477437
+856704,comment,856301,856547,0,0,9oliYQjP,,,"While this is a particularly nasty situation, absolutely off-the-wall meltdown behaviour like this is actually pretty common in startups when things start going bad. Anyone remember the meltdown between the partners in the documentary Startup.com (<a href=""http://www.imdb.com/title/tt0256408/"" rel=""nofollow"">http://www.imdb.com/title/tt0256408/</a>)? I think most people at least have the wherewithal not to air the dirty laundry out in public.<p>It's just another risk and potential downside to partnering with someone in business. Everybody's done something at least a little bit crazy and out-of-character when a romantic relationship has hit the rocks. Maybe you did something innocent but pathetic like burning compilation CDs (i.e. Nick and Norah's Infinite Playlist). But we've all heard of the crazy girlfriend who dumps her (now ex-) boyfriend's stuff in front of the house after catching him cheating. Business partnerships aren't all that different. Really they involve the same levels of emotional attachment and passion.<p>It's important to try to assess the behaviours that a potential partner reverts to when under stress. For programmers, that might be shutting the world out and ignoring calls/emails rather than facing the music when there's a disagreement over deliverables. For non-programmer business-types, that might be writing and re-writing business plans and coming up with rather dreamy fantasy plans rather than actually getting deals done. These particular cases I think are the more common revertive behaviours (for lack of a known proper term) for programmers and business types. They're also behaviours that tend to drive the other party in such a partnership absolutely bonkers.<p>You definitely don't want someone who reverts to a temper tantrum like this guy from fundable. To be fair to him, this is most likely a sad case of both partners having individual meltdowns simultaneously.",1254477306
+856702,comment,856317,856317,0,0,10ren,,,"Let me try to understand this:<p>1. ""pay per action"" is paying for a qualified lead, as opposed to a raw lead (which could be anything, e.g. even a wrong number).<p>2. Doing it with phone calls (as opposed to clicks on online ads, or emails etc), because that is how many businesses and their customers contact each other. e.g. gyms, vets, car repairs.<p>3. Doing it for local businesses.<p>The technical achievement of speech recognition is significant. I like his point that because the speech is interpreted relative to a specific business type, the domain is highly specialized, and so the task of recognizing the particular terms of that domain is much easier. I've been impressed by automatic speech recognition for telephone directory lookup - for me, it works 90% of the time; and that's out of the whole phone book, not restricted to a domain. I guess this is an example of ""speech recognition"" is still not good enough in general, but it's good enough in specific roles.<p>The next step after ""pay per action"" would be ""pay per sale"", which Google can do when you use both their adwords and their payment facility (I don't know how well that's working).<p>Anyone care to correct my misunderstandings, or elaborate on these points?",1254477255
+856700,comment,856669,856669,0,0,drusenko,,,"The title needs renaming.<p>(Currently is ""Bad News"")<p>[edit: I didn't think the story deserved to ""die"", just for the title to be renamed]",1254476990
+856699,comment,856546,856546,0,0,jgrahamc,,,"I thought the GFW worked by sending a RST to any TCP connection that it didn't like.  If you ignore the RST then the connection goes ahead.  Has that changed?<p><a href=""http://www.cl.cam.ac.uk/~rnc1/talks/060628-Ignoring.pdf"" rel=""nofollow"">http://www.cl.cam.ac.uk/~rnc1/talks/060628-Ignoring.pdf</a>",1254476940
+856698,comment,856627,856673,0,0,cperciva,,,"I sometimes solve this problem with<p><pre><code>    > Stuff I'm responding to...
+
+    My response to stuff...
+
+    ==== Original message follows ====
+    All the original content, including stuff I copied
+    and responded to at the top of the message...
+</code></pre>
+This has the disadvantage that it creates two copies of the text I'm responding to; but in cases where I'm responding to one or two lines out of a much larger email (but where having the entire email copied can provide helpful context) it seems a small price to pay.",1254476930
+856697,comment,855245,855245,0,0,FreeRadical,,,"It's nice to see an alternative view for a change.",1254476910
+856696,comment,856586,856586,0,0,tybris,,,"> Internet Relay for real-time messaging<p>It seems like they have an IRC channel and the editor thinks it is something really fancy. Maybe we should have told more people about IRC at some point.",1254476895
+856695,comment,856669,856669,0,0,FreeRadical,,,"I don't understand why this is getting voted up :/",1254476752
+856694,comment,856558,856558,0,0,BSousa,,,"First, thank you for all the tips. They are indeed appreciated.<p>I don't overwork, actually, I have flexible work schedule so these last days I'm actually underworking since it is very hard to concentrate (I'm a programmer) when I don't have much sleep and thoughts keep coming to my mind which distract me from my job (boss knows about it and he's being supportive but his patience can only go so far).<p>Unfortunately, this rump is mostly due to external factors I can't really change, only try to accept them as best as I can, but still wreaks havoc on my job which I need to pay the bills.",1254476682
+856693,comment,856546,856582,0,0,SickAnimations,,,"What does ""3 POC"" mean? I'm interested in learning about methods that don't require a 3rd party.",1254476677
+856692,comment,856317,856317,0,0,trin_,,,"i dont get it ... how do they help the businesses with the junk calls with transcribing and categorizing them? it seems to me that those junk-callers call anyway.",1254476400
+856691,comment,856558,856558,0,0,xcombinator,,,"I agree with most advice here:<p>a)Do Meditation and relaxation, yoga, self help books, fill your mind holes.
+b)Exercise regularly, this is important, if one day you don't have time to run, just go out and run for 5 minutes, but don't stop.
+c)Talk with friends about it.<p>For the kind of work I do, just putting myself to work won't help, e.g if I broke with my gf I can't help but I will be 85 per cent of my time thinking about her, or if someone of my family dies(my mind just says: F*CK THAT stupid work thing, this is more important!!.<p>Only when I solve the issues, I'm free, just look at Graham Chapman funeral:
+<a href=""http://www.youtube.com/watch?v=fsHk9WC7fnQ&feature=player_embedded#t=260"" rel=""nofollow"">http://www.youtube.com/watch?v=fsHk9WC7fnQ&feature=playe...</a>",1254476249
+856690,comment,853818,853818,0,0,donaq,,,"What's ""usual CS trivia""? And does relocation assistance include people outside the states?",1254476226
+856689,comment,856242,856507,0,0,nostrademons,,,"You didn't learn to watch where you're going?  I'd think that'd be a rather valuable lesson...",1254476208
+856688,story,,,63,45,DanielBMarkham,"I don't like you very much",http://www.whattofix.com/blog/archives/2009/10/i-dont-like-you.php,,1254476075
+856687,story,,,1,0,chanux,"Kid Who Sued Amazon Wins, Kindle Now Safer Place for Your Books.",http://gizmodo.com/5372522,,1254475904
+856686,comment,854739,854984,0,0,yu,,,"Thank you for pointing that out. The choice of a single source file is a great C feature. The author appears to have started from a few hundred lines in 2006. Grew that 10x, to a few thousand. Curses/ ncurses bring back good memory of various mail and news readers. I bet a few of you tried curses/ ncurses. IMO, character user interface has its efficiency; prefers CUI to icon bars, ribbons, etc.",1254475855
+856684,comment,856377,856447,0,0,mseebach,,,"Mount the whole thing on the top of a broomstick with a switch on the bottom. Walk, set the stick down (activating the switch), hold it still, waiting 8 seconds (maybe the PC could make a sound when the capture is complete), and walk on. You could map out a reasonably sized neighborhood in an afternoon.",1254475584
+856683,comment,856558,856558,0,0,woadwarrior01,,,"When I was going through something like this, I was just coding like there's no tomorrow. It almost felt like I'd turned into a bot. This lasted for some 2-3 months or so after which things came back to normal. Looking back, it feels like its better to drown yourself in work rather than brood over your circumstances.",1254475417
+856682,comment,856558,856558,0,0,imperator,,,"All of our comments may work for us, but there will be something that works for you, and that will have to do with putting whatever is out of balance for you back into a place so you can be healthy, happy and focused.<p>I find meditation relaxes me enough and gives me a sense of calm that is good enough to address both the personal problems and the work. Mainly this occurs because as my mind settles, I am more able to address the issues one at a time.<p>Good luck, you will move beyond this! Have hope :)",1254475313
+856680,comment,855773,855773,0,0,Tichy,,,"There seems to be a lot of speculation involved. And what was the point of the randomly inserted ""sex for food"" paragraph? My respect for National Geographic just went down several notches.",1254475284
+856679,comment,856051,856051,0,0,Plugawy,,,"Been through some changes lately - this is the trimmed down of my .gvimrc (MacVim).
+    "" window settings
+    set lines=70
+    set columns=200
+    set fileencoding=utf8<p><pre><code>    set incsearch
+    set ignorecase
+    set hlsearch
+    
+    "" make the status line more useful
+    set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%04l,%04v]
+    set nocompatible
+    
+    "" backspace mode
+    set bs=2
+    
+    "" highlitt current line and add line numbers
+    set cursorline
+    set number
+    
+    "" yummy
+    set guifont=Monaco:h11.00
+    
+    "" turn off the scrollbars and the rest of the crap
+    set guioptions=eg
+    
+    
+    """"set foldenable
+    """"set foldmethod=indent
+    filetype plugin on
+    filetype on
+    
+    "" autoindenting
+    set cindent
+    set smartindent
+    set autoindent
+    
+    "" display improvements
+    set list
+    "" show indents
+    set listchars=tab:\.\ ,trail:-
+    set ruler
+    set showcmd
+    "" i use tabs instead of spaces, wanna make something of it?
+    set noexpandtab
+    set tabstop=4
+    set shiftwidth=4
+    set softtabstop=4
+    
+    "" temp files
+    set backupdir=~/.vim/bak
+    set directory=~/.vim/tmp
+    "" colorz
+    syntax on
+    colorscheme herald "" molokai, zenburn, darkburn, vibrantink
+    
+    "" PLUGINZ
+     "" allml settings
+    let g:allml_global_maps = 1
+    let g:HiMtchBrkt=1
+    let g:SCMDiffCommand=""/opt/subversion/bin/svn""
+    
+    inoremap <C-B> <ESC>:call PhpDocSingle()<CR>
+    nnoremap <C-B> :call PhpDocSingle()<CR>
+    vnoremap <C-B> :call PhpDocRange()<CR> 
+    
+    "" PHP specific fixes
+    "" highlights interpolated variables in sql strings and does sql-syntax highlighting. yay
+    autocmd FileType php let php_sql_query=1
+    "" does exactly that. highlights html inside of php strings
+    autocmd FileType php let php_htmlInStrings=1
+    "" discourages use oh short tags. c'mon its deprecated remember
+    autocmd FileType php let php_noShortTags=1
+    "" settings for cake
+    au BufNewFile  *.ctp set filetype=php
+    au BufRead *.ctp set filetype=php</code></pre>",1254475036
+856678,comment,856541,856541,0,0,patio11,,,"<i>Although open source appears to be gaining a little traction in Japan, the country isn't typically associated with open source technology.</i><p>That tells you a lot about people doing the associating, but not necessarily so much about Japan.  For what its worth: its a big country, with all sorts of big companies in it.  (And small companies, too.)  I work in Big Freaking Enterprise Web Applications.<p>We use more OSS than you can shake a stick at.",1254474960
+856677,comment,855963,855963,0,0,radu_floricica,,,"Pretty new to emacs, so my first move was to make it more familiar and avoid breaking my fingers:<p>;; Switch buffer<p>(global-set-key [f5] 'buffer-menu)<p>;; Save and load<p>(global-set-key [f2] 'save-buffer)<p>(global-set-key [f3] 'find-file)<p>;; Compile file<p>(global-set-key [f9] 'slime-compile-and-load-file)<p>;; Goto line<p>(global-set-key ""\M-l"" 'goto-line)<p>;; Go to other window<p>(global-set-key (kbd ""<C-tab>"") 'other-window)<p>;; And probably the most useful one, numpad Enter for eval line:<p>(global-set-key (kbd ""<kp-enter>"") 'slime-eval-last-expression)",1254474938
+856676,story,,,4,0,mjfern,"Evidence of Apple's tablet-like input interface reappears",http://www.appleinsider.com/articles/09/10/01/evidence_of_apples_tablet_like_input_interface_reappears.html,,1254474861
+856675,comment,856377,856377,0,0,ZeroGravitas,,,"The OpenStreetMap project does stuff like this:<p>They've just started stitching together aerial shots from small planes into flat ""satellite"" images that they can trace map features from. (Yahoo also lets them trace some of theirs, and the bought some for coverage in Palestine but this lets them fill in the gaps):<p><a href=""http://www.cloudsourced.com/2009/09/22/openstreetmap-takes-to-the-skies-above-stratford/"" rel=""nofollow"">http://www.cloudsourced.com/2009/09/22/openstreetmap-takes-t...</a><p>Flickr just announced that you can associate photos with streets, buildings etc in openstreetmap via machine tags:<p><a href=""http://code.flickr.com/blog/2009/09/28/thats-maybe-a-bit-too-dorky-even-for-us/"" rel=""nofollow"">http://code.flickr.com/blog/2009/09/28/thats-maybe-a-bit-too...</a><p>There is an OpenStreetView but they've only just started, not much more than a domain:<p><a href=""http://openstreetview.org/"" rel=""nofollow"">http://openstreetview.org/</a>",1254474833
+856673,comment,856627,856627,0,0,RiderOfGiraffes,,,"I concede that scrolling through pages and pages of previously seen text on a small device, ony to get to the one new line that says ""Yup - I'm on it!"" is a strong argument for deprecating bottom posting.<p>However, it's an even stronger case for applying some common sense in quoting.  Why should you quote page after page after page, when quoting the subject, one line of context, and then your one new line, is not only enough, but time saving and preferable?<p>The answer is obvious - people are simply too lazy.<p>There is a less obvious (to me) answer. If it all goes horribly wrong, you can't be blamed if you didn't cut.  If you quoted everything, you've covered your six.<p>For most people the combination of making sure youdon't get the blame <i>and</i> not having to think is simply irresistable.<p>Yup, long and pointless quoting is here to stay.  Anyone with a workable replacement will have an overnight success, even if it takes 10 years to come.",1254474277
+856672,comment,856242,856471,0,0,wallflower,,,"> Failure is about self-reflection.<p>> Failure is about initiative to learn and look back at the story.<p>Two gems. Thank you - I'm going to have to borrow these next time I discuss failure. About the second - do you have any tips on making your perception more learning based?",1254474158
+856671,comment,856223,856443,0,0,pavs,,,"I was thinking the same thing. As a matter of fact, my next project (in few months) will be collaborated on wave. The twitter ""bot"" also removes the need to rely on a twitter client for updates. With open API the concept of one interface for all clients makes it very interesting to me.<p>I don't remember the last time I was excited about about a web app, like I am with wave.",1254474151

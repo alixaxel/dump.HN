@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+277747,story,,,1,0,tomh,"The Priorities of a Venture Capitalist",http://www.feld.com/blog/archives/2008/08/the_priorities.html,,1218898794
+277746,story,,,13,6,bd,"Reformat the Planet: documentary about the Chiptune scene",http://pitchfork.tv/week/reformat-the-planet/chapter-01,,1218898741
+277745,story,,,4,2,tomh,"Wisdomap: Simple Mind Maps",http://webworkerdaily.com/2008/08/15/wisdomap-simple-mind-maps/,,1218898547
+277744,story,,,3,0,tomh,"LeadVine: Targeted Business Networking",http://webworkerdaily.com/2008/08/15/leadvine-targeted-business-networking/,,1218898462
+277743,comment,277183,277277,0,0,hugh,,,"Where's this paranoia coming from? Do you really live in a world where the police are the thing that stops ten-year-olds from reading Calculus textbooks?",1218898367
+277742,story,,,10,26,tomh,"Why The MMORPG Subscription-Based Business Model Is Broken",http://gigaom.com/2008/08/16/why-the-mmorpg-subscription-based-business-model-is-broken/,,1218898192
+277741,comment,276688,277344,0,0,chrisbroadfoot,,,"5 minutes per frame",1218898190
+277740,comment,277570,277570,0,0,Giorgi,,,"Our group has already submitted something like that... let's see...",1218898180
+277738,comment,277529,277630,0,0,hugh,,,"Please, no politics. If I wanted to read a forum where every thread was used as an excuse for off-topic Bush-bashing I'd read.... well, pretty much any other forum in existence.",1218898094
+277737,story,,,1,0,mankins,"Make music special again: 1 album per day",http://misterchane.blogspot.com/2008/08/focus.html,,1218898090
+277736,comment,276761,277038,0,0,chrisbroadfoot,,,"<i>At my local polls, the semiannual elections contain ballots for 5 or six different districts (federal, state, county, town, school district, fire district, police district) as well as referendums on several tax proposals and even things like road improvement projects.</i><p>The reason that doesn't happen in Australia is because state and federal elections cannot be held on the same day.",1218898036
+277735,story,,,1,0,Giorgi,"Quickly put data from MySQL to the Web with DrasticGrid",http://www.linux.com/feature/144534,,1218897940
+277734,comment,276959,277437,0,0,olavk,,,"BTW. the HTML is not valid XML so your example is a bit misleading. The P-elements contain the paragraphs rather than delimit them. The XML would be more verbose since it needs end-tags for P:<p><pre><code>    <p>Note that you would also need to gzip your 
+    s-expressions if you are concerned about size.</p>
+</code></pre>
+The s-expr OTOH would be more confusing, because there isn't a clear distinction between element-name and content:<p><pre><code>    (p Note that you would also need to gzip your 
+    s-expressions if you are concerned about size.)
+</code></pre>
+You might want to choose a different syntax to make the distinction clearer:<p><pre><code>    (p ""Note that you would also need to gzip your
+    s-expressions if you are concerned about size."")</code></pre>
+or:<p><pre><code>    ((p) Note that you would also need to gzip your
+    s-expressions if you are concerned about size.)
+</code></pre>
+In the end, you have to make some of the same trade-off decisions that the designers of SGML and XML did. Just saying that s-expressions are simpler than XML is like saying ASCII is simpler than s-expressions: True, but kind of missing the point.",1218897906
+277733,comment,277252,277593,0,0,tstegart,,,"People are jumping in and getting press as we speak: <a href=""http://www.techcrunch.com/2008/08/16/great-review-site-for-iphone-apps/"" rel=""nofollow"">http://www.techcrunch.com/2008/08/16/great-review-site-for-i...</a><p>:)",1218897871
+277732,comment,277716,277729,0,0,Maro,,,"Well, cloud computing is definitely a buzzword, but it's far from being out - check out some SIGMOD 2008 papers.",1218896825
+277731,comment,277313,277313,0,0,plusbryan,,,"How much you wanna bet some disgruntled eng snuck that bug in?",1218896532
+277730,comment,277718,277722,0,0,MisterMerkin,,,Whitelisting.,1218896449
+277729,comment,277716,277716,0,0,axod,,,"When a buzzword looks like it may fail, add on another buzzword!!<p>Cloud computing = out.<p>P2P cloud computing = in! yey",1218896245
+277728,comment,277258,277258,0,0,khill,,,"When I see something like this, my first thought is, ""I wonder how easily this could be hacked so I could display whatever picture I wanted on random people's photo frames?""",1218895629

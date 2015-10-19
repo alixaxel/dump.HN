@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83485,comment,83483,83483,0,0,jakewolf,,,"I'd rather get dollars from my blog and lucrative work opportunities than pennies from digg.",1196052619
+83483,story,,,3,4,amichail,"Ask YC:  Why bother with a blog if social news sites were to provide user rss feeds and profit sharing?",,"Social news sites should provide some sort of profit sharing so that you would get money from advertising associated with your contributions.  Also, you should have rss feeds for user submissions so that one could subscribe to users as is done with blogs.",1196051886
+83482,comment,83359,83479,0,0,omouse,,,"I had completely forgotten about BDB, thanks for the reminder!",1196051787
+83481,comment,83429,83429,0,0,noonespecial,,,"Check ebay for the next week or so. You might be able to buy it back!",1196050852
+83480,comment,83348,83397,0,0,geebee,,,"But you still haven't addressed the main objection here: that you're comparing two different undertakings.  You've compared writing a small app in a high level language with learning a natural language.  You could have just as easily said it isn't as hard as proving fermat's last theorem, or writing a novel, or composing a symphony.  Thsse things also have a few elements in common with writing a short script in a high level language.  But these comparisons don't mean a thing.  <p>",1196050463
+83479,comment,83359,83359,0,0,henning,,,"This cries out to be implemented with Berkeley DB, which is simply much faster than relational databases.",1196050171
+83478,comment,82629,82741,0,0,imsteve,,,"yeah I read that comment as the opposite.",1196049738

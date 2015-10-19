@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+39664,story,,,9,4,jcwentz,"The Rich Are Willing to Take Risks",http://www.nytimes.com/2007/08/05/technology/05rich-mcclure-web.html?em&ex=1186459200&en=bfcce4dcea6a1207&ei=5087%0A,,1186365556
+39663,story,,,5,0,nickb,"When Not to Normalize your SQL Database",http://www.25hoursaday.com/weblog/2007/08/03/WhenNotToNormalizeYourSQLDatabase.aspx,,1186365429
+39662,comment,39611,39657,0,0,staunch,,,"You overestimate the skill required to create most of these sites. They're usually following some very simple rules. Most are inspired by the style of 37 Signals. Nice fonts, gradients, and pastel colors.<p>Most of what makes these sites seem so nice is that they're familiar and ""modern web 2.0"". Scribd is very Diggish for example.<p>Inkscape is like magic for creating nice logos, if you keep it simple. Truly <i>anyone</i> can do it. Use a color scheme tool like <a href=""http://kuler.adobe.com/"" rel=""nofollow"">http://kuler.adobe.com/</a>. Don't invent a totally unique design, imitate someone at first.<p>Anyone who can code well can easily reproduce nice simple site designs. Overcoming the ""I can't design"" mental block is the hardest part. Becoming a real design master takes a lot more effort obviously.
+",1186365357
+39661,story,,,1,0,nickb,"""Mainstream"" anti-virus is finally dead",http://chuvakin.blogspot.com/2007/04/answer-to-my-antivirus-mystery-question.html,,1186365124
+39660,story,,,1,0,nickb,"CSS Preprocessor - Take 2 (using Gm4 to preprocess CSS!)",http://blog.roberthahn.ca/articles/2006/06/24/css-preprocessor-X-take-2,,1186365002
+39659,story,,,2,0,nickb,"Fast CGI that isn't FastCGI",http://blog.ianbicking.org/2007/08/03/fast-cgi-that-isnt-fastcgi/,,1186364888
+39658,story,,,3,0,nickb,"Parallel Python Review: In a Nutshell: Wow! ",http://www.devchix.com/2007/08/03/parallel-python-review-in-a-nutshell-wow/,,1186364423
+39657,comment,39611,39611,0,0,bkrausz,,,"As an engineer with no design skills, that's the hardest part in getting together a team...I can't find a good designer.  I may be able to pump out an amazing site, but if it looks like crap no one is going to use it.<p>It sucks not being a jack of all trades (then again, I'd hate to be a master of none...)
+",1186364269
+39656,comment,39610,39654,0,0,paul,,,"Nope, I left town on the 26th. Also, I never got off at the Kendall station.",1186364212
+39655,story,,,11,23,abstractbill,"Paul Buchheit:  What does it mean to own a ""right""?",http://paulbuchheit.blogspot.com/2007/08/what-does-it-mean-to-own-right-was.html,,1186363998
+39654,comment,39610,39644,0,0,dfranke,,,"I think it was on Friday, July 27, which I guess is technically two weeks ago.  Were you in Cambridge then?",1186363203

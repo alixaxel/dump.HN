@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+289979,story,,,1,0,bootload,"Nominum clobbers DNS cache poisoning vulnerability ",http://www.itwire.com/content/view/20319/53/,,1220007517
+289978,story,,,1,0,astrec,"NASA hacker faces extradition within three weeks",http://www.out-law.com//default.aspx?page=9387,,1220007311
+289976,story,,,22,4,iamelgringo,"Python SMS API:  Zeep Mobile ",http://zeepmobile.com/,,1220007229
+289975,story,,,4,2,astrec,"Target Settles Accessibility Lawsuit for $6 Million",http://www.sitepoint.com/blogs/2008/08/29/target-settles-accessibility-lawsuit-for-6-million/,,1220007212
+289974,comment,289023,289509,0,0,shiranaihito,,,"I smell a positive response to the article :p<p>The problem is that there have been lots of articles like this floating around, during the past year for example, and every time the central theme is ""We're So Special"".<p>It's getting old.",1220007137
+289973,comment,289961,289961,0,0,pistoriusp,,,"Shockingly disgusting... I'm incredibly embarrassed, imagine trying to convince your boss that you should be using jQuery.",1220007064
+289971,story,,,1,1,bootload,"Two basic ways how to work on computer",http://www.baum.com.au/petr/blog/01194140580,,1220006816
+289970,comment,289961,289961,0,0,ionfish,,,"How absolutely ghastly. I'm not sure which I hate more: the copy, the style or the illustration.",1220006765
+289969,comment,289023,289502,0,0,shiranaihito,,,"Saying you've had several ""exceedingly beautiful"" girlfriends is just pointless among programmers on the Internet.<p>We can't really prove it either way, but us being programmers and all, it's just exceedingly unlikely.",1220006521
+289968,comment,289864,289864,0,0,streety,,,"I can't find any further details on this claim.  It wouldn't surprise me if it was true but benchmarks really do depend on the details.  I want more info.<p>Skipping over the use of ""Hello World!"" in benchmarks is anyone actually surprised by this?  Frameworks aren't a silver bullet.  I don't think they were ever meant to be, especially when it comes to performance.  There is nothing stopping you from going in to the framework code and optimising it or even taking functionality over to C++ if that's what you want.",1220006467
+289967,comment,289784,289850,0,0,pmjordan,,,"I suspect ""my post it note"" implies only <i>one</i>, which is hard to notice and hardly cheating, more of a kind of safety blanket. (you don't have to stress about forgetting what to say, which makes you less nervous and less likely to forget it in the first place)<p>A lot of people seem to write a stack of index cards with what they want to say, remember the first half of their talk, get stuck, and fidget around frantically trying to get back on track.<p>Glad to hear it went well for everyone!",1220005792
+289962,comment,289869,289869,0,0,pmjordan,,,"I don't know what it is, but there's something unbelievably cool about helicopters.<p>That is all.",1220005319
+289961,story,,,49,62,danw,"Be a JavaScript Rockstar (jQuery site redesign)",http://jquery.com/#,,1220005278
+289960,comment,289487,289585,0,0,jauco,,,"<p><pre><code>  Annual income twenty pounds, annual expenditure nineteen six, 
+  result happiness. 
+  Annual income twenty pounds, annual expenditure twenty pound ought and six, 
+  result misery.
+</code></pre>
+-- Charles dickens, david copperfield",1220004639
+289959,comment,289911,289911,0,0,sh1mmer,,,"This is article is based on a new book ""Closing the innovation Gap"" <a href=""http://www.theinnovationgap.com/"" rel=""nofollow"">http://www.theinnovationgap.com/</a> .<p>As far as I can see she is saying that VCs are too focused on short term returns and are being too timid, causing the downturn in innovation.<p>This argument seems similar to the PG vs DHH debate.",1220004561
+289958,comment,289903,289941,0,0,colinplamondon,,,"Or maybe, just maybe, when you get a significant amount of politicians and political staffers into a single city there tends to be some sex going on.<p>Shock?",1220004478
+289957,story,,,2,0,lmacvittie,"Google GMail: The Lawn Darts of the Internet",http://devcentral.f5.com/weblogs/macvittie/archive/2008/08/29/3571.aspx,,1220004441

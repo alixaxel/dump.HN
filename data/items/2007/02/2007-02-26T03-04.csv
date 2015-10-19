@@ -1,0 +1,3 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1115,comment,1007,1069,0,0,jadams,,,"I heard a rumour that each instance is 6MB of source code, alone!",1172460749
+1114,comment,1043,1049,0,0,dangrsmind,,,"I&#39;d say I&#39;m a little skeptical.<p>The first question I&#39;d have is how fast they can parse video.  The second is how much it costs to do it. <p>It seems you would have to be able to do recognition much faster than real-time for a realistic web video search capability (see for example http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=599600) and you would certainly need a lot of hardware to do this at scale for millions of video clips.<p>See also: http://www.newmediamusings.com/blog/2005/09/blinkx_a_citize.html",1172458856

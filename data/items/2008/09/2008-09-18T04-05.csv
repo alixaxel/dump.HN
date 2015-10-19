@@ -1,0 +1,86 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+307895,comment,307071,307804,0,0,mynameishere,,,"It was a straighforward dictionary hack--her password was ""popcorn"".",1221713912
+307894,comment,307584,307613,0,0,tomjen,,,"He specifically points out that you should encrypt your emails.",1221713768
+307893,story,,,1,0,brett,"The No Dialog and Some Observations",http://ricksegal.typepad.com/pmv/2008/09/the-no-dialog-and-some-observations.html,,1221713532
+307892,comment,307805,307880,0,0,chrysb,,,"Minimum valid test sounds cooler.",1221713373
+307891,comment,306947,307699,0,0,beaudeal,,,"Sorry EastSmith, by updated I meant includes the interview with Jessica - Thanks so much for the information, pg!",1221713235
+307890,comment,307733,307882,0,0,blogimus,,,"One late night thought: something that could come out of this that is peer-to-peer, loosely interpreted, would be to have online peer groups to pool together resources to get better insurance rates, basically create your own social network group plan.",1221713181
+307889,comment,305191,307674,0,0,helveticaman,,,"I can't find examples of companies going through voluntary liquidation (what Michael Dell recommended Apple do in 1997).  It's hard to find tech companies that pay dividends.<p>Adobe, for instance, is in the perfect position to pay dividends.  It is a group of cash cows that might suddenly get destroyed by new market entrants.  They're putting the money in a vault [1], but they're not paying dividends [2].<p>The problem, as I see it, is that companies refuse to admit they're dying.  It's the weirdest thing.<p>[1] <a href=""http://finance.google.com/finance?q=adbe"" rel=""nofollow"">http://finance.google.com/finance?q=adbe</a>
+[2] <a href=""http://sec.edgar-online.com/2008/04/04/0001047469-08-004108/Section11.asp"" rel=""nofollow"">http://sec.edgar-online.com/2008/04/04/0001047469-08-004108/...</a>",1221713167
+307888,comment,307722,307855,0,0,hs,,,"i use this for email:<p>/[-\.\\w]*@\\w+(\.\\w+)+/",1221713163
+307886,comment,307640,307640,0,0,danielrhodes,,,"Probably a good investment. The Bible was the last crowd sourced book and it was a huge bestseller.",1221712933
+307885,comment,307738,307810,0,0,BrandonM,,,"They are certainly more sensible than having Serena Williams or Lebron James tell us that they use Vista. Who cares? They also drive luxury vehicles that I will never afford. Just because some celebrity uses a product doesn't mean I should.<p>I agree with you. At least these ads are entertaining and make Microsoft seem less evil. Suddenly ending them will look downright stupid.",1221712919
+307884,comment,307743,307743,0,0,auston,,,"Duplicate?<p><a href=""http://news.ycombinator.com/item?id=305371"" rel=""nofollow"">http://news.ycombinator.com/item?id=305371</a>",1221712911
+307883,story,,,2,0,chaostheory,"""We have lost control"" - Bernanke","http://www.chicagotribune.com/business/chi-wed_oilsep17,0,4833605.story",,1221712747
+307882,comment,307733,307862,0,0,evgen,,,"Yes, this one is a serious can of worms to be opening.  In addition to the points you raise there is also the issue of re-insurance and regulation.  If you can't get someone to cover your obligations if the odds come out against you then this is a non-starter, this is where re-insurers come in out in the real worlds and they aren't going to deal with a scheme this small so you will need something else to back your gambles.  The insurance market is also heavily regulated because people actually depend on the services and  the government sometimes ends up on the hook when these companies fail.<p>To be completely honest, I can't see any way that this would A) be allowed to operate as a legal business, or B) not face some catastrophic failure down the line that actually hurts real people.",1221712699
+307881,comment,306933,307606,0,0,BrandonM,,,"I always was under the impression that it opened up the advertiser to civil suits for false advertisement, but I have never heard anything saying that it was illegal. Of course, I have no expertise on the matter.",1221712649
+307880,comment,307805,307805,0,0,ALee,,,"This post answers the thread earlier today about what to build, how to plan for future users, etc.<p>Again: We at JamLegend call it the minimum valid test. Others call it core features, but it's what you need to get a prototype to market.",1221712359
+307879,comment,307172,307401,0,0,webwright,,,"That growth references traffic, I believe.  But by many other accounts they are growing rapidly.  I don't think spam/porn is a HUGE problem yet, tho I've seen more following me (@webwright) lately.<p>I've also heard that their API traffic is 20-30x their web traffic, so when you see their web graphs, that's worth pondering.",1221712222
+307877,story,,,4,4,jgalvez,"Anyone using Lua to deploy web apps?",,"I would think C/Lua + Libevent is a kick-ass setup for the lightest and fastest web server ever made. I am considering using it for writing lightweight APIs, imagine if you could run many processes of a tiny API web server in the cheapest kind of EC2 slice.",1221712106
+307876,comment,307722,307722,0,0,BrandonM,,,"The first tip is okay, but the latter 4 are just horrible. Any decent language will have libraries for parsing HTML or e-mails addresses. A regex is sure to come up short and be very fragile.<p>I once had to maintain some screen-scraping code that was written in Python using regular expressions. By the time I inherited it, half of the functionality no longer worked. It would have been much better off using a library like BeautifulSoup, both in terms of development time and maintainability.<p>BeautifulSoup alone takes care of REs 2 and 3, and there are standard libraries in Python that take care of 4 and 5. Why reinvent (less robustly, I might add) the wheel when a simple API already exists in many languages?",1221712073
+307875,comment,307838,307867,0,0,adldesigner,,,"Agreed.<p>That being said, it is nice to sometimes read something just for the sake of daydreaming about a nicer world -completely unworkable like you said- but entertaining nonetheless.",1221711979
+307874,comment,307627,307627,0,0,mynameishere,,,"Fail. Not one crunchy.<p><a href=""http://www.catb.org/jargon/html/M/math-out.html#crunchly73-05-18"" rel=""nofollow"">http://www.catb.org/jargon/html/M/math-out.html#crunchly73-0...</a>",1221711908
+307872,comment,307722,307855,0,0,briansmith,,,"Don't use regular expressions for those things if you can avoid it.<p>See <a href=""http://www.regular-expressions.info/email.html"" rel=""nofollow"">http://www.regular-expressions.info/email.html</a>.<p>My URL (IRI) validation regex is a very complicated work in progress and depends on being post-processed by a Python function to handle Unicode characters outside the BMP. It has hundreds of lines of unit tests (not shown):<p><pre><code>  unreserved = ur'(?:[A-Za-z0-9\-\._~]|%s)' % ucschar
+  pct_encoded= ur'%[0-9A-Fa-f]{2}'
+  sub_delims = ur""[!$&'()*+,;=]""
+
+  pchar      = r'(?:%s|%s|%s|[:@])' % (unreserved, pct_encoded, sub_delims)
+
+  dec_octet   = ur'(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])'
+  ipv4address = ur'%s\.%s\.%s\.%s' % (dec_octet, dec_octet, dec_octet, dec_octet)
+  h16         = ur'(?:[0-9A-Fa-f]{1,4})'
+              # 16 bits of address represented in hexadecima
+  ls32        = ur'(?:%s:%s|%s)' % (h16, h16, ipv4address)
+              # least-significant 32 bits of address
+  ipv6address =   ( u'(?:' +                    ur'(?:h16:){6}ls32'
+                  + u'|' +                    ur'::(?:h16:){5}ls32'
+                  + u'|' +              ur'(h16)?::(?:h16:){4}ls32'
+                  + u'|' + ur'((?:h16:){0,1}h16)?::(?:h16:){3}ls32'
+                  + u'|' + ur'((?:h16:){0,2}h16)?::(?:h16:){2}ls32'
+                  + u'|' + ur'((?:h16:){0,3}h16)?::(?:h16:){1}ls32'
+                  + u'|' + ur'((?:h16:){0,4}h16)?::ls32'
+                  + u'|' + ur'((?:h16:){0,5}h16)?::h16'
+                  + u'|' + ur'((?:h16:){0,6}h16)?::'
+                  + u')'
+                  ).replace(u""h16"", h16).replace(u""ls32"",ls32)
+  ipvfuture   = ur'v[0-9A-Fa-f]+\.(?:%s|%s|:)+' % (unreserved, sub_delims)
+  ip_literal  = ur'\[(?:%s|%s)\]' % (ipv6address, ipvfuture)
+
+  scheme     = ur'(?:[A-Za-z][A-Za-z0-9+\-\.]*)'
+
+  userinfo   = ur'(?:%s|%s|%s|:)*'   % (unreserved, pct_encoded, sub_delims)
+  reg_name   = ur'(?:%s|%s|%s)*'     % (unreserved, pct_encoded, sub_delims)
+
+  host       = ur'(?:%s|%s|%s)' % (ip_literal, ipv4address, reg_name)
+  port       = ur'[0-9]*'
+  authority  = ur'(?:(?:%s@)?%s(?:\:%s)?)' % (userinfo, host, port)
+  segment    = ur'%s*' % pchar
+  segment_nz = ur'%s+' % pchar
+
+  path_abempty  =          ur'(?:/%s)*'    % (            segment)
+  path_absolute = ur'(?:/(?:%s(?:/%s)*)?)' % (segment_nz, segment)
+  path_rootless =     ur'(?:%s(?:/%s)*)'   % (segment_nz, segment)
+  path_empty    = ur''
+  hier_part  = ur'(?://%s%s|%s|%s|%s)' % (authority, path_abempty, path_absolute, path_rootless, path_empty)
+  private    = ur'[\ue000-\uF8FF]' # see replaceSurrogatePairs for handling of non-BMP chars
+  query      = ur'(?:%s|[/?]|%s)*' % (pchar, private)
+  fragment   = ur'(?:%s|[/?])*'    % (pchar)
+
+  iri        = ur'%s:%s(?:\?%s)?(?:#%s)?' % (scheme, hier_part, query, fragment)
+
+  segment_nz_nc = ur'(?:%s|%s|%s|@)+' % (unreserved, pct_encoded, sub_delims)
+  path_noscheme = ur'(?:%s(/%s)*)' % (segment_nz_nc, segment)
+  relative_part = ur'(?://%s%s|%s|%s|%s)' % (authority, path_abempty, path_absolute, path_noscheme, path_empty)
+  relative_ref  = ur'(?:%s(?:\?%s)?(?:#%s)?)' % (relative_part, query, fragment)
+
+  iri_reference = ur'(?:%s|%s)' % (iri, relative_ref)</code></pre>",1221711456
+307871,comment,307738,307783,0,0,unalone,,,"Microsoft doesn't need to be talked about. They're the leading brand.<p>What they need is a change in reputation. These commercials don't help.",1221711358
+307870,comment,307854,307854,0,0,netcan,,,"<i>The courses are nearly identical to what’s offered to enrolled Stanford students, according to the University. However, those taking courses through SEE are not eligible to receive Stanford credit for them.</i><p>Are traditional universities the way education can be made freely available?",1221711346
+307869,comment,307864,307864,0,0,noodle,,,"my rule of thumb, that i would apply to this situation, is <i>keep it simple</i>.  if you want to optimize, test both options in your own app.  i don't think that one can generalize this situation to say for sure which option is faster or better without also having the context of your application in mind.",1221711269
+307868,comment,304736,305578,0,0,igouy,,,"Notice that you're looking at SBCL 0.9.16<p>Notice that there are more up-to-date measurements available from the homepage<p><a href=""http://shootout.alioth.debian.org/"" rel=""nofollow"">http://shootout.alioth.debian.org/</a>",1221711158
+307867,comment,307838,307847,0,0,inklesspen,,,"Manna is a mildly entertaining story, and a completely unworkable idea. Post-scarcity economies are nice to think about, but they don't solve all of humanity's problems. A lot of them, yes, but not all. Manna would have been better if it acknowledged this.",1221711041
+307866,comment,307584,307817,0,0,BrandonM,,,"...or the other way around, for your all-important e-mails to get filtered by anti-spam mechanisms and lost forever.",1221710859
+307865,story,,,1,0,JabavuAdams,"Monitoring Your PC's Memory Usage For Game Development",http://www.gamasutra.com/view/feature/1430/monitoring_your_pcs_memory_usage_.php?print=1,,1221710720
+307864,story,,,1,3,SingAlong,"Ask HN: One ajax call or two simultaneous calls? Which is faster?",,"I have to get an image and comments related to it. Now I have an option of making one ajax call and getting an html page with the iage and comments or get the image and comments in two simultaneous ajax calls. Which option is faster or better for the user?",1221710669
+307863,comment,299982,300818,0,0,forgeman,,,"Our wonderful scripting adventures don't seem to work anymore... ;(  Anyone able to confirm?",1221710426
+307862,comment,307733,307733,0,0,blogimus,,,"Personally, peer to peer insurance sounds like a gamble.<p>As I understand it, insurance companies hire armies of actuaries to determine risk plus the risk is spread out among many accounts, many make a little bit of money, some cost a bunch, but statistically makes a net profit. I suppose each investor would be his/her own actuary.<p>And how do you handle all that private personal information that insurance companies require from applicants to determine risk, like family history of cancer, just for one? or risky personal activities, like sky diving? Oh, and what about insurance fraud or moral hazard?",1221710419

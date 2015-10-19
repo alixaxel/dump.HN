@@ -1,0 +1,52 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2476465,story,,,1,0,weerqilee,"How to convert MKV to AVI with MKV to AVI Converter for Mac?",http://www.movie-mac.com/convert-mkv/to-avi-on-mac.html,,1303545510
+2476464,comment,2476341,2476341,4,0,catshirt,,,"nodejitsu, coffeescript, lithium, etc. nyc rules.",1303545429
+2476463,comment,2475592,2475732,1,0,starwed,,,"Here is a pretty interesting blog post from Gen Kanai (a mozilla-guy) about Indonesia:<p><a href=""http://blog.mozilla.com/gen/2010/06/29/mozilla-in-indonesia-2010/"" rel=""nofollow"">http://blog.mozilla.com/gen/2010/06/29/mozilla-in-indonesia-...</a>",1303545349
+2476462,story,,,12,5,louismg,"Apple Walks Away from Web Apps",http://blog.louisgray.com/2011/04/with-iapps-surging-apple-seemingly.html,,1303545278
+2476461,story,,,1,0,ichilton,"Amazon Web Services, Hosting in the Cloud and Configuration Management",http://www.ichilton.co.uk/blog/web/amazon-web-service-hosting-in-the-cloud-and-configuration-management-397.html,,1303545239
+2476460,story,,,3,1,TalGalili,"Visualizing iPhone location tracking with Google Maps and R",http://www.r-bloggers.com/visualizing-iphone-location-tracking-with-r-and-google-maps/,,1303545228
+2476459,comment,2474833,2475167,1,0,catshirt,,,"my memory is blurry on the topic, so don't quote me on any of the following...<p>if i recall correctly, directtv boxes are all essentially just web servers and even expose some methods via http. i believe i heard that their hud/gui/etc is all written in javascript and html. incidentally, they also did this a decade ago (or so) when javascript was still quite young.",1303545139
+2476458,comment,2476272,2476414,3,0,dhruvbird,,,"I haven't worked out the recurrence myself, but considering 3 as the partition size, we get the recurrence [1] (below).<p>T(n) = T(n/3) + 4n/6 + O(n) __[1]<p>It seems as if this doesn't workout to O(n) whereas if the middle term is 7n/10 (parition size = 5), it does work out.",1303545136
+2476457,comment,2476341,2476341,7,0,jrockway,,,"Nice, I have the most repositories of anyone in Chicago, and am only 6 positions less popular than dhh.<p>I am not sure what this means, but I'm OK with it.",1303544997
+2476456,story,,,1,0,SergeDavid,"Several interesting theories on different plot events in video-games",http://www.blog.knolif.com/Game-Theories/,,1303544741
+2476455,comment,2473604,2474818,1,0,nickzoic,,,"Relatively common on motorcycles too (well, not exactly unheard of: my '86 Honda XLV750 has it, as do various recent Ducatis and BMWs.)",1303544618
+2476454,story,,,4,3,gettinstarted,"Just F^cking Build It & Send It",http://startupsanddowns.blogspot.com/2011/04/just-fcking-build-it-send-it.html,,1303544593
+2476453,story,,,3,0,bluesmoon,"Pngtocss: convert a png with a gradient to equivalent css",https://github.com/bluesmoon/pngtocss,,1303544529
+2476452,story,,,1,0,touchstone,"Easily Share Files From Your Local Computer Over the Internet",http://www.readwriteweb.com/hack/2011/04/easily-share-files-from-your-l.php,,1303544516
+2476451,comment,2475854,2476410,3,0,regularfry,,,"Not really. But it <i>can</i> be how futures work.",1303544508
+2476450,comment,2473604,2474130,1,0,nickzoic,,,"Or just engines using diesel, which have existed for quite some time now, and don't use sparkplugs either.",1303544449
+2476449,comment,2475191,2475751,1,0,edcrfv,,,"Yes I did mean that. I didn't mean to insult the intelligence of HNers though. Just thought it wouldn't be prudent to mention here!",1303544393
+2476448,comment,2476147,2476237,0,0,vimes656,,,"As Linus already acknowledged the kernel is getting dangerously bloated.",1303544386
+2476447,story,,,1,0,emilysmith,"Christian Louboutin New Arrival - Fashion Christian Louboutin New Arrival",http://www.christianlouboutinheelshop.com/christian-louboutin-new-arrival-c-9.html,,1303544242
+2476446,comment,2474517,2474517,1,0,Apocryphon,,,"Microsoft is the new IBM.",1303544124
+2476445,story,,,1,0,touchstone,"Laser sparks revolution in internal combustion engines",http://www.physorg.com/news/2011-04-laser-revolution-internal-combustion.html,,1303544067
+2476444,comment,2475844,2476300,1,0,pyre,,,"I think shii's point was more about 'lurkers' showing up and trying to talk to you like they know you, even though they've never even communicated with you online <i>or</i> offline.",1303544041
+2476443,comment,2475229,2475229,2,0,tcdent,,,"While it's notable Google is sharing this information, I don't see anything that stands out from the norm in datacenter policies and design. The data destruction procedures might be a step beyond most, but this is pretty standard stuff for a professional facility.",1303544014
+2476442,comment,2476341,2476341,1,0,axx,,,"Damn, the color scheme looks terrible!",1303543731
+2476441,comment,2476341,2476341,3,0,kingkilr,,,"It'll never stop being weird to pull up something like this and see myself :/",1303543556
+2476440,story,,,218,114,krat0sprakhar,"Joel Spolsky: Can your programming language do this?",http://www.joelonsoftware.com/items/2006/08/01.html,,1303543501
+2476439,comment,2475854,2476415,-4,0,gcb,,,"Only yahoo to create basement dweller millionaires",1303543342
+2476438,comment,2475854,2476388,3,0,gcb,,,"How is that so?<p>...always like there's always people willing to buy books at amazon?",1303543231
+2476437,story,,,5,0,MKais,"What Happens When Twitter Bans Your App (Twippr Case)",http://dl.dropbox.com/u/150220/erased_551606.png,,1303543146
+2476436,story,,,1,0,IsabellaIvans,"71%-OFF Snapback Hats Caps Online, only $9.5",http://www.monsterenergyblog.com/snapback-hats,,1303543134
+2476435,story,,,1,0,kevin_morrill,"Is the new tech bubble just R&D 2.0?",http://www.geekwire.com/2011/tech-bubble-20,,1303543132
+2476434,story,,,1,0,success123,"Cool Orange Juice wallpapers, Orange Fruit Juice pic collection",http://choicewallpapers.blogspot.com/2011/04/cool-orange-juice-wallpapers-orange.html,,1303543016
+2476433,story,,,1,0,lazyproblogger,"Enjoy the fun of Facebook hacking - Facebook hacking trick",http://lazyproblogger.com/enjoy-the-fun-of-facebook-account-hacking/,,1303542821
+2476432,comment,2475975,2476177,3,0,prodigal_erik,,,"I'm relieved it's not actually the article about scamming angel investors that the title leads one to expect.",1303542772
+2476431,comment,2476328,2476328,1,0,arn,,,"there was some talk of it here: <a href=""http://news.ycombinator.com/item?id=2470773"" rel=""nofollow"">http://news.ycombinator.com/item?id=2470773</a>",1303542713
+2476430,story,,,1,0,credo,Appsterdam,http://mur.mu.rs/?p=1,,1303542448
+2476429,comment,2476341,2476407,6,0,patrickyeon,,,"Looking to hire a local programmer would be one use.",1303542425
+2476428,comment,2475303,2475303,1,0,gary4gar,,,"Another site I found that runs Dual-Stack IPv6-IPV4 without problem is the popular comics - xkcd.com<p>~$ host xkcd.com<p>xkcd.com has address 72.26.203.9<p>xkcd.com has IPv6 address 2001:48c8:1:d:0:23:5482:d026",1303542346
+2476427,story,,,1,0,Levinson,"3 New Thoughts on Mobile Location  A Follow up to Apple Location Tracking",http://alexlevinson.wordpress.com/2011/04/23/3-new-thoughts-on-mobile-location/,,1303542332
+2476425,story,,,1,0,disha,"FREE NSE BSE TIPS INTRADAY CALLS MONDAY 25 April ",http://intraday-nsebse-stocktips.blogspot.com/,"Get Live  and Free NSE Tips BSE Tips, Stocks-Equity-Intraday Tips/Calls Today 25 April 2011:-
+JSWSTEEL:-
+SELL BELOW:970 TG1-950 TG2-930 SL-990.",1303542294
+2476424,comment,2471899,2472341,1,0,mmalone,,,"I run a database that does not fit in memory on AWS with great success. Generalizing is dangerous. If you work with and understand the constraints imposed by the environment you can do some pretty amazing stuff.",1303542284
+2476423,comment,2475854,2476139,18,0,Angostura,,,"It is left as an exercise for the reader to show how to determine whether the other publisher actually does have a copy, or is indulging in similar behaviour.",1303542243
+2476422,comment,2476404,2476404,1,0,jed_s,,,"FYI: Android deletes corrupt DBs
+(<a href=""http://forum.xda-developers.com/showthread.php?t=756653"" rel=""nofollow"">http://forum.xda-developers.com/showthread.php?t=756653</a>)<p>If you have an Android phone and care at all about your ever-growing message history, install SMS Backup+ by Jan Berkel or an equivalent ASAP. (<a href=""https://github.com/jberkel/sms-backup-plus"" rel=""nofollow"">https://github.com/jberkel/sms-backup-plus</a>)",1303542171
+2476421,comment,2476341,2476341,4,0,postfuturist,,,"Portland is part of Washington? No.",1303542139
+2476420,comment,2475844,2475844,2,0,lotharbot,,,"I haven't found a big difference in the quality of friends met online vs in person.<p>What has been different is how well those friendships persist.  Finishing school, changing jobs, moving to a new city or neighborhood, or simply changing schedules can put you out of touch with ""real life"" friends.  But I can still log on to the same websites, and my online friends are still there.  Such a change might even put me closer to them.",1303542053
+2476419,comment,2475854,2475854,5,0,derrida,,,"Its all innocent when it is Amazon. But I am sure there must be similar phenomena taking place in the financial markets, but the algorithms that determine pricing there are more complicated than multiplying by a simple factor.",1303542052
+2476418,comment,2475048,2475048,1,0,alabut,,,"There's a Flash slideshow about the boneyard that was pretty popular when it first came out a decade ago, back when I was a wee web designer fresh out of college:<p><a href=""http://www.kodak.com/US/en/corp/features/sleepingGiants/"" rel=""nofollow"">http://www.kodak.com/US/en/corp/features/sleepingGiants/</a><p>It holds up really well, especially the audio interviews with the mechanics and ground crew about their feelings about these ""sleeping giants"".",1303542022
+2476417,comment,2476110,2476346,1,0,mooism2,,,"I expect the tabloids would have fun fanning outrage if a prominent licence fee payer---funded TV show was shown in a foreign country before it was shown in the UK.<p>If this experiment is a success, maybe they'll extend it in the future.",1303542002

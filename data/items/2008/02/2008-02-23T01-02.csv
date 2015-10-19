@@ -1,0 +1,32 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+121763,comment,121692,121692,0,0,dcurtis,,,"The movie is amazing, and I highly recommend it.<p>But this is kind of ridiculous.",1203731279
+121762,comment,121508,121676,0,0,newt0311,,,"True. I checked the python reference again and it re-adjusts the modulo to have the same sign as the 2nd operand.<p>>>> 1 % -3
+-2
+>>> -1 % -3
+-1",1203730753
+121761,comment,121597,121597,0,0,Raphael,,," > Of course, the real hacker spirited solution would be to let people make/share their own such formulas to make their own front pages, but I'm not sure if Paul has the time to implement that.<p>I have this in my roadmap for Vortices, see <a href=""http://vortices.appjet.net/node/obj-LBlNDy7Ow"" rel=""nofollow"">http://vortices.appjet.net/node/obj-LBlNDy7Ow</a>",1203730677
+121760,story,,,45,5,rms,"Rms is no longer the maintainer of Emacs",http://lists.gnu.org/archive/html/emacs-devel/2008-02/msg02140.html,,1203730625
+121759,comment,121649,121649,0,0,thingsilearned,,,"sweet!  Way to go guys.",1203730506
+121758,comment,121743,121755,0,0,DarrenStuart,,,"maybe 3 pages
+Normal(as it is now)
+Ask YC
+News
+I think the new should just have em both.",1203730478
+121757,comment,121534,121699,0,0,pg,,,"There's nothing statistically odd about the voting on it.",1203730462
+121756,comment,121649,121749,0,0,amichail,,,"What prevents people from pledging enormous amounts of money but not paying anything?",1203730370
+121755,comment,121743,121743,0,0,Xichekolas,,,"It'd be nice if anything that begins with the word 'ask' was treated this way. There are a lot of 'Ask PG' and 'Ask so-and-so' threads floating around.<p>I'd rather they were still included in the other stories, but it'd be nice if you could also view them on their own too. Usually the best discussions of some technical topic happen in these threads.",1203730353
+121754,story,,,2,0,Xichekolas,"Ask Yariv: Is there an Erlang framework to do REST ROA webservices?",,"I have an idea for a webservice, and I also want to learn Erlang (past doing the examples in Joe's book), so I figured I'd combine the two this weekend in a mini-project.<p>I was just wondering if you (or any other Erlangers out there) knew of an existing framework in Erlang to access mnesia or sql dbs somewhat RESTfully. Would Erlyweb be good at this?<p>I'm a total nub at this, so forgive me if this is a stupid question...",1203730240
+121753,comment,120816,121007,0,0,carpal,,,"What if you did a word count of the linked article, and used that for the weight?  It might be good to strip out links from the count, but other than that it seems a pretty sold way of judging complexity.",1203729994
+121752,comment,121271,121271,0,0,Xichekolas,,,"I hate to ask a stupid question because it's probably in your docs somewhere, but could you humor my laziness and tell me if it's easy/hard to extend this at will? I think if you had some way for people to easily add the ruby counterpart of a bash command and then share them with others, this could really be nice.<p>Beautiful idea either way. I like the idea of interacting with your OS the same way you would interact with irb or the lisp REPL.",1203729912
+121751,comment,121534,121699,0,0,mrtron,,,"SEO Blackhattery Superhack #1:  Make a very simple statement that nobody can argue with and put a swearword in the title to make it exciting.  Submit to social sites.  Rake in the fucking money.",1203729822
+121750,comment,121649,121749,0,0,greendestiny,,,"I'm really interested in what the conversion rate is, but I understand you might not have that data yet or want to release it. I don't think a low rate is an invalidation of tipjoy at all incidentally, as long as its not zero of course.",1203729328
+121749,comment,121649,121735,0,0,ivankirigin,,,pledged.,1203729102
+121748,comment,121633,121633,0,0,mhb,,,"What is the rationale for showing the top n instead of everyone?",1203729050
+121747,comment,121534,121534,0,0,Sam_Odio,,,"cache: <a href=""http://64.233.167.104/search?q=cache:WpRgP1s_rYwJ:seoblackhat.com/2007/01/29/do-it-fucking-now/"" rel=""nofollow"">http://64.233.167.104/search?q=cache:WpRgP1s_rYwJ:seoblackha...</a>",1203728987
+121746,comment,121743,121743,0,0,mixmax,,,"Great idea - sometimes I'm in the mood for good discussions and feedback, sometimes I just want the news.",1203728935
+121745,comment,121649,121723,0,0,ivankirigin,,,"We'll be smart with the top tips page to try to make this harder. That is the only page where this would be a problem, and lots of people will only pay attention to what they've tipped, and and what their friends are tipping.",1203728910
+121744,comment,121534,121731,0,0,ajbatac,,,"use urltea or tinyurl :)",1203728815
+121743,story,,,4,7,DarrenStuart,"Ask YC - Feature request Ask YC questions in their own queue",,"Can we have a separate page for the ASK YC stuff?<p>The reason is I think it will make for better discussions and keep them out of the news queue because they are not news. I still think they should have karma etc.<p>Maybe have a checkbox on the form to flag post as question/discussion.",1203728679
+121742,comment,121567,121567,0,0,ekanes,,,"Very tired.  Very happy.",1203728668
+121741,comment,121567,121567,0,0,greendestiny,,,"Measures of happiness studys seem to be one of the key areas for nonsense research and journalism. I think the thing to take from this is that small increases in long-term average happiness aren't something we desire. Which isn't very surprising because the way to maximise that kind of happiness is to remove all struggle and conflict.",1203728489
+121740,comment,121597,121597,0,0,kajecounterhack,,,"How about forcing new users who want to contribute to go through a bit of a logic test? Perhaps answer some simple questions before signing up, to ensure they're at least a little alive where it counts?",1203728484

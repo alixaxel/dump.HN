@@ -1,0 +1,135 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+172208,comment,172189,172200,0,0,aupajo,,,"Octopartisans, surely?",1209009502
+172207,comment,171436,171483,0,0,aupajo,,,"Give Rails a whirl, you won't regret it.",1209009273
+172206,story,,,3,0,pius,"Billionaire to set up magazine for snobs",http://www.reuters.com/article/oddlyEnoughNews/idUSN2335906320080423?feedType=RSS&feedName=oddlyEnoughNews,,1209009222
+172205,comment,172193,172193,0,0,aupajo,,,"Read the tooltip of the second image in that article :)<p>I laughed.",1209009112
+172204,story,,,3,0,pius,"Developer Life, Yo",http://www.deadprogrammer.com/developer-life-yo,,1209009022
+172203,comment,171940,172011,0,0,tjr,,,"I ordered some business cards from them as well.  Not outstanding results, but adequate and functional.  I'd prefer to shop around to find something nicer when these run out.<p>That said, I've never gotten any phone calls from them, and if they have been contributing to my incoming spam, I've never noticed it.",1209008962
+172202,comment,172071,172201,0,0,brett,,,"<p><pre><code>  #!/usr/bin/env ruby
+  domains = %w{reddit.com loopt.com clickfacts.com
+               textpayme.com snipshot.com inklingmarkets.com flagr.com wufoo.com 
+               youos.com likebetter.com thinkature.com jamglue.com shoutfit.com scribd.com 
+               weebly.com virtualmin.com buxfer.com octopart.com heysan.com justin.tv 
+               iminlikewithyou.com socialmoth.com xobni.com versionate.com adpinion.com anywhere.fm 
+               fuzzwich.com bountii.com auctomatic.com disqus.com draftmix.com webmynd.com 
+               rescuetime.com reble.fm heroku.com tipjoy.com addher.com 8aweek.com}
+
+  orgs = {}
+  domains.each do |c|
+    whois = `host -t a #{c} | grep 'has address' | cut -f 4 -d ' ' | xargs -n 1 whois`
+    if org = whois.grep(/OrgName/).first
+      org = org.sub(/OrgName:\s/, '').strip
+    else
+      org = whois.split(""\n"").first.split(""("")[0].strip.sub(/\s+[A-Z\-\d]+$/, '')
+    end
+    orgs[org] ||= []
+    orgs[org] << c
+  end
+  max_size = orgs.sort_by{|k, v| k.size}.last.first.size
+
+
+  orgs.sort_by{|k, v| v.size}.reverse.each do |o, ds|
+    puts ""%-#{max_size}s %5s"" % [o, ds.size]
+    ds.each {|d| puts ""\t#{d}""}
+  end
+  puts
+  puts ""%-#{max_size}s %5s"" % [""Total # of Domains"", domains.size]
+  puts ""%-#{max_size}s %5s"" % [""Total # of Providers"", orgs.size]</code></pre>",1209008943
+172201,comment,172071,172136,0,0,brett,,,"I made a little bit more robust version. Some of the whois calls (like heroku.com) have 2 OrgName lines and some don't have one at all (like weebly.com).<p><pre><code>  Amazon.com, Inc.                           7
+  	youos.com
+  	jamglue.com
+  	shoutfit.com
+  	socialmoth.com
+  	webmynd.com
+  	heroku.com
+  	8aweek.com
+  SoftLayer Technologies Inc.                5
+  	scribd.com
+  	xobni.com
+  	anywhere.fm
+  	bountii.com
+  	disqus.com
+  ThePlanet.com Internet Services, Inc.      5
+  	snipshot.com
+  	virtualmin.com
+  	heysan.com
+  	adpinion.com
+  	reble.fm
+  Hurricane Electric                         3
+  	weebly.com
+  	octopart.com
+  	auctomatic.com
+  Internap Network Services                  2
+  	loopt.com
+  	likebetter.com
+  NoZone, Inc.                               2
+  	flagr.com
+  	thinkature.com
+  Peer 1 Network Inc.                        2
+  	rescuetime.com
+  	addher.com
+  ServePath, LLC                             1
+  	reddit.com
+  American Digital Network                   1
+  	fuzzwich.com
+  Columbus Network Access Point, Inc.        1
+  	versionate.com
+  Performance Systems International Inc.     1
+  	justin.tv
+  Global Netoptex, Inc                       1
+  	clickfacts.com
+  RackForce Hosting Inc.                     1
+  	draftmix.com
+  Time Warner Telecom, Inc.                  1
+  	textpayme.com
+  Logicworks Corporation                     1
+  	inklingmarkets.com
+  Layered Technologies, Inc.                 1
+  	buxfer.com
+  Rackspace.com, Ltd.                        1
+  	iminlikewithyou.com
+  BitPusher, LLC                             1
+  	wufoo.com
+  Slicehost LLC                              1
+  	tipjoy.com</code></pre>",1209008851
+172200,comment,172189,172189,0,0,icey,,,"Great job, Octoparticons! 
+(Feel free to use that name in your literature ;))<p>Congratulations!",1209008821
+172199,comment,172054,172082,0,0,cglee,,,"There are lots of services that teach Mandarin to English speakers. I think there could be better ones, but it's still a growing space.<p>On a separate note, some people would consider ""chink"" to be derogatory, super or not.",1209008691
+172198,story,,,4,1,falsestprophet,"Web Design is 95% Typography.",http://informationarchitects.jp/the-web-is-all-about-typography-period/,,1209008659
+172197,story,,,2,1,brianr,"Web 3.0 will be the ""always-logged-in internet""",http://500hats.typepad.com/500blogs/2008/03/web-30-isnt-the.html,,1209008621
+172196,comment,172054,172082,0,0,Raphael,,,"I would have guessed it would be more along those lines.",1209008536
+172195,comment,172071,172146,0,0,rms,,,"There's the wikipedia list also, which used to have all of them, them several wikipedians insisted on ""notability"" so it's much less complete than it once was.<p><a href=""http://en.wikipedia.org/wiki/Y_Combinator"" rel=""nofollow"">http://en.wikipedia.org/wiki/Y_Combinator</a>",1209008529
+172194,comment,172071,172071,0,0,brianr,,,"If you're looking to scale (as in, you need at least one dedicated machine and will likely be adding more), I highly recommend Softlayer. Their pricing is reasonable and support is pretty good, but more importantly (for my startup) their setup time is incredible. Adding a low-end machine usually takes about 2 hours and higher-end machines take 4-6 hours. That kind of agility has really been invaluable.",1209008459
+172193,story,,,10,4,alex_c,"Lonelygirl15 team gets $5 million in venture capital",http://www.thestandard.com/news/2008/04/17/lonelygirl15-team-gets-5-million-venture-capital,,1209008441
+172192,comment,172179,172179,0,0,aupajo,,,"""The future of social apps are split between brand advertising and direct-to-consumer sales [...] people make billions of dollars selling virtual goods, like eyes or hair for characters in online games or social networks.""<p>More advertising for inane smiley faces. Just what the internet needs.",1209008421
+172191,story,,,2,0,chaostheory,"Open GPS Tracker",http://www.opengpstracker.org/,,1209008340
+172190,comment,171877,172053,0,0,LPTS,,,"That's a great quote.<p>In the same vein, I've been saying lately that people who think the iPhone is just one phone among many are just like people who thought the a computer was just another typewriter.<p>Ohh, wow.  I just said something by Jim ""Bear Sterns is fine"" Cramer was great.  A broken clock and all that.",1209008326
+172189,story,,,45,19,technoguyrob,"Octopart very well received after its first time on the Reddit frontpage",http://reddit.com/info/6gtvm/comments/,,1209008260
+172188,comment,172110,172110,0,0,aupajo,,,"Personally, I blame Valleywag.",1209008144
+172187,comment,172071,172071,0,0,danielha,,,"softlayer ftw (most of the time)",1209008052
+172186,comment,171957,171957,0,0,tx,,,"Are there any online printing services where you can send a PDF like that and they send you a nicely printed soft-cover? I realize that it may be expensive, but still.",1209008001
+172185,comment,172110,172110,0,0,sdurkin,,,"I'm not so sure its a good idea to trade in journalistic neutrality for ""full disclosure"" and personal point of view.",1209007996
+172184,comment,166801,166801,0,0,EGreg,,,"I wrote a framework and I am still using it, because it's more flexible and easier for me to extend than the other ones. That said, I think it was a waste of time from a business perspective. When you want to build a project, take something open source, rock-solid with a community behind it. You can focus on building your project and not fixing bugs in the underlying layer.<p>Before writing my framework, I had written another one and learned a lot. The second time around, I've made something really powerful and cool, and it really helps me. But it's still not as thoroughly unit-tested and consistent as the ones built by a community. I'm just one guy.<p>By the way, in cae you want to see it:
+<a href=""http://code.google.com/p/pal-framework/"" rel=""nofollow"">http://code.google.com/p/pal-framework/</a> :) It's open source.",1209007965
+172183,story,,,1,0,chaostheory,"Intel Mash Maker",http://mashmaker.intel.com/web/,,1209007906
+172182,story,,,1,0,sallywu,"Anonymously - In Kentucky",http://webpoet.wordpress.com/2008/03/10/anonymously-in-kentucky/,,1209007897
+172181,comment,171877,172171,0,0,wanorris,,,">  there is a dedicated team of around 50 people just devoted to managing the ""Start"" button.<p>Worse: it took 43 people just to build the <i>shutdown</i> feature.<p><a href=""http://moishelettvin.blogspot.com/2006/11/windows-shutdown-crapfest.html"" rel=""nofollow"">http://moishelettvin.blogspot.com/2006/11/windows-shutdown-c...</a><p>This article will tell you everything you ever needed to know about why Vista turned out the way it did.",1209007842
+172180,comment,171877,172160,0,0,aston,,,"It wasn't clear whether you were criticizing Vista or responding to my claim that the goodness of default email clients was irrelevant to the evaluation of the OS.<p>These OS war threads are always overheated and people basically read what they want to read into your comments. Sorry for misunderstanding. I'm pretty done with this.<p>edit: I will say, though, the post re:linux also could be understood to point out the weakness of your argument in general, and not so much to claim that linux is better than both OS's.",1209007799
+172179,story,,,2,1,terpua,"Live blogging: Max Levchin of Slide opens the Web 2.0 Expo keynotes",http://venturebeat.com/2008/04/23/live-blogging-max-levchin-of-slide-opens-the-web-20-expo-keynotes/,,1209007747
+172178,comment,171463,172137,0,0,phaedrus,,,"I think most people who read HN would have thought of that; from Jeff Atwood's article, it sounds as though the primary problem is a political one, not a technical one.  A plugin already exists that can be that ""patch,"" but the project leaders are dismissive of the problem.",1209007664
+172175,comment,171940,172105,0,0,GavinB,,,"always check retailmenot for coupons, you can get free shipping",1209007398
+172174,comment,171818,171863,0,0,wanorris,,,"Not all websites are basically just documents with a management interface, however.<p>Remember, there are an awful lot of sites with database back ends that store structured data. The technical difficulty of emitting that structured data out into a web page using a microformat (or RDFa, or whatever) is going to be pretty low, so if it's useful (for SEO or anything else), I expect it will start happening.",1209007160
+172173,comment,172032,172032,0,0,MaysonL,,,"Not unless I had a good book or two to read...",1209007130
+172172,story,,,2,0,trs90,"Start-Up Rule #2: When Pitching, Bring Your Guy",http://www.marksonland.com/,,1209007117
+172171,comment,171877,172116,0,0,aupajo,,,"Agreed, I've often wondered about the division of labour at MS HQ. Someone told me today that there is a dedicated team of around 50 people just devoted to managing the ""Start"" button.<p>A software idea can be built many ways and usually more than one of these will be ""right"". But the moment you have a group of people with equal control and conflicting ""right"" ideas, you end up with something quite decidedly ""wrong"".<p>Small core development teams, with one visionary produces better, more <i>usable</i> software. For me, I will always take a product that feels easier to use than one overstuffed with obscure features. Hence, I use a Mac as my primary machine (also flit between Debian and occasionally XP).",1209007114
+172170,comment,171818,171850,0,0,phaedrus,,,"What use is semantic metadata that is generated automatically?  The whole point of ""semantic"" is that it's created by humans to describe the data; you can't get around the ""extra work"" requirement without defeating the uniqueness of the semantic tags.  And if the extra work still stands, the average Joe will not bother with it.  Hell, <i>I</i> wouldn't bother with it, in any form.",1209007105
+172169,comment,171818,171818,0,0,phaedrus,,,"One of my professors is nuts about the semantic web.  This same professor believes Ray Kurzweil; I don't think it's a coincidence.",1209006971
+172168,comment,172056,172147,0,0,snowmaker,,,"It's not that simple.  It is well-known from other research studies, particularly the ones which document the effect of social status on gender ratio, that the woman does have an ability to influence the gender ratio of her children.  The most likely mechanism by which she does this is altering the porosity of her cervical channels, which could change the ratio of male to female sperm, but as far as I know no one has observed this directly.",1209006954
+172167,comment,171717,171935,0,0,kirubakaran,,,"<a href=""http://news.ycombinator.com/item?id=96553"" rel=""nofollow"">http://news.ycombinator.com/item?id=96553</a> 105 days ago :)",1209006947
+172166,comment,171594,171594,0,0,nadim,,,"At SS08, MA@TC quoted ""Man in the Arena"" [1]. An excerpt from the same work by Roosevelt:<p>""Of course all that I say of the orator applies with even greater force to the orator's latter-day and more influential brother, the journalist. The power of the journalist is great, but he is entitled neither to respect nor admiration because of that power unless it is used aright. He can do, and he often does, great good. He can do, and he often does, infinite mischief. All journalists, all writers, for the very reason that they appreciate the vast possibilities of their profession, should bear testimony against those who deeply discredit it. Offences against taste and morals, which are bad enough in a private citizen, are infinitely worse if made into instruments for debauching the community through a newspaper. Mendacity, slander, sensationalism, inanity, vapid triviality, all are potent factors for the debauchery of the public mind and conscience. The excuse advanced for vicious writing, that the public demands it and that the demand must be supplied, can no more be admitted than if it were advanced by the purveyors of food who sell poisonous adulterations.""<p>It is nearly impossible to take MA seriously after he uses terms like ""Amatuer Hour at Twitter"" for one of the most influential technical individuals in our community right now. Blaine Cook is a Man in the Arena, MA is a slandering journalist. MA should apologize and hold the same standards to himself that he asks of his readers. That is, if he was ever serious at SS08, something which I must now question.<p>[1] - <a href=""http://www.geocities.com/RainForest/3745/tr.html"" rel=""nofollow"">http://www.geocities.com/RainForest/3745/tr.html</a>",1209006942
+172165,comment,168636,168636,0,0,cjwang,,,"I was unaware of Octopart but after checking it out, it seems like an excellent service. I posted it on my blog so that others can check it out too.<p>I also agree with the concept of being good and idealistic programmers. My blog is basically a development journal to record my progress and thinking as I write an open source wireless (Zigbee) protocol stack. Many companies charge large amounts for these embedded stacks, but I figure that hobbyists should have access to the same things that large companies do. Only good ideas can come out of it.<p>If anyone is interested, you can check out my dev journal and blog here: 
+<a href=""http://www.freaklabs.org"" rel=""nofollow"">http://www.freaklabs.org</a>",1209006864
+172164,comment,172036,172111,0,0,aupajo,,,"The general feeling I get from developers for OS X is that on the whole, Apple supports them well in their endeavours and that Apple gives great respect for people who develop on their platform. That being said, the lack of an SDK from launch was a bit of a blow to developers.<p>On the whole though, I'm expecting Apple to really push this, as they're talking up the App Store as a whole new market for them to enter into. They're not about to take the risk of harming their developer base.",1209006661
+172163,comment,172036,172131,0,0,Hexstream,,,"I heard rumors that Apple is a bit of a control freak that's fanatical about user experience. That seems to preclude letting anyone release anything on their platform.",1209006624
+172161,comment,171463,171824,0,0,plinkplonk,,,"""If you want the software to improve, I just think you should either file tickets or confront the developer.""<p>You could remove a few more words and make it<p>""If you want the software to improve, file tickets or confront the developer.""<p>;-)",1209006501
+172160,comment,171877,172157,0,0,xlnt,,,"umm, i gave a reason that email setup would be relevant to os (i.e., in a vista criticism). i did not say ""omg mac is so much better than linux"".",1209006370

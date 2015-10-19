@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26863,story,,,1,0,mattjaynes,"Culture comparison between Apple and Microsoft engineers",http://www.nytimes.com/2007/06/05/technology/05compute.html?ex=1338782400&en=43659b9b08554247&ei=5124&partner=permalink&exprod=permalink,,1181293157
+26862,comment,26807,26807,0,0,staunch,,,"My favorite coding ""high"" is sleep deprivation mixed with dangerous levels of caffeine. I'll sometimes work until ~5AM and be really tired, then get a ""second wind"" and be wide-awake until the afternoon coding like I'm on speed.<p>There's also the excited ""holy crap this is cool"" high, which is more like a tingling giddiness at how interesting something  is. Like a child who can't sit still the night before Christmas. Nothing motivates me more than this feeling.<p>
+",1181293021
+26861,story,,,19,4,paul,"Paul Buchheit: Optimizing everything: some details matter a lot, most don't",http://paulbuchheit.blogspot.com/2007/06/optimizing-everything-some-details.html,,1181293019
+26860,comment,26524,26524,0,0,staunch,,,"Lots of features never make it into software because the developers themselves don't need it. You could make it really easy for users to say to developers ""If I can get 20 other people to pay $100/ea will you implement this feature?""<p>Let them create really simple polls, without much registration or anything. Pretty informal. Maybe a ""stage 1"" poll and then move to a payment-verified ""stage 2"" poll if there was a good response for the informal poll.<p>I think the 1000 x $5 is not realistic. Most of the time when I need something created it's for a business and I have hundreds/thousands of dollars to available. I've underwritten  projects for tens of thousands of dollars and would love to share the load. I'd go for a smaller number of bigger buyers, even if it seems less interesting. Business-related software because consumers are cheap bastards.<p>",1181292435
+26859,story,,,4,0,Alrond,"Where can I buy a notebook with Linux?! - See what the manufacturers say...",http://www.alrond.com/en/2007/may/31/where-can-i-buy-a-notebook-with-linux/,,1181292290
+26858,story,,,2,0,sharpshoot,"Click.TV Player enters Techcrunch deadpool",http://www.techcrunch.com/2007/06/07/clicktv-player-joins-the-deadpool/,,1181291693
+26857,comment,26811,26811,0,0,woid,,,"please one more for me: antonin.hildebrandgmail
+thanks
+",1181291192
+26856,comment,26839,26839,0,0,mattjaynes,,,"""The barrier to change is not too little caring; it is too much complexity.""",1181290457

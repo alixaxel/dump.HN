@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+295846,comment,294648,295217,0,0,ryanmahoski,,,"If someone wants to rob you, they too prefer your id to your thumb. The average sentence for aggravated assault in the U.S. is 30 to 90 years per count. <a href=""http://en.wikipedia.org/wiki/Assault#Aggravated_assault"" rel=""nofollow"">http://en.wikipedia.org/wiki/Assault#Aggravated_assault</a>",1220623102
+295845,comment,295524,295833,0,0,rbanffy,,,"I may risk to say understanding the ad will qualify you as not human.",1220623042
+295844,comment,295654,295654,0,0,scottw,,,"I have a little bash script I use on OS X:<p>screencapture -x screen.png && scp screen.png myserver:www",1220623041
+295843,comment,295735,295735,0,0,makecheck,,,"OmniWeb (Mac)",1220622965
+295842,story,,,1,0,fromedome,"Why Video on Demand is still Cable's game to lose",http://www.alleyinsider.com/2008/9/why-video-on-demand-is-still-cable-s-game-to-lose,,1220622772
+295841,story,,,1,1,robg,"Why Is the Internet So Infuriatingly Slow?",http://www.slate.com/id/2199368/pagenum/all/#page_start,,1220622641
+295840,comment,294719,294719,0,0,dgreensp,,,"I use VMware Fusion on my Mac.<p>Note that if your client-side stuff works in IE6 standards mode, it will almost certainly work in IE7 (in my experience, anyway).",1220622620
+295836,comment,295524,295751,0,0,JoelSutherland,,,"Microsoft is spending all kinds of money on both products and great hackers already.  The biggest problem they have is their overall strategy.<p>With the cash they have on hand, I have never understood why they aren't doing more parallel development in smaller groups to let the good ideas happen organically.  They continue to try to fit every new product into the existing Microsoft ecosystem -- something that is beginning to fail.",1220622452
+295835,story,,,1,0,terpua,"Get out of the car (HN break)",http://www.funny.com/_fc/wm640/0/2/fn.CH8FF.jpg,,1220622419
+295833,comment,295524,295565,0,0,Kilimanjaro,,,"Oh I see, so the ad is targeted to mensans only?",1220622260
+295832,comment,295524,295558,0,0,Kilimanjaro,,,"Normal conversation is what people outside the window are having.",1220622031
+295830,comment,295560,295560,0,0,dmix,,,"This is somewhat unrelated, but if you own a white Macbook, pick up some Turtle Wax White Polishing Compound. It will remove any scratches on the outer case and make it look perfectly clean and white again.<p>Also, I hear arm&hammer tooth paste can fix the fading that happens near the keyboard.",1220621998
+295828,comment,295127,295332,0,0,jcl,,,"Yes, but the fact that people are choosing an OS based on other considerations indicates that Microsoft <i>could</i> do something to win them back, which runs counter to the article's thesis.",1220621771
+295827,comment,295450,295721,0,0,louislouis,,,"99.9% of all species of all living things on this planet are now extinct. The odds aren't looking high for the polar bear my son :)",1220621765
+295826,comment,295789,295789,0,0,EastSmith,,,"Yep, and it is great to see how google.com page looked like here: <a href=""http://web.archive.org/web/*/http://google.com"" rel=""nofollow"">http://web.archive.org/web/*/http://google.com</a>",1220621723
+295825,story,,,1,0,parenthesis,"Google at 10",http://news.bbc.co.uk/1/hi/technology/7599342.stm,,1220621668
+295824,comment,295783,295806,0,0,wallflower,,,"Scribd requires Flash; somehow they implemented Vuzit's client in AJAX",1220621583
+295822,story,,,26,31,possiblemat,"VC Part 2: Fuck-off Money",http://www.danielharan.com/2008/09/04/vc-part-2-fuck-off-money/,,1220621210
+295821,comment,295314,295758,0,0,louislouis,,,"its not the thinking that sucks, it's the time it takes reading these huge articles on HN when a brief conclusion would help ease those like me passing by for a quick scan of the front page on HN before stories get buried.",1220621143
+295820,comment,295683,295802,0,0,pkrumins,,,"It does not use Python directly. Python is used for testing various parts of Chrome, such as code coverage, dependencies, measures page load times, compares generated html, etc.",1220620955
+295819,comment,295560,295560,0,0,ScottWhigham,,,"<i>It was now 5:30pm by this point so I stopped at there for day 1.</i><p>Wow.",1220620922
+295817,story,,,14,5,davidw,"The meek shall inherit the web",http://www.economist.com/displayStory.cfm?story_id=11999307,,1220620851
+295816,comment,294918,295145,0,0,bmj,,,"<i>BTW, do desktop GUI apps have non-programmer designers?</i><p>Well, not non-programmers, but programmers who know the particular layout libraries of the platform better than the programmers writing the data access layer, for example.  I'm not saying this is universally true, but when I worked for a larger team focuses on a single product, that's pretty much how it worked.",1220620740
+295815,story,,,3,0,davidw,"Following the crowd: ""crowdsourcing""",http://www.economist.com/displayStory.cfm?story_id=11999251,,1220620687
+295814,comment,295654,295673,0,0,bretthoerner,,,"Sure is.  And it's awesome.",1220620558
+295813,story,,,2,1,ilamont,"Researchers build malicious Facebook application",http://www.thestandard.com/news/2008/09/05/researchers-build-malicious-facebook-application,,1220620462
+295812,story,,,1,0,mlearmonth,"YouTube crackdown on sexy videos sweeps up illumistream",http://www.alleyinsider.com/2008/9/youtube-crackdown-on-sexy-videos-sweeps-up-illumistream,,1220620185
+295810,comment,294808,294808,0,0,fauigerzigerk,,,"I'm not sure if that makes any sense. The bottleneck in terms of parallelism on the client is me, the user. Predictably, what all those cores will do 99.999% of the time is wait for me and wait for my ISP to increase throughput. The multi process model in chrome (that IE has as well, on a per window basis) is meant to reduce the effects of crashes, not increase parallelism.",1220619895
+295809,comment,295627,295627,0,0,ttol,,,"Whoops -- wrote that at 3am and rambles a bit.  Point of the whole article: Bootstrapping works!  (Sorry, my first submission to HN -- just been lurking)",1220619876
+295808,comment,295687,295687,0,0,jcromartie,,,"There is one major problem when it comes to writing games in JavaScript: sound.  Controlling sound <i>sucks</i> in the browser.  It's just about impossible to get it working well for any kind of game.",1220619710

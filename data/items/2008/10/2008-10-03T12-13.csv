@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+322628,story,,,3,0,reazalun,"Flash Games",http://xkcd.com/484/,,1223038754
+322627,comment,322533,322586,0,0,omouse,,,"It can't be because the first Android phone isn't even out yet (22 Oct is the ship-date I think).",1223038656
+322626,story,,,5,0,robg,"	
+
+Flexible screen could lead to foldable computers ",http://www.telegraph.co.uk/connected/main.jhtml?xml=/connected/2008/10/03/dlscreen103.xml,,1223038433
+322625,comment,321609,322182,0,0,sanj,,,"I stand by my statement.<p><fb:serverfbml> came out 30 days ago.  That's about six <i>months</i> after you could do extended permissions stuff in fbml.  In my book, that's a second class citizen.<p>The resizing code for iFrames is broken.  I've talked to Facebook's engineers about it.  They know it.  The reality is that it is nasty, tricky, hacky code that is hard to get right and harder to keep running.  It runs directly into the weakest part of cross-browser javascript wizardry: the DOM and dynamically resizing divs.  Their advice was to avoid it.<p>Look: I built an iframe app.  It was the right thing to do for my business.   But it is in Facebook's interest for fbml to always be a little more functional and at least a little better.",1223038406
+322624,story,,,2,0,robg,"Five Ways Brain Scans Mislead Us",http://www.sciam.com/article.cfm?id=five-ways-brain-scans-mislead-us&print=true,,1223038158
+322623,story,,,4,0,robg,"Putting Thoughts into Action: Implants Tap the Thinking Brain",http://www.sciam.com/article.cfm?id=putting-thoughts-into-action&print=true,,1223038114
+322622,story,,,3,0,robg,"Let Buffett Run the Bailout",http://www.thebigmoney.com/print/345,,1223037908
+322621,story,,,2,0,waderoush,"Four ways Amazon could make Kindle 2.0 a best seller",http://www.xconomy.com/boston/2008/10/03/four-ways-amazon-could-make-kindle-20-a-best-seller/,,1223037743
+322620,comment,322055,322276,0,0,ovi256,,,"I think that was just random vandalism. The ATM takes the money back if you do not take them in about 2 minutes, for example if you forget. It happened to me, and the bank did not charge me.",1223037554
+322619,comment,322246,322246,0,0,thorax,,,"It's a long article. Quick summary: NDA is gone, but for the App Store you still can't trust Apple in the sense that you need to trust a ladder before you'd climb it. It's not unreasonable to insist that Apple write down some rules and stick to them regarding accepting applications for the App Store.",1223037542
+322617,story,,,31,6,csl,"There's plenty of room at the bottom",http://www.zyvex.com/nanotech/feynman.html,,1223037244
+322616,comment,322156,322544,0,0,sethg,,,"I don't see how this can be generalized to workers in general; investment banking is hardly a typical job.",1223037064
+322613,comment,322494,322494,0,0,wensing,,,"<a href=""http://www.snapherd.com"" rel=""nofollow"">http://www.snapherd.com</a><p>For convenience.",1223036348
+322612,story,,,3,0,iamelgringo,"Pyjamas 0.3 Release: python-to-javascript compiler and AJAX library",http://groups.google.com/group/pyjamas-dev/browse_thread/thread/eb86751d1156cd26,,1223036250
+322611,comment,322509,322568,0,0,eru,,,"I had some problems with the shipped CD for 8.04 installing on a friends computer.  The alternate CD worked though.<p>Honestly I just want to see if there are any new games in 8.10.",1223036166
+322610,story,,,3,0,lmacvittie,"New TCP vulnerability about trust, not technology",http://devcentral.f5.com/weblogs/macvittie/archive/2008/10/03/new-tcp-vulnerability-about-trust-not-technology.aspx,,1223035711
+322609,story,,,2,0,gasull,"Botnet ranking",http://en.wikipedia.org/wiki/Botnet#List_of_Botnets,,1223035664
+322608,story,,,2,0,jamongkad,"Money can't buy you love, but love can bring you money",http://www.penny-arcade.com/2008/9/29/,,1223035633
+322607,story,,,6,0,danw,"GIMP UI brainstorm",http://gimp-brainstorm.blogspot.com/,,1223035451
+322606,comment,322369,322466,0,0,netcan,,,"I think there might be more to it then that. I'm not really a user of image editing software (Seashore covers most of my needs) so I can't really say this for sure. But I get the impression that GIMP want to do things their way, not the photoshop way. Getting young users using GIMP first gives them a chance to do that.",1223035408
+322605,comment,322369,322369,0,0,maxklein,,,"The GIMP is an example of a user interface that has sucked for many many years, but because certain people are used to it being that way, it was never changed.",1223035252

@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28634,comment,28627,28627,0,0,ralph,,,"It's from September 2005;  although interesting, if you think you've seen it before, you probably have.",1182077289
+28633,comment,363,363,0,0,ralph,,,"The HTML produced has errors, e.g. <a href=""http://validator.w3.org/check?uri=http%3A%2F%2Fnews.ycombinator.com%2Fthreads%3Fid%3Dralph"" rel=""nofollow"">http://validator.w3.org/check?uri=http%3A%2F%2Fnews.ycombinator.com%2Fthreads%3Fid%3Dralph</a>",1182076615
+28632,comment,28410,28590,0,0,keiretsu,,,"i agree. i'm using a module system myself and it's way better than OO",1182076414

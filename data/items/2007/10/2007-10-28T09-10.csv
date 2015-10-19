@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73406,comment,73366,73404,0,0,rms,,,"That Courtney Love rant was mostly plagiarized. Figures, right?<p>The original: <a href=""http://www.negativland.com/albini.html"" rel=""nofollow"">http://www.negativland.com/albini.html</a>",1193564888
+73405,story,,,9,1,tim,"New York Times opens up code",http://www.linux.com/feature/120359,,1193564672
+73404,comment,73366,73366,0,0,brl,,,"This essay is fantastic!  I wish I could vote it up 50 times.<p>It's absolutely the best thing about the music industry vs. the internet that I've read since Courtney Love's rant 7 years ago.
+",1193564115
+73403,comment,73112,73112,0,0,dannywoodz,,,"Yes, as long as 'building' includes 'extending and maintaining an application that's been in service for 12 years'.<p>The whole thing's a financial application written in Smalltalk, interfacing to pricing libraries written in C, with the same type of image working as both the desktop client and distributed compute node.<p>The Seaside web development framework (<a href=""http://www.seaside.st"" rel=""nofollow"">http://www.seaside.st</a>) has attracted a lot of attention and there's a drive to push as much reporting through there as possible, but the day-to-day book and portfolio management looks to be desktop software for at least some years to come.
+",1193563742

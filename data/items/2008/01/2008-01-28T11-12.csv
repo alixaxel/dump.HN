@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+105487,comment,104663,104914,0,0,Tichy,,,"Ah, and now I understand why there even can be multiple submissions: I guess because of the various random parameters some websites attach (session ids or whatever), the duplicate detection mechanism of news.yc doesn't work.<p>Makes me wonder if there could be a way to assign a unique id to every website. I guess at least for news feeds it already exists, but not every submission has a news feed.",1201521530
+105486,story,,,20,7,mattjaynes,"Mediocre Marketing: How NOT To Describe Your Startup",http://onstartups.com/home/tabid/3339/bid/3673/Mediocre-Marketing-How-NOT-To-Describe-Your-Startup.aspx,,1201521463
+105485,story,,,32,1,mattjaynes,"I'm pretty sure these guys pitched me on an angel investment last year",http://blog.pmarca.com/2008/01/im-pretty-sure.html,,1201521183
+105484,comment,105186,105458,0,0,yters,,,"Different parts of our mind are activated by different activities and stimuli, so I'd say our mind can do certain things concurrently.  I know doing something kinetic (fidgety) can help my concentration.",1201521119
+105483,comment,104246,104642,0,0,wmeredith,,,"I found exactly what I was looking for:
+<a href=""http://planetozh.com/blog/2004/09/click-counter-plugin-for-wordpress/"" rel=""nofollow"">http://planetozh.com/blog/2004/09/click-counter-plugin-for-w...</a>",1201520966
+105482,comment,104802,105137,0,0,yters,,,"Good point, that was wrong of me.",1201520630
+105481,comment,105369,105369,0,0,Novash,,,"It is a man. I was going to buy milk when they took the picture.",1201520557
+105480,comment,105050,105050,0,0,dhouston,,,"i.e. ""disruptive innovation"". for a more formal jump into this topic, ""The Innovator's Dilemma"" by christensen.",1201520476
+105479,comment,56331,56422,0,0,some,,,"Etirovaf has come up now as a YC funded startup:<p><a href=""http://news.ycombinator.com/item?id=104772"" rel=""nofollow"">http://news.ycombinator.com/item?id=104772</a>",1201520114
+105478,comment,105470,105470,0,0,rms,,,"Not to pick on him, but there was a startup posted here yesterday that got some harshly negative feedback -- it seemed obvious to many people that users weren't interested in what he was offering. The most positive suggestions suggested alternative product features. I think some founders build a product for themselves and can't understand that it doesn't offer mainstream appeal.<p>It seems like an easy way to check yourself is to ask your target users.",1201519325
+105477,comment,105236,105330,0,0,icky,,,"> You could probably write a program to do it for you.<p>But only Lisp would get it right...",1201519080
+105476,comment,105464,105464,0,0,rms,,,"25 points was the karma threshold for a long time; if it's not a bug PG changed in the algorithm.",1201518956
+105475,comment,105470,105472,0,0,Leon,,,"Do a google search on 'failed internet startup'",1201518638
+105474,comment,105464,105464,0,0,ph0rque,,,"Perhaps it has to do with a karma threshold...?",1201518419
+105473,comment,104977,104977,0,0,jamescoops,,,"Do yoga and pilates and stretching exercises every day",1201518316
+105472,comment,105470,105470,0,0,morbid,,,"can you please quote some examples for this...",1201518156
+105471,comment,105384,105384,0,0,aston,,,"Python is a fun language to code in. I probably net five, ten max, good lines per hour.",1201518059

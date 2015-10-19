@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+30545,comment,30544,30544,0,0,djworth,,,"I'm in the early stages of starting my startup and I'm interested to hear how others are obtaining health insurance.",1182790052
+30544,story,,,11,19,djworth,"What are you doing about health insurance?",,,1182789990
+30543,comment,30456,30495,0,0,plinkplonk,,,"Thank You. We plan to use both automated unit and web interface tests. ",1182789194
+30542,comment,30456,30489,0,0,plinkplonk,,,"""Is it also what you wanted to hear ?""<p>If I ""want to hear something""  I will let you know in advance thank you :-) .<p>While it is impossible to convey all the nuances of the choice before me in a paragraph, I believe the question was very specific.
+-  Have any of the <i>y combinator companies</i> used XP (and want to talk about it)?  Not ""Is XP a good thing? What do you think?""  or ""Can you confirm what I want to hear""? ;-)  <p>I hope I don't sound  rude , but if  <i>you</i> are part of  a y combinator funded startup and are using XP, I'd like your permission  to mail you off thread with more questions about how you are implementing some of the practices in the context of a startup, but  I am <i>not</i> looking for  ""generic"" opinions about XP. I can use the internet for that.  <p>
+I am sorry if the question wasn't clear enough. Thanks for your comments anyway.
+",1182789020
+30541,comment,30445,30493,0,0,far33d,,,"Wouldn't taking half of that 50% still be a significant amount of Google's pie? Killing doesn't require taking all of the pie - it just requires taking enough. 
+",1182789002
+30540,comment,30285,30331,0,0,juwo,,,"Paul, that is reassuring. 
+juwo qualifies as a 'bad' idea :)<p>see <a href=""http://news.ycombinator.com/item?id=26739"" rel=""nofollow"">http://news.ycombinator.com/item?id=26739</a><p>If you would like to collaborate on it, please email me (your's isn't listed).",1182788786
+30539,comment,30513,30538,0,0,far33d,,,"If it has no karma, then how does it support your thesis that karma is hurting the quality of YC news? 
+",1182788662
+30538,comment,30513,30537,0,0,transburgh,,," No karma up votes because it is not relevant.",1182788492
+30537,comment,30513,30514,0,0,far33d,,,"The example you state is both relevant AND has NO karma upvotes. How does this support your thesis?",1182788350
+30536,story,,,13,4,brett,"No Plan, No Capital, No Model...No Problem: Guy Kawasaki moderates a panel with Markus Frind and James Hong ",http://blog.guykawasaki.com/2007/06/no-plan-no-capi.html,,1182788230
+30535,story,,,2,0,transburgh,"Facebook and Twitter - The suck-up effect",http://valleywag.com/tech/early-adopters/the-suck+up-effect-271921.php,,1182788227
+30534,story,,,2,0,paulgb,"Simple software development methodology for solo developers",http://www.ddj.com/dept/architect/184415530,,1182787778

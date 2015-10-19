@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4953,comment,4950,4950,0,0,rms,,,"Fun idea. I like it.",1174294708
+4952,comment,4950,4950,0,0,staunch,,,"It sounds like they're going to shotgun together some EVDO cards so they have enough bandwidth for a high quality stream? I wonder if they've created some kind of proxy to split up the stream and reassemble it with some hacked up cam-driver or something. Hopefully it's not too complicated a system.<p>Very interesting if it works out. Latency with EVDO isn't great, but mostly good enough. WiFi is pretty useless for mobile broadcasting because it's not very mobile.
+",1174293372
+4951,story,,,1,0,noisemaker,"Elusive Consumer: Music gets an 'F' Clue Score",http://elusiveconsumer.wordpress.com/2006/12/17/music-gets-an-%e2%80%98f%e2%80%99-clue-score/,,1174292572
+4950,story,,,75,28,gaz,"Kiko guys back as reality tv stars",http://www.techcrunch.com/2007/03/19/kiko-guys-back-as-reality-tv-stars/,,1174292452
+4949,comment,4855,4945,0,0,davidw,,,"Care to explain why this was  voted this down?  It's true, as far as I can tell from this article:<p><a href=""http://www.techcrunch.com/2007/03/09/demo-day-y-combinators-spring-chicks/"">http://www.techcrunch.com/2007/03/09/demo-day-y-combinators-spring-chicks/</a><p>So I'm a bit curious that Paul posted something about mobile being a dud.  Perhaps he thinks Tsumobi has a good answer to part of the problems with mobile?<p>I'm curious because I'm pretty interested in the mobile space, and, indeed, wrote something very similar to Tsumobi (Hecl), and was thrilled to see that ycombinator thought enough of the idea to fund it.    (Ok, yeah, would be nice if someone funded <i>me</i>, but I never really pursued Hecl as a startup idea, but more as an open source platform).
+",1174291797
+4948,comment,4861,4861,0,0,ced,,,"PG writes in the Viaweb FAQ that they (and Yahoo) did not use any database, just files. It makes sense... Is there something fundamentally different about your app, so that a DB is obviously a better choice?
+",1174291748

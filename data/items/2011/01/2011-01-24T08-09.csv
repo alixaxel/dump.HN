@@ -1,0 +1,139 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2134711,comment,2133663,2134179,0,0,adrianwaj,,,"FWIW, when Facebook went big in 2005 as it started spreading across schools, CMS'es PHPNuke, Mambo, Xoops, Drupal, Joomla, Post Nuke and many more had been around for years. They were and are called CMS'es first, but really they are social networks too. I was customizing Xoops in 2003 and there were a lot of modules to choose, which could have easily done exactly what FB was doing at the time. FB packaged it up nicely and broke into the cool people first.",1295859530
+2134710,comment,2134482,2134482,0,0,davidw,,,"I was working at Linuxcare.  I wish I knew more about business and economics then - I was pretty focused on the open source stuff.",1295859527
+2134709,comment,2134482,2134482,0,0,aeden,,,"CTO at a domain registrar. Our company actually survived the pop and eventually was ""sold"" for other reasons. The main things I learned from that experience was that it is important to be conscious of competitor pricing and how it affects your market. It's ok to be more expensive than your competitors, but you have to differentiate to back that up. Being expensive just because you're ignoring the marketplace will end up causing trouble. Also, be frugal and focus (although I don't think I really learned this until after I failed numerous other times - sometimes I still wonder if I have learned the lesson).",1295859515
+2134708,story,,,15,4,Void_,"Features everyone must borrow from Facebook",http://codingwithlove.com/thoughts/3-features-everyone-must-borrow-from-facebook,,1295859505
+2134707,comment,2134542,2134542,0,0,payothl,,,"This is in french but the code used by the Tunisian dictatorship is here: <a href=""http://www.hackerzvoice.net/node/105"" rel=""nofollow"">http://www.hackerzvoice.net/node/105</a>",1295859493
+2134706,comment,2134482,2134482,0,0,InclinedPlane,,,"I was working at a tiny company (at times just me and the president/owner) providing shopping cart SaaS. Initially I quit 'cause I was tired of working there but continued on as a contractor at higher pay for several months. I left completely when they stopped being able to pay me. I can't tell if they're still around but the company certainly hasn't lived up to its potential, they never made a serious investment in technology and have fallen hugely behind all of the competition.<p>My title was irrelevant due to the size of the company.<p>Short lessons? Probably to get out sooner rather than later when you recognize deep problems in a company.<p>I wish I knew how much my skills were worth back then and a better way to market them.",1295859368
+2134705,story,,,1,0,clu3,"The Choking of China - and the World",http://www.independent.co.uk/opinion/commentators/johann-hari/the-choking-of-china--and-the-world-2192372.html,,1295859345
+2134703,comment,2132591,2132776,0,0,kunley,,,"This is actually how every small company I know started hiring when they've had less than 20 people.<p>Seems the rule not the exception. At least in my country.",1295859219
+2134702,comment,2133455,2133467,0,0,derrida,,,"I actually think this is far more repetitive than a math whizz could handle, and might bore them if programming is presented this way to them. I think the suggestion earlier for Structure and Interpretation of Computer Programs was a good one.",1295859093
+2134700,comment,2134542,2134542,0,0,csomar,,,"I didn't see a shift from http to https in the protests day. However, pages that report anti-government news, asked their audience to use <a href=""https://login"" rel=""nofollow"">https://login</a>. so they can open censored pages.<p>Back to Facebook, it had played a very important role and was key to the protests success. In the past, information is spread through word of mouth. There isn't trust, when it's spread that way and also no images or videos. The information that arrives isn't quite adequate.<p>Emails and forums are good, but due to Video websites censoring, they can't play an important role, since only a few fraction of the Web users in Tunisia can run a proxy.<p>Facebook changed everything, anti-gov. pages have from 200K to 600K fans. That's more than the half of the connected Tunisian population. In the last days, activity on Facebook was terrible, I would estimate that I post 50 to 100 videos, status and images; same for my friends.<p>Information spread essentially from these few pages with huge popularity. In a discussion, Admins seems to be using proxies and VPN to make secure connections and they have an anonymous Facebook account to communicate with the protesters (receive videos, photos, and information).<p>The urgent news would take only 30 minutes at most to spread through the network. Most of my friends, spend all the night (and dawn?) until late 4 and 5 A.M.",1295859045
+2134699,comment,2134116,2134199,0,0,pmoehring,,,"What's interesting to see is also that for most of these companies, the total number of shares issued at IPO was below 10%. Info on who sold what when would be interesting as well.",1295859024
+2134698,story,,,3,0,buddydvd,"Linq.js by examples",http://neue.cc/reference.htm,,1295859010
+2134697,comment,2134542,2134542,0,0,ilamont,,,"I admire the company for the steps that it took to protect the passwords of Tunisian users, but the story of how it responded surely can't help its efforts to get into China and other states that rely on information control to stifle dissent.",1295858966
+2134696,comment,2134628,2134628,0,0,davemc500hats,,,"Robert: how do programming talent & costs in Japan compare with US / other locations?",1295858935
+2134695,comment,2133189,2133830,0,0,wlievens,,,"I've read this criticism a lot, so I'm really curious:<p><i>How would you 'clean up' generics syntax in Java?</i>",1295858925
+2134694,comment,2134486,2134486,0,0,mcantelon,,,">9 is national assignment<p>...as in state applications, like national ID cards?",1295858891
+2134693,comment,2134542,2134667,0,0,edanm,,,"About 2), I'm not sure how that's possible. I've written details of the method that I think they used in another comment, but basically, they're showing you tagged pictures of friends and asking you who it is. A computer will be unable to translate the picture of a friend to a name.",1295858888
+2134692,comment,2132883,2134359,0,0,wahnfrieden,,,"Most HTTP traffic is already gzipped.",1295858863
+2134691,comment,2133792,2134211,0,0,derrida,,,"If you follow from the definition of monad I gave above, why couldn't you just write a monad class in java?<p>I must admit here, I don't know almost anything about what is being talked about. But you are using words I do understand in weird ways!",1295858859
+2134690,comment,2134542,2134638,0,0,edanm,,,"I've had to answer the social CAPTCHA myself, when logging in from a different country while on vacation. Details:<p>You are shown two pictures of the same friend, with the tag of him/her showing (i.e. a square around them, like what you get when you hover over their name in a tagged photo). You are then asked to say which friend of yours it is, choosing from a list of around 7 names.<p>You can skip as many of these questions as you like, in case you've got pictures where the tag isn't very good (e.g. someone tagged a comic or something instead of an actual photo). But every question you answer <i>has</i> to be correct.",1295858810
+2134689,story,,,3,0,znmeb,"The Social Media Analytics Research Toolkit - Now With Sentiment Analysis",http://borasky-research.net/2011/01/24/the-social-media-analytics-research-toolkit-now-with-sentiment-analysis/,,1295858807
+2134688,comment,2134482,2134482,0,0,toadi,,,"I'm getting so old I already have experienced several bubble bursts ;)",1295858723
+2134687,comment,2134432,2134509,0,0,InclinedPlane,,,"Certainly, if you believe that comics should merely be mindless escapist pablum for babies, then there's no reason to believe that the comics code authority limited comic books in any way.<p>Consider how many famous literary works run afoul of the restrictions in the CCA: The Lord of the Rings, Oliver Twist, The Count of Monte Cristo, Homer's Odyssey, the Harry Potter series, Coraline, Lord of the Flies, The Adventures of Huckleberry Finn, To Kill a Mockingbird. Many of these books are considered literary classics that young adults are widely encouraged to read.<p>It's good that the CCA is finally gone, without it comics and graphic novels can finally step up to their rightful place as a full-fledged member of the many varied literary media.",1295858691
+2134686,story,,,1,0,timthorn,"Mobile phone to blast into orbit",http://www.bbc.co.uk/news/science-environment-12253228,,1295858548
+2134685,comment,2133898,2133898,0,0,epynonymous,,,"an aside firstly, new york times is horrible for forcing you to register to read articles!<p>though jobs is great at delivering marketing launches and making sure things get done the right way, jonathan ives was strongly behind the soft and hard interface designs of most of the past few years' apple gear, this will not change anytime soon.<p>what probably changes are the wwdc's and product launches, they won't be as cool, but who cares, you'll still buy product.",1295858533
+2134683,comment,2134628,2134652,0,0,robert_mygengo,,,"I have to credit Steve Blank with that one — and I recommend his book The Four Steps to the Epiphany unreservedly.",1295858462
+2134682,comment,2133792,2133792,0,0,derrida,,,"What is this post talking about?<p>I don't know what you computer science folk are talking about, but a monad in philosophy in one sentence is: a simple object (meaning indivisible) that causally interacts with other objects by observing its environment.<p>It is contrasted to other (more standard) views of objects that act upon other objects to make them move. Monads can't operate on other objects, they can only operate on themselves.<p>For more information google ""Leibniz""",1295858374
+2134681,comment,2134433,2134433,0,0,b0b0b0b,,,"When modelling hypothetical trades do you account for slippage and transaction costs?",1295858334
+2134680,comment,2134537,2134537,0,0,itaru,,,"Will show up.",1295858315
+2134679,comment,2133755,2133925,0,0,zmitri,,,"I think less verbiage would help a lot in the case of this article. You would get to the point much quicker and people would 'read' it instead of just give it a quick glance over.",1295858301
+2134677,comment,2134482,2134645,0,0,mnazim,,,":D me 2",1295858268
+2134676,comment,2134433,2134563,0,0,ajays,,,"Anything is available if you're willing to pay enough for it... ;-)<p>As an amateur, the ""enough"" in the above statement is close to 0.<p>Plus, I don't know what I'd do with NSE data. I'm looking for NASDAQ/NYSE data.",1295858217
+2134675,story,,,2,0,niyazpk,"A call for development help and research: Lazyweb Requests",http://paulirish.com/2010/lazyweb-requests/,,1295858205
+2134674,comment,2134542,2134542,0,0,bcx,,,"Perhaps the article doesn't have enough detail in it.  But it sounds like ISPs were just sniffing HTTP packets for usernames and passwords.<p>It doesn't sound like a directed attack on facebook, though perhaps it was a session replay attack.<p>The real question for me, is why didn't facebook already require SSL login.",1295858195
+2134672,story,,,3,0,gspyrou,"China Mobile's Custom Android ""oPhone"" Is In Serious Trouble",http://www.businessinsider.com/google-android-in-china-ophone-2010-12,,1295858182
+2134671,comment,2134523,2134523,0,0,mariust,,,"Indeed a nice article, I think that PR is very important for a startup, I would say that is viral, we all know todays startups from press, and when we visit they're link we become users if the product they offer is indeed one of the best on the market",1295858120
+2134670,comment,2133216,2134533,0,0,wlievens,,,"It was more than a fringe phenomenon. There was even a movie based on this train of thought, starring a now fairly respectable actor.<p><a href=""http://en.wikipedia.org/wiki/Mazes_and_Monsters"" rel=""nofollow"">http://en.wikipedia.org/wiki/Mazes_and_Monsters</a><p><i>Like the book on which it is based, the film treats the playing of roleplaying games as indicative of deep neurotic needs. At least one protagonist is (or at least appears to be) suffering from schizophrenia (or some analogous condition) and in the end, the attainment of mature adulthood by others players is accompanied by the abandonment of role-playing games.</i>",1295858109
+2134669,comment,2134188,2134188,0,0,kunley,,,"Don't tell them what are you going to do. They will most probably hate the idea of becoming your customer, at least at start.<p>So just don't do it for the sake of good relationship with this employer.<p>Also a lesson of being independent which you know already: you don't have to excuse yourself. Do your stuff and move on.",1295858062
+2134668,comment,2134542,2134659,0,0,piramida,,,"no that means that like any ISP they have full access to unencrypted traffic, including login POST requests",1295857990
+2134667,comment,2134542,2134542,0,0,pilif,,,"A couple of things:<p>1)how sure can we be that switching to SSL really got rid of the sniffing going on? I'm asking because I assume that it's totally within the capabilities of the government to sneak-install a CA certificate on clients.<p>Or they don't bother and trust people to just click through the security warning.<p>2) is that ""identify your friends"" check maybe a bit pointless as the needed answers can probably be determined using data from already hacked accounts.<p>3) playing devil's advocate here: if the laws of Tunesia allow for the government to do such things, is it Facebooks place to violate those laws? And: could they be pressed into giving away that data anyways due to political pressure from wherever?<p>I wouldn't use Facebook to post anything that I would not want a third party to see - unless I encrypted it beforehand.",1295857939
+2134666,comment,2134540,2134540,0,0,gojomo,,,"Note that there's now better answers and the criticized exchange is gone:<p><a href=""http://stackoverflow.com/questions/4772893/vb-net-interrupt-form-loop-and-end-form"" rel=""nofollow"">http://stackoverflow.com/questions/4772893/vb-net-interrupt-...</a><p>No forum or community should be judged by one out-of-context snapshot... it's the process, and the end result, that matters.",1295857885
+2134665,comment,2133216,2133912,0,0,wlievens,,,"They've since shifted their focus to Harry Potter.",1295857815
+2134664,comment,2134482,2134614,0,0,robflynn,,,"Ah, the old ""ahead-of-its-time"" thing. I feel like the company that I worked for was there as well.<p>I felt like some folks just didn't ""get"" what it was we were working on. I almost feel that if we were doing the same thing just a couple years later or if that acquisition offer hadn't gone south that things would have turned out much differently.<p>Who knows, maybe we just marketed things incorrectly. It was, however, one of the most fun times of my life. I do not regret it at all.",1295857789
+2134663,comment,2132991,2134660,0,0,rdouble,,,"Math textbooks are not cheap.",1295857714
+2134661,comment,2134482,2134482,0,0,robflynn,,,"I was working for a company in Irvine, CA that did VoIP/telephony.<p>Some of our stuff was pretty neat. We ended up open sourcing part of the project. It was a C++/CORBA system that allowed for passing of messages of different types (calendar, bulletin board, e-mail, faxes, and voicemails) across the various transports.<p>It looks like the sourceforge site still exists: <a href=""http://tucan.sourceforge.net"" rel=""nofollow"">http://tucan.sourceforge.net</a><p>Ironically, the company was called Difinium at the time it folded and I ended up moving from there to Digium doing similar things with Asterisk.",1295857633
+2134660,comment,2132991,2132991,0,0,nazgulnarsil,,,"also: textbooks are cheap (anything behind the latest edition has high supply and low demand as all of last year's students dump them).<p>you can receive tomes that cover vast swathes of human knowledge for the price of a sandwich.  trying to educate yourself online usually doesn't compare to a really excellent textbook.",1295857537
+2134659,comment,2134542,2134542,0,0,wyuenho,,,"Mmm, does that mean the Tunisian ISP modified the login pages from Facebook to include a key logger?",1295857500
+2134658,comment,2133304,2133304,0,0,leon_,,,"Hmm, a guy gets lucky and sells a really simple website and is now an entrepreneur/hacker genius?<p>It's stuff like this that makes me wanna read HN less.",1295857427
+2134657,comment,2133304,2134548,0,0,random42,,,Colleges,1295857422
+2134656,comment,2134210,2134466,0,0,j_baker,,,"Be confused no longer.  This is the part he was referring to:<p>""He is often said to be the most powerful mage in the Realm""<p>If numair really is the most powerful mage in the Realm, I think it's fair to say that he might have special knowledge of Sean Parker.",1295857390
+2134655,comment,2133898,2134018,0,0,wisty,,,"I'm guessing that the next CEO will be an iCEO just like Jobs was, untill they have a few runs on the board.",1295857349
+2134654,comment,2134628,2134628,0,0,Schmelsson,,,"Cool! Looks like these guys are really doin it!",1295857250
+2134653,comment,2123808,2130393,0,0,loewenskind,,,"Given that your ""selectively picking and choosing data points to spin your argument"" was even worse (""a lot of people find...""  what a nonsensical peace of spin!), that's pretty rich.",1295857214
+2134652,comment,2134628,2134628,0,0,scottcard,,,"Love the quote ""if the probability of 'risk X' is lower than the probability of your company not surviving to the next milestone, forget about it."" It's like an extreme transformation of the 80/20 rule to apply to the world of startups.",1295857187
+2134651,comment,2134537,2134537,0,0,jamii,,,"Bah, I leave Tokyo on the 2nd.  Any HNers want to grab a beer before then?",1295857140
+2134650,comment,2134369,2134583,0,0,matt2224,,,"Works fine for me on Chrome OS X. :)",1295857001
+2134649,comment,2129745,2134232,0,0,tlrobinson,,,"Ok here's the best I can do:<p>(lines are numbered in order of execution, with explanations of each line)<p><pre><code>    ($=[                // 14: $ = Array.prototype.sort ([][""sort""] = Array.prototype.sort)
+        $=[]            // 1: $ = []
+    ][
+        (__= !$+$ )[    // 2: __= ""false"" (![]+[] = false+[] = ""false"")
+            _=-~-~-~$   // 3: _= 3 (-~-~-~[] = -~-~-(-1) = -~-~(1) = -~-(-2) = -~(2) = -(-3) = 3)
+        ]+              // 4: ""s"" (""false[3]"" = ""s"")
+        ({}+$)[         // 5: ""[object Object]"" ({}+[] = ""[object Object]"")
+            _/_         // 6: 1 (3/3 = 1)
+        ]+              // 7: ""o"" (""[object Object]""[1] = ""o"")
+        ($$=            // 12: $$ = ""rt""
+            ($_=        // 9: $_ = ""true""
+                !''+$   // 8: ""true"" (!''+[] = true+[] = ""true"")
+            )[_/_]+     // 10: ""r"" (""true""[3/3] = ""true""[1] = ""r"")
+            $_[+$]      // 11: ""t"" (""true""[+[]] = ""true""[0] = ""t"")
+        )               // 13: ""rt""
+    ])()[               // 15: window (sort() = window)
+        __[_/_]+        // 16: ""a"" (""false""[3/3] = ""false[1]"" = ""a"")
+        __[_+~$]+       // 17: ""l"" (""false""[3+(~$)] = ""false""[3+(-1)] = ""false""[2] = ""l"")
+        $_[_]+          // 18: ""e"" (""true""[3] = ""e"")
+        $$              // 19: ""rt""
+    ](_/_)              // 20: alert(1) (window[""alert""](3/3) = alert(1))
+</code></pre>
+[] is assigned to ""$"" in step one. Several of the steps between 2 and 11 reference ""$"" to save one character rather than typing<p>If you wanted to remove the a=[] you'd have to include a bunch of ""[]""s inline, e.x.:<p><pre><code>    ($=[][
+        (__= ![]+[] )[
+            _=-~-~-~[]
+        ]+
+        ({}+[])[
+            _/_
+        ]+
+        ($$=
+            ($_=
+                !''+[]
+            )[_/_]+
+            $_[+[]]
+        )
+    ])()[
+        __[_/_]+
+        __[_+~$]+
+        $_[_]+
+        $$
+    ](_/_)
+</code></pre>
+Replacing the no-alpha variable names with letters might help:<p><pre><code>    (F=[
+        A=[]
+    ][
+        (B= !A+A )[
+            C=-~-~-~A
+        ]+
+        ({}+A)[
+            C/C
+        ]+
+        (D=
+            (E=
+                !''+A
+            )[C/C]+
+            E[+A]
+        )
+    ])()[
+        B[C/C]+
+        B[C+~F]+
+        E[C]+
+        D
+    ](C/C)
+</code></pre>
+Notice both ""A"" and ""F"" were ""$"". The original code reused ""$"" to save a character.<p>I'm not sure I can make it any clearer.",1295856948
+2134648,comment,2134433,2134433,0,0,chr15,,,"Is this still how it works? <a href=""http://news.ycombinator.com/item?id=1946902"" rel=""nofollow"">http://news.ycombinator.com/item?id=1946902</a>",1295856931
+2134647,comment,2134542,2134542,0,0,piramida,,,"""The country's Internet service providers were running a malicious piece of code that was recording users' login information when they went to sites like Facebook.""<p>Right, for all those pre-21st century sites that still don't enforce SSL for authorization. It should be a standard, not a counter-measure.",1295856898
+2134646,comment,2134561,2134561,0,0,nickolai,,,"Obligatory XKCD<p><a href=""http://xkcd.com/509/"" rel=""nofollow"">http://xkcd.com/509/</a>",1295856771
+2134645,comment,2134482,2134482,0,0,wlievens,,,"Born in '83, so in 2000 I was in high school :-)",1295856695
+2134644,comment,2134433,2134433,0,0,michael_dorfman,,,"Based on the headline, I was really expecting a post explaining that edw519 had been silently replaced by a bot for the past few weeks, and that we've all been participants in a Turing Test.<p>For a moment there, I was seriously impressed.",1295856691
+2134643,comment,2132456,2132456,0,0,GertG,,,"You might want to correct the typo in the second heading: How to I use it?",1295856662
+2134642,story,,,1,0,dshah,"Startup equity case study: Real data publishing real world scenarios",http://garrysub.posterous.com/startup-equity-case-study-real-data-publishin,,1295856637
+2134641,comment,2134628,2134628,0,0,mskyrm,,,"Very sound advice from some outstanding entrepreneurs with a great business here in Tokyo!",1295856485
+2134639,comment,2132883,2132883,0,0,enterneo,,,"suggestions for a mobi viewer for Mac OS X?",1295856374
+2134638,comment,2134542,2134542,0,0,Matt_Cutts,,,"Good for Facebook. From the article, it sounds like they did two major things: 1) shift all Tunisian IP addresses to https instead of http. 2) anyone who logged out/in while the keylogger code was running was shown a social CAPTCHA. The CAPTCHA asks you to identify friends in photos.",1295856355
+2134637,comment,2134542,2134542,0,0,gojomo,,,"Bravo, Facebook.<p>In short, there were indications that the government was swiping passwords on each new Facebook login. Within days, Facebook switched all Tunisian sessions to HTTPS, and required people whose passwords had likely been compromised to go through a password-reset based on identifying pictures of friends.<p>(Also, the article suggests that Facebook is a more important news and organizing outlet in Tunisia than Twitter.)",1295856325
+2134635,comment,2134540,2134605,0,0,OwlHuntr,,,"Sure it does, but for a place which prides itself in professionalism and enthusiasm this is a terrible example. I think this may even point to degrading answer quality just for the points. At least Quora is still fresh.",1295856253
+2134634,story,,,10,0,toumhi,"Book Review: Start Small, Stay Small",http://sparklewise.com/?p=808,,1295856149
+2134633,comment,2134222,2134222,0,0,wazoox,,,"The article forgot important milestones, like the SAGE graphic displays and lightpens.",1295856127
+2134631,comment,2134433,2134433,0,0,gaspard,,,"Applying these engineering forces to build a huge ""casino winning"" software is a waste. What happens if it works ? We have the over-super-rich who can build and maintain such machines that get richer and the rest of us with debts and taxes. I hope such experiments accelerate towards a Tobin tax: fast speculative machines (nanotrading) will just die away and we will get back to ""investment"" based trading not casino.",1295856113
+2134629,comment,2134537,2134601,0,0,po,,,"I assume you're coming to Tokyo during that time? We usually have them every month or two… no real fixed schedule. You can follow our blog's RSS feed or shoot me an email at paul@makeleaps.com and I'll put you on the mailing list if you want to be sure that you don't miss it.",1295856038
+2134628,story,,,42,13,robert_mygengo,"How to Create A Startup in Japan (In 10 Easy Steps)",http://blog.500startups.com/2011/01/24/how-to-create-a-successful-startup-in-japan-in-10-easy-steps/,,1295856011

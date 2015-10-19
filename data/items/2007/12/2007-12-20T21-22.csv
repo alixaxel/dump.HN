@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91583,story,,,4,0,ALee,"Loopt just beginning, mobile reality mining is the future",http://www.technologyreview.com/Infotech/19968/,"Really interesting article explaining for YC founders mobile as the next step in the wave of technology. Beyond just the simple geo-location stuff.",1198187925
+91582,comment,91575,91575,0,0,davidw,,,"You could look at current ad revenue over a year or two.",1198187685
+91581,comment,91503,91503,0,0,edw519,,,"I'd be concerned about losing manufacturing capability overseas, except for one prickly little detail.  Software and services are to the 21st century what heavy industry was to the 20th.  The manufacturing of what's really important is still happening here.",1198187635
+91580,story,,,5,1,makimaki,"Does Japan Need the iPhone? ",http://www.businessweek.com/globalbiz/content/dec2007/gb20071220_152247.htm?campaign_id=rss_topStories,,1198187481
+91579,story,,,19,8,robg,"Smart Elevators, Dumb People",http://tierneylab.blogs.nytimes.com/2007/12/20/smart-elevators-dumb-people/index.html?hp,,1198187379
+91578,comment,91361,91361,0,0,Tichy,,,"I recently tried Erlang and it was fun, but I am not that excited by it anymore. It could do with some convenience features, like arrays. List module could be imported per default and stuff like that. I ended up having to write my own methods for fairly standard things (could have been because of my lack of experience with Erlang, though). And I only did some simple project euler problems, nothing big.",1198187374
+91577,story,,,9,2,jobenjo,"10 great Web site designs/redesigns of 2007",http://www.webware.com/8301-1_109-9835960-2.html,,1198187367
+91576,story,,,26,10,pchristensen,"List of Companies Currently Using Lisp and Scheme - please help me expand it",http://www.pchristensen.com/blog/lisp-companies/,,1198187264
+91575,story,,,29,35,modoc,"Ask YC: What is a website worth?",,"I've been approached by someone who would like to buy http://10minutemail.com (disposable e-mail addresses for spam avoidance) from me.  
+It was just a fun project for me, but did pull in a fair bit in google ad revenue over the last 12 months.  
+The site gets about 2 million page views a month.  
+Is there a calculation on what a site like that would be worth, based on traffic or current ad revenue or something else?  <p>Regards,<p>Devon",1198187068
+91574,story,,,1,1,dpapathanasiou,"The Best Software Development Posts of 2007",http://www.realsoftwaredevelopment.com/2007/12/the-best-softwa.html,,1198186970
+91573,comment,91570,91571,0,0,davidw,,,"Yeah, could we save that for some other site?  Any time these get voted up, they're all about beliefs and have no real exchange of information.",1198186778
+91572,story,,,1,0,transburgh,"Who Will Be The First Tech President? Help Us Endorse A Candidate",http://www.techcrunch.com/2007/12/20/who-will-be-the-first-tech-president-help-us-endorse-a-candidate/,,1198186084
+91571,comment,91570,91570,0,0,jraines,,,"This just in:  global warming debated.",1198185913
+91570,story,,,4,3,gibsonf1,"U.S. Senate Report: Over 400 Prominent Scientists Disputed Man-Made Global Warming Claims in 2007  ",http://epw.senate.gov/public/index.cfm?FuseAction=Minority.SenateReport,,1198185423
+91569,comment,91545,91545,0,0,sarosh,,,"The actual academic papers from MIT are far more interesting:
+<a href=""http://reality.media.mit.edu/publications.php"" rel=""nofollow"">http://reality.media.mit.edu/publications.php</a><p>N. Eagle and A. Pentland (2007), ""Eigenbehaviors: Identifying Structure in Routine"", Behavioral Ecology and Sociobiology (in submission). <a href=""http://reality.media.mit.edu/pdfs/eigenbehaviors.pdf"" rel=""nofollow"">http://reality.media.mit.edu/pdfs/eigenbehaviors.pdf</a> <p>L. Wang et al. (2007), ""Instant Message Clustering Based on Extended Vector Space Model"", Advances in Computation and Intelligence, Springer-Verlag Lecture Notes in Computer Science 4683, 435-443. <a href=""http://reality.media.mit.edu/pdfs/Wang.pdf"" rel=""nofollow"">http://reality.media.mit.edu/pdfs/Wang.pdf</a><p>E. Terzi (2006), ""Problems and Algorithms for Sequence Segmentations "", Ph.D. Thesis, Computer Science, University of Helsinki, 2006. <a href=""http://reality.media.mit.edu/pdfs/Terzi.pdf"" rel=""nofollow"">http://reality.media.mit.edu/pdfs/Terzi.pdf</a>",1198184828
+91568,comment,91196,91396,0,0,michaelneale,,,"That is a good and important book. It is really important for Engineers - ie if you WIN an argument, you have LOST a friend.",1198184786
+91567,comment,91311,91440,0,0,mwerty,,,"b. and c. are not an option for everyone.
+Their risk profile may be different than what you think it to be.",1198184722

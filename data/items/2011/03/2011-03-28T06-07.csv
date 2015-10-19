@@ -1,0 +1,219 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2377442,comment,2377299,2377429,14,0,rayboyd,,,"Indeed, a bunch of New York executive wages over an 18 month period start to add up. Khoi Vin (former art director) pondered this on his blog a few weeks ago [1], citing it as one of the reasons he resigned his post.<p>[1] <a href=""http://www.subtraction.com/2011/03/18/what-the-nyt-pay-wall-really-costs"" rel=""nofollow"">http://www.subtraction.com/2011/03/18/what-the-nyt-pay-wall-...</a>",1301295580
+2377441,comment,2377022,2377022,10,0,nkassis,,,"I used his technique for a while but then I had to find the max and min of an array of 1 million values which is more than the maximum number of arguments to a function in most javascript implementation so I rewrote it a such:<p>Array.prototype.min = function() {<p><pre><code>  var increment = 50000;
+
+  if(this.length > increment){
+
+    var reduced_array = [];
+
+    for(var i=0;i<this.length;i+=increment) {
+
+      reduced_array.push(Math.min.apply(Math, </code></pre>
+this.slice(i,i+increment-1)));
+    }<p><pre><code>  }else {
+
+    return Math.min.apply(Math, this);
+
+
+  }
+
+  return reduced_array.min();
+
+</code></pre>
+};
+Array.prototype.max = function(array) {<p><pre><code>  var increment = 50000;
+
+  if(this.length > increment){
+
+    var reduced_array = [];
+
+    for(var i=0;i<this.length;i+=increment) {
+
+      reduced_array.push(Math.max.apply(Math, this.slice(i,i+increment-1)));
+
+    }
+
+  }else {
+
+    return Math.max.apply(Math, this);
+  }
+</code></pre>
+I'm sure someone can suggest a better way.",1301295569
+2377440,comment,2377299,2377299,7,0,iantimothy,,,"It seems like everyone thought the goal was ""How do we charge for content"" instead of ""How do we provide value that people are willing to pay for content"".",1301295514
+2377439,comment,2377033,2377095,6,0,okaramian,,,"The tight ties between the public/private sectors worked so well for finance.  I can't wait to see what havoc will be wreaked by similar practices being spread to the tech sector.",1301295464
+2377438,comment,2376782,2377387,2,0,elliottkember,,,"It's generally a good idea to concatenate your stylesheets for production - doesn't mean you have to write them as one big file, though.",1301295460
+2377437,story,,,64,38,jeffbarr,"Amazon EC2 Dedicated Instances",http://aws.typepad.com/aws/2011/03/amazon-ec2-dedicated-instances.html,,1301295437
+2377436,comment,2377109,2377109,4,0,makeramen,,,"I'd like to offer another possible view: Maybe IPv6 will be a great filter on the internet.<p>All the subpar websites I don't want to be bothered by won't switch, and I won't have to deal with them.",1301295277
+2377435,comment,2375629,2376808,4,0,andfarm,,,"You know, that's a really interesting observation. Having lived across the hall from day[9] in college and seen him play both Starcraft and poker, the intense concentration, and frenetic clicking, and split-second analysis involved in both activities are really not all that different. :)",1301295270
+2377434,story,,,3,0,ifesdjeen,"Immaterials: Light painting WiFi",http://www.youtube.com/watch?v=cxdjfOkPu-E,http://www.nearfield.org/2011/02/wifi-light-painting,1301295227
+2377433,comment,2375879,2376283,-1,0,ericmsimons,,,"LOL. Does this guy think he's really going to scare us with lines that could've come from a Michael Bay movie??",1301295216
+2377432,comment,2376847,2377287,1,0,demallien,,,"Good points, though I disagree with this:
+""Moreover, it is almost never the programmers who decide to incur technical debt""<p>In my experience this is sadly not true.  There are an awful lot of programmers out there that don't even understand that technical debt exists.  I see it a lot amongst inexperienced programmers.<p>The worst thing about technical debt type issues is that it is very difficult to explain to someone why there is a problem.  You have a young programmer, fresh out of uni, and you ask them to build a small subsystem, which they do with much enthusiasm.  Then in the code review you see a bunch of practices that are going to make life difficult down the track: naming conventions haven't been followed, huge 500 line functions, tests are brittle if they exist at all, the code is full of handlers for special cases, instead of finding a single algorithm that elegantly handles all nominal cases, things like that.<p>The trouble is, the code works, kind of, so it is hard to explain to someone why code in that state is not acceptable.  Furthermore, I can happily accept code that doesn't meet one of those criteria that I listed above, but when you start to have multiple infringements, code just becomes unmaintainable.  It's not a clear cut case of something that you can point to and say ""that's wrong"", but more of a overall cumulative effect.  I eventually had to let one guy go because I just could not get him to understand that this stuff was important when you're building a big system.",1301295196
+2377431,story,,,2,2,Wadsworth,"Ask HN: How do I share an idea with a company but still receive credit? ",,"It is a great little idea- that I would give away if it meant that it would be used. I do want to be in a position where I am able to take credit.
+What do I do?<p>Should I build a prototype? And then just start knocking on doors? Cold-emailing founders?<p>This is a complementary idea-- it would be something that companies like: SCVNGR, 4Square, Facebook and even Color.com will one day adopt to improve service for their users (and add value in their partnerships).",1301295121
+2377430,story,,,1,2,mindfulbee,"From a college student: Facebook 2.0?",,"I kind of posted this topic before, but I just wanted to see what other people thought about facebook.<p>As a college student, I don't really enjoy using facebook as much as I first did.
+Also, I've asked around and many of my peers are starting to the same. We are all become spectator's in facebook. I think there is a way to revolutionize this problem. What do you think?<p>-CC",1301295093
+2377429,comment,2377299,2377361,15,0,phamilton,,,"It's a little more complicated than that.  From the Bloomberg article:<p>""Developing the technology for paywalls is challenging because publishers are trying to strike the most profitable balance between charging some online readers and letting others in free to generate advertising and attention. Though Times Co. has said it will charge visitors after theyve read a certain number of stories, for example, the company plans to let people coming to the website from social networks such as Facebook Inc. view an unlimited number of those stories for free.""<p>I suspect that almost all of that budget went into market research.  This isn't quite an A/B testing scenario.  If you drive away potentially paying customers 50% of the time (in a worst case A/B test) then you are losing money.  The potential for lost revenue in a ""release early, release often"" iteration approach may justify such a big budget.  With so many factors, quite a bit of strategizing and research need to happen before putting things to the test.",1301295081
+2377428,comment,2376456,2376456,16,0,DrStalker,,,"I've always thought of a reference chack as a way to make sure someone has at least two friends that are willing to say nice things about them.",1301295030
+2377427,story,,,1,0,tdpromo,"Instant search comes to Yahoo",http://techdunes.com/2011/03/28/instant-search-comes-to-yahoo/,,1301294932
+2377425,comment,2377154,2377333,1,0,masklinn,,,">  and the total number of cookies and the number from any single domain are also (theoretically) restricted<p>Did you mean ""practically""? From what I've seen, HTTP specs generally don't set limits (so I would not expect any for cookies), and RFC 2965 is no different: it only sets a lower bound (300 cookies, 20 cookies per unique host or domain, 4k per cookie).<p>Theoretically (from a strict RFC reading), almost nothing in HTTP is restricted, but implementations tend to disagree at every single level of resolution (and some do pretty damn early)",1301294866
+2377424,comment,2377182,2377182,4,0,astrofinch,,,"Shouldn't the <i>valuation</i> be some solid multiplier of the <i>annual revenue</i> of $580 billion?",1301294818
+2377423,story,,,1,0,hboon,"Feb Review: Life Tracking, Major jMockups Updates. Precedens Best Month Yet   ",http://www.mattmazur.com/2011/03/february-in-review-life-tracking-major-jmockups-updates-and-precedens-best-month-yet/,,1301294815
+2377422,story,,,12,1,magsafe,"Buffett cautions social-networking investors",http://news.cnet.com/8301-1023_3-20047649-93.html?part=rss&subj=news&tag=2547-1_3-0-20,,1301294766
+2377421,story,,,1,0,callumjones,"Blastoff, start a group of commands/applications from one command",https://github.com/callumj/Blastoff,,1301294755
+2377420,comment,2377299,2377299,3,0,tokipin,,,"perhaps upkeep and renovation for <i>n</i> years is included",1301294722
+2377419,story,,,5,0,cwan,"U.S. Products Help Block Mideast Web ",http://online.wsj.com/article/SB10001424052748704438104576219190417124226.html?mod=WSJ_hp_LEFTTopStories,,1301294691
+2377418,comment,2375656,2376208,12,0,marcamillion,,,"Ahh...now I get it. I was wondering why this plug peeved you so much. You compete with that guy.<p>Wow...talk about having a vested interest.<p>This is so unfortunate because now I have to double check grievances on HN to see who has a vested interests - which degrades the integrity of the community.<p>For someone with such high karma...this is so disappointing.",1301294579
+2377417,comment,2377299,2377299,5,0,jsz0,,,"It's a fairly complex problem. They probably wanted to model a bunch of different systems to 'prove' they were making the right choice. Ultimately that will determine who to congratulate or blame in 6 months so you can imagine everyone involved in the process was interested in staking a claim to success or evading the blame of failure. So take every facet of the paper's expenses/revenue and figure they ran the numbers dozens of ways for each minute part of the operation factoring in all their partnerships, ad buys, etc. They <i>are</i> a news gathering organization so they probably approached the problem in some depth. Plus they probably had good expense accounts so you know.. no need to rush it.",1301294533
+2377416,story,,,16,2,EricssonLabs,"Xui.js - a simple javascript library for building mobile web applications.",http://xuijs.com/,,1301294527
+2377415,comment,2377299,2377299,6,0,mkramlich,,,"I had the exact same reaction. I think it's a classic case of there being no upper bound on how much time or money can be consumed by a large organization trying to achieve some effect. They have amazingly labyrinthine and absurdly bloated ways of doing whatever they want. Like that saying that work expands to fill the time allotted for it. A given task generally can not be performed any faster than some specific lower bound. But there's no upper bound, and all you have to do is add more people, opinions, meetings, committees, processes, rules, laws, approvals, reversals, fights, dead ends, legacy architecture appeasement, technical debt, alternative explorations, dead time, vacations, etc. and you can blow up the time/dollar cost to whatever level you want.<p>Related note: I bet if some news organization used an off-the-shelf CMS like WordPress or Drupal, they could add a ""paywall"" to their site in less than a week, using mostly the services of a single engineer, and perhaps a designer. Let's call that a total project cost in the $400 to $4000 range.<p>ps. If any news organization decision-maker is reading this, I do indie contracting and would gladly add a paywall to your site for a mere... <i>(pinkie in mouth) one million dollars!</i>",1301294492
+2377414,comment,2375827,2375827,2,0,mindfulbee,,,"Hey Lance,
+It took me awhile to find my CTO.
+Here are my recommendations: 
+1) Outsource: <a href=""http://www.sourcebits.com/"" rel=""nofollow"">http://www.sourcebits.com/</a>
+2) Keep doing it yourself: <a href=""http://viniciusvacanti.com/"" rel=""nofollow"">http://viniciusvacanti.com/</a><p>I am currently in College and think I have a scalable idea. 
+Kept searching in till someone believed me. 
+However, even since I found my CTO, I'm teaching myself how to code to just build a basic crude prototype with no hard coding or algorithms.<p>Most VCs I've talked to are just looking for something tangible. If you can just build a crude protoytpe and pitch it then you're solid. Also, you might want to look into mobile apps.<p>-CC",1301294491
+2377413,story,,,2,0,yuhong,"A XSS prevented by using XHTML",http://www.no-ack.org/2010/12/cross-side-scripting-vulnerability-in.html,,1301294466
+2377412,comment,2376985,2376985,1,0,nazgulnarsil,,,"contrarian pride for 1 or 10.",1301294463
+2377411,comment,2377397,2377397,1,0,yuhong,,,"Not to mention how long it will take for IE8 to die.",1301294364
+2377410,comment,2377299,2377299,3,0,nazgulnarsil,,,"the traditional news agencies make more sense when viewed as a branch of the civil service.  especially NYT.",1301294295
+2377409,comment,2377022,2377022,5,0,dionidium,,,"I started to feel pretty smug [0], at first. How could John Resig not know this? Then I saw that it was from 2007. Sheesh, I probably first learned about this trick from that post.<p>[0] <a href=""http://stackoverflow.com/questions/5020954/adding-functions-to-javascripts-array-class-breaks-for-loops/5021375#5021375"" rel=""nofollow"">http://stackoverflow.com/questions/5020954/adding-functions-...</a>",1301294266
+2377408,comment,2376782,2376782,2,0,carbon8,,,"I also use Sass and Compass. I generally organize the directory roughly like this for projects without a separate designer:<p><pre><code>    stylesheets
+      - ie.sass
+      - master.sass
+      patials
+        - _base.sass
+        - _forms.sass
+      utilities
+        - _custom_mixins.sass
+      vendor
+        - _facebox.scss
+        </code></pre>
+The files with leading underscores are partials which are included in the master.sass. Note that facebox is an scss file. I just dump the CSS in it and include the partial in master.<p>The nice thing about sass is that it you can change output format, so you can just include all the external CSS files as partials and automatically output a single compressed files with your entire CSS.<p>When I work with a designer who uses CSS I use a structure like this:<p><pre><code>    stylesheets
+      - master.sass
+      partials
+        - _style.scss
+      vendor
+        - _facebox.sass
+</code></pre>
+In this case, the designer's CSS is dumped in the _style.scss partial, then included in master.sass. Then in master.sass I include my modifications to the designer stylesheets. That way I can leave the designer-provided CSS largely untouched and still have all the flexibility and power of Sass.",1301294261
+2377407,comment,2375633,2376274,1,0,happyfeet,,,"I think the card that provides ""guidelines"" for employees is a great way to re-emphasize the point for employees.<p>It is a genuine struggle for any organization be it small or big is to make your customer facing people greet customers cheerfully. And I think it is never enough to drive home this point and if having a card helps, so be it.<p>What matters to me as a customer, is somebody cheerful attending to my request at that moment and not someone who just wants to get you out of the way and do something better.",1301294250
+2377406,comment,2377397,2377401,1,0,yuhong,,,"Except they finally did recently in IE9.",1301294249
+2377405,comment,2377299,2377361,22,0,marcamillion,,,"I am just learning Rails, and am completely stoked that I understand this.<p>Dumb, I know...but nerdly exhilarating.",1301294246
+2377404,comment,2377022,2377373,11,0,alunny,,,"The Underscore functions do exactly the same as Resig's in the simple case (when passed just an array of numbers). They're longer because they accept custom iterators for non-numerical arrays.",1301294214
+2377403,comment,2376985,2376985,2,0,klochner,,,"I picked 3 because it's in the easiest number for me to strike (text box version).<p>My mouse is typically in the middle of the screen, closest to the higher-scoring numbers in the graphical version.<p>I'd like to see the results from the same test where you have to type the number as a word for the textbox (e.g., three), and where the numbers aren't laid out in the same numerical order for each user in the graphical version.",1301294214
+2377402,comment,2377182,2377315,6,0,magsafe,,,"I don't think Apple is as close as you may think initially.
+Steve Jobs announced during the iPad2 keynote that devs have earned over $2b from selling their apps on the App Store. Add to that all the artists and bands that succeed by selling their music on iTunes. Plus all the podcasters that wouldn't have been discovered if it wasn't for iTunes. Plus all the authors selling books on the iBookstore. Plus the hundreds of small and large companies making accessories, cases, adapters, covers, etc for iGadgets. Plus all the big brands like Bose creating iPod compatible hi-fi equipment. All the vehicles adding iPod dock support. Added up together, I'm not sure if it matches Microsoft's ecosystem, but Apple's is probably in the tens of billions of dollars.",1301294210
+2377401,comment,2377397,2377397,1,0,rudiger,,,"Whatever. I can't blame them for not supporting XHTML for so long; it's a useless standard if you ask me.",1301294200
+2377400,story,,,1,0,galigio,"Set your Ubuntu Desktop Fully Transparent Panel",http://galigio.org/2011/03/28/set-your-ubuntu-desktop-fully-transparent-panel/,,1301294145
+2377398,comment,2377109,2377271,1,0,regularfry,,,"If the change is unnecessary, then that's a billion dollar broken window.",1301294113
+2377397,story,,,2,3,yuhong,"A comic about how IE failed to support XHTML for a decade",http://i.imgur.com/LzcFT.png,,1301294101
+2377396,comment,2376431,2376593,2,0,azernik,,,"I agree that the ""first introduction"" is an issue, but the use of Perspectives and key signing seems to be a fairly strong attempt to overcome that.<p>A stronger disagreement: after the presentation puts so much time into linking the structure of PKI and the social incentives that mess it up, to just handwave that away as ""a misconfiguration of SSL caused by a political quandary"" is kind of missing the point. Any system designed with security in mind <i>must</i> take into account the human factor from the start; human behavior cannot be changed independently of the system's structure.",1301294095
+2377395,story,,,3,0,wyclif,"Engineering Security Book Draft, March 2011 | Peter Gutmann",http://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf,,1301294087
+2377394,comment,2371965,2372120,1,0,equark,,,"Perhaps you should be selling the dream of becoming a published writer rather than just being ""the easiest way to write for the Kindle.""",1301294082
+2377393,comment,2376456,2376456,3,0,gnufs,,,"There's an interview with the founder of the site at <a href=""http://www.youtube.com/watch?v=ZJhV23vs8uo"" rel=""nofollow"">http://www.youtube.com/watch?v=ZJhV23vs8uo</a>",1301294069
+2377392,story,,,1,0,microkernel,"Enable SSD TRIM on Mac OS X 10.6.7 for non-Apple drives",http://www.9to5mac.com/57965/how-to-activate-trim-on-any-ssd-in-macos10-6-7/,,1301294051
+2377391,comment,2377109,2377314,3,0,oniTony,,,"Sorry, I meant it as ""or"". I guess I should have used || instead of /",1301294039
+2377390,comment,2377109,2377335,16,0,regularfry,,,"Presumably (I haven't got one) the XBoxes can use UPnP to negotiate external ports with the home router, which, unlike the ISP's router, can trust the devices on its network.",1301293926
+2377389,comment,2376985,2376985,26,0,ot,,,"Can you do it again for 1 to 100? I'd like to improve my success probability for this <a href=""http://xkcd.com/628/"" rel=""nofollow"">http://xkcd.com/628/</a>",1301293888
+2377388,comment,2375975,2377382,1,0,jazzychad,,,"""$="" is a regex-find operator to find the  ._timestamp elements with data-time property that ends in E + ""000""",1301293862
+2377387,comment,2376782,2376782,1,0,pippy,,,"ySlow recommends at most 3 stylesheets, and with good reason: the HTML headers and request times can drastically slow a site down.<p>By simply organizing the structure of the file well, you can have a easy to navigate css file. Of course there may be a few extra style sheets; ie.css, section specific.css, print.css and mobile.css.<p>Here's my CSS file structure:<p>-reset<p>-html tags h1,p,q etc<p>-header<p>-navigation<p>-content<p>-sidebar<p>-misc (popups, forms, buttons)<p>-footer",1301293858
+2377386,comment,2377299,2377299,13,0,aeontech,,,"So, let's say a wildly over-staffed (for this kind of project) team of 10 programmers for a year, on an average salary of $120K. That's still only 1.2M. Let's say another 800K on hardware. Does that mean the other 38M went to corporate, management, kickbacks to ensure that the right company got the contract?<p>If that's the case, it's even more depressing if the vast majority of the money didn't even go to people who had absolutely nothing to do with the actual implementation.<p>Can the shareholders of the NYT demand an investigation into this? Seems like this kind of ridiculous overspending should be something that would concern them.",1301293839
+2377385,comment,2377299,2377299,20,0,danilocampos,,,"Imagine if they'd instead invested that money in restructuring themselves for a viable, 21st century business model. I mean, it's a big ship to turn and you probably need a lot more than $40m.<p>But at least they'd be closer to cracking it than they are now.",1301293823
+2377384,comment,2377299,2377299,138,0,holman,,,"For those of you in a different country that doesn't use the Dollar: The New York Times just blew almost an entire Color on their paywall.",1301293811
+2377383,comment,2377182,2377182,4,0,jpr,,,"Am I the only one who is a little tired of the term ""ecosystem"" in the context of technology?",1301293771
+2377382,comment,2375975,2376085,1,0,altano,,,"It's not a ""regex find"" as the string is not a regular expression.  The string is a CSS selector.  jQuery can find DOM elements by CSS selector  very quickly by deferring to document.querySelectorAll when available.<p>If I were facing this performance issue, I'd check to see if there was a fast-performing way to restrict the query to just DOM elements in the viewport.  I would guess that check would take longer than the date-updating code, though.",1301293736
+2377381,comment,2376782,2376782,5,0,bitsm,,,"I can't recommend Compass/Sass highly enough. A CSS pre-processor will completely free you to organize your CSS however you want, and more importantly, it lets you build up a library of common components (forms, buttons, etc.) that you can easily reuse and adapt for new projects.<p>Generally, these library files will simply contain mixins (reusable chunks of code), so they don't output anything directly into your CSS, but allow you to include the mixins in certain styles. Very useful for adding effects, rounded corners, etc. on different elements.<p>Keep in mind however, that mixins can be overused, adding bloat to your code. CSS does cascade, after all. You should always look to see if you can separate reusable css rules to include in markup (commonly seen with grid systems). How you balance out the convenience of keeping your css flexible vs. not littering your markup with lots of styles really depends on the project, but it's something to think about.<p>I have developed one very useful trick while using Sass for managing colors. Instead of assigning colors directly to an element (very hard to track down later if a change is necessary), I create color variables named after the element and attribute in question. Then in my colors.scss file, I build up my color palette, and after, list all the color variables I created in my stylesheets, setting their values to the appropriate color from the palette (with tweaks, if necessary).<p><pre><code>  // in colors.scss ---
+
+  // color palette 
+  $red: #ff0000;
+  
+  // assign colors to elements
+  $body-background-color: $red;
+
+  // in layout.css, for example ---
+
+  body {
+    background-color: $body-background-color;
+  }
+</code></pre>
+Since Sass lends itself to lots of files, keeping all my colors and the elements they are assigned to together in one file makes them much easier to manage down the road.",1301293722
+2377380,comment,2376689,2376689,1,0,goombastic,,,"I do sales calls as well and I agree with what Corey says. It's not about the selling in the end, its about the prospect being able to remember you, you being able to figure out a way to offer something of value and ensuring that the person likes it after you offer it to them. Prospects who act irritated are probably going through a rough patch, and I usually make it a point to call back in a month and check for a tone change, and more often than not, they will talk.",1301293631
+2377379,comment,2369445,2370661,1,0,rudiger,,,"GDrive is the Duke Nukem Forever of online backup and file syncing, except it hasn't even been announced.",1301293563
+2377378,comment,2374194,2376886,0,0,VladRussian,,,"You post an illogical, intelligence insulting crap and become ""sad"" when somebody calls the crap out.<p>You're right - the HN debate culture has gone down. The strongest and most logical argument you've managed in the discussion on radiation doses [non]equivalency  is to call me a troll.",1301293518
+2377377,comment,2375149,2375695,2,0,uxp,,,"This would be a fantastic app to run A/B -like testing on to determine whether say a circular ""picker"" gives different results than a horizontal ""picker"". You could even tighten it down to see if a random distribution of numbers between 1 and 10 gives different results than a ordered distribution.<p>It fits the model perfectly and, at least to my perspective, very clearly.<p>Edit: Doh. Looks like you're doing just that.",1301293512
+2377375,comment,2376817,2376817,1,0,benwerd,,,"Clickable: <a href=""http://onflood.com/"" rel=""nofollow"">http://onflood.com/</a><p>And some hotlinks to different floodboards:<p>San Francisco: <a href=""http://onflood.com/location/manual/?37.7789601,-122.419199"" rel=""nofollow"">http://onflood.com/location/manual/?37.7789601,-122.419199</a><p>Austin: <a href=""http://onflood.com/location/manual/?30.2674473,-97.7425618"" rel=""nofollow"">http://onflood.com/location/manual/?30.2674473,-97.7425618</a><p>Edinburgh, UK: <a href=""http://onflood.com/location/manual/?55.9483399,-3.1932723"" rel=""nofollow"">http://onflood.com/location/manual/?55.9483399,-3.1932723</a>",1301293460
+2377374,comment,2377299,2377299,5,0,Seth_Kriticos,,,"There was an elaborate article about this on TechDirt a few days back:<p><a href=""http://www.techdirt.com/articles/20110317/10393913530/it-took-ny-times-14-months-40-million-dollars-to-build-worlds-stupidest-paywall.shtml"" rel=""nofollow"">http://www.techdirt.com/articles/20110317/10393913530/it-too...</a>",1301293377
+2377373,comment,2377022,2377277,0,0,tzury,,,"They surely missed this one though.<p>as Underscore.js do this:<p><pre><code>     _.max = function(obj, iterator, context) {
+        if (!iterator && _.isArray(obj)) return Math.max.apply(Math, obj);
+        var result = {computed : -Infinity};
+        each(obj, function(value, index, list) {
+          var computed = iterator ? iterator.call(context, value, index, list) : value;
+          computed >= result.computed && (result = {value : value, computed : computed});
+        });
+        return result.value;
+     };
+
+
+     _.min = function(obj, iterator, context) {
+        if (!iterator && _.isArray(obj)) return Math.min.apply(Math, obj);
+        var result = {computed : Infinity};
+        each(obj, function(value, index, list) {
+          var computed = iterator ? iterator.call(context, value, index, list) : value;
+          computed < result.computed && (result = {value : value, computed : computed});
+        });
+        return result.value;
+     };
+
+</code></pre>
+While John do that:<p><pre><code>    Array.max = function( array ){
+      return Math.max.apply( Math, array );
+    };
+    Array.min = function( array ){
+      return Math.min.apply( Math, array );
+    };</code></pre>",1301293288
+2377372,comment,2359358,2361340,1,0,cyrus_,,,"Its not about who is a better musician, its about who can sell more albums, concert tickets, etc. In that respect, Lady Gaga knows how to work pop culture like few others.",1301293287
+2377371,comment,2377299,2377299,3,0,bsiemon,,,"I believe they might have used the same stuff the Washington Post used[1]. The post quoted a lower ( 7 million ) but still unreal figure in another paywall related article [2].<p>[1] <a href=""http://www.eidosmedia.com/EN/Page/Uuid/83c5a8b2-ae9f-11de-9d72-8e8f18867204/Web_CMS.xml"" rel=""nofollow"">http://www.eidosmedia.com/EN/Page/Uuid/83c5a8b2-ae9f-11de-9d...</a><p>[2] <a href=""http://www.washingtonpost.com/opinions/behind-the-posts-redesigned-web-site/2011/03/25/AFC3GXYB_story.html"" rel=""nofollow"">http://www.washingtonpost.com/opinions/behind-the-posts-rede...</a>",1301293240
+2377370,story,,,1,0,ellenwillss,"Custom Web Development- Employing CRM for Smart Business Solutions",http://onlinewebdevelopment.blogspot.com/2011/03/custom-web-development-employing-crm.html,"Custom web development is heart and lung of the web industry. Nowadays business organizations, big or small are using Internet to sell their products/services. It gives them easy access to vast customer base on a global scale.",1301293187
+2377369,story,,,1,0,success123,"Windows 7 operating system will be release on Year 2011 wallpapers and photos",http://choicewallpapers.blogspot.com/2011/03/windows-7-operating-system-will-be.html,,1301293179
+2377368,comment,2377299,2377299,74,0,maqr,,,"It can be very expensive to build a solution for an unsolvable problem.",1301293125
+2377367,comment,2374788,2375105,1,0,cyrus_,,,"The cultural movement is sometimes called ""new age"" and is associated with portions of the hippy movement of the 60s, particularly those that fetishized or otherwise adopted Hindu and Buddhist mysticism.<p>The energy she speaks of is somewhere between ""ya know, like, energy"" and this sort of thing: <a href=""http://en.wikipedia.org/wiki/Energy_(esotericism)"" rel=""nofollow"">http://en.wikipedia.org/wiki/Energy_(esotericism)</a>.<p>Yeah, it sounds a bit crazy, but its a market. Having been around this kind of person a bit, I can tell you they'd drop money on air from somewhere pure. A hundred bucks or more is too high, but cut that to $20-$100 and you could at least pull off a decent lifestyle business in the right part of the country, especially with a personality like her's.<p>Judging by the landing page, she's not just an airhead. If she can get the message out and get online orders flowing, it could be a decent chunk of change per month.<p>It's not gonna be the next Twitter, but it would probably pay for itself in a few years if you paid for her and a couple of her friends to go on some air gathering expeditions.",1301293098
+2377366,story,,,1,0,d2,"National IQ Scores vs Dick Size Worldwide",http://www.globalpost.com/dispatches/globalpost-blogs/the-rice-bowl/penis-size-world-map,,1301293049
+2377365,comment,2374850,2375845,2,0,skidooer,,,"I do software development by day and have a cash crop farming operation on the side, so I have familiarity with both industries. I think an agricultural-based software startup would be mighty interesting.<p>However, the bulk of my problems on the farm are related to interfacing with third-party businesses. They have no incentive to improve their processes because the average farmer is 55 years old and would rather bang a hammer than bang a keyboard, and I cannot improve my processes without direct access to their data.<p>Your advice is sound, but personally I have found it to be not a very inspiring place for a startup yet. The low hanging fruit, at least as far as my operation is concerned, I find is already solved well enough. As some of the older farmers who fear computers move into retirement, however, I think the landscape will quickly change and some big opportunities will rapidly appear. I am looking forward to it.",1301292994
+2377364,comment,2377109,2377109,6,0,azernik,,,"> When I bring my laptop to my friend's house and join his WLAN, why can't he ping it by name? Because DNS sucks. Why doesn't it show up by name in his router control panel so he knows which box is using his bandwidth? Because DNS sucks.<p>Actually, strangely enough, both of these use cases work perfectly on my local network, and have worked both with my current router (running dd-wrt) and with my previous router (a standard AT&T combined DSL modem and router).<p>DNS actually works extremely well with a few, by now ubiquitous, autoconfiguration tools.",1301292837
+2377363,comment,2377121,2377175,1,0,gregjor,,,"I've used Mac OSX for web development for years. The trick is to NOT invent some stack of tools that is so complicated it takes days just to get it running. If that's what you have you are doing something wrong. Just whining that Europe is unsuitable for hair dryers because my plug won't fit is lame. Man up and use Emacs? That sounds so macho.",1301292831
+2377362,comment,2376985,2377296,9,0,whimsy,,,"<a href=""http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/2000/300/2318/2318.strip.zoom.gif"" rel=""nofollow"">http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/...</a>",1301292827
+2377361,comment,2377299,2377299,13,0,kondro,,,"Quote: $39,990,000<p>Result:<p><pre><code>  before_filter { redirect_to :controller => :accounts, :action => :login unless current_user.subscribed? }</code></pre>",1301292727
+2377360,comment,2371965,2373590,1,0,Poiesis,,,"It's not that hard, really. If you memorize your presentation you can reliably get within a few seconds. Most of the transitions don't require pinpoint timing accuracy, anyway.<p>It's really common to overlook the amount of time that will be eaten up by applause/laughter, though. Don't forget to give yourself some breathing room for that sort of thing, particularly if your speaking format penalizes you in some fashion for going over time.",1301292701
+2377358,comment,2377109,2377109,24,0,gonzo,,,"The author of this piece gets several details completely wrong.<p>And NAT is not a solution.  Period.   End-to-end, ever hear of it?",1301292688
+2377357,comment,2376456,2376456,4,0,throwaway203299,,,"Do they write the resume too and provide interview coaching? One time I had a manager at a major financial institution offer to hire me, and told me he would make sure I got a good performance reviews. However, he wanted a kickback of like 5% of my salary. Something like this will just help get past a pesky HR department.",1301292653
+2377356,comment,2375633,2376481,1,0,michaelpinto,,,"The wait staff are being nice to you because they think you're a tourist! ; D",1301292646
+2377355,comment,2376891,2376891,4,0,gregjor,,,"What a crock of shit. None of the ""package managers"" he mentions are OSX. They are add-ons by people like him who want OSX to be Linux. Plenty of web developers use Macs day in and day out, me included. What he is really complaining about is his employer's stack is ill-suited to running locally on OSX. It probably sucks on Windows, too. Anyway nothing stops him from using Ubuntu on his Macbook.<p>This is the same ""Toyota Prius is unsuitable for plowing snow"" crap that geeks with big egos post thinking they have something interesting to say.<p>Either use the same platform for development as you use for production deployment, or use tools that are compatible across deployment and dev platforms. And stop whining.",1301292633
+2377354,comment,2377299,2377299,97,0,dandelany,,,"Yikes. Probably $10k worth of code, and $39,990,000 worth of strategizing, consulting, Powerpoint presentations, and general hand-wringing about the ""death of the news industry"".<p>All I know is, if I'd spent $40mil on a paywall, I'd be damn sure it was written to filter on the server-side, not with a  client-blockable overlay like they have supposedly implemented.",1301292619
+2377353,comment,2376431,2376682,1,0,extension,,,"Browsers are already having a really hard time making users of average proficiency understand SSL feedback and act wisely in response to warnings. Whatever special case they add to the UI to accomodate geeks using self-signed certs becomes yet another complexity that the normal user has to understand.<p>Also, consider that there are probably some users who <i>think</i> they understand the implications of trusting a self-signed cert while they actually do not, and the browser has no way of differentiating this.",1301292575
+2377352,comment,2376985,2376985,3,0,AndyKelley,,,"I picked 9. I feel good about doing my part to even out the distribution I predicted :)",1301292571
+2377351,comment,2375629,2376499,2,0,look_lookatme,,,"On the second page the article goes into the exact details you mention.",1301292569
+2377350,comment,2375879,2375879,1,0,dancavallaro11,,,"Oooh, my favorite part is on line 136, when he claims ""RSA 2048 was not able to resist in front of me"". That's a pretty, um, ""interesting"" characterization of the level of sophistication of his attack.",1301292560
+2377349,comment,2377109,2377290,1,0,younata,,,"MIne.
+don't know why, but I'm not able to connect outside using ipv6.
+I should ask network people, but they probably don't know.",1301292514
+2377348,comment,2376985,2377134,10,0,AndyKelley,,,"Did you actually use firebug and submit an 11 to the server? That would be pretty funny.",1301292510
+2377347,comment,2377017,2377223,1,0,phlux,,,"Group txt is not about mobile as much as it is social. It is social activity that is enabled by mobile - the data you get from it is more informative about how groups communicate.<p>Beluga being bought by FB shows that enabling that group communication via enhancing the txting experience is important to further enabling social interactions.<p>Google may or may not have a new social play, but if it does - and it lacks tools that allow more fluid communication amongst social groups, then it will fail. This indicates that they may be paying attention that the single most important aspect of social nets is providing communication tools over the varied mediums we all now take for granted.<p>You simply <i>expect</i> to be able to share pics, video, text files etc with whomever you want. And if your relegated to serial communications -- you will innately know that is a limitation and will be less inclined to utilize that service heavily.<p>This is key to any hopes of scaling any social offerings.",1301292460
+2377345,comment,2370421,2371459,1,0,rudiger,,,"I think he meant tagging people's photos (with their names), not del.icio.us-style tagging.",1301292416
+2377344,comment,2374194,2376539,1,0,shadowsun7,,,"Thank you for your time. You should go back to Reddit now.",1301292397
+2377343,comment,2377299,2377299,25,0,gooddelta,,,"Strippers, blow, and enterprise software.",1301292383
+2377342,story,,,1,0,citizenkeys,"An App By Any Other Name",http://techcrunch.com/2011/03/27/an-app-by-any-other-name/,,1301292342
+2377341,comment,2375975,2376364,4,0,altano,,,"setTimeout does not run in a background thread that can be parallelized.  There is no ""main thread"" vs. ""background threads.""  If you write an endless loop in a setTimeout callback, none of your other JS will ever run.  You can easily test this:<p>setInterval(function(){ console.log(""hi""); }, 500); 
+setTimeout(function(){ while(true) { console.log(""no more hi""); } }, 100);",1301292305
+2377340,comment,2377154,2377154,2,0,robbles,,,"This makes no sense to me at all. Barring some pretty nasty hacks, theres no other way to implement a lot of the features users expect in modern web apps without sessions.<p>Unless you're totally fine with a HTTP authentication popup every time you visit the site, that is...",1301292273
+2377339,comment,2376456,2377291,3,0,danenania,,,"In dating the further 'making an impression' is from my mind the better it goes. I think this is true of most encounters. Trying to be perfect will just make you tense. Relax and be yourself. No one's expecting perfect. The less you try to sell yourself the better you come across.",1301292260
+2377338,story,,,10,0,arocks,"Learning OOP Programming in C++  A Horror Story",http://www.arunrocks.com/blog/archives/2011/03/27/learning-oop-programming-in-c-a-horror-story/,,1301292255
+2377337,comment,2376985,2377166,3,0,clay,,,"It is totally reasonable to assume that ""random"" from an unnamed distribution means the maximum entropy distribution, which is uniform in this case",1301292244
+2377336,story,,,1,0,r11t,"Disparate group of developers take on the established financial system",http://www.cio.com.au/article/380394/open_source_identity_bitcoin_technical_lead_gavin_andresen/,,1301292228
+2377335,comment,2377109,2377293,2,0,Devilboy,,,"You still need to do that with XBox? Does that mean you can't run more than one XBox at home from one IP address?",1301292217
+2377334,story,,,2,0,cwan,"Pediatricians warn about Facebook depression",http://www.theglobeandmail.com/news/technology/digital-culture/social-networking/pediatricians-warn-about-facebook-depression/article1959113/,,1301292174
+2377333,comment,2377154,2377154,2,0,gregjor,,,"warning: article is from 2008, and is an advance ad for a book that hasn't been published yet.<p>cookies are limited to 4K (not enforced uniformly by browsers) and the total number of cookies and the number from any single domain are also (theoretically) restricted. server-side sessions don't have these limits (or don't have to). author seems unaware of this when he espouses cookies instead of sessions. he also doesn't address the obvious security problems of maintaining state in cookies and form fields, where anyone can fiddle with it.",1301292165
+2377332,comment,2376720,2376720,1,0,drallison,,,"Paul Baran will be missed.  He was an insightful and inspirational guy.  We are all indebted to him.",1301292092
+2377331,story,,,2,0,JayRnotes,"Google Panda hates Content? No Understand Google new algorithm and our mistakes",http://thejaynotes.com/google-panda-hates-content-no-understand-google-new-algorithm-and-our-mistakes/,,1301292050
+2377330,comment,2377182,2377267,16,0,rudiger,,,"Not necessarily. I say this because Microsoft and their ecosystem are exceedingly good at making money from selling software. If Microsoft didn't exist, the ecosystem might be built around many more fragmented platforms. They make $8.70 for every $1 that Microsoft makes; they might be making $100 dollars for every $1 in some parallel universe, and still making far less money (because their platforms will be making far less than Microsoft does in ours). And maybe people in that parallel universe don't pay for software; they only pay for support ;)",1301292016

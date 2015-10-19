@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+112931,comment,112749,112794,0,0,drusenko,,,"maybe the market was accurately valuing Google, though? of all the startups out there, how many deliver on a Google scale?",1202629956
+112930,comment,112600,112916,0,0,vsingh,,,"Alright, I asked for help in #io, and it looks like there was some known problem with SIMD due to a recent patch.<p>In order to fix it for now, go to libs/basekit/source/UArray_math.c, and comment out the line:<p><pre><code>    #define IO_USE_SIMD 1
+</code></pre>
+That should do the trick.",1202629809
+112929,comment,112842,112842,0,0,inovica,,,"I bought an EEE PC and its a wonderful first computer for my 5-year old son.  I also use it sometimes and its great for travelling. yes there are issues with the small screen size, but generally I'm happy with it.  For the price its a great machine.  I also have a MacBook Air which is fantastic as it is light and has a large screen but obviously the cost is 10x that of the eee pc",1202628845
+112928,comment,112742,112897,0,0,kajecounterhack,,,"Yeah you're right...that makes sense. But how would they collect statistics on whether people use sans serif fonts more? Because at a glance, it seems serif is used more. Students, teachers, professors and professional people who use office need formality, thus serif seems to be the obvious answer...<p>At any rate, yeah I guess it makes sense to me now. I still maintain that I feel like I'm drowning in the new interface for office though. Thanks for the insight.",1202627962
+112927,comment,112215,112650,0,0,rms,,,"For now, there are any number of advantages to desktop apps. Ten years from now, everything is going to be in the cloud.",1202627716
+112926,comment,112684,112923,0,0,pg,,,"Argh.  Can <i>anyone</i> tell me a format that will work on all readers?  Is the answer to ditch the comments field?",1202626909
+112925,comment,112901,112901,0,0,pg,,,"I think they just have it pointed at the server.",1202626850

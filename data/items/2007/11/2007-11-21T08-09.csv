@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+82398,comment,81594,81734,0,0,greg,,,"me too... have you read Sutton and Barto's book? <a href=""http://www.cs.ualberta.ca/~sutton/book/the-book.html"" rel=""nofollow"">http://www.cs.ualberta.ca/~sutton/book/the-book.html</a>",1195635564
+82397,comment,82052,82057,0,0,wlievens,,,"Exactly ethe same here. Trac is sweet.",1195635549
+82396,comment,82052,82052,0,0,wlievens,,,"Subversion is just plain awesome.",1195635502
+82395,comment,81964,81964,0,0,oditogre,,,"Depends on what you're discussing.",1195634394
+82394,comment,82034,82034,0,0,SwellJoe,,,"That's hot.",1195633908
+82393,comment,82321,82321,0,0,willchang,,,"Nope.  Easy counterexample:  <p>f1 = x^2 + 2x (roots: 0, -2)  <p>f2 = -x - 1   (root: -1)  <p>(f1 + f2) / 2 has one root which is 0.618 (the golden ratio)  <p>Now you have to tell us what your idea was.<p>",1195633792
+82392,comment,82019,82019,0,0,SwellJoe,,,"I'm seeing less memory usage, so far (I upgraded this afternoon, and have been running for about 8 hours).  It also doesn't crash every fifteen minutes the way Gran Paradiso did when I tried it.  Firebug 1.1 works, so I'm golden.  Got no bookmarks (delicious isn't available yet, I guess), but that won't kill me: I only go to three sites anyway (Google, Reddit, News.YC) and I know those addresses.",1195633703
+82391,comment,82321,82321,0,0,shunted,,,"Consider the set of polynomials {z^n} where n ranges from 0 to infinity using even integers.  All the zeros of the polynomials in the set are zero and so stable.  Consider the power series expansion of .5 Cos(z).  It is a weighted sum of the polynomials of our set and the zeros of .5 Cos(z) are clearly not bounded.  I use .5 Cos(z) so that the coefficient of each term of the power series expansion is a value that satisfies 0 < a < 1. 
+",1195633564
+82390,story,,,6,7,terpua,"Ask YC: Meetup for Philippine-based hackers",,"Anyone interested in meeting up in Manila for a hackathon and/or chat/share?<p>I'm the co-founder of a local startup (itenna.net) and we can meet at my office.<p>Email me at terencepua gmail if interested.",1195633329

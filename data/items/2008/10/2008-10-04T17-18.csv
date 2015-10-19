@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+323590,comment,323493,323532,0,0,LPTS,,,"I don't think all ideas are worthless.  But I do think all ideas in the Fountainhead are worthless.",1223143141
+323588,comment,323528,323550,0,0,zacharye,,,"It just means that the full post isn't visible on the overview page of the blog.",1223143100
+323587,comment,321966,323534,0,0,LogicHoleFlaw,,,"We're using PHP5 and the exception handling is better, but interpreter errors just kill the process, full stop. We're writing watchdog processes just to monitor the nightly batches just so we have better information if one of them goes haywire.",1223143046
+323586,comment,323528,323549,0,0,umjames,,,"Geez, do you want fries with that? :)<p>But seriously, I agree about the bulk.  I don't need mine to be waterproof, just be able to let me read PDFs (including password-protected PDFs).  A color screen would be good too.<p>Let me plug it into my Mac and manage my own PDFs.  That's all I need.",1223142985
+323585,comment,323493,323529,0,0,davidw,,,"Yes, that's more or less what I said in the linked posting: ideas are non-excludable goods.  To some degree you are right that they aren't rivalrous like physical objects are, but they do lose their value when they are widespread.  A social-news-voting site isn't that hot an idea any more.  It was a few years ago.",1223142946
+323584,comment,323493,323493,0,0,LPTS,,,"It's so funny watching you guys talk about how worthless ideas are.  Maybe the relationship between starting shitty web companies,  obsessing about hits, ads, and freemium accounts, and thinking ideas are worthless tells us more about the kinds of thinkers who start shitty web companies then what ideas are worth.<p>Most ideas suck.  Those ideas are worthless.  A few ideas are very valuable.  Those ideas are the things that change the world.  Just because all the ideas in your network are worthless, doesn't mean all ideas are worthless.  The idea that ideas are worthless is worthless, it omits relevant extreme cases.<p>I think what people mean when they say ideas are worthless is that they don't have the vision or intelligence to sort through a pile of ideas and sort out the good few from the worthless many.",1223142925
+323583,story,,,1,0,visakhcr,"Trends and Countertrends",http://jumpup.wordpress.com/2008/10/03/trends-and-countertrends/,,1223142461
+323582,story,,,1,0,nickb,"Obie Fernandez: (MSA Series #2) Cooperation and Reliance",http://blog.obiefernandez.com/content/2008/10/msa-series-2-cooperation-and-reliance.html,,1223142429
+323581,comment,323540,323540,0,0,redorb,,,"my aunt and other rich people i know always shared 'pay yourself first' , my aunt and uncle used that money (after 5 years) to  get bonded in order to build their first stadium.",1223142301
+323580,comment,323540,323540,0,0,mamama,,,"Mark Cuban on how to become an innumerate tool: <a href=""http://bramcohen.livejournal.com/35949.html?thread=516461"" rel=""nofollow"">http://bramcohen.livejournal.com/35949.html?thread=516461</a>.",1223142149
+323579,comment,323540,323562,0,0,prakash,,,"You are confusing <i>simple</i> with <i>easy</i>.",1223142107
+323578,comment,323540,323540,0,0,time_management,,,"Question : Why have I heard of this guy? Really, why?",1223142104
+323576,comment,323540,323540,0,0,prakash,,,"Mark gives good advice.<p>1. Have the discipline to save<p>2. Find an area you are passionate about and invest in yourself to become really really good<p>3. When the opportunity presents itself, make good use of it<p>“Luck is what happens when preparation meets opportunity.” Seneca",1223142051
+323575,comment,323436,323436,0,0,jamesbetts,,,"Nice review of the industry and challenges of building a company to create an mmog.",1223142045
+323574,comment,323540,323562,0,0,fallentimes,,,"3. There are no shortcuts (here's to you MLM slimers) 4. Know your business inside and out 5. Read about your business every day (i.e. become the smartest guy in the room) 6. Cash is king 7. buy & hold without flexibility is for suckers 8. be patient",1223142005
+323573,comment,323541,323541,0,0,ievolve,,,"xmpp is not difficult to deal with, give it a shot and let us know if you need any help, we've done lots of xmpp stuff. -the guys at imified.com",1223141972
+323572,comment,323540,323562,0,0,qqq,,,"his arguments that there aren't shortcuts are good (not original, but still good).",1223141908
+323571,story,,,1,1,visakhcr,"Was the Yahoo-Google Deal a Ploy To Weaken Yahoo?",http://tech.slashdot.org/tech/08/10/04/1158252.shtml,,1223141818
+323570,comment,323482,323482,0,0,jfarmer,,,"As other have pointed out, this is silly because the states aren't independent.  There's no way Obama is going to lose OH but win IN, for example, although probabilistically speaking there's <i>some</i> chance.<p>538 models the dependence along demographic lines, so that demographically similar states, districts, and counties are assumed to vote similarly.",1223141807
+323569,comment,323482,323482,0,0,kul,,,"Monte Carlo simulations is what they used to work out the odds of sub-prime defaults in their CDOs.",1223141709
+323568,comment,323541,323541,0,0,collint,,,"<a href=""http://orbited.org/"" rel=""nofollow"">http://orbited.org/</a> <- python server providing a TCP proxy to the browser.
+<a href=""http://js.io/"" rel=""nofollow"">http://js.io/</a>       <- open source protocols for javascript. Has an XMPP client(at least part of one)<p>It may not make short-term sense for you to use this.",1223141648
+323567,comment,323493,323493,0,0,13ren,,,"<i>ideas</i> vs. <i>information</i>:<p><pre><code>  - ""inside information""
+  - info that can be worked out, but is not obvious (scanning the numbers got Warren Buffett started)
+  - knowing where the gold/oil is
+  - a new method that is cheaper/better than before
+  - an opportunity that's not obvious</code></pre>",1223141551
+323566,story,,,13,4,qhoxie,"Some reasons why I left the ACM",http://blog.zenspider.com/2008/10/some-reasons-why-i-left-the-ac.html,,1223141447
+323565,comment,323074,323168,0,0,sown,,,"Roll for Initiative: advance straight to Godwin's Law.<p>Let us never speak ill of Hitler ever again.",1223141309
+323564,comment,323482,323482,0,0,Eliezer,,,"Conditional independence FAIL.",1223140985
+323563,story,,,24,22,terpua,"The Seeds of the Next Big Thing Are Being Planted Now",http://www.techcrunch.com/2008/10/04/the-seeds-of-the-next-big-thing-are-being-planted-now/,,1223140861
+323562,comment,323540,323540,0,0,ojbyrne,,,"1. Get a job 2. Save money. Wow, what insight. Though I think this could also be titled ""How to Get Diabetes.""",1223140806
+323561,story,,,4,0,visakhcr,"Guy Kawasaki says ""Mumbai is Crowded""",http://bonchibuji.blogspot.com/2008/10/guy-kawasaki-says-mumbai-is-crowded.html,,1223140764
+323560,story,,,13,1,neilc,"Xtc — eXTensible C",http://cs.nyu.edu/rgrimm/xtc/,,1223140537
+323559,comment,323541,323541,0,0,qhoxie,,,"Definitely don't invest that much time so early on.  You will start to get an idea of future needs quickly, and then you can judge whether you will want to or need to make the change.",1223140483
+323558,story,,,1,0,qhoxie,"How Cisco Tried to Make Routers Sexy Using Social Media",http://www.readwriteweb.com/archives/cisco_social_media.php,,1223140355
+323557,story,,,1,0,qhoxie,"Amazon Kindle Redesign Shows Its Face",http://mashable.com/2008/10/04/amazon-kindle-2/,,1223140343
+323556,comment,323493,323529,0,0,13ren,,,"1. NDA or trust<p>2. exclusivity clause<p>One role of patents is they conceptually wrap up an idea, so you have a ""thing"" to sell (know-how must be supplied too - you're hired).",1223140247
+323555,story,,,3,0,terpua,"The Virtues of a Three-Headed Business Plan",http://gigaom.com/2008/10/04/the-virtues-of-a-three-headed-business-plan/,,1223139963
+323554,comment,323528,323528,0,0,iamdave,,,"How long has the first kindle been out?  Less than a year? How long?",1223139890
+323553,comment,322542,323515,0,0,13ren,,,"thanks =)<p>I own it (an older edition) and use it. It's well-thumbed. It helps a lot, but not the whole answer. You prompt me to use it more, thanks.",1223139851
+323552,comment,323164,323164,0,0,yinyang,,,"Trying to make *faircompanies (www.faircompanies.com) worth it over the long term. Working on a new version of my site to make it more interesting to people that want to find out about how to change the world.",1223139832
+323551,comment,323541,323541,0,0,ahold,,,"Start simple, run it as soon as possible and wait for feedback, you can switch to some other solution at anytime if people will like it.",1223139696

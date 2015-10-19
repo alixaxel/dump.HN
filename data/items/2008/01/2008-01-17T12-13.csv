@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+99752,comment,99194,99593,0,0,marcus,,,"Oh the hubris and carefree living of youth, how I miss thee",1200574207
+99751,comment,99206,99263,0,0,Tichy,,,"What do you mean by ""control the market""?",1200573833
+99749,comment,99656,99737,0,0,shiro,,,"When I ran CL server (it was in-house service, but heavily accessed 24/7 and I couldn't stop it to update frequently), I used a few ways, depending on how imminent the problem was.<p>The normal routine was to change the source, test it, then from server REPL I just reload it.  If the problem was more serious that I had to fix it ASAP, I sent the definitions directly from the editing source to the REPL (in Emacs it's just a couple of keystrokes).<p>It was only when the situation was extremely serious (e.g some bug stopped large part of the production pipeline) that I typed expressions directly into REPL and afterwards I put the fix into the source.   It was pretty rare, though.",1200573389
+99748,story,,,1,0,robg,"Push for Education Yields Little for India's Poor",http://www.nytimes.com/2008/01/17/world/asia/17india.html?_r=1&hp=&oref=slogin&pagewanted=all,,1200573137
+99747,comment,99666,99666,0,0,aswanson,,,"God forbid I ever come to the point in life where I actually do this.",1200571871
+99746,comment,99662,99662,0,0,bayareaguy,,,"I don't want to ruin the ending, but that's one skill I hope I never have to learn to get my point across.",1200571425
+99745,comment,99632,99668,0,0,aswanson,,,"What about MC Hawking?  Entropy is my song:
+<a href=""http://www.amazon.com/Brief-History-Rhyme-Hawkings-Greatest/dp/B00069YE70"" rel=""nofollow"">http://www.amazon.com/Brief-History-Rhyme-Hawkings-Greatest/...</a>",1200571315

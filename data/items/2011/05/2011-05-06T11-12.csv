@@ -1,0 +1,97 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2520681,comment,2520641,2520641,4,0,shirro,,,"From Hurricane Electric: ""A utility failure is affecting much of Fremont, CA, USA, damaging some electrical equipment. We are currently working to restore power.""<p><a href=""https://twitter.com/#!/henet/status/66466691856601088"" rel=""nofollow"">https://twitter.com/#!/henet/status/66466691856601088</a>",1304683198
+2520680,story,,,7,10,tmaly,"Ask HN: Who is best presidential candidate for startups for 2012?",,"I am curious to get the opinion on who you feel is the best person for 2012 for startups",1304683196
+2520679,comment,2520317,2520317,1,0,johncoltrane,,,"When you work on a Facebook app, you need to customize the urls of your scripts and stylesheets to bypass their aggressive caching.<p>In my first, the markup was littered with urls looking like<p><pre><code>    http://www.domain.com/path/to/stylesheet.css?v=20
+</code></pre>
+After a couple of projects I noticed that the number was decreasing. As I was learning to work with their fucked-up FBML/FBJS/weird-corner-cases my code went through less and less iterations and the final numbers were lower and lower.<p>And I was a little happier inside.<p>That's gamification, but unintended.<p>Making it part of the product? I'm not sure.",1304683172
+2520678,comment,2520193,2520193,1,0,TimJYoung,,,"Try explaining that to some of these development shops where they describe it as ""their culture"" to work from 8am to 6pm every day.  Who in the hell can write decent code in two 4-hour blocks every day, 5 days a week ?  They're just stealing your personal time for no reason, and deluding themselves into thinking that they're getting more work for the same price.<p>Personally, I'm lucky if I get a good 4-hour block of really good work in every day.  After that, I'm burnt and need to switch to menial tasks like email or just taking a break.",1304683168
+2520677,story,,,1,0,DMPenfold2008,"Glencore mining global SAP system ahead of $60bn flotation",http://www.computerworlduk.com/news/it-business/3278109/glencore-mining-global-sap-system-ahead-of-365bn-flotation/,,1304683168
+2520676,story,,,1,0,subramanyamp777,"Google Maps for Android",http://mobiappmax.com/2011/05/google-maps-for-android/,"The Android Operating system has taken the mobile market by a storm, all the Android based phones are gaining immense popularity because of their user friendly interface. Another attractive feature of the Android phones is the Android Market",1304683144
+2520675,comment,2519945,2519945,1,0,IvarTJ,,,"I personally dream of making a web community application with Scheme in which users can program bulletin items. Inspired by LambdaMOO, but with a focus on typical web facilities such as threaded discussion and wiki articles.",1304683111
+2520674,story,,,1,0,pepper11,"The Free Private Voyeur - Amateur and Voyeur Main Menu",http://www.privatevoyeur.com/main.html,,1304682969
+2520673,comment,2519984,2519984,2,0,jinushaun,,,"Not surprising and I predicted this last June. If you plot Apple's current trajectory, it's the most obvious conclusion. If you doubt this, go look at Microsoft doing the same thing with Windows on ARM. You have a generation of people spoiled with instant-on and 8+ hours of Internet on an iPad wondering why their laptop can only do two hours.",1304682959
+2520672,comment,2520412,2520412,3,0,ianbishop,,,"If you participated in Facebook's Hacker Cup, you should definitely give Code Jam a try. It's much more organized and the problems are always interesting :)",1304682819
+2520670,comment,2519622,2519622,3,0,clyfe,,,"I use NetBeans. It's smart about markup, style (css, scss, less by plugins) scripting javascript, ruby, php, python via plugins, and it generally works for me. I fall back to GEdit and Notepad++ sometimes.",1304682778
+2520669,comment,2520668,2520668,-1,0,vivekvij,,,"We at Fortis Hospital Noida  Live Liver Transplant,Living Donor Liver Transplant,Liver Transplantation,Liver Transplant Surgeons,Fortis Hospital in Delhi NCR,Liver Transplant in India,Liver Transplant Services in Noida, Liver Diseases,Liver Critical Care.Wishing you a speedy recovery!  Dr. Vivek Vij (Chief Liver Transplant Surgeon& Project Director) Fortis Hospital, NOIDA.",1304682746
+2520668,story,,,1,1,vivekvij,"Live LiverTransplant|Living Donor LiverTransplant|Fortishospitals in Delhi NCR ",http://www.livertransplantinindia.in/,,1304682729
+2520667,comment,2520619,2520619,0,0,LBarret,,,Spam.,1304682701
+2520666,comment,2517296,2518088,2,0,mooism2,,,"A danger here is that a new user makes a typo in their e-mail address when signing up, puts a fair amount of effort into their new profile/account/whatever, and is then locked out forever. They won't realise they made a typo and will blame the site instead.<p>But I agree that new users having to leave the site to check their e-mail is a hurdle to get over.",1304682670
+2520665,story,,,1,0,brianshumate,"A JavaScript continuous integration setup",http://www.zendesk.com/blog/javascript-loves-ci,,1304682621
+2520664,comment,2520521,2520521,3,0,cmaggard,,,"Original discussion here: <a href=""http://news.ycombinator.com/item?id=2511808"" rel=""nofollow"">http://news.ycombinator.com/item?id=2511808</a>",1304682585
+2520663,comment,2520365,2520365,-4,0,zygtot,,,"Congrats Paras - for gaming HN yet again! You are my hero!",1304682539
+2520662,story,,,1,0,johnmartin123,"Internet marketing strategies review | Online marketing service and reviews",http://www.biznextdoor.com/,,1304682527
+2520661,comment,2519248,2520264,2,0,Starmonkey,,,"""I hope computer science never gets into high school curriculum, it will only make students hate programming. ""<p>I'm a bit of touch at 41, but are you sure that it isn't already available as an elective for students?  Perhaps you meant making it mandatory, which I agree would probably not be very productive.<p>I took programming in High School, but back then it was all using BASIC.  We learned the concepts of variables, memory, loops, and even simple algorithms.  And if we finished our homework ahead of the rest of the class, we got to play games.  Quite the motivating factor for me at the time.",1304682526
+2520660,story,,,9,6,robg,"Neurovigil: 2x the seed value of Facebook+Google for ~2% in common stock",http://classic.cnbc.com/id/42866528,,1304682500
+2520659,comment,2520317,2520488,3,0,Strom,,,"Gamification makes things more fun and I like to have fun even though I am an adult.",1304682469
+2520658,comment,2520317,2520569,4,0,mironathetin,,,"""I'm a developer. My time spent with Jira is an annoyance at best, or a hatred at worst.""<p>I support that. Jira is a feature monster. It is aimed at producing nice pie charts, percentage numbers and lists (of solved, unsolved, analyzed etc. problems). A nice toy for managers. These are probably the people who make the buy decision, so it was clever to aim jiras features at this group instead of bothering with developers needs.<p>Gamification of jira may simply add more entertainment options. Not a bad thing, because the less these type of managers interfere with developers work through jira, the more useful code can be written.<p>I could easily image to give a character to every logged-in developer and let them run through charts or hop around in bug lists. The managers may virtually shoot at them with rocket launchers or laser blasters. Not bad. Go on.<p>The time is not far when I don't take a job anymore because the project uses jira.",1304682435
+2520657,comment,2520482,2520576,2,0,pavlov,,,"Do mobile game developers optimize their products for every GPU out there?<p>If it's necessary, which is more likely to have the resources to do such optimizations, Adobe or an individual developer? (Well, at least in theory... Adobe's track record with Flash Player is of course lightyears short of stellar.)",1304682429
+2520656,comment,2519674,2519863,1,0,Pooter,,,"Right. I noticed a small translation error in the first paragraph. The Russian word """" - in the paraphrased Henry Ford quote - is translated as machine, but in the context of the sentence should be translated as ""car.""<p>When I corrected it, the old one was left in place.",1304682416
+2520655,comment,2518120,2518990,1,0,ZoFreX,,,"> Are you so confident in your sanitized inputs that you run your webserver as root?<p>I don't see what the first half of this sentence has to do with the second. No, I will not run my webserver as root but that has literally nothing to do with sanitizing input.",1304682348
+2520654,comment,2517296,2519317,1,0,ZoFreX,,,"It varies from website to website, there's no firm rule on it. Different market sectors will have different Javascript support, for example people on HN are (probably, I haven't checked the stats) more likely to be running NoScript, or to be browsing from something like Lynx.",1304682272
+2520653,comment,2520416,2520416,1,0,ZoFreX,,,"Pity it's a Thursday night, makes it a bit difficult to fit around not living in London and having a job.",1304682199
+2520652,story,,,6,0,rl1987,"The Sorcerors Apprentice",http://sapiensanonym.blogspot.com/2009/06/sorcerors-apprentice.html,,1304682147
+2520651,comment,2520543,2520543,1,0,Klinky,,,"This is affecting me. :(<p>I was trying to access one of my sites right after it went down.",1304682147
+2520650,story,,,1,0,wireheadlance,"Nine Deadly Cyberwarfare Sins",https://www.infosecisland.com/blogview/13580-Nine-Deadly-Cyberwarfare-Sins.html,,1304682121
+2520649,story,,,1,0,synapse,"Magento Developers ",http://www.magentositedevelopment.com/,"Hire our highly qualified magento developers for your magento website development.",1304682085
+2520648,comment,2517136,2519430,1,0,tomjen3,,,"I doubt that - Android is a memory hog, even my phone has more memory than that.",1304682039
+2520647,comment,2520360,2520640,4,0,jsn,,,"IIRC, you can almost instantly verify that certain bitcoin wasn't spent someplace else before, which would be good enough. Now, the attacker can use the same bitcoin for several web forms simultaneously, but 1) the scope of this attack is limited by the time window, and 2) if the server discovers a fraudulent transaction in, say, a few minutes, the spammy comment can be automatically deleted then.",1304682009
+2520646,comment,2519082,2519082,1,0,asymptotic,,,"Your site is currently unresponsive: <a href=""http://www.downforeveryoneorjustme.com/www.gitalytics.com"" rel=""nofollow"">http://www.downforeveryoneorjustme.com/www.gitalytics.com</a><p>I look forward to seeing it when it's up!",1304681987
+2520645,comment,2520482,2520576,2,0,eli_s,,,"i think it's taking advantage of opengl. so all devices that support opengl get accelerated graphics. no need for per-device optimisations.",1304681922
+2520644,comment,2520360,2520360,2,0,jodoherty,,,"I wouldn't necessarily suggest it, but imagine if this were implemented at the protocol level and handled with native code built into clients.<p>There could be a new HTTP request method called ""SUBMIT"" which works like a POST request except with an added step for proof of work. When making a SUBMIT request, the client opens a connection to the server, sends the initial request header with the SUBMIT method, and receives a proof of work challenge as an HTTP field in the server's response. The client then processes the challenge and sends its proof of work to the server which verifies it and sends an OK. Then the client sends its url-encoded data to the server, the server sends its response data, and the connection closes.<p>Then performance impact and behavior would be fairly uniform for all clients, especially if a standard library of problems and problem solving code were used by them, so you wouldn't have to worry about finding a problem that isn't too hard for poor Javascript implementations to solve while still being too easy for native code implementations in spamming tools to process. There could even be an added field for the server to inform the client what problem type is being used, allowing the addition of new problem types of different difficulty and performance requirements in the future without any more updates to the protocol.<p>Personally though, I don't like proof of work solutions. Sure, they add some computational cost to spamming, but the mass implementation and use of any proof of work solution would probably just create a new, lucrative market for botnet hackers to sell their services to. Besides that, it just feels like the wrong solution to me.",1304681864
+2520643,comment,2520510,2520601,1,0,JoachimSchipper,,,"From my <a href=""http://news.ycombinator.com/item?id=2518120"" rel=""nofollow"">http://news.ycombinator.com/item?id=2518120</a>:<p>> Not part of this article: Sony ran unpatched Apache on a system actually containing sensitive data, Sony was actually hacked via unpatched Apache.<p>Let's not spread rumors.",1304681827
+2520642,comment,2520242,2520469,4,0,BasDirks,,,"""when you were young, how did you get started programming?""<p>By installing a linux distro.",1304681824
+2520641,story,,,27,16,mhlakhani,"Linode outage in Fremont",http://status.linode.com/,,1304681822
+2520640,comment,2520360,2520586,2,0,limmeau,,,"I thought a bitcoin transaction was only considered successful after a sizable number of other bitcoin participants have based their successful computations on it?<p>If that is correct, bitcoin validation isn't fast enough for instantaneous forum postings when the spammers can be assumed to be as dishonest as fits them.",1304681674
+2520639,comment,2520549,2520595,1,0,pud,,,"I haven't spent much on advertising (which is sort of ironic as my biggest company is an ad exchange).  Advertising works great when you're selling something at a fixed cost (like an e-commerce site or Groupon site), but isn't great when it's hard to calculate how much a user is ""worth.""",1304681618
+2520638,story,,,2,1,ck2,"Man with jet-pack to cross Grand Canyon on Saturday",http://www.news.com.au/travel/holiday-ideas/swiss-jetman-yves-rossy-to-fly-over-grand-canyon/story-e6frfqer-1226051167998,,1304681596
+2520637,story,,,1,0,dkd903,"Nokia Auctioning 500 Millionth Phone In India For $7500 Plus",http://gadgetizor.com/nokia-500-million-phone/7565/,,1304681556
+2520636,comment,2519248,2519248,2,0,anti_veeranna,,,"Very nice, but when do we finally get a new version of Elite/Frontier type of game? :)",1304681537
+2520634,comment,2520543,2520543,1,0,aeden,,,"It seems that the issue may be Hurricane Electric. They appear to have completely disappeared from the Internet. Nothing like a global backbone taking a siesta from providing network service.",1304681382
+2520633,story,,,1,0,bhousel,"New high-tech eyeglasses can change perscription on the fly",http://money.cnn.com/2011/04/19/smallbusiness/pixeloptics_electronic_eyeglasses/index.htm,,1304681372
+2520632,comment,2519396,2519396,1,0,wccrawford,,,"I automatically deduct a star from the rating of any app that asks me to rate it in an annoying way.  It has made 5-star apps get a 4-star rating from me a few times now.",1304681354
+2520631,story,,,1,0,bahaya,"La Reina Del Sur Capitulo 47",http://www.newsonlinegames.com/2011/05/la-reina-del-sur-capitulo-47.html,,1304681305
+2520630,comment,2520229,2520229,2,0,evangineer,,,"tl;dr<p>The major feature of this release is being able to write Disco workers in any language of your choice (as opposed to just Python) by using the new Disco Worker Protocol.",1304681294
+2520629,comment,2520360,2520568,1,0,JoachimSchipper,,,"If you set your logins/hour limit higher than the actual logins/hour, your scheme does nothing except smooth some peaks by forcing people to wait. If you set it lower, there will always be (a growing number of) people waiting to log in. In either case, you annoy real users and spammers to the same degree.",1304681287
+2520628,comment,2520543,2520594,1,0,aeden,,,"I don't use it to monitor, but it's one of the first places I go when things go awry to search and see if others are experiencing issues.",1304681286
+2520626,story,,,1,0,helwr,"S3 as Input or Output for Hadoop MR jobs",http://patodirahul.blogspot.com/2011/05/s3-as-input-or-output-for-hadoop-mr.html,,1304681234
+2520625,comment,2520360,2520454,1,0,dchest,,,"You're right, the server needs to send additional unique information, as in <a href=""http://en.wikipedia.org/wiki/Hashcash"" rel=""nofollow"">http://en.wikipedia.org/wiki/Hashcash</a><p><pre><code>    Server:
+
+    uniq_id = long random string
+    salt = long random string
+    work_number = random integer
+    
+    storage[uniq_id] = salt
+    send(uniq_id, salt, work_number)
+
+
+    Client: 
+
+    new_number = work_number
+
+    while hash[:4] != ""0000""
+      hash = hashfunc(salt | new_number++)
+
+    send(uniq_id, new_number)
+    
+
+    Server:
+    
+    salt = storage[uniq_id]
+    if no salt
+         deny
+
+    delete from storage[uniq_id]
+
+    if hashfunc(salt | new_number)[:4] != ""0000"" 
+         deny
+    else
+         allow
+</code></pre>
+May also add timestamps.",1304681132
+2520624,story,,,1,0,alviskleen,"Big Music Fest Tickets ","http://www.ticketsmate.com/concerts-tickets/festival-tour/big-music-fest/big-music-fest.php ",,1304681084
+2520623,story,,,0,0,davewiner,"Feature requests from an iPad-using Blorker",http://scripting.com/stories/2011/05/06/featureRequestsFromAnIpadu.html,,1304680115
+2520622,story,,,1,0,extension,"Possible Lastpass security breach, all master passwords must be changed",http://mashable.com/2011/05/05/last-pass-breach/,,1304679835
+2520620,comment,2519674,2520288,6,0,piotrSikora,,,"Noone is denying that. But what's the point of bringing that up here?",1304679742
+2520619,story,,,1,1,sippelgloria,"Reviews and tips about trench coats for men",http://www.trenchcoatmen.org/,,1304679734
+2520618,story,,,1,0,lmacvittie,"F5 Friday: HP Cloud Maps Help Navigate Server Flexing with BIG-IP",http://devcentral.f5.com/weblogs/macvittie/archive/2011/05/06/f5-friday-hp-cloud-maps-help-navigate-server-flexing-with.aspx,,1304679714
+2520617,comment,2516579,2516579,1,0,giis,,,"more info. on the hack - when user tried to forgot password ,they got their original password back. If it was stored as encrypted then there is no way to decrypt them. And also in interview CEO claims they use ""2.2.17"" for past 5 months but <a href=""http://uptime.netcraft.com/up/graph?site=www.ccavenue.com"" rel=""nofollow"">http://uptime.netcraft.com/up/graph?site=www.ccavenue.com</a> shows differently",1304679646

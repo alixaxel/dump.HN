@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+15893,comment,15748,15748,0,0,wammin,,,"Guys, I'm building a collaboration application called Wamily that would be perfect for this. I just set up a group for this purpose. It has a wiki, and threaded conversations, and eventually more tools.<p>Sign up at <a href=""http://wamily.com"">http://wamily.com</a> with invite code ZMYWVX and you will automatically be added to the group",1177300214
+15892,comment,15613,15613,0,0,budu3,,,"Oh my goodness. I'm truly alarmed by this article. The author needs to think more in terms innovation, and creating value (for him and his co-workers, his investors and his users) in places that people would not think to look.
+I don't think it's about finding a hacker who can code in Ruby and then building a me too web2.0 app/website. 
+Web 2.0 and pastel coloured websites will come and go but good innovators will always be around whether they know how to program in the latest ""geek"" language or not.",1177300158
+15891,comment,15867,15868,0,0,bootload,,,"thx for the heads up. Does the same thing happen leaving a space after the end of the url ie: ( <a href=""http://www.cnn.com"">http://www.cnn.com</a> ) ... no but there is a trailing '/'. <p>So if you do something like this ( <a href=""http://www.cnn.com/"">http://www.cnn.com/</a> ) does this cause a problem? (no)",1177300033
+15890,comment,15748,15848,0,0,Sam_Odio,,,"It looks like there are several different users who want to build this (or something similar).<p>I definitely think collaboration would work best - if the site is going to be used by the community it needs all of our support.  It can't be a one man show.<p>Personally, I envision a site with several different tools: idea feedback, find cofounders, find shared office space, demo new apps, a how-to resource archive, wiki, etc. <p>I think one News.YC reader has already built a site that can be used to find cofounders.  Jamie, Sumon and Timmmah built a site to demo apps (demomyapp.com).  Justin is building a basic idea feedback site.  John Leung is trying to organize a shared office/startup hub website.  I'm building a resource archive.<p>What if we all collaborated on one site that did it all?
+",1177300021
+15889,comment,15855,15855,0,0,eli,,,"And check the comments",1177299977
+15888,comment,15748,15858,0,0,akkartik,,,"hear, hear",1177299923
+15887,comment,15880,15880,0,0,plusbryan,,,"84% for likebetter.com.",1177299706
+15886,story,,,4,0,dougadams," After slowdown, angel investors starting to go with the flow",http://www.dailybreeze.com/business/articles/7116421.html,,1177299682
+15885,comment,15748,15816,0,0,plusbryan,,,"Saw this the other day. Pretty similar to an idea I presented to PG way back when. I still have PG's whiteboard post: ""but some startup ideas need be kept secret""",1177299574
+15884,comment,15884,927,0,0,Goladus,,,"I'm just going to point out that this really makes me only vote on topics I really care about.  It doesn't really bother me.",1177299091
+15883,story,,,7,2,Sam_Odio,"Is Google offering free 411 to collect samples of your voice?",http://redeye.firstround.com/2007/04/google_wants_yo.html,,1177299050
+15882,comment,363,363,0,0,nickb,,,"Request: More meningful  tag text. Paul, could you copy the text from the title of the article and palce it in between title tags?",1177298737
+15881,comment,15867,15867,0,0,brett,,,"I submitted this to the feature request thread a couple weeks ago:
+<a href=""http://news.ycombinator.com/comments?id=10889"">http://news.ycombinator.com/comments?id=10889</a>",1177298645
+15880,story,,,9,6,Sam_Odio,"Grade your startup website",http://onstartups.com/GradeYourStartupWebSite/tabid/6995/Default.aspx,,1177298440
+15879,comment,15821,15821,0,0,Elfan,,,"There is a web framework under development for eElang as well:
+<a href=""http://erlyweb.org/"">http://erlyweb.org/</a>",1177298406
+15878,story,,,4,0,Sam_Odio,"Startup Suicide: Five Ways To Kill Your Startup, Which Will You Pick?",http://onstartups.com/home/tabid/3339/bid/69/Startup-Suicide-Five-Ways-To-Kill-Your-Startup-Which-Will-You-Pick.aspx,,1177298276
+15877,comment,15747,15747,0,0,lupin_sansei,,,"I don't suppose there's any references for these stats. Sound made up to me.",1177298172
+15876,comment,15672,15715,0,0,shiro,,,"Here it is:
+<a href=""http://practical-scheme.net/wiliki/wiliki.cgi/Kahua:Reddit-modoki"">http://practical-scheme.net/wiliki/wiliki.cgi/Kahua:Reddit-modoki</a>",1177297985
+15875,comment,15829,15829,0,0,Goladus,,,"Memories change and the memory owners don't even realize it.   <p>That reality seems a lot less mind-blowing after reading Paul's blog post.<p>",1177297536
+15874,comment,15613,15863,0,0,nostrademons,,,"Actually, it was at Amherst.  There must be multiple colleges with Arts Theme Houses ;-).<p>And we're not live yet, but we're close.  Damn day job sucks up my time.  We may have something (not our main idea, but potentially useful) up by tomorrow though, and hopefully our original site idea will follow soon afterwards...",1177297437
+15873,comment,15867,15867,0,0,far33d,,,"use the feature request link at the bottom of the main page. ",1177297319
+15871,story,,,2,0,agoge,"TED: Finding Balance",http://nevereatalone.typepad.com/blog/2007/03/ted_part_1.html,,1177297204

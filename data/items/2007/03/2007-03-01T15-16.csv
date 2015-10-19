@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1722,story,,,1,2,Harj,"How do you build the perfect local community Web site ",http://venturebeat.com/2007/02/28/will-outsidein-nail-the-community-web-site-maybe/,,1172764515
+1721,story,,,4,0,abstractbill,"Delaware corporate franchise tax is due today (March 1st)",http://www.dca.net/delawarecorp.com/sch-tax.htm,,1172764334
+1720,comment,1657,1707,0,0,nostrademons,,,"Only 1.045? ;-)",1172764141
+1719,comment,1677,1685,0,0,nostrademons,,,"A lot of them may have been from the startup school(s).  Sacca, Wolfram, and Woz were speakers at the first startup school, and the dates on the audio files are right after it.",1172764082
+1718,comment,1321,1696,0,0,wensing,,,"Exactly.  You have control over the read-access permissions on any content on S3.  Anything set to 'private' cannot be accessed by the outside world without a URL with an encrypted key salted with your private key and an expiration date.  I am already doing this with my startup and it is a wonderful feature, with no fears of 'botnet attacks'.",1172763884
+1717,story,,,8,6,Elfan,"Asking All Young Entrepreneurs: Are You Absolutely Sick of College Yet?",http://mindpetals.com/blog/2007/02/asking-all-young-entrepreneurs-are-you-absolutely-sick-of-college-yet/,,1172763746
+1716,comment,1580,1648,0,0,eli,,,"Well, because it won't eliminate the junk messages vying for my attention, it will just earn me fake email currency for reading them. This does not help the overall goal of email overload.<p>If I trust the person sending the message, he/she can just use the ""Priority"" feature. If I don't trust him/her, then I don't see why messages with more virtual currency units are necessarily more important than those with less. ",1172763619
+1715,comment,1493,1503,0,0,SwellJoe,,,"The really good looking one is me.",1172763560
+1714,comment,1493,1583,0,0,SwellJoe,,,"No, but the benches are deadly.",1172763478
+1713,comment,1321,1696,0,0,wensing,,,"Exactly.  You have control over the read-access permissions on any content on S3.  Anything set to 'private' cannot be accessed by the outside world without a URL with an encrypted key salted with your private key and an expiration date.  I am already doing this with my startup and it is a wonderful feature, with no fears of 'botnet attacks'.",1172763276
+1712,story,,,2,0,msgbeepa,"How To Bring New Readers To Your Blog/site?",http://www.wikio.com/webinfo?id=13911648,,1172762588
+1711,comment,1695,1695,0,0,jwecker,,,"""    *  IP Filtering: Advertisers can block particular IP addresses that they think are fraudulent. When this happens, people coming from these IP addresses will not see ads.""<p>Put me on the list!  Now here's something there's a market for... [with apologies to those reading this who are relying on this as a major source of revenue]",1172762435
+1710,comment,1565,1565,0,0,juwo,,,"see my thread:
+http://news.ycombinator.com/comments?id=1464",1172762256
+1709,comment,1565,1565,0,0,juwo,,,"I dont know. It's ok for a turnaround company, or a dispassionate outsider. Not for someone who is in the grind.
+see my thread http://news.ycombinator.com/comments?id=1464",1172762114

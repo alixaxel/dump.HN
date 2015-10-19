@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2816,comment,2813,2813,0,0,r0b,,,"Someone should make an S3 interface that does automatic file versioning.  Basically a CVS for non-coders.  It seems like that would be an intuitive feature for any online storage product.<p>Do any of the current online storage products do this already?  I know some of the new ones use S3 (elephant drive and jungle disk, to name two), but I don't think either of them have a versioning feature built-in.  It shouldn't be too hard to create...",1173328125
+2815,comment,2812,2814,0,0,r0b,,,"true.  my parents met on craigslist.<p>(just kidding.  i don't think that's possible.)",1173327630
+2814,comment,2812,2812,0,0,danielha,,,"I can't say it's one of the best places. But hey -- people have found some odder things on Craigslist.",1173327400
+2813,story,,,4,3,socmoth,"Web apps with S3 + Rails.  Now your apps have 2x as many buzz words.",http://developer.amazonwebservices.com/connect/entry.jspa?entryID=608,,1173327149
+2812,story,,,1,6,r0b,"What do you think about looking for a co-founder on Craigslist?",,,1173326967
+2811,comment,2800,2800,0,0,python_kiss,,,"It has been delayed by one day: http://startupschool.org/index.html",1173326752

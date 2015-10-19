@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16203,story,,,3,1,brlewis,"PostgreSQL Hardware Performance Tuning",http://momjian.us/main/writings/pgsql/hw_performance/index.html,,1177387090
+16201,comment,15995,16192,0,0,nostrademons,,,"Greenspun had other companies before Ars Digita.  He took ICAD/Concentra public and also co-founded ConSolve and Isosonics.<p>It may be true that no programmer with any sense would work for him - I don't know him personally.  But given how cheaply you can start a company nowadays, he certainly doesn't need investors.  And as I understand it, he's not entirely retired: doesn't he teach a course at MIT?",1177386133
+16200,comment,16031,16031,0,0,Alex3917,,,"""If you go to bat enough times you may never hit a home run, but sooner or later you're bound to be hit by the ball and walked.""",1177385734
+16199,story,,,1,0,dherman76,"Venture Capital compared to the music business",http://www.darrenherman.com/2007/04/23/venture-capital-the-music-business/,,1177384421
+16198,comment,16165,16171,0,0,zemaj,,,"nm - seems to be working now.",1177384050
+16197,story,,,2,0,lupin_sansei,"Moore's Law and a Free Market in Childbirth",http://www.mises.org/story/2540,,1177383959
+16196,comment,15293,15510,0,0,Goladus,,,"Maybe they were really good granola bars.  It was basically a joke.  I can't speak for her, really, but looked to me like an ice-breaker comment to get everyone relaxed.<p>It might make more sense if you understand that no one in the room would care about taking granola bars.  ",1177383828
+16195,comment,15968,15968,0,0,lupin_sansei,,,"Are you sure it's not due to how your email headers and content look? I had to remove my X-Mailer ""Mail-Sender"" and supply a proper address with a name before Hotmail would stop putting the emails into spam.",1177383762

@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+87347,comment,86329,86329,0,0,JeffL,,,"What I dislike is when I launch a program like Photoshop, which initially opens up it's window, but it then has to hit the disk for about 10 seconds or so before it can really load, so of course, as soon as I launch it, I alt-tab away to a browser window or something else, but then when Photoshop or whatever else it was that I launched finishes loading, it steals focus back from me.  It should wait quietly until I'm ready for it, or better yet, when you run a program, it should load whatever it needs to load into memory before opening up its window at all and then when it's ready to give me a usable application, then open up.",1197154732
+87346,comment,87335,87335,0,0,dcurtis,,,"Does anyone know what kind of salary Zuckerburg pulls from Facebook to live on right now?",1197154307
+87345,story,,,2,0,nickb,"New species of huge, deadly cobra discovered ",http://news.yahoo.com/s/nm/20071207/od_uk_nm/oukoe_uk_kenya_cobra,,1197154145
+87344,comment,87335,87343,0,0,axod,,,"Facebook is quite like the emperors new clothes IMHO",1197153872
+87343,comment,87335,87340,0,0,Alex3917,,,"It tells you something about how much faith Facebook employees have in their company.",1197153790
+87342,story,,,39,10,davidw,"Slutbot aces Turing Test*",http://www.roughtype.com/archives/2007/12/slutbot_passes.php,,1197153256
+87341,story,,,5,0,nickb,"Common Lisp Implementations: A Survey",http://common-lisp.net/~dlw/LispSurvey.html,,1197153183
+87340,comment,87335,87335,0,0,fallintothis,,,"Breaking news: there is no breaking news!",1197152702
+87339,comment,87166,87166,0,0,MuddyMo,,,"Give 'em credit for making progress, they don't have a ""Reboot Computer?"" button as the default selection ala: <a href=""http://news.ycombinator.com/item?id=86329"" rel=""nofollow"">http://news.ycombinator.com/item?id=86329</a>",1197152303
+87338,story,,,1,0,drm237,"Vegetable 2.0",http://www.swaroopch.com/archives/2007/12/09/vegetable-20/,,1197151801

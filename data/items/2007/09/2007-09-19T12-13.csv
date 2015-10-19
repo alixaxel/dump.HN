@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+56837,comment,56618,56798,0,0,ced,,,"Most novels can be condensed, yet, it'd suck to read the condensed version. I'd say the same of GEB.",1190206674
+56836,comment,56626,56793,0,0,mojuba,,,"Flash is the only widely available system that gives you full control over every pixel in the browser and it does that in a pretty efficient manner.<p>Although, yes, something intuitively stops me, too, from getting excited about Flash. Maybe it's that it's closed/proprietary and I just don't trust today's Adobe anymore. They definitely want to be the microsoft of the web.<p>So there's Silverlight (well, potentially), Flash and still no decent alternative from the open-source world. No Mono/deIcaza stuff please. Thanks.",1190206550
+56835,comment,56675,56675,0,0,edw519,,,"""Tabs should be reserved for letting users change the view while staying in the same place.""<p>The word ""view"" says it all.  I don't know how many times I've violated #1.  No more.",1190206519
+56834,comment,56638,56638,0,0,carter,,,"Zak, that sounds vague. So I don't understand what you've done. And Rails can be much flexible. What are benefits from your framework for a particular types of web apps?",1190206513
+56833,comment,56452,56452,0,0,jgamman,,,"heck of a CV...",1190206502
+56832,comment,56638,56638,0,0,Phaserblast,,,"Have you seen UCW?
+",1190206442
+56831,comment,56336,56336,0,0,ced,,,"Given your username, that's just weird, but I loaded it from Germany, and I got a web page in Spanish. Google correctly loads as google.de, so something must be wrong on your side.",1190206318
+56829,comment,56336,56336,0,0,samwise,,,"Great execution. Bad concept. Been there done that. good luck. ",1190206130
+56828,comment,56811,56811,0,0,dpapathanasiou,,,"Ah, so someone <i>has</i> tried the ViaWeb 2.0 idea (<a href=""http://news.ycombinator.com/item?id=46984"" rel=""nofollow"">http://news.ycombinator.com/item?id=46984</a>).<p>For now, I'd remove the ""start now"" link until you're actually ready to sign up new accounts.",1190206108
+56827,story,,,1,0,danw,"What happened to Mobile Web 1.0? Dan Applequist",http://www.tomhume.org/2007/09/mobile-20-what-.html,,1190205588
+56826,story,,,1,0,ahsonwardak,"Web 2.0 Investments Up 7 Percent",http://www.redherring.com/Home/22813,,1190204785
+56825,story,,,21,26,davidw,"Ask yc.news: Opinions on EC2?",,"I'm looking into Amazon's EC2 ""web service"", and I'm wondering if anyone else here has looked at/utilized it.  What are its strengths and weaknesses?  What did you use it for?  What should it not be used for?",1190204734
+56824,comment,56665,56743,0,0,dpapathanasiou,,,"<i>I'm still scared to give out my most important credentials to a 3rd party. Maybe I'm paranoid.</i><p>I'm with you, and no, it's not paranoia, especially when stories like this (also on the news.yc front page right now) are still making news: <a href=""http://www.venturecake.com/layered-technologies-hacked/"" rel=""nofollow"">http://www.venturecake.com/layered-technologies-hacked/</a><p>From the article:<p><i>Major US hosting company Layered Technologies have been hacked. Credentials for 5-6000 hosted accounts - and the data stored in them, including customer details in web stores - have been compromised.</i><p>I hope Mint doesn't used Layered for their hosting.",1190204713
+56823,comment,56788,56788,0,0,carter,,,"If you want to hire a programmer for a free, when you'd better try your personal contacts indeed. Otherwise you should try various communities and job sites.
+Like:
+Craiflist
+jobs.37signals.com
+rubyrockstars.com
+etc.",1190204568
+56822,story,,,3,3,ahsonwardak,"Religious Social Networks on the Rise",http://venturebeat.com/2007/09/18/religious-social-networks-on-the-rise/,,1190204326
+56821,comment,56632,56632,0,0,ahsonwardak,,,"Most of us probably blog, isn't that writing?",1190204257
+56820,story,,,1,0,ahsonwardak,"Announcing SoftTech VC's $12M seed fund X the Return to the Dark Side",http://blog.softtechvc.com/2007/09/announcing-soft.html,,1190204216
+56819,story,,,2,1,luccastera,"PCLinuxOS gets number 1 spot on Distrowatch; Ubuntu is now number 2",http://distrowatch.com/weekly.php?issue=20070917#editorial,,1190203694
+56818,comment,56781,56781,0,0,staunch,,,"UPDATE: Always email the founder! I did. Philip Kaplan replied (on his iPhone) within a couple hours and thanked me enthusiastically for letting him know. Hopefully I'll be able to use AdBrite after all, which is awesome.
+",1190203571

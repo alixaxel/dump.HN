@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1540,comment,1513,1513,0,0,jamiequint,,,"Link to full document is here...
+http://www.kauffman.org/pdf/Entrepreneurial_Roadmap_web.pdf",1172685388
+1539,comment,1452,1538,0,0,ecuzzillo,,,"You CAN do it procedurally; in fact, you can do it in Brainfuck, since Brainfuck is Turing-complete. The point is, macros let you stop repetitively writing the same boilerplate code, and let you get down to the point. ",1172685246
+1538,comment,1452,1452,0,0,kingkongrevenge,,,"None of these examples demonstrate something that can't be done procedurally.  He never actually answers the question ""What is the point of macros?""",1172683491
+1537,comment,189,540,0,0,kingkongrevenge,,,"Do you find mzscheme plays well with pthreads, or have you another concurrency approach?",1172682466
+1536,comment,1535,1535,0,0,amichail,,,"Any startups doing something compelling with undercover marketing? ",1172682167
+1535,story,,,2,1,amichail,"Undercover marketing",http://en.wikipedia.org/wiki/Undercover_marketing,,1172682088

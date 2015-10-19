@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+166681,comment,166559,166559,0,0,jsrn,,,"most people seem to use cd and ls very frequently. Very often they are used one after another. This reminds me of a trick I heard in a talk by Damian Conway:<p><pre><code>    alias cdd='cd $l; ls'
+</code></pre>
+I can't find the original slides, here is a writeup by cromatic:<p><a href=""http://www.oreillynet.com/onlamp/blog/2003/07/oscon_2003_day_one.html"" rel=""nofollow"">http://www.oreillynet.com/onlamp/blog/2003/07/oscon_2003_day...</a>",1208462710
+166680,comment,166655,166655,0,0,mosburger,,,"A few of my friends here in Portland, ME were planning on doing something like this, but we didn't have a name for it.  Now we do!",1208462595
+166679,story,,,7,4,Sam_Odio,"Web 3.0 Will Be About Reducing the Noise - And Twhirl Isn’t Helping",http://www.techcrunch.com/2008/04/17/web-30-will-be-about-reducing-the-noise%e2%80%94and-twhirl-isnt-helping/,,1208462531
+166678,comment,166674,166674,0,0,davidw,,,"This is a gold bug article in disguise.",1208462506
+166677,comment,166669,166669,0,0,yan,,,"I want to point out that a more correct name for that article can be ""Erlang-supported types for people who are already aware with the idea of data types, but I will make a few comments targeted at the Python developer,"" albeit that title is a lot less succinct and sexy.<p>That article does very little to introduce functional or declarative programming style. It also doesn't introduce Erlang's process model or Erlang's strengths, but then again I don't expect it to given how brief it is.<p>It's a good otherwise.",1208462500

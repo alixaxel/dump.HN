@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+86206,comment,86003,86143,0,0,neilc,,,"I would definitely call that the exception rather than the rule.",1196827051
+86205,story,,,6,0,hhm,"""An Invitation to Algorithmic Information Theory"" (using Lisp), by Greg Chaitin",http://www.cs.auckland.ac.nz/~chaitin/inv.html,,1196826084
+86203,story,,,1,0,hhm,"How to be a Mathematician: interview with Greg Chaitin",http://www.cs.auckland.ac.nz/~chaitin/mindship.html,,1196825741
+86202,story,,,1,0,hhm,"Gregory Chaitin's The limits of mathematics (full book online)",http://umcs.maine.edu/~chaitin/lm.html,,1196825696
+86200,comment,85589,85678,0,0,hhm,,,"No, I just was thinking in some Lisp implementation that didn't require to install the JVM, but that could use the bytecode of a lighter language, like Python. Also because I suppose if a Lisp implementation is generating code for a specific platform, its documentation will refer to such platform, and I'd prefer to read about Python bytecode than about JVM.<p>But maybe I'm wrong and it's just useless prejudice of my part.",1196825533
+86199,comment,85840,85840,0,0,Darmani,,,"This Perfect Day by Ira Levin (out of print, yet much more worthwhile in my opinion than other dystopic novels)
+Guns, Germs, and Steel by Jared Diamond
+The Books of the Fey by Kristine Kathryn Rusch
+Artemis Fowl series by Eoin Colfer
+The Deathgate Cycle by Tracy Hickman and Margaret Weis",1196825467
+86198,comment,86191,86191,0,0,ingenium,,,"Definitely an interesting theory. I could absolutely see life forming there, though some of her arguments are a little over the top:<p>""RNA plays an important part in translating the genetic code, and is composed of nitrogenous bases, sugar, and phosphates. RNA and many proteins and lipids in our cells have negative charges like mica. RNA's phosphate groups are spaced one half nanometer apart, just like the negative charges on mica.""<p>This is coincidence and nothing more. Lots of things have a negative charge. In fact, half of all things with a charge must be negative. The same with the phosphate groups. I assume she means the distance between the phosphate group in subsequent ribonucleotides, since in the chain each ribonucleotide has only one phosphate group. However, I believe this distance can change based on how the RNA is folded (it's never in a straight chain like it's drawn unless it's bound to its complimentary strand). <p>I hope more research is done on this though, because it would solve some problems with the primordial soup hypothesis.",1196825467
+86197,comment,86086,86086,0,0,wehriam,,,"Check your CSS. <p>When I first used jQuery it wasn't working as I had expected it to. The stylesheets were invalid and apparently causing problems. Since then I haven't run into any issues with IE or otherwise.<p>",1196824974
+86196,comment,85840,85840,0,0,croby,,,Blink,1196823968
+86195,story,,,5,0,terpua,"When cruft creeps in",http://www.37signals.com/svn/posts/730-when-cruft-creeps-in,,1196823665

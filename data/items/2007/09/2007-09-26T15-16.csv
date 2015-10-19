@@ -1,0 +1,38 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+59842,comment,59794,59838,0,0,olavk,,,"My theory is that there is two kinds of people. Those that like everything to be in the same language and environment, and those that like to combine lots of different languages where each language is optimized for a specific task. ",1190822380
+59841,story,,,2,0,luccastera,"Rails and JPA (Instead of ActiveRecord)",http://weblogs.java.net/blog/bleonard/archive/2007/09/rails_and_jpa_i.html,,1190822221
+59840,comment,59792,59792,0,0,pg,,,"They should just replace their heads with the heads used in the South Park movie.",1190822185
+59839,comment,59764,59808,0,0,karzeem,,,"It's a shame that at a lot of big companies, HR is the division with the least intelligent employees.  At most places, it's not the kind of job that attracts the best and brightest.",1190822165
+59838,comment,59794,59819,0,0,nostrademons,,,"I don't understand the resistance to using multiple languages in one project.  Every time you use an API, you're effectively using a new language.  The syntax may be familiar, but the vocabulary is completely different.  That's the <i>point</i> - through libraries and DSLs, we extend the capabilities of the base language so it's more suitable to the problem domain.  <p>Take a look at the following SQLAlchemy code:<p><pre><code>  select([users.c.first_name + ' ' + users.c.last_name,
+          users.c.email, games.c.title], 
+       from_obj=[users.join(games, 
+                 users.c.user_id == games.c.creator_id],
+       and_(games.c.creation_date == datetime.datetime.now() - datetime.timedelta(3),
+            or_(users.c.email.like('%@aol.com'),
+                users.c.email.like('%@hotmail.com'))))
+</code></pre>
+Can you really say that's easier to read than this?<p><pre><code>  SELECT users.first_name + ' ' + users.last_name,
+         users.email, games.title
+  FROM users
+  INNER JOIN games ON (users.user_id = games.game_id)
+  WHERE games.creation_date >= DATE_SUB(NOW(), INTERVAL 3 DAY)
+  AND (users.email LIKE '%@aol.com' OR users.email LIKE '%@hotmail.com')
+</code></pre>
+SQLAlchemy is a really cool library - it basically lets you write all your SQL queries in 100% Pure Python.  But I doubt I'd use it on my own projects, because I've learned to be suspicious of libraries whose only purpose is to make some other tool look like a language I already know.  Invariably there are reasons why the original language looked the way it did, and the reimplementation as a library becomes incredibly clunky as things get more complicated.  I find I'm better off learning the original language instead.",1190821928
+59837,story,,,22,15,ivankirigin,"The Case Against Adolescence",http://www.kottke.org/07/09/the-case-against-adolescence,,1190821826
+59836,comment,59794,59819,0,0,olavk,,,"Databases are not arrays, although they may be implemented as arrays. The whole point of the relational model is that the logical model is abstracted from the implementation. So if e.g. the DBA decides that it would be more efficient to store a table as an array of columns rather than an array of rows, he can do that without changing the logical model.",1190821801
+59835,story,,,1,0,tomh,"How Second Life found its 2nd wind.",http://foundread.com/2007/09/25/how-second-life-found-its-2nd-wind/,,1190821598
+59834,comment,59794,59819,0,0,Kaizyn,,,"The relational model is simply the application of set theory and predicate logic to data management.  Are you saying that these two branches of math/logic are ugly or that you don't understand them well enough to have a decent opinion?",1190821499
+59833,comment,59512,59817,0,0,comatose_kid,,,"Well, I think the poor estimates reflect more on the size of his goal than on anything else.
+Big goals aren't as easily project managed as the typical software feature.
+",1190821027
+59832,comment,59794,59794,0,0,edw519,,,"Now this is just stupid.  <p>I've built a career moving data out of flat files into RDBMS in order to get systems working properly (and quickly).  I couldn't believe the hoops people jumped through just because of their dislike (or ignorance) of relational databases.<p>This data base model is perfect for many applications, and can easily be mixed with other data storage technologies (if you know what you're doing.)<p>Don't like the capabilities of your RDMBS?  Then add what you need to you app.  Indexing, transactions, stored procedures, audit, security, whatever.  The code doesn't care where it's at.  It still runs.<p>Not pretty enough for you?  Then become a mathematician or fashion designer.  Otherwise, shut up and code.
+",1190820472
+59831,comment,59825,59825,0,0,jsjenkins168,,,"TextPayMe is on that list. Isnt this the acquisition YC still cant ""talk"" about?",1190820321
+59830,comment,59794,59819,0,0,jimm,,,"I agree with some of your points, but you need to study data structures a bit more. Just because a simple table structure could be implemented as an array doesn't mean that database tables are equivalent to arrays. A primary key is not the same as array index: it can be a type other than integer, and it can be non-consecutive. Indexing columns (including but not limited to the primary key) provides searches that happen in less than linear time. You can't do that with a plain array.<p>Another thing database give you is ACID storage. Sure, you could reproduce some of that using thread-level locking or some other locking mechanism, but then what you have isn't a simple array any more.",1190819833
+59829,comment,59825,59825,0,0,vlad,,,"The first thing I noticed is that they're missing Zenter, but the timeline is still cool because it starts in January 2001 with updates through this August.  Any more that they've missed?",1190819769
+59828,comment,59688,59688,0,0,mhartl,,,"This reminds me of a bug in Mathematica from back in the late '90: there was a whole class of sums that Mathematica said were negative, even though each term in the sum was strictly positive!  ""Carry problem"", my ass.",1190819767
+59827,comment,59392,59782,0,0,henning,,,"He is kinda busy, you know. This isn't a business. If he had neglected users at Viaweb that would be different.",1190819595
+59826,comment,59794,59794,0,0,henning,,,"I like databases because unless you have an unusually nice job, SQL is the closest you'll get to getting paid to use a declarative programming language.",1190819549
+59825,story,,,12,7,vlad,"7-Year Updated Ajax Timeline of Google, Yahoo, Microsoft, Amazon Acquisitions",http://www.shmula.com/blog/timelines/google-microsoft-yahoo/g-y-m.htm,,1190819498
+59824,comment,59796,59796,0,0,queensnake,,,"boo, link-jacked; actual Kara Swisher link:<p><a href=""http://kara.allthingsd.com/20070925/15-billion-more-reasons-to-worry-about-facebook"" rel=""nofollow"">http://kara.allthingsd.com/20070925/15-billion-more-reasons-...</a>",1190819322

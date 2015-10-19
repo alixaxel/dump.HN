@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85201,comment,85166,85166,0,0,mojuba,,,"I think hashing your sequence twice with different salt suffixes will make it much stronger, if not unbreakable for the next decade. Or am I missing something?<p>So, for input sequence t a better hash can be computed as<p><pre><code>  md5(md5(t + salt1) + salt2)
+</code></pre>
+Once computers get more powerful just add one more step with saltN, and so on.<p>Upd: length of t can be included in calculation as well.",1196503130
+85199,comment,85124,85124,0,0,pg,,,"Ug, another one of those n-page articles with about 100 words per page, and no single-page option. I gave up after the first page.
+",1196502655
+85198,story,,,9,2,theoneill,"Perl on Rails",http://www.bbc.co.uk/blogs/radiolabs/2007/11/perl_on_rails.shtml,,1196502093
+85197,story,,,4,0,theoneill,"Pulling Digits out of Pi",http://www.ams.org/featurecolumn/archive/pi.html,,1196502070
+85196,comment,84807,85152,0,0,kirse,,,"At least Myspace knows how to handle their 404s.",1196499912

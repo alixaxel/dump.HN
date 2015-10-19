@@ -1,0 +1,300 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8716182,comment,8715859,8715859,0,0,bejuizb123,,,"I was actually wondering about something similar to this for a different venture (say something like Uber).<p>What we need to have is a constant source of income (through donations or other mechanisms). The expenditure will be of two types, Capex and Opex. Capex costs can be covered by the donations, as for Opex, the primary issue is of support and maintenance. For this, my thought was to use either something like MTurk for non-tech activities and something along the lines of open source software development for tech activities.<p>I think, the world may need such a kind of open model for businesses, a self-sustaining entity.",1418043575
+8716181,comment,8713270,8715373,0,0,alphabetam,,,"Nice summary.",1418043505
+8716180,story,,,2,0,poremland,"Willing, capable, and nearby",http://paul.oremland.net/2014/12/willing-capable-and-nearby.html,,1418043505
+8716179,comment,8712417,8712417,0,0,denulu,,,"I&#x27;ve been using `dwdiff -c`, which admittedly doesn&#x27;t do side-by-side: <a href=""http://linux.die.net/man/1/dwdiff"" rel=""nofollow"">http://linux.die.net/man/1/dwdiff</a>",1418043489
+8716178,comment,8716050,8716153,0,0,dghf,,,"If that&#x27;s the criterion, then move to Weymouth: it&#x27;s less than 17 miles from the Cerne Abbas Giant. <a href=""http://en.wikipedia.org/wiki/Cerne_Abbas_Giant"" rel=""nofollow"">http://en.wikipedia.org/wiki/Cerne_Abbas_Giant</a>",1418043488
+8716177,comment,8714988,8714988,0,0,juliangamble,,,"On this site they say there are <i>10 LISP primitives</i>. The primitives are:<p><pre><code>    atom 
+    quote 
+    eq
+    car 
+    cdr 
+    cons 
+    cond 
+    lambda 
+    label 
+    apply
+</code></pre>
+<a href=""http://hyperpolyglot.wikidot.com/lisp#ten-primitives"" rel=""nofollow"">http://hyperpolyglot.wikidot.com/lisp#ten-primitives</a><p>Steve Yegge reckons there are <i>seven or five</i>:<p><pre><code>    Its part of the purity of the idea of LISP: you only need the seven (or is 
+    it five?) primitives to build the full machine.
+</code></pre>
+<a href=""http://steve-yegge.blogspot.com/2006/04/lisp-is-not-acceptable-lisp.html"" rel=""nofollow"">http://steve-yegge.blogspot.com/2006/04/lisp-is-not-acceptab...</a><p>McCarthy had <i>five</i>:<p><pre><code>    atom
+    eq
+    car
+    cdr
+    cons
+</code></pre>
+<a href=""http://www-formal.stanford.edu/jmc/recursive.pdf"" rel=""nofollow"">http://www-formal.stanford.edu/jmc/recursive.pdf</a><p>McCarthy then <i>added another four</i>:<p><pre><code>    quote
+    cond
+    lambda
+    label
+</code></pre>
+So according to McCarthy - <i>the answer is nine</i>.<p>See here for a more in depth discussion:<p><a href=""http://stackoverflow.com/questions/3482389/how-many-primitives-does-it-take-to-build-a-lisp-machine-ten-seven-or-five/"" rel=""nofollow"">http://stackoverflow.com/questions/3482389/how-many-primitiv...</a>",1418043466
+8716176,story,,,2,0,adrianleb,"Shibecloud – the best from the comments of a Soundcloud track, dogefied",http://shibecloud.com/,,1418043458
+8716175,comment,8715859,8715859,0,0,mooktakim,,,"Depending on what you build, you could get away with using free tier on a lot of hosting solutions, like Heroku.<p>In the past I&#x27;ve used Heroku for some charity websites, and they&#x27;ve been running well for years. If you do it well (caching etc), you could handle a lot of traffic with the free tier.",1418043455
+8716174,story,,,3,0,mrfusion,"Radical new economic system will emerge from collapse of capitalism",http://www.theguardian.com/sustainable-business/2014/nov/07/radical-new-economic-system-will-emerge-from-collapse-of-capitalism,,1418043454
+8716173,story,,,1,0,rdomanski1,"Tweeting Alone: Slacktivism and the Decline of Civic Engagement",http://thenerfherder.blogspot.com/2014/12/tweeting-alone-slacktivism-and-decline.html,,1418043453
+8716172,comment,8715617,8715787,0,0,dnohr,,,"Good to hear & good idea to make the range of days.",1418043427
+8716171,comment,8715049,8716013,0,0,noinsight,,,"Granted I&#x27;m not an expert, but I&#x27;m not confident that you could tell <i>everything</i>, at least not in the default configuration of desktop OSes without special auditing in place. Some stuff, sure.<p>> An IR firm would never tell you to just reimage a machine when you&#x27;re dealing with an advanced attacker. They&#x27;d want to go through, use the tools they have to identify exactly what happened on the machine<p>Yes, I was talking more in the run-of-the-mill case sense, not regarding thorough forensic investigations. If you&#x27;re actually going to investigate the incident deeper, you should at least get memory dumps, process dumps and an image of the machine and such. In my experience though, at most companies the SOP is just monitoring standard antivirus stuff and then when an infection comes up, it either gets automatically cleaned or someone goes over and fixes it with a manual scan or whatever. Which is completely inadequate.",1418043408
+8716170,comment,8715529,8716083,0,0,baldfat,,,"BUT this allows for easier changing of the licensing.",1418043394
+8716169,comment,8714521,8714521,0,0,spiritplumber,,,"I&#x27;m okay with this.<p>I&#x27;m in the process of getting a provisional patent for something fairly trivial, simply to make sure that the Principal Investigator for the project on this project doesn&#x27;t take credit for it (before I get downvoted: the PI told me &quot;I need a way to do this thing, and I have no idea how to do it&quot; and I did all the R&D, paid for the prototyping, and I am volunteering my contributions in the first place).<p>I&#x27;m noticing that it is extremely unlikely that an actual human being will read my application, and would actually like to have it rejected for being trivial, because it&#x27;d mean some checking is going on.<p>I feel this is a mild abuse of the provisional patent system, but what can I do?<p>I wonder if anyone tried to patent the old Signetics write-only-memory, if it would go through? Someone patented the wheel in Australia a while ago...",1418043382
+8716168,story,,,1,1,M-S-B,"Why we used Buffer's code, to copy their blog",http://blog.mailcloud.com/startups/used-buffers-code-copy-blog/,,1418043342
+8716167,story,,,12,0,bejuizb123,"Math 101: A Reading list for life-long learners",http://ideas.ted.com/2014/09/05/math-101-a-reading-list-for-lifelong-learners/,,1418043286
+8716166,comment,8713070,8715930,0,0,ux,,,"That&#x27;s why you have -filter_script and -filter_complex_script options.",1418043286
+8716165,comment,8715859,8716128,0,0,mooktakim,,,"You could ask them to donate money after they find a job, as a way to keep the service running for the next person.",1418043272
+8716164,comment,8714849,8716108,0,0,Riesling,,,"> Reality is much too interesting to avoid it.<p>Some people do not take drugs to avoid reality. They take them to explore it. What one has to realize is that the experience we call &quot;reality&quot; is only a subjective image created by our minds. There is a chain of filters applied to everythings our sensors (eyes, ears, skin and so on) register. Drugs are able to influence those filters. Hence one might be able to see &quot;reality&quot; from a different point of view.",1418043265
+8716163,comment,8716050,8716050,0,0,sdepablos,,,"All is perfect, until you need to hire more developers, and then find (almost) all of them live in big cites, and they&#x27;re not willing to relocate to a place without theaters, bars, discos... probably a lot like the place the came from before living in the city ;)",1418043219
+8716162,comment,8716050,8716102,0,0,lamby,,,"Looks like nice cycling around there too...",1418043219
+8716161,comment,8712462,8714919,0,0,weeksie,,,"You don&#x27;t get to the airport an hour early? It doesn&#x27;t take you a half hour to drive to the airport and park? No idea, I&#x27;ve never flown out of Boston, maybe Logan&#x27;s closer to town than JFK is in NY. I&#x27;m just saying, because from my place in Manhattan getting to Penn is literally a five minute shot up 6th Ave.",1418043209
+8716160,comment,8713814,8715876,0,0,melling,,,"I&#x27;m not from Detroit so would it be possible for someone to provide references to any claims?  People are just offering opinions. Having watched the news all my life, all I saw was that Detroit followed the auto industry, which did well when big cars did well.",1418043199
+8716159,comment,8688714,8688714,0,0,drtechno,,,"Great book. I&#x27;m beginer in rails development and this is first book that geves answers to all my questions.",1418043198
+8716158,story,,,3,0,adamlvs,"Apple’s Best Apps of 2014",http://techcrunch.com/2014/12/08/apples-best-apps-of-2014-include-elevate-and-threes-best-of-itunes-lauds-taylor-swift/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29,,1418043195
+8716156,comment,8716070,8716070,0,0,teddyuk,,,"“I’m not touching your precious robots!” you can feel the animosity in that one statement alone!",1418043178
+8716154,story,,,95,85,InternetGiant,"The Dot-Com Bust’s Worst Flops Were Actually Fantastic Ideas",http://www.wired.com/2014/12/da-bom/,,1418043134
+8716153,comment,8716050,8716102,0,0,wyclif,,,"Hastings is also less than 18mi (or so) from the Long Man of Wilmington. Inspiration via hill figure? <a href=""http://en.wikipedia.org/wiki/Long_Man_of_Wilmington"" rel=""nofollow"">http://en.wikipedia.org/wiki/Long_Man_of_Wilmington</a>",1418043004
+8716152,comment,8714477,8716012,0,0,percept,,,"Thanks for the article and sharing so much of your experience.",1418043000
+8716151,comment,8716050,8716050,0,0,zecg,,,"They seem to be selling a dystopia:<p>&quot;Getting far away from your family, your friends, [...] Living close to the beach, and surfing or doing yoga, also helps decompressing after work, and avoiding burnout, and therefore staying productive&quot;",1418042978
+8716150,comment,8714070,8715155,0,0,chongli,,,"Try using Google Scholar. Here&#x27;s an example query for battery chemistry:<p><a href=""http://scholar.google.ca/scholar?hl=en&q=battery+chemistry&btnG=&as_sdt=1%2C5&as_sdtp="" rel=""nofollow"">http://scholar.google.ca/scholar?hl=en&q=battery+chemistry&b...</a>",1418042932
+8716149,comment,8713814,8715057,0,0,melling,,,"Those two ideas aren&#x27;t mutually exclusive. Education is the way out of poverty. America provides more opportunities than most other countries.",1418042909
+8716148,comment,8714849,8714849,0,0,applecore,,,"Somewhere, buried deep inside this overwrought and pretentious article, is a much better and more insightful story. That story is probably <i>The Bacchae</i> by Euripides.",1418042904
+8716147,comment,8716050,8716113,0,0,ciupicri,,,"I don&#x27;t know how can you love cycling in the rain, considering that the bike needs cleaning afterwards.",1418042904
+8716146,story,,,1,0,samueltonini,"Bounce Between Functions and Definitions in Emacs Lisp",https://medium.com/@samueltonini/bounce-between-functions-and-definitions-4bb351f9ecd1,,1418042833
+8716145,comment,8716050,8716102,0,0,kieranajp,,,"We&#x27;re in Canterbury and it&#x27;s very much the same situation here. Small, historical, charming town, 1 hour from London on HS1, and large enough that we have a good few local clients.",1418042830
+8716144,comment,8716050,8716099,0,0,atmosx,,,"A mix of both is optimal IMHO and even somewhat dream-like situation but today (more than ever before) it IS possible.",1418042796
+8716143,comment,8715049,8715957,0,0,kodr,,,"it depends on the market share. Windows is the most used OS, that&#x27;s why you see virus on it. I heard OSX started getting some after becoming popular once again a few years back.<p>As long as linux isn&#x27;t too mainstream, it will be less a problem. But you could still use ClamAV if you share some files with other computers.",1418042792
+8716142,comment,8714521,8715745,0,0,sgift,,," Not documenting it makes it harder to escape the scrutiny by rewriting your patent applications. It is far easier to game such a system if you know precisely how it works.",1418042771
+8716141,comment,8691340,8693763,0,0,cben,,,"Interesting,  certainly makes etymological sense.
+I never realized that, in Israel the two terms are used pretty interchangably.  Wikipedia says CVs are much more comprehensive in some countries, esp. North America.",1418042740
+8716140,comment,8714846,8714846,0,0,unixpunx,,,"Uber should make a social media website, that way nobody would care. All kind of shady business or lack of ethics are completely forgotten, as long as people get to post selfies and show off their socioeconomic status to other losers lile them.",1418042703
+8716139,comment,8715862,8715862,0,0,parag_c_mehta,,,"People from Delhi are searching for all sorts of reasons or way to make rape hard. They should instead understand why people are doing it ? It is sadistic mind of people due to which these crimes are happening not because of uber or police.<p>Instead of blaming the man and society, they want to blame everything else... Shame that Delhi is also becoming rape capital of India.",1418042692
+8716138,comment,8714082,8715473,0,0,sanxiyn,,,"You should use handicap. Handicap is absolutely normal in Go. Coming from South Korea, I was shocked to find that some western players avoid playing Go with handicap.",1418042674
+8716137,comment,8713270,8713270,0,0,mambodog,,,"Another way of thinking about it is that it&#x27;s kinda like Function.prototype.call is being used implicitly at the call site to set the &#x27;context&#x27; (the &#x27;this&#x27; value):<p><pre><code>    // assuming in each case
+    var o = {}
+    var o2 = {}
+    var fn = function(){}
+    
+    // 1. bare function call
+    fn() // this == undefined in strict mode, global in non strict mode.
+    
+    // 2. calling with Function.prototype.call
+    fn.call(o) // this == o
+    
+    // 3. &#x27;method&#x27; call (calling an object&#x27;s function property)
+    o2.fn = fn
+    o2.fn() // this == o2
+    // equivalent to
+    fn.call(o2)
+
+    // 4. calling object&#x27;s function property with Function.prototype.call
+    o2.fn = fn
+    o2.fn.call(o) // this == o
+
+    // 5. new
+    var o3 = new fn() // this = o3
+    // equivalent to
+    var o3 = Object.create(fn.prototype)
+    fn.call(o3)
+
+    // 6. calling function bound with Function.prototype.bind
+    var fn2 = fn.bind(o)
+    fn2() // this == o
+    // equivalent to
+    var fn2 = function(){ fn.call(o) }
+    fn2()
+
+    // 7. calling object function property which is a bound function
+    o2.fn = fn.bind(o)
+    o2.fn() // this == o
+    // equivalent to
+    o2.fn = function(){ fn.call(o) }
+    o2.fn()
+    
+  </code></pre>
+Basically you should think of functions (and &#x27;methods&#x27;) as not being intrinsically bound (as in binding-of-&#x27;this&#x27; bound) to anything.<p>If you think of a &#x27;method&#x27; (function property) as being bound an object purely by being &#x27;attached&#x27; to it then you are gonna have a bad time. Instead, think of binding of &#x27;this&#x27; as usually only happening at call time, to the thing you are &#x27;calling the function off of&#x27;.<p>In reference to case 1 (bare function call), this is the same behaviour which occurs when as defining an anonymous function inside a function which has &#x27;this&#x27; set. Just don&#x27;t use &#x27;this&#x27; in this case, it doesn&#x27;t make sense. Defining a _this or self variable in the parent function is the standard practice to deal with this case, or in ES6, Coffeescript etc. you have the => fat arrow to implicitly do that for you.",1418042672
+8716136,comment,8713541,8716066,0,0,sam_bwut,,,"Reporting for worship: <a href=""http://pocorgtfo.samdb.xyz/"" rel=""nofollow"">http://pocorgtfo.samdb.xyz/</a>",1418042665
+8716135,comment,8715994,8715994,0,0,lanilogic,,,"Zeds is an open source Windows application that quite simply helps you get to sleep at the most efficient time, based on the time you need to get up in the morning.<p>Primarily based on the 90 minute sleep cycle theory, Zeds will calculate the best bedtimes for you and allow you to select which one you&#x27;d like (while showing you how much sleep you&#x27;ll get) - it&#x27;ll then wake you up by playing an alarm.
+Zeds will also take into account the length of time you need to fall asleep, notifying you in the task area of the Windows desktop 15 minutes (by default) before your bedtime so that you can get into bed and start your sleep cycles at the correct time.<p>All of this is configurable using the settings screen so that you can adjust Zeds to your exact requirements.<p>Source: <a href=""https://github.com/woodss/zeds"" rel=""nofollow"">https://github.com/woodss/zeds</a>",1418042626
+8716134,story,,,1,0,cloudyn_blog,"AWS’ New Reserved Instances: What They Are and How You Benefit",http://www.cloudyn.com/blog/aws-new-reserved-instances-benefit/?utm_source=hackernews&utm_medium=blog,,1418042621
+8716133,comment,8713270,8713270,0,0,john2x,,,"Here&#x27;s[1] an open-source book dedicated to &quot;this&quot;.<p>[1]: <a href=""https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes"" rel=""nofollow"">https://github.com/getify/You-Dont-Know-JS/tree/master/this%...</a>",1418042617
+8716132,story,,,2,0,nyodeneD,"Meanwhile, in Vietnam: Uber vs. GrabTaxi vs. Vinasun vs. Mai Linh vs. EasyTaxi",https://www.techinasia.com/vietnam-uber-grabtaxi-vinasun-mai-linh-easytaxi/,,1418042611
+8716131,comment,8716050,8716107,0,0,yallahaline,,,"Hey, I&#x27;m the writer :) We actually decided to open this space after meeting a lot of cool startups who did. In this village we had TechStar Seattle and Startup Chile alumi Maptia and media darling Chui. And there are more around the world. Check out NomadList, and Levels.io",1418042588
+8716130,comment,8715568,8716127,0,0,rcarmo,,,"Or an ESP8266. My guess is that the board will be comparatively expensive.",1418042553
+8716129,comment,8712417,8712417,0,0,Wildgoose,,,"This is a great tool.  I work on Unix (without X) from Windows and so often have to ftp files about just to use Meld, which is my usual preferred diff tool.<p>But I can use icdiff in a PuTTY session with a coloured xterm and get a sensible and clear diff comparison.<p>Thanks!  I really appreciate this!",1418042551
+8716128,comment,8715859,8715942,0,0,kiraken,,,"The tools i&#x27;m offering are directed toward those without a job i really can&#x27;t expect much and won&#x27;t ask them to donate money they need for the website. I was hoping there is a service out there somewhere that would cover the expenses of community service directed web applications",1418042449
+8716127,comment,8715568,8715568,0,0,bradfa,,,"Where&#x27;s the battery?  And how big would said battery need to be if this thing is running wi-fi in order to get &quot;good&quot; battery life?<p>What good are all of these &quot;things&quot; that let you not learn to program in C or care about low level details if they get poor battery life or if they are insanely expensive?<p>Why wouldn&#x27;t I just buy an Arduino and a wi-fi/ble shield?",1418042433
+8716126,comment,8716050,8716050,0,0,noelwelsh,,,"Sounds nice and fun for a short break. I think the copy needs some work though, which might relate into tweaking how they target their market. For instance: &quot;Getting far away from your family&quot; <=== If you have a family, that&#x27;s not how it works. You signed up for the responsibility.",1418042419
+8716125,comment,8716050,8716107,0,0,jonnym1ller,,,"We built the v1.0 of our startup from Taghazout (we lived there for 10 months) so it&#x27;s definitely possible ;)",1418042418
+8716124,story,,,1,0,Sami_Lehtinen,"Klarna – Simplifying buying and invoicing",https://klarna.com/,,1418042408
+8716123,comment,8715409,8716046,0,0,CalRobert,,,"I agree with you as regards consistency, but I would welcome a move away from tipping culture. If a taxi ride is going to cost x+10%, just charge me x+10% in the first place. Same for restaurants, barbers, etc.<p>With Lyft I suppose it makes sense since they are, supposedly, sharing rides rather than a taxi (though it sure feels different from rideshares on Zimride or Craigslist). Even so, tipping is annoying and confusing.",1418042400
+8716122,comment,8716050,8716110,0,0,yallahaline,,,"It&#x27;s not a one size fits all situation. Depends on your product (online/offline), on the stage your product is at, etc. The good thing is you can alternate being in big tech hub, isolating yourself in small village, challenging yourself in a city you don&#x27;t know etc",1418042392
+8716121,comment,8716050,8716080,0,0,fizwhiz,,,"Seems like the hipster solitude didn&#x27;t work wonders for their proofreading: I stumbled upon <a href=""http://www.thebluehouse.io/month-long-program/"" rel=""nofollow"">http://www.thebluehouse.io/month-long-program/</a> only to be greeted by: &quot;HOW MUCH DOES IT COSTS?&quot;. I only went there because the main homepage took ~20 seconds to load. Perils of seclusion...",1418042390
+8716120,comment,8716119,8716119,0,0,percept,,,"If you like this, check out the whole series here:<p><a href=""http://vimeo.com/thismustbe"" rel=""nofollow"">http://vimeo.com/thismustbe</a><p>Prime&#x27;s pretty cool, too:<p><a href=""http://vimeo.com/35965635"" rel=""nofollow"">http://vimeo.com/35965635</a>",1418042388
+8716119,story,,,1,1,percept,"Living in Detroit's Packard Plant",http://vimeo.com/39346092,,1418042345
+8716118,story,,,32,0,wacvasconcelos,"How Brazil Plans to Teach a Million People English Before the Rio Olympics",http://www.wired.com/2014/12/education-first-brazil/,,1418042344
+8716117,comment,8715404,8715404,0,0,georgeecollins,,,"Even most large game companies are supported by one or two franchises.  It&#x27;s always been that way.  Activision was supported by Tony Hawk, then Call of Duty, then they bought Blizzard and  did Skylanders.  Without Blizzard (which is very autonomous) Activision is the Call of Duty / Skylanders company.  They understand the principle very well.",1418042330
+8716116,comment,8715859,8716093,0,0,kiraken,,,"crowdsourcing is only valuable for a short period of time to my understanding. Excuse my ignorance to anything money related",1418042328
+8716115,comment,8713814,8715103,0,0,percept,,,"You might find this interesting:<p><a href=""http://vimeo.com/39346092"" rel=""nofollow"">http://vimeo.com/39346092</a>",1418042323
+8716114,story,,,1,0,leephillips,"Stock Trades at the Speed of Light",http://physicscentral.com/explore/action/stocktrade.cfm,,1418042316
+8716113,comment,8716050,8716050,0,0,izolate,,,"I live in London and I love the rain & grey skies. I cycle 15 minutes to work, but sometimes take public transport too. I feel plenty productive in this city, and if I were to start my own business, I&#x27;d have no problems being here.<p>I think it really depends on who you are, not where you are.",1418042297
+8716112,story,,,1,0,iaak1983,"The Infamous Spanish Pink Pigeon",https://www.youtube.com/watch?v=oBUCUv6DCOo,,1418042296
+8716111,story,,,329,293,petecooper,"Ask HN: What book changed your life in 2014?",,"I debated whether it was too early in December to ask this, but I&#x27;m interested in what book(s) changed your life in 2014. I ask because I&#x27;m going through something of a personal and professional renaissance and my book of the year was the same as fraqed&#x27;s when s/he asked the same question in December 2013 [1].<p>My reading list for 1H15 is a bit vague and wooly right now, so I&#x27;m interested in your responses.<p>For completeness, this could be considered an extension to a previous post of mine [2], but I&#x27;m not looking to solve any problem, either perceived or otherwise.<p>Thank you in advance.<p>[1] https://news.ycombinator.com/item?id=6975638<p>[2] https://news.ycombinator.com/item?id=8673576<p>(Edited for typo and formatting)",1418042289
+8716110,comment,8716050,8716050,0,0,ianpri,,,"Not sure I can really agree with much in this article, which seems to contradict itself (get more focused by not doing A and B, instead use your spare time for X and Y) and ignores that fact that getting close to your target audience and understanding their pain points isn&#x27;t really going to happen if your sitting under an umbrella in Senegal.",1418042267
+8716109,comment,8715529,8716007,0,0,sanxiyn,,,"Rust has 2,163 issues at the moment, compared to Go&#x27;s 1,289.",1418042260
+8716108,comment,8714849,8714849,0,0,mavhc,,,"I&#x27;ve never seen the point of taking drugs, so never have. Reality is much too interesting to avoid it.",1418042227
+8716107,comment,8716050,8716050,0,0,melling,,,"First of all, the guy is selling startup space in a small fishing town. Second, is there any evidence to support his case?  How many successful startups began in idyllic locations?",1418042226
+8716106,story,,,1,1,mstechfreak,"What is the best typing tutor in your practice?",,,1418042224
+8716105,story,,,1,0,filozynka,"Power Up with Stack Overflow",https://netguru.co/blog/power-up-with-stack-overflow,,1418042190
+8716104,story,,,58,5,timo_h,"Prince – Modern password guessing algorithm [pdf]",http://hashcat.net/tools/princeprocessor/prince-attack.pdf,,1418042173
+8716102,comment,8716050,8716050,0,0,binarymax,,,"For those of you in the UK/London - and want somewhere cheap and amazing to code in your own back yard, I highly recommend Hastings/St Leonards.<p>It is (or was) a &#x27;small fishing village&#x27; that retains a fascinating history.<p>1.5 hours from London, and 1 hour from Brighton, 1/3 the cost of flats and working space, good connection speeds, good coffee.  If you come down to check it out, look me up and I&#x27;ll buy you a pint.<p>--EDIT-- Some nice tempting rental listings for you :) <a href=""http://www.hastingsobserver.co.uk/property/search?listingStatus=rent&area=TN37&pricePer=month&propertyType=flats&minimumBeds=2"" rel=""nofollow"">http://www.hastingsobserver.co.uk/property/search?listingSta...</a>",1418042136
+8716101,comment,8716050,8716080,0,0,yallahaline,,,:),1418042122
+8716099,comment,8716050,8716090,0,0,yallahaline,,,"I agree. More and more often you see people choosing a mix of both. Living in a big city when their product requires it, going abroad when they need more focus, or when their in a development stage that enables it. You don&#x27;t have to be in the same place all the time anymore :)",1418042076
+8716098,story,,,1,0,saddington,"An Overview of the New Landing Page (and What I Learned from the Last One)",http://blog.desk.pm/new-landing-page/,,1418042067
+8716096,comment,8715049,8715957,0,0,oneeyedpigeon,,,"Nope, I use OSX and, maybe naively, assume that gives me a greater level of protection than if I were running Windows. I&#x27;m also pretty careful when it comes to the most obvious attack vectors. In my experience, anti-virus software really slows a machine down, almost to the point that it might be better off with the virus instead - of course, that is highly dependent on the nature of the virus! I&#x27;m deeply cynical about virus companies and what involvement they might have in virus creation in the first place, although I understand how conspiracy-theory-crazy this might sound.",1418042026
+8716095,story,,,2,0,jaimebuelta,"Python optimization principles and methodology",http://www.turnkeylinux.org/blog/python-optimization,,1418042014
+8716094,comment,8707266,8707524,0,0,mstechfreak,,,"<a href=""http://www.typingstudy.com/en-us_colemak-3/"" rel=""nofollow"">http://www.typingstudy.com/en-us_colemak-3/</a> This is a free typing tutor for those who want to learn to type with colemak ;)",1418041998
+8716093,comment,8715859,8715859,0,0,z1mm32m4n,,,"It&#x27;s worth noting that Duolingo is an example of a free web service without ads that generates a profit. In their case, they&#x27;ve crowdsourced the process of translating actual web pages while teaching people new languages.<p>Depending on the nature of your site, perhaps you could take advantage of a similar crowdsourcing scenario?",1418041983
+8716092,comment,8716050,8716081,0,0,yallahaline,,,"It depends what stage you&#x27;re in, and what is your product. If your doing a 100% online product, it doesn&#x27;t change a thing. Skype works great for partners, but going in person once in a while where your partners is always better. (Thank god for cheap airplane fares)",1418041980
+8716091,story,,,1,0,AlisonHX,"Humans and the shared Economy 2.0 will soon replace the hype of AI",http://www.geektime.com/2014/12/08/humans-and-the-shared-economy-2-0-will-soon-replace-the-hype-of-ai/,,1418041975
+8716090,comment,8716050,8716050,0,0,atmosx,,,"Hm, sorry but ages of experience show that what <i>mostly</i> works is the other way around: You want to be a <i>big city</i> because you can find clients (users), meet people (e.g. possible investors) and generally speaking do any sort of <i>networking</i> that would be otherwise impossible.<p>The internet is what it is, but you can never match the face-to-face relationship with an online approach.<p>I totally understand that this is a dream-like situation: You make a good amount of money, doing what you like in a remote island where the sun shines and the food is always tasty (yes I&#x27;m from Greece...) but if your business can&#x27;t be done 100% online, which is almost never the case, then you need offices in a <i>big city</i>. Then you need to visit and control these offices, etc.",1418041947
+8716089,comment,8713814,8715191,0,0,mklim,,,"Midtown is doing well now as well. Lived there for three years and just visited again for the first time in 6 months or so for Noel Night. I saw a handful of businesses there that had all been established since the time I moved out. Lots of stuff to do, and it&#x27;s pretty safe. Response time from the WSUPD is just a couple minutes, and they take calls for a few mile radius outside WSU&#x27;s campus. <a href=""http://www.livemidtown.org/"" rel=""nofollow"">http://www.livemidtown.org/</a> is a decent marketing site with more info on it.",1418041907
+8716088,comment,8715404,8716005,0,0,keerthiko,,,"That&#x27;s a weird claim. Are you suggesting to bundle it into the &quot;tech industry&quot;, unless you deny that exists either? Or into the &quot;software industry&quot;? Maybe the &quot;entertainment industry&quot;? Perhaps &quot;art industry&quot;?<p>Your hypothetical &quot;startup industry&quot; doesn&#x27;t make sense because they&#x27;re not tied together with respect to products. But there is a &quot;tech industry&quot; or &quot;software industry&quot; or &quot;web tech industry&quot; where the constituent players actually are related by product/service sector.<p>I don&#x27;t see why you find <i>that</i> the most important thing that needs to be established. Why does it matter and how is it negatively affecting those (or any) businesses to refer to the games industry as such?<p>I think game development, publishing, services, esports, conventions and such are enough of a mature ecosystem to be considered it&#x27;s own &quot;industry.&quot;",1418041903
+8716087,comment,8713949,8715192,0,0,skj,,,"Wasn&#x27;t me.",1418041884
+8716086,story,,,2,0,neilpeel,"Experienced entrepreneurs reveal how they got their first customer",http://tinyletter.com/TheNordicNine/letters/how-did-you-get-your-first-customer-the-nordic-nine,,1418041876
+8716085,story,,,40,10,markmassie,"Science Exchange (YC S11) enables researchers to tap labs worldwide",http://www.economist.com/news/technology-quarterly/21635323-startup-enables-researchers-tap-labs-worldwide-conduct-experiments-their/,,1418041842
+8716084,comment,8713270,8713270,0,0,bshimmin,,,"Tony Hoare has famously described null references as his billion dollar mistake.  Given how often we see articles attempting to explain `this` in JavaScript (indicative, therefore, of the general level of confusion around it), I wonder if perhaps we should be starting to think about `this` in similar terms.",1418041817
+8716083,comment,8715529,8716025,0,0,fhs,,,"Keep in mind that contributing to Go requires that you sign a contributor license agreement, something people might not want to go through (no pun intended) for small changes.",1418041767
+8716082,comment,8716050,8716050,0,0,aluhut,,,"...and if you are really successful:<p>YOU&#x27;LL GENTRIFICATE THE TOWN<p>A win for everybody...kind of.",1418041751
+8716081,comment,8716050,8716050,0,0,0xbadf00d,,,"I really enjoyed the piece - but I wonder if the arguments made work for a highly focused coding bender and perhaps not day-to-day business growth of a startup where meeting face to face with other founders, potential partners & mentors would be facilitated by being in a crowded city as opposed to a Senegalese beach?",1418041702
+8716080,comment,8716050,8716050,0,0,mplewis,,,"Apparently their justification is &quot;Because it&#x27;s quiet and weird.&quot; So, when you choose to establish a new business, move to the next hipster city that no one&#x27;s heard of. For... reasons.",1418041668
+8716079,comment,8714635,8715801,0,0,nmjenkins,,,"If you have a way of reproducing this, please file a support ticket. We&#x27;ve not come across this issue so far. Thanks.",1418041660
+8716078,comment,8715077,8715497,0,0,DanBC,,,"There were 36 wars in the 20th century that started and ended before 1914.<p>Those wars had about 500,000 deaths.<p><a href=""http://www.war-memorial.net/wars_all.asp"" rel=""nofollow"">http://www.war-memorial.net/wars_all.asp</a><p><pre><code>    Chinese Govt vs Bai Lang (White Wolf) Rebels	1914 - 1914	 5,000	
+    2nd Balkan War	1913 - 1913	 60,500	
+    Kuomintang vs Chinese Army	1913 - 1913	 5,000	
+    Moro Rebellion	1913 - 1913	 15,050	
+    1st Balkan War	1912 - 1913	 82,000	[1]
+    Paraguay Coups	1911 - 1912	 5,000	
+    Italo-Turkish War	1911 - 1912	 20,000	
+    First Sino-Tibetan War	1911 - 1912	 2,000	
+    Cuba vs Partido Independiente de Color	1911 - 1911	 1,050	
+    Chinese Revolution	1911 - 1911	 1,000	[2]
+    Asir-Yemen Revolt	1910 - 1911	 9,000	
+    French Conquest of Wadai Sultanate	1909 - 1911	 12,000	
+    The second Rif War	1909 - 1910	 10,000	
+    Portugese war against Dembos	1907 - 1910	 5,100	
+    Ma al-’Aynayn’s Anti-Colonial Insurgency	1907 - 1910	 3,150	
+    Korean guerilla war against Japanese occupation	1907 - 1910	 17,736	
+    Iranian Constitution War	1908 - 1909	 1,100	
+    Morocco unrest	1907 - 1908	 1,400	
+    Romanian Peasant Revolt	1907 - 1907	 2,000	
+    4th Central American war	1907 - 1907	 1,000	
+    Dutch-Achinese War	1904 - 1907	 24,200	
+    Sokoto and UK vs Mahdist Revolt	1906 - 1906	 2,080	
+    Zulu Rebellion	1906 - 1906	 2,356	
+    Third Central American war	1906 - 1906	 1,000	
+    Russian Revolution 1905	1905 - 1906	 1,500	
+    Maji Maji revolt	1905 - 1906	 8,840	
+    Russo-Japanese war	1904 - 1905	 151,831	[1]
+    Southwest African Revolt	1904 - 1905	 12,800	[1]
+    Uruguay Civil War	1904 - 1904	 1,000	
+    Second Yemen Rebellion	1904 - 1904	 30,000	
+    Uprisings in Colonial Angola	1902 - 1904	 2,000	
+    Ilinden Uprising	1903 - 1903	 6,330	
+    The War of a Thousand Days	1899 - 1903	 100,000	
+    Philippine insurrection	1899 - 1902	 20,500	
+    Second Boer war	1899 - 1902	 30,800	
+    The Boxer Rebellion	1900 - 1900	 3,003	
+    Sino-Russian War	1900 - 1900	 4,000
+</code></pre>
+EDIT: I&#x27;m on mobile.  Sorry for the awful formating.",1418041653
+8716077,comment,8713328,8715387,0,0,tel,,,"Who runs Agda code anyway? :)",1418041643
+8716076,comment,8713270,8714993,0,0,bshimmin,,,"Aside from the fact that your &quot;never&quot; somewhat dismisses the first however many years of web development (up to IE9) when `Function.prototype.bind` couldn&#x27;t universally be expected to be supported, surely having a nice piece of syntax which is both shorter than writing out `function` <i>and</i> serves the purpose of binding the function in the way that, a good majority of the time, you actually want it bound, is a good thing?<p>As someone who&#x27;s spent a lot of time writing CoffeeScript, I think ES6&#x27;s fat arrows are a great thing, though I have my usual concerns about their confusing the hell out of people who may well have been writing JavaScript for a long time but in environments where they don&#x27;t necessarily get exposed to new and exciting stuff.  But hey, that&#x27;s progress, I guess.",1418041640
+8716075,comment,8715610,8715610,0,0,androidb,,,"Uber has been banned* in New Delhi because they were &quot;misleading customers&quot;. Uber said its service is safe for women but without laying the ground base for that, they only rely on summary checks (undergone the commercial licensing process, hold government issued IDs, state-issued permits, and carry full commercial insurance) instead of thorough background checks. That&#x27;s why a previously convicted sex offender became an Uber driver.<p>To me it&#x27;s a case of false advertising and they will support some consequences.<p>*<a href=""http://economictimes.indiatimes.com/tech/software/delhi-government-bans-uber-says-it-is-misleading-customers/articleshow/45411180.cms"" rel=""nofollow"">http://economictimes.indiatimes.com/tech/software/delhi-gove...</a>",1418041584
+8716074,comment,8716050,8716050,0,0,alimoeeny,,,"I am trying to figure out what kind of start up can benefit from this. In theory, you can be more focused if you and your team are isolated. 
+Maybe it is easier to answer this question: What kind of start ups will not benefit from this? 
+I&#x27;d say any startup that is passed the very first stages of product development, and needs to be talking to users, and investors and media and other businesses ... 
+Just thinking out loud.",1418041569
+8716073,comment,8709212,8712741,0,0,gaius,,,"In that situation they flip a coin, you either get a medal or a court martial.",1418041557
+8716072,comment,8714521,8714521,0,0,paparush,,,"Sounds like the plot of &quot;Influx&quot; by Daniel Suarez.",1418041533
+8716071,comment,8714635,8716049,0,0,nmjenkins,,,"It does support this. The demo being linked to is not a particularly great integration and using an out of date version of Squire. Try it in FastMail.",1418041530
+8716070,story,,,2,1,adventured,"Rogue computerised cameras plague BBC news presenters",http://www.theguardian.com/media/2014/dec/05/bbc-robot-cameras-rogue-presenters-frustrated,,1418041526
+8716069,comment,8715529,8716007,0,0,dsymonds,,,"It&#x27;s been a very active open source project for over five years. It&#x27;s roughly 5 issues per week.",1418041476
+8716068,comment,8715128,8715865,0,0,MrBuddyCasino,,,"Yes, I think he was wrong on that one, also the objects hype seems a little strange to me. But the rest? Pretty much spot on. In 1996, he saw the critical issues and where the web would go, at a time where most people weren&#x27;t even aware of its existence. Very impressive.",1418041467
+8716067,comment,8713270,8713270,0,0,jpolitz,,,"This topic has come up before on HN, and I ended up writing up a pretty comprehensive list of ways this can be bound, with references to the spec:<p><a href=""https://news.ycombinator.com/item?id=4986125"" rel=""nofollow"">https://news.ycombinator.com/item?id=4986125</a>",1418041452
+8716066,comment,8713541,8713541,0,0,ParadisoShlee,,,"As our duty. <a href=""https://redletter.link/pocorgtfo/"" rel=""nofollow"">https://redletter.link/pocorgtfo/</a>",1418041447
+8716065,story,,,5,2,CapitalistCartr,"Tech Internship Salaries That Will Make Your Eyes Water",http://www.slate.com/blogs/moneybox/2014/12/05/tech_internship_salaries_an_even_longer_list_that_will_make_your_eyes_water.html,,1418041438
+8716064,comment,8709212,8709884,0,0,gaius,,,"We keep hearing how heavy armour is useless... Then events keep happening that demonstrate otherwise. You can&#x27;t hold territory from the air. You just can&#x27;t. The Russians know this, and they know the psychological effect tanks have too.",1418041428
+8716063,comment,8714251,8714907,0,0,rayiner,,,"A copyright is a property right on an original creation. It&#x27;s a government granted monopoly, but so is any other kind of property right. If you&#x27;re a golf course, you rely on a government granted monopoly on land, which isn&#x27;t even your original creation. If you&#x27;re ISWY, you rely on a government-granted monopoly that keeps a competitor from simply breaking into your servers and copying your content.<p>There&#x27;s nothing entitled about expecting the government to keep people from taking things from you. There is nothing obsolete about business models that rely on the government protecting you from that kind of violation.",1418041422
+8716062,comment,8715529,8716036,0,0,ayrx,,,"GitHub introduced side-by-side diffs recently.",1418041410
+8716061,comment,8715097,8715324,0,0,mtmail,,,"Github shows only 2 commits. This seems to be the previous repository <a href=""https://waterfox.codeplex.com/SourceControl/list/changesets"" rel=""nofollow"">https://waterfox.codeplex.com/SourceControl/list/changesets</a>",1418041384
+8716060,comment,8713346,8713346,0,0,wazari972,,,"Nice article, although I&#x27;m not convinced by the first example (as is it now, and in first position): detecting uninitialized variables is a job for compilers: `gcc -Wuninitialized -Wmaybe-uninitialized`. That works well within a single scope, as it&#x27;s the case in the example. In more complex situations, like an uninitialized field inside a linked-list structure, valgrind will be very useful indeed! By the way, `gcc -O0` sets my uninitialized variables to 0 without a warning, and valgrind is happy as well ...",1418041340
+8716059,comment,8715529,8716038,0,0,dsymonds,,,"You could file a bug against GitHub.<p>Maybe they could also fix their recognition of email addresses to permit `<research!bwk>` too.",1418041319
+8716058,comment,8715529,8716038,0,0,W0lf,,,"You can select a timeframe like this:
+<a href=""https://github.com/golang/go/graphs/contributors?from=2008-01-01&to=2014-12-07&type=c"" rel=""nofollow"">https://github.com/golang/go/graphs/contributors?from=2008-0...</a>",1418041312
+8716057,comment,8714017,8715555,0,0,sarciszewski,,,"Remind me again which percentage of websites runs PHP. (Hint: it&#x27;s the majority.)<p>But beyond popularity, there have been a lot of nice improvements over the past few versions (PHP 5.6 is definitely better than PHP 5.2) with even more to come in PHP 7.<p>To boot:<p><pre><code>    * register_globals is finally dead
+    * magic_quotes, as well
+    * PDO does a lot of the work cleaning up SQLi (I wrote 
+      a class that does even more)
+    * hash_equals() makes securing OAuth implementations 
+      against HMAC comparison timing attacks a trivial
+      undertaking
+    * session_id() uses /dev/urandom
+    * opcache (5.5+) helps to make PHP app more performant
+    * [ $array, $syntax, $that, $doesnt, $suck ]
+    * You can now use \Proper\Namespaces; and autoload class
+      dependencies!</code></pre>
+Not to mention some of the community innovations:<p><pre><code>    * Composer, while still trapped in curl | php hell (I&#x27;m
+      working to fix this), makes dependency management
+      simple so you can get on with your day.
+    * Twig brings Django-esque templates to PHP-land, which
+      is _awesome_ if you need to work with a designer who
+      is only used to working with Django and its derivatives.
+    * HTMLPurifier is probably the sexiest thing the PHP
+      community offers that I have not seen produced in 
+      another language (the HTMLPurifier port to Obj-C 
+      notwithstanding)
+</code></pre>
+If one were to judge PHP 5.6 by a PHP 4.3 understanding, they would almost certainly be wrong.<p>PHP 7 allows us the opportunity to break BC. If you dislike something about PHP 5.6, let it be known so it can be fixed in 7.<p><pre><code>    http://news.php.net/php.internals
+    
+    internals@lists.php.net
+</code></pre>
+Also, the irony of a thread whose title is to not denigrate what beginners are learning has turned into &quot;let&#x27;s bash PHP&quot;. Y&#x27;know, because no developers are currently learning PHP and might one day read this discussion.",1418041280
+8716056,comment,8715529,8716038,0,0,Cederfjard,,,"It&#x27;s not that big a deal, is it? You can just narrow the span down like this: <a href=""http://cl.ly/image/3A12032B3Q2O"" rel=""nofollow"">http://cl.ly/image/3A12032B3Q2O</a>",1418041200
+8716055,comment,8704593,8706826,0,0,_deh,,,"This starts with something on measure theory: <a href=""http://www.metacademy.org/graphs/concepts/bayesian_parameter_estimation#focus=probability&mode=learn"" rel=""nofollow"">http://www.metacademy.org/graphs/concepts/bayesian_parameter...</a>",1418041191
+8716054,comment,8714988,8714988,0,0,TazeTSchnitzel,,,"lambda, quote, cons, car, cdr, atom, cond, eq, label<p>Or with pattern-matching: cons, lambda, label, quote<p>And really, label is just immediately-invoked lambda, so: cons, lambda, quote<p><a href=""http://bodil.org/building-lisp/#0"" rel=""nofollow"">http://bodil.org/building-lisp/#0</a>",1418041162
+8716053,story,,,1,0,nnx,"Xen Security Advisory XSA-114: Lock Starvation",http://lists.xenproject.org/archives/html/xen-announce/2014-12/msg00001.html,,1418041129
+8716052,story,,,1,0,byteblast,"Show HN: Brackets Google CDN Autocomplete",https://github.com/szdc/brackets-cdn-suggestions,,1418041127
+8716051,comment,8715128,8715584,0,0,Shivetya,,,"It is the same problem in schools which is on our streets. The government employee unions wield so much power that teachers are absolved from teaching and the police are absolved from behaving properly. They own the politicians.",1418041013
+8716050,story,,,219,155,arthurquerou,"Why you should move your startup to a small fishing town",http://www.thebluehouse.io/blog/2014/9/2/move-your-startup-to-a-moroccan-fishing-town,,1418040994
+8716049,comment,8714635,8714635,0,0,eterm,,,"I don&#x27;t like how it (doesn&#x27;t) handle toggling bold etc.<p>If you press &quot;b&quot; then go back to typing, the output is not bold. To bold text you have to select previously typed text and then apply the styling.<p>I don&#x27;t think this would be intuitive to most users.",1418040971
+8716047,comment,8714846,8715413,0,0,Rambunctious,,,"BTW, journalists are reporting that the driver did indeed get a clean certificate by the local police station in May this year. Link: <a href=""https://twitter.com/KarnHT/status/541875208844353536/photo/1"" rel=""nofollow"">https://twitter.com/KarnHT/status/541875208844353536/photo/1</a><p>Not sure who sought this verification - but the point I wish to make again is that a clean chit by the police in India is bunkum.<p>Even if any company going forward claims that they are doing &quot;police verification&quot;, please realize for your own safety&#x27;s sake that this is tantamount to nothing.",1418040932
+8716046,comment,8715409,8715409,0,0,th0br0,,,"I hadn&#x27;t known that Uber doesn&#x27;t users allow to tip from within the app. Tax-issues, aside, it&#x27;s a bummer that they don&#x27;t. I found the opportunity to tip drivers with Lyft quite welcoming; after all, people tend to tip in most places in the service industry - so why not for these rides which cost me significantly less than a regular taxi ride - as well?",1418040862
+8716045,comment,8715529,8716007,0,0,copx,,,"The number is not that high at all. I only see 1,289 open issues. To compare the D issue tracker has 3,677 open issues right now and the D user and developer community is tiny compared to the Go community.<p>Also note that &quot;issue&quot; does not necessary mean &quot;bug&quot;. Such  trackers are also used to request features just like in this case. Many of the D and Go &quot;issues&quot; are actually feature requests.",1418040843
+8716044,comment,8714132,8714983,0,0,jostylr,,,"It does focus the discussion clearly on the wave function as defined on configuration space, bringing to the front the importance of position.<p>But mostly the reason is that if you are going to develop a better theory (namely how relativity and qm work together), then it may be helpful to start on a clear foundation where irrelevant confusions have been eliminated.<p>For example, the role of operators is derived in pilot wave theory, not assumed. This greatly simplifies the issues of putting quantum mechanics on curved space where the Fourier transform may not be so easily defined, if at all. You do have to worry about the Hamiltonian and its boundary conditions, which is part of the physics of the space, but the relevant measurement operators are derivable from the ported theory.",1418040841
+8716043,comment,8716015,8716015,0,0,ColinWright,,,"In case you wonder why this doesn&#x27;t generate the discussion you might expect, this same story is being submitted over and over again.  Some of them are listed here:<p><a href=""https://news.ycombinator.com/item?id=8715912"" rel=""nofollow"">https://news.ycombinator.com/item?id=8715912</a>",1418040838
+8716042,comment,8715996,8715996,0,0,ColinWright,,,"This same story is being submitted over and over again.  Some of them are listed here:<p><a href=""https://news.ycombinator.com/item?id=8715912"" rel=""nofollow"">https://news.ycombinator.com/item?id=8715912</a>",1418040820
+8716041,comment,8714017,8714313,0,0,GeneralMayhem,,,"TI-83+ for me; the TI-99 is a decade older than I am.",1418040818
+8716040,comment,8715077,8715469,0,0,lotsofmangos,,,"Both.<p><a href=""http://www.theguardian.com/news/datablog/2013/feb/01/us-military-suicides-trend-charts"" rel=""nofollow"">http://www.theguardian.com/news/datablog/2013/feb/01/us-mili...</a>",1418040777
+8716039,story,,,5,0,VelNZ,"LaTeX template for a recurring contract",http://www.latextemplates.com/template/contract,,1418040735
+8716038,comment,8715529,8715962,0,0,sanxiyn,,,"Unfortunately, this joke makes GitHub Graphs page much less useful, because graphs start from 1972.<p><a href=""https://github.com/golang/go/graphs/contributors"" rel=""nofollow"">https://github.com/golang/go/graphs/contributors</a><p>Is there a way to get this fixed?",1418040717
+8716037,comment,8715085,8715085,0,0,thenipper,,,"Whoa! I work for Mercy Corps, the agency funding this. It is really awesome to see something from work here. I&#x27;m obviously biased but I think it  is a great program that is really helping the people of Gaza. Additionally the focus on women and helping them enter the work force is really great.<p>As jacalata said they are doing a fundraiser that ends in about 20 hours if you want to help out:<p><a href=""https://www.indiegogo.com/projects/save-gaza-s-only-startup-accelerator"" rel=""nofollow"">https://www.indiegogo.com/projects/save-gaza-s-only-startup-...</a>",1418040707
+8716036,comment,8715529,8715704,0,0,sampo,,,"> GitHub provides <i>the</i> best web-based git repository browser<p>I like Bitbucket&#x27;s side-by-side diff view so much, that I think I prefer Bitbucker for browsing.<p>But this is only because Bitbucket has the side-by-side diff view, anf GitHub does not.",1418040581
+8716035,story,,,2,0,adidash,"Engineer builds machine to swipe right on Tinder non-stop",http://www.dailydot.com/technology/engineer-tinder-auto-swipe-machine/,,1418040550
+8716034,comment,8713814,8716017,0,0,maxerickson,,,"I tried to understand the law on this a bit during a previous discussion. In Michigan, cities are established by a municipal charter. That charter can more or less only be amended by a vote of the people living in the city.<p>I think would be very difficult to make such a proposal that did not end up drawing economic lines (in some sense, such lines are natural). People on one side of such a line would be strongly incentivized to oppose it. So it&#x27;s likely to be impossible politically.",1418040545
+8716033,comment,8715077,8715967,0,0,toolz,,,"Not only are suicides more likely to happen with military and veterans, but it is only recently that suicides in the military went from below general population, to higher than general population.<p>That suggests to me that the structure of the military would generally have significant effects of reducing depression, or maybe just the type of person joining the military is/was less likely to be depressed, but now it seems reasonable that maybe the nature of our military services today causes potentially more stable men and women to be more likely than ordinary to commit suicide.<p><a href=""http://www.nih.gov/news/health/mar2014/nimh-03.htm"" rel=""nofollow"">http://www.nih.gov/news/health/mar2014/nimh-03.htm</a><p>&quot;Although historically, the suicide death rates in the U.S. Army have been below the civilian rate, the suicide rate in the U.S. Army began climbing in the early 2000s, and by 2008, it exceeded the demographically matched civilian rate (20.2 suicide deaths per 100,000 vs. 19.2). Concerns about this increase led to a partnership between the Army and the NIMH to identify risks.&quot;",1418040508
+8716031,comment,8715049,8716003,0,0,toothbrush,,,"Yeah, if i had to use Windows i would consider it essential to use some form of active anti-virus, but then again, i don&#x27;t think that would alleviate my (unfounded?) general unease and feeling of still not being that &quot;safe&quot;. But i&#x27;m trying to get a reality check here :)",1418040465
+8716030,story,,,2,0,niravseo,"SmartUnderline: Cross-browser descender-aware underlines",https://github.com/EagerIO/SmartUnderline,,1418040452
+8716028,comment,8711621,8711621,0,0,kagia,,,"One place I can see this really shining is as part of a script that generates fixtures for Django apps.",1418040413
+8716027,comment,8715654,8715654,0,0,fla,,,"Seriously, just check the website from the person complaining : <a href=""http://www.constellation7.org/"" rel=""nofollow"">http://www.constellation7.org/</a>",1418040356
+8716026,story,,,2,0,mngl,"Matt Mackal and Linus Torvalds Discuss on DVCS Back in 2005",https://lkml.org/lkml/2005/4/25/267,,1418040354
+8716025,comment,8715529,8715529,0,0,sanxiyn,,,"I find it interesting that Rust has a lot more contributors compared to Go. Comparing <a href=""https://github.com/golang/go"" rel=""nofollow"">https://github.com/golang/go</a> and <a href=""https://github.com/rust-lang/rust"" rel=""nofollow"">https://github.com/rust-lang/rust</a>, all contributors: 380 vs 695, contributors with more than 100 commits: 17 vs 35.",1418040330
+8716024,comment,8714017,8715336,0,0,nkozyra,,,"> Saying the end goal of being a programmer is being a programmer is ridiculous.<p>Well I didn&#x27;t say that.  Note the not-so-subtle distinction.",1418040297
+8716023,comment,8714132,8715773,0,0,jostylr,,,"My thesis advisor does get NSF funding and he does Bohmian mechanics. I have a very talented colleague doing this as well and he ended up with tenure recently. But it is a very hard road.<p>I did a thesis on it which I am quite proud of. But I also left academia proper though more due to my disgust with various aspects of the system unrelated to the discrimination associated with Bohmian mechanics.<p>To be fair to your point, the successful ones pursuing this either hide out in mathematics departments or keep their mouth shut until well-established.",1418040293
+8716022,comment,8715044,8715044,0,0,tomcart,,,"DCOS is an interesting description, as the idea of a data centre (to my tiny mind at least) is made more fuzzy by concepts like AWS AZs.<p>Do people expect that the &#x27;DC&#x27; will span AZs, regions even? Or is the separation of these things valuable in some way?<p>How about the idea of dev vs prod environments? Will the isolation provided be strong enough that we&#x27;ll happily drop everything onto a single cluster of machines?",1418040260
+8716021,comment,8714251,8715064,0,0,jholman,,,"What facts can I find?  Let&#x27;s see.  Wikipedia says that the World Almanac says that the US Census Bureau says that, across all money-earning Americans of age 15 or over, the median for males is around $30k and for females is around $17k.  The median for both genders combined is somewhere between $25k and $28k.<p>Grad students?  Clearly from my &quot;10 years of education and 60 hours weeks&quot; I wasn&#x27;t primarily referring to grad students.  However... in my understanding standard US grad student stipends are usually over $20k, plus a tuition waiver, for 8 or 9 months of work.  That sounds like it&#x27;s more than $30k/year (pro-rated).<p>Many authors are not students.  NSRA stipends for post-docs are $40k-$55k.  Obviously tenure-track positions do somewhere between a little and a lot better than that.<p>I think it&#x27;s clear that the main catch in &quot;above-median wage&quot; is it&#x27;s only above-median if the reference class ignores educational attainment.  Median wages for people with graduate degrees are substantially higher.",1418040222
+8716019,comment,8713270,8715958,0,0,CmonDev,,,"I agree, it would be better if JavaScript was made even less human-friendly than it is now.
+This way the transpilation approach would become mainstream and people would get a real choice of language instead of an arithmetic average of language preferences.
+Thankfully, the Asm.js is making some important right steps in that direction - and boosting the performance as well!",1418040170
+8716018,comment,8713328,8715759,0,0,tempodox,,,"Implementing a spec is the <i>only</i> way you can use Haskell sensibly.  All other uses are PITA.",1418040101
+8716017,comment,8713814,8713814,0,0,netcan,,,"Have there been proposals following this bankruptcy to split Detroit out into sub-&quot;cities?&quot; The actual definition of a city is somewhat arbitrary. In Australia for example, the official &quot;city&quot; unit that manages municipal services is actually not Melbourne or Sydney it&#x27;s smaller units usually encompassing a population of 100k or so.<p>The division of responsibilities between federal, state and city is different but I think the takeaway is that while &quot;Detroit&quot; is a geographical and cultural unit, it doesn&#x27;t mean it has to be a municipal one.<p>Maybe such a change of paradigm would be helpful here. The thought of rehabilitating a new entity comprised of suburbs, but not the downtown (or via versa) might be a less daunting task. It;s easier to move the needle.<p>Bankruptcy seems a good time to do something like this.",1418040043
+8716016,comment,8716000,8716000,0,0,artursapek,,,"I started working on this in January because I was interested in learning Go and WebSockets. It has been a seriously fun project and has gotten something of a loyal following in the Bitcoin trading community.<p>I&#x27;ve also learned the hard way how unpleasant it can be to consume poorly designed public APIs (which sometimes even change in significant ways, unannounced).<p>Anyway, hope you guys like it. I&#x27;ve learned a lot from building it so far.",1418040041
+8716015,story,,,4,1,ragesh,"Delhi govt bans Uber taxi operations",http://www.thehindu.com/news/national/delhi-govt-bans-uber-taxi-operations/article6672859.ece,,1418040029

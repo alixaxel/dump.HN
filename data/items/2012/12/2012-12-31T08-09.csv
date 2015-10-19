@@ -1,0 +1,265 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4988838,comment,4987737,4988267,2,0,dbaupp,,,"As others have pointed out, the ""battle"" is actually against both usage 1 and 2: the original meaning[1] is to kill only 10% of a legion (etc) as punishment for some misdeed. It's the <i>large</i> reduction implied in current usage of decimate that gets pedants all riled up.<p>[1]: <a href=""https://en.wiktionary.org/wiki/decimate#Etymology"" rel=""nofollow"">https://en.wiktionary.org/wiki/decimate#Etymology</a>",1356944375
+4988837,comment,4988729,4988729,2,0,RobertHoudin,,,"Wow.  That is truly abhorrent.",1356944291
+4988836,comment,4988649,4988783,1,0,rimantas,,,"Yeah. Also: ""what you do in the gym only cements what you have""what kind of nonsense is this? If you go to a gym with
+a weak core and start to work out with free weights you will fix it. How do you cement something that is not even here?",1356944243
+4988835,comment,4986223,4987732,11,0,sneak,,,"You may be correct, but it's obscured by the fact that you're being a dick.<p>Don't do that.",1356944242
+4988834,comment,4988649,4988649,5,0,jessedhillon,,,"I've been using Nike+ Kinect for 5~6 weeks now. It creates a workout plan for you based on an assessment that you do at the beginning. I've found it to be very challenging at times (when I push myself, e.g. by doing a second round) and now I'm additionally impressed: a lot of the lower body stabilization exercises on this PDF are also exercises that the game assigned to my workout plan.",1356944226
+4988833,comment,4988243,4988243,1,0,calciphus,,,"""Has anyone given you anything to take on board with you?""<p>""Yeah, this guy I met on the internet gave me a box. Why?""",1356944212
+4988832,comment,4988729,4988729,2,0,zulfishah,,,Disgusting.,1356944197
+4988831,comment,4985915,4986774,2,0,mattvot,,,"Not at all.<p>When I saw the title it was familiar. So I posted the date for other HN users that recognise it and can relate that they too have seen the article before.<p>I do wish that you would take the comment as it is, a date. It is in no way a smug snark at old news.",1356944182
+4988830,comment,4988649,4988808,1,0,JungleGymSam,,,"Because of the barrier to entry: money, setup, and all the unknowns related to switching.",1356944104
+4988829,comment,4988237,4988237,1,0,foobarbuzz,,,OMG!!!,1356944097
+4988828,comment,4988592,4988755,1,0,killerpopiller,,,"sigh, I feel uncomfortable not having a jailbreaked phone. Don't you guys need a root shell?<p>I have to ssh into a server to do basic maintenance work, like it is something illegal.<p>Btw. trying out apps via hackulous helped me decide, which one to buy.<p>Besides, there are poor ppl out there with iDevices. Did you know, that in european apple&itunes-store the prices are often the same or higher, just with a -symbol? And that europeans earn comparable less and pay higher taxes.<p>iMac: 2618$
+iMac: 2678<p>Pirating helps ppl participating in society and we creators/media professionals canafford them.",1356944051
+4988827,comment,4987737,4987737,1,0,Zoophy,,,"Ugh, I hate how the mobile TC website divides pages in multiple sub-pages.",1356944038
+4988826,comment,4988649,4988808,3,0,rimantas,,,"hour-long standing brings other problems, alas.",1356944026
+4988825,comment,4988774,4988774,1,0,digitalzombie,,,"2011 - first ML course with Professor Andrew Ng @ coursera (octave)<p>2012 - First Stat 1 Professor Conway @ coursera (R)<p>2013 -<p>Computational Methods for Data Analysis @ coursera (R)
+or 
+Data analysis (R)<p>NLP @ Coursera (hoping python)<p>Computer Vision @ Coursera (octave [hopeful for python])<p>Fundamentals of Personal Financial Planning (I think I'm going to just enroll in it and download the video, I don't think I can keep up with this if I take the other courses)<p>It's a lot and I might end up taking like 2 courses out of those listed but I can dl the rest and wait for when time free up.",1356944021
+4988824,comment,4987795,4988227,0,0,chrisringrose,,,"I think we <i>will</i> see FPS gaming and high-performance apps as web apps. And very soon. Try this FPS demo: <a href=""https://developer.mozilla.org/en-US/demos/detail/bananabread"" rel=""nofollow"">https://developer.mozilla.org/en-US/demos/detail/bananabread</a><p>(It's not made by a game development team, but tech nerds at Mozilla, showcasing what new HTML5 tech can do. A real game company could go nuts with this.)<p>Also... Desktop apps <i>have died</i>. Apart from high performance apps, the top 10 successful tech businesses in the last 10 years have been web apps. Imagine Facebook launching as a desktop app. You buy a CD at Target, and install it, connect, and type in the app to communicate. It's a laughable idea.",1356943947
+4988823,comment,4988649,4988649,2,0,ivan_ah,,,"Amazing! I have been looking for this kind of exercise set for ages. Will try tomorrow.<p>Thank you anikepant!",1356943909
+4988822,story,,,1,0,updownsignals,"Probably the best binary options signaling services i've ever seen",http://www.updownsignals.com/,,1356943832
+4988821,comment,4987016,4988632,1,0,barry-cotter,,,"* Federalized constitutional republics seem to work well.*<p>Pfft, you can't generalise that much from just Switzerland.",1356943828
+4988820,comment,4988729,4988729,2,0,RyanZAG,,,"Are they implying that being able to talk to someone in Brazil while being raped in a New Delhi bus is going to help? Man...",1356943824
+4988819,comment,4987767,4988758,4,0,neumann_alfred,,,"<i>Keeping higher quality content in G+ seems to be their current goal</i><p>That must be why ads for G+ are never <i>ever</i> about sharing little silly things with your friends... no wait, they're actually trying their hardest. It's just adoption sucks, so people rationalize it. That's how I see it, anyway.",1356943782
+4988818,story,,,3,0,pascal_cuoq,"Operant Conditioning by Software Bugs",http://blog.regehr.org/archives/861,,1356943749
+4988817,comment,4985518,4987685,1,0,robomartin,,,"In the interest of completeness I updated the code based on some on and off-list feedback.  The new results are much cleaner as they ignore all anchor, image, navigation and other text.  I've updated the gist with the new code.  Here's a sample output:<p><pre><code>    United_States
+    [ 118] war
+    [ 108] states
+    [  96] american
+    [  78] united
+    [  42] first
+    [  37] president
+    [  35] rights
+    [  35] world
+    [  34] government
+    [  33] economic
+    England
+    [  57] henry
+    [  57] king
+    [  54] english
+    [  43] government
+    [  41] britain
+    [  39] century
+    [  38] war
+    [  37] edward
+    [  34] local
+    [  34] kingdom
+    Brazil
+    [  23] military
+    [  17] portugal
+    [  15] first
+    [  14] portuguese
+    [  13] years
+    [  13] war
+    [  13] president
+    [  12] political
+    [  12] country
+    [  10] called
+    Argentina
+    [  51] president
+    [  43] military
+    [  41] argentine
+    [  40] government
+    [  37] war
+    [  36] political
+    [  30] buenos
+    [  30] aires
+    [  24] against
+    [  23] national
+    Canada
+    [  71] british
+    [  62] war
+    [  53] canadian
+    [  38] north
+    [  37] french
+    [  35] quebec
+    [  34] government
+    [  34] first
+    [  32] american
+    [  27] france
+    Spain
+    [ 103] spanish
+    [  62] war
+    [  46] century
+    [  39] empire
+    [  38] king
+    [  34] under
+    [  29] peninsula
+    [  29] first
+    [  28] roman
+    [  27] country
+    Portugal
+    [  99] portuguese
+    [  28] first
+    [  25] war
+    [  22] king
+    [  21] spanish
+    [  20] independence
+    [  19] east
+    [  19] republic
+    [  18] between
+    [  18] main
+    Russia
+    [ 105] soviet
+    [ 105] russian
+    [  68] war
+    [  52] union
+    [  43] citation
+    [  41] century
+    [  39] europe
+    [  39] state
+    [  38] government
+    [  37] moscow
+    Germany
+    [ 240] german
+    [  88] war
+    [  74] empire
+    [  68] east
+    [  63] states
+    [  57] west
+    [  55] france
+    [  55] prussia
+    [  46] austria
+    [  42] between
+    France
+    [ 221] french
+    [ 151] war
+    [ 114] louis
+    [  95] king
+    [  68] paris
+    [  56] against
+    [  52] government
+    [  52] republic
+    [  49] would
+    [  49] empire
+    Japan
+    [  89] japanese
+    [  58] war
+    [  50] emperor
+    [  40] main
+    [  37] military
+    [  37] china
+    [  35] imperial
+    [  35] ashikaga
+    [  35] power
+    [  34] government
+    China
+    [ 127] dynasty
+    [  62] chinese
+    [  29] han
+    [  26] emperor
+    [  26] shang
+    [  25] zhou
+    [  25] ming
+    [  22] empire
+    [  20] military
+    [  20] main
+    Saudi_Arabia
+    [  83] saudi
+    [  48] arabia
+    [  28] oil
+    [  28] king
+    [  21] hejaz
+    [  21] arab
+    [  19] mecca
+    [  18] first
+    [  16] saud
+    [  16] state</code></pre>",1356943671
+4988816,comment,4986790,4988049,2,0,beagle3,,,"In some cultures, you are expected to negotiate to the point that the first quote you get is not something the seller ever expects to get (even though they do get it from tourists or the occasional local patsy).<p>The bizdev girl in my startup who grew up in such a culture usually gets 30% of supplier list prices on the first call, and then starts to work from there ... even in the US and the UK where it's not supposed to be that way.",1356943662
+4988815,story,,,1,0,darylteo,"Ask HN: How to improve algorithmic problem solving (Euler)",,"Hi HN,<p>I'd like to ask if there are any resources that would be handy to train one in algorithmic problem solving?<p>I've been practicing on Euler for a bit, but I'm getting to some of the harder questions where brute force just doesn't really cut it anymore and I hit a complexity ceiling.<p>I've intuitively (after reading some books) decided that I should approach these problems in 2 steps:<p>- attempt to divide the tests into smaller subsets
+ - attempt to linearly reduce the number of tests within each subset<p>However this doesn't seem to be sufficient when dealing with more difficult problems. And there isn't a step-by-step guide to solving any type of problem... I look at some sample solutions for the problems and go ""How on earth did they get that?!""<p>Yes, I will continue practicing, but any advice would be good as I'm going for an interview sometime soon. =)<p>Regards,
+Daryl",1356943641
+4988814,comment,4987016,4987952,3,0,gruseom,,,"A troll, yet I feel like responding anyway.<p>How you get that from this interview is beyond me; it seems to me full of joy and love from start to finish  joy of learning, love of freedom and play.<p>I saw your comment before I finished the article and was going to mention that about the only thing I bet Chomsky was very sad about was the death of his wife, by all accounts the love of his life. And then he brought it up at the very end.<p>Chomsky has his issues like anyone, but it has always been plain to me that there is something very beautiful at the core of the man.",1356943636
+4988813,comment,4987737,4988569,2,0,cturner,,,"I had no idea. I thought it was just a fun word in the tradition of bits and bytes. It had an internal logic - you'd have datatypes for things, and then you had this catch-all amorphous type called the blob. It's a great name.",1356943602
+4988812,story,,,4,1,pedrolll,"The Fetishization of the Offline",http://www.thenewinquiry.com/essays/the-irl-fetish/,,1356943600
+4988811,story,,,1,0,jerseys258,"Featured Products For NFL Jerseys",http://www.2013newjerseys.com/featured_products.html,,1356943598
+4988810,comment,4988592,4988592,1,0,krichman,,,"That's disappointing. They had a package that let me test programs I developed on my own device.",1356943590
+4988809,story,,,3,0,cindywu123,"Willy Wonka is the father of nano-food","http://observer.guardian.co.uk/foodmonthly/futureoffood/story/0,,1971266,00.html",,1356943586
+4988808,comment,4988649,4988649,2,0,lazyjones,,,"If the hour-long sitting is the cause of the problems, why not fix them by using height-adjustable sit-stand tables? They've become popular in our office...",1356943574
+4988807,comment,4986980,4987766,1,0,analog,,,"What would you'd reckon the accuracy of the algorithms are? I'd have thought the numbers probably justify the language.<p>Security is a tradeoff, if you do business on the web, deal with it.",1356943554
+4988806,comment,4988462,4988462,6,0,RyanZAG,,,"I just can't like javascript, and it's the design idea behind stuff like this that causes it:<p><pre><code>  > Object.freeze(square);
+  > square.length = 20
+    20 
+  > square.length
+    10
+</code></pre>
+square.length = 20 should be throwing an error. No excuses, sane defaults.",1356943492
+4988805,comment,4987387,4987636,2,0,mikenuman,,,"Thank you.<p>The HRT study mentioned in the article (WHI study) looked at the effects of starting HRT, often years after menopause, often in women with existing morbidity.<p>Those women who started it at the correct time ie healthy women aged around 50, lowered their all-cause mortality by 25%+.<p>Thus, the original analysis of HRT WAS correct. Many women have died young since the WHI published with its erroneous conclusions, who would not had they taken HRT.",1356943446
+4988804,comment,4987016,4988296,3,0,gruseom,,,"<i>Also, I have a hard time believing you've read any Marx. You're not doing his work very much justice.</i><p>I call foul. That's personal, and it's unsubstantiated, which makes it unfair not only to the GP but to the rest of us reading the thread. If you're going to make a comment like this, instead of being mean why don't you share with us some of what you've learned about (in this case) Marx? I for one would be interested to hear it.",1356943264
+4988803,comment,4987795,4987795,2,0,chrisringrose,,,"It's lazy to give up and devote all your energies on yet another company's proprietary platform. Instead of constantly writing articles like this, how about we focus on the obstacles web apps face, and fix them.<p>Sure, if both a web app and native app are programmed optimally, the native app will run slightly faster. But a program written in machine code will always be faster still. There will come a point when the speed disadvantage is outweighed by all the benefits of web apps - and that time is near.<p>The biggest issues with web apps are:<p>- <i>Development.</i> Creating web apps requires writing code in at least 3 different languages, including server code, client code, and markup code. Try making an iOS paint app that saves your drawing to the cloud. Then try doing it as a web app. If you think this is easy, believe me, Objective C is a <i>drrreeeam.</i><p>- <i>Discovery.</i> The App Store/Google Play are the best ways to discover new apps. There exists no such popular and lively platform for web app discovery, review, and sales.<p>- <i>Browser and OS Dependency.</i> Mobile browsers don't all allow access to the camera, easy installation to the home screen, and all the access to APIs a full-featured app should have.<p>So let us be constructive from now on, and focus on fixing these issues, instead of giving up and locking ourselves into reliance on yet another company (Flash, iOS, Android, etc).",1356943193
+4988802,story,,,2,0,therealarmen,"SaaS tools for startups",http://armen.io/post/39292983343/saas-tools-for-startups,,1356943149
+4988801,comment,4987608,4987608,10,0,davidw,,,"Cycling is the perfect hacker sport:<p>* You can go out riding by yourself, or with groups.<p>* You can geek out about the tech involved if you want.<p>* It gets you outdoors in a context very different from sitting on your ass in front of a computer.  Great for clearing the head.<p>The biggest drawback is that it's tough to find the time for a good ride (at least 2 hours), whereas something like running takes less time.<p>If anyone ever makes it over to the Padova area with their bike, I'd be happy to take you out on a ride and show you the area.  The Colli Euganei and Colli Berici are both pleasant and attractive areas to ride.",1356943146
+4988800,comment,4988649,4988779,3,0,jaggederest,,,"I haven't found any evidence that stretching in any form is effective over any longer term than a few minutes or hours, in my brief check on the subject.<p>The best I've found is a Cochrane review that says that specific neck stretches (NB as far as I can tell not those in the article) are effective in the intermediate term for relieving neck pain. A different review says that there is no evidence that stretching is effective in preventing injuries in runners.<p><a href=""http://summaries.cochrane.org/CD004250/exercise-for-neck-pain"" rel=""nofollow"">http://summaries.cochrane.org/CD004250/exercise-for-neck-pai...</a><p><a href=""http://summaries.cochrane.org/CD001256/interventions-for-preventing-lower-limb-soft-tissue-injuries-in-runners"" rel=""nofollow"">http://summaries.cochrane.org/CD001256/interventions-for-pre...</a>",1356943139
+4988799,comment,4987467,4988392,1,0,loceng,,,"Not yet..",1356943121
+4988798,comment,4986790,4987900,9,0,crntaylor,,,"I think that anything a dealer says about buying cars to non-dealers should be looked at with a fair amount of scepticism.",1356943118
+4988797,comment,4987875,4988760,2,0,buster,,,"The Voice Recognition is 1) part of the Google apps (the Google Search app) which are mostly not open source and 2) send the input to google to get analyzed",1356943063
+4988796,comment,4987737,4988210,1,0,swivelmaster,,,"Was that last question ironic?  Aren't you describing a traditional 'boxed'/retail PC/console game?  That's something that is well designed and self contained that you buy once and can enjoy forever (if you have some friends to play it with).<p>(IMO, in the context of Zynga and similar, the idea of pay-once-play-forever games is off topic in this discussion!)",1356942977
+4988795,comment,4988528,4988528,4,0,mixmastamyk,,,"Minneapolis looks a lot larger than I'd have guessed.",1356942969
+4988794,comment,4987608,4988510,3,0,xiaoma,,,"Just in terms of health recommendations (by the CDC, WHO, ect...) the ideal range is a BMI of 18.5 to 24.9.  For someone who is 5'8"", that would 122 to 166 pounds.  Power athletes would be heavier of course, but as a group they don't have the greatest health outcomes.",1356942940
+4988793,comment,4987608,4988103,2,0,dmckeon,,,"Car commute routes often have more-or-less parallel routes better
+suited for bicycling.  If you are pedaling on the same route you
+would drive on, it is likely to be well worth spending some time
+trying to find a more suitable route.  I would prefer a longer route
+with many stop signs over a congested multi-lane route with traffic
+lights.  Spend a weekend morning in your car with a road map looking
+for smooth pavement.<p>Disclaimer: Works well in grid layouts (western US), less well in
+older cities, depends on local topography, rivers, rail, etc.",1356942938
+4988792,comment,4988528,4988645,5,0,tedunangst,,,"I have also heard that the regular spacing of towns east-west is how far a steam locomotive could go before it needed water, but have no idea as to the accuracy of that claim.",1356942933
+4988791,comment,4987701,4988356,5,0,johnbender,,,"I've found that the application of formalism to most any problem I have in my head takes me down paths I hadn't considered. Said another way, forcing a problem into a straight jacket tends to squeeze out the interesting bits.",1356942909
+4988790,comment,4987016,4988019,1,0,gruseom,,,"Great comment. The connections you make to software management and to the liberation of startups (if I may put it that way) strike me as spot-on.",1356942896
+4988789,comment,4987714,4988711,1,0,angryasian,,,"Everything is moving much faster than it once was.. so its very hard to say what does have commitment effect especially when it comes to social thats so much more incredibly fickle .. friendster, myspace, even facebook to an extent you see people using Path and other niche services.  Utilities are the only thing that has any lasting commitment.<p>You keep on wanting to point out Nir Eyal as an example, while the mechanics he speaks are true and relevant, most example he uses is a piss poor example of a true commitment. Really Slashdot/metafilter/fark/Digg/ and Reddit is the true commitment or Quora - the struggling QA platform.  Really taskrabbit and airbnb.  Lets be serious none of these are good examples.<p>Like I said previously Snapchat is a communication utility that people commit like BBM or whatsapp or kik or skype or even aol messenger.  When it comes to a communication platform, people will commit to a few of them.  Snapchat will be fine because its anonymous and provides a very specific community and has first movers advantage.",1356942894
+4988788,comment,4988425,4988685,2,0,jacquesm,,,"That was exactly what I thought. <i>bump</i>. $6K down the drain. Presumably the whole thing powers down before you can do the slide out for a swap.",1356942768
+4988787,comment,4988716,4988775,1,0,adgoggle,,,"Yes, can drop www ie. straight to domain.com on a mobile device to access the mobile web app. Just that I can't seem to find any mobile web app or site that uses domain.com as it's homepage. Its normally a m., .mobi, or .com/sub-directory.<p>So wondering whether I am missing something if I don't follow the norms and just use domain.com for my mobile site exclusively.",1356942687
+4988785,comment,4982416,4982729,1,0,johnnutcracker,,,"which article exactly?",1356942536
+4988784,comment,4986223,4987371,1,0,IheartApplesDix,,,"Useless semantics. Just because that strong crypto was somewhat de facto while the gears in washinton turned, doesn't negate the fact that the US has and still has a Orwellian slant to technology law, predicated on the desire for control and power over everyday interactions.",1356942522
+4988783,comment,4988649,4988649,5,0,truemuscle,,,"Some of the claims are just plain wrong. ""Heavy lifting"" doesn't make your posture worse. If you squat with good technique, working up to heavy loads, you'll have rock hard lower back stabilizers - cause otherwise, you won't be able to squat heavy.",1356942482
+4988782,comment,4986365,4986365,2,0,shinratdr,,,"> buying stuff on mobile is a terrible experience and fewer people do it than on the full-size desktop browser. Things you can buy easily (games, apps, content) is all cheap and single serve (< $10 per purchase)<p>It's not a coincidence that most mobile purchases were made from iPads this holiday season. Plenty of other tablets still offer a substandard browsing experience and the more obstacles you hit, the more likely you are to abandon purchasing on your mobile device and switch to a desktop.<p>It also helps that most online retailers factor in how their site performs on an iPad at this point. You can't just sweep how iOS based devices continue to trounce Android based devices in terms of showing up in weblogs under the rug. Even on a more modern device like a Galaxy S III running up-to-date Chrome, it's a noticeably worse experience.<p>It's a vicious cycle. They don't show up in logs frequently enough, so the experience doesn't improve (in fact in many cases it gets worse), which in turn results in less attempts which continues to validate the company not offering good support, and so on. Just selling them clearly isn't enough. Google can continue to tout how they're activating <insert insanely high number> of Android devices per day all they want, but something is clearly amiss when people aren't using them enough.",1356942392
+4988781,story,,,1,0,lezlow,"WORLD WAR 3 ,MAY BE CLOSER TO HOME",http://www.youtube.com/watch?v=R6HXPhkx1KY&list=UUPVHJpQ-8i4eK_ynhlW37ww&index=1,,1356942359
+4988780,story,,,1,0,lisosldg,"WOW 5.1: Epicus Maximus in the Brawler's Club",http://handbyabe191.blog.com/2012/12/31/wow-5-1-epicus-maximus-in-the-brawlers-club/,,1356942335
+4988779,comment,4988649,4988649,9,0,polskibus,,,"Interesting, some of the exercises are new to me. However I have yet to come across a resource that presents both exercises and references to scientific papers/resources proving that such and such technique is beneficial in medium to long-term. Mere ""common sense"" can be really backfiring when it comes to your spine. Does anyone know of such resource?",1356942279
+4988778,comment,4985834,4988139,1,0,rbanffy,,,"Nowadays, the same can be said of C.",1356942244
+4988777,comment,4987875,4987875,5,0,plainsman,,,"Bottom line: speech recognition in the general case (more than a few predetermined words) is only as good as the 1) acoustic model (which utterances were heard), and 2) language model (how do we group the utterances into words).<p>This requires massive amounts of labeled data. This is why Nuance is king and few others come close - the amount of labeled data necessary to catch up is astounding. Not to mention a patent minefield to navigate.<p>This is unfortunately one field in which open-source alternatives face real obstacles and won't be viable in the near future.",1356942183
+4988776,story,,,3,0,dknecht,"Application to archive data from your web apps",http://github.com/kennethreitz/blackbox,,1356942167
+4988775,comment,4988716,4988735,1,0,dotmanish,,,"I can't speak for any issues (are you thinking in terms of SEO?) except for the fact that it would be better if you drop the ""www."" in your marketing as well. It distracts.",1356942128
+4988774,story,,,2,1,lazydon,"Ask HN: MOOCs taken in 2012, planned for 2013",,"2012 shall be hailed as the year of the MOOCs. Just wanted to check what fellow HNers were upto in 2012 and what are their plans for self-education via MOOCs in 2013.<p>Here's my modest little list:<p>Done in 2012:
+1. Sebastian Thrun's ST101: Introduction to Statistics @ Udacity
+2. Martin Odersky's Functional Programming Principles in Scala @Coursera 
+3. Few Sal Khan's videos on finance and economics @Khan Academy<p>Enrolled (so far) for 2013 with Coursera:
+1. Game Theory (starts on Jan 7th)
+2. Financial Engineering and Risk Management (Feb)",1356942112
+4988773,story,,,2,0,danhodgins,"How To Triple Sales Page Conversion Rates",http://blog.kissmetrics.com/triple-salespage-conversion-rates,,1356942095
+4988772,comment,4986223,4986865,1,0,IheartApplesDix,,,"Not this again. We already have a thread with this line of bs, go polute that.",1356942077
+4988771,story,,,1,0,lackiem,"Did you know that 30-50% of sales go to the vendor that responds first?",http://www.advantly.com/guides/convert-local-leads-in-3-steps/,,1356942054
+4988770,story,,,2,0,hunterjlang,"Predict what's going to happen in 2013",http://www.predictioncapsule.com/,,1356942036
+4988768,comment,4988462,4988462,2,0,cpleppert,,,"I haven't found a use for a lot of these features, a lot of them just seem very ad-hoc additions to the language. A class based object oriented model would have solved a lot of issues relating to the myriad ways to implement object orientation in javascript. The schizophrenic like approach we have right now isn't being helped by incremental changes driven by the lowest common denominator of what can be implemented in a web browser development cycle.<p>Knowing the [Good Parts](<a href=""http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"" rel=""nofollow"">http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockfor...</a>) helps but you just can't keep adding parts that you think may be good.",1356941974
+4988767,comment,4988608,4988608,1,0,kstenson,,,"Personally when I saw the change I just hit the back button. I really hate this kind of behaviour. Reminds me of <a href=""http://www.experts-exchange.com/"" rel=""nofollow"">http://www.experts-exchange.com/</a> shenanigans.",1356941888
+4988766,comment,4987767,4988568,1,0,dannyr,,,"So why do you think then that they should offer a Write API? Shouldn't they put a lot of thought on their API offering so it won't be shut down in the future?",1356941818
+4988765,comment,4979965,4979965,1,0,sunstone,,,"For most of my lived I've lived in the penumbra of richness.  That is, I've been rich on paper but never had actual access to the money.  In addition,  there is an opportunity I know that with near certainty would return 10's if not 100's of millions of dollars that I choose not to pursue because it would mean living in a place where I would rather not live.<p>In the end time is much more important than money.<p>(yes i know I'm know I'm hell banned)",1356941746
+4988764,story,,,1,0,Techasura,"What's an intuitive way to think about the determinant?",http://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant,,1356941655
+4988763,comment,4986471,4987072,1,0,dchest,,,"<a href=""http://www.rackspace.com/cloud/public/servers/pricing/"" rel=""nofollow"">http://www.rackspace.com/cloud/public/servers/pricing/</a> $16.06 per month for 512 RAM (no traffic)",1356941547
+4988761,comment,4986945,4988248,1,0,sgdesign,,,"Yeah, sorry about that, that happens sometimes. It's built with Meteor and hosted on EC2.",1356941465
+4988760,comment,4987875,4988487,2,0,graue,,,"This, and the other comments about the poor state of open-source speech recognition, are very disappointing.<p>Until now, I'd assumed the voice input on Android was open source. But if so it could clearly be taken and integrated into desktop apps like this. How does it actually work? Is it a closed-source plugin? Does it send a recording of what you say to a Google API?",1356941457
+4988759,comment,4987392,4987392,2,0,Posibyte,,,"This is the first time I've seen something like this, but it's greatly broadened my knowledge of Clojure over the past few hours. I've always had trouble trying to find out where to begin. Lisps are foreign to me, and functional programming was and is still a mostly foreign concept. However, things like this that are so simple and understandable make such great introductions.<p>Kudos to the authors, and you have a thumbs up from me.",1356941431
+4988758,comment,4987767,4988562,2,0,loceng,,,"Why not? Why are they rushed? They're trying to displace a competitor who was first to market. It's not going to work the same way, so quickly rushing out to make an API isn't an automatic assumption to be made relating to if it will help you be successful. Keeping higher quality content in G+ seems to be their current goal - whether that means there's currently less content overall initially, I imagine they're quite aware of their overall analytics.",1356941400
+4988757,story,,,3,0,tumultco,"Making Your Own Misfortune",http://blog.jmfd.me/making-your-own-misfortune/,,1356941375
+4988756,comment,4985746,4987402,1,0,mseebach,,,"No, because Jefferson is not part of the argument. I accept that I got suckered into believing it was a Jefferson and didn't check the sources, but if no one else said it, I just did, and my argument still stands.",1356941351
+4988755,comment,4988592,4988592,2,0,MojoJolo,,,"After reading this a while ago, I thought that piracy in iOS is over. Then I learned that there are various apps that offers ""pirated"" apps. AppCake (<a href=""http://iphonecake.com/appcake/en/"" rel=""nofollow"">http://iphonecake.com/appcake/en/</a>) is an example.<p>But well, it's been a long time since I jailbreak-ed my iOS device. It is because I'm not really comfortable doing the jailbreaking process. Also, waiting for a jailbreak for new versions of iOS made me realized that there are various free apps that are good, or also better than paid apps.",1356941351
+4988754,story,,,2,0,yuhong,"The MS OS/2 2.0 fiasco: PX00307 and DR-DOS",http://yuhongbao.blogspot.ca/2012/12/about-ms-os2-20-fiasco-px00307-and-dr.html,,1356941323
+4988753,comment,4959640,4961050,1,0,ahoyhere,,,"The only way to deal with very large companies is to think like Machievelli.<p>How to measure the success of a consulting company? Well, you have to ask ""What are they REALLY hiring the consultants for for?""<p>Probably a third of the jobs I was hired for, inside large companies (and particularly corporate-y startups), were clearly (to me) about CYA. ""Hey, we're doing something, look at all the money we're spending on consultants!"" When you go in, as I did, trying to actually do a great job, this becomes incredibly disheartening. One more reason I came to loathe consulting. However, in that case, given the actual (unstated) goal, I was able to be very ""effective"" for the client, despite the fact that no matter what I did, they wasted endless hours of my & my partner's time at $500+/hr total. $2k on a meeting? Sure, why not? Changing ""project managers"" every week? Hey, why not? Putting a glorified secretary in charge of signing off on user interface designs? Sounds grrreat!<p>And yet for their purpose I was a tool they used effectively. Bummer.<p>Wasn't just me, either. Do you remember that ""shocking"" post a while back by an anonymous ex-McKinsey consultant? He detailed how McK hires kids out of college with no experience and gives them jobs pumping out Powerpoints to client specifications. That doesn't sound so bad, put that way, but he meant that he was told what outcome the client wanted to see, and that he should make the data (and the presentation) come to that conclusion. Given my experience consulting, I wasn't at all surprised (although it's a different type of consulting and I was never dishonest to a client).<p>We assume clients are rational actors, but they're not. They're people. And people often do things for all the wrong reasons. They will pay somebody to tell them what they want to hear; they'll pay somebody to look good; they'll pay somebody to listen to them, to have somebody have to obey them and their wishes on topics they know nothing about, because nobody listens to them usually.<p>As notable consultant Jerry Weinberg wrote, ""No matter how it looks at first, it's always a people problem."" And unfortunately it's not just ""a people problem"" but ""problem people.""",1356941312
+4988751,comment,4984981,4985186,1,0,illuminate,,,"Never bought a package of deveined shrimp?",1356941282
+4988750,story,,,1,0,1amzave,"Writing a Thumb Drive from Scratch",http://www.youtube.com/watch?v=ijyAwxH_iok,,1356941278
+4988749,comment,4986790,4987422,1,0,scarecrowbob,,,"I do most of my work through agencies in Austin, TX...<p>It took about a year to build up a good hourly rate reliably... this was done mostly just by being fast, available, and good and always keeping an eye on the next project.<p>At this point, I know several people who are able to make money off me, and that has always been my goal as a freelancer, more than anything.  The agencies I freelance with all recognize that I'm as reliable as an employee but far cheaper as far as total cost, so they have a better margin on work they do with me.<p>And even though I'm charging quite a bit, since they are charging a markup on my time... well, it's just a lot nicer for everyone.  If I raise my rates, they make more money (within reason, of course).",1356941255
+4988748,comment,4987879,4988325,3,0,eropple,,,"<i>> It's surprising to hear something like this out of someone inside the industry. Art costs for mobile games, including many of the top earners, are not particularly high. Compared to marketing and programming costs art won't cost a fortune for nearly any mobile game.</i><p>It depends on what sort of game you're looking for. If you're looking to build a <i>simple</i> mobile game, sure, art costs are pretty low. It doesn't take much to build a physics game for casuals or a Skinner box like <i>Tiny Tower</i>, for sure. It takes a lot more if you want to build something for anything even remotely approaching the ""core"" audience--the people who play games as games, who normally don't play many games on mobile because the games by and large aren't very good and aren't very engrossing. And it's not because these games are for shallow people (though many could be accused of that), but rather because if you aren't making a game with ten elements and a bunch of generic reusable pieces, it's just gonna cost money.<p>Like, I'm working on a 2D RPG in my spare time. I've sketched it out with an aim toward 25-30 hours of content (something almost unheard-of in mobile games, though I'm also aiming towards Windows as well so I'm cheating a bit). I've looked extensively, I've scrimped where I could, and the inescapable rolling boulder of <i>needing stuff</i> means I'm still looking at $20K or so in terms of asset creation. That's not expensive for the game mills like Gameloft, but it's pretty brutal for a one-guy show, and unless I can do something to alleviate it[1] is going to result in a worse game that doesn't reach what I'm aiming for. (If I was making this to make money I'd be a lot more worried about it. I'm making it because I love games. It will break even, eventually, if I port it to enough platforms--but it may never finance a second, even with my day job soaking my personal expenses. I'm okay with that, but it constrains what I can do.)<p>But, yeah, if you want to roll with people making games for gamers, you are <i>going</i> to be spending a large chunk of cash. He's not wrong here, you're just assuming he's looking at the ""top earners"" and not, y'know--stuff that people normally called ""gamers"" want to play.<p>[1] - There are some great games out there that rely on ""space savers"" like procedural generation--Nethack, Dwarf Fortress, Minecraft--but there are itches they can't scratch. People jonesing for a Narrativist game, if I can slightly misuse a term from the Big Model, are going to want a game where they can see what they're doing and are not going to want to look at the same five wall textures and ten palette-swapped enemies everywhere they go. It's just the way it is.<p>.<p><i>> On the other end of the power spectrum, OUYA was a mega-success in terms of people voting with their wallets.</i><p>The other I wanted to poke at: OUYA has succeeded in getting a lot of people to buy an undergunned Android set-top box for something at or very near cost. It has not succeeded in getting them to re-buy a bunch of games that they probably already have on another platform, especially given their super dodgy practice of polling for games people want to see and then ""which do you <i>really</i> want?"" with a list of AAA games[2]--it's not an illegal practice or anything by any stretch, but the way they've played this has explicitly tried to set expectations that have little to do with the actual machine or the games it's going to get.<p>I personally can't see this ending well, and I say that with an eye towards developing for it--because I can't see it making a dime for me because I'm not hawking <i>Mass Effect</i> or <i>Skyrim</i>.<p>[2] - <a href=""https://www.surveymonkey.com/s/ouyatop20"" rel=""nofollow"">https://www.surveymonkey.com/s/ouyatop20</a>",1356941241
+4988747,comment,4988425,4988628,4,0,lsc,,,">where once the units entered into production they were never touched because physical maintenance had a tendency to cause more failures than it fixed.<p>Well, to make this happen, you can't use conventional RAID (well, you could use conventional raid, and just set, say, five spares, but once you are out of spares, the array would be binned)<p>The thing is?  it's very rare to take out an array when swapping a drive.   (I've... actually done it quite recently, but that was a combination of me making an extraordinarily unwise choice (Oh, I can get by with a used chassis/backplane, even though it's a brand I don't normally use, and a design I'm probably not qualified to re-qualify, no problem!)  and me being an idiot when it came time to force-reassemble the RAID (I still don't have good docs on this, but one of my people now understands the problem of what data is on what drive, and what order to list drives during the force very well.   I just need to get them to document.  Or, really, I should sit down with them, really understand it, simulate a similar failure, and then document it myself.  For now we've instituted a policy that two people need to sign off before using force with any mdadm command.)<p>I mean, if you are using conventional RAID, you need to keep spares.   heck, you could run a 36 bay raid, and just designate, say, 4 spares, and 90% of the time, you'd want to replace the whole chassis before you ran out of spares.  But now we're paying what, another 10% for disks?  (the disks completely dominate the cost of cheap storage arrays;  really nice 36 bay chassis[1] with room for a motherboard cost well under $1500.  for a few bones more, you can get a similar chassis with 45 disks and no slot for a motherboard...  And, of course, you can go way cheaper than that if you are willing to resort to disks that can't be swapped... but my point is that the cost of the chassis, even those nice supermicro chassis where all disks can be swapped without de-racking the thing, is already way below the cost of the disks you are throwing in it, so buying more disks in exchange for getting a cheaper chassis is likely a false economy.<p>I mean, you do have a point when it comes to labour... it is a big deal to get someone to swap a drive (and if you don't have a spare, the swap needs to happen right quick)<p>and yeah, swapping drives isn't without danger.<p>Now, the economics of this changes if you have some CEPH like system where you can fail an arbitrary number of drives in one chassis and still have the good drives function.   But those systems are all relatively new, and have quite a lot of complexity overhead.  I mean, in theory, if you have an array half full of good disks, with such a system you could migrate that data to a new array completely full of good disks, then remove and refurb the array that is half bad, but want to talk about complexity and chances to screw it up?  yeah.<p>Also note, most drives I buy come with a warranty, meaning a bad disk is a token that is good for one completely free disk.  'enterprise' disks don't fall in price nearly as fast as consumer grade disks (yeah, go find me a 500gb 'enterprise' 3.5"" 7200rpm disk for under $70 that isn't used or refurbished.   Yeah, that's what I thought.)   And often, if you warranty a really obsolete drive, you get back one that is fairly newish.  I've warrantied a bunch of WD re3 drives and gotten back re4 kit (difference is that re4 has larger cache and fewer platters, meaning fewer/lighter r/w heads, meaning better seeks and, of course, fewer platters means less spinning weight and thus less power consumption.)<p>Of course, that's not a factor if you buy your drives without warranty.  I don't know any way to extract even the shipping cost out of bad drives that have no warranty.  (If you do, lemme know;  I'm giving 'em away right now.  Hell, half of 'em could be resold by unscrupulous folks;  I discard drives once they start showing uncorrectable read errors, even if there is enough space to remap the bad sector, while some people don't replace the drive until they run out of space to see bad sectors (e.g. you will then start seeing /consistent/ bad sectors across badblocks runs.)<p>[1]<a href=""http://www.supermicro.com/products/chassis/4U/847/SC847A-R1400LP.cfm"" rel=""nofollow"">http://www.supermicro.com/products/chassis/4U/847/SC847A-R14...</a>",1356941191
+4988746,comment,4988485,4988696,3,0,MRSallee,,,"Correct, if you already know something then it is likely not news.<p>I reckon most people -- myself very much included -- 1) weren't aware of the tax change in 2010, and 2) definitely didn't have its expiration on their calendars.",1356941183
+4988745,comment,4987416,4987416,1,0,true_religion,,,"I think its the startup equivilent of ""no one has ever gotten fired for buying IBM"".<p>When you need a developer machine, and don't have the time or care to research the build quality, configurations, etcetera of various PCs in order to maximize value then you simply buy a Mac.<p>You pay a premium, but get a machine that will at least be adequate.",1356941156
+4988744,comment,4985915,4985915,7,0,joshka,,,"Original blog post by iinet: <a href=""http://blog.iinet.net.au/iinet-withdraws-notice-notice-scheme/"" rel=""nofollow"">http://blog.iinet.net.au/iinet-withdraws-notice-notice-schem...</a>",1356941096
+4988743,comment,4988720,4988720,1,0,daftone,,,"""You can also have an opportunity to better understand that mildly geeky guy living in his parents basement who has mild Aspergers syndrome because you work right next to him.""<p>haha - classic :)",1356941069
+4988742,comment,4986003,4987090,1,0,mehulkar,,,"I've never had to call or email Amazon though. Not for retail anyway. Just getting into AWS and we'll see how that goes.",1356941034
+4988741,story,,,1,0,evo_9,"Kick Ass - Destroy the web",http://kickassapp.com/,,1356941029
+4988740,comment,4987608,4988581,2,0,joshwa,,,"Where in SW china were you doing your cycling? And what kind of startup were you doing that allowed you to be there? (NB I just moved back to SF after a year and half in Kunming)",1356940977
+4988739,comment,4981743,4985450,2,0,dredmorbius,,,"The foundations for the 19th Century improvements were <i>established</i> in the 14th century, and followed nearly ten centuries of stagnation and decline.  The payoff wasn't instantaneous, but it was certainly cumulative.<p>Exponential, one might almost say.",1356940949
+4988738,comment,4988485,4988692,1,0,fruchtose,,,"That's not the point I'm making. I'm only talking about the temporary payroll tax decrease. His opponents will say that he's raising the payroll tax, when it is really only expiring.",1356940890
+4988737,comment,4988425,4988425,3,0,jcase,,,"Short demo video <a href=""http://www.datacenterknowledge.com/archives/2012/06/27/video-facebook-storage/"" rel=""nofollow"">http://www.datacenterknowledge.com/archives/2012/06/27/video...</a>",1356940887

@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+18407,comment,18363,18389,0,0,sajid,,,"Do TextDrive do Lamp ?",1178031443
+18406,comment,18363,18377,0,0,sajid,,,"Thanks, that's great :-)<p>Theye're very good value for maoney and the bandwidth limits are reasonable too.",1178031371
+18405,comment,18348,18348,0,0,ryantmulligan,,,"While the bandwidth has gone up, they now charge a price per request to their servers. They said this is a decrease in cost for 70% of their customers.",1178031325
+18404,comment,18275,18390,0,0,mojuba,,,"My guess is that the lame login screen filters out those gamer kids (digg) and geeky democrats (reddit). YCnews is for the rest of us, you see.",1178031274
+18403,comment,18363,18389,0,0,sajid,,,"Unfortunately not, I'm using PHP ...",1178031154
+18402,comment,18275,18329,0,0,mojuba,,,"Isn't it just 30 lines of <i>elegant</i> Lisp code? Write it yourself unless, of course you want the Holy Lispirit come onto you when looking at PG's code :)",1178031075
+18401,story,,,4,1,Sam_Odio,"IBM struggles to stay relevant w/ press, fails miserably ",http://www.theregister.co.uk/2007/05/01/second_life_campaign/,,1178031059
+18400,comment,18363,18391,0,0,sajid,,,"It's not a scaling issue, I just prefer to be in control of the server.
+",1178031003
+18399,story,,,6,3,dawie,"CSS Float Theory: Things You Should Know | Smashing Magazine",http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/,,1178030884
+18397,story,,,14,0,Sam_Odio,"""Year Zero"" project - the way a viral campaign should be run",http://www.37signals.com/svn/posts/403-year-zero-project-the-way-a-viral-campaign-should-be-run,,1178030581
+18396,comment,17947,18137,0,0,ido,,,"You need publicity to make people aware they want your product. If you are not famous (or have a famous investor, like ycombinator), publicity costs a lot of money.",1178029805
+18395,comment,18394,18394,0,0,dawie,,,"I like this part: ""The lesson here is that an entrepreneur has to learn to be able to live with fear and uncertainty  learn how to sleep in the midst of a fire. If we cant handle the stress of high pressure situations with calm, our companies dont have a chance.""",1178028906
+18394,story,,,8,2,dawie,"Dead Man Dancing",http://www.foundread.com/view/dead-man-dancing,,1178028804
+18393,comment,18201,18201,0,0,walesmd,,,"Not counting votes from direct hits is ridiculous. There goes every user who uses RSS, widgets, or the dozen visualizations from digg themselves - all of which link directly to the story article.<p>digg already throttles people's votes - in a nondirect way. Yes, your vote counts as much as mine, but if a group of users attempting to game the system are voting on that story - then that story requires more votes to get to the front of the page.<p>The throttling is implemented at the story level based on the users voting for that story and the pattern in which they are voting.",1178028425
+18392,story,,,4,0,veritas,"Tech.view | Criminalising the consumer | Economist.com",http://www.economist.com/daily/columns/techview/displaystory.cfm?story_id=9096421,,1178028406
+18391,comment,18363,18363,0,0,walesmd,,,"You have some pretty strict requirements there - I am curious as to why. Is your app really that complex where you require these services or are you planning ahead for scaling issues?<p>Personally, I go with Dreamhost. The price is right, their service is awesome, and customer support is willing to help you with whatever you need. If scaling becomes an issue - then go looking for a dedicated host.<p>For 90% of the startups that launch, scaling will never become an issue.",1178028234
+18390,comment,18275,18275,0,0,walesmd,,,"I'm all for seeing a decent login screen as well. It would take - what? - 3 seconds to toss the CSS at the top of that page?
+",1178028074

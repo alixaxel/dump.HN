@@ -1,0 +1,22 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+76551,story,,,1,0,dario1977,"What is the Largest Known Star ? (Animated PIC)",http://www.techdo.com/images/largest-know-star.htm,"""If it were possible for a human to walk on the surface of ""Canis Majoris"", at 3 miles an hour for 8 hours a day, it would take him 650,000 years to walk the entire circumference (compared with 2 years 11 months to complete the same task on the Earth).""",1194349779
+76550,story,,,7,4,luccastera,"Making Rails Wicked Fast: Pagecaching Highly Personalized Web Pages",http://www.pivotalblabs.com/articles/2007/11/04/making-rails-wicked-fast-pagecaching-highly-personalized-web-pages,,1194348776
+76549,comment,76532,76532,0,0,staunch,,,"I think ideally the founding team should have all the necessary skills to create whatever product the business is building, without relying on anyone external. For a web app company that means at first you're DBA, SysAdmin, Programmer, Designer, Customer Support, Sales, etc. As you grow you hand  those roles off to others. Web design is the only thing I'd risk letting someone external handle, but even that can become a bottleneck if they're unavailable and you need to make changes quickly.<p>I also think you should work to become really good at something. If for no other reason then it's hard to build respect from others if everything you do is only mediocre.
+",1194348607
+76548,story,,,12,1,luccastera,"What should I send investors? Part 2: Deck.",http://www.venturehacks.com/articles/deck,,1194348349
+76547,story,,,3,0,staunch,"Amazon S3 European Storage Cloud Announced",http://www.allthingsdistributed.com/2007/11/amazon_s3_in_europe.html,,1194347743
+76546,story,,,7,1,terpua,"Why Startups Have Fewer Dilbertian, Pointy-Haired Bosses",http://onstartups.com/home/tabid/3339/bid/2691/Why-Startups-Have-Fewer-Dilbertian-Pointy-Haired-Bosses.aspx,,1194347545
+76545,comment,76484,76484,0,0,jgrahamc,,,"Seems like the sort of thing that could take off on Facebook.  My Wildfire app is 'similar' in that it uses the social graph to spread news<p><a href=""http://www.facebook.com/apps/application.php?id=2399397752"" rel=""nofollow"">http://www.facebook.com/apps/application.php?id=2399397752</a><p>John.
+",1194347260
+76544,comment,76495,76495,0,0,jgrahamc,,,"The use of the color distance measure turns out to be important in spam filtering because of the 'Camouflage' trick used by some spammers where similar, but not identical colors are used to mask chunks of 'good' text inserted to try to fool spam filters.<p>From <a href=""http://www.jgc.org/tsc/"" rel=""nofollow"">http://www.jgc.org/tsc/</a><p>Camouflage (GWI!Camouflage!HTML)
+What: Like Invisible Ink, but instead of using identical colors (e.g. white on white) use very similar colors.
+Date added: June 2, 2003
+Example from the wild:
+The colors 1133333, 123939, and 423939 are chosen to be very similar without being the same)<p><table bgcolor=""#113333""><tr><td><font color=""#123939"">those rearing lands</font><br>
+<table><tr><td><br><font color=""yellow"" size=5><b>Plasticine sex-cartoons.</b></font><br>
+<font color=""#423939"">eel harness highest</font><br>
+<font color=""white"" size=3>Absolutely new category of adu1t sites.
+</td></tr></table>
+<font color=""#123939"">nobody jets held<br>Northumbria- diamond sleep</font></td></tr></table><p>",1194347136
+76543,comment,76532,76532,0,0,cperciva,,,"There are lots of generalists, but very few specialists in any particular area.  On the other hand, most problems don't <i>need</i> a specialist in most areas.<p>Which approach is best depends largely on how much freedom you have to pick your area of work.  If you're creating your own startup, being a specialist is great because you can make sure the problem you're working on is in your area of specialization -- myself, I'm working on online encrypted backups, and the areas of expertise needed (cryptography, security, data compression, concurrency) are precisely the areas which I'm most expert at.  On the other hand, if you're joining your best friend from university to work on the startup idea which <i>he</i> picked, odds are that it's going to play to his areas of expertise, not yours, and you'd be better of being a generalist who can fill in the gaps after someone else does the heavy lifting of solving the ""hard"" problems.
+",1194346927

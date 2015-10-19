@@ -1,0 +1,55 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1088513,story,,,1,0,dmytton,"Abstracting the iPad filesystem",http://www.appleinsider.com/articles/10/01/29/apple_reinventing_file_access_wireless_sharing_for_ipad.html,,1264849053
+1088512,story,,,3,0,jacquesm,"Wireless Optical Transmission an Option for Indoor Communications",http://www.cellular-news.com/story/41670.php,,1264848967
+1088511,comment,1087182,1087182,0,0,seejay,,,"Nope! :P what does it do?",1264848885
+1088510,comment,1088216,1088216,0,0,ZeroGravitas,,,"Apple has generally had a profit margin of 35% across it's lines, I think they said in their last financial call they were now averaging near 40% gross profit margin:<p>40% of $499 = $199.60",1264848872
+1088509,comment,1087330,1087330,0,0,teeja,,,"This is actually a useful word problem, they only left out one part that would make it more practical: cars cost $50 to rent, vans cost $100 to rent. Now you've got a reason to prefer cars over vans.<p>I (and in my experience most students feel the same) always liked learning better when it was about concrete problems and not just an abstract operation. If I'd had to learn programming without real-world applications, I wouldn't have bothered.<p>I explain this by pointing out that physics has theoreticians and experimentalists. Seems to me that's about mental style. Also, it's easier to communicate an idea when you've got a physical metaphor.",1264848824
+1088508,comment,1088504,1088504,0,0,dbz,,,"I don't know. There appears to be no real evidence of the ""Nexus Two"" and I would think that Google would stick with HTC because, imho, HTC makes good phones. Why risk when you got something good going already?",1264848697
+1088507,comment,1088359,1088466,0,0,sgk284,,,"Yes, the iPhone support SMS and MMS. I think this is specific to the iPad.",1264848516
+1088506,story,,,3,0,vikaspanwar,"8 Creative Social Awareness Campaigns : Which one of these pulled you?",http://savedelete.com/8-creative-social-awareness-campaigns-which-one-of-these-pulled-you.html,,1264848461
+1088505,comment,1087068,1087289,0,0,gaius,,,"I would have done<p><pre><code>    from math import factorial as fact
+    print fact(6)</code></pre>",1264848420
+1088504,story,,,4,4,computinggeek,"Motorola to release the Google Nexus Two?",http://thecomputinggeek.com/motorola-to-release-the-google-nexus-two/,,1264848417
+1088503,comment,1087316,1087340,0,0,cstross,,,"Rubbish.<p>The US Navy's SSBNs work the same way. A second strike deterrent force <i>by definition</i> has to have decentralized launch authority. The backstop is that no single officer can launch the missiles, it takes joint action -- and the officers are carefully screened before being put in that position. One rogue sub officer? Maybe. Enough of them to overpower the rest of the crew and carry out an unauthorized launch? Very unlikely, and begs the question of <i>why</i>.",1264848363
+1088502,comment,1088228,1088388,0,0,est,,,"Flash is not the only problem now?",1264848213
+1088501,story,,,22,6,hwijaya,"The Yo-Yo Life of a Tech Entrepreneur",http://eu.techcrunch.com/2010/01/30/the-yo-yo-life-of-a-tech-entrepreneur/,,1264848099
+1088500,comment,1087092,1088321,0,0,mct,,,"<a href=""http://www.tsa.gov/travelers/airtravel/assistant/editorial_1147.shtm"" rel=""nofollow"">http://www.tsa.gov/travelers/airtravel/assistant/editorial_1...</a>",1264848077
+1088499,comment,1088228,1088228,0,0,est,,,"OK, can anyone tell me how to fullscreen HTML5 video?",1264848076
+1088498,comment,1087316,1088349,0,0,cstross,,,"Yawn.<p>The W177's were secured with bike locks ... inside a reinforced concrete bunker surrounded by razor wire and patrolled by armed guards with orders to use lethal force to stop anyone trying to gain access to them without proper authorization.<p>Just like the USSR's land-based ICBMs didn't have PAL codes -- instead they were guarded by a platoon of KGB troops who didn't know how to launch the missile, but sure knew how to stop the strategic rocket forces' crew from launching the missile without orders.<p>Folks on HN are predisposed to thinking about automating security procedurally, but seem to miss the point that military organizations have been automating security through process carried out by human bodies for centuries, if not millenia; all they need is enough obedient soldiers with guns and orders not to allow [X] to happen without authorization [Y] or their ass is on the line to ensure that the bombs are <i>de facto</i> secure.",1264848048
+1088496,comment,1088228,1088429,0,0,scw,,,"The original piece is ""The Aquarium"", by Camille Saint-Saëns,  a part of the Le Carnaval des Animaux suite: <a href=""http://en.wikipedia.org/wiki/Le_Carnaval_des_Animaux"" rel=""nofollow"">http://en.wikipedia.org/wiki/Le_Carnaval_des_Animaux</a>",1264847885
+1088495,comment,1088194,1088250,0,0,Skriticos,,,"Nobody doubt that (I hope). The point is, that you generally don't use it in competitive add campaigns, because it shows how pathetic/desperate you got.<p>Porn will find ways to users, one or the other way anyway, so it's also pointless.",1264847330
+1088494,comment,1083840,1084519,0,0,kristiandupont,,,"#2 and #3 I can agree with.
+#1 is exactly the kind of thinking that I think Apple gets right by avoiding. A product should not compete by having all the competitors features and then some.",1264847266
+1088493,comment,1087493,1087493,0,0,moe,,,"Fortunately he put the only correct response to this nonsense right in there - saves me some typing. Quote from the varnish team:<p>This is not a security problem in Varnish or any other piece of software
+which writes a logfile.<p>The real problem is the mistaken belief that you can cat(1) a random
+logfile to your terminal safely.<p>This is not a new issue. I first remember the issue with xterm(1)'s
+inadvisably implemented escape-sequences in a root-context, brought up
+heatedly, in 1988, possibly late 1987, at Copenhagens University
+Computer Science dept. (Diku.dk). Since then, nothing much have changed.<p>The wisdom of terminal-response-escapes in general have been questioned
+at regular intervals, but still none of the major terminal emulation
+programs have seen fit to discard these sequences, probably in a
+misguided attempt at compatibility with no longer used 1970'es
+technology.<p>I admit that listing ""found a security hole in all HTTP-related programs
+that write logfiles"" will look more impressive on a resume, but I think
+it is misguided and a sign of trophy-hunting having overtaken common
+sense.<p>Instead of blaming any and all programs which writes logfiles, it would
+be much more productive, from a security point of view, to get the
+terminal emulation programs to stop doing stupid things, and thus fix
+this and other security problems once and for all.",1264847124
+1088492,comment,1088228,1088479,0,0,sid0,,,"What does the codec have to do with the player?",1264846818
+1088490,comment,1087596,1088037,0,0,blasdel,,,"He's disagreeing with the idea that those two issues are in any way separate.",1264846581
+1088489,comment,1088228,1088228,0,0,moe,,,"Curiously this player causes <i>more</i> CPU load than a flash video here on chrome/OSX. Must be something specific to this implementation, though. The html5 player on youtube causes less load than flash.",1264846569
+1088488,comment,1086455,1087032,0,0,henrikschroder,,,"Actually, most deadly plagues in the history of mankind has been caused by bacteria, and it is antibiotics, not vaccines, that has stopped them. :-)",1264846487
+1088487,comment,1086484,1086695,0,0,pbiggar,,,"> I would have ample resolution for just about everything and I wouldn't have to alt-tab at all.<p>You sound like a man in desperate need of virtual desktops.",1264846473
+1088486,comment,1088194,1088194,0,0,Raphael_Amiard,,,"Replace those screenshots with some of all those sites stuffed with flash adds, and you actually have some pretty big argument in favor of the iPad ;)",1264846390
+1088484,comment,1088420,1088420,0,0,catch404,,,"Pretty good summary I thought.",1264846329
+1088483,story,,,5,0,abscondment,"IPad: Falling Short of the Past",http://threebrothers.org/brendan/blog/ipad-falling-short-of-the-past/,,1264846100
+1088481,comment,1088228,1088479,0,0,Raphael_Amiard,,,"So that's it we amalgamate HTML5 video and H.264 already ?",1264845986
+1088479,comment,1088228,1088447,0,0,ComputerGuru,,,"No, it's because Firefox said outright they will not support HTML5 H.264 streaming.",1264845909
+1088477,comment,1084471,1084781,0,0,owyn,,,"I'm only 35, and I have grey hair.  Crap!",1264845798
+1088476,comment,1088228,1088429,0,0,ComputerGuru,,,"Thank you. It was bugging me as well, which is funny because I rarely listen to these and don't usually ""index"" them... But this one really sticks in your head!<p>It's <i>not</i> the original Bond Oceanic, but definitely similar. However I've heard the same exact re-orchestration before, <i>still</i> dying to know where though.",1264845759
+1088475,comment,1087596,1088085,0,0,Volscio,,,"Paging Lessig...we're encouraging our children to either be less curious or to willingly break copyright laws.",1264845758
+1088474,comment,1087068,1087068,0,0,Flow,,,"So funny. The Windows one makes me wanna abandon computers altogether.",1264845715
+1088473,comment,1088228,1088228,0,0,ComputerGuru,,,"It doesn't work properly: after it plays a section of the movie, dragging back will re-download!! (Chrome/Mac)",1264845705
+1088472,comment,1087596,1087798,0,0,Volscio,,,"You have to weigh in the fact that the growth of the internet has allowed hobbyists to find each other.  But then governments and international organizations will be pressured to prosecute against hackers and tinkerers.  The post addresses the possibility that in the future, we won't be able to modify our own hardware.  It's not elitist to worry about who will have ownership over our future products if it's not going to be ourselves.",1264845635
+1088471,story,,,1,0,bensummers,"Individuals Are Running Circles Around Your Brand",http://thefuturebuzz.com/2010/01/29/running-circles/,,1264845630

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+12969,story,,,2,0,danw,"The Computer for the 21st Century - ""match-book size removable hard disk will store about 60 megabytes each""",http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html,,1176587518
+12968,comment,12913,12959,0,0,MEHOM,,,"Did I undermine free software efforts?  Did I say that?  Read again.   As I mentioned before, ""There is no free lunch. If you want something to be CONFORM to your standards, CUSTOMIZES it yourself or PAY someone to do it for you. ... ""  Not all free software is good. Not all  paid software is good too.<p>
+",1176586865
+12967,story,,,2,1,raganwald,"Anybody founding an OLPC business? Here's a LiveCD of the Sugar UI",http://olpc.download.redhat.com/olpc/streams/sdk/latest/livecd/,,1176586841
+12966,comment,12771,12771,0,0,c1sc0,,,"Do not use Joyent (textdrive), their support is as slow and unreliable as their network for the low-end plans. Pro is they have a very nice <i>nix server setup with anything you want pre-installed.",1176586425
+12964,story,,,8,1,raganwald,"How Microsoft Lost the API War",http://www.joelonsoftware.com/articles/APIWar.html,,1176585515
+12963,comment,12890,12890,0,0,raganwald,,,"Thumbs way up on this, Joel really captured the Windows API strategy with this. Couple this with ""How Microsoft Lost the API War"" and you have Joel's most pertinent thoughts.",1176585500
+12962,story,,,6,2,paul,"Paul Buchheit: Google buys DoubleClick, for a double-dose of advertising",http://paulbuchheit.blogspot.com/2007/04/google-buys-doubleclick-for-double-dose.html,,1176585349
+12961,comment,12765,12765,0,0,dfranke,,,"I ""borrowed"" a bound copy from my advisor.  He seems to have forgotten this fact.  I'm hoping to keep it that way.",1176584913
+12960,comment,12625,12625,0,0,marketer,,,"Up to this point most college-aged kids have followed a clearly defined path: do well in school, go to college, etc.. Paul has structured YC so it's an easy and well structured method of doing a startup, but it's definitely not the only way to go.  ",1176584726
+12959,comment,12913,12946,0,0,danielha,,,"If you're asserting that people should shrug off or become indifferent about quality because something is free, I'm going to have to disagree. Undermining free software efforts, open source projects, and many web applications would be quite terrible.<p>To the op, what specific gripes do you have with Ubuntu's usability?",1176584520

@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+100910,comment,100838,100838,0,0,rkts,,,"This story and the mention of MIT's ""high suicide rate"" remind me of something I've wondered about.  Depression and suicide seem to be common among very smart people.  Does anyone know why?",1200761746
+100909,comment,100736,100736,0,0,joeguilmette,,,"heh i dont know if this would actually work in a restaurant.<p>how are they going to 'fulfill' the seating fee? does the user (restaurant goer) have to sign up while they wait and pay $5 with their CC in a little terminal before they sit down? if so, is this really any different from an online reservation service like OpenTable (the variation being you aren't actually getting anything in return from the service, just paying a fee)? are customers supposed to be happy with this?<p>the only way this could practically work is if the seating fee was charged to the bill when they are seated. how are you going to communicate this fee to the customer? tell them at the door? any restaurant that implements this will certainly solve the problem of over booking. they'll alienate all of their customers.<p>""welcome to Posh Food, where we are so pompous we charge you a floating fee for the privilege of dining here. right now it costs $8 just to sit down. cash or charge?""",1200761386
+100908,comment,100460,100541,0,0,ayc,,,Right!,1200761117
+100907,comment,100460,100506,0,0,ayc,,,"My computer is fast :) I told ""YOU should ask: why your object code is not optimized (and it slow"" (instead of ""why you use tables"").",1200761079
+100906,comment,100460,100600,0,0,ayc,,,"Do not waste a life! You should use optimizing compiler ;)",1200760965
+100905,comment,100531,100860,0,0,nostrademons,,,"I always use svn+ssh.  I had it under HTTPS initially (first using Apache, then Lighttpd), but it had a strong tendency to corrupt the working copy.  Like daily.  So I had to go in and delete .wcprops after every substantive check-in, which got really old really fast.<p>No problems with svn+ssh; seems to work fine.",1200760943
+100904,comment,100658,100828,0,0,davidw,,,"To get up to date packages?",1200760826
+100903,comment,100732,100805,0,0,nostrademons,,,"Grad students routinely live on less than $20K/year...",1200760757
+100902,story,,,1,0,hhm,"String theorists (Witten, Kontsevich) and astrophysicist (Sunyaev) share Crafoord Prize ($500k)",http://physicsworld.com/cws/article/news/32515,,1200760240
+100901,story,,,6,18,hhm,"How Dumb is Daniel Dennett?",http://www.aaronsw.com/weblog/dennettdumb,,1200760136
+100900,story,,,7,4,hhm,"33 Weird Statues and Sculptures Around The World",http://www.toroller.com/2008/01/03/amazing-weired-statues-manuments-sculptures-of-the-world/,,1200760066
+100899,comment,100319,100841,0,0,r7000,,,"indeed: <a href=""http://en.wikipedia.org/wiki/Repeating_crossbow"" rel=""nofollow"">http://en.wikipedia.org/wiki/Repeating_crossbow</a>",1200759394
+100898,comment,100175,100858,0,0,bayareaguy,,,"There is some good information on MapReduce and BigTable here:<p>- <a href=""http://research.google.com/people/jeff/index.html"" rel=""nofollow"">http://research.google.com/people/jeff/index.html</a>",1200759062
+100897,comment,100190,100603,0,0,eru,,,"I agree.<p>The US won't default on bonds anytime soon.  But they are only bulletproof in terms of value when you measure value in US$ - and not in adjusted terms (inflation, purchasing power paritiy, exchange rate, etc).",1200758925
+100896,comment,100493,100493,0,0,auferstehung,,,"This should be a boon for Despair, Inc.
+<a href=""http://despair.com/"" rel=""nofollow"">http://despair.com/</a>",1200758695
+100895,comment,100838,100878,0,0,eru,,,"Why not quote them without a frame at length?",1200758451

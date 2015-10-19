@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+96133,comment,95254,95299,0,0,jsnx,,,"Venture capitalists benefit themselves and a handful of other
+people economically, while providing funding for services that
+are -- in so many cases -- vacuous garbage. The tubes of the
+internet are clogged with pr0n, but where is a single good site
+for searching #haskell?<p>However, my point was a little more general -- it makes most
+sense in connection with the bit about work and reward.  Doctors
+and lawyers are portrayed as civil servants in the article, and
+this is used to drum up some sympathy for their relative
+impoverishment (relative to VCs). Why don't they mention the
+poor nurses?<p>Doctors and lawyers have
+ridden the demand curve long enough; they now find themselves
+contending with people who do even less and make even more, and
+they complain. Reflection would have been a more respectable
+response.",1199829512
+96132,comment,96057,96057,0,0,DarrenStuart,,,"I know this is ruby but might be worth a look. Will help you no end and no need for a web browser.<p><a href=""http://mechanize.rubyforge.org/mechanize/"" rel=""nofollow"">http://mechanize.rubyforge.org/mechanize/</a><p>might be worth a look
+<a href=""http://www.crummy.com/software/BeautifulSoup/"" rel=""nofollow"">http://www.crummy.com/software/BeautifulSoup/</a>",1199829144
+96131,comment,96010,96010,0,0,iamwil,,,"In all fairness, I guess it depends on what you need to do.  For the vast majority of the day to day coding, it involves more of the architecturing and creative and puzzle solving side that joel talks about.<p>However, if an abstraction breaks down, you'll need to have a deeper understanding of the innards, which a sound theory can only help the deeper down you go.  I think this is even more applicable if you're using something based on math that isn't as mature of a technology (which means they're not a commodity and you'll probably have to fix it if it goes haywire), such as machine learning techniques or computer vision.<p>How often would that happen?  Not very often.  But when it does, and you have the background to learn, understand, and fix it, that'll make all the difference between you and the next guy.",1199828568
+96130,comment,95903,95903,0,0,tallpapab,,,"56 - It has been and continues to be fun. I started in College in 1969 in a physics class. ""There's a computer down the hall (IBM 1130, cards, FORTRAN). Go figure it out and analyze your experiments."" Since then I have been learning non-stop. I got my degrees in Math, but have had to learn about programming developments for decades. The other fun thing is that I have had to learn about what my users are doing: pharmaceuticals, banking, electric power, genomics, among others. I'm so rich. Enough money, great family, ever stretching horizons.",1199828566
+96129,story,,,2,1,immad,"Video Interview:  Robert Scoble, top tech blogger, talks about Europe and Video","http://us.intruders.tv/Robert-Scoble,-top-tech-blogger,-talks-about-Europe-and-Video_a201.html",,1199827809
+96128,comment,93413,93423,0,0,dkberktas,,,"I have one 22 inch at home. During nights I can use this but at office hours (I mean normal day time)  I should depend on laptop screen. I guess the optimal is 13.3 considering weight and screen resolution",1199827706
+96127,comment,96025,96025,0,0,ntoshev,,,"What is ""enterprise internet search""?",1199827562
+96126,comment,96010,96010,0,0,comatose_kid,,,"I wonder if the focus/content of an undergrad program really influences the outcome for whether or not person x will be a  great programmer.<p>Many great programmers began before university, and many didn't attend university at all (John Carmack immediately springs to mind).",1199827553
+96125,comment,95857,95857,0,0,shayan,,,"Thanks Sam, its nice of you to put in the time and type this up.  And all the best.",1199827445
+96124,comment,96057,96115,0,0,akkartik,,,Yes!,1199827307
+96123,story,,,1,2,shayan,"Ask YC: when is the next round of funding?",,"I am curious to know when the next round of funding is, and when would the cycle start?  My guess was sometime in March is the application dates and the cycle would start end of June in Boston.<p>For those that are interested to apply I believe it would be nice to have some solid dates to make sure it wont be missed.<p>I think any sort of guide lines for the future applicants would be helpful, in order to plan things right and as early as possible.<p>Thanks in advance",1199827248
+96122,comment,96057,96090,0,0,marketer,,,"I think this is the best way to go. There's no reason that you should be scraping HTML from sites, when there might be a nice xml feed available. For instance, pricegrabber will only index your site if they have prices in XML.",1199827245
+96121,comment,96119,96119,0,0,hhm,,,"And the paper is available here: <a href=""http://www.cse.psu.edu/~furer/Papers/mult.pdf"" rel=""nofollow"">http://www.cse.psu.edu/~furer/Papers/mult.pdf</a>",1199826747
+96120,comment,95986,95986,0,0,mattmaroon,,,"""It seems to be one of those great ideas that sounds good but never catches on - a lot like BlueTooth.""<p>wtf? I think it's safe to say Bluetooth caught on.",1199826694
+96119,story,,,12,3,hhm,"Computational Breakthrough: Faster Integer Multiplication [pdf]",http://www.cse.psu.edu/~furer/Papers/mult.pdf,,1199826666
+96117,comment,96010,96049,0,0,geebee,,,"one confounding factor is that software development, even more than programming, is a creative art with vague parameters.<p>I still remember visiting a music store and seeing this dude take a guitar off the wall and blow everyone away with his talent.  The things he could do with his fingers were amazing.  He was probably a better guitarist than Dylan, Lennon, and Springstein.  He was certainly a better guitarist than Andre3000, who (I read somewhere) used G, C, and E minor as the basis for ""Hey Ya"" because they were the three chords he knew how to play on the guitar.<p>Unlike the musicians mentioned above, he was also available for private beginner lessons ;)",1199826351
+96116,comment,96079,96079,0,0,immad,,,"Evan gave a talk on this at Le Web 3.0. It was short and sweet. I liked it, it makes the point well. Found the video online: <a href=""http://light.vpod.tv/?s=0.0.392057"" rel=""nofollow"">http://light.vpod.tv/?s=0.0.392057</a>",1199826217
+96115,comment,96057,96097,0,0,yubrew,,,dapper.net,1199826021

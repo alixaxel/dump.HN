@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+36304,story,,,13,3,mmpcse,"MIT's: $100 Laptop Production Begins",http://news.bbc.co.uk/1/hi/technology/6908946.stm,,1185266526
+36303,comment,36276,36276,0,0,Keios,,,"Winter 2008 or summer 2009 is too far out. Work expands to fill time after all. If you aim for Summer 2008 you might be able to do this better.",1185265968
+36301,story,,,1,0,tomh,"10th annual ICFP post-mortem",http://blogs.msdn.com/cashto/archive/2007/07/23/the-icfp-10th-annual-programming-contest.aspx,,1185265363
+36300,comment,36224,36224,0,0,zach,,,"I cannot read the name of this program without imagining it spoken by Inspector Gadget.",1185264118

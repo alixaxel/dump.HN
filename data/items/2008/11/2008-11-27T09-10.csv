@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+378567,comment,378452,378540,0,0,kqr2,,,"Actually, the Apple II/II+ introduced in the late 1970s was quite open and a period of innovation for home computing.  Apple even included the schematics as well as source code listing for their basic interpreter.<p><a href=""http://en.wikipedia.org/wiki/Apple_2"" rel=""nofollow"">http://en.wikipedia.org/wiki/Apple_2</a>",1227779938
+378566,story,,,8,0,imjustcreative,"25 Different Uses For FriendFeed",http://www.louisgray.com/live/2008/11/25-different-uses-for-friendfeed.html#,,1227779908
+378565,comment,378424,378424,0,0,Eliezer,,,Python.,1227779838
+378564,comment,378278,378278,0,0,Feynman,,,"D'oh! Intel only! :/",1227779711
+378563,comment,378179,378553,0,0,ars,,,"No, it's not downvotes, it's time - I think you get around 1 hour to edit or delete it.",1227779608
+378561,comment,378423,378423,0,0,ars,,,"Sorry, but that article is just silly, overblown, pointless drama.<p>Or was that the point? It reads like someone was trying to dramatize something as a challenge or something.<p>Who's the audience? Anyone who actually programs would not be interested, anyone who doesn't would not understand it.",1227779525
+378560,comment,376831,376994,0,0,known,,,"Open source + Patents = Intellectual Property<p>Closed source + Patents = Oxymoron",1227779348
+378559,comment,378424,378424,0,0,gaius,,,"Thing with Python is that it combines a shallow learning curve with very quick payback. You can use it as a glorified shell script if you want, and very quickly get something useful done, then anything you learn will have an immediate application to your next project. That's how I got into it. Then you go back and realize, hey, this for loop would be better as a list comprehension, these functions would work better together if I put them in a class, and refine your code.",1227779285
+378558,comment,376831,376903,0,0,known,,,"If I have seen further it is by standing on the shoulders of giants. -- Isaac Newton",1227779087
+378557,comment,378497,378497,0,0,maurycy,,,"Privacy: leaks of logs, archived Facebook profiles etc.",1227778621
+378555,comment,377991,378324,0,0,gaius,,,"I suppose it depends if you're in an ""at will"" state or not.",1227778059
+378554,comment,378497,378536,0,0,ars,,,"Why do you think that? Even a full scale nuclear war would not erase all of humanity, and compared of the past right now is the least likely of all time periods for major disasters like that to happen.<p>I can't think of anything that could happen right now that would wipe out all of humanity. Even a massive asteroid wouldn't.<p>(Note: I mean _all_, lots of disasters could of course affect many people in various places.)",1227777460
+378553,comment,378179,378484,0,0,unalone,,,"Not after you're downvoted to a certain degree. Otherwise I'd have deleted it outright and made a better comment.",1227777405
+378552,comment,373014,373014,0,0,Dippid,,,"That statement is probably less that a half truth. ""Flipkart focuses mainly on best sellers"" is a valid comment, assuming you follow the 80/20 Pareto Principle. If you're one of the 80% who buy Bestsellers (20% of all books...hypothetically), guess it makes sense. But an online bookstore by its very nature cannot be restrictive. I doubt Flipkart is.",1227777175
+378551,comment,378497,378497,0,0,ars,,,"Here's some stuff that would cause a problem is they happened, but that I don't think will happen:<p><pre><code>  Mind body transfer
+  People living forever
+  Artificial wombs
+</code></pre>
+Here's some that might happen:<p><pre><code>  Prenatal genetic selection, or alteration
+  Human cloning
+  Very expensive treatments that can not be afforded by many
+  Having children very late in life (i.e. within
+  a decade or two of expected death)
+</code></pre>
+I don't know if it's possible to get it, but try to watch the show Century City, or at least read episode synopses. Your question is the premise of the show.",1227777161
+378550,comment,378021,378178,0,0,tlrobinson,,,"Indeed, without the media terrorism wouldn't be nearly as effective. Who would tell us to be afraid?",1227777112
+378549,comment,376831,378474,0,0,cschwarm,,,"Sorry for the misunderstanding. I thought you meant selling open source, in general, not just to end users.<p>You know, I'm glad you submitted your post here. I'm currently working on an article about a similiar topic. The discussion has been very helpful.<p>Would you mind if I contact you directly using your support E-Mail adress? I'd be really interested in your feedback.",1227777079
+378548,comment,377865,378022,0,0,pclark,,,"could I have an invite? peter [at] omgponi.es",1227777061
+378547,comment,377865,377977,0,0,pclark,,,"how does it know what is ""humor"" etc?",1227776970
+378546,comment,363,363,0,0,rms,,,"Javascript buttons to collapse comment threads.",1227776888
+378545,story,,,5,0,bdfh42,"Asynchronous High Performance Login for Web Farms",http://dobbscodetalk.com/index.php?option=com_myblog&show=Asynchronous-High-Performance-Login-for-Web-Farms.html&Itemid=29,,1227776464
+378544,comment,378424,378424,0,0,rksprst,,,"Just start working on a project and figure things out as you go.",1227776446

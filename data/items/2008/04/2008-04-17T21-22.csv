@@ -1,0 +1,63 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+166728,comment,166557,166710,0,0,xlnt,,,"doesn't in-browser pdf viewing suck apart from safari?",1208469506
+166727,comment,166559,166633,0,0,yters,,,"I'm surprised emacs shows up so much.",1208469449
+166726,comment,166540,166540,0,0,yters,,,"""in a nutshell points systems are an ingenious way of taking something with no tangible value and turning it into a prized virtual currency of sorts""<p>How is this different than most things we consider most valuable?",1208469315
+166725,comment,166626,166626,0,0,vsingh,,,"This is neat stuff. Coincidentally, I just submitted my undergraduate thesis today, on the topic of carbon nanotube transistors. Our devices use multi-walled nanotubes, which are ~50nm in diameter. These things look to be an order of magnitude smaller than that.",1208469303
+166723,comment,166559,166559,0,0,lg,,,"94 cd
+73 ls
+64 sudo
+30 nano
+21 java
+13 gawk
+13 echo
+11 ps
+11 killall
+8 clojure<p>java surprised me.",1208469224
+166722,comment,166271,166408,0,0,bayareaguy,,,"Can you provide a more explicit example, perhaps a Stackless alternative to one of the ones from Beazley's page?",1208469202
+166721,comment,166219,166550,0,0,Goladus,,,"The core functionality of facebook involves personal profiles that people log into.  One must join facebook and volunteer personal information.  This is the entire basis of facebook's value, without that it's nothing.<p>In order to interact with these users, you must use Facebook's API, you must use the protocols they decide to support, and you must interact with their servers.  It does not matter whether they are open or not, what matters is who controls them.<p>In order to exploit users using Microsoft operating systems, you had to use their API and you had to use the protocols they decide to support.<p>Google made it to the top and stayed there by being the best at what they did, and figuring out a good way to make money off it.  If Facebook wins it will be because they've managed to get enough people hooked to their network and unable to leave without consequences, much the same way people wouldn't switch away from Windows in the 90s.<p>For the record, I don't think Facebook is going to become the next Microsoft.  That's just where they're headed if they manage to pull it off.",1208469142
+166720,comment,166559,166559,0,0,ingenium,,,"85 cd<p>59 ls<p>47 sudo<p>47 ssh<p>20 man<p>15 cat<p>14 rm<p>12 ping<p>11 ps<p>11 ./configure",1208469108
+166719,comment,166449,166572,0,0,yters,,,"""Do the Right Thing.""<p>""Be smart, not dumb.""<p>I think I've just solved the world's problems.",1208469053
+166718,comment,166683,166714,0,0,pius,,,Doh!,1208468980
+166717,story,,,23,10,gregory,"Joel Spolsky on exactly how much money it took to start Fog Creek",http://www.venturevoice.com/2008/04/joel_spolskys_first_time_raisi.html,,1208468930
+166716,comment,166559,166559,0,0,xlnt,,,"lots of aliases. r is ruby. open is like double clicking something in the mac finder, i quite like it.<p>128 p4
+83 r
+47 p4o
+27 p4ch
+23 rakts
+22 curl
+19 cap1d
+18 ssh
+13 script/scrape
+12 open",1208468661
+166715,comment,166393,166596,0,0,SwellJoe,,,"I have to agree here on cost...broadcast television effectively gets its bandwidth for free.  Then again, with peering deals, Google is probably getting it for pretty close to free.<p>What changes is the competitive landscape--when there are a billion videos to choose from, as opposed to 20 or 50 or even 100 found on broadcast or cable or satellite, the eyeballs on any one drop.  Obviously the aggregator is the natural place to sell the ads (bully for Google), but the ability to focus efforts on ""blockbuster"" shows is a bit different.  I worked in television for several years right out of college, and blockbusters are a major part of the operating budget of a TV station because it's a limited commodity--if you want to advertise during Lost, you've only got one company to buy from and there's only a couple dozen slots for sale.  Cheaper spots are actually often more effective (since you can run them a lot more and get a single viewer to see your ad multiple times), but there's still magical thinking in TV advertising and advertisers like to reach the blockbuster audience.  When the blockbuster no longer exists (as seems likely in a future of a billion+ possible videos), monetization will shake out differently.  But advertising isn't going away, so something will happen and it'll all work out somehow.",1208468566
+166714,comment,166683,166683,0,0,randallsquared,,,"It might, but that doesn't mean that.  It just means that Apache was built with PHP support, as it almost always is.",1208468556
+166713,comment,166655,166704,0,0,Readmore,,,"I'm in Oklahoma City, maybe we should get a Oklahoma Texas group together.",1208468526
+166712,comment,166449,166449,0,0,redorb,,,"8 hour work days go against my natural time clock. I got my boss to agree to let me work when Im ready (around 9.30am and get off when Im ready 3-5pm) ... and it has been mutually beneficial",1208468467
+166711,comment,166693,166695,0,0,Sam_Odio,,,"I couldn't think of a 4th YC startup with traffic close to scribd's.  We hear about loopt a lot, so I just thought I would add it for comparison.<p>This wasn't intended to be a comparison of the popularity of the services.  I posted the link because I hadn't before realized how large scribd's web presence is.",1208468249
+166710,comment,166557,166644,0,0,ken,,,"Can you explain the magic?  I just don't get it.  (Maybe I am stupid; I'll admit that much.)<p>From what I've seen, it looks like a Flash plugin to view PDFs.  It breaks my scroll-wheel and keyboard shortcuts, uses funny-looking controls, and it takes as long to load the Flash plugin as it would have to just load the whole PDF.  I always edit the URL so I can view the PDF normally.  I don't know why I'd want to do this to my users.",1208468130
+166709,story,,,1,0,pius,"Toshiba updates its Qosmio and Dynabook offerings, elicits yawns, naps",http://www.engadget.com/2008/04/17/toshiba-updates-its-qosmio-and-dynabook-offerings-elicits-yawns/,,1208468067
+166708,comment,166476,166476,0,0,technoguyrob,,,"<i>But then again, when Google first wrote up its corporate philosophy, it said that the company ""does not do horoscopes, financial advice or chat.""</i><p>For ""horoscopes"", they linked to a Google module by a non-Google developer (californiapsychic.com).",1208468017
+166707,comment,166481,166508,0,0,rokhayakebe,,,"constructive criticism  please.",1208467930
+166706,comment,166340,166701,0,0,emmett,,,"And don't forget the $3000 in consulting fees charged for integration!",1208467877
+166705,story,,,34,7,mcxx,"Mod_js: Server-side JavaScript",http://www.modjs.org/,,1208467713
+166704,comment,166655,166655,0,0,aggieben,,,"Hear, hear!  Exactly what I'm looking for.  Come to Dallas, baby.  Rockwall would be even better (can't come all the way out where I am cuz I live in a dry county!).",1208467684
+166703,comment,166340,166401,0,0,justin,,,"The reason we sold Kiko on Ebay is because big companies we were talking to would have been willing to consider buying the company for a bit more, but only if Emmett and I went to work for them for some n years. Because (Total Amount of Money) / n wasn't very much, we said ""fuck it"" and just went for broke, so that we could work on our much more awesome idea, which turned out to be Justin.tv.",1208467669
+166701,comment,166340,166463,0,0,justin,,,"$258.1k, let's not short change ourselves :D",1208467455
+166700,comment,166219,166661,0,0,yters,,,"Seriously, why doesn't everyone believe this?  I've googled HN and the web, and I'm not seeing a lot of people pointing out the F+L duo.  The user base is minimal for the Loopt Facebook app.  As far as I can tell, I'm not making an obvious statement.<p>I don't get it.  These two technologies together answer The question of the internet.",1208467391
+166699,story,,,1,0,blackswan," Scott and Shackleton's abandoned huts in Antarctica",http://fogonazos.blogspot.com/2008/03/scott-and-shackletons-abandoned-huts-in.html,,1208467239
+166698,comment,165279,166274,0,0,yters,,,"That would be a problem if the decision is technology centered.  But, it isn't.  Technology is only incidental to making HN membership more challenging, and making a certain technology the de facto standard is anti-thetical to challenge.<p>See why Fisher thinks chess is dead.",1208467213
+166697,comment,166481,166690,0,0,parker,,,"Man, I wish I could say the design was intended to be like something that cool!  Alas, it's just a case of 'don't bite off more than you can chew' of working within my abilities.  But that army man looks really cool.  The best comedy is spartan in its presentation anyways ;)...<p>I look forward to your contributions.  The Chum will basically turn into a chaotic comedy twitter I hope...",1208467164
+166696,comment,166693,166693,0,0,noodle,,,"1) alexa? c'mon.<p>2) scribd is much more search engine friendly than almost any other application i know.  i find results for them all the time on random crap i search for.  to note, it almost never actually helps me with the information i'm searching on, but it does get me to view their page.<p>3) reddit is more meta-oriented and niche.  loopt is cell phone stuff.  weebly is a service provider, if you don't want their service you won't hit their page.  justin.tv is competing with giants.  scribd has a sweet spot almost designed for traffic generation.",1208467164
+166695,comment,166693,166693,0,0,pg,,,"Loopt is a cell phone application. People don't use it by going to the web site.",1208466973
+166694,comment,166559,166559,0,0,dangoldin,,,"On one machine:<p>291 nice<p>93 cvs<p>17 .<p>15 pwd<p>13 emacs<p>10 cd<p>9 perl<p>9 export<p>7 find<p>6 cp",1208466941
+166693,story,,,15,8,Sam_Odio,"Scribd web traffic higher than its YC peers (based on alexa data)",http://www.alexa.com/data/details/traffic_details/scribd.com?site0=reddit.com&site1=scribd.com&site2=loopt.com&site3=justin.tv&site4=weebly.com&y=r&z=3&h=300&w=610&u%5B%5D=reddit.com&u%5B%5D=scribd.com&u%5B%5D=loopt.com&u%5B%5D=justin.tv&u%5B%5D=weebly.com&x=2008-04-17T20%3A30%3A49.000Z&check=www.alexa.com&signature=WyZq9KwNca%2FLk9rz92ZBplUyHiM%3D&range=max&size=Medium,,1208466874
+166692,comment,166557,166638,0,0,mhartl,,,"They're #2 according to the article.",1208466702
+166691,comment,166340,166533,0,0,zkinion,,,"Heh, I found this thread off of vwag.<p>Eh, give him a break.  He's probably been coding all day.",1208466553
+166690,comment,166481,166549,0,0,jprobitaille,,,"Have any of your designer friends ever seen an issue of Army Man (<a href=""http://en.wikipedia.org/wiki/Army_Man"" rel=""nofollow"">http://en.wikipedia.org/wiki/Army_Man</a>)? That was the first thing I thought of when I saw the page.<p>Anyhow, It looks like a really cool idea. Count on me to toss in some chum soon.<p>J",1208466484
+166689,comment,166607,166607,0,0,gruseom,,,"Andrew Sullivan",1208466458
+166687,comment,166669,166677,0,0,davidw,,,"It's also old, and I think it's made the rounds here before.",1208466426
+166686,comment,166481,166481,0,0,poppysan,,,"Great idea, The look---not so much.  It is a jumble of text and bright colors which confuses me (I had ape-brain transplant).  So if you want to make an improvement, I'd start there.  Otherwise, Great!",1208466197
+166685,story,,,7,0,riskish,"Startup School (2005-2008) Notes and Reviews",http://www.mahalo.com/Startup_School,"A resource page for startup school, links to a lot of old slides, reviews, and official information. Feel free to start a discussion about startup school in the discussion area.",1208466146
+166684,story,,,14,6,garbowza,"Google Profit Exceeds Forecast",http://www.nytimes.com/reuters/technology/business-google-results.html,,1208466142
+166682,comment,166626,166668,0,0,Panoramix,,,"Will hope that it is a major breakthrough, or will say it is a major breakthrough in order to get more funding.
+One problem is that in science there are (for the most part) no major breakthroughs, but a lot of very small breakthroughs which when put together make up a major one. But journalists are not interested in that, they just want to report the apple falling on Newton's head - which is not accurate most of the time.",1208466043

@@ -1,0 +1,55 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+115814,comment,115800,115800,0,0,msteigerwalt,,,"Easiest way is to just ask really simple technical questions in the submission area as a captcha.<p>Not sure which technical questions would be 100% answerable to everyone around here, but it is Hacker News.",1203001153
+115813,comment,115338,115556,0,0,jcl,,,"You are implying there is some relation between the price of Windows and the amount of work that goes into it.  Given the size of their war chest, one could argue that they <i>already</i> charge much more than their software costs to produce.",1203001136
+115812,comment,115350,115357,0,0,eusman,,,"the man asking the guy to sit down is saying it in a way ""i know you are right, I was wrong, there is no other way to say it because I am so stubborn everyone hates me, but lets do business""",1203001090
+115811,comment,115338,115338,0,0,wallflower,,,"I highly recommend 
+Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
+<a href=""http://www.amazon.com/Show-Stopper-Breakneck-Generation-Microsoft/dp/0029356717"" rel=""nofollow"">http://www.amazon.com/Show-Stopper-Breakneck-Generation-Micr...</a><p>Fun drama like a C++ programmer spending months to get a simple window to appear on screen (e.g. building the Win32 API). Dave Cutler from DEC throwing things.",1203001043
+115810,comment,115515,115515,0,0,forsaken,,,"BeautifulSoup is amazing. Django is as well (if that counts)",1203001004
+115809,comment,115723,115723,0,0,izak30,,,"authorize.net supports subscriptions.  it's pretty easy to manage, but I don't know if its the cheapest (it's at least reasonable for our needs, and easy, which is more important than cheap to me most of the time.)",1203000867
+115808,story,,,2,2,jmorin007,"Color matters",http://sethgodin.typepad.com/seths_blog/2008/02/color-matters.html,,1203000840
+115807,comment,115800,115800,0,0,mixmax,,,"I was just about to submit an entry on this but you beat me to it :-)<p>If it persists it should definitely be adressed - one of the great things about this place is the high signal to noise ratio and I would hate to see that drop.<p>But since PG basically invented bayesian spam filtering I am sure that it can be solved. If he isn't too busy doing arc that that is. ;-)",1203000834
+115806,comment,115723,115723,0,0,showerst,,,"Authorize.net seems to be the bigdaddy in the space, and in my experience they're a pain to set up, but service is fine once you've obtained an account and wrapped your head around thier Extensive but hard to navigate documentation/API.<p>They also offer options of writing your own form and CURLing them to submit the data, or using one of thier forms, and they offer pretty good payment tracking (including search by cc data, and quickbooks files).<p>Not sure about thier price point, but the few credit-card processing businesses i've worked with have all chosen it prior to my involvement, so i assume it's a good 'safe' choice.",1203000828
+115805,story,,,1,0,jmorin007,"YouTube's Tweaks: Analytics, ""Sharing"" ",http://www.alleyinsider.com/2008/2/youtube_s_videocracy__the_details,,1203000780
+115804,story,,,1,0,polar,"Best Practices for XML Internationalization",http://www.w3.org/TR/2008/NOTE-xml-i18n-bp-20080213/,,1203000702
+115803,comment,115626,115626,0,0,mpc,,,"I really feel like it's inevitable that stuff like this is going to catch on in a major way.<p>I think that an app that would allow people to create one-off games and polls could be even more popular.<p>Nice work!",1203000679
+115802,comment,115444,115444,0,0,a-priori,,,"Picked it up about a year ago, and I've read it twice now. I lent it to my partner when we went into business together... she hasn't returned it yet. I don't know if that's a good sign or not. :)",1203000576
+115801,comment,115723,115724,0,0,LostInTheWoods,,,"Paypal does support subscriptions. But yeah, it is pretty rudimentary.",1203000377
+115800,story,,,30,66,pius,"Ask.YC: Spammers have finally hit News.YC -- what do we do about them?",,"DNS Blackhole anyone?  Here are the top 10 newest stories at the time of writing.<p>1.	
+	Hottest Artist Out Alicia Keys (aliciakeysvideos.net)
+	1 point by 1podgirl 4 minutes ago | discuss<p>2.	
+	Shrek 4 or the tv show? (eddiemurphyblog.net)
+	1 point by 1podgirl 5 minutes ago | discuss<p>3.	
+	American Gangster released on dvd (denzelwashingtonblog.com)
+	1 point by 1podgirl 6 minutes ago | discuss<p>4.	
+	Rihanna in a Video did you see it (rihannavideos.net)
+	1 point by 1podgirl 7 minutes ago | discuss<p>5.	
+	The true meaning of Testimony (testimonyblog.net)
+	1 point by 1podgirl 8 minutes ago | discuss<p>6.	
+	Urban Poetry (defpoetryjamvideos.net)
+	1 point by 1podgirl 9 minutes ago | discuss<p>7.	
+	For All The Treky Fans (startrekvideosclips.com)
+	1 point by 1podgirl 10 minutes ago | discuss<p>8.	
+	Updates on the New Star Wars (starwarsvideos.net)
+	1 point by 1podgirl 10 minutes ago | discuss<p>9.	
+	All Free Def Comedy Jam Videos (defcomedyjamvideos.com)
+	1 point by 1podgirl 11 minutes ago | discuss<p>10.	
+	Heres that site I told you about it should me how to master Madden (xbox360cheatsblog.com)
+	1 point by 1podgirl 13 minutes ago | discuss<p><i></i><i></i><i></i><i></i>*<p>user:	1podgirl
+created:	18 minutes ago
+karma:	1",1203000263
+115799,comment,115723,115724,0,0,NoBSWebDesign,,,"I don't think they have that option, but I haven't looked in a couple years.<p>I generally try to stay away from PayPal, because they're not a bank. Their user agreement states that they're not liable or responsible for ""lost"" funds, and I've heard of people getting burned by that. If you use them, I would advise withdrawing often.",1203000240
+115798,story,,,1,0,jkush,"The Battle of The Century",http://robertreich.blogspot.com/2008/02/battle-of-century.html,"There's a little bit of politics involved, but he says some interesting things about Microsoft and Google.",1203000206
+115797,comment,115338,115664,0,0,dreish,,,"""I love seeing a document get bigger and bigger, more detailed and with more things written inside.""<p>I love how it's sprinkled with Microspeak as he describes this soul-draining bureaucracy: ""cool"", ""great"", ""passion"", ""innovate"", ""exciting"".  They're really passionate about meetings, emails, and bigger and bigger documents over at Microsoft.<p>And on being able to start with a blank page for this spec that he's spending so many hours in meetings and writing emails to put together, rather than having to fill out a form, he says, ""I don’t know about you, but I really love this kind of freedom!""",1203000199
+115796,comment,115776,115776,0,0,NoBSWebDesign,,,"Funding and outside influences aside, writing a business plan is still one of the most important aspects of developing your product. When working on an idea, if my product isn't important enough to warrant a couple days pouring over the market research and putting something together, then the idea isn't worth developing.<p>This is especially true if you have more than one person working on the project. You need to make sure everyone stays focused on the big-picture goal, and that everyone is equally aware of the target market and projections for the company. You don't have to get incredibly specific in the plan though. Feature changes shouldn't need to be included in updates to the plan. But if your project is changing directions or target market, then the changes should be researched and plan updated accordingly.<p>That being said, I almost always leave out financial projections until later in the game after v1 has been launched, because even most investors will know that this section is complete BS before that point.<p>Oh, and all of this should of course be filed under ""IMO"".",1202999970
+115795,comment,115782,115782,0,0,rms,,,"look, there's no pagerank to be had here, so it's really not worth submitting links that aren't relevant. Things that are relevant are startups and programming.",1202999941
+115784,story,,,8,1,edw519,"Atomic Commit In SQLite",http://www.sqlite.org/atomiccommit.html,,1202999271
+115783,comment,115723,115724,0,0,bwah,,,"From my experience, there is no way to adjust a subscription up or down once it is initiated through Paypal.",1202999243
+115781,comment,115776,115776,0,0,mixmax,,,"To add a bit to the above.<p>Having done startups with investors I know that formal business plans are invaluable to them, preferably printed on nice glossy paper with lots of whitespace and nice pictures.<p>But when it comes to actually doing what is stated in the businessplan after you have your funding things seem to change so fast that either you have to spend a lot of time updating it, or else just leave it and go and make your product work.<p>I tend to opt for the latter.",1202999151
+115780,story,,,2,0,estherschindler,"Enterprise 2.0: Five Innovations CIOs Shouldn't Miss",http://www.cio.com/article/183200,,1202999088
+115779,story,,,3,2,ilamont,"Why 'home server' products from Microsoft, Apple, et al are doomed",http://www.thestandard.com/news/2008/02/12/home-server-your-pocket,,1202999083
+115778,story,,,2,0,jmorin007,"Playboy To Leverage Online and Mobile for Company Growth",http://www.centernetworks.com/playboy-online-mobile-growth-drivers,,1202998518
+115777,comment,115524,115735,0,0,eusman,,,"i think they are doing the question more because of general excitement for their venture, than need of an answer",1202998484
+115776,story,,,8,21,mixmax,"Ask YC: do you have a business plan?",,"Do you have a formal business plan with budgets, market research, marketing plan, etc. or do you simply have an idea that you work on, hoping that somebody will like what you build?<p>Personally I write concept papers that discuss what the product is, why it is great, who will use it, and a rought sketch of where the money will come from.<p>What do you do ?",1202998439
+115775,comment,115444,115563,0,0,edw519,,,"2 chicks",1202998435
+115774,comment,115627,115627,0,0,edw519,,,"""Our modern day best-and-brightest built Microsoft Windows Vista (TM).""<p>They also built AutoCAD, ecommerce, Google maps, and put personal communication devices in a billion pockets.  (And hacker.news too!)<p>Not fair to use Microsoft for comparisons in the history of computing.  It is an aberation that achieved financial success not through technical excellence, but by building a monopoly with unfair business practices and legal and political maneuvering.",1202998257

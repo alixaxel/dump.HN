@@ -1,0 +1,25 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+335458,comment,334321,334593,0,0,pmjordan,,,"Just use a GPG frontend. Like many GNU tools, I don't think it's indended to be used on its own, but designed to be integrated into a bigger solution.",1224237563
+335457,comment,334321,334732,0,0,pmjordan,,,"I actually use Enigmail (although only for signing, as nobody else I know even has a public key) but FireGPG looks damn cool. I've been wondering for a while how best to handle webmail encryption, given that you <i>don't</i> want the server involved. Looks like they've nailed it with FireGPG.",1224237490
+335456,comment,334457,334850,0,0,michaelneale,,,"> I got used to the idea that somebody, somewhere in the project, feels that the sky is falling and the project's about to end<p>yes I go through that on a weekly basis. Its mild manic depressive, but you can ignore people like me. Fight on.",1224237298
+335455,comment,335185,335185,0,0,sireat,,,"Interesting article, but it does not prove the assertion in the title.<p>Grigori Perelman was already exceptional in his teens.<p>If one does not get the basics(meaning calculus, linear, discrete math) down pat by 20, IMHO, one doesn't have much of a chance at serious math discoveries by later age.",1224237135
+335454,story,,,8,3,qhoxie,"Semantic Web: Making Advertising More Relevant to Consumers",http://www.readwriteweb.com/archives/semantic_web_advertising.php,,1224237073
+335453,story,,,6,0,pistoriusp,"Review roundup: T-Mobile's G1, the first Android-based handset",http://www.appleinsider.com/articles/08/10/16/review_roundup_t_mobiles_g1_the_first_android_based_handset.html,,1224236795
+335452,story,,,95,55,kradic,"Warren Buffett editorial in NYT: Buy American. I Am.",http://www.nytimes.com/2008/10/17/opinion/17buffett.html?_r=1&oref=slogin,,1224236526
+335451,comment,334457,335364,0,0,netcan,,,bite?,1224236490
+335450,story,,,5,2,kradic,"Re-analysis of vials sealed in 1953 shows Miller-Urey more successful than they knew",http://scienceblogs.com/pharyngula/2008/10/old_scientists_never_clean_out.php,,1224236354
+335449,comment,334679,334679,0,0,wlievens,,,"In some applications (games) you want a way to enforce that a single person has only one account. I know email verification is only a weak way of enforcing that, but it helps somewhat.",1224236276
+335446,story,,,2,0,Anon84,"Do you do it for love?",http://scienceblogs.com/cognitivedaily/2008/10/do_you_do_it_for_love_or_is_se.php,,1224236006
+335445,story,,,21,8,ksvs,"Unexploded Bombs in Germany: The Lethal Legacy of World War II","http://www.spiegel.de/international/germany/0,1518,584091,00.html",,1224235956
+335443,comment,335096,335096,0,0,johnyzee,,,"Sounds great - let us know how it goes!",1224235794
+335442,story,,,4,0,ksvs,"Shocker: Tribune Co. Gives Notice To Drop AP",http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1003874855,,1224235488
+335441,story,,,7,1,ksvs,"The gene mutation that made humans smart?",http://www.physorg.com/news97825267.html,,1224235292
+335440,comment,334457,335113,0,0,swombat,,,"<i>people from the US need to understand that when you argue that it is right for you to be 'the superpower' you are also arguing that the rest of the world should be subservient</i><p>I'm not American. Not one bit.<p>Except in the sense that we in the western world are all americans to some extent.<p>Also, although America may not be very good at holding up to its own promise, at least it symbolises freedom, democracy, etc. If America's not the superpower, who do you suggest? China? Russia?<p>America may have flaws, but, like capitalism and democracy, it's still better than the alternatives.",1224235276
+335439,story,,,3,1,prakash,"Digital Thinking at Rhode Island School of Design",http://www.fastcompany.com/node/1007032/print,,1224235209
+335438,comment,334457,335256,0,0,pg,,,"No; large empires generally collapse from within.<p>But Constantinople was by no means an empire when the Ottomans took it.  By that point it had shrunk to a 
+mere town.",1224235027
+335437,story,,,2,0,manipal,"Ubuntu, a powerful and free operating system.",http://www.nichea.info/2008/06/ubuntu-powerful-and-free-operating.html,,1224234411
+335436,story,,,2,0,manipal,"Battlefield: Bad Company, one of the best summer games.",http://www.youtechno.info/2008/07/battlefield-bad-company-one-of-best.html,,1224234214
+335435,story,,,5,0,JulianMorrison,"Traditional Capitalist Values",http://www.overcomingbias.com/2008/10/traditional-cap.html,,1224234005
+335434,comment,334491,334887,0,0,pygy,,,"Rather perfectly modal 
+...<p></nitpick>",1224234003

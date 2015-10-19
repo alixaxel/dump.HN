@@ -1,0 +1,76 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+18802,comment,18531,18531,0,0,pg,,,"Anyone else keep seeing a jockstrap when they look at the logo?",1178132192
+18801,comment,18652,18776,0,0,AF,,,"Please tell me what is wrong with my statement.<p>I don't think it of respectful users, I think it of Digg users, which have never been shown to be intelligent or respectful of either the web site they use or anyone else for that matter.",1178131879
+18800,comment,18590,18709,0,0,nostrademons,,,"But any sequence of text can be represented as a number, given a suitable encoding.  And that number will show up in the decimal expansion of pi somewhere.  So clearly, text should not be copywritable either.<p>I think I need to link to ""What Colour are you bits?"" ( <a href=""http://ansuz.sooke.bc.ca/lawpoli/colour/2004061001.php"">http://ansuz.sooke.bc.ca/lawpoli/colour/2004061001.php</a> ) again, just because the issue is so confused.  Basically, it boils down to humans' conception of reality being incorrect, so things like authorship are assumed, even though there's no unforgeable way to represent them in reality.",1178131270
+18799,comment,18742,18742,0,0,dss,,,"Would anyone be so kind as to share an invite?  dss at orst dot edu.  Thanks.  
+",1178131263
+18798,comment,18675,18725,0,0,fmu,,,"i don't think a single employee will ever get 10-20% of the company",1178131150
+18797,comment,18796,18796,0,0,chwolfe,,,"Specifically has anyone used OpenLaszlo in an environment with Django, Ruby on Rails, etc? ",1178131093
+18796,story,,,1,1,chwolfe,"Experiences with OpenLaszlo",,,1178130923
+18795,comment,18590,18734,0,0,nostrademons,,,"More fancifully, what happens when someone decides to copy themselves, and copy themselves, and copy themselves, until they account for more than half the population of the earth, and then vote in a change of the property laws such that copying is not theft...",1178130907
+18794,comment,18596,18596,0,0,omouse,,,"Bah, lack of innovation is causing the rapid decline. And have you seen how crap dating sites look in comparison to Facebook?<p>",1178130791
+18793,comment,18674,18759,0,0,nostrademons,,,"The board, however, can direct attention toward fixing the broken product.  From the article, it sounds like Friendster's board didn't do this.  Instead of focusing their attention on fixing performance problems and making the site usable, they had pie-in-the-sky notions of beating Google and Yahoo and getting into the VOIP space.<p>One of the best pieces of engineering-management advice I ever got goes like this: ""Engineers do what you tell them to do - repeatedly.""  If the board is spending all its time thinking about cool new features, the engineers will implement cool new features.  If the board starts talking about performance and communicates that downwards, the performance issues will get fixed.<p>Remember how Microsoft won the browser wars: Bill Gates took all the company's best developers, put them on the IE team, and refused to speak to anyone unless it was about the Internet.  That's the kind of single-minded focus you need to turn a company around.",1178130327
+18792,comment,17679,18748,0,0,juwo,,,"but underlying it is a turing machine, right?",1178130315
+18791,comment,18596,18661,0,0,omouse,,,"Not different industries maybe, but certainly different niches. Social networks try and connect you with people you already know while dating sites try and match you with people you don't know. There was an article about how dating sites should focus on the flirting and social interaction and hopefully this gives them the motivation to change their direction.",1178130080
+18790,comment,18279,18510,0,0,juwo,,,"where is the calendar data stored?",1178130056
+18789,comment,18233,18420,0,0,paul,,,"""a community for early startups""<p>Even if it's not ideal, I guarantee that having several lines of text explaining the site is better than having nothing.<p>Also, the name is unreadable and the logo is country-western. Even something totally random would probably be better.",1178129841
+18788,comment,18753,18753,0,0,willarson,,,"This article makes a point about not needing a great idea to start your startup upon. This is a point that PG also makes a lot, but it still seems really important to me.
+I tend to think that the lower the barrier to entry, the more interesting of an idea you need to be successful. Maybe the key is in specialization.",1178129821
+18787,comment,18532,18576,0,0,ecuzzillo,,,"Ubuntu is highly popular, and is growing very quickly. <p>Moreover, it cares more about enabling nontechnical users (doctors, lawyers, etc) to get work done than any other distribution I've seen. Most of the advances in Ubuntu I've seen have been in the direction of making it easier and easier for people who don't know what an operating system is to be helped by Linux. (cf. Windows migration tools that automatically create a dual boot system, and crawl the Windows partition to find bookmarks, email contacts, etc). <p>As such, I think it's the most suitable distribution for a mainstream vendor to adopt for sale to mainstream users. ",1178129804
+18786,story,,,7,2,mattjaynes,"Top 10 Ways to Suffocate an Entrepreneurial Ecosystem",http://docs.google.com/Doc?id=ddr8jzqk_15frnwgb,,1178129659
+18785,story,,,6,0,brett,"The Post Money Value: Remote Work vs. Remote Leadership",http://ricksegal.typepad.com/pmv/2007/05/remote_work_vs_.html,,1178129570
+18784,comment,18531,18585,0,0,paul,,,"If it appears in my browser window and works pretty much anywhere, then it's part of the web. Technical details are irrelevant.",1178129526
+18783,comment,18778,18778,0,0,usablecontent,,,"It would be nice if we could search for previously posted stories on news.yc<p>I came across the metrolive article when pg submitted it here, but to find it again had to search Google and then fetch the link from Google's cache. Too much work.",1178128996
+18782,comment,18531,18552,0,0,paul,,,"If it actually works, then it's totally different.",1178128921
+18781,comment,13538,13538,0,0,Ferinos,,,"We have 4 great value plans, designed to suit everyone looking to start their own website, from as little as 2 pounds a month.<p>[B]SAPPHIRE PLAN[/B]<p>Web space: 1Gb
+Monthly Bandwidth: 10Gb
+FTP Accounts: 20
+E-mail Accounts: 20
+MySQL Databases: 20
+Subdomains 20 (example: <a href=""http://something.yourdomain.com)"">http://something.yourdomain.com)</a>
+Parked Domains: 2
+Addon Domains: 1
+CGI-BIN Access: Yes
+Microsoft Frontpage Extensions: Yes
+cPanel control panel
+Support for ASP<p>Cost: Â£2/Mo<p>[B]RUBY PLAN[/B]<p>Web space: 5Gb
+Monthly Bandwidth: 20Gb
+FTP Accounts: 50
+E-mail Accounts: 50
+MySQL Databases: 50
+Subdomains 50 (example: <a href=""http://something.yourdomain.com):"">http://something.yourdomain.com):</a>
+Parked Domains: 4
+Addon Domains: 2
+CGI-BIN Access: Yes
+Microsoft Frontpage Extensions: Yes
+cPanel control panel
+Support for ASP<p>Cost: Â£4/Mo<p>[B]DIAMOND PLAN[/B]
+Web space: 10Gb
+Monthly Bandwidth: 50Gb
+FTP Accounts: 90
+E-mail Accounts: 90
+MySQL Databases: 90
+Subdomains 90 (example: <a href=""http://something.yourdomain.com):"">http://something.yourdomain.com):</a>
+Parked Domains: 10
+Addon Domains: 5
+CGI-BIN Access: Yes
+Microsoft Frontpage Extensions: Yes
+cPanel control panel
+Support for ASP<p>Cost: Â£6/Mo<p>[B]UNLIMITED PLAN[/B]
+Order 	Web space: Unlimited
+Monthly Bandwidth: Unlimited
+FTP Accounts: Unlimited
+E-mail Accounts: Unlimited
+MySQL Databases: Unlimited
+Subdomains Unlimited (example: <a href=""http://something.yourdomain.com):"">http://something.yourdomain.com):</a>
+Parked Domains: Unlimited
+Addon Domains: Unlimited
+CGI-BIN Access: Yes
+Microsoft Frontpage Extensions: Yes
+cPanel control panel
+Support for ASP<p>Cost: Â£8/Mo<p>Pyament Method:
+Paypal<p>So visit us today, at 
+www.nemesis-web.net or check out our forums, here: www.nemesis-web.net/community.<p>Thanks
+",1178128919
+18780,story,,,1,0,mattjaynes,"3 Ways To Fund Your Business: How To Finance A Startup For The Best Growth",http://www.thedigeratilife.com/blog/index.php/2007/04/19/3-ways-to-fund-your-business-how-to-finance-a-startup-for-the-best-growth/,,1178128885
+18779,comment,18531,18541,0,0,paul,,,"I doubt that it actually runs JS four orders of magnitude faster. It may run JS 2-5 times faster, but 10,000 faster is very unlikely. I'd love to run some tests though -- is there a silverlight demo with a eval loop somewhere? (something I can type js into and see how fast it runs)",1178128859

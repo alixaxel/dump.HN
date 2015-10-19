@@ -1,0 +1,80 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+337731,comment,337541,337622,0,0,michaelneale,,,">Now that client side frameworks like Cappucino and SproutCore exist, I don't really see the point in using Rails or Seaside.<p>Couldn't agree more. Impressed daily with Cappuccino.",1224496755
+337730,comment,337714,337714,0,0,LPTS,,,"Brilliant.  I love the look on Macs face when he swoops the ad money towards fixing vista and PC swoops it toward advertising.<p>This is like boxing.  Mac ads have had pc's reputation on the ropes in the collective unconscious.  All the sudden, after getting beat on barely throwing a punch, PC comes out swinging.  Even lands a blow on macs chin, shakes him up a bit.  But before PC can land another punch, this uppercut takes out 3 of his teeth and drives the cartilage in his nose into his brain.<p>Now, everyone who sees both ads will think ""Why is microsoft spending $$$ on this without fixing vista?""  This ad, and it's partner on censoring vista, just short circuited Microsofts 300 million dollar campaign.  This is microsoft being completely outclassed by people who just get it.",1224496596
+337729,comment,337541,337699,0,0,michaelneale,,,"Because most of the work for Seaside (and to a similar extent Rails) is in managing user interface state. That goes away with client side frameworks. At least most of the messy complex stuff - obviously persistence things are still kinda handy ;)<p>Its back to the future.<p>When you have worked with both you find that the back end stuff just gets in the way for the rich client frameworks. Its not to say that ""classic"" action/restful style web apps don't have a place (they have a BIG place, especially for content heavy sites) but its not a one size fits all.",1224496341
+337728,comment,337546,337700,0,0,jgrahamc,,,"Agreed.  Just look at the success of Gorillaz.",1224496284
+337727,comment,337628,337628,0,0,LPTS,,,"No performance reviews.  If you do good, you get generous raises, stock options to get your own piece of the pie, and a bigger role in making the company succeed.  If you do bad, mediocre, or merely slightly above average, you get a generous severance package and the gentlest kick out the door.<p>I do not understand why adult human beings, who get a few short years to do something creative and useful, want so bad to be treated so similarly to grade school children.  Line up to pee in the cup and have your bodily fluid tested just like the cattle you fat fucks gorge yourselves on.  Come into the principa...manager's office and get reduced to some meaningless numbers it a social ritual that directly links to mankinds worse tendencies to form hierarchies that exist to mantain power.  Piss away the potentially creative years of your lives living the same day over and over again and get a few measly biosurvival tickets in return, until you drop dead.  If you are going to go through life processing your relationships to power structure like a grade school kid, what's the point of being an adult?<p>I do not want to hire the kind of person who needs or wants to be validated like a second grader.  I would prefer to hire the kind of person who demands the dignity and responsibility due to adult human beings, and would blow me off if I tried to sit down and hand out gold stars based on what's already happened.  I would prefer to address real problems when they come up, as appropriate, and ignore nitpicks rather then saving nitpicks to be unleashed in a minefield of potential miscommunications and ignoring problems with employees until the review.  There is no need to have this stupid ritual every six months.<p>I do like his ""preview"" idea.  The idea of replacing review with long range planning seems exactly right.  Companies exist to invent the future, attention should be focused on the future.",1224496059
+337726,comment,337714,337714,0,0,ace,,,low&lame,1224495910
+337725,comment,337403,337473,0,0,mixmax,,,"I think that empirical evidence supports my view.<p>The big problem with a 52% / 24% / 24% split is that nobody wants to be a 24% partner. Particularly since they've left the de facto running of the company to the 52% partner. I've seen people try this, and it never seems to work out.",1224495883
+337724,comment,337080,337372,0,0,furiouslol,,,"No. It's not the same thing.<p>Eg. Usually I loan out $1 billion. But now, my risk appetite is smaller because of my desire for a smaller leveraged balance sheet, hence i will loan out only $100 million.<p>So even if I trust that you are able to pay back the loan, I will no longer lend to you because I have no desire to lend so much anymore. The overall credit supply decreases.<p>Maybe my initial post was not clear, I believe the main reason for the tight market is this: Constriction of desired leverage -> Decreased credit supply<p>Eg. Assuming the precrisis loan-to-cash mean leverage is 500%, USD 100 billion of cash can yield USD 500 billion of loan supply in the credit market. Now, the loan-to-cash mean leverage is about 200%, so the same USD 100 billion of cash will yield only USD 200 billion of loan supply. Thus, the Fed has to print a lot more cash to restore the precrisis credit supply. The announced capital injection is not enough. They have to inject a lot more. If they don't wish to print that much cash, the Fed can be the direct lender and assume the precrisis leverage themselves.<p>Here's a good article that explains it all:
+<a href=""http://www.bbc.co.uk/blogs/thereporters/robertpeston/2008/10/banks_still_not_lending.html"" rel=""nofollow"">http://www.bbc.co.uk/blogs/thereporters/robertpeston/2008/10...</a>",1224495700
+337723,comment,337598,337676,0,0,jwilliams,,,"> Just goes to show that you can be smart and know exactly how to achieve a goal, but luck and timing are just as important.<p>Yeah, it's fascinating to watch this and think that as this video was being made, the Internet (well, WWW) was just about to change everything (directly or indirectly anyway).",1224495510
+337722,comment,337515,337691,0,0,denglish,,,"No worries, glad you like. I thought it'd be a useful one for others when I stumbled across it - I've bookmarked it for my own future Linux reference.",1224495362
+337721,story,,,2,0,bootload,"Tim Bray: On Tough Times",http://www.tbray.org/ongoing/When/200x/2008/10/11/Tough-Times,,1224495349
+337720,comment,337387,337623,0,0,pistoriusp,,,"I agree with your point but I would like to point out that not all countries use high fructose corn syrup. Coca-Cola in South Africa uses regular sugar.",1224495280
+337719,story,,,3,0,nocivus,"Awesome, easy to setup, hosting provider",http://www.linode.com,,1224495073
+337717,story,,,58,26,nocivus,"20 tips for MySQL db architects",http://www.scribd.com/doc/2565263/The-top-20-design-tips-for-MySQL-Enterprise-data-architects,,1224494971
+337716,comment,337366,337520,0,0,ntoshev,,,"You can subscribe to receive daily a list of all registered .com/.net/.org domains, from the registrar.",1224494290
+337714,story,,,72,162,andygeers,"Apple responds to ""I'm a PC""",http://movies.apple.com/movies/us/apple/getamac/apple_getamac_beancounter_20081019_480x272.mov,,1224493606
+337713,comment,337559,337559,0,0,thamer,,,"(Really sorry if this post sounds like a job search, I have a good job and am not looking for one). 10 months ago someone posted a story on programming.reddit on how to write your CV using LaTeX; I put a link to mine and released the source. I got praise for it, so I'd like to share it here as well.<p>This is the “neat LATEX Résumé” on <a href=""http://linux.dsplabs.com.au/resume-writing-example-latex-template-linux-curriculum-vitae-professional-cv-layout-format-text-p54/"" rel=""nofollow"">http://linux.dsplabs.com.au/resume-writing-example-latex-tem...</a><p>Direct link to the PDF (French résumé):   <a href=""http://n.favrefelix.free.fr/cv.pdf"" rel=""nofollow"">http://n.favrefelix.free.fr/cv.pdf</a>",1224493505
+337712,comment,337366,337499,0,0,ntoshev,,,"Funny I did a similar thing recently, specifically for domain names. The code to train a Markov chain (without using any libraries outside standard Python) is this:<p><pre><code>  import re, collections
+  from itertools import *
+  
+  def words(text):
+      return (w.group() for w in re.finditer(r""\w+"", text.lower()) if w.group().isalpha())
+  
+  F=collections.defaultdict(lambda:collections.defaultdict(lambda:1))
+  
+  M = 5
+  
+  def add_spaces(word):
+      return ' ' * M  + word.strip() + ' ' * M
+  
+  N = 0
+  
+  from operator import add
+  def train(words):
+      for word in words:
+          w = add_spaces(word)
+          for i in range(len(w)-M):
+              F[w[i:i+M]][w[i+M]] += 1
+      global N
+      N = reduce(add,(n for d in F.itervalues() for n in d.itervalues()))
+  
+  train(words(file('big.txt').read()))
+</code></pre>
+Then, I tried to measure how ""good"" a particular word is (experimenting with different measures):<p><pre><code>  from math import log
+  def goodness(word):
+      w = add_spaces(word)
+      res = 0
+      for i in range(len(w)-M):
+          res += F[w[i:i+M]][w[i+M]]
+  #        res += log(F[w[i:i+M]][w[i+M]])
+      global N
+      return float(res) / ((len(w)-M)*N)
+  
+  print 'test score:', reduce(add, (goodness(w) for w in words(file('test.txt').read())))
+</code></pre>
+Then, tried to find the top N words at less than 2 edits distance:<p><pre><code>  alphabet = 'abcdefghijklmnopqrstuvwxyz'
+  
+  import types
+  def edits1(word):
+      if type(word)==types.StringType:
+          n = len(word)
+          return set(chain((word[0:i]+word[i+1:] for i in range(n)),                     # deletion
+                     (word[0:i]+word[i+1]+word[i]+word[i+2:] for i in range(n-1)), # transposition
+                     (word[0:i]+c+word[i+1:] for i in range(n) for c in alphabet), # alteration
+                     (word[0:i]+c+word[i:] for i in range(n+1) for c in alphabet)))  # insertion
+      else: #Assume word is actualy an iterable of words
+          return set(reduce(chain,(edits1(e) for e in word)))
+  
+  def edits2(word):
+      return edits1(edits1(word))
+
+  def topn(n, word):
+      words = [(x, goodness(x)) for x in edits2(word)]
+      words.sort(cmp = lambda x,y: -cmp(x[1],y[1]))
+      return words[:n]
+
+</code></pre>
+I have borrowed some code from Peter Norvig's spelling checker, and the style is very much influenced by it.",1224493469

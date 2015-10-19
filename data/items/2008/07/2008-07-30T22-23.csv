@@ -1,0 +1,108 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+262434,story,,,1,0,savestaff,"Please critique my Startuply ad for a co-founding developer?",,"Any critiques for my job-ad on Startuply for ""SaveStaff"" would be much appreciated. Or advice on where else I can post to actually get some responses. Of course I could raise the base salary rate, but this is a co-founder / equity position. Thanks in advance!<p>Or<p>www.savestaff.blogspot.com",1217458764
+262432,comment,262092,262092,0,0,prospero,,,"I have to say, UC Irvine (the school discussed in the article) isn't really a Java school.  Introductory students are taught Scheme, and the required curriculum includes language design, algorithms, and operating systems.  Optional courses that I took included cryptography, computer graphics, computational geometry, and artificial intelligence.  Some of these classes used Java, others didn't.<p>That being said, the threshold for just passing the classes never seemed very high.  The education was there if you wanted it, but most students didn't seem to, and were happy to get by with a barely passing grade.  This is obviously a problem, but different from the one discussed in the Spolsky article.",1217458578
+262431,comment,261829,261888,0,0,terpua,,,"Didn't it happen with <i>Mosaic</i> :)",1217458560
+262430,comment,262258,262391,0,0,terpua,,,+3.14,1217458498
+262429,comment,262315,262315,0,0,biznickman,,,"Why no lists?  This is a good one :)",1217458393
+262428,comment,262018,262423,0,0,kingkongrevenge,,,"Those languages are simple if you use the same basic constructs available in every procedural language.  You can write BASIC in any language, including Perl.  Otherwise, you have to learn complexity.<p>Yes, I'm sure description of lisp's loop function would fit in your few lines...",1217458388
+262427,comment,262182,262333,0,0,wmf,,,"The importance of the quote is that Google is using it to support a common logical fallacy.",1217458375
+262426,story,,,2,0,iamelgringo,"10 Big Questions for Geneticist J. Craig Venter on America's Energy Future",http://www.popularmechanics.com/blogs/science_news/4275738.html,,1217458302
+262425,comment,262317,262317,0,0,vaksel,,,"VC funded will probably succeed more because they get more coverage. And if you are in a niche that will only have 1-2 big players, it kinda helps getting that initial coverage to grow fast.<p>Honestly I don't think I can come up with 1 big player(100mm/yr revenue) of the top of my head, that never took any funding.",1217458211
+262424,story,,,4,0,apgwoz,"Why Free Software and Apple's iPhone Don't Mix",http://www.fsf.org/blogs/community/why-free-software-and-apples-iphone-dont-mix,,1217458148
+262423,comment,262018,262376,0,0,newt0311,,,"Actually no. Take lisp for example. It's syntax can be described in a few lines. The functions also are usually quite straight forward and its pretty easy to go back to previous code. Or try python. This language is also pretty easy to work with. The syntax is consistent and the one right way to do thinks philosophy means that reading even other people's code is not a big problem. Contrast this with perl...",1217458130
+262422,comment,262258,262363,0,0,ericb,,,"The author of this site, Paul Graham (pg), is an essayist who listed single founders as number one on his startup mistakes list. It's not an opinion I share, so yes, sarcasm intended. :-) Agreed 100% about sarcasm being hard to see in text. While an extra person can be an advantage, I think he overestimates the advantages and underestimates the disadvantages.<p>Nice work on the site and app!  Congrats!<p><a href=""http://www.paulgraham.com/startupmistakes.html"" rel=""nofollow"">http://www.paulgraham.com/startupmistakes.html</a>",1217458087
+262421,story,,,4,0,ryanelkins,"Creating Heatmaps in WPF",http://neude.net/2008/07/heatmaps-in-wpf-using-c-part-1-the-mask/,,1217458030
+262419,comment,262224,262272,0,0,LogicHoleFlaw,,,"Well, here's a naive one written in Lua. it keeps a fifo list of {timestamp, number} pairs. The fifo is implemented as a double-ended queue in a closure. The averaging function takes in the current time and a new number. Pop off the pairs that are outside of our sliding window and subtract their value from a tally. Push on our new value and add its value to the tally. Return the tally divided by the size of the queue. This algorithm takes linear time with respect to the rate of transactions (i.e. how many do we expire each call) and linear space with respect to window size (how many entries fit in our sliding window).<p><pre><code>  function create_sliding_averager (window_span, debug) 
+      local window_span = window_span -- seconds
+      local tally = 0
+      local fifo = { tail = 1, head = 0 }
+      local debug = debug
+  
+      return function (amount, current_time)
+          local head = fifo.head + 1
+          local tail = fifo.tail
+  
+          fifo[head] = { timestamp = current_time, amount = amount }
+          tally = tally + amount
+  
+          local cutoff, old_time = current_time - window_span, nil
+
+          if fifo[tail] then
+            old_time = fifo[tail].timestamp
+          end
+  
+          if debug then
+              print ('cutoff: ', cutoff, 'old time:',
+                    old_time, 'current:', current_time)
+          end
+
+          while old_time ~= nil and old_time < cutoff do
+              tally = tally - fifo[tail].amount
+              if debug then
+                print ('expiring: ', fifo[tail].timestamp, fifo[tail].amount)
+              end
+              fifo[tail] = nil
+              tail = tail + 1
+              old_time = fifo[tail].timestamp
+          end
+  
+          fifo.tail = tail
+          fifo.head = head
+
+          if debug then print(tail, head) end
+          return 'avg: '..(tally / (head - tail + 1)), 'size: '..(head - tail + 1)
+      end
+  end
+  
+  averager = create_sliding_averager(10) -- 10 second average
+  
+  while true do
+      local rand = math.random()
+      local time = os.time()
+      print (averager(rand, time))
+  end
+</code></pre>
+I would usually use a small library to implement (push(), pop(), peek()) on the fifo but this example will run in a stock interpreter. On my system the average for rand() hovers around .5 so it passes my initial smell test. It's hovering around 80k entries in a busyloop with a 10 second window.<p>This is a pretty brute-force solution. I'll see if I can think of something more elegant.",1217457848
+262418,comment,261660,261660,0,0,nolasimon,,,"i play badminton twice a week at my local badminton club.  it's awesome.  remember playing badminton in gym class?  fun, right?  go to your local club and watch a high level game.  ask for some beginning pointers, how to hold the racket, etc. and give it a shot. you'll have fun i bet.",1217457780
+262417,comment,262269,262269,0,0,vaksel,,,"Seems way a little bit complicated, I still prefer the kill switch option. Costs you like 3 bucks for a switch from radio shack and some spare wire you have at home, and bam noone can steal it w/o knowing where the switch is.",1217457746
+262416,comment,262341,262341,0,0,kingkongrevenge,,,"> Research suggests that weight may largely be regulated by biology, which helps determine the body's ""set point,""<p>So where did all the fatties come from?  They didn't used to be here.<p>This is ridiculous.  There are big, obvious changes in diet and exercise levels since the 70s that have correlated well with rising obesity.",1217457638
+262415,comment,262276,262276,0,0,gtani,,,"just to let you know of good refs for IE 7 ( i refuse to acknowledge IE 6<p><a href=""http://www.naterkane.com/blog/2007/04/02/ie7-quirks/"" rel=""nofollow"">http://www.naterkane.com/blog/2007/04/02/ie7-quirks/</a><p><a href=""http://weblog.openlaszlo.org/archives/2007/03/how-we-deal-with-browser-quirks-with-a-compendium-of-ie-7-issues/"" rel=""nofollow"">http://weblog.openlaszlo.org/archives/2007/03/how-we-deal-wi...</a><p><a href=""http://www.sitepoint.com/blogs/2007/11/30/internet-explorer-doesnt-just-suck-it-also-blows/"" rel=""nofollow"">http://www.sitepoint.com/blogs/2007/11/30/internet-explorer-...</a><p><a href=""http://www.gtalbot.org/BrowserBugsSection/"" rel=""nofollow"">http://www.gtalbot.org/BrowserBugsSection/</a><p>(yes, not the most appealing design, but verrry time-saving)<p>TO track IE 7 and 8, check ""browsershots.org""  ""ies4osx"" and<p><a href=""http://tredosoft.com/IE7_standalone"" rel=""nofollow"">http://tredosoft.com/IE7_standalone</a>",1217457629
+262414,comment,262276,262361,0,0,ca98am79,,,"awesome - thanks for firebug lite. That's exactly what I was looking for.",1217457593
+262413,story,,,1,0,inovica,"""Hacker"" vows to fight extradition from UK",http://news.bbc.co.uk/1/hi/technology/default.stm,,1217457565
+262412,comment,262240,262406,0,0,markbao,,,"You're right. Also used CrunchBase as a source, didn't see that it was a dual party round.<p>That's interesting though. Sacca is an Omnisio advisor, and also was the Director of Special Initiatives at Google.",1217457450
+262411,story,,,1,0,Dylanfm,"Those who itch for success must keep scratching",http://www.harveymackay.com/columns/archives/2008-07-03.cfm,,1217457388
+262410,comment,261790,262123,0,0,wmf,,,"The other end of the fiber is intended to connect to an Internet exchange point with multiple transit ISPs available.",1217457378
+262409,story,,,1,0,iamelgringo,"Founder-CEO Succession",http://founderresearch.blogspot.com/2005/09/founder-ceo-succession.html,,1217457281
+262408,comment,262240,262287,0,0,jsmcgd,,,"This one liquidity event must go a long way to cover all the investments of ycombinator.",1217457273
+262407,comment,262240,262325,0,0,matt1,,,"Did they have multiple rounds of funding from YC or did they make it this far on the initial money? Seems hard to believe that could tackle the scaling issues with $10K or $15K",1217457267
+262406,comment,262240,262325,0,0,aston,,,"If Techcrunch is right, Chris Sacca was part of a seed round. <a href=""http://www.crunchbase.com/company/omnisio"" rel=""nofollow"">http://www.crunchbase.com/company/omnisio</a>",1217457169
+262405,comment,262092,262092,0,0,randrews,,,"""In addition, there are very few things that actually need to be written in C. Operating systems and compilers are the two big areas where use of C is nearly always required. Both are territory that I am not interested in venturing into at this point.""<p>First, why is C nearly always required for writing compilers? I've written one in C and a few in higher-level languages, and the HLL ones were easier due largely to garbage collection.<p>Second, those two things, if learned, would teach him vastly more about computer science than just learning C. For a better understanding why, Steve Yegge's essay ""Rich Programmer Food"" is what you want to read.",1217457042
+262404,story,,,2,0,iamelgringo,"Who makes more money founder CEO's or non-founder CEO's?",http://founderresearch.blogspot.com/2005/09/executive-compensation-and-founder.html,,1217457039
+262403,comment,261790,261901,0,0,kingkongrevenge,,,"> I'm not sure how serious an issue bandwidth really is, though.<p>He keeps going on about consumer telecom.  Does anyone seriously believe that household consumption of cable TV, web surfing, and cell phones is an economic driver?  Seems kinda ridiculous to me.  They're just consumer amenities.",1217456897
+262402,comment,262224,262224,0,0,ajross,,,"Um... I don't want to rain on anyone's parade, but this isn't that insightful.  It even has a name: this is called a ""high pass filter"".   Over time, it seeks to a constant input level (the ""DC bias"" in the parlance)  while allowing the instantaneous signal excursions (strictly: their derivative) to pass through.  It's a useful gadget in both analog electronics and in software for tricks like this one.<p>It is <i>not</i>, however, an ""averager"".  The output depends on the order in which the inputs are delivered, it seeks to an average only given constant input.  Think of the output for a continuously alternating set of 1's and 0's, vs giving all the zeros first then all the ones.",1217456476
+262401,comment,262224,262224,0,0,Tichy,,,"I might be making  mistake (should go to sleep), but shouldn't the alternate formula be ((average * count) + x) / ++count, that is ++count instead of count++? Then I arrive at average += (x-average)/(count+1)",1217456428
+262400,comment,262214,262314,0,0,beatty,,,"I submitted <a href=""http://sampullara.appspot.com/yuil/"" rel=""nofollow"">http://sampullara.appspot.com/yuil/</a> earlier today, but HN seems to have deleted it (see <a href=""http://news.ycombinator.com/item?id=262081"" rel=""nofollow"">http://news.ycombinator.com/item?id=262081</a>).",1217456390
+262398,story,,,2,0,mojuba,"Ode To Hungarian Notation",http://melikyan.blogspot.com/2008/07/ode-to-hungarian-notation.html,,1217456288
+262397,comment,261641,262049,0,0,helveticaman,,,"OK, it's one thing to say there are underlying differences between men and women backed by some scientific data, but it's another altogether to make unfounded claims, shoot from the hip and be disparaging. Not cool.",1217456167
+262396,comment,261714,262384,0,0,iamelgringo,,,"Sorry for posting this, guys.  I thought it would be apropos.  I guess not.",1217456155
+262395,comment,261839,261839,0,0,dfsdfsdsfdsf,,,"Lomborg is a menace:<p><a href=""http://climateprogress.org/2007/09/17/debunking-bjorn-lomborg-cool-it-water-heat-waves-global-warming/"" rel=""nofollow"">http://climateprogress.org/2007/09/17/debunking-bjorn-lombor...</a>",1217456146
+262394,comment,261727,262295,0,0,albertcardona,,,"The only way to find out, in my experience, is to sit down and work with each candidate, for a couple of hours. Not easy indeed.",1217456083
+262393,comment,262315,262315,0,0,omouse,,,"Please, no more lists.",1217456040
+262392,story,,,2,0,wagerlabs,"A Lisp by any other name would smell as sweet?",http://www.wagerlabs.com/blog/2008/07/algoscript-a-lisp-by-any-other-name-would-smell-as-sweet.html,,1217456018
+262391,comment,262258,262300,0,0,siculars,,,"thanks for your detailed blogging about the whole process of going from idea to quitting your job to launch. i spent about 30min going through all your blog posts. very encouraging and real. a great resource for others who are in the same boat.",1217455929
+262390,comment,261839,262261,0,0,anamax,,,"> Let's say it costs 5 dollars to save one kilowatt of electricity. Let's also say it costs 20 dollars to generate one new kilowatt of electricity.  Both ways, we get one new kilowatt of electricity, but one way is less expensive.<p>Except that energy saving is capped.  If we're using 5kw and we want 100kw, saving that 5 is nice but only 5% of the goal.<p>And yes, we're going to need significantly energy than we have today.  The first of those ""extra uses"" are also known as India and China.<p>Also, while the assumption that energy savings costs 25% of new production costs is convenient for an argument, it isn't all that common.  People don't spend more money than they have to.  As energy costs have gone up, the low-hanging fruit has been picked.<p>Of course, some folks cheat by including ""savings"" that requires changing behavior/reducing value and assuming that that's cost free.  That's wrong because minimum energy use isn't the goal - the goal is to maximize value for cost.  Just because you don't see the value of something that uses energy doesn't mean that everyone else agrees.",1217455895
+262389,story,,,2,0,thenextweb,"Another reason to buy an iPhone: U",http://thenextweb.org/2008/07/31/another-reason-to-buy-an-iphone-u/,"Not ‘you’ but iTunes U. Apple is now offering downloadable videos of museums, cultural institutions and a bunch of world renowned universities such as Yale, Duke and MIT. Just login, select a few courses you are interested in and download them to your iPhone or iPod, for free.",1217455887
+262388,comment,262240,262240,0,0,siculars,,,"mazal tov!",1217455725
+262387,comment,261682,261744,0,0,inklesspen,,,"Simply encode your unicode string in utf-8 and print the resulting bytestring. Simple, huh?<p>Okay, say you don't want to do u""somestring"".encode('utf-8') all the time. Python has a set of classes that will wrap files and transparently encode and decode for you. And stdout is just another file.<p><pre><code>  import sys
+  import codecs
+  sys.stdout = codecs.getwriter(""utf-8"")(sys.stdout)
+  line = u""\u0411""
+  print line</code></pre>",1217455692
+262385,comment,261839,262242,0,0,mattmaroon,,,"I read recently that the largest increase in human life expectancy came from the advent of indoor plumbing, which still does not exist in much of the world. I don't know the French word for Plumber, but perhaps we should start the equivalent Sans Frontieres for them.",1217455599
+262384,comment,261714,261990,0,0,benjamincanfly,,,"When I saw an image in my feed reader, this is what I thought. Glad to find it dead.",1217455570
+262383,comment,262313,262313,0,0,omouse,,,"Does this run in Rhino? Or uh, which JavaScript version is it?",1217455538
+262382,comment,261839,261839,0,0,mattmaroon,,,"""Spending an extra dollar cutting C02 to combat climate change generates less than one dollar of good, even when we add up all the economic and environmental benefits.""<p>I don't think there's any sort of consensus on that. I've seen varying figures proposed by economists. An accurate cost benefit analysis would seem to require too many facts we just don't know yet.",1217455486
+262381,comment,262351,262351,0,0,omouse,,,"How am I supposed to pronounce the name? Like ""cool""? :p<p>I think this is interesting but the search results are off, at least for ""little penguin"". It only looks up the word ""little"".<p>It's pretty useful. I looked up ""California"" and I learned that there are champagnes made there. Weird.<p>But I don't buy wines, so this site isn't really for me :S",1217455456
+262380,comment,262240,262240,0,0,adrianwaj,,,"Omnisio - used it once and was impressed - viewed videos of speeches and could skip to various pre-determined points, with accompanying slides at left for viewing, and underneath for navigating.<p><a href=""http://omnisio.com/startupschool08"" rel=""nofollow"">http://omnisio.com/startupschool08</a><p>But, if one sells out, the startup never goes on to acquire other companies as seen at Sun, Apple, Amazon, Microsoft, Google etc. Perhaps only early players in any industry or application type can obtain such growth to stave off the gorillas and sharks, and resist the temptation to be acquired in order to vye for a shot at the IPO brass ring.",1217455387
+262379,comment,262214,262338,0,0,mlinsey,,,"I agree with you, but this is also why Cuill's enormous marketing push this week was such a bad idea, even though it was executed brilliantly. (what's the last startup that you remember that had an article about it in the New York Times on its launch day?)",1217455322
+262378,story,,,1,0,Jpmex,"YouTube videos with Captions",http://tubecaption.com,,1217455200

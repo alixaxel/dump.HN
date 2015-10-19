@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+98168,comment,98009,98067,0,0,hhm,,,"Daniel, your problem is the way you are burning the iso. You are burning it as a file, while you have to burn it as a image file. Read this: <a href=""http://www.petri.co.il/how_to_write_iso_files_to_cd.htm"" rel=""nofollow"">http://www.petri.co.il/how_to_write_iso_files_to_cd.htm</a><p>I think this'll put an end to your problems.",1200326006
+98167,comment,97829,98051,0,0,jimbokun,,,"""(e.g. not Clinton)""<p>Which one?",1200325726
+98166,story,,,7,7,mcxx,"10 worst PC keyboards of all time","http://www.pcworld.com/article/id,139100-page,2-c,keyboards/article.html",,1200325285
+98165,comment,98009,98138,0,0,daniel-cussen,,,No.,1200325045
+98164,comment,98149,98149,0,0,edw519,,,"One thing I have done in a situation like this was to create an artificial hash of the user info.  It ended up giving me a 95% hit rate.  Something like :<p>Hash = SoundexOfLastName + SoundexOfStreetName + First3OfZipCode<p>So Jim Johnson at 123 Fair Oaks Ave in 12345 would hash to:<p>""J525F620123""<p>So just let them enter their user data, hash it, and see if you have any hits against that hash column in your data base.<p>Pretty hard to hack, but pretty easy to hit, even with misspellings, etc., and not a lot of suffering by the user.",1200324968
+98163,comment,98127,98162,0,0,justtease,,,"Good idea. You're going to build it right? :P",1200324832
+98162,comment,98127,98127,0,0,inovica,,,"What I'm wondering is if it would be possible to use some kind of algorithm such as Bayesian where an individual could select the articles they like and the ones they don't so that the site would start to deliver more specific content.",1200324652
+98161,story,,,1,0,luccastera,"Retrying code blocks in Ruby (on exceptions, whatever)",http://blog.codefront.net/2008/01/14/retrying-code-blocks-in-ruby-on-exceptions-whatever/,,1200324062
+98160,story,,,1,0,pius,"Breaking the Rules to Create a Talk Worthy Web Site",http://bitsonewmedia.com/show.php?id=105,,1200324015
+98159,comment,97942,97942,0,0,crescendo,,,"So ""time"" would just be our way of perceiving a static causal relationship between atoms, in the same way that ""color"" is our way of perceiving wavelengths of light. Interesting premise.",1200323929
+98158,story,,,58,14,ph0rque,"A bot that allows you to say only original content",http://blag.xkcd.com/2008/01/14/robot9000-and-xkcd-signal-attacking-noise-in-chat/,,1200323566

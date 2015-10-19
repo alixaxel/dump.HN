@@ -1,0 +1,697 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+6840234,story,,,1,0,hepha1979,"India to seek US help in monitoring Web chats",http://www.zdnet.com/in/india-to-seek-us-help-in-monitoring-web-chats-7000023867/,,1386079175
+6840233,comment,6838434,6840077,1,0,scaramanga,,,"Indeed, the very idea that your fly by the seat of your pants intuition, memory and senses cannot be trusted is the foundational presentiment that brought us science.",1386079163
+6840232,comment,6838836,6840083,5,0,pkolaczk,,,"Ehm... No. If any, C# borrowed it from Scala. C# got them in version 4.0, which was first half of 2010. Scala had them since I remember (from day 1?) - for sure they were in Scala 2.6, which was released in 2006.",1386079148
+5271509,story,,,0,0,,,,,1386079138
+6840231,comment,6840164,6840172,1,0,melling,,,"Nothing there.",1386079121
+6840230,comment,6839601,6839728,2,0,josephlord,,,"I don&#x27;t think &quot;anything goes&quot; would be wise but there may room for an interesting race with very minimal rules. e.g.<p>1) Total fuel limit (of specified type etc.). Gives all cars equal energy budget to use. Maybe some fuel could be traded for pre-charged batteries for KERS type systems.<p>2) Size limits. Must be narrow enough to overtake, short enough to fit in a pit box and maybe a height limit too.<p>3) Safety requirements and possibly a minimum weight to allow for sufficient safety without overly compromising safety.<p>There would still be plenty of things that could be done that are currently forbidden such as active aerodynamics so the car could actually have one or more rudders to assist with cornering etc. and that wings could flatten into aerodynamic shapes.<p>I could almost imagine the cars no longer using their brakes before corners but instead increasing downforce enough to take the corner and that increased drag being the only reason that they slow down at all.",1386079121
+6840229,story,,,1,0,hepha1979,"Television's death by YouTube",http://www.zdnet.com/televisions-death-by-youtube-7000023857/,,1386079120
+6840228,comment,6839601,6840147,2,0,T-zex,,,"Wow! Have you developed the software for the ECU?",1386079106
+526950,story,,,0,0,,,,,1386079091
+6840227,comment,6840114,6840203,1,0,seertaak,,,"That&#x27;s kind of the direction I&#x27;m leaning -- anyway, there are pretty good pre-made templates, so I could always use on of them.<p>Thanks for your advice.",1386079085
+6840226,comment,6838836,6839458,8,0,kasey_junk,,,"It&#x27;s not so much about what I would remove, it&#x27;s more about gaining guidance/acceptance/standardization around the &quot;right&quot; way to do various things.<p>When creating a library should my functionality exist explicitly on the types?  As extension methods on an implicit?  As type classes?<p>When should I use infix/prefix notation?  When should I use . syntax vs no .? What does _ mean in this particular line of code?  Is an allocation happening for this lambda or not?<p>Why are map/flatmap/filter magical?  Why are for comprehensions part of the language for those but not for type classes?<p>All of these kinds of questions are really hard to answer and I&#x27;ve been programming Scala in production for years.<p>Other complaints I have are about the mess that is the collections library, the push for actors when they are generally a bad solution, an emphasis on algebraic types without providing Union types, and all the opportunity costs represented in sbt (which is finally passable but no better) and Scala IDE.<p>Don&#x27;t get me wrong, if you are targeting the JVM & want strong typing (I do), Scala is the best language for the job, but even for someone who uses it every day and is pretty expert there are some confusing corners & no 2  developers seem to write code the same way, so there is a price to be paid for that.",1386079081
+5268269,story,,,0,0,,,,,1386079062
+6840225,story,,,1,0,hepha1979,"Google's Compute Engine now ready for business",http://www.zdnet.com/googles-compute-engine-now-ready-for-business-7000023871/,,1386079060
+5268087,story,,,0,0,,,,,1386079058
+5267997,story,,,0,0,,,,,1386079055
+5267939,story,,,0,0,,,,,1386079054
+5267860,story,,,0,0,,,,,1386079052
+5267784,story,,,0,0,,,,,1386079051
+6840224,story,,,1,0,tomaslau,"Creating Digital Products: Interview with Paul Jarvis",http://despreneur.com/creating-digital-products-interview-with-paul-jarvis/,,1386079041
+6840222,comment,6836994,6838054,1,0,regorton,,,"We are on it, it won&#x27;t be in the first release, but it we are working on a software upgrade (to the original hardware) that will support this.",1386079023
+6840221,story,,,32,49,hepha1979,"Windows XP end-of-life migration guide",http://www.zdnet.com/windows-xp-end-of-life-migration-guide-7000023800/,,1386079018
+6840220,comment,6838495,6838495,1,0,blahbl4hblahtoo,,,"Is it time for the media to go pant shitting crazy about epidemics again? Seriously?<p>Has anyone else noticed a pattern here?",1386078998
+5265477,story,,,0,0,,,,,1386078996
+5265458,story,,,0,0,,,,,1386078996
+6840219,comment,6839702,6839702,6,0,jccalhoun,,,"If you look at the early atari 2600 commercials it is clear they were just throwing stuff at the wall with no clear audience in mind. One that sticks out in my mind features a &quot;Valley Girl&quot; that is so stereotypical it is hard to tell if it was supposed to be a parody or not: <a href=\"https://www.youtube.com/watch?v=O5ze1neVziE\" rel=\"nofollow\">https://www.youtube.com/watch?v=O5ze1neVziE</a>",1386078994
+5265347,story,,,0,0,,,,,1386078993
+6840218,comment,6839601,6840187,3,0,arethuza,,,"VAG have a rather nice twin-charged 1.4L engine - with a supercharger <i>and</i> a turbocharger - the former being used at low revs and the latter at high revs:<p><a href=\"http://en.wikipedia.org/wiki/List_of_Volkswagen_Group_petrol_engines#1.4_R4_16v_TSI.2FTFSI_90-133kW\" rel=\"nofollow\">http://en.wikipedia.org/wiki/List_of_Volkswagen_Group_petrol...</a>",1386078990
+6840217,comment,6839601,6840127,2,0,spacecadet,,,"No it isn&#x27;t! Racing has always been the source of innovation in automotive- safety harness for example.. ABS, etc<p>Its exactly the fact that racing became &quot;about best car + drive&quot; that innovation slumped and we still drive cars that are pretty much no different than when Fuel Injection was introduced in the 70&#x27;s!<p>I welcome these challenges.<p>I have been slowly developing my own diesel/electric hybrid using similar technology, it makes more sense than full electric at this point in time.  Hub motors are very inexpensive and modern diesels running on waste bio can last upwards of 1,000,000 miles.  Thanks to Audi and their endurance Diesel R8 racecar...  They challenged themselves under no regulation and it helped prove a technology.",1386078985
+6840216,story,,,2,0,mhb,"The Real Costs of Virtual Money",http://marginalrevolution.com/marginalrevolution/2013/12/the-real-costs-of-virtual-money.html#comments,,1386078980
+526431,story,,,0,0,,,,,1386078969
+5264216,story,,,0,0,,,,,1386078967
+6840215,comment,6833652,6833652,1,0,rpdillon,,,"I&#x27;ve seen a lot of discussion of the &#x27;filter bubble&#x27;, particularly as a way for DuckDuckGo to differentiate itself from other search engines.  But I have never seen any scientific data indicating it actually exists.  I&#x27;ve seen the TED talk, and I&#x27;ve seen the oft-repeated example involving BP, but I&#x27;ve never seen anything more than a couple of examples about how it might exist.<p>Has anyone demonstrated in any scientific fashion whatsoever that there is a population of people that are insulated from news they don&#x27;t want to hear because it is actively being kept from them on an ongoing basis by supposedly unbiased news sources?<p>Here&#x27;s the data I do know about: we already have &#x27;news&#x27; channels that pander to particular audience, and we&#x27;ve already seen that watching news you agree with activates the same pleasure centers in the brain that are stimulated by watching pornography.<p>Based on evidence I&#x27;ve seen, the problem is with the audience, not the news.  The assertion in the article that the filter &quot;can polarise populations creating potentially harmful divisions in society&quot; seems, well, unfounded, at least so far.",1386078954
+6840214,comment,6838836,6840096,2,0,trailfox,,,"Better performance? What are you basing that on?",1386078947
+5263165,story,,,0,0,,,,,1386078942
+5263148,story,,,0,0,,,,,1386078942
+5263126,story,,,0,0,,,,,1386078941
+6840212,comment,6837403,6837403,1,0,livestyle,,,"Im kind of biased but we here at buysellads.com provide a simple marketplace platform to easily target, buy and track online ads.<p>p.s. Here is a great read on the subject <a href=\"http://www.quicksprout.com/the-beginners-guide-to-online-marketing-chapter-7/\" rel=\"nofollow\">http://www.quicksprout.com/the-beginners-guide-to-online-mar...</a>",1386078937
+5262687,story,,,0,0,,,,,1386078931
+5262619,story,,,0,0,,,,,1386078929
+5262618,story,,,0,0,,,,,1386078929
+5262613,story,,,0,0,,,,,1386078929
+5262609,story,,,0,0,,,,,1386078929
+5262457,story,,,0,0,,,,,1386078926
+5262446,story,,,0,0,,,,,1386078926
+6840211,comment,6839601,6839889,1,0,beat,,,"In theory, theory and practice are the same. In practice, they are not.<p>Even circle tracks have tremendous local variation from a racing point of view.",1386078923
+5262359,story,,,0,0,,,,,1386078923
+6840209,comment,6839841,6840039,7,0,knowitall,,,"In what way is it sexist - because the woman wears a mini skirt? Because it is suggested that it is worthwhile to attract women? Because the guy doesn&#x27;t wear a mini skirt - and she likes him for his salary, not his looks? Because the ad doesn&#x27;t mention her PhD in mathematics?<p>I think this is all blown very much out of proportions. Sexual attraction is a basic aspect of human life.",1386078917
+5262056,story,,,0,0,,,,,1386078916
+5261901,story,,,0,0,,,,,1386078913
+5261898,story,,,0,0,,,,,1386078913
+5261896,story,,,0,0,,,,,1386078913
+5261701,story,,,0,0,,,,,1386078908
+6840208,comment,6838299,6839473,3,0,bryanlarsen,,,"A couple of the most innovative hackers I know are also musicians.  A big motivation is simply money.   They&#x27;ve embraced the fact that they&#x27;ll always be poor.   Hacking is essential to build & maintain the tools they need for life and for work, as well as a great source of cheap entertainment.",1386078907
+6840207,comment,6836994,6840201,2,0,regorton,,,"The device is a bit of a hybrid, its closed source for some of the main firmware, but all the GPIO and sensor connectivity is open source (and open hardware). We are working to open more and more of it up!",1386078906
+5261534,story,,,0,0,,,,,1386078904
+5261358,story,,,0,0,,,,,1386078900
+5261355,story,,,0,0,,,,,1386078900
+5261329,story,,,0,0,,,,,1386078899
+6840206,comment,6838917,6838917,1,0,nimble,,,"This seems to muddle cardinality.  First he defines cardinality as &quot;number of elements&quot; and notes that infinite sets have infinite cardinality, but doesn&#x27;t explain what that might mean.  Then he introduces &quot;same cardinality&quot; as a new definition instead of letting it arise out of sameness of number.  And next, without any new definition, starts referring to larger cardinality.",1386078896
+5260483,story,,,0,0,,,,,1386078880
+5258785,story,,,0,0,,,,,1386078840
+6840205,story,,,2,0,jcvangent,"OpenIdea: handing out free STD tests",http://jcvangent.com/openidea-handing-out-free-std-tests/,,1386078839
+6840204,comment,6836994,6838698,1,0,regorton,,,"rspeer, what browser are you? if you can send a screenshot to info@brck.com we&#x27;ll get on it.",1386078824
+525808,story,,,0,0,,,,,1386078823
+6840203,comment,6840114,6840114,1,0,sharemywin,,,"I would do it yourself then hire a &quot;landing page conversion&quot; company. Once you have a baseline.",1386078807
+5257336,story,,,0,0,,,,,1386078806
+6840202,comment,6839841,6839841,4,0,knowitall,,,"&quot;doing/buying/applying x raises your attractivity to the opposite sex&quot; is really the most basic advertising message ever. Is that really a problem (more than advertising in general)? Why/how?<p>I get that this ad is targeted at men - but that in itself can not seriously be made out to be a problem either? Should all ads/messages/stories/games/movies be unisex?",1386078803
+6840201,comment,6836994,6836994,1,0,ds9,,,"What&#x27;s the code licence? I didn&#x27;t find any mention of it on the site.<p>If it&#x27;s closed-source, can it be flashed with something open?",1386078786
+5256437,story,,,0,0,,,,,1386078785
+5255932,story,,,0,0,,,,,1386078773
+6840200,comment,6839702,6840174,3,0,spindritf,,,"They can probably make Coors sell better than Miller, or vice versa, OK. But that&#x27;s a minor adjustment, even if worth a lot of money, not a massive change in behaviour like stopping half the population from discovering readily available video games.",1386078769
+6840199,story,,,23,30,louthy,"RF Safe-Stop shuts down car engines with radio pulse",http://www.bbc.co.uk/news/technology-25197786,,1386078749
+6840198,comment,6838836,6840083,2,0,firepoet,,,"Is that where he borrowed it from?  I&#x27;ve seen mention of the language feature showing up in Eiffel, Sather, and so on.  <a href=\"http://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Covariance_and_contravariance_(...</a>",1386078747
+6840197,comment,6836994,6837436,16,0,regorton,,,"Yeah, we totally missed the mark on this. We live BRCK day in, day out, and sometimes forget that we haven&#x27;t explained the detail to people well. This comment has prompted us to rewrite our copy and clean up the site a bit. Watch this space over the next few days. Thanks.(Source: I&#x27;m the CTO of BRCK)",1386078744
+6840196,story,,,1,0,hepha1979,"Forget the doubters, commercial drones are here to stay",http://www.washingtonpost.com/blogs/innovations/wp/2013/12/03/forget-the-doubters-commercial-drones-are-here-to-stay/,,1386078726
+6840195,comment,6839841,6840044,1,0,TeMPOraL,,,"Yes, because gender issues are the most important thing on this planet and everything is deeply related to them.<p>I wonder when people will start whining about how sexist keywords in programming languages are.",1386078719
+6840194,story,,,1,0,ajjuliani,"How to Analyze Literature Better by Watching Football",http://ajjuliani.com/how-to-analyze-literature-better-by-watching-football/,,1386078719
+5253434,story,,,0,0,,,,,1386078714
+6840193,comment,6834093,6836679,1,0,tep,,,"great list and wonderful photos!",1386078700
+5252664,story,,,0,0,,,,,1386078696
+5252241,story,,,0,0,,,,,1386078686
+5252212,story,,,0,0,,,,,1386078686
+6840192,comment,6838434,6840129,3,0,stiff,,,"The example proofs he gives in the article have nothing to do with the way he taught to do programming, they are merely illustration of some of his minor points. Later in the article he says:<p><i>On the other hand, we teach a simple, clean, imperative programming language, with a skip and a multiple assignment as basic statements, with a block structure for local variables, the semicolon as operator for statement composition, a nice alternative construct, a nice repetition and, if so desired, a procedure call. To this we add a minimum of data types, say booleans, integers, characters and strings. The essential thing is that, for whatever we introduce, the corresponding semantics is defined by the proof rules that go with it.</i><p>This sounds exactly like a description of:<p><a href=\"http://en.wikipedia.org/wiki/Predicate_transformer_semantics\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Predicate_transformer_semantics</a><p>And of the approach he uses in &quot;The discipline of programming&quot;, so I think you are the one who is confused.",1386078685
+6840191,comment,6839601,6840127,2,0,oliveoil,,,"Same here, stopped watching around 1998. I though it&#x27;s mostly about the car (which is largely random per-season, yes) and instead of celebrating the design/engineering behind the only things celebrated around f1 are the personalities of drivers, their excesses and their egos.",1386078684
+5252046,story,,,0,0,,,,,1386078682
+6840188,comment,6839702,6840000,33,0,minikites,,,"> There are no obvious factors in my daughter&#x27;s life that should bias her towards pink girly toys, yet she is absolutely obsessed with girly pink clothes and toys.<p>> I honestly can&#x27;t fathom it. Pink attraction seems to be built in. Like a moth to a flame.<p>Yeah, that doesn&#x27;t actually make any sense. Pink:blue::girl:boy is 100% artificial and one recent source has it the other way around:<p>> For example, a June 1918 article from the trade publication Earnshaw&#x27;s Infants&#x27; Department said, “The generally accepted rule is pink for the boys, and blue for the girls. The reason is that pink, being a more decided and stronger color, is more suitable for the boy, while blue, which is more delicate and dainty, is prettier for the girl.” Other sources said blue was flattering for blonds, pink for brunettes; or blue was for blue-eyed babies, pink for brown-eyed babies, according to Paoletti.<p>For centuries prior, both genders were dressed in white.<p>Here&#x27;s the article I&#x27;ve quoted from:<p><a href=\"http://www.smithsonianmag.com/arts-culture/When-Did-Girls-Start-Wearing-Pink.html\" rel=\"nofollow\">http://www.smithsonianmag.com/arts-culture/When-Did-Girls-St...</a><p>It sounds like marketing is more pervasive than you may realize.",1386078671
+6840187,comment,6839601,6840113,11,0,codfrantic,,,"Most of europe, especially VAG[π] cars are turbocharged, either TDI for basically all Diesels and more and more (T)FSI gasoline powered cars.<p>Also look at the Audi R10 TDI [φ]<p>[π]  <a href=\"http://en.wikipedia.org/wiki/Volkswagen_Group\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Volkswagen_Group</a><p>[φ]<a href=\"http://en.wikipedia.org/wiki/Audi_R10_TDI\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Audi_R10_TDI</a>",1386078669
+5250699,story,,,0,0,,,,,1386078650
+6840186,comment,6839841,6839841,7,0,jccalhoun,,,"In contrast, here is an article encouraging women to become programmers that appeared in Cosmopolitan in 1967: <a href=\"http://thecomputerboys.com/?p=239\" rel=\"nofollow\">http://thecomputerboys.com/?p=239</a> and an article that discusses it which contains pictures of a couple other ads: <a href=\"http://www.sas.upenn.edu/~nathanen/files/cbi-gender.pdf\" rel=\"nofollow\">http://www.sas.upenn.edu/~nathanen/files/cbi-gender.pdf</a>",1386078639
+6840185,comment,6839052,6839052,3,0,contextual,,,"I ran a similar experiment with Rejection Therapy a year or so ago. I used big red &quot;DON&#x27;T BUY&quot; purchase buttons and sales went up slightly.<p>Long story as to why I took them down, and I&#x27;m not even sure if I should discuss it so I won&#x27;t.",1386078639
+6840184,story,,,2,0,wikiburner,"A Third of Healthcare.gov Signups Contain System Generated Errors",http://www.washingtonpost.com/national/health-science/health-care-enrollment-on-web-plagued-by-bugs/2013/12/02/e3021b86-5b79-11e3-a49b-90a0e156254b_story.html,,1386078638
+5249718,story,,,0,0,,,,,1386078628
+5249708,story,,,0,0,,,,,1386078627
+5249701,story,,,0,0,,,,,1386078627
+5249697,story,,,0,0,,,,,1386078627
+5249693,story,,,0,0,,,,,1386078627
+5249688,story,,,0,0,,,,,1386078627
+5249684,story,,,0,0,,,,,1386078627
+5249674,story,,,0,0,,,,,1386078627
+5249670,story,,,0,0,,,,,1386078627
+5249666,story,,,0,0,,,,,1386078626
+5249657,story,,,0,0,,,,,1386078626
+6840183,comment,6839702,6840117,3,0,Goladus,,,"Exactly.  This is not to say that marketing cannot be criticized for stereotyping, but it&#x27;s far more likely due to exploitation of the natural differences in populations than the sort of raw prejudice so often implied.",1386078625
+5249614,story,,,0,0,,,,,1386078625
+5249351,story,,,0,0,,,,,1386078619
+5249346,story,,,0,0,,,,,1386078619
+5248933,story,,,0,0,,,,,1386078610
+5248703,story,,,0,0,,,,,1386078604
+5248666,story,,,0,0,,,,,1386078603
+5248661,story,,,0,0,,,,,1386078603
+6840181,comment,6839841,6839994,3,0,TeMPOraL,,,"Also lack of hacker spirit and tendency to with fashion instead of thinking. It doesn&#x27;t seem like an improvement to me, but I guess that&#x27;s what happens when stuff goes mainstream.",1386078599
+5248476,story,,,0,0,,,,,1386078599
+5248457,story,,,0,0,,,,,1386078598
+5248437,story,,,0,0,,,,,1386078598
+5248399,story,,,0,0,,,,,1386078597
+5248379,story,,,0,0,,,,,1386078596
+5248376,story,,,0,0,,,,,1386078596
+5248357,story,,,0,0,,,,,1386078596
+5248356,story,,,0,0,,,,,1386078596
+5248344,story,,,0,0,,,,,1386078595
+5248339,story,,,0,0,,,,,1386078595
+5248331,story,,,0,0,,,,,1386078595
+5248312,story,,,0,0,,,,,1386078595
+5248309,story,,,0,0,,,,,1386078595
+5248302,story,,,0,0,,,,,1386078594
+5248269,story,,,0,0,,,,,1386078594
+6840180,comment,6837034,6837034,1,0,Erwin,,,"I use timers, saving the results in memory and dumping them occasionally then aggregating. Each timer has a category name (like sql query, or one of the many higher-level tasks in the app) plus optional argument (so the actual SQL query, or the thing that had some work performed on it). Each timer just saves min-max-avg time. In the aggregate view you can see that e.g. &quot;foo&#x27;ing&quot; took 20% above average Foo time this week after a new software release and can check that out.<p>For profiling, I&#x27;ve occasionally swapped out some key function with odd characteristics with one runs in a profile. So you can create a new Profiler instance, and patch your weird function to instead call profiler.runcall(func). After you&#x27;ve tested it a few times, you swap back to the old version and dump the stats.<p>If you have multiple proxying layers, multiple processes etc. a useful option is to make e.g. Apache save the request time in the main or another log file. This is the CustomLog %D option. Then you can easily find out that e.g. /foo/bar requests take so and so much on average, with 95% below this number, perhaps even doing real-time warning when they start to increase.",1386078593
+5248207,story,,,0,0,,,,,1386078592
+5248127,story,,,0,0,,,,,1386078590
+5247985,story,,,0,0,,,,,1386078587
+5247936,story,,,0,0,,,,,1386078586
+5247924,story,,,0,0,,,,,1386078585
+5247904,story,,,0,0,,,,,1386078585
+6840179,comment,6839601,6839728,3,0,beat,,,"There used to be an &quot;anything goes&quot; series… the original Can-Am (1966-1986) - what Car and Driver called &quot;the vehicular equivalent of great white sharks in a goldfish bowl&quot;. The regulations were basically &quot;two seats, enclosed fenders&quot;. There was effectively no regulation of engine size or configuration, or of aerodynamics. It was abandoned in part due to extreme cost, and in part due to the safety problems.<p>The last straw for Can-Am, really, was Porsche simply pouring money into it with the 917 until no one could compete with them, rendering the racing kind of boring. Tight regulation in F1 and other racing forms keeps the focus on the driver, not the car.",1386078584
+5247874,story,,,0,0,,,,,1386078584
+5247853,story,,,0,0,,,,,1386078584
+5247841,story,,,0,0,,,,,1386078584
+5247817,story,,,0,0,,,,,1386078583
+5247813,story,,,0,0,,,,,1386078583
+5247611,story,,,0,0,,,,,1386078578
+5247430,story,,,0,0,,,,,1386078574
+5247427,story,,,0,0,,,,,1386078574
+5247270,story,,,0,0,,,,,1386078570
+5247143,story,,,0,0,,,,,1386078567
+5247007,story,,,0,0,,,,,1386078564
+6840177,story,,,1,0,robdoherty2,"Visualizing systems of linear equations and linear transformations",http://www.r-bloggers.com/visualizing-systems-of-linear-equations-and-linear-transformations/,,1386078562
+5246841,story,,,0,0,,,,,1386078560
+6840176,comment,6836581,6839144,1,0,dllthomas,,,"I don&#x27;t pretend it&#x27;ll be &quot;perfect&quot;, but it should let decisions fall (noisily) around what we think of as &quot;fair&quot; (since we&#x27;re all running that assessment through the same hardware) which is really what we&#x27;re looking for.",1386078547
+5246221,story,,,0,0,,,,,1386078546
+6840175,comment,6836387,6838295,2,0,pjc50,,,"Ethernet port on its own is thicker than most smartphones. Having said that, I had almost all of those things you mention on my Toshiba Libretto back in 1998. Wouldn&#x27;t fit in a trouser pocket but would fit in my coat&#x27;s inside pocket.",1386078538
+6840174,comment,6839702,6839943,4,0,joosters,,,"Look at the gigantic sums that companies spend on advertising. They can&#x27;t all be throwing their money away. You can either assume that all these companies are complete fools, or the marketing <i>works</i>.<p>In fact it&#x27;s getting easier to prove nowadays, with so much more data from the likes of adwords, loyalty cards and so on. Marketing has more &#x27;real numbers&#x27; behind it to give confidence in spending the money.<p>Everyone likes to think that advertising doesn&#x27;t affect them. But, <i>it does</i>. You are not immune to it.",1386078528
+5245237,story,,,0,0,,,,,1386078523
+6840173,comment,6837892,6839723,1,0,agumonkey,,,"From the few that I&#x27;ve seen ES6 will bring order to the universe.",1386078514
+6840172,comment,6840164,6840164,1,0,linux_devil,,,"Original post: <a href=\"https://news.ycombinator.com/item?id=6840157\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6840157</a>",1386078504
+5244298,story,,,0,0,,,,,1386078501
+6840171,comment,6839702,6839830,12,0,dasil003,,,"I think Tim Allen invented the Santa Clause.",1386078495
+5243381,story,,,0,0,,,,,1386078480
+6840169,comment,6838757,6838975,1,0,Jacqued,,,"Dammit I&#x27;m so eager to see the whole collection now !<p>Please find a way to make it accessible",1386078465
+6840168,story,,,1,0,hepha1979,"The case for waterless urinals to take over the world",http://www.washingtonpost.com/blogs/innovations/wp/2013/12/03/the-case-for-waterless-urinals-to-take-over-the-world/,,1386078461
+6840167,comment,6839452,6839987,1,0,knowitall,,,"Sure, but doesn&#x27;t that mean that we agree there is no genetic disposition towards liking nail polish/lipstick? The reason people like lipstick is not that they have a genetic disposition to like lipstick, it&#x27;s because lipstick fakes a sexual signal.",1386078457
+5242349,story,,,0,0,,,,,1386078455
+5242110,story,,,0,0,,,,,1386078450
+5242108,story,,,0,0,,,,,1386078450
+5242099,story,,,0,0,,,,,1386078449
+5242089,story,,,0,0,,,,,1386078449
+5241117,story,,,0,0,,,,,1386078427
+6840165,comment,6837034,6837034,2,0,cabalamat,,,"Couldn&#x27;t this code:<p><pre><code>        def inner(func):\n            def nothing(*args, **kwargs):\n                return func(*args, **kwargs)\n            return nothing\n</code></pre>\nBe simplified to:<p><pre><code>        def inner(func):\n            return func</code></pre>",1386078417
+6840164,story,,,1,2,hepha1979,"Sony Sells Over 2 Million PS4 Units In Two Weeks",http://techcrunch.com/2013/12/03/sony-sells-over-2-million-ps4-units-in-two-weeks/,,1386078415
+6840163,story,,,1,0,Andre_,"How I Learned to Stop Procrastinating, & Love Letting Go",http://zenhabits.net/leggo/,,1386078398
+5239496,story,,,0,0,,,,,1386078389
+6840162,story,,,2,0,hepha1979,"Why Blitline is using Docker",http://blog.docker.io/2013/12/how-blitline-is-using-docker/,,1386078387
+6840161,comment,6836387,6838934,2,0,qznc,,,"Agreed.<p>I am still waiting for the Facebook Phone. They already have a fully customized Android Home Screen. The biggest problem is probably that Facebook has no experience in selling physical products.<p>Anybody could slap together an Android customization. On the other hand, what is the point? If you do not profit from selling the hardware (like Samsung) or the software (like Google), then why sell a smartphone? Maybe Salesforce could sell enterprise smartphones bundled with their software.",1386078364
+5238434,story,,,0,0,,,,,1386078364
+6840160,comment,6838836,6839458,1,0,RivieraKid,,,"Have a look at Ceylon, my first impression was that compared to Scala, there&#x27;s much more focus on readability, regularity and productivity. Ceylon is one of the 2 languages (the other isbJulia) that I find almost perfect.",1386078336
+6840159,comment,6839702,6840000,5,0,eseehausen,,,"Pink as a girl&#x27;s color and blue as a boy&#x27;s color is a relatively recent cultural assignation. Maybe she likes it on some genetic level, but your wife obviously doesn&#x27;t, and the way you interpret it is based on marketing that assigned pink to girls.<p><a href=\"http://www.smithsonianmag.com/arts-culture/When-Did-Girls-Start-Wearing-Pink.html\" rel=\"nofollow\">http://www.smithsonianmag.com/arts-culture/When-Did-Girls-St...</a>",1386078335
+6840158,comment,6838494,6839986,1,0,tkirchner,,,"Maybe when analysing the stats it helps to distinguish between the intention of the one implementing the transcompiler (e.g. fun, proof-of-concept, research, money, actual need in a project, ...) and the size of the user-base of the transcompiler (in relation to the user-base of the language that is transcompiled to).<p>Lets say JS&#x27;s user-base is pretty huge in relation to other languages (which is not an argument for JS). The stats show that a lot of languages transcompile to javascript, so I would indicate a real need for such projects, otherwise there would probably just exist a few as fun/proof-of-concept-projects.<p>Similar situation for C/C++ (maybe due to lack of high-level features) and Java (due to lack of practical features).<p>On the other hand: languages that only have a few or no transcompilers that compile to them, does not mean, they are better useable. There could be other things that make writing transcompilers very hard.",1386078329
+5236658,story,,,0,0,,,,,1386078322
+6840156,comment,6835449,6838259,1,0,degenerate,,,"Wow, that&#x27;s a thorough article. Thanks for sharing!",1386078304
+6840155,comment,6838495,6838962,1,0,TeMPOraL,,,"I guess NSA could run a much, much more accurate version of such service.",1386078300
+6840154,comment,6838757,6840061,2,0,gabemart,,,"Copyright prevents OP from doing so.",1386078296
+6840153,comment,6839841,6840056,2,0,balakk,,,"I thought it was more about the perks.",1386078284
+6840152,comment,6839702,6840000,9,0,tehwalrus,,,"My Niece&#x27;s pink obsession began as soon as she started school - I think it&#x27;s a mixture of peer pressure and subtle clues (e.g. the grandparent&#x27;s &quot;aren&#x27;t you pretty&quot; comment.)<p>It&#x27;s actually amusing in her in particular - she must wear pink, and mummy must do her hair nicely, but then once that&#x27;s done she&#x27;s outside climbing trees and getting muddy. It seems that once she&#x27;s put on the &quot;girl uniform&quot;, she can go be herself again.",1386078280
+6840151,comment,6839702,6839943,3,0,leokun,,,"> I don&#x27;t buy it.<p>There&#x27;s an entire branch of social science that spends a lot of time on marketing, sociology. I recommend reading up on it from an academic perspective. Marketing is very influential but it isn&#x27;t mind control. I&#x27;d say it shapes expectations more than create demand for particular products. And from an anthropological perspective I&#x27;d say marketing actually reveals more about a culture than it creates.",1386078265
+6840150,story,,,2,0,hepha1979,"Google Compute Engine is now Generally Available with expanded OS support ",http://googledevelopers.blogspot.com.ar/2013/12/google-compute-engine-is-now-generally.html,,1386078262
+6840149,comment,6839601,6839951,1,0,widdershins,,,"Huh? Tires have always been one of the most strategic elements of F1.",1386078250
+5233072,story,,,0,0,,,,,1386078239
+6840148,comment,6838299,6840085,7,0,teddyh,,,"Well, maybe they shouldn’t do that, then.  If they don’t want a web site that wide, they shouldn’t make the web browser window that wide.<p>(Oh, I forgot that the web browser is not an application, but a platform and an OS in its own right, and has replaced the native OS.  Silly me.)",1386078232
+6840147,comment,6839601,6839601,30,0,pbo,,,"I wrote firmware (~20kLocs) for a power (electrical) supply that&#x27;s part of one such power train.<p>This kind of development is very demanding, because you can&#x27;t afford to leave any bugs in your program but at the same time you&#x27;re always shipping late because of tight schedules and often blurry specifications.<p>On top of that hardware and software development cycles are concurrent, so no target hardware available when you&#x27;re writing your code.<p>In these conditions the only way I found to have something that works is to keep it very simple:<p><pre><code>    1. Simple algorithms\n    2. Simple data structures\n    3. Few abstractions\n    4. No dynamic memory allocations\n</code></pre>\nAlso, no compiler optimizations.",1386078224
+6840146,comment,6838299,6838299,2,0,mosselman,,,"So he built some stuff in the real world rather than digitally? Wow, that is very worthy of the word &#x27;Genius&#x27;.<p>Meanwhile: <a href=\"http://www.instructables.com/\" rel=\"nofollow\">http://www.instructables.com/</a>",1386078211
+6840145,comment,6839702,6839859,3,0,exelius,,,"The &quot;casual gaming&quot; market of today is a lot healthier than the console market of the early 80s. In 1983, the world was enchanted by the potential of video games but the technology just wasn&#x27;t ready yet. If anything, the great gaming crash scared off the companies that jumped in because it was popular but weren&#x27;t ready to innovate and paved the way for the real innovators like Nintendo and Sega.<p>The casual gaming market is nothing like that. It&#x27;s really just the long tail of the larger $70 billion gaming industry. Add to that the fact that smartphone penetration ramping up in emerging markets that never really saw significant console sales and you&#x27;ve got access to a lot more consumers.",1386078209
+6840144,story,,,1,0,hepha1979,"DailyJS: Connect-cache-manifest, pushnot",http://dailyjs.com/2013/12/02/connect-cache-manifest-pushnot/,,1386078206
+6840143,comment,6839702,6840060,3,0,AlexandrB,,,"If marketing doesn&#x27;t, then what does? Culture? But marketing is <i>part</i> of culture. In fact it has become inseparable from it.<p>When I was growing up the &quot;I am Canadian&quot;[1] rant was a super-popular thing in my school. But this is from a beer ad of all things! And yet in some way it helped shape what being Canadian meant for a significant number of people at the time. If you make the argument that your peer group influences what is normal that&#x27;s still no escape from marketing as friends of mine were literally quoting this ad word-for-word.<p>I think you&#x27;d be hard-pressed to find a straight line between marketing and a specific effect. Ideas and culture don&#x27;t work like that. But they <i>do</i> work, otherwise nothing cultural would ever change - fashion, as an industry, wouldn&#x27;t exist.<p>[1] <a href=\"https://www.youtube.com/watch?v=WMxGVfk09lU\" rel=\"nofollow\">https://www.youtube.com/watch?v=WMxGVfk09lU</a>",1386078203
+5231353,story,,,0,0,,,,,1386078200
+6840142,comment,6839601,6840097,3,0,T-zex,,,"Its a matter of taste I suppose. I did not enjoy this season. Maybe I&#x27;m too spoiled by MotoGP.",1386078199
+5230648,story,,,0,0,,,,,1386078184
+5230645,story,,,0,0,,,,,1386078184
+5230635,story,,,0,0,,,,,1386078184
+5230629,story,,,0,0,,,,,1386078183
+5230623,story,,,0,0,,,,,1386078183
+5230616,story,,,0,0,,,,,1386078183
+5230614,story,,,0,0,,,,,1386078183
+5230598,story,,,0,0,,,,,1386078183
+6840141,comment,6839601,6840019,5,0,jsvaughan,,,"You might be referring to the Gordon Murray designed Brabham BT46 &quot;Fan car&quot;:<p><a href=\"http://en.wikipedia.org/wiki/Brabham_BT46\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Brabham_BT46</a>",1386078176
+5230161,story,,,0,0,,,,,1386078173
+6840140,story,,,196,20,hepha1979,"Linux Voice",http://www.raspberrypi.org/archives/5366,,1386078170
+6840139,comment,6827554,6827554,1,0,lylo,,,"FreeAgent<p>Edinburgh or REMOTE.<p><a href=\"http://www.freeagent.com\" rel=\"nofollow\">http://www.freeagent.com</a><p>jobs@freeagent.com<p>## TL;DR<p>We&#x27;re looking for Software Engineers to work on leading Ruby/Rails app for successful UK SaaS accounting platform FreeAgent.<p>## Details<p>We’re looking for people to come and contribute towards our mission of democratising accounting for small businesses across the world!<p>We’re the leading UK online accounting platform with over 33,000 delighted customers and continued high growth. We have a brilliant team of engineers and designers who are developing with cutting-edge tech at scale. We have a wealth of technical challenges for you to solve and we can provide a friendly, creative and collaborative environment in which to solve them.<p>More details on the website:<p><a href=\"http://www.freeagent.com/company/jobs/software-engineer\" rel=\"nofollow\">http://www.freeagent.com/company/jobs/software-engineer</a>",1386078169
+5229639,story,,,0,0,,,,,1386078161
+6840138,comment,6839702,6840080,7,0,spindritf,,,"> There are considerably more open gay people today than 50 or 100 years ago.<p>There are considerably more people having pre-marital sex, too. My pet theory is that with the increase of wealth and progress in technology, medicine, we can afford more risk including tolerance of risky behaviour.<p>With things like the antibiotics, condoms, hormonal contraception, abortion (that is not likely to kill you) and just generally low risk of destitution, people don&#x27;t need to be as careful as they used to. Many religious taboos are guidelines for surviving in a harsh world, and the world just isn&#x27;t that harsh any more.<p>But those are real, material changes. It&#x27;s not a matter of perception.",1386078155
+5229256,story,,,0,0,,,,,1386078152
+5229188,story,,,0,0,,,,,1386078150
+5229146,story,,,0,0,,,,,1386078149
+5229121,story,,,0,0,,,,,1386078149
+5229050,story,,,0,0,,,,,1386078147
+5228660,story,,,0,0,,,,,1386078138
+6840136,comment,6838299,6838299,1,0,vinceguidry,,,"I used to have an apartment where the heat didn&#x27;t really work. I could run it all day and it&#x27;d still be freezing inside. Rather than fight it I just shut the heat off and went to get a space heater. Well the room was open so even sitting right next to it didn&#x27;t really cut it.<p>So I went to Lowes and got a bunch of PVC pipe and angle couplings. I built a 5x5x6ft enclosure and threw a bunch of blankets/sheets on it to make a little room inside a room to hold my desk, me and my space heater. I was nice and comfy all winter.<p>Another time I needed a desk for my computer and didn&#x27;t have much money to work with. This was around the time that whole &quot;FedEx box furniture&quot; thing hit the Internet. I worked at a little pack-and-ship place and we had a bunch of extra UPS boxes so I nabbed them and some tape and went nuts. It took some tweaking before it would accept the weight of my CRT, but eventually it did.",1386078133
+6840135,comment,6839702,6840000,2,0,leokun,,,"> Recently she asked for a pirate ship for her birthday, so it isn&#x27;t all bad.<p>Hrm, Jake and the Neverland Pirates fan? My daughter likes izzy and I saw an izzy costume on Halloween. Pirates are getting popular.",1386078131
+6840134,story,,,1,0,eliot_sykes,"Collection of CSS3 Hover Effects",http://www.thomashardy.me.uk/a-collection-of-css3-hover-effects,,1386078111
+5227424,story,,,0,0,,,,,1386078109
+5227409,story,,,0,0,,,,,1386078109
+5227401,story,,,0,0,,,,,1386078109
+5227376,story,,,0,0,,,,,1386078108
+5227361,story,,,0,0,,,,,1386078108
+6840133,comment,6836387,6837773,2,0,pjc50,,,"Not enough power for the RF transmission; even if you go off-network while not in use (so you can&#x27;t recieve SMS), then you still end up needing to do quite a few 2W burst transmissions to get back on and send the SMS.<p>Also, peltier requires a temperature <i>difference</i>; keeping it warm in your pocket is not enough.",1386078107
+5227338,story,,,0,0,,,,,1386078107
+5227279,story,,,0,0,,,,,1386078106
+6840132,comment,6839702,6840017,3,0,gabemart,,,"A color combination that works for a printed page may not work well for a luminescent display due to the inherent superiority of printed material in terms of readability and eye comfort.<p>I don&#x27;t have any eye issues and am not in the &quot;older folks&quot; demo. I still found the page annoying to read.",1386078101
+5226888,story,,,0,0,,,,,1386078097
+6840131,comment,6839601,6839601,3,0,colin_jack,,,"As with F1 races, the article seemed interesting at the start but quickly bores the heck out of you.",1386078082
+6840130,comment,6839702,6840060,8,0,shawabawa3,,,"And he posted some evidence that yes, it really does.<p>The diamonds marketing campaign shows that marketing really can completely change cultural norms",1386078053
+6840129,comment,6838434,6839050,4,0,scaramanga,,,"You are confused about the manner of &quot;formal methods&quot; Dijkstra was proposing. His examples given are all using &quot;informal proofs.&quot; That is to say, non mechanically verified proofs.<p>If you create a program in such a way that the properties you claim it has cannot be, even informally, proved. Then you have no reason to believe it works as advertised what-so-ever.<p>He did also propose a research program in to more formalised transformations and so on to help the programmer - which is a separate thing. But we all know about the difficulty of this and it&#x27;s failure to materialise in any significant way (yet) for the average programmer.<p>The reason that that is, or was, a tantalising prospect is that when humans construct correct programs using informal proofs, they are using the same very simple abstractions over and over again. Therefore a system to automatically transform specifications to programs or whatever need not have all the troublesome properties of completeness and such like and may, in fact, be quite tractable. It&#x27;s debatable whether anyone still think&#x27;s that that&#x27;s likely.",1386078052
+6840128,comment,6837722,6838319,2,0,marcosdumay,,,"> Another way to say near-tautology is &quot;something that is true&quot;.<p>Something that is true, but has a completely different meaning from what a naive reading implies.<p>Your statement is only true if we include the extrema at the &quot;somewhere in the middle&quot; interval.",1386078044
+5224028,story,,,0,0,,,,,1386078029
+5223922,story,,,0,0,,,,,1386078027
+5223892,story,,,0,0,,,,,1386078026
+5223891,story,,,0,0,,,,,1386078026
+5223824,story,,,0,0,,,,,1386078025
+5223656,story,,,0,0,,,,,1386078021
+5223509,story,,,0,0,,,,,1386078018
+5223493,story,,,0,0,,,,,1386078017
+6840127,comment,6839601,6839601,5,0,Spearchucker,,,"I stopped watching F1 about 10 years ago, and these new changes just reaffirm that decision. It&#x27;s no longer about best car + best driver. It&#x27;s about mixing it up, making it random, to maximise viewer numbers. Not the kind of racing I go for.",1386078016
+5222932,story,,,0,0,,,,,1386078004
+6840126,comment,6839841,6840038,14,0,petercooper,,,"<i>Especially</i> of that era. <i>Carry On</i> movies, <i>On The Buses</i> and all that. Doesn&#x27;t necessarily make it right in the modern context but bawdy humour was absolutely the norm up into the 80s.<p>I watched the <i>On The Buses</i> movie a while ago and was actually taken aback by a scene near the intro where the two main characters basically restrain and grope a new female bus conductor. And that was the best selling British movie of 1971 and one for all the family..! :-)",1386077974
+6840125,comment,6834093,6835404,2,0,sanoli,,,"Plus, if you <i>want</i> to get good at doing burpees, I bet you&#x27;d get pretty good after a year.",1386077973
+5221451,story,,,0,0,,,,,1386077969
+5221435,story,,,0,0,,,,,1386077969
+5221400,story,,,0,0,,,,,1386077968
+6840124,comment,6840078,6840078,3,0,mswen,,,"That is a pretty ordinary structure in corporate life, just worded kind of oddly.  Generally you would refer to the 70% as the base and the 30% as the bonus.<p>Bonuses often have 2 or 3 parts.  Part 1 - has the company met its quarterly financial goals, Part 2 - has your department or business unit met its goals (financial or other relevant metric), Part 3 - have you met your personal goals for the quarter.<p>So it is not the concept but the wording that is odd.  Your friend should make sure that he counts the 70% as the true base salary when deciding whether this job makes sense for him.",1386077966
+6840123,comment,6838917,6838917,2,0,3rd3,,,"I find infinite mathematical structures interesting from a philosophical point of view, because it’s not possible to reconstruct these concept in the physical world. In fact there is a mathematical-philosophical movement refusing infinite structures: <a href=\"http://en.wikipedia.org/wiki/Finitism\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Finitism</a>",1386077958
+5219844,story,,,0,0,,,,,1386077931
+6840122,comment,6836387,6839985,1,0,mcv,,,"Lowest end? The Samsung Galaxy S4 and HTC One aren&#x27;t exactly low-end, and those are the two phones everybody is offering now. The ones you get for free with low-end contracts are low-end, but you can get some pretty nice discounts on high-end phones too.<p>At least apparent discounts. You pay for them through your contract, and if the difference with a sim-only contract is small, that&#x27;s because sim-only contracts are way too expensive.<p>Carriers are big, but it is possible to get around them. Most people get a phone with contract, but a lot of people really do go sim-only.<p>Fairphone is a nice example of a small Dutch organization that makes a revolutionary new phone (not available in the US). It&#x27;s very successful so far, but also because they&#x27;re not inventing their own platform; it&#x27;s still Android. But the hardware is indie, so that at least can be done. (And a major carrier ordered a 1000 of them.)",1386077909
+6840121,story,,,2,0,jlemoine,"Show HN: How I added typeahead search in Jekyll blog with 50 lines of code",http://sylvain.utard.info/2013/11/27/how-i-improved-Tom-Preston-Werner-s-jekyll-based-blog-with-50-lines-of-code/,,1386077899
+5218121,story,,,0,0,,,,,1386077892
+5218114,story,,,0,0,,,,,1386077891
+5218102,story,,,0,0,,,,,1386077891
+5218089,story,,,0,0,,,,,1386077891
+5218084,story,,,0,0,,,,,1386077891
+5218078,story,,,0,0,,,,,1386077891
+5218069,story,,,0,0,,,,,1386077890
+5218061,story,,,0,0,,,,,1386077890
+6840120,comment,6839702,6840103,2,0,knowitall,,,"True :-) More people seem to be concerned about girls liking pink than about boys not liking pink, though.",1386077879
+5217272,story,,,0,0,,,,,1386077872
+6840119,comment,6839841,6840056,1,0,forinti,,,"Which is not so great at 26,200 2012 pounds.",1386077869
+5217035,story,,,0,0,,,,,1386077867
+6840118,comment,6838757,6838853,1,0,drcongo,,,"Another vote for this option. These guys are ace.",1386077866
+5217029,story,,,0,0,,,,,1386077866
+5217015,story,,,0,0,,,,,1386077866
+5217011,story,,,0,0,,,,,1386077866
+5216936,story,,,0,0,,,,,1386077864
+6840117,comment,6839702,6839867,7,0,macspoofing,,,"And your argument just presouposes a certain causality. Do marketers market pink toys to girls because that&#x27;s what they want girls to buy, or because that&#x27;s what girls want to buy? It seems the latter is much easier, than the former, No?<p>It&#x27;s so stupid, because the arguments are always structured as, &quot;society forces behaviour on girls and boys&quot;, when it seems pretty obvious it&#x27;s more of a feedback loop. Tendencies trend in a gender, that &quot;informs&quot; society, which then reinforces them, and so on.",1386077855
+6840116,story,,,1,0,jarek-foksa,"Information Google receives when you use Chrome",https://www.google.com/intl/en/chrome/browser/privacy/,,1386077849
+6840115,comment,6837298,6837642,1,0,bpaluzzi,,,"I also don&#x27;t think this is pedantry - it&#x27;s one of the main parts of the article, and it currently doesn&#x27;t make any sense.",1386077847
+5215950,story,,,0,0,,,,,1386077842
+5215941,story,,,0,0,,,,,1386077842
+5215934,story,,,0,0,,,,,1386077841
+5215925,story,,,0,0,,,,,1386077841
+5215916,story,,,0,0,,,,,1386077841
+5215840,story,,,0,0,,,,,1386077839
+6840114,story,,,1,5,seertaak,"Ask HN: What's a fair price for an \"app\" website, and related blog?",,"I&#x27;m currently writing a music app (&quot;Infinity -- the looper that knows your song&quot;) for OSX, and I&#x27;m at the point where I need create a website and blog. The website should be single-page, essentially displaying screenshots and/or screen capture as a banner, along with the typical 3-column &quot;major features&quot; thing below. Also, the site should have the ability to accept payments via credit card or PayPal (i.e. you should be able to buy and download the app).<p>I was thinking that both the app page and the blog could be done with Wordpress. So essentially, the work involved would be:<p><pre><code>  - designing a custom theme\n  - configure Wordpress so that I can easily upload new content to the main page (e.g. banner and feature parts) and blog (posts)\n  - configure the e-commerce solution\n</code></pre>\nI&#x27;m interested in knowing a ballpark figure for a) the design and b) the implementation of such a site.<p>For reference, I&#x27;ve been quoted a price between 450 EUR and 1500 EUR ($600 to $2050,  depending on time taken) <i>only for the design, for each of the blog and site</i> (i.e. twice the that range for total!). I think that&#x27;s a bit steep, but it&#x27;s the first time I&#x27;ve commissioned design, so I don&#x27;t have a good reference point. At that price, I would have done all the Wordpress configuration myself, since it&#x27;s not really that hard.<p>UPDATE: I had the wrong figures for quoted price.<p>Many thanks in advance!",1386077827
+5215202,story,,,0,0,,,,,1386077824
+5215185,story,,,0,0,,,,,1386077824
+5215164,story,,,0,0,,,,,1386077823
+5215155,story,,,0,0,,,,,1386077823
+5215135,story,,,0,0,,,,,1386077823
+5214960,story,,,0,0,,,,,1386077819
+6840113,comment,6839601,6840074,11,0,cjrp,,,"> This is an area that has been slow to change over the years, due to the small amount of turbocharged vehicles available new. Most turbos are used in heavy machinery (garbage trucks, big rigs, etc.), a slowly changing industry.<p>I&#x27;m not sure this is true in England - most diesel cars on the road have a turbocharger.",1386077813
+6840112,comment,6839601,6839874,1,0,logicallee,,,"As you say &quot;decades&quot; I did a cursory search for a video (assuming perhaps at some point during that time someone thought to make one.)  I found this interesting video:<p><a href=\"http://www.youtube.com/watch?v=qcPsSI4O2S0\" rel=\"nofollow\">http://www.youtube.com/watch?v=qcPsSI4O2S0</a><p>but would certainly like to see an F1 care drive literally upside-down (normal to horizontal) if you have anything like that.  I just searched for a second on YouTube.",1386077811
+5214532,story,,,0,0,,,,,1386077808
+6840109,comment,6839702,6840018,20,0,jaimebuelta,,,"Compliment women (not only girls) &quot;by default&quot; on their looks actually drives me nuts. It&#x27;s used even in situations where is totally irrelevant (e.g. radio show). It is really engraved n our culture.",1386077797
+6840108,comment,6839601,6840019,4,0,Angostura,,,"Here&#x27;s a BBC documentary about it from 1981: <a href=\"http://youtu.be/xxvcUnmBF8I?t=3m37s\" rel=\"nofollow\">http://youtu.be/xxvcUnmBF8I?t=3m37s</a> called Gentlemen Lift Your Skirts.",1386077794
+6840107,comment,6838179,6838844,1,0,TylerE,,,"It doesn&#x27;t seat 7 <i>adults</i>. Look at that roofline! I doubt any one over about 4&#x27; 8&quot; would be comfortable in that 3rd row.",1386077784
+5213478,story,,,0,0,,,,,1386077782
+6840106,comment,6839702,6839702,2,0,analog31,,,"I wonder if it&#x27;s a simple market differentiation factor, like why there are 100 different kinds of breakfast cereal. Creating two immiscible classes of toys effectively doubles the variety, and the floor space devoted to toys in stores. It makes hand-me-downs less appealing if you&#x27;ve got one kid of each kind. That factor alone would create a noticeable sales bump for toy stores, even if the differences were totally arbitrary. But the differences have to be strong enough so that the toys of each sex invoke the yuck response in the other sex.",1386077773
+6840105,comment,6839052,6839645,6,0,hobs,,,"Thanks for the information, I had no idea there was such pointless hypocrisy going on. \nThe game is still fun, but their response seems nonsensical to me. The distinction is lost on me.",1386077767
+6840103,comment,6839702,6840014,8,0,rmc,,,"But very definitely not give into the wishes of their sons who want pink. Parents apply pressure too.",1386077727
+6840102,comment,6839702,6840042,1,0,runarberg,,,"Doesn&#x27;t falsify my point.<p>If everybody was rational, then no advertising would perform signalling function if it wouldn&#x27;t serve to maximize our utility.",1386077727
+5211088,story,,,0,0,,,,,1386077726
+5211056,story,,,0,0,,,,,1386077725
+6840101,comment,6838836,6839616,7,0,teacup50,,,"I really appreciate that Scala has a mature, rational, even-keeled community.",1386077724
+5211026,story,,,0,0,,,,,1386077724
+5210994,story,,,0,0,,,,,1386077723
+5210992,story,,,0,0,,,,,1386077723
+5210977,story,,,0,0,,,,,1386077723
+5210941,story,,,0,0,,,,,1386077722
+5210923,story,,,0,0,,,,,1386077722
+5210763,story,,,0,0,,,,,1386077718
+5210642,story,,,0,0,,,,,1386077715
+5210632,story,,,0,0,,,,,1386077715
+5210627,story,,,0,0,,,,,1386077715
+5210600,story,,,0,0,,,,,1386077714
+5210593,story,,,0,0,,,,,1386077714
+5210521,story,,,0,0,,,,,1386077712
+5210497,story,,,0,0,,,,,1386077712
+5210358,story,,,0,0,,,,,1386077708
+6840100,comment,6839702,6839826,5,0,6d0debc071,,,"Barbies are fun. But that&#x27;s not the point. Marketing is about identity at least as much as it is about the product. You look at beer adverts, how many of them directly bear on the beer?<p><a href=\"http://youtu.be/MX145Tu4MHY\" rel=\"nofollow\">http://youtu.be/MX145Tu4MHY</a><p>That could be any beer, or a magic potion, you know nothing about it.<p>Or shower gel<p><a href=\"http://youtu.be/DVm00UBdS0Y\" rel=\"nofollow\">http://youtu.be/DVm00UBdS0Y</a><p>Or cars<p><a href=\"http://youtu.be/ox_uDBrkp-M\" rel=\"nofollow\">http://youtu.be/ox_uDBrkp-M</a><p>&quot;You can have this car, and everything that goes with it.&quot;<p>&quot;Now you can drive the story.&quot;<p>There&#x27;s certainly an element of information there, at least when you start getting onto companies that have an advantage in a technical area. But often, you&#x27;re being sold a role: Buy this and you&#x27;ll get women, wealth, etc.<p>When I was a girl, and still to an extent now I&#x27;m older, I wanted the things I was told I was going to like, and which it was expected that I was going to. You look at something and you see someone like you, or with some aspect of life that you want to have. A lot of the pitch towards us isn&#x27;t dolls, it&#x27;s friendship, or fashion, or something like that - broadly speaking, group identity.<p>The problem is you don&#x27;t see the comparisons. If there aren&#x27;t people like you being forwarded as enjoying and having fun with something, you may never try it, and even if you do the chances are that few people like you will, so you lose a lot of the social enjoyment that goes along with a thing.<p>Of course you&#x27;re right. If girls all really <i>hated</i> barbies, we probably wouldn&#x27;t have played with them - though I&#x27;ve no doubt some of us would have out of a desire to fit in. But that&#x27;s not really the point. The question is how closely that approaches optimal; the most enjoyment that we could have got from a range of options, only a narrow range of which are promoted to us and will allow us to still be accepted by our friends who have also had these identities sold to them.",1386077707
+5210315,story,,,0,0,,,,,1386077707
+5210307,story,,,0,0,,,,,1386077707
+5210299,story,,,0,0,,,,,1386077707
+5210249,story,,,0,0,,,,,1386077706
+5210225,story,,,0,0,,,,,1386077705
+5210051,story,,,0,0,,,,,1386077701
+5210041,story,,,0,0,,,,,1386077701
+6840099,story,,,2,0,deepblueocean,"This Man Wants to Clean Your Dirty Bitcoin Laundry",http://www.wired.com/business/2013/12/cleancoin/,,1386077697
+5209789,story,,,0,0,,,,,1386077695
+6840098,comment,6836387,6839834,1,0,pyre,,,"> It took Google, with a large chunk of the smartest engineers on the planet, about 4 years<p>Google didn&#x27;t take people off of other projects, and turn every engineer that they had at the problem of &quot;making Android competitive,&quot; so this statement is a bit of an exaggeration.",1386077689
+5209541,story,,,0,0,,,,,1386077689
+5209391,story,,,0,0,,,,,1386077686
+5208800,story,,,0,0,,,,,1386077673
+6840097,comment,6839601,6840075,1,0,k-mcgrady,,,">> &quot;I&#x27;d rather see wheel to wheel action than listen to the comments about how this guy in a second place will have to save his tires and give up positions to score a few points.&quot;<p>The only reason he is in 2nd place is because he didn&#x27;t save his tyres - and the reason he has to now lose places is because the guys behind did. In the end it usually works out the way it should be and we get some fighting on the last few laps. Even 5 years ago the last 15-20 laps were a procession to the line. I think introducing a bit of excitement towards the end is much better.",1386077667
+6840096,comment,6838836,6839819,1,0,CmonDev,,,"Easy - drop the JVM branch and continue the CLR branch. This way you could gain better performance as well.",1386077665
+6840095,comment,6839702,6839826,8,0,rmc,,,"Society was able to convince millions of LGBT people to suppress some pretty fundamental desired and wishes. It takes  a lot of strength to overcome it, many people used to just kill themselves instead. And you think children are stronger than that when it comes to toys?",1386077664
+5208319,story,,,0,0,,,,,1386077661
+5208309,story,,,0,0,,,,,1386077661
+6840094,comment,6836387,6839527,2,0,wingerlang,,,"A sushi place* I went to had an iPad on each table with an app that let you order stuff to the table, very handy I must say.<p>*Sakae sushi in Beraya Times Square, Kuala Lumpur.",1386077642
+6840093,comment,6839601,6839895,2,0,masklinn,,,"Refueling was only banned in 1984, it was allowed before that.<p>So using the historical argument, it&#x27;s the refueling ban whose stint has been brief (1984 - 1993, and 2010 - ?)",1386077632
+6840092,comment,6838836,6839870,15,0,playing_colours,,,"Please don&#x27;t exaggerate. There are only 2 posts from the same user there where an author mentioned laziness and self-defence as possible reasons to dislike Scala.<p>Most posts are really about the existing problems and what can be done to improve things in Scala. In general I find this conversation very constructive and mature. I use Scala at work and see how things are gradually improving, and this conversation makes me more assured that language/community continue to move in that direction.",1386077615
+6840091,story,,,1,0,kshatrea,"India seeks US help to intercept chats from online platforms",http://economictimes.indiatimes.com/news/politics-and-nation/india-seeks-us-help-to-intercept-chats-from-online-platforms/articleshow/26759440.cms,,1386077597
+6840090,comment,6839702,6839960,4,0,TheLegace,,,"Makes me think of this, obviously causation != correlation but it&#x27;s a funny graph1[1] nontheless.<p>[1]<a href=\"http://blog.sid3windr.be/wp-content/uploads/2007/04/crimegames.jpg\" rel=\"nofollow\">http://blog.sid3windr.be/wp-content/uploads/2007/04/crimegam...</a>",1386077592
+5205100,story,,,0,0,,,,,1386077587
+6840089,comment,6839702,6839702,12,0,ZeroGravitas,,,"I thought the more important point was how much these differences were in the eye of the beholder rather than actual objective facts.<p>For example, the various farm sim, candy crush, peggle, word game, social things that many &quot;non-gamer&quot; women in my life seem obsessed by get quietly excluded from discussions about games and gamers because they don&#x27;t fit the stereotype.<p>Similarly, Barbie is a &quot;doll&quot;, she lives in a &quot;doll house&quot;, and boys don&#x27;t play with dolls or doll houses. No, the small minature people my son plays with are action figures and have &quot;bases&quot;, or are &quot;knights&quot; and have &quot;castles&quot;, or are lego people, who do have houses (though usually of fairly avant-garde design). Could you explain to a martian why these are supposedly such different activities that were encoded for back in the hunter-gatherer days?",1386077581
+5204685,story,,,0,0,,,,,1386077577
+5204676,story,,,0,0,,,,,1386077577
+5204670,story,,,0,0,,,,,1386077577
+5204661,story,,,0,0,,,,,1386077576
+5204642,story,,,0,0,,,,,1386077576
+5204622,story,,,0,0,,,,,1386077576
+5204606,story,,,0,0,,,,,1386077575
+5204593,story,,,0,0,,,,,1386077575
+5204568,story,,,0,0,,,,,1386077574
+5204450,story,,,0,0,,,,,1386077572
+5204221,story,,,0,0,,,,,1386077566
+6840088,story,,,11,4,m4xt3r,"Making churn an actionable metric",http://www.jitbit.com/news/187-making-churn-an-actionable-metric/,,1386077564
+5204051,story,,,0,0,,,,,1386077562
+6840087,comment,6839601,6839895,6,0,jackgavigan,,,"That&#x27;s not strictly true. Refuelling was allowed (or, more accurately, it wasn&#x27;t banned) from 1950 (the first F1 world championship) thru 1983. Fangio did a deliberate pitstop during his famous win at the Nürburgring in 1957 [1].<p>However, it appears that it wasn&#x27;t until 1983 that a team (Brabham) deliberately built a car with a tank too small to hold enough fuel to finish a race [2]. Brabham went on to win the 1983 championship and refuelling was banned from 1984.<p>[1]: <a href=\"http://en.wikipedia.org/wiki/1957_German_Grand_Prix\" rel=\"nofollow\">http://en.wikipedia.org/wiki/1957_German_Grand_Prix</a>\n[2]: <a href=\"http://www.formula1-dictionary.net/refueling.html\" rel=\"nofollow\">http://www.formula1-dictionary.net/refueling.html</a>",1386077561
+5203937,story,,,0,0,,,,,1386077560
+6840086,comment,6838917,6839260,1,0,Sajaki,,,"SQL is based on Set theory. \n<a href=\"http://seanmehan.globat.com/blog/2011/12/20/set-theory-and-sql-concepts/\" rel=\"nofollow\">http://seanmehan.globat.com/blog/2011/12/20/set-theory-and-s...</a>",1386077558
+5203787,story,,,0,0,,,,,1386077556
+6840085,comment,6838299,6839744,4,0,vinceguidry,,,"Please don&#x27;t do a serious website without a container div limiting the width of the reading area. Most people with laptops keep their browser windows maximized, and resizing the window just to read one article is a huge pain in the ass. I usually just decide not to bother. Otherwise that website&#x27;s great.",1386077538
+5202845,story,,,0,0,,,,,1386077535
+6840084,comment,6834179,6838395,2,0,teacup50,,,"> <i>On which OS is crossing the process boundary expensive?</i><p>All of them, always. It&#x27;s either expensive in terms of resource cost (requiring serialization and complex local IPC overhead), or expensive in terms of complexity (requiring shared memory and inter-process coordination).",1386077485
+6840083,comment,6838836,6840001,0,0,CmonDev,,,"Agreed, Covariance / Contravariance was a fantastic feature to borrow from C#! It just should have been implemented to be friendlier to people new to language.",1386077470
+6840082,comment,6835392,6836627,1,0,kuschku,,,"Or printing out and handing it over.",1386077464
+5199830,story,,,0,0,,,,,1386077463
+6840081,comment,6839702,6840000,3,0,rmc,,,"Peer pressure?",1386077456
+5198734,story,,,0,0,,,,,1386077437
+5198182,story,,,0,0,,,,,1386077424
+6840080,comment,6839702,6839943,9,0,rmc,,,"Gay people. There are considerably more open gay people today than 50 or 100 years ago.<p>Either there are more gay people naturally today, or the societal pressures 50 to 100 years ago to marginalise gay people were successful and were able to convince lots of people to stay in the closet.<p>If society can do that to gay people, can the same happen to gender roles?",1386077422
+5197688,story,,,0,0,,,,,1386077413
+6840079,story,,,1,0,fcat,"Dependencies with Python: a bit of history",http://blog.gemnasium.com/post/68876047695/dependencies-with-python-a-bit-of-history,,1386077410
+6840078,story,,,1,2,jf22,"Ask HN: 70% of Salary all the time, 30% if a company meets its projections... ",,"Friend of mine applied to this place which has a strange salary payout scheme.<p>You get 70% of your salary paid like normal, once every two weeks.<p>You get paid 30% of your salary only IF the company meets its projections/goals every quarter.<p>That&#x27;s crazy right? Would you take a job like that?",1386077389
+6840077,comment,6838434,6839228,4,0,marcosdumay,,,"> Jesus, could he be any more smug?<p>Funny that I think that statement is extremely humble.",1386077379
+6840076,comment,6839601,6839848,3,0,TheLegace,,,"I don&#x27;t know when I think about how the F1 car can drive upside down it almost makes me want to see these awesome 3D tracks where cars do all sorts of death defying racing and tracks that we have seen in science fiction become possible because advance AIs are so much faster.<p>Maybe people would want to watch it on video or even VR so it seems like they are actually there. Who knows if done right it could be a better experience then looking at 1 piece of a race track for hours.",1386077358
+6840075,comment,6839601,6839964,2,0,T-zex,,,"Absolutely. Tire management is important, but it should not be essential. Reckless breaking with wheels locked should have its consequences. I&#x27;d rather see wheel to wheel action than listen to the comments about how this guy in a second place will have to save his tires and give up positions to score a few points.",1386077353
+6840074,comment,6839601,6839601,15,0,bliti,,,"The interesting bit here is the development of the turbochargers. This is an area that has been slow to change over the years, due to the small amount of turbocharged vehicles available new[1]. Most turbos are used in heavy machinery (garbage trucks, big rigs, etc.), a slowly changing industry. They do not face the same regulations as regular autos.<p>Seems they are doing away with the wastegate and replacing it with an electric motor. Using the energy of the engine exhaust to generate electricity. This energy is normally lost or wasted on a typical turbocharged or naturally aspirated engine. The interesting part is that wastegates are simple flow valves that control how much exhaust gasses go through the turbo&#x27;s turbine. Doing away with the wastegate means that they will be limiting the amount of airflow that goes into the engine in some other way. I doubt that they are using all of the boost that the turbo creates, because it would be a risky proposition to do so. Changes in ambient temperature would greatly impact the fuel delivery system. Not to mention it would increase the possibility of the fuel pre-igniting inside the combustion chamber.<p>There have been developments in the turbocharger industry, most have been in the way of better materials and turbine/compressor blade designs. I know that Garret (a manufacturer of turbos) has developed a turbocharger with a built-in electric motor. The motor is used to eliminate lag by spinning the turbocharger to a pre-defined RPM. Turbo lag is simply the period of time that it takes a turbocharger to spin up to the speed and start producing boost (back pressure inside the engine). By having an electric motor spin the turbo to a given setting, turbo lag is eliminated, and fuel economy is improved. How may fuel economy be improved? In many vehicles, turbo lag is fought against through the fuel maps (the amount of fuel deliver at a given RPM point). In cases, more fuel is fed to the engine to increase the expansion of the exhaust gases. An exhaust gas that has more unburned fuel in itself will burn most of that excess in the high temperature area between the engine block and the turbocharger. This expansion greatly increases the turbo speed. Though this comes at a cost of higher exhaust emissions, and lower fuel economy.<p>There have been developments into a new type of turbocharging system. Where the turbo unit is driven by by a hydraulic pump, rather than the engine exhaust. In this system, the turbo speed would rise by increasing the pump speed. For some reason this never reached production. But it could have revolutionized the industry. In a way, having an electric motor in place of the wastegate might turn out to provide the same benefits this system would have provided to passenger autos. Being able to re-capture energy lost in the exhaust system would be a win in terms of efficency.<p>[1] In the USA market. There are plenty of turbocharged diesel autos in the rest of the world. They are not common in the USA, though.",1386077353
+6840073,comment,6836387,6837977,4,0,mcv,,,"Maybe they&#x27;re going for something extremely minimalistic.",1386077348
+6840072,comment,6839702,6840009,9,0,AlexandrB,,,"Whoa. Programmed into our DNA, that&#x27;s a pretty extraordinary claim. Consider feral children:<p><a href=\"http://en.wikipedia.org/wiki/Feral_children#Reality\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Feral_children#Reality</a><p><a href=\"http://planetark.org/wen/53118\" rel=\"nofollow\">http://planetark.org/wen/53118</a><p>> &quot;When carers leave the room, the girl jumps at the door and barks,&quot; the police said.<p>An extreme example I admit, but if it&#x27;s preprogrammed into out DNA shouldn&#x27;t she be &quot;caring for things&quot; instead?",1386077338
+5194116,story,,,0,0,,,,,1386077330
+6840071,comment,6838836,6839621,6,0,tostitos1979,,,"&quot;two weeks after coming from[sic] Javascript&quot;<p>Is this not an ad hominem attack? The original post writer joked about Scala syntax giving him a headache. I too felt the same way the three times I&#x27;ve <i>briefly</i> looked at Scala. I think some of the points made in that post were valid.",1386077329
+6840070,story,,,2,0,nathanwdavis,"Building a Twelve Factor App in Golang",http://blog.gopheracademy.com/day-03-building-a-twelve-factor-app-in-go,,1386077286
+5191919,story,,,0,0,,,,,1386077278
+5191903,story,,,0,0,,,,,1386077277
+5191891,story,,,0,0,,,,,1386077277
+5191877,story,,,0,0,,,,,1386077276
+5191867,story,,,0,0,,,,,1386077276
+6840068,comment,6838434,6839050,7,0,marcosdumay,,,"I got the impression that we both read completely different articles, because nowhere in it I see EWD saying that mathematicians or scientists should think by means of formal methods... That doesn&#x27;t even make sense, since formal methods are a way not to think.<p>What he states is that computers are a &quot;formal method applying machine&quot; (a conclusion you seem to share), and that for competently using it, one must know formal methods. And, honestly, I can&#x27;t imagine how one can disagree with that. (And that was the fate of EWD, he saw all the patently obvious problems of computing science that somehow everybody was ignoring, and communicated them, just to be called a crazy radical at first, and &quot;duh, of course it&#x27;s right, tell me something not obvious next time&quot; later.)",1386077264
+5191062,story,,,0,0,,,,,1386077258
+6840067,comment,6838836,6839528,6,0,CmonDev,,,"&quot;something more elegant will become the next &#x27;enterprise standard&#x27;&quot; - C# is both.",1386077248
+5190448,story,,,0,0,,,,,1386077243
+5190347,story,,,0,0,,,,,1386077241
+5190313,story,,,0,0,,,,,1386077240
+6840066,comment,6836387,6838058,3,0,Pxtl,,,"Yes, but the Moto G isn&#x27;t being marketed for that - consumers don&#x27;t even know that usage is possible.  Unadvertised features don&#x27;t exist.",1386077234
+6840065,comment,6839601,6840019,4,0,lloeki,,,"> <i>a sort of vaccum effect to keep the car sucked to the ground</i><p>Ground effect[0], thoroughly used in LMP to gain downforce without suffering as much drag as with a wing.<p>Here&#x27;s what happens when the effect breaks down[1].<p>[0]: <a href=\"http://en.wikipedia.org/wiki/Ground_effect_(cars)\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Ground_effect_(cars)</a><p>[1]: <a href=\"http://www.youtube.com/watch?v=TIJ4q3PD57A\" rel=\"nofollow\">http://www.youtube.com/watch?v=TIJ4q3PD57A</a>",1386077229
+6840064,comment,6839841,6839965,9,0,duiker101,,,"If that photo is NSFW it means you should really not open any photos at work. And probably not be on HN even.",1386077226
+5189622,story,,,0,0,,,,,1386077224
+5189603,story,,,0,0,,,,,1386077224
+5189241,story,,,0,0,,,,,1386077215
+6840063,story,,,1,0,trendspotter,"Apple Patents Face Recognition Tech For Enhanced iPhones",http://techcrunch.com/2013/12/03/apple-patents-face-recognition/,,1386077189
+5188137,story,,,0,0,,,,,1386077189
+6840062,comment,6835392,6838545,2,0,willvarfar,,,"Without fsync, its effectively that; but you get atomicity (with unlink etc) and can use multi process etc.",1386077181
+6840061,comment,6838757,6838757,3,0,fs111,,,"Donate them to <a href=\"http://freesound.org/\" rel=\"nofollow\">http://freesound.org/</a>",1386077180
+6840060,comment,6839702,6840029,5,0,k__,,,"The point OP made is the opposite.<p>Everyone already thinks marketing shapes our idea of what is &quot;normal&quot;. The question is &quot;Does it really do this?&quot;",1386077163
+5186626,story,,,0,0,,,,,1386077153
+5186435,story,,,0,0,,,,,1386077149
+5186415,story,,,0,0,,,,,1386077148
+6840058,comment,6839702,6839809,9,0,adamors,,,"You&#x27;re right, we need more posts about Bitcoin and Something.js.",1386077144
+6840057,story,,,25,0,goranb,"SkyJack - autonomous drone hacking",http://samy.pl/skyjack/,,1386077138
+6840056,comment,6839841,6839841,3,0,BerislavLopac,,,"Actually, I think they wanted to highlight the salary offered. ;-)",1386077138
+6840055,story,,,1,0,danso,"How a top investigative team makes its stories stick",http://www.cjr.org/united_states_project/how_journal_sentinel_produces_investigations_with_impact.php?page=all,,1386077134
+5185762,story,,,0,0,,,,,1386077133
+5185757,story,,,0,0,,,,,1386077133
+5185592,story,,,0,0,,,,,1386077129
+5185332,story,,,0,0,,,,,1386077123
+5185319,story,,,0,0,,,,,1386077123
+5185304,story,,,0,0,,,,,1386077123
+6840054,comment,6839601,6839951,1,0,k-mcgrady,,,"Without the excitement generated by the tyres these last few seasons the sport would have been as boring as during the Schumacher days (and I say that as a Ferrari supporter). Vettel was able to run away at the front but we still got exciting racing further down the grid. I think the tyres unfairly penalise some drivers (because their driving style doesn&#x27;t suit them) but you can&#x27;t deny they&#x27;ve made races that could have been incredibly boring more exciting. Not to mention the fact that because we&#x27;ve taken away refuelling, if the tyres were made as good as they could be, pit-stops and strategy would pretty much be taken out of the sport.",1386077108
+5184388,story,,,0,0,,,,,1386077101
+5184353,story,,,0,0,,,,,1386077101
+5184334,story,,,0,0,,,,,1386077100
+5183936,story,,,0,0,,,,,1386077091
+6840053,comment,6839601,6840003,2,0,DanWaterworth,,,"Unfortunately, the presence of a bridge is necessary, but not sufficient. Think knots.",1386077085
+5183390,story,,,0,0,,,,,1386077078
+6840052,comment,6835392,6836228,2,0,lennel,,,"closure kicks uglify for size when compiling with advanced optimisations.",1386077049
+5181994,story,,,0,0,,,,,1386077045
+6840051,comment,6838416,6838898,1,0,imrehg,,,"An interesting little bit of trivia: in Taiwan the years are still counted since the ruling Kuomintang (KMT) party took power in China in 1911, making this year year 102, for example. Oh, and of course they mix it with the &quot;western&quot; years too. So e.g. my birth year of 1980 is occasionally written on documents as 1980, as 80, as 69. Hilarity ensues.<p>The parallel with Mussolini (ie. being far right as well) is not lost on me, though. Food for thought.",1386077037
+6840050,comment,6839841,6839841,36,0,davidw,,,"I think this image illustrates a problem with our industry that would have made me think twice about becoming a programmer: I don&#x27;t know about everyone else here, but I have a heck of a time getting any work done with the beautiful women perching themselves on my desk.  I&#x27;ve tried everything, but they just keep roosting there.",1386077032
+6840049,comment,6838836,6838836,2,0,jheriko,,,"i have to admit i do mildly write it off as yet another hipster language we don&#x27;t want or need... but i do have a curiosity to see what all the fuss is about.<p>i can imagine a fair amount of negativity coming from app and system developers thinking &quot;oh god, not yet another story about yet another hipster web dev language we don&#x27;t need... yet again! when will web developers ever learn! when will i get a language /i/ want...&quot;<p>i&#x27;m sure it is great for some domain, but i&#x27;ve yet to really play with it or find myself wanting it somewhere.<p>to be fair, most of my language excursions away from c and c++ are from either pure curiosity or a platform holder ramming it down my throat.",1386077028
+6840048,comment,6821527,6822482,1,0,fHbjKlf6,,,"Any idea on the number of attendees? i.e. is this expected to be just a very small local meetup? Interested but would need to make extensive travel arrangements asap.",1386077020
+6840047,comment,6838836,6839621,6,0,CmonDev,,,"&quot; very surprised &quot; - seriously, considering the number of JS fans here? Post something like &quot;[any old/boring stuff] - but in JS/WebGL/HTML/CSS now!&quot; and you will get at least a hundred votes.",1386077020
+5180819,story,,,0,0,,,,,1386077018
+6840045,comment,6839702,6839943,3,0,runarberg,,,"Just think of two opposing theories. One account scribes that humans are <i>not</i> rational thinkers, our actions constitutes of the stimuli around us. We <i>can</i> be pursued against our best interest.<p>The other accounts for humans having &#x27;free will&#x27;. Our free will explains our rational thinking, we will always maximize our utility. Advertizement has no effect if it doesn&#x27;t meet our utility.<p>Now if you thing about those two theories and compare them. Look at evidences for either ones and evaluate their validity, surely you must come to the conclusion that either we humans are special in nature of being able not to respond to stimuli due to some &#x27;free will apparatus&#x27; or, more likely, marketing agents <i>have</i> the ability to control us. Or at least, by Okham&#x27;s razor, the media explanation is the more plausible one.",1386077009
+6840044,comment,6839841,6839841,6,0,Cthulhu_,,,"So, are we going to reverse-judge the 70&#x27;s now? I&#x27;d rather have this than a bunch of obese neckbeards wearing Unix T-shirts promoting working in IT.",1386077001
+5179702,story,,,0,0,,,,,1386076992
+5179695,story,,,0,0,,,,,1386076992
+5179653,story,,,0,0,,,,,1386076991
+5179638,story,,,0,0,,,,,1386076990
+5179631,story,,,0,0,,,,,1386076990
+5179623,story,,,0,0,,,,,1386076990
+5179582,story,,,0,0,,,,,1386076989
+6840043,comment,6839601,6839747,7,0,lloeki,,,"<i>Anything goes</i> does not exist in a vacuum though, there&#x27;s over-the-top regulations aiming at a specific goal (here, driving research on efficiency) and there&#x27;s what you want to achieve within a set of basic rules (e.g drag race, best lap, best 10 laps, max laps under 24h...).<p>Take for example LMP, which used to go well above 400kph, but not so much car regulations as much as track regulations made that impossible/useless (e.g old Mulsanne Straight), designing top speed out of the cars because it simply was too dangerous. Mulsanne now has a brake zone from ~320kph down to ~100kph, much more humanly manageable.<p>More downforce also means more drag, and for LMP&#x27;s long running races this means too high a fuel consumption. Also, ground effects and closed body vs open wheels. Reliability (or lack thereof) is on the F1 side since LMP has to run hundreds of long laps, while a F1, even with &quot;X races per engine&quot; rules  has to run continuously for a couple hours at most. Lift such a regulation and you could make a bloody efficient engine that self-destructs over a single race.<p>LMP have a minimum regulated weight of ~900kg, and as every fellow driver knows, <i>&quot;weight is the enemy of performance&quot;</i>. Barring that, and tuned to the problem, LMP would kick the pants off a F1 because F1 is (comparatively) insanely regulated.<p>The beauty of F1 is that it achieves incredible performance <i>in spite of</i> suffering extremely limiting regulations. My bet is that lifting all regulations would quickly put the human as the <i>sole</i> limiting factor to performance, because the poor pilot of a guy would be on the verge of passing out at braking and inside every corner, unless they&#x27;re on a balancing seat and have anti-g suits.",1386076988
+5179449,story,,,0,0,,,,,1386076986
+5179422,story,,,0,0,,,,,1386076985
+5179397,story,,,0,0,,,,,1386076985
+6840042,comment,6839702,6839941,2,0,bcoates,,,"Advertising can perform a signalling function without anybody involved being irrational.",1386076984
+5179377,story,,,0,0,,,,,1386076984
+5179308,story,,,0,0,,,,,1386076983
+5179284,story,,,0,0,,,,,1386076982
+6840041,comment,6839702,6839702,5,0,thejteam,,,"Okay, so girls get princesses and My Little Pony.  Now listen to what they do with them.  My 3 year old is in the next room playing playing with her My Little Pony dolls right now.  Story lines more complex than the typical evening sitcom.  Action and violence.  Shouting and passion.  They are learning story telling and narrative.  And the narrative is not all tea parties.  If the toys do not inherently give them plots and conflicts, they will build it up for themselves.",1386076970
+5178330,story,,,0,0,,,,,1386076960
+5178326,story,,,0,0,,,,,1386076960
+5178307,story,,,0,0,,,,,1386076959
+5178299,story,,,0,0,,,,,1386076959
+5178293,story,,,0,0,,,,,1386076959
+6840040,comment,6839452,6839550,2,0,Semaphor,,,"I&#x27;m not sure, I think only the theory that some people are left or right-brained has been debunked. And that there is a strict separation of concerns. IIRC stuff like language processing is still >50% done in the left brain half.<p>But I can&#x27;t find any relevant studies I&#x27;d understand on Google Scholar right now so I might be wrong. And as I&#x27;m a layman take this with a grain (or more) of salt ;)",1386076958
+6840039,comment,6839841,6839994,4,0,varjag,,,"The photo is sexist, not misogynistic.",1386076956
+6840038,comment,6839841,6839841,22,0,Killah911,,,"British humor is quite different from American humor.  This seems more in line with the company trying to be funny rather than the overtly sexist gesture it appears to be at first glance.  Not saying it isn&#x27;t sexist, but it seems like an attempt at humor which may be lost on those who aren&#x27;t quite familiar with British humor.",1386076952
+5177995,story,,,0,0,,,,,1386076952
+6840037,story,,,1,0,manishsp,"R.I.P. GlassFish - Thanks for all the fish.",http://blog.eisele.net/2013/11/rip-glassfish-thanks-for-all-fish.html,,1386076926
+6840036,story,,,1,0,RougeFemme,"College says time’s up for cheaters, bans all watch-wearing during exams",http://arstechnica.com/gadgets/2013/12/belgian-college-bans-all-watch-wearing-during-exams/,,1386076914
+5176217,story,,,0,0,,,,,1386076910
+5175647,story,,,0,0,,,,,1386076897
+5175642,story,,,0,0,,,,,1386076897
+6840035,comment,6839601,6839727,5,0,forgottenpaswrd,,,"That&#x27;s NASCAR, not F1.<p>In F1 you see real cars, doing real curves, not the thing NASCAR does like having a car that only could turn one way.<p>In F1 you see cars going through the streets of Monaco or Valencia, or German circuits that you could race yourself with your own car. BTW I do it.",1386076895
+6840034,comment,6837559,6839908,3,0,auxbuss,,,"Salvatore (antirez) had a nice pithy response to that:<p><pre><code>  oh, static systems are for people that don&#x27;t have fast databases ;-)\n</code></pre>\n<a href=\"https://twitter.com/antirez/status/407184116275503104\" rel=\"nofollow\">https://twitter.com/antirez/status/407184116275503104</a>",1386076895
+5175548,story,,,0,0,,,,,1386076894
+5175542,story,,,0,0,,,,,1386076894
+5175539,story,,,0,0,,,,,1386076894
+5175537,story,,,0,0,,,,,1386076894
+5175535,story,,,0,0,,,,,1386076894
+5175390,story,,,0,0,,,,,1386076891
+5175384,story,,,0,0,,,,,1386076891
+5175376,story,,,0,0,,,,,1386076890
+5175371,story,,,0,0,,,,,1386076890
+5175367,story,,,0,0,,,,,1386076890
+5175359,story,,,0,0,,,,,1386076890
+6840033,comment,6838757,6838935,3,0,shiftpgdn,,,"What are you spending on S3?  I can very nearly guarantee you could get a bare metal setup from just about anywhere for about 1/10th the cost.",1386076889
+6840032,story,,,3,0,ivoflipse,"The Science Behind Kinects or Kinect 1.0 versus 2.0",http://www.gamasutra.com/blogs/DanielLau/20131127/205820/,,1386076884
+5174811,story,,,0,0,,,,,1386076877
+5174807,story,,,0,0,,,,,1386076877
+5174804,story,,,0,0,,,,,1386076877
+5174487,story,,,0,0,,,,,1386076870
+5174388,story,,,0,0,,,,,1386076867
+5174385,story,,,0,0,,,,,1386076867
+5174380,story,,,0,0,,,,,1386076867
+5174373,story,,,0,0,,,,,1386076867
+5174372,story,,,0,0,,,,,1386076867
+5174366,story,,,0,0,,,,,1386076867
+5174365,story,,,0,0,,,,,1386076867
+5174364,story,,,0,0,,,,,1386076867
+5174352,story,,,0,0,,,,,1386076867
+5174348,story,,,0,0,,,,,1386076867
+5174347,story,,,0,0,,,,,1386076866
+5174345,story,,,0,0,,,,,1386076866
+5174333,story,,,0,0,,,,,1386076866
+5174327,story,,,0,0,,,,,1386076866
+5174318,story,,,0,0,,,,,1386076866
+5174306,story,,,0,0,,,,,1386076866
+5174274,story,,,0,0,,,,,1386076865
+5174180,story,,,0,0,,,,,1386076863
+5174018,story,,,0,0,,,,,1386076859
+5174013,story,,,0,0,,,,,1386076859
+5174000,story,,,0,0,,,,,1386076858
+5173996,story,,,0,0,,,,,1386076858
+5173989,story,,,0,0,,,,,1386076858
+5173902,story,,,0,0,,,,,1386076856
+5173887,story,,,0,0,,,,,1386076856
+5173854,story,,,0,0,,,,,1386076855
+5173363,story,,,0,0,,,,,1386076843
+6840031,comment,6839702,6839859,2,0,anonymousab,,,"The crucial bit is that the public had almost no way of knowing if a game was even playable before buying. Complete opposite today, except for people who preorder every big name game and are likely satisfied regardless.<p>I can see some resemblance in the freemium market - consumer awareness and protections have not caught up with how bad everyone is getting gypped.",1386076840
+5173007,story,,,0,0,,,,,1386076835
+6840029,comment,6839702,6839943,27,0,AlexandrB,,,"Diamonds.<p>> Americans exchange diamond rings as part of the engagement process, because in 1938 De Beers decided that they would like us to. Prior to a stunningly successful marketing campaign 1938, Americans occasionally exchanged engagement rings, but wasn’t a pervasive occurrence.<p><a href=\"http://blog.priceonomics.com/post/45768546804/diamonds-are-bullshit\" rel=\"nofollow\">http://blog.priceonomics.com/post/45768546804/diamonds-are-b...</a><p>I think it&#x27;s naive to think that marketing doesn&#x27;t in some way shape and reinforce what one thinks is &quot;normal&quot;.",1386076829
+5172589,story,,,0,0,,,,,1386076825
+5172582,story,,,0,0,,,,,1386076825
+6840028,story,,,1,0,samsolomon,"Flywheel Co-founder Rick Knudtson on Humanizing Hosting",http://signaltower.co/2013/11/17/rick-knudtson-humanizing-hosting/,,1386076819
+6840027,story,,,2,0,cmonsen,"ShowHN: Should you be on a statin?",http://www.cvriskcalculator.com,,1386076814
+5170666,story,,,0,0,,,,,1386076780
+6840026,comment,6836961,6838109,1,0,guiomie,,,"After watching the movie, I realized I wouldn&#x27;t want to work there if the corporate culture was truly the way it is depicted in the movie.",1386076767
+6840025,comment,6837722,6839443,2,0,pbhjpbhj,,,"Things which aren&#x27;t useless also die out.",1386076759
+5169757,story,,,0,0,,,,,1386076759
+6840024,comment,6839702,6839995,1,0,xerophtye,,,"Yep, gamer girls = supremely attractive! I always get jealous of gamer couples i encounter on real life and online. My own gf is a hardcode mobile gamer (there hasnt been a single app game that i can beat her at. and i have been gaming all my life!) But i wish she&#x27;d try the more complex games... like FPS or top-down strategy or atleast LoL!!",1386076756
+5169615,story,,,0,0,,,,,1386076756
+5169608,story,,,0,0,,,,,1386076756
+5169600,story,,,0,0,,,,,1386076756
+5169593,story,,,0,0,,,,,1386076756
+5169579,story,,,0,0,,,,,1386076755
+5168520,story,,,0,0,,,,,1386076730
+5168504,story,,,0,0,,,,,1386076730
+5168498,story,,,0,0,,,,,1386076730
+5168490,story,,,0,0,,,,,1386076730
+5168476,story,,,0,0,,,,,1386076729
+5168465,story,,,0,0,,,,,1386076729
+5168455,story,,,0,0,,,,,1386076729
+5168447,story,,,0,0,,,,,1386076729
+5168429,story,,,0,0,,,,,1386076728
+5168417,story,,,0,0,,,,,1386076728
+6840023,comment,6839702,6839957,1,0,watty,,,"Are you a designer (serious question)?",1386076725
+6840022,comment,6836994,6838249,2,0,ihnorton,,,"> As someone who has done integration with Iridium and Inmarsat for the NSF<p>USAP vessels?",1386076712
+5167162,story,,,0,0,,,,,1386076699
+6840021,comment,6837722,6839724,2,0,pbhjpbhj,,,"When not having those animals around improves the lives of millions of people?",1386076696
+6840020,comment,6831461,6831757,1,0,silverlake,,,"If you are investing for the long-term (i.e. holding for years) then who is your competition? Mutual funds and hedge funds are totally focused on their quarterly returns. Traders are measured in much shorter time frames. How many professional investors are investing for years? Warren Buffett, university endowments and pension funds [1], rich family funds, and other niches you don&#x27;t hear about on CNBC. Perhaps the reason index investing works is because it forces people to invest for the long-term and avoid all the cognitive errors you mentioned.<p>[1]: Most of these are run by morons. They are suckers for Wall St. sharks in expensive suits.",1386076681
+5165797,story,,,0,0,,,,,1386076668
+6840019,comment,6839601,6839747,3,0,sanoli,,,"What I meant was what if an F1 team of designers didn&#x27;t have to be constrained by any rules and could build their dream F1 car.\nFor example, there was one car a couple of decades ago (I think early 80&#x27;s maybe?) that used a sort of vaccum effect to keep the car sucked to the ground. It improved cornering speeds greatly, but the device was banned.<p>I googled some and found this:\n<a href=\"http://www.pistonheads.com/gassing/topic.asp?h=0&t=598933&hw=++ultimate++F1&nmt=Perfect%20F1%20car\" rel=\"nofollow\">http://www.pistonheads.com/gassing/topic.asp?h=0&t=598933&hw...</a><p>Couldn&#x27;t find a link to the original article though. Pretty interesting.",1386076666
+6840018,comment,6839702,6840000,27,0,galaktor,,,"Similar here. I think a major contributor are other social influences other than myself and wife - most notably friends at kindergarden/school, and teachers there, too.<p>There&#x27;s much subtle influence that isn&#x27;t obvious at first, at least wasn&#x27;t to me. For example, notice how many people (say, neighbours or more importantly, grandparents or other relatives) will often congratulate little girls to being really pretty as the first thing that comes out of their mouthes. Not that they&#x27;re deliberately trying to influence the girls, but it&#x27;s sort of &quot;default&quot; boilerplate smalltalk with girls, say how pretty they are and how nice their dress is. Certainly that will affect their perception of themselves, what is pretty, what they want to buy...<p>Edit: just found the (oldish) opinion piece on huffpost [1] that originally got me thinking about just that last point<p>[1] <a href=\"http://www.huffingtonpost.com/lisa-bloom/how-to-talk-to-little-gir_b_882510.html\" rel=\"nofollow\">http://www.huffingtonpost.com/lisa-bloom/how-to-talk-to-litt...</a>",1386076656
+6840017,comment,6839702,6839993,2,0,watty,,,"It sounds like you have some eye issues or perhaps it&#x27;s just aging.  Try readability, it&#x27;s great for older folks.<p>You should avoid magazines though, they often have similar designs yet lack a real world &quot;readability&quot; :)<p><a href=\"http://www.readability.com/\" rel=\"nofollow\">http://www.readability.com/</a>",1386076651
+6840016,comment,6839841,6839841,2,0,nosage,,,"AMA Request: Chris Wood",1386076650
+6840015,comment,6839702,6840000,8,0,maxerickson,,,"If she is friends with even just one girl that likes pink, she has someone to copy from (share with, whatever).<p>I would also guess that there are individuals that she prefers as friends in the play group (so a survey might not be very revealing).",1386076649
+5164770,story,,,0,0,,,,,1386076645
+6840014,comment,6839702,6839891,1,0,knowitall,,,"I suspect most parents hate pink, though - they just give in to the wishes of their daughters.",1386076601
+6840013,story,,,8,4,jagbolanos,"Nobody trusted the election results so we built a crowdsourced validation",,"Hello, I wanted to share this project we suddenly built last week after the Honduran elections, it&#x27;s aimed to provide transparency to the tally sheet count for the Honduran elections. The project is http://conteo.votosocial.org/ (it’s in spanish), a crowdsourced solution where we crawled the tally sheet scans from the official government platform and moved it to our own storage (in order to prevent tampering) then asked people to login with Facebook and start typing the values for each sheet, also asked 3 different people to validate each sheet. If you find an error you can correct the sheet and the validation count starts again. All changes are logged.<p>Honduras had elections the past November 24. We elect the president, 298 majors and 128 congressmen during the same election day every 4 years. A few hours after the voting closed the official elections institution, named TSE, presented the first results for the presidential elections having as the probable winner Juan Orlando, the candidate for the governing party Nacional with a lead of 37% then Xiomara(wife of a coup deposed presidente Mel Zelaya) with 28%.<p>People complained on social media that the system wasn’t counting correctly, sheets were tampered and some were ignored.<p>We wanted to validate ourselves, we didn’t want to have the doubt. We built it in about 24 hours of coding plus some more for testing 2 days after the election day. By Thursday in about 10 hours all sheets that we had in our power were entered by about 1.2K users, we repeated the process yesterday so we now have 96.91% of the tally sheets counted.<p>Up to now our results show a slightly different result but still the governing party wins the election with 35% vs 27%. Not what people expected to find a fraud in the system but at least we brought transparency to the process. We also made the code open source.<p>Hope you like it and feedback is welcomed!",1386076600
+5162121,story,,,0,0,,,,,1386076584
+6840012,comment,6837722,6839531,2,0,pbhjpbhj,,,"We&#x27;re not talking about artifacts though; we&#x27;re talking about people.<p>Yes it would be better to be able to observe and use a language within a native, living body of people in order to be able to well comprehend and thoroughly appreciate the nuance, breadth and depth of a language. But in order to do that you also must <i>require</i> that population not to use some other language which may well benefit them (in terms of education, trade, international relations, access to information, etc.).<p>In Wales for example the historic Welsh language is being propped up at vast expense to a relatively poor region of the UK. All lessons¹ in [state run] primary schools (4-11 year olds) are used to promote the historic Welsh language and children are taught that their own language - predominantly English - is to be deprecated in preference to Welsh.<p>None of that serves the children. Without government interference, if trends continued, barely a handful of people of any age would speak historic Welsh. As it is now - made compulsory for all children in state schools - use of historic Welsh language is still declining.<p>That would indeed be a loss to those interested in Brythonic languages or who mourn for the simpler times of their youth when they spoke historic Welsh or who despise the English people so fervently that using &quot;their&quot; language is anathema [I&#x27;m not even joking], or whatever. But, would it be any loss for the people living in Wales as a whole? I warrant not. Indeed it seems it would be a gain.<p>---<p>¹ PISA results for 2012, <a href=\"http://priceonomics.com/only-4-of-languages-are-used-online/\" rel=\"nofollow\">http://priceonomics.com/only-4-of-languages-are-used-online/</a>, are just in and show Wales is falling behind the rest of the UK and that the UK is slipping relative to the other countries surveyed. I think an insidious over-emphasis on historic Welsh is at least in part to blame.",1386076581
+6840010,comment,6839702,6839702,2,0,milliams,,,"No GirlS... we&#x27;re allowed one.",1386076575
+6840009,comment,6839702,6839950,4,0,booyaa00,,,"Woah there. Even when a child is 1 or 2, they start to exhibit the traits that show what they want.\nWay before they have any peer group, before they can be advertised at etc etc.<p>Girls want to care for things, communicate, etc, and boys want to blow stuff up or build stuff. It&#x27;s preprogrammed into our DNA.",1386076574
+6840008,comment,6838757,6838757,2,0,hluska,,,"I collect records too...this sounds incredible, but it would bankrupt me within twelve months...;)",1386076572
+6840007,comment,6838434,6839050,1,0,johnchristopher,,,"Can&#x27;t recommend &quot;The Sleepwalkers&quot; enough.",1386076570
+6840005,comment,6839702,6839960,4,0,ajitk,,,"Don&#x27;t ads create false memories[1] and consequently our behavior?<p>[1] <a href=\"http://www.wired.com/wiredscience/2011/05/ads-implant-false-memories/\" rel=\"nofollow\">http://www.wired.com/wiredscience/2011/05/ads-implant-false-...</a>",1386076547
+5160226,story,,,0,0,,,,,1386076540
+6840004,comment,6839702,6839883,5,0,knowitall,,,"A handy way to sell things twice if boys and girls need different colors. Maybe not so much for dolls, but certainly for clothes (can&#x27;t pass on clothes from older sibling if gender differs).<p>Perhaps the main desire being served is to be able to announce &quot;I am a boy&quot; or &quot;I am a girl&quot;.<p>Also note that there aren&#x27;t many pink first person shooters.",1386076530
+6840003,comment,6839601,6839978,3,0,alexkus,,,"Suzuka has a bridge:-<p><a href=\"https://en.wikipedia.org/wiki/Suzuka_Circuit\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Suzuka_Circuit</a>",1386076488
+5157611,story,,,0,0,,,,,1386076479
+6840002,story,,,60,19,kyledreger,"Show HN: Using GitHub to tackle Ray Bradbury's 1,000 Nights Challenge",https://github.com/kyledreger/1000-nights,,1386076467
+6840001,comment,6838836,6839884,5,0,pkolaczk,,,"Covariance / Contravariance - Noooooooo! \nI admit - this might be hard to grasp at first, but in reality it is very simple concept that <i>simplifies</i> a lot of code. It is enough to get variance right <i>once</i> for a class, instead of fighting with ? in Java everywhere.<p>BTW: Kotlin has copied it and noone complains it is too complex :D<p>As of implicit parameters / implicit objects - ok, but what do you suggest as a replacement so that map/filter/reduce preserve types correctly? Or how do you do type-classes then?",1386076460
+6840000,comment,6839702,6839943,35,0,junto,,,"Having a daughter about the same age so it gives me a bit of insight.<p>She doesn&#x27;t get to watch TV. Her playgroup has no major bias towards pink for girls (actually even deliberate in their avoidance of such stereotyping). My wife secretly detests pink and girly stuff and is/was a tomboy at heart. We do not discourage or encourage any particular colour or style.<p>There are no obvious factors in my daughter&#x27;s life that should bias her towards pink girly toys, yet she is absolutely obsessed with girly pink clothes and toys.<p>I honestly can&#x27;t fathom it. Pink attraction seems to be built in. Like a moth to a flame.<p>Recently she asked for a pirate ship for her birthday, so it isn&#x27;t all bad.",1386076431
+5155384,story,,,0,0,,,,,1386076425
+5154973,story,,,0,0,,,,,1386076415
+5154972,story,,,0,0,,,,,1386076415
+5154970,story,,,0,0,,,,,1386076415
+5154964,story,,,0,0,,,,,1386076415
+5154960,story,,,0,0,,,,,1386076415
+5154848,story,,,0,0,,,,,1386076413
+5154730,story,,,0,0,,,,,1386076410
+5154665,story,,,0,0,,,,,1386076408
+5154606,story,,,0,0,,,,,1386076407
+5154483,story,,,0,0,,,,,1386076403
+5154353,story,,,0,0,,,,,1386076400
+5154267,story,,,0,0,,,,,1386076398
+6839999,comment,6835521,6835521,2,0,anovikov,,,"Being spoiled by apple retina, 32&#x27;&#x27; 4k does not sould &#x27;ultra sharp&#x27; for me. 24&#x27;&#x27; maybe, so i&#x27;ll buy one.<p>Can&#x27;t wait until 8k monitors come about! These can be both truly ultra sharp, with invisible pixels, and sizeable.",1386076386
+6839998,comment,6837892,6838117,1,0,amirouche,,,"In pythonium access to JavaScript objects is transparent look at the example app.py of the webgl demo: <a href=\"https://github.com/pythonium/pythonium.github.io/blob/master/js/app.py#L68\" rel=\"nofollow\">https://github.com/pythonium/pythonium.github.io/blob/master...</a>",1386076385
+5153105,story,,,0,0,,,,,1386076371
+6839997,comment,6839702,6839859,4,0,Jare,,,"Appearances can deceive.<p>The current casual gaming market is also flooded with fantastic games, and with games that, despite being accused of low quality under certain criteria, have millions of fans and regular players that love them. There&#x27;s a great game waiting for anyone who may want to play something. Low prices, Steam/etc sales, and free-to-play games mean that getting the wrong game is not painful to the consumer, and remove the problem where consumers stop buying games.<p>The games industry (including casual and hardcore) has many problems and pitfalls for individual studios or teams. But in terms of market size, it is pretty healthy and likely to stay that way.",1386076350
+6839996,comment,6838434,6839234,10,0,cpg,,,"His handwriting looks beautiful!<p>I loved it and emailed Prof. Dijkstra during the brief time that he <i>finally</i> had email (I got a graduate degree from his department and attended some of his classes). I asked him for permission to one day create a font from his handwriting, not really expecting a response.<p>However, he did eventually reply, granting me the permission to do so.<p>I commissioned the font and it worked nice. It was distributed briefly and it may still be out there (I see one or two are found out there).<p>My original copy may be in old backups. One day I will find it and update it!<p>Edit: found the email reply! He retired in 11/1999 and passed away in 8/2002<p><pre><code>  Austin, Tuesday 11 April 2000\n\n  Dear Dr. Puchol,\n\n        If a competent designer can use my handwriting as a source of\n  inspiration, that is fine with me. Thank you for asking my permission,\n  which is granted with pleasure.\n\n        With my greetings and best wishes,\n                        yours ever,          Edsger W.Dijkstra</code></pre>",1386076333
+6839995,comment,6839702,6839702,3,0,knowitall,,,"My first girl-friend threatened to leave me in case I bought a game boy. It&#x27;s not just stereotypes from the media, it&#x27;s also an experience that lots of men have made in their lives. But that doesn&#x27;t mean we don&#x27;t like the idea of women playing games. Quite the opposite. I still remember the first time I saw a woman wearing an Atari T-Shirt. I could hardly believe my eyes... Turns out by then Atari didn&#x27;t really exist anymore and was being rebranded by whoever bought the Trademark, but still (I was attracted, but I didn&#x27;t talk to her, so no further story to that).<p>It&#x27;s just that it feels like a waste of time trying to get women interested in games. If they want to play, fine, but why try to make them? (Speaking from the consumer perspective - game makers of course have different incentives).<p>Next week I plan to have a C64 revival party. I will invite women, curious to see how many of them will also play...<p>My advice for women interested in computer games: just do it/try it. Don&#x27;t waste time wondering if you are allowed to do it.",1386076302
+5149839,story,,,0,0,,,,,1386076294
+6839994,comment,6839841,6839841,3,0,username42,,,"I think there is a new generation in IT very different from the previous ones. Rejection of misogyny is the norm now. Seems to be an improvement.",1386076289
+6839993,comment,6839702,6839702,9,0,kyberias,,,"Very difficult page to read due to ugly color combinations. White on pink, next white on green. It literally hurts my eyes.",1386076279
+5148554,story,,,0,0,,,,,1386076264
+5148469,story,,,0,0,,,,,1386076262
+5148445,story,,,0,0,,,,,1386076262
+6839992,comment,6836959,6837179,1,0,Sarkie,,,"Having flown to Berlin recently via RyanAir and then EasyJet. EasyJet all the way, from the booking to the day of flight, all aspects EasyJet do better and make me less stressed. RyanAir is awful.",1386076260
+6839991,comment,6835403,6839154,1,0,Peaker,,,"It isn&#x27;t enough that they are obvious when they are pointed out explicitly.<p>If they were obvious, you&#x27;d find other articles/authors explaining the same issues?",1386076245
+5147101,story,,,0,0,,,,,1386076231
+6839990,comment,6839702,6839880,3,0,saraid216,,,"I know a father who claims that his daughter does math specifically because she knows it makes him happy.",1386076213
+6839989,comment,6836994,6839469,2,0,andor,,,"Put your phone in a Ziploc bag and it&#x27;s water resistant. Add a cheap external 10.000 mAh battery and you&#x27;ll have lots of battery life. You won&#x27;t need a large battery, though: the BRCK only lasts for 8 hours, while an LTE iPad can last about 24 hours in hotspot mode.",1386076212
+5145294,story,,,0,0,,,,,1386076188
+6839988,comment,6836994,6836994,1,0,gambiting,,,"512MB of memory seems rather small? Or will people finally learn to use GB and Gb properly?",1386076173
+6839987,comment,6839452,6839927,1,0,V-2,,,"I find it fairly obvious that natural seating contest must have worked in favor of women more inclined to beautify themselves (whether out of vanity or something else, doesn&#x27;t matter at all).",1386076168
+6839986,comment,6838494,6839669,1,0,nilliams,,,"> This indicates that JavaScript is a pain in the ass<p>Or as another commenter pointed out that people want to write for the browser and want to use their favourite language to do so.",1386076165
+6839985,comment,6836387,6838108,2,0,tenfingers,,,"I wouldn&#x27;t say so. Without carrier restrictions, EU is much easier to sell to. In fact, in EU, the carrier is totally worthless, and the phones they usually bundle with contract plans are in general the lowest-end phones you can have. Even the iPhone deals are usually meaningless, since you can have the phone for less then a 10% difference, with the added choice of getting a better data plan at any time you wish.",1386076163
+6839984,comment,6837892,6838123,1,0,amirouche,,,"You can compare the Javascript code generated by the Veloce mode [0] and by compliant mode [1]<p>[0] <a href=\"https://gist.github.com/amirouche/7768738\" rel=\"nofollow\">https://gist.github.com/amirouche/7768738</a>\n[1] <a href=\"https://gist.github.com/amirouche/7768858\" rel=\"nofollow\">https://gist.github.com/amirouche/7768858</a>",1386076158
+6839983,comment,6838494,6839274,1,0,sesm,,,"Clojure is designed as a hosted languages from the start and intentionally exposes platform semantics for many operations, such as math, strings, etc. This makes porting easier, since one doesn&#x27;t have to implement &quot;compatibility layer&quot; for all those operations.<p>On a side note, Clojure concurrency primitives implement different ideas compared to FRP. A good source to learn about ideas behind Clojure concurrency is this talk by Rich Hickey: <a href=\"http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey\" rel=\"nofollow\">http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hic...</a> . At 1:08:25 Rich tells his opinion about FRP.",1386076144
+5143151,story,,,0,0,,,,,1386076138
+5143135,story,,,0,0,,,,,1386076138
+5142965,story,,,0,0,,,,,1386076134
+5142874,story,,,0,0,,,,,1386076132
+5142864,story,,,0,0,,,,,1386076131
+6839982,comment,6839702,6839960,3,0,samastur,,,"Your example may be a proof that violence in games does not cause violence in person, but it isn&#x27;t a proof that it has no effect. In essence I may be fearful of the wrong scenario, but that isn&#x27;t the same as me not having a good reason to fear.<p>Personally I think opulence of violence in media makes us number when confronted with images or stories of real violence then we would be otherwise.",1386076123
+5142473,story,,,0,0,,,,,1386076122
+5142298,story,,,0,0,,,,,1386076118
+5142296,story,,,0,0,,,,,1386076118
+5142043,story,,,0,0,,,,,1386076113
+5142009,story,,,0,0,,,,,1386076112
+5141979,story,,,0,0,,,,,1386076111
+5141958,story,,,0,0,,,,,1386076111
+5141937,story,,,0,0,,,,,1386076110
+5141925,story,,,0,0,,,,,1386076110
+5141898,story,,,0,0,,,,,1386076109
+5141894,story,,,0,0,,,,,1386076109
+5141865,story,,,0,0,,,,,1386076109
+5141672,story,,,0,0,,,,,1386076104
+6839981,comment,6838299,6839257,5,0,TeMPOraL,,,"<i>I thought the mindset exposed in this article was something most hackers shared</i><p>That&#x27;s what I think as well, and for me this mindset is a defining characteristic of hackers. Most of programmers nowadays are not hackers. They used to be, but then programming went mainstream and attracted people without the hacker mindset.<p>Also the term <i>hacker</i> got terribly diluted recently. Now everyone and their dog is a hacker just because they know that JavaScript is something that is used &#x27;on the interwebz&#x27; (cf. &quot;growth hacking&quot;). I guess we need a new term for people like OP&#x27;s roommate.",1386076101
+6839980,comment,6839702,6839943,6,0,rmk2,,,"The analysis of the influence of media onto the individual was, in fact, the subject that was at the very heart of the establishment of modern empirical sociology. A good start for further reading is the Princeton Radio Research Project[1], with a follow-up reading on its director, Paul Lazarsfeld[2].<p>[1]: <a href=\"https://en.wikipedia.org/wiki/Radio_Project\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Radio_Project</a><p>[2]: <a href=\"https://en.wikipedia.org/wiki/Paul_Lazarsfeld\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Paul_Lazarsfeld</a>",1386076081
+5140642,story,,,0,0,,,,,1386076080
+6839979,comment,6838494,6838835,1,0,tkirchner,,,"Maybe the fact that there are many compilers that target language A means that either language A is easy to target (so transforming to it is a fun hack) or no-one wants to program directly in language A or both (or more). I believe an example of A is JavaScript.",1386076071
+6839978,comment,6839601,6839889,2,0,DanWaterworth,,,"It may well be the case that they are all topologically equivalent, but they needn&#x27;t be, so long as bridges are allowed. Perhaps that&#x27;s how they could make F1 more interesting.",1386076056
+5138722,story,,,0,0,,,,,1386076036
+5138472,story,,,0,0,,,,,1386076030
+5138450,story,,,0,0,,,,,1386076029
+5138445,story,,,0,0,,,,,1386076029
+5138443,story,,,0,0,,,,,1386076029
+5138437,story,,,0,0,,,,,1386076029
+6839976,comment,6839702,6839809,8,0,steveklabnik,,,"Please don&#x27;t submit comments complaining that a submission is inappropriate for the site. If you think something is spam or offtopic, flag it by going to its page and clicking on the &quot;flag&quot; link. (Not all users will see this; there is a karma threshold.) If you flag something, please don&#x27;t also comment that you did.<p><a href=\"http://ycombinator.com/newsguidelines.html\" rel=\"nofollow\">http://ycombinator.com/newsguidelines.html</a>",1386076022
+5138122,story,,,0,0,,,,,1386076022
+5137945,story,,,0,0,,,,,1386076017
+5137663,story,,,0,0,,,,,1386076010
+5137634,story,,,0,0,,,,,1386076010
+5137567,story,,,0,0,,,,,1386076008
+5137527,story,,,0,0,,,,,1386076007
+5137423,story,,,0,0,,,,,1386076005
+5137414,story,,,0,0,,,,,1386076005
+5137400,story,,,0,0,,,,,1386076004
+5137396,story,,,0,0,,,,,1386076004
+5137386,story,,,0,0,,,,,1386076004
+5137381,story,,,0,0,,,,,1386076004
+6839975,story,,,1,0,usaphp,"Nokia Gets Ruling Blocking Sales of HTC’s One Mini Phone in U.K.",http://www.bloomberg.com/news/2013-12-03/nokia-gets-ruling-blocking-sales-of-htc-s-one-mini-phone-in-u-k-.html,,1386075998
+5137091,story,,,0,0,,,,,1386075997
+5137058,story,,,0,0,,,,,1386075996
+5137040,story,,,0,0,,,,,1386075996
+5137030,story,,,0,0,,,,,1386075995
+5137023,story,,,0,0,,,,,1386075995
+5137009,story,,,0,0,,,,,1386075995
+5137005,story,,,0,0,,,,,1386075995
+5136998,story,,,0,0,,,,,1386075995
+5136995,story,,,0,0,,,,,1386075995
+5136986,story,,,0,0,,,,,1386075994
+5136967,story,,,0,0,,,,,1386075994
+5136959,story,,,0,0,,,,,1386075994
+5136695,story,,,0,0,,,,,1386075987
+5136616,story,,,0,0,,,,,1386075986
+5136613,story,,,0,0,,,,,1386075986
+5136608,story,,,0,0,,,,,1386075985
+5136389,story,,,0,0,,,,,1386075980
+5136268,story,,,0,0,,,,,1386075977
+6839974,story,,,2,0,kojoru,"ServiceStack v4 beta released, now commercial",https://github.com/ServiceStack/ServiceStack/wiki/Release-Notes,,1386075976
+5136151,story,,,0,0,,,,,1386075974
+6839973,comment,6838494,6839589,1,0,nilliams,,,"> Many would also say that (1) and (2) make Clojure a joy to program in, ...<p>Yep, the opposing view being that the lack of syntax that some see as a benefit actually makes it inexpressive, compared to a language with more syntax that expresses its ideas more like human language (e.g. Ruby, Python).<p>> but I&#x27;ll leave that to the reader to judge for themselves.<p>Same! Not made my mind up yet, currently struggling through the Clojure book.",1386075963
+5134939,story,,,0,0,,,,,1386075946
+5132971,story,,,0,0,,,,,1386075900
+6839972,comment,6838495,6838901,5,0,Fomite,,,"Pandemic strains of influenza are noted for, among other things, their tendency to utterly ignore the routine seasonal patterns of flu. See: The 2009 pandemic, which kicked off in late spring, when the major wave of seasonal influenza is on the way out, if not over entirely.",1386075851
+6839971,comment,6838434,6839594,3,0,the_af,,,"Agreed. In a way, it&#x27;s like the &quot;Blub paradox&quot;, only applied to formal methods instead of programming languages. Those who aren&#x27;t familiar with them don&#x27;t see the point and think it&#x27;s merely &quot;mathy&quot; nonsense.",1386075846
+6839970,comment,6839601,6839785,1,0,joosters,,,"Perhaps the turning could be improved if jets were used for steering as well?<p>But by this point, you are effectively left with a rocket that just happens to have some circular things that touch the ground.",1386075844
+5130595,story,,,0,0,,,,,1386075844
+5130511,story,,,0,0,,,,,1386075842
+5130508,story,,,0,0,,,,,1386075842
+5130504,story,,,0,0,,,,,1386075842
+5130501,story,,,0,0,,,,,1386075842
+6839969,story,,,1,0,basdevries,"Ask HN: how would you solve the usd/btc exchange delay?",,"Dear HN,<p>In my quest on improving the Bitcoin, I&#x27;ve stumbled into one major problem which I think is quite essential to the Bitcoin as a payment platform. And that is that the exchange of BTC -> USD takes up to a couple of days and in the worst case a week. How is this effectively solvable? I&#x27;ve thought a lot about it but I just can&#x27;t seem to find a good solution which will structurally benefit the Bitcoin as a whole.<p>Please share your thoughts in the comments.",1386075816
+5128966,story,,,0,0,,,,,1386075806
+6839968,comment,6836961,6837549,2,0,teh_klev,,,"I&#x27;ve emailed Scott Guthrie a couple of times with regard to a couple of ASP.NET issues I felt warranted his team&#x27;s attention rather than use that &quot;Connect&quot; bug reporting crap. After three or four hours he forwarded my emails to &quot;the right people&quot; and cc&#x27;d me and I got to work with these folks resolving the issues at hand via email. Was a pretty good experience and Scott is a top bloke.",1386075803
+6839967,comment,6839702,6839702,14,0,knowitall,,,"While I think the history of marketing of games is interesting, to be honest to me this read like &quot;bla bla bla... Video games were heavily marketed as products for men, and the message was clear: No girls allowed.... bla bla bla&quot;<p>Meaning the conclusion &quot;no girls allowed&quot; is just randomly inserted somewhere in the middle of a wall of text.<p>Just because boys and men were identified as a large audience and targeted with marketing does not imply that girls are not allowed.<p>Nobody is forcing you to choose either aisle in the toy shop. Just the other day I bought a playmobil horse for my son that came in a pink box. Whatever...<p>What exactly do they mean by girls not allowed? Girls are not allowed to play first person shooters? How would such a rule even be enforced?<p>Or the right games are not being made for girls, then there would be more female gamers? I think whoever believes that should go out and make those games. Put their money where their mouth is.<p>Never mind that there are already lots of games that are being played by lots of girls/women. &quot;No girls allowed&quot; simply has no foundation in reality whatsoever.",1386075764
+5127197,story,,,0,0,,,,,1386075764
+5126475,story,,,0,0,,,,,1386075747
+6839966,comment,6838495,6839868,7,0,Fomite,,,"PhD Epidemiologist: I wouldn&#x27;t. I love zombies, and I love zombies in Epidemiology, but I wouldn&#x27;t exactly hold World War Z as a great example of pandemics in action. Especially not the movie.",1386075718
+5125215,story,,,0,0,,,,,1386075718
+5125134,story,,,0,0,,,,,1386075715
+5125124,story,,,0,0,,,,,1386075715
+6839965,comment,6839841,6839841,2,0,codfrantic,,,"NSFW tag maybe<p>;-)",1386075714
+6839964,comment,6839601,6839951,9,0,raverbashing,,,"Well, the thing is, it costs time to replace tires<p>So you have to balance tire wear with the time gained by pushing it to the limit<p>They also have an increased engine life this year, I think each team must go through 5 engines during the season, as opposed to 8 engines<p>And you can bet they&#x27;re designed to last as much as needed but not much more.",1386075704
+5122921,story,,,0,0,,,,,1386075664
+5122866,story,,,0,0,,,,,1386075663
+5122854,story,,,0,0,,,,,1386075663
+5122850,story,,,0,0,,,,,1386075663
+5122820,story,,,0,0,,,,,1386075662
+6839963,comment,6822809,6822809,1,0,mud_dauber,,,"Here&#x27;s my list:<p>Structure & Interpretation of Computer Programs (Abelman, Sussman - Lisp oriented, classic)\nAlgorithms in a Nutshell (OReilly)\nClever Algorithms (Jason Brownlee. Uses Ruby for examples)\nData Mining Analysis - Fundamental Algorithms (Mo. Zaki - ebook)\nPython for Data Analysis (Wes McKinney)\nMining of Massive Datasets (Rajaraman, Leskovec, Ullman - ebook)<p>Enjoy.",1386075651
+6839962,comment,6835094,6835507,1,0,johnward,,,"If you&#x27;ve ever worked with or for either of these companies you would know how &quot;old school&quot; they are. They can barely keep an autosorter running, I wouldn&#x27;t expect them to be able to run a fleet of unmanned drones. Also I&#x27;m sure the union at UPS would have some feelings about losing jobs to robots.<p>Source: I worked for FedEx Smartpost/Ground IT for a few years. It was absolutely terrible.",1386075648
+6839961,comment,6836994,6837952,2,0,Ehersman,,,"We meant RJ45, typo being fixed.",1386075645
+6839960,comment,6839702,6839943,10,0,tomp,,,"I remember all the fear mongering about violence in computer games (especially first-person shooters). Now, there is a whole generation of 20-somethings that grew up staring at the screen and shooting people and monsters, and crime rates have not gone up (in fact, they are falling IIRC).<p>Accordingly, I don&#x27;t think marketing can change our desires and behaviour. Sure, it can change what we buy through brand-perception, but the desire to buy must already be there (e.g. we want shiny rare objects -> we buy diamonds (due to marketing)).",1386075636
+6839959,comment,6839702,6839859,1,0,Fomite,,,"That was my thought exactly.",1386075634
+5121518,story,,,0,0,,,,,1386075632

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1668,comment,1667,1667,0,0,reitzensteinm,,,"Photoshop is often given as a specific example of something that shouldn't be built as a web app, and I think for good reasons. It will be really interesting to see if they can get the UI to be responsive (or, usable, even). I'm sure they wouldn't butcher their fantastic brand though so I guess they've got got a plan for that.<p>I find it interesting that Photoshop started out as a pro level app that became immensely popular based on its quality, then a cut down Photoshop elements was released a year or two ago for a fraction of the price, and now this free web version. What is the purpose of the web version? Is it a strategic move to get a large audience and upsell them to Elements? Or have they drank the kool aid and are going to try to get ad revenue from it?",1172727536
+1667,story,,,1,1,reitzensteinm,"Newest web app: Photoshop!?",http://news.com.com/Adobe+to+take+Photoshop+online/2100-7345-6163015.html,,1172726732
+1666,comment,1647,1647,0,0,vegai,,,"Closes doors for every other browser?",1172726450
+1665,comment,1664,1664,0,0,vegai,,,"Changelog: http://factorcode.org/responder/help/show-help?topic=changes",1172726407
+1664,story,,,3,2,vegai,"Factor 0.88 released",http://factor-language.blogspot.com/2007/02/factor-088-released.html,,1172726392
+1663,comment,1595,1638,0,0,ecuzzillo,,,"In the environment of a normal large company, the giant administrative expense of hiring people (and in general the suckiness of being in a big company) is a far bigger problem than trying to find a good programmer. ",1172726353
+1662,story,,,4,0,Harj,"The incredibly shrinking VC model",http://money.cnn.com/2007/02/09/magazines/business2/vc_funding.biz2/index.htm?postversion=2007021207,,1172726093
+1661,story,,,2,0,gustaf,"New Travel-startup launched: 71miles.com ",http://71miles.com/,,1172726069
+1660,comment,1545,1545,0,0,Harj,,,"This is the best thing I've read in a long time",1172725926
+1659,story,,,2,0,danielha,"Employee vs. Entrepreneur: What's the Difference?",http://www.doingsuccess.com/article_514.shtml,,1172725867
+1658,story,,,11,0,danielha,"Startup Without Falling Down",http://www.technicat.com/writing/startup.html,,1172725671

@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+14057,comment,14051,14052,0,0,jkush,,,"No, but I probably should!",1176899011
+14056,comment,14056,9770,0,0,chambcm,,,"This is the dumbest article I have read in a long time.
+",1176898780
+14055,comment,13822,13942,0,0,andyjenn,,,"I'm using eLance - this is just to get something started and then I'm hacking the features I want myself as and when I learn...oh yeah, and then get a co-founder with an unfeasibly large brain who can help you out!
+",1176898665
+14054,comment,13944,13998,0,0,busy_beaver,,,"""Compare that to Ruby, where you can't even get a specification of the current state of the language for free.""<p>Err.... <a href=""http://www.ruby-doc.org/"">http://www.ruby-doc.org/</a><p>""What do you use for Ruby on Rails?""<p>Textmate. :-)<p><a href=""http://macromates.com/"">http://macromates.com/</a><p>BTW, you might want to have a look at JRuby. While it's still pre-1.0, it's moving along nicely. It will allow you to leverage all your knowledge of the Java class libraries.<p>
+",1176898592

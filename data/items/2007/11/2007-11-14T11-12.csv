@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+79715,comment,79128,79548,0,0,nostrademons,,,"Usually done using:<p><pre><code>  (function(var1, var2) {
+     // var1 and var2 are now bound within this block
+  })(val1, val2);
+</code></pre>
+Why use this instead of...<p><pre><code>   var var1 = val1;
+   var var2 = val2;
+   // do stuff with var1 & var2
+</code></pre>
+It's because if you have any closures within the block, they'll capture the <i>bindings</i> of var1 and var2 instead of their <i>values</i>.  That means that if you're inside a loop, your bindings will be overwritten each time through, so you could end up creating a dozen closures that all do the same thing.<p>Here's an example from a JQuery patch I did a couple weeks ago:<p><a href=""http://dev.jquery.com/attachment/ticket/1737/bug1737.patch"" rel=""nofollow"">http://dev.jquery.com/attachment/ticket/1737/bug1737.patch</a><p>Before it used an eval statement to directly write the value into the source code of the closure.  After, it captures the value with a let-binding and then returns a closure over the current <i>value</i> instead of the current <i>binding</i>.",1195041313
+79714,comment,79253,79294,0,0,michaelneale,,,"interesting, as a user, I could swear that the Windows Mobile people hate my guts. Never been a developer of it though.",1195040442

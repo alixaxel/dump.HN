@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+223467,story,,,2,0,kristinwhite,"Former Apple Dev Community Lead discusses Jaspersoft & how to build an open-source community",http://talktech.tv/2008/06/20/interview-with-jaspersoft/,,1214019819
+223466,story,,,3,0,DaniFong,"We Feel Fine: An exploration of human emotion, in six movements",http://www.wefeelfine.org/,,1214019534
+223465,story,,,8,1,DaniFong,"Twistori -- an experiment: discovering the feelings of our global consciousness (using twitter)",http://twistori.com/,,1214019484
+223464,comment,222746,223435,0,0,aswanson,,,"Clarification:  The upside of nuclear is obvious, but Joe sixpack is afraid of the China Syndrome, Three Mile Island scenarios and fears it being anywhere near them.  Nuclear is far more environmentally safe and less life-threatening than any other form of energy production we have. The only referents we have of nuclear deaths we have are intentional (WWII) or communist idoicy (Chernobyl).<p>For comparison, coal-related deaths:
+<a href=""http://frankwarner.typepad.com/free_frank_warner/2006/01/us_coal_mining_.html"" rel=""nofollow"">http://frankwarner.typepad.com/free_frank_warner/2006/01/us_...</a><p>Pollution:
+<a href=""http://www.ucsusa.org/clean_energy/coalvswind/c02c.html"" rel=""nofollow"">http://www.ucsusa.org/clean_energy/coalvswind/c02c.html</a><p>Oil:
+<a href=""http://seawifs.gsfc.nasa.gov/OCEAN_PLANET/HTML/peril_oil_pollution.html"" rel=""nofollow"">http://seawifs.gsfc.nasa.gov/OCEAN_PLANET/HTML/peril_oil_pol...</a>
+<a href=""http://www.reuters.com/article/latestCrisis/idUSN07427618"" rel=""nofollow"">http://www.reuters.com/article/latestCrisis/idUSN07427618</a><p>Pick your poison.",1214019417
+223463,comment,223175,223308,0,0,tomjen,,,"Java 7 should add closures. And in the mean time, most of the times you would be using closures, you can use anonymous inner classes.",1214019327
+223462,comment,223418,223418,0,0,fairramone,,,"... and is that Jerry's real email?",1214018673
+223461,comment,222837,223315,0,0,tjr,,,"Hmm, a compiler it may not be, but I doubt many college freshmen could do this as a first project.",1214018650
+223460,comment,223418,223443,0,0,DaniFong,,,"I worry that votes based on hilarity alone are the downfall of social sites everywhere.",1214018587
+223458,story,,,2,0,edw519,"Type Inference vs. Static/Dynamic Typing ",http://herbsutter.wordpress.com/2008/06/20/type-inference-vs-staticdynamic-typing/,,1214018475
+223457,story,,,2,0,edw519,"Andrew Morton on kernel development",http://lwn.net/Articles/285088/,,1214018444
+223456,comment,222607,223446,0,0,aswanson,,,"Will do.  And thanks for the info, you may have spared me a decade or so of wasted effort.",1214018410
+223455,comment,223380,223414,0,0,mdakin,,,"I know from experience that such shirts tend to come as gifts from hot girlfriends.  So if there is any correlation between alpha-males and such shirts it is probably related to a correlation between alpha-males and hot girlfriends.",1214017639
+223454,story,,,3,0,sah,"Ion Microprobe Technology Reveals Earth was Habitable 4.3 Billion Years Ago",http://www.dailygalaxy.com/my_weblog/2008/06/ion-microprobe.html,,1214017307

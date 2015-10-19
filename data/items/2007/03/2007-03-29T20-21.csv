@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+7412,story,,,1,0,eli,"Ethnography: stalking your user (legally) - A List Apart",http://alistapart.com/articles/culturalprobe,,1175201984
+7411,comment,7356,7394,0,0,nickb,,,"They're just overlaying sprites (stars in this case) in areas of high deltas (changes). That's all.",1175201508
+7410,comment,7240,7240,0,0,sanj,,,"Does the fact that LLCs do not have shares imply that each member will know the ownership of every other partner?<p>Or is there a way to keep that private?",1175201386
+7409,story,,,2,2,Readmore,"Yahoo! Pipes and the web as a database",http://www.readwriteweb.com/archives/yahoo_pipes_web_database.php,,1175201372
+7408,comment,7265,7370,0,0,domp,,,"They seem to just be looking for you to present your company in a creative way. ",1175201283
+7407,comment,6668,7166,0,0,scrollinondubs,,,"jackpipe- yea we know that page is admittedly weak right now ;-) we're replacing the about page with a distilled 5-point tour that explains the concept better and more visually. RE: the vanilla preconfigured stacks- the VirtualAppliances.net guys and Spike Source are doing a pretty good job now with putting out lean versions of the basic software stacks so we're targeting the end-to-end apps for now.  We'll hit those up down the road though. thanks for the feedback.<p>sean",1175201228
+7406,comment,7253,7324,0,0,nickb,,,"He definitely got rich!  No idea if she regretted it... I never asked him about that. I think he remarried.",1175201217
+7405,comment,7265,7314,0,0,domp,,,"Well I'd assume that a company would already be far along with development and brainstorming if they're looking for publicity like this. All they are expecting is pretty much a sales pitch, which a startup is probably already used to giving anyways. If not, videotaping yourself in such a way might be more important then developing or brainstorming.",1175201131
+7404,comment,7253,7253,0,0,vo0do0,,,"hehe lol, that's a good topic!
+I've been married for past 4 years (almost five, and I'll be at ycomb when we're 5 years - hopefully) and what I can say is:<p>My wife's paying the bills right now while iJigg is giving me 12 hours of work and big headaches :D<p>I'd not say you shouldn't try something being married, but for sure you need a good conversation with your wife before you start.<p>Tell her what are you going to do, the risks and the gifts you'll be able to give to her if you make it thru.<p>Tell her that you'll give her the first 3 months of incoming, that will help.<p>btw, my wife's pregnant and our incoming isn't enough anymore what tells me to rush even more on iJigg.<p>Dreams are priceless, but when married you're not alone anymore, you need to share everything with your wife!
+",1175201070
+7403,comment,7386,7386,0,0,zkinion,,,"I think theres plenty of people out there who want to be part of a startup, but hav no idea whatsoever, or have just vague/pipe dream ideas about starting a company.  <p>Right now I just need a really good flash developer, and maybe another super tech if they could contribute alot.  I haven't been able to find one yet, but still have a few leads..",1175200956
+7402,comment,7136,7136,0,0,mynameishere,,,"I don't get it. Sign up, ""bid"" everything on one girl, if it doesn't work, close the account and repeat.<p>???<p>Easy to game, and I'm not sure why any woman would care two cents for some meaningless ""bids"" in contrast with _any_ real-world criteria.
+",1175200927
+7401,comment,7386,7388,0,0,jkush,,,"I think what's important is that you agree on WHAT you will build. <p>",1175200852
+7400,comment,6668,6668,0,0,mae,,,"Thank you
+",1175200719
+7399,comment,6668,6668,0,0,mae,,,"Thank you
+",1175200719
+7398,comment,6668,6668,0,0,mae,,,"Thank you
+",1175200718
+7397,comment,7294,7294,0,0,eli,,,"Interesting stuff. The cool thing about Slingshot is that it seems like it'll be relatively easy to bolt it on to existing Rails apps. For Apollo, I think you're pretty much going to have to build your apps for Apollo from the start.<p>
+The downside to Slingshot (for some people) is that, since it's rails, you're gonna be sending at least part of your application's source code down to the client to make it work offline. I don't think that's such a big deal, but it could be a dealbreaker for some.<p>edit: see also: <a href=""http://www.techcrunch.com/2007/03/23/here-comes-competition-apollo/"">http://www.techcrunch.com/2007/03/23/here-comes-competition-apollo/</a>",1175200663
+7396,comment,6918,7363,0,0,create_account,,,"BTW, I'm seeing a weird bug in Safari. Every time I reply or just click an up-arrow, I get an error saying ""does nto exist"". Then I go back, and see that my comment was posted and my up-vote was counted. What gives?",1175200031
+7395,comment,6918,7363,0,0,create_account,,,"Wait until you get groupies camping outside your house, just to get glimpse of you. You could be the next David Koresh or Jim Jones.",1175199882
+7394,comment,7356,7359,0,0,sethjohn,,,"Flash (and other) video compression uses a similar algorithm to look for parts of a video that are more static. (To avoid re-sending information about a static background, for example.) I'd guess it's a modification from compression technology.<p>
+ to avoid re-sending information about a static background for example. I wonder if they built theirs from scratch or just modified ",1175199881
+7393,comment,7347,7368,0,0,create_account,,,"Point or no point, he sounds like an ass. ",1175199765
+7392,comment,6918,7363,0,0,dpapathanasiou,,,"When you open Pandora's box, you get everything, both the bad (greed, vanity, slander, envy, pining, etc.) and the good (hope and progress).",1175199248
+7391,story,,,1,1,msgbeepa,"Stock Market Tips All Over The World",http://www.wikio.com/webinfo?id=13036613,,1175198871

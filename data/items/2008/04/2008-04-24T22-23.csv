@@ -1,0 +1,71 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+172987,comment,172915,172915,0,0,pg,,,"Even if people with kids were more productive per hour, that's not enough in a real startup.  The empirical evidence is pretty clear on that.  I can't think of a successful startup whose founders didn't, in addition to being smart and determined etc, also work long hours.",1209077959
+172986,story,,,24,6,chaostheory,"SVN vs. Mercurial vs. Git For Managing Your Home Directory",http://joshcarter.com/productivity/svn_hg_git_for_home_directory,,1209077708
+172985,comment,172346,172982,0,0,kirubakaran,,,"<a href=""http://xkcd.com/178/"" rel=""nofollow"">http://xkcd.com/178/</a>",1209077675
+172984,comment,172942,172972,0,0,attack,,,"<a href=""http://github.com/nex3/arc/tree/f06375c697f5fb0698174e04ae5894341d3bc0c4%2Fnews.arc?raw=true"" rel=""nofollow"">http://github.com/nex3/arc/tree/f06375c697f5fb0698174e04ae58...</a><p>Almost done piecing it all together myself. Have a look.",1209077675
+172982,comment,172346,172566,0,0,whacked_new,,,"This is a joke? Can someone explain it and why is it so offensive?",1209077303
+172981,story,,,1,0,chaostheory,"Nintendo: Average Wii Sits on Shelf for Just an Hour",http://blog.wired.com/games/2008/04/nintendo-averag.html,,1209077215
+172980,comment,172886,172886,0,0,bct,,,"You could get clever algorithmically, but I think it would be far simpler to look for identifying traits of specific software packages. eg. if you see links to /wp-content/something, you're looking at a Wordpress site and therefore a blog.<p>Obviously that alone won't be able to classify a lot of sites, but I suspect it will get the bulk of them.",1209077086
+172979,comment,172346,172346,0,0,SwellJoe,,,"It's worth noting that this is the first LTS release since 6.06, and thus the first release of Ubuntu in a few years that is sane to run on servers.  The LTS server releases are supported for five years, as opposed to 18 months for non-LTS releases.  A five year support lifecycle is awesome (and means that LTS Ubuntu releases are comparable to RHEL/CentOS and Debian for server usage).",1209077076
+172978,story,,,10,0,crxnamja,"Noah Kagan: Learning Viral from Linkedin.com",http://okdork.com/2008/04/24/learning-viral-track-everywhere-from-linkedincom/,,1209077074
+172977,comment,172880,172880,0,0,rms,,,"There are a lot of competitors in this area; I don't see what makes Amazon better than Yahoo stores and the like.<p>I do wish that there was an online store provider that didn't take a fixed percentage of revenue.",1209077053
+172976,comment,172837,172837,0,0,crxnamja,,,"Shit. I drink too much. Maybe not first thing in the morning, luckily;)",1209077040
+172975,story,,,1,0,chaostheory,"Activision: We're competing with Facebook",http://www.mcvuk.com/news/30332/Kotick-Facebook-is-a-threat-to-games,,1209077022
+172974,story,,,1,1,michael_nielsen,"Y Combinator as a tattoo",http://carlzimmer.typepad.com/sciencetattoo/2008/02/y-combinator.html,,1209076999
+172973,comment,172880,172935,0,0,kirubakaran,,,"""$59.99 per month + 7% commission""<p>So they keep 7%, not 93%",1209076970
+172972,comment,172942,172970,0,0,rms,,,"so commenting can be done with negative karma?",1209076963
+172971,comment,172915,172925,0,0,dhh,,,"You're exactly right. Startup School was a great way to collect some thoughts that had been scattered for a while. A real energy boost.",1209076953
+172970,comment,172942,172958,0,0,Zak,,,"It's in the news.arc - sumbitting and voting both require karma above 0. While I suspect this site runs a slightly different version than what's included with arc2, I'm pretty sure that part hasn't changed.",1209076882
+172969,comment,172915,172960,0,0,DaniFong,,,"Laws or not, in the startup world there's a lot of discrimination when it comes to hiring decisions.",1209076876
+172968,story,,,2,0,kirubakaran,"R - v2.7.0",http://www.r-project.org/,,1209076664
+172967,comment,172945,172945,0,0,DaniFong,,,"I'd really like to see that Peer Insight study.",1209076416
+172966,comment,172915,172960,0,0,comatose_kid,,,"He's not advocating that you should <i>only</i> hire people with families.  He's just saying that people with families shouldn't be discriminated against in a startup world that seems to value youth, because they can be as productive.",1209076344
+172965,comment,172775,172775,0,0,tylercarbone,,,"Gruber posted an apt response to this on Daring Fireball, I thought.
+<a href=""http://daringfireball.net/linked/2008/april#thu-24-mcintyre"" rel=""nofollow"">http://daringfireball.net/linked/2008/april#thu-24-mcintyre</a>",1209076223
+172964,comment,172915,172960,0,0,breily,,,"He did post a revised version shortly after I submitted it - <a href=""http://www.37signals.com/svn/posts/996-why-i-love-working-with-family-people"" rel=""nofollow"">http://www.37signals.com/svn/posts/996-why-i-love-working-wi...</a> - Deals more with 'why working with family people is awesome' instead of just 'you should hire family people.'<p>""Update: Removed potential confusion around labor discrimination.""",1209076133
+172963,comment,172346,172805,0,0,wanorris,,,"I use a second monitor at work and only my onboard screen at home. After fiddling around with settings for a while, I got it to work, but I also shut down the system when I go to and from work (I expect restarting X would also work).<p>The main downside of this setup (other than the rebooting thing) is that it makes it impractical to unplug my laptop and move around when I feel like it.<p>I'm also interested in seeing what happens under Hardy.",1209076097
+172962,comment,172837,172856,0,0,mechanical_fish,,,"When you're cutting turns on the snowboard, don't you find it hard to keep typing without spilling your cup of spiked coffee?<p>Maybe it's easier if you're stoned.",1209075969
+172961,comment,172915,172915,0,0,aston,,,"I assumed based on the title he meant ""hire people from your family."" Was totally expecting an essay about the McAskill's at SmugMug.",1209075920
+172960,comment,172915,172915,0,0,slapshot,,,"I'm just going to point out that this sets a troubling precedent.  If one firm thinks it's legitimate to discriminate in favor of mothers with children, that suggests that being a parent is an acceptable basis on which to discriminate.  It opens the door to people thinking about whether somebody is a mother in making hiring decisions.  That's troubling on a lot of levels, and in some states illegal.<p>EDIT: apparently the source has been revised to make it clear that the point is just to look evenly at parents and non-parents; that's OK, but I'll leave the comment above in reference to the earlier version.",1209075915
+172959,comment,172942,172942,0,0,henning,,,"It's debatable, but you have to keep in mind that sometimes drastic action is necessary to protect online communities.",1209075870
+172958,comment,172942,172942,0,0,rms,,,"I don't think that's actually true, unless you've seen it in the source code. I think the editors are such that this behavior appears to be true.<p>There were two sockpuppet users who got banned for having a troll battle, seeing how low they could get their karma before being banned and I think they got close to -80.",1209075841
+172957,comment,172915,172923,0,0,vlad,,,"My notes of DHH's speech were on the front page for a couple of days so maybe users were inspired as well as inspired to post more themselves. ;)",1209075837
+172956,comment,172346,172467,0,0,wanorris,,,"Yeah, Envy totally did the job for me.<p>Which is nice, because video drivers were the only nontrivial thing that didn't work for me in Gutsy -- the free nvidia drivers don't work at all with my T61p, and the version of the proprietary driver in the repository was complete crap.",1209075809
+172955,comment,172942,172949,0,0,angstrom,,,"Won't comments made on other posts offset that though?",1209075706
+172954,comment,172429,172946,0,0,dnaquin,,,"Right. I missed one.",1209075673
+172953,story,,,3,5,baha_man,"Scrum: Putting a Name on Intelligent Development Practice",http://bobgrommes.wordpress.com/2007/01/25/scrum-putting-a-name-on-intelligent-development-practice/,,1209075634
+172952,story,,,1,0,nadim,"Google Finance Interface Change",http://googlefinanceblog.blogspot.com/2008/04/new-home-page-and-new-country.html,"Google Finance changed their layout today to the regret of many users that preferred the old layout (reflected in the comments).<p>It will be interesting to see if they revert to the old look based on the outcry or if they keep their 'improved' look.",1209075535
+172951,story,,,2,0,henning,"A List Apart, Issue 257: the tragicomedy of teaching Rails to non-programmers",http://alistapart.com/issues/257,,1209075470
+172950,comment,171505,171567,0,0,skmurphy,,,"This is brilliant. Can you please contact me (I can't figure out how to reach you from your comments and profile) and let me know who I should attribute it to: it's a succinct insight that I would like to quote properly.",1209075402
+172949,comment,172942,172947,0,0,attack,,,"And you just about can't recover because no one can see your stuff to vote it up... I don't think that this harsh behavior was the intended scenario so that's why I file this under ""bug"".",1209075097
+172948,comment,172863,172863,0,0,jeroen,,,"same as <a href=""http://news.ycombinator.com/item?id=172767"" rel=""nofollow"">http://news.ycombinator.com/item?id=172767</a>",1209074979
+172947,comment,172942,172942,0,0,mixmax,,,"So if your first post gets a minus one rating there is no way to get your account back up since all your subsequent posts will not be shown?<p>Bad luck...",1209074903
+172946,comment,172429,172741,0,0,dfranke,,,"The assumption that generally fails to get communicated is that the host will always give you an option to switch.  You can only do proper statistical analysis of the situation if know what the host will do under any given set of conditions.  Otherwise you have to consider the possibility that you'll have the option of switching iff your first choice was the correct one -- in which case you obviously should never switch.",1209074902
+172945,story,,,20,13,wmeredith,"Your Customers Care About Design, Even if They Don't",http://www.voltagecreative.com/blog/2008/04/your-customers-care-about-design-even-if-they-dont/,"Trying my hand at some corporate blogging for my new company. (Design/SEM House) This is my first article.<p>Excerpt:
+""So, why is such a silly mistake so common? It has to do with vocabulary. Even people who don’t care about design, care about it. They just think they don’t care, because they don’t know the language. They don’t take note of poorly thought out ergonomics when they encounter them, but they sure recognize it when they’ve purchased a product the maker clearly never used for it’s intended purpose. When they feel they’ve wasted money, they certainly do take note. And they tell their friends.""",1209074803
+172944,comment,172775,172775,0,0,jimbokun,,,"This also seems relevant to the discussion of the relative strengths of the Mac and PC markets right now:<p><a href=""http://www.bloomberg.com/apps/news?pid=20601087&sid=aQ7_iN1SxJ.c&refer=worldwide"" rel=""nofollow"">http://www.bloomberg.com/apps/news?pid=20601087&sid=aQ7_...</a><p>vs. Apple's Best. Quarter. Ever.",1209074800
+172943,story,,,8,2,breily,"Comscore: Actually, We Were Right. And Google's US Business Stinks",http://www.alleyinsider.com/2008/4/comscore_google_s_us_business_does_stink,,1209074748
+172941,comment,172345,172345,0,0,mosburger,,,"<a href=""http://friendfeed.com/mikedesjardins"" rel=""nofollow"">http://friendfeed.com/mikedesjardins</a>",1209074617
+172940,comment,172915,172925,0,0,jimbokun,,,"I believe he has decided to take the opposite position to pg on every point about how to start a business and see how well he can argue it.<p>Which is a healthy thing for Hacker News, I think, getting other perspectives.",1209074553
+172939,comment,172837,172837,0,0,brett,,,"Why even try to make it into an acronym when you have to work that hard for it?",1209074508
+172938,comment,172837,172837,0,0,redorb,,,"first response ""No way, I can quit any time"" ... then I hear the song ...<p>Breath it in and breath it out
+and pass it on it's almost out
+We're so creative and so much more
+We're high above but on the floor
+It's not a habit it's cool
+I feel alive
+If you don't have it your on
+the other side
+The deeper you stick it in your vein
+The deeper the thoughts there's no more pain
+I'm in heaven I'm a god
+I'm everywhere I feel so hot
+It's not a habit, it's cool
+I feel alive
+If you don't have it your on
+the other side
+I'm not an addict (maybe that's a lie)<p>It's over now, I'm cold, alone
+I'm just a person on my own
+Nothing means a thing to me
+Oh, nothing means a thing to me<p>Youtube video here: <a href=""http://www.youtube.com/watch?v=V-3DzM1KSnU"" rel=""nofollow"">http://www.youtube.com/watch?v=V-3DzM1KSnU</a>",1209074434
+172937,comment,172345,172695,0,0,rms,,,"Feature request:  news.yc support!",1209074424

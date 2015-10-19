@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+156151,comment,156139,156139,0,0,motoko,,,"I would be interested to know how one would derive a belief in the Christian god from reproducible natural observations alone.",1207490173
+156150,comment,156139,156139,0,0,ericb,,,"Random guy who heads US research institute and is not Craig Venter believes in mystical sky daddy. Film at 11.<p>How is this hacker news, or even interesting?",1207490070
+156149,comment,156139,156139,0,0,PieSquared,,,"I have also found God. God said, ""Let us make Men in our image, in our likeness."".<p>And that is what he did: <a href=""http://www.aikenslaughs.com/adult/1484.jpg"" rel=""nofollow"">http://www.aikenslaughs.com/adult/1484.jpg</a>",1207489870
+156148,comment,155830,155955,0,0,PieSquared,,,"And how exactly is the fear of parenthesis 'pretty awesome'?",1207489791
+156147,comment,156119,156119,0,0,motoko,,,"Summary: sell something ---or if that doesn't work, try an advertising business model.",1207489702
+156146,comment,155869,155869,0,0,jmzachary,,,"Was this a class presentation written for a CS 101 undergraduate audience at a community college?",1207489208
+156145,comment,155830,156057,0,0,0x44,,,"That's what his example was. Instead of saving 12 hours of generated music, he's logging the data that generated it as instructions on how to generate it.",1207489021
+156144,comment,155822,156042,0,0,tptacek,,,"Network Algorithmics is an awesome book; it's been recommended here before.<p>But I don't think most of the DPI products use advanced packet classification algorithms. No product I've worked on has; it's pretty much, ""that's port 80, so use the HTTP decode"". There's classification done for binning and accounting, but it's pretty brute force.<p>Narus is a DPI vendor, but not of the type WaPo is talking about. They provide ""lawful"" (read, ""unlawful"") intercept for traffic that has already been classified and diverted.",1207488908
+156143,story,,,1,0,mattrepl,"Translation Game - Hacking Users into Workers",http://lostgarden.com/2008/03/translation-game.html,,1207488874
+156142,comment,155601,155883,0,0,jmzachary,,,"No standards and don't take it personally. I was simply asking if your opinion was based on recent use of Asterisk or your experience from a few years ago. Software evolves, sometimes in a good way.",1207488740
+156141,story,,,2,0,mhb,"Women are more successful stock investors than men",http://scribd.com/slurp?url=http://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf,,1207488056
+156140,story,,,1,0,nreece,"3 Reasons to Welcome a Recession",http://www.fool.com/investing/mutual-funds/2008/04/05/3-reasons-to-welcome-a-recession.aspx,,1207487914
+156138,comment,156051,156051,0,0,Alex3917,,,"I think it was E.O. Wilson who once said, ""If you're not interested in ants then you're probably not a very interesting person.""",1207487689
+156137,story,,,35,47,nreece,"The Top 9½ Books In a Hacker's Bookshelf",http://grok-code.com/11/the-top-9-in-a-hackers-bookshelf/,,1207487681
+156136,story,,,2,0,edw519,"Microsoft: Yahoo has three weeks or else",http://blogs.zdnet.com/BTL/?p=8388,,1207487654
+156135,story,,,1,0,joschi,"Managing The GRUB Bootloader With QGRUBEditor On Ubuntu 7.10",http://www.howtoforge.com/managing-grub-with-qgrubeditor-on-ubuntu7.10,,1207487544
+156134,story,,,1,0,edw519,"Interview With Steve Wozniak at Boston Robotics Competition (video)",http://www.youtube.com/watch?v=72rOerQsu28,,1207487470
+156133,comment,155442,155941,0,0,edw519,,,"""endless sea of lists of names""<p>""something useless""<p>Honestly, do you guys really believe that these phrases describe this thread?<p>I really enjoyed reading about people's choices, no matter how much they had to say, didn't you?",1207487212
+156132,comment,156118,156126,0,0,PieSquared,,,"Maybe it's a feature? Because we all love waiting for large SWF files to load. It's probably not noticeable if you're just looking at plain HTML like HN, but if you're viewing large photo galleries or downloading many large embedded flash files, it probably becomes a problem. So yes, I think this qualifies as a 'nasty bug'.",1207487163
+156131,story,,,1,0,buckpost,"It’s an Aggregation Festival ",http://www.markevanstech.com/2008/04/06/its-an-aggregation-festival/,,1207486982

@@ -1,0 +1,34 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+167124,comment,167122,167122,0,0,apgwoz,,,"Quick and easy, I like it. I noticed however that link the whitespace around links gets destroyed when creating a site from RSS. See for instance: <a href=""http://tinyurl.com/3wquw5"" rel=""nofollow"">http://tinyurl.com/3wquw5</a> .",1208516396
+167123,comment,167076,167076,0,0,maryrosecook,,,"I don't get distracted by music at all.<p>If I want to get focused quickly, I listen to some particularly horrible electronica (Winnipeg Is A Frozen Shithole by Venetian Snares is a good example).  If it's three in the morning, I listen to some minimal electronica (Vladislav Delay, B. Fleischmann both good).<p>Otherwise, it's whatever I'm enjoying at the moment (recently: brutal hardcore like Circle Takes The Square, weird indie like Frog Eyes and Sunset Rubdown).<p>Finally, long albums are good because of the longer gaps between ends of songs and ends of records.",1208516024
+167122,story,,,25,18,ertra,"Ask YC: Feedback on startup: wirenode.com",http://www.wirenode.com,,1208515937
+167121,comment,167024,167106,0,0,kxt,,,"<a href=""http://en.wikipedia.org/wiki/CherryOS"" rel=""nofollow"">http://en.wikipedia.org/wiki/CherryOS</a>",1208515838
+167120,comment,167040,167040,0,0,pmjordan,,,"How did <i>McDonald's</i> make it onto that list?! Do they do something in special in Asia that's different from the decades-old business model they (successfully) apply in Europe?",1208515834
+167119,comment,167017,167108,0,0,apgwoz,,,"There are AJAX helper functions in Django, they just don't produce JavaScript. Instead they make it stupidly easy to get back data in JSON, and most importantly leave which framework and everything else up to you.",1208515741
+167118,comment,167089,167115,0,0,rms,,,":)   thanks",1208515671
+167117,comment,167089,167115,0,0,attack,,,"There are ~30 secret editors, btw.",1208515609
+167116,comment,167089,167089,0,0,attack,,,"It is a networking site for hackers/entrepreneurs. Look at it this way and these posts make more sense.",1208515492
+167115,comment,167089,167109,0,0,davidw,,,"Hehe... oh that...  Yeah, that's come up before.  I just ignore rms when he gets going about Kratom, and let PG deal with it, as he alone has the power to nuke stories.  rms seems like a bright guy and has contributed a lot to this site, but he does have that peculiarity that comes out now and again.",1208515320
+167114,story,,,1,0,rockstar9,"Ten Things You Need to Know About the Optimus Maximus Keyboard Hardware",http://gizmodo.com/381011/ten-things-you-need-to-know-about-the-optimus-maximus-keyboard-hardware,,1208515316
+167113,comment,166219,166829,0,0,technoguyrob,,,"Hi mdemare,<p>I hate being so offtopic in replying to your comment here, but as YC doesn't have private messaging, I hope you'll see this. Could you put your email in your profile or email me at technoguyrob @ gmail?",1208515187
+167112,story,,,8,4,bootload,"When Noise Helps: Stochastic Resonance and ADHD",http://scienceblogs.com/developingintelligence/2007/09/when_noise_helps_stochastic_re_1.php,,1208515143
+167111,comment,167024,167024,0,0,hcho,,,"YAOS? Yet Another Operating System.",1208515041
+167110,comment,167024,167024,0,0,tgdavies,,,mudnicks,1208514702
+167109,comment,167089,167104,0,0,xenoterracide,,,"<a href=""http://news.ycombinator.com/item?id=167032"" rel=""nofollow"">http://news.ycombinator.com/item?id=167032</a><p>initially that. although it is starting to look more legit (post submit explanations).<p>But it's got me a bit hot under the collar, about what should and should not be on hacker news.",1208514696
+167108,comment,167017,167017,0,0,thingsilearned,,,"I thought this would would be junk but they were valid points.<p>I dislike however when people state ""AJAX in Django is Hard"".  Its not hard, there are just no helper functions.  So AJAX is AJAX in Django.  He explains that in the article but catchy titles are what people read and remember.  The title should instead be ""Django has no helper functions for AJAX""<p>That I agree with and think should be changed.  Is anyone working on this?",1208514599
+167106,comment,167024,167024,0,0,bigtoga,,,"Dunny why, but the name ""Cherry"" pops into my head. Best of luck to you.",1208514279
+167105,comment,167032,167091,0,0,rms,,,">You didn't ask if anyone was interested in getting into the kratom business.<p>I wanted to know if anyone has a connection to or knows much about marijuana dispensaries, thinking that they are a likely wholesale buyer of kratom.",1208514090
+167104,comment,167089,167101,0,0,davidw,,,"Do you have an example of what you feel is inappropriate?  I don't think anyone here has much tolerance for outright spam.",1208513931
+167103,comment,167089,167097,0,0,xenoterracide,,,"I can see that. Maybe we should add a meetup area?",1208513663
+167102,comment,167076,167076,0,0,lyime,,,"livesets.us<p>Armin Van Buren - A state of trance
+Above and Beyond - trance around the world
+Tiesto - club life
+David Guetta 
+and plenty more.
+I love electronic music.",1208513590
+167101,comment,167089,167095,0,0,xenoterracide,,,"I find a difference between what you are doing, and pushing a product. Asking for opinions is not 'would someone like to buy X'.",1208513539
+167100,comment,167076,167076,0,0,mosburger,,,"Electronic music with minimal lyrics.  It's the only time i listen to that genre - it puts my mind into work-mode.",1208513194
+167099,comment,167076,167076,0,0,mtts,,,"In really stressful situations, old hardcore or punk (that I know really well so I won't actively listen to it) helps me get things done.<p>But usually it's just post rock or techno or something else that's kind of boring and instrumental.",1208513121
+167098,comment,167076,167076,0,0,JMiao,,,"<a href=""http://www.thesixtyone.com/james"" rel=""nofollow"">http://www.thesixtyone.com/james</a>  (click on ""listen to radio"")<p>instrumental stuff usually works best, but i like variety.<p>i've recently become very fond of danger and m83.<p><a href=""http://www.thesixtyone.com/danger"" rel=""nofollow"">http://www.thesixtyone.com/danger</a>
+<a href=""http://www.thesixtyone.com/m83"" rel=""nofollow"">http://www.thesixtyone.com/m83</a>",1208513092
+167097,comment,167089,167089,0,0,rms,,,">I think many of us are not in the SF area and don't care. There are sites designed for organizing meetups.<p>Startup School is this weekend, so this is the highest density period for meetups of the year. It'll calm down next week.",1208512885

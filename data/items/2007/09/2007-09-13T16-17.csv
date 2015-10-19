@@ -1,0 +1,71 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+54286,comment,54202,54202,0,0,Alex3917,,,"What the article doesn't mention is that 23andme was co-founded by Sergey Brin's wife, Anne Wojcicki. Apparently he isn't investing, but Google is.",1189702700
+54285,comment,54037,54255,0,0,irrelative,,,"I'd say make trailers optional too.  I personally don't care for them -- I generally only see movies that I've read about online or heard about from friends.<p>A lot of people do like trailers though -- maybe set the start time of the movie to be the actual time the movie starts, and then let people interested in the trailers come early?  Or, maybe, have the trailers live up to their namesake and show them after the movie?<p>Maybe I'm in a minority -- do trailers bug anyone else?",1189702427
+54284,comment,54000,54278,0,0,Goladus,,,"Here's the code, with ""jlog"" instead of log.  I must have log defined somewhere (like I said, I suck at Lisp).<p><p><p><pre><code>    (defparameter *handlethese*
+      '(date level message))
+    
+    (defun date (obj)
+      (prin1 obj))
+    (defun level (obj)
+      (prin1 obj))
+    (defun message (obj)
+      (prin1 obj))
+    
+    (defun record (record-data)
+      (if (car record-data)
+          (progn
+    	(if (member (car (car record-data)) *handlethese*)
+    	    (funcall (car (car record-data)) (cdr (car record-data)))
+    	  nil)
+    	(record (cdr record-data)))
+        nil))
+    
+    (defun process-jlog(record-list)
+      (if (car record-list)
+          (progn (format t ""~%Entry:"")
+    	     (funcall (car (car record-list)) (cdr (car record-list)))
+    	     (process-jlog (cdr record-list)))
+        t))
+    
+    (defun jlog (&rest record-list)
+      (process-jlog record-list))
+   </code></pre>",1189702418
+54283,story,,,10,7,thehigherlife,"WIRED 1997: ""101 ways to save Apple""",http://www.wired.com/wired/archive/5.06/apple.html?apple,,1189702398
+54282,comment,54279,54279,0,0,pg,,,"Now that is a man bites dog headline.",1189702285
+54281,comment,53864,54226,0,0,jey,,,"Maybe Howard Stern modulo entertainment. :)",1189702179
+54280,comment,54266,54266,0,0,pg,,,"I wouldn't quite say ideas are a commodity.  The reason they're worth less than naive founders think is not so much that everyone else has them as that they are only 5% finished.",1189702153
+54279,story,,,1,1,colortone,"Music industry doing something smart (A&R social net)","http://media.guardian.co.uk/newmedia/story/0,,2167618,00.html?gusrc=rss&feed=4","Complete with ""2.0"" name: Scoutr<p><a href=""http://www.scoutr.co.uk/home/"" rel=""nofollow"">http://www.scoutr.co.uk/home/</a><p>I registered and reviewed a track; pretty smart implementation...",1189701825
+54278,comment,54000,54158,0,0,Goladus,,,"That is a valid concern, however it doesn't mean you have to worry about escaping all text properly.  You can simply handle the elements as lists, and code won't get executed.<p>As an exercise, I tried parsing a few entries in that java log format from the article, but changed a few things.  In particular, I replaced the message string with one written with unescaped text that the user might have been responsible for.<p>I suck at Lisp, but in 28 lines (6 defuns and 1 defparameter) here's what I got for output.  Note that (FORMAT T ""injection"") gets printed directly is not executed.<p><p><p><pre><code>  Entry:(""2005-02-21T18:57:39"")('SEVERE)(""A pretty bad thing has happened!  The user did this: "" (FORMAT T ""injection"") ""."")
+  Entry:(""2007-09-11T18:57:39"")('SEVERE)(""A very very bad thing has happened!  The user did this: ..."")
+  Entry:(""2907-09-11T18:57:39"")('WARNING)(""A sorta bad thing has happened!  The user did this: ..."")
+</code></pre>",1189701762
+54277,comment,53687,54076,0,0,run4yourlives,,,"In 75 years I'd be more willing to bet that the notion of a ""desktop OS"" will be irrelevant. :-)",1189701691
+54276,comment,53987,54127,0,0,gibsonf1,,,"From the journal Nature:
+<a href=""http://cc.oulu.fi/%7Eusoskin/personal/nature02995.pdf"" rel=""nofollow"">http://cc.oulu.fi/%7Eusoskin/personal/nature02995.pdf</a><p>Quotes from Scafetta, N., and B. J. West, 2006. Phenomenological solar contribution to the 1900-2000 global surface warming. Geophysical Research Letters, doi: 1029/2005GL025539.
+<a href=""http://www.worldclimatereport.com/index.php/2006/03/21/solar-warming/"" rel=""nofollow"">http://www.worldclimatereport.com/index.php/2006/03/21/solar...</a><p>An article from the Telegraph citing some scientists involved in the new Solar findings:
+<a href=""http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/07/18/wsun18.xml"" rel=""nofollow"">http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/07...</a>",1189701585
+54275,story,,,1,0,vlad,"Sprint to Offer Wireless Shopping on Cell Phones",http://news.zdnet.com/2100-1035_22-6207652.html,,1189701407
+54274,comment,54186,54186,0,0,thomasptacek,,,"Denny says Gigamon ""contradicted Gartner"", and ""Gartner was dead wrong"". This is my space, too. All due respect, Denny, but, not so sure of your policework there.<p>Gartner predicted the demise of the standalone ""intrusion detection system"". Denny's product is enabling infrastructure for network monitoring and network security tools. It's not an intrusion detection system; it's lower on the value chain than that.<p>The market for intrusion detection systems, which are sold almost entirely to enterprises, evaporated in the 3 years following that Gartner report. There were several hundred million addressable dollars of it in 2003. Now there may be 50. <p>You probably don't care about this. But what you might care about is, there's a difference between bootstrapping a company into a 15MM/yr niche and funding a company to go after a billion dollar market. The former has an outcome like nCircle's, where you limp for the next 5-10 years of your life. If you do well, you get a ""lifestyle company"". The latter has an outcome like SourceFire, which involves private jets.<p>Lifestyle companies are great. But they don't have promising exits. The ""Paul Graham Way"" involves exits; murder yourself for 2 years, never work again. This is more the ""Joel Spolsky Way""; end up with private offices, a 4 day work week, and an Aeron chair.<p>We've been bootstrapping for a couple years now. It's definitely cost us time, and we have the constant hazard of falling into a lifestyle company. I'm not saying one approach is better/worse than the other. But if you're selling to enterprises, ignore the analysts at your own mortal peril.
+",1189701263
+54273,comment,53987,54229,0,0,gibsonf1,,,"From NASA on Mars:
+<a href=""http://mars.jpl.nasa.gov/odyssey/newsroom/pressreleases/20031208a.html"" rel=""nofollow"">http://mars.jpl.nasa.gov/odyssey/newsroom/pressreleases/2003...</a><p>Warming on Pluto:
+<a href=""http://www.space.com/scienceastronomy/pluto_warming_021009.html"" rel=""nofollow"">http://www.space.com/scienceastronomy/pluto_warming_021009.h...</a><p>Additional links for other Solar System planets:
+<a href=""http://www.prisonplanet.com/articles/november2006/161106suvjupiter.htm"" rel=""nofollow"">http://www.prisonplanet.com/articles/november2006/161106suvj...</a>",1189701141
+54272,comment,54000,54192,0,0,koolmoe,,,">Using Lisp to read and write a configuration file means you don't need to worry about lexing and parsing either.<p>That was the point I was trying to make, apparently unsuccessfully.<p>>If you don't use Lisp, or if you don't use S-expressions, you will need to lex and parse the configuration file just to read it, compiler or no compiler.<p>Any time you build a lexer and a parser, you are building a compiler (I'm using a broader meaning of compiler - not necessarily one that outputs bytecode).  There are many XML-to-HTML compilers, for example.<p>Lisp macros compile DSL's to Lisp.  That's why a Lisp programmer rarely needs to think about lexing and parsing.  It is automatic and implied if you address the problem in the right way.  It's also why the concepts of data and programs are necessarily conflated in Lisp.",1189701118
+54271,comment,54051,54062,0,0,palish,,,"Congrats Brett!",1189700969
+54270,comment,53987,54127,0,0,gibsonf1,,,"Some examples:<p><a href=""http://news.ycombinator.com/item?id=50663"" rel=""nofollow"">http://news.ycombinator.com/item?id=50663</a>",1189700911
+54269,comment,54245,54245,0,0,divia,,,"Anyone who has always wanted to write a novel should consider doing National Novel Writing Month (<a href=""http://www.nanowrimo.org/"" rel=""nofollow"">http://www.nanowrimo.org/</a>).  I did it last year, and even though my novel was pretty terrible I still had fun and learned a lot from writing it.  ",1189700671
+54268,story,,,7,1,nivi,"Hacking a car purchase is like hacking fund-raising? (Video)",http://www.venturehacks.com/articles/buying-a-car,,1189700655
+54267,comment,54037,54255,0,0,comatose_kid,,,"A clean theatre would also be nice.",1189700596
+54266,story,,,1,1,dherman76,"Ideas are a Commodity - Entrepreneurship is about Execution",http://www.darrenherman.com/2007/09/13/ideas-are-a-commodity/,,1189700281
+54265,story,,,9,0,nickb,"Getting Started with Cocoa: a Friendlier Approach",http://andymatuschak.org/articles/2007/09/09/getting-started-with-cocoa-a-friendlier-approach/,,1189700184
+54264,comment,54244,54244,0,0,epi0Bauqu,,,"Yes, I've used Iron Mountain.  It is about 2K per year to store DVDs .  Then of course there are additional services such as getting them to verify data, run things on data, etc., none of which I have used.  I had occasion to re-examine stored DVDs after a year, and all of them worked fine.",1189700162
+54263,story,,,2,1,nickb,"Ajax application security critical, experts warn","http://searchsoftwarequality.techtarget.com/originalContent/0,289142,sid92_gci1270910,00.html",,1189700031
+54262,comment,54058,54058,0,0,donna,,,"Why i don't, because it's a read-only device, i need a phone i can write --type information into.",1189699980
+54261,story,,,1,0,nreece,"Introducing iPoor - The Real iPhone Killer! (parody)",http://ipoor.org/,,1189699878
+54260,story,,,2,0,tomh,"ArsDigita University, five years later",http://aduni.org/~tomh/rants/aduni_five_years_later.html,,1189699721
+54259,story,,,1,0,nreece,"Ten secrets about working in IT","http://resources.zdnet.co.uk/articles/0,1000001991,39289094,00.htm",,1189699694
+54258,comment,54223,54223,0,0,donna,,,"I have a <i>real</i> job and it looks like this..... (insert your job tasks here)",1189699589
+54257,story,,,10,3,edu,"Ashely Qualls is not allowed to touch  her assets",http://www.ontopresults.com/blog/2007/09/13/17-year-old-myspace-millionaire-ceo-not-allowed-to-touch-assets/,,1189699429
+54256,comment,54186,54186,0,0,gigamon,,,"Thanks for the comment.<p>That was the whole point of the article.  Success has so much to do with luck.  I worked just as hard as I always do but what I did in the past just didn't work out.  But I trusted my gut and just keep going.<p>Everyone is an expert.  But expert gets to go home at night and being a lonely entrepreneur is 24/7.<p>Thanks.<p>Denny K Miu
+",1189699290

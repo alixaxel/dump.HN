@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1155,comment,1150,1150,0,0,Nick_Smith,,,"Anyone have any hands on experience with this?",1172486535
+1154,comment,1141,1141,0,0,Forcicle,,,"His site is down: Google cache:<p>now it&#39;s up again nm",1172486436
+1153,story,,,3,0,fnord123,"FT Wealth Forum: Web 2.0 or Bubble 2.0?",http://www.ft.com/cms/s/7924ede0-abce-11db-a0ed-0000779e2340.html,,1172485953
+1152,story,,,3,0,fnord123,"Novel insights of the social entrepreneur",http://www.ft.com/cms/s/8ff614a0-ad4e-11db-8709-0000779e2340.html,,1172485895
+1151,comment,1030,1030,0,0,staunch,,,"Fox is short-sighted, non-technical, and greedy. They had to buy a start-up for over half a billion dollars precisely because they can&#39;t develop software themselves.<p>Some other company just needs to harness the third party sites and build a the big ecosystem MySpace is neglecting to build.
+",1172485474
+1150,story,,,6,7,jwecker,"For the Uninitiated- When You _Really_ Want to Scale",http://www.sics.se/~joe/apachevsyaws.html,,1172484944
+1149,comment,363,363,0,0,danielha,,,"When submitting a link, sometimes I want to add a text in addition to the title. Usually I just add a comment in the discuss/comments section, but it&#39;d be nice to have a field for that specifically.<p>This works especially well if you&#39;re submitting a link and want to add a remark about why it might be relevant for others to check out.",1172484513
+1148,comment,1077,1108,0,0,immad,,,"That is interesting. So the question becomes; how do you put a value on a virtual place?",1172484262
+1147,comment,1145,1145,0,0,danielha,,,"If any of you guys are familiar with anonymous Internet systems, this is a really cool read. It basically outlines a possible attack against something like Tor by linking together paths of entry/exit to trace (identify) a user.<p>Tor was one of the items covered in a presentation on online identities that I did last week here on my campus.",1172484253
+1146,comment,1077,1107,0,0,immad,,,"Yep, I just threw out a figure and later realised it was way off. It is definitly a fraction of $8 bill though.",1172484115

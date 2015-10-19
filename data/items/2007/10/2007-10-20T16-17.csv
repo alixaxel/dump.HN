@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70709,story,,,4,1,nickb,"Evolution - Live fast, love hard, die young",http://www.economist.com/science/displaystory.cfm?story_id=9982969,,1192899262
+70708,comment,70700,70700,0,0,michael_nielsen,,,"Everyone knows the record company customers have been fleeing; with this example and other recent high profile examples like it, it seems that their suppliers (i.e., the bands) will also shortly start a stampede.  This should considerably accelerate the decline in conventional sales.",1192899001
+70707,story,,,27,14,sharpshoot,"Y Combinator interview advice (by Robby from Zenter)",http://www.robbywalker.name/1/post/2007/05/y-combinator-adviceinterview-tips.html,,1192898694
+70706,story,,,14,16,baha_man,"Getting married saps your testosterone",http://space.newscientist.com/article.ns?id=mg19626264.600&feedId=online-news_rss20,,1192898658
+70705,comment,70691,70691,0,0,mpfefferle,,,"This is a good thing.  J2ME is rather useless for real applications.  For example, if you're going to write an app for Nokia phones, target Symbian so you can use the features that actually make those phones attractive.",1192898443
+70703,story,,,3,1,chaostheory,"CouchDB first impressions",http://www.jacobian.org/writing/2007/oct/18/couchdb/,,1192896354
+70702,comment,70500,70500,0,0,falsestprophet,,,"This solution will become less relevant as the popularity of floating-bovine photography increases. ",1192896331

@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+16228,story,,,1,2,JMiao,"Anyone familiar with iTunes' infrastructure?  Scaling and bandwidth issues?",,,1177394278
+16227,comment,16144,16144,0,0,JMiao,,,"Hey, congratulations.  What a great name!  I sort of remember what Jason said you guys were working on, and ""Disqus"" is fantastic.<p>Good luck.",1177393744
+16226,comment,15628,15739,0,0,pg,,,"Though this graphic joke wasn't planned, we did notice early on that YC was VC with, ah, more masculine characteristics.",1177393642
+16225,comment,16207,16220,0,0,aston,,,"+1 on QRST's. Quality company. And if you're in the area, they also deliver to local colleges.",1177393540
+16224,story,,,1,0,lupin_sansei,"GTDwiki - Cute use of offline Javascript",http://shared.snapgrid.com/index.html,,1177393512
+16223,comment,16098,16103,0,0,jmarinez,,,"I wonder what would happen if you use ZFS on top of a flash memory drive and replace/add a SQL layer next to the ZPL layer.  In theory, you'd get transactions and checksums for free and possibly your sequential writes as well.",1177393223
+16222,comment,15988,16014,0,0,lupin_sansei,,,"Back in 1997 when I started web programming perl was free, then around 1998 mysql and PHP started being included in cheap hosting accounts.",1177393040
+16221,story,,,1,0,pg,"The record label as venture capital firm",http://money.cnn.com/2007/04/18/news/companies/pluggedin_arango_music.fortune/index.htm,,1177392948
+16220,comment,16207,16207,0,0,pg,,,"We get our logo printed on American Apparel T-shirts by QRST's in Somerville, MA.",1177392788
+16219,comment,16098,16098,0,0,lupin_sansei,,," 8 GB of flash memory cost about $80<p>It does? Where can I get that?",1177392654
+16218,comment,16098,16110,0,0,lupin_sansei,,,"Exactly. And it's mighty nice to have a declarative language (SQL) available to write your queries, and perform ad-hoc queries in a terminal, plus referential integrity, triggers, stored procedures etc.",1177392491
+16217,comment,16211,16211,0,0,kyro,,,"Nice job.<p>Something much needed and wanted by people having trouble looking for co-founders, etc.<p>Hopefully this will bloom into a reliable resource and network.<p>Do others a favor and vote this up so they're aware of this potential tool.",1177391035
+16216,comment,16002,16002,0,0,mauricecheeks,,,"u mean like... a business? <p>Trying to provide a service that is of value?
+",1177390908
+16215,comment,16021,16179,0,0,akkartik,,,"Reminds me of Sherlock holmes and his bouts of lethargy and cocaine-use between cases.",1177390900
+16214,comment,16211,16213,0,0,jaggederest,,,"Also, source is available at <a href=""http://www.jaggederest.com/jobs/svn/"">http://www.jaggederest.com/jobs/svn/</a><p>Commit access if you ask nice? Or something?<p>Note that is the development version, the production version is deployed in a different fashion (config mostly). So don't go trying to 'hack' that user on the server itself.",1177390877
+16213,comment,16211,16211,0,0,jaggederest,,,"I did this yesterday and deployed today, it's a standard rails app. User Authentication is done by acts_as_authenticated<p>Feel free to add items to the site for 'jobs' you'd like me to do. I envision it growing, and I'm working on making the body text wikified right now.<p>All apologies to reddit and news.YC for ripping off the votable-items format :)",1177390810
+16212,story,,,12,7,keven,"Coda: one-window web development for Mac",http://www.panic.com/coda/,,1177390803

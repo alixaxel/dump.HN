@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21494,comment,21489,21489,0,0,Sam_Odio,,,"Wow, there really hasn't been any press around these 9 funded companies.  Or at least, I haven't heard of them.<p>I'm amazed by how much more attention YC startups get.  Even if the CRV companies are in stealth mode, I still would've expected to hear more about them in the blogs / press.",1178927982
+21493,story,,,1,1,bootload,"It's Not Just Who You Know",http://www.fastcompany.com/magazine/115/next-who-you-know.html,,1178927962
+21492,story,,,3,0,brett,"One woman can't have a baby in nine months",http://www.gigamonkeys.com/blog/2007/05/10/baby-in-nine-months.html,,1178927942
+21491,story,,,1,0,bootload,"The Hitmen",http://www.fastcompany.com/magazine/115/open_features-innovation-scouts-hitmen.html,,1178927940
+21490,story,,,1,0,bootload,"Search for Tomorrow",http://www.inc.com/magazine/20070501/priority-search-for-tomorrow.html,,1178927676
+21489,story,,,6,4,Sam_Odio,"Charles River Ventures' Angel Experiment: First Nine Investments",http://www.techcrunch.com/2007/05/11/charles-river-ventures-angel-experiment-first-nine-investments/,,1178927496
+21488,comment,21418,21418,0,0,juwo,,,"totally unconnected from my world.
+but thought provoking - the kings and queens of hitech.",1178926959
+21487,story,,,3,1,bootload,"Econ 101 Management",http://www.joelonsoftware.com/items/2006/08/09.html,,1178926559
+21486,story,,,1,0,danw,"Sherry Turkle's sobering thoughts on communication and alienation",http://www.smartmobs.com/archive/2007/05/11/sherry_turkles_....html,,1178926269
+21485,story,,,1,0,danw,"M Dot: Web's Answer to Mobile",http://gigaom.com/2007/05/11/m-dot-webs-answer-to-mobile/,,1178926089
+21484,comment,21442,21442,0,0,spoonyg,,,"It isn't the tool that is important but what you do with it.
+PHP is a pretty good tool. Rails is the (relatively) new shiny tool.
+You can build fantastic or crappy things with either one.",1178926049
+21483,comment,21349,21481,0,0,SwellJoe,,,"SugarCRM is kicking ass these days.  DFJ invested in it recently.  And name recognition is really picking up.  We had lots of people asking for us to add support for SugarCRM to our automated script installation module...we finally added it a couple of revisions back...would have added it sooner, if it weren't such a god-awful bear to install.  It's really cool, though.",1178925961
+21482,comment,21349,21410,0,0,SwellJoe,,,"Quickbooks has an online edition.  It only works in IE on Windows and is expensive, but it does exist.  If there were  a good accounting system online, I'd use it (but it'd have to work with Firefox, since I'm on Linux on the desktop).<p>The problem, of course, is that business accounting is complicated.  And you can't easily pick a smaller sub-set of features to launch with (what good is invoicing without a chart of accounts, and what good is a chart of accounts without reconciliation, and you've also gotta be able to import the most popular file formats for bank data imports and such).  It would take several people working pretty hard six months to a year to launch the smallest usable feature set, and they'd have to move fast to get to the point where bigger businesses could use it--revenues from very small businesses won't sustain this kind of company.<p>That's not to say it's not a great business idea.  Between shutting down my previous company and starting my current one, I toyed with the idea pretty seriously.  I may come back to it in a few years if the need has not yet been met and I'm ready to move on from what I'm doing now.",1178925801
+21481,comment,21349,21410,0,0,jonmc12,,,"Or better, an open platform - ala Sugar CRM",1178925161
+21480,comment,20541,20542,0,0,danw,,,"Who else is interested in making mobile UI not suck around here?",1178924975

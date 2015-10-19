@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+36738,comment,36644,36731,0,0,ivankirigin,,,"By fan or the founders. Wikipedia is essentially designed for herding  cats. That's just another name for user-generated content.",1185404270
+36737,comment,36637,36686,0,0,Keios,,,"Not just the backup.Maybe you can strech it by allowing a user to upload her address book to the site. Then the site automatically links everyone on your phone book to each others profiles and if anyone changes a phone number it has a cascading effect on everyone who is linked with them - this way phones numbers stay current easily. Also, you could offer functionality to send business cards to each other.And maybe even backup text messages. 
+A social network for phones.",1185403971
+36736,comment,34006,34037,0,0,thinkingserious,,,"I was thinking more in the Digg sense.",1185403436
+36735,comment,36471,36557,0,0,thinkingserious,,,"I could have been. But since the process is automated, it is much less hassle than searching through huge yellow page books.",1185403366
+36734,story,,,3,0,thinkingserious,"A Timeless Success Formula",http://blog.thembid.com/index.php/2007/07/25/a-timeless-success-formula/#more-244,"Napoleon Hill described this formula as ""A success formula that always succeeds when applied.""",1185403311
+36733,story,,,2,0,Keios,"TED Talk - Microsoft Virtual Earth - pretty good",http://www.ted.com/talks/view/id/139,,1185403229
+36732,story,,,2,0,Keios,"Zabbix - Remote server monitoring tool",http://www.zabbix.org/,"Have you used this? Have you used Nagios? A penny for your thoughts.",1185402510
+36731,comment,36644,36674,0,0,SwellJoe,,,"Monthly updates by whom?  You gonna heard fifty cats (or startup founders) into doing anything that doesn't involve free food?  I doubt it.",1185402403
+36730,comment,36644,36716,0,0,SwellJoe,,,"D'oh!  Fonts...too...tiny...must squint...",1185402281
+36729,story,,,2,0,Keios,"For us Linux People - How To Forge",http://www.howtoforge.com/,"Seems like a useful collection of how tos' for various linux distributions.",1185402139
+36728,comment,36603,36603,0,0,amichail,,,"As an update on this, what you need to do is send a request for elaboration to developers-help@facebook.com.  I got detailed feedback by doing so.",1185401330
+36727,story,,,1,0,rchambers,"Top Social Networks: The Summer of Social?",http://blog.compete.com/2007/07/24/top-social-networks-june-myspace-facebook/,"Facebook may be the darling of the web 2.0 press, but it was MySpace that grabbed the most attention from consumers in June. ",1185401249
+36726,comment,36721,36721,0,0,epi0Bauqu,,,"Definitely store them, or at least cache them.",1185401188
+36724,comment,36594,36633,0,0,darius,,,"We are using this method on our site. Create temporary user on the fly and let the user overwrite it if they select to save their state and it works great for us. I think just by renaming the registration page to save work page gives you an advantage since the users are sick and tired of having to register in order to get any value.",1185401134

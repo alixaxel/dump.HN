@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+237,story,,,10,14,joe,"Scriggle-it: the ultimate fan management solution for any musician",http://www.scriggleit.com/,,1172026630
+236,comment,235,235,0,0,Elfan,,,"The Google paper in the headlines was presented at  the &#34;5th USENIX Conference on File and Storage Technologies (FAST '07).  This paper won &#34;best of&#34;.",1172025313
+235,story,,,2,3,Elfan,"Hard Drive Myths: The Best Paper of FAST 2007 (won over the Google one)",http://www.usenix.org/events/fast07/tech/schroeder/schroeder_html/index.html,,1172025156
+234,story,,,2,1,Elfan,"The Limits of Genius: Long-Term Capital Management",http://en.wikipedia.org/wiki/Long-Term_Capital_Management,,1172024546
+233,story,,,2,1,SwellJoe,"Going mobile with web-based apps",http://www.obsceneart.com/blog/?p=19,,1172024387

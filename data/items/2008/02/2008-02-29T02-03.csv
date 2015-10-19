@@ -1,0 +1,48 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+125858,story,,,31,7,muriithi,"Python implementation of algorithms from Russell & Norvig's Artificial Intelligence book",http://code.google.com/p/aima-python/,,1204253920
+125857,story,,,3,2,muriithi,"5 Great Code Search Engines!",http://knightknetwork.com/2007/09/13/5-great-code-search-engines/,,1204253732
+125856,comment,125816,125853,0,0,mhb,,,"I think he's using the computer to host his web site.",1204253706
+125855,story,,,3,0,edw519,"Forget Dark Matter: This Astrophysicist Found the Fastest Way to Board a Plane",http://www.wired.com/science/discoveries/news/2008/02/boarding,,1204253661
+125854,story,,,7,1,terpua,"How Hard Could It Be?: Lessons I Learned in the Army",http://www.inc.com/magazine/20080301/how-hard-could-it-be-lessons-i-learned-in-the-army.html,,1204253652
+125853,comment,125816,125816,0,0,ctkrohn,,,"Wow.  Not sure which is more hardcore -- this, or the guy who built a complete programmable replica of the Apollo guidance computer using only the original manuals:  <a href=""http://klabs.org/history/build_agc/"" rel=""nofollow"">http://klabs.org/history/build_agc/</a>",1204253515
+125852,comment,125764,125764,0,0,bsaunder,,,457863656c6c656e742100,1204253501
+125851,story,,,1,0,edw519,"Web Design: From Good to Great in 25 Links",http://www.ttthings.com/blog/comments/from_good_to_great_web_design_in_25_links/,,1204253419
+125850,story,,,3,2,edw519,"Happy Leap Day - The Science of Leap Time",http://cosmiclog.msnbc.msn.com/archive/2008/02/28/714273.aspx,,1204253251
+125849,comment,125445,125466,0,0,wehriam,,,"Let's leave the hating to Techcrunch's commenters.",1204252901
+125848,comment,125794,125815,0,0,ivankirigin,,,"It's an interesting idea, certainly.<p>Some have suggested it's a bad idea, that it would be better to just do what we do and let the dust settle on what kind of advertising people accept.<p>It would probably involve a deal with an ad provider, with some percentage being split between the site owner and the ad network owners.<p>It would also probably need to last for a little while, like an hour or a day.<p>The biggest problem is that it is competing with free. People that would use this would probably just use adBlock, no?",1204252797
+125846,comment,125445,125739,0,0,btw0,,,"Twitter, delicious etc all haven't got this feature, but it's great idea to try.",1204252505
+125845,comment,125317,125392,0,0,aswanson,,,"I would disagree slightly here.  EE is like majoring in assembly language.  It is the wrong paradigm for value creation these days because most hardware startups require large capital expenditures upfront.<p>EE training also forces you into a mode of thought that focuses on concrete implementation rather than making what people want.<p>Turing taught us that any machine implemented in digital logic can be implemented with a basic microprocessor.  Knowledge of transistor transfer functions and Nyquist plots are useless in a startup context these days.<p>Comp Sci or bust.",1204252374
+125844,comment,125816,125816,0,0,albertcardona,,,"I could use one of those to illustrate basic internals to my father.",1204252338
+125843,comment,125445,125797,0,0,btw0,,,">Think about the situations under which someone wakes up<p>I haven't think about it, accessibility is essential here. Thank you.<p>>Also, you're a grad student in Shanghai? Wouldn't an SMS interface be well-received? I sense potential twitter partnerships!<p>Yeah, I am in grad school in Shanghai, everybody gets a mobile phone here, but I wonder if SMS is too cumbersome for  dream input, after all it's a long text to type with the tiny keyboard.<p>>If you want to talk about this anymore, I hang out in #startups on irc.freenode.net a lot. I like your idea, I'd love to help you brainstorm more.<p>Thank you for your interest, I definitely would contact you when finish my paper reading homework. :)",1204252233
+125842,comment,125562,125562,0,0,zandorg,,,"How about a computer game that solves some kind of physics problem?<p>Imagine people ""playing"" a shuttle launch's mechanics!",1204252182
+125841,story,,,27,42,sudeepjuvekar,"The Programmer Hierarchy",http://mgccl.com/2006/12/28/phper-think-themselves-superior-than-java-programmers,"Especially look at the most superior of all...!",1204252148
+125839,story,,,2,2,terpua,"Page View Metric Dying - But What Will Replace It?",http://www.readwriteweb.com/archives/page_view_metric_dying.php,,1204252047
+125838,comment,125317,125317,0,0,aswanson,,,"Where the weather is warm and the energy is palpable. Where else but SomeSchool, CA? Any school near the valley.  Hang on every campus you can't get in and get a good feel of the people you can build with.  I envy you.  Good luck.",1204252009
+125837,comment,125811,125811,0,0,gaborcselle,,,"I'm very happy about the extensive coverage of our ""ex-girlfriend finder"".",1204251872
+125836,comment,125766,125766,0,0,gibsonf1,,,"If your aim is web application, the best way to start may be to first choose your web server.  We're using Portable Allegro serve even though it's not as full featured as we'd like.  A full featured (but slower) webserver is Huchentoot - which would probably be an excellent choice for starting out.  You could then learn lisp by creating a web app - the inductive approach.  Also extremely helpful is lispdoc.com where you can run a search on anything lisp and get references to numerous web resources.",1204251595
+125835,comment,125445,125741,0,0,btw0,,,"I will have a carefully thought on this revenue model. ; )",1204251345
+125834,comment,125764,125764,0,0,fiaz,,,"Since I haven't the slightest inkling what the numbers mean...to what does it refer?<p>I'm guessing I wouldn't get hired...<p>;)",1204251297
+125833,comment,125445,125482,0,0,btw0,,,"I agree, a drop-down is great in the post page. Thank you for your suggestion.",1204251208
+125832,comment,125369,125369,0,0,makecheck,,,"In files that ignore unknown or unused definitions (like CSS and HTML), my preference is just to misspell keywords and identifiers by adding an ""x"" prefix.<p>For example, if you have a block:
+    .mystyle {
+        font-size: smaller;
+        . . . 
+    }<p>You can virtually comment-out the whole thing with one extra character:
+    .xmystyle {
+        font-size: smaller;
+        . . . 
+    }<p>This also works to kill just one property:
+    .mystyle {
+        xfont-size: smaller;
+        . . . 
+    }<p>It applies to HTML attributes too, e.g. <mytag class=""abc""> could be disabled with <mytag class=""xabc"">, which is much simpler than any hack to comment-out the HTML tags or delete the class attribute.",1204251203
+125831,comment,125766,125766,0,0,mxyzptlk,,,"Since you already have a CS degree, take a look at SICP (it's free online). Also, recognize that Javascript is pretty Lispy, and use it to write some kick ass code at work.",1204251144
+125830,comment,125445,125542,0,0,btw0,,,"Great idea, a karma/vote system and a popular link are necessary in such a site.",1204251071
+125829,story,,,16,12,auferstehung,"New supercomputer is a rack of PlayStations",http://www.smh.com.au/news/articles/new-supercomputer-is-a-rack-of-playstations/2008/02/26/1203788327976.html?page=fullpage,,1204251021
+125828,comment,125666,125674,0,0,gibsonf1,,,"Its looking like I'm being hit with spyware or a virus (in spite of the wall of protection I have) - gmail is innocent.",1204250958
+125827,comment,125572,125713,0,0,henning,,,"I find it amazing that he still takes the subway, apparently.",1204250840
+125826,comment,125445,125652,0,0,btw0,,,"Thank you for your interesting idea.",1204250838
+125825,comment,125445,125576,0,0,btw0,,,">Too Twitter-y.<p>I like the twitter design, can't design a better one. So I mimicked the interface, it's clean and straight.<p>>Why shouldn't I just write down my dreams or post them on my blog?<p>Had this question in my mind from the day 1. I am working on a dictionary like database, the only difference being the explanation would be interpretation. Then it should work like this, for every word when there is a match in the database, the word become a tag and the word/interpretation pair is displayed below the dream text. The only difficulty is building such a database.<p>>Being able to reply to individual dreams might be annoying, though maybe we could post ""interpretations""<p>I agree, interpretations make more sense than comments here.",1204250798
+125824,story,,,3,1,jensthang,"How to Persuade More Effectively: 6 Principles to Help You Be More Persuasive Immediately",http://www.thenegotiationguru.com/how-to-persuade-more-effectively-6-principles-to-help-you-be-more-persuasive-immediately,"If you are in any business or interested in being more persuasive in your field, here are the 6 principles of persuasion that will help you be more persuasive immediately. It’s powerful, effective and easy to read.",1204250622
+125823,story,,,1,0,bootload,"Image of Internet on Display at Museum of Modern Art",http://www.ddj.com/hpc-high-performance-computing/206801281,,1204250493
+125822,comment,125765,125765,0,0,xirium,,,"It used to be common practice to coredump a Perl script and edit it in debug so that you could skip the initialiastion phase of a frequently run script. This was most commonly performed on CGI scripts. CryoPID would make it trivial to do this task in any language via the script itself.",1204250402

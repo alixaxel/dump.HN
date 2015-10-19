@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27299,story,,,1,0,danw,"Top mobile apps are extensions of web apps?",http://www.theequitykicker.com/2007/06/11/top-mobile-apps-are-extensions-of-web-apps/,,1181587618
+27298,comment,27297,27297,0,0,palish,,,"This will be really useful for those of you who need to test your webapp on Safari, but only run windows.  Actually, I'm probably the only one who does that.<p>Also, if you're going to develop a webapp for the iPhone, get it working on Safari and it will just work on the iPhone.  So says Steve..<p>Shawn",1181587596
+27297,story,,,37,22,palish,"Safari on Windows",http://www.apple.com/safari/,,1181587536
+27296,story,,,1,0,gaborcselle,"Apple updates Leopard page for WWDC",http://www.apple.com/macosx/leopard/,,1181587187
+27295,story,,,3,0,dawie,"Steve Jobs live from WWDC 2007",http://www.engadget.com/2007/06/11/steve-jobs-live-from-wwdc-2007/,,1181585803
+27294,comment,27251,27261,0,0,vlad,,,"Aha!  I always suspected there was a secret area for YC founders. ;)",1181585787
+27293,comment,27236,27236,0,0,gaborcselle,,,"I doubt that MS would really change their formula editor's output format for Science or Nature. This problem probably affects less than 0.1% of all users.",1181585609
+27292,comment,27264,27264,0,0,bluishgreen,,,"Shall we start a matlab vs mathematica comment (troll) thread :) here please. ",1181584887

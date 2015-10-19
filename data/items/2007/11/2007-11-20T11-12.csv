@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81899,comment,81683,81710,0,0,kul,,,"it gets worse: <a href=""http://www.paidcontent.co.uk/entry/419-y-combinators-graham-tells-uk-tech-scene-admit-it-you-suck/"" rel=""nofollow"">http://www.paidcontent.co.uk/entry/419-y-combinators-graham-...</a><p>Now apparently UK entrepreneurs suck.",1195559406
+81898,comment,81683,81683,0,0,dcurtis,,,"Why are there question marks randomly placed throughout this article?",1195559065
+81897,comment,81762,81762,0,0,icky,,,"I think you should take a moment and calculate the possible damage a short-lived lie can take, if people make immediate, long-term-consequential choices based on the word of a trusted friend.",1195558599
+81896,comment,81594,81756,0,0,Tichy,,,"I googled for it, but I only found a ""Mechanize"" library for Ruby. What does it do? <p>I actually like the way regular expressions are being handled in Java. The only problem is that ""\" has to be escaped in Java Strings, so the regex patterns tend to have a lot of slashes.",1195556812
+81895,comment,81683,81710,0,0,icky,,,"> This whole article reads like what I said run through a blender.<p>""UK Business Journalism 'Sucks', says prominent Silicon-based life-form""...",1195556725

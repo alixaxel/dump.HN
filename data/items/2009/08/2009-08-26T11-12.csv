@@ -1,0 +1,73 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+786998,story,,,1,0,monkeygrinder,"Gov.uk: Fickle, Pig-headed, Suicidal? – You Choose",http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2464&blogid=14,,1251287999
+786997,story,,,1,0,monkeygrinder,"Red Hat Has a Hornet in its Bonnet",http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2461&blogid=14,,1251287977
+786996,story,,,1,0,newacc,"Will Twitter-to-Facebook Publishing Make You Tweet Less? ",http://bits.blogs.nytimes.com/2009/08/25/will-twitter-to-facebook-publishing-make-you-tweet-less/?ref=technology,,1251287865
+786995,comment,786650,786763,0,0,encoderer,,,"But the Civil Rights act took every vote, even if he didn't personally craft the bill. He was a vote for the bill, and more, he was a vote for cloture. And that's no small thing.. At that time, cloture hadn't been achieved in 40 years.<p>And even more, it very nearly killed him. The plane crash on the way out of DC after staying late to vote on the bill left him in a hospital bed for months.",1251287780
+786994,story,,,2,0,newacc,"Why Adults Have Fueled Twitter’s Growth ",http://bits.blogs.nytimes.com/2009/08/26/why-adults-have-fueled-twitters-growth/?ref=technology,,1251287701
+786993,comment,786955,786983,0,0,mayanks,,,"Thanks for the quick lookup. I did some dig on some sub-domains as well. Indeed looks like they have a wild card for sub-domain mapping.<p>I wonder then what is the extra advantage/feature that om and cbs are getting. Anyone can brand their bit.ly shortened url with or without bit.ly's consent",1251287685
+786992,comment,786439,786495,0,0,dan_the_welder,,,"OMG the meatballs look like poop.",1251287592
+786989,comment,786956,786978,0,0,nreece,,,Ditto.,1251287507
+786988,story,,,12,0,askorkin,"More Advanced Ruby Method Arguments - Hashes And Block Basics",http://www.skorks.com/2009/08/more-advanced-ruby-method-arguments-hashes-and-blocks/,,1251287498
+786987,story,,,1,0,nreece,"MongoDB, CouchDB, MySQL Compare Grid",http://www.mongodb.org/display/DOCS/MongoDB%2C%20CouchDB%2C%20MySQL%20Compare%20Grid,,1251287395
+786985,story,,,126,56,nreece,"No more yes. It's either hell yeah or no.",http://sivers.org/hellyeah,,1251287269
+786984,comment,785885,786941,0,0,Ras_,,,"It's not enough for Wikipedia. References need to exist in some form of media, so if necessary, readers are able to check them.<p>Wikipedia Policy: Verifiability
+<a href=""http://en.wikipedia.org/wiki/Wikipedia:Verifiability"" rel=""nofollow"">http://en.wikipedia.org/wiki/Wikipedia:Verifiability</a>",1251287127
+786983,comment,786955,786969,0,0,brk,,,"It looks like they are doing DNS wildcarding and basic round-robin DNS-based load balancing.<p>My guess would be that for particular subdomains (om, cbs, etc.) they may be offering some stats on clicks, referrers, etc., so that those users can better track that sort of stuff.<p>But, the easiest way to manage this DNS-wise is to use wildcards.  The side effect is that any subdomain becomes valid, but that's usually no issue.<p>------------------------------------------------<p>brks-macbook-pro:Downloads brk$ ping om.bit.ly<p>PING om.bit.ly (128.121.254.129): 56 data bytes
+64 bytes from 128.121.254.129: icmp_seq=0 ttl=57 time=69.395 ms
+64 bytes from 128.121.254.129: icmp_seq=1 ttl=57 time=69.584 ms
+^C<p>--- om.bit.ly ping statistics ---
+2 packets transmitted, 2 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.395/69.489/69.584/0.095 ms<p>brks-macbook-pro:Downloads brk$ ping cbs.bit.ly<p>PING cbs.bit.ly (168.143.174.25): 56 data bytes
+64 bytes from 168.143.174.25: icmp_seq=0 ttl=57 time=69.898 ms
+64 bytes from 168.143.174.25: icmp_seq=1 ttl=57 time=69.625 ms
+64 bytes from 168.143.174.25: icmp_seq=2 ttl=57 time=69.815 ms
+^C<p>--- cbs.bit.ly ping statistics ---
+3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.625/69.779/69.898/0.114 ms<p>brks-macbook-pro:Downloads brk$ ping foo.bit.ly<p>PING foo.bit.ly (128.121.254.129): 56 data bytes
+64 bytes from 128.121.254.129: icmp_seq=0 ttl=57 time=70.048 ms
+64 bytes from 128.121.254.129: icmp_seq=1 ttl=57 time=69.509 ms
+64 bytes from 128.121.254.129: icmp_seq=2 ttl=57 time=70.003 ms
+^C<p>--- foo.bit.ly ping statistics ---<p>3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.509/69.853/70.048/0.244 ms<p>brks-macbook-pro:Downloads brk$ ping brk.bit.ly<p>PING brk.bit.ly (168.143.174.25): 56 data bytes
+64 bytes from 168.143.174.25: icmp_seq=0 ttl=57 time=69.191 ms
+64 bytes from 168.143.174.25: icmp_seq=1 ttl=57 time=69.489 ms
+64 bytes from 168.143.174.25: icmp_seq=2 ttl=57 time=72.154 ms
+^C<p>--- brk.bit.ly ping statistics ---<p>3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.191/70.278/72.154/1.332 ms<p>brks-macbook-pro:Downloads brk$ ping 123.bit.ly<p>PING 123.bit.ly (128.121.254.201): 56 data bytes
+64 bytes from 128.121.254.201: icmp_seq=0 ttl=57 time=69.376 ms
+64 bytes from 128.121.254.201: icmp_seq=1 ttl=57 time=70.049 ms
+64 bytes from 128.121.254.201: icmp_seq=2 ttl=57 time=75.750 ms
+^C<p>--- 123.bit.ly ping statistics ---<p>3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.376/71.725/75.750/2.859 ms<p>brks-macbook-pro:Downloads brk$ ping 456.bit.ly<p>PING 456.bit.ly (168.143.174.25): 56 data bytes
+64 bytes from 168.143.174.25: icmp_seq=0 ttl=57 time=69.185 ms
+64 bytes from 168.143.174.25: icmp_seq=1 ttl=57 time=69.917 ms
+64 bytes from 168.143.174.25: icmp_seq=2 ttl=57 time=69.663 ms
+^C<p>--- 456.bit.ly ping statistics ---<p>3 packets transmitted, 3 packets received, 0% packet loss
+round-trip min/avg/max/stddev = 69.185/69.588/69.917/0.303 ms
+brks-macbook-pro:Downloads brk$<p>------------------------------------------------<p>Also, sub-sub-domains work:<p>brks-macbook-pro:Downloads brk$ ping ntr.brk.bit.ly<p>PING ntr.brk.bit.ly (168.143.174.29): 56 data bytes
+64 bytes from 168.143.174.29: icmp_seq=0 ttl=57 time=70.208 ms
+64 bytes from 168.143.174.29: icmp_seq=1 ttl=57 time=68.510 ms<p><a href=""http://ntr.brk.bit.ly/xyz"" rel=""nofollow"">http://ntr.brk.bit.ly/xyz</a>",1251287121
+786982,comment,784479,784621,0,0,j_baker,,,"Just because you graduated from MIT doesn't mean that you're smart.  I find that school is usually about how much you can cram in your head rather than how much you actually <i>know</i>.  Most students can parrot back that a quicksort is an O(n log n) algorithm, but fewer will actually be able to explain why or what that even means.",1251287058
+786981,comment,785259,786340,0,0,losvedir,,,"""I could see both lanes continue to flow in my review mirror.""<p>Heh, you didn't happen to learn to drive in, say, Massachusetts did you? It's called the ""rear view mirror"", but I've found that due to the accent, many people here in Boston have always thought it was the ""review mirror"".",1251287042
+786980,comment,786874,786972,0,0,thenduks,,,"The (former?) troll was described as a 'rather likable fellow', not 'really a good person'. If the latter was the case I would agree with you :)",1251287009
+786979,comment,786940,786940,0,0,mpk,,,".. but will still be allowed to use all other protocols besides HTTP(S).",1251286929
+786978,comment,786956,786956,0,0,messel,,,"I moved to chrome",1251286884
+786977,comment,786874,786874,0,0,DannoHung,,,"This only brings me to ask: Why was asdgasd acting like a weird-boy in the first place?",1251286767
+786976,comment,785259,786068,0,0,kingnothing,,,"Is that the video in Atlanta where they drive side by side around I-285 at the speed limit of 55 mph? It's an interesting social experiment, but I'm surprised none of them were driven off the road. Traffic on the left on 285 generally moves at 70 - 80 mph here.",1251286743
+786975,story,,,1,0,messel,"Distractions vs development",http://www.victusspiritus.com/2009/08/26/distractions-vs-development/,,1251286731
+786974,comment,786955,786964,0,0,billpg,,,"URL shorteners in general or this specific observation?",1251286631
+786973,comment,786874,786943,0,0,SwellJoe,,,"It is part of a larger conversation, and references the other parts of the conversation; blogs used to do that a lot, and the folks who've been doing it for a while tend to still do so on a regular basis.  It definitely made sense to me.  It can be hard to follow IRC chat logs, since there's so much said between the lines in such an environment (any insular community will tend to develop shorthand and a pidgin; IRC is probably an extreme example of that)...but I thought it was reasonably well explained, if you don't try too hard to understand all the trollish undertones and in-jokes.",1251286398
+786972,comment,786874,786874,0,0,iron_ball,,,"If someone is ""really a good person,"" it should not take special effort to pierce through a layer of hostility and destructiveness (even such low-level hostility and destructiveness as trolling an IRC channel).",1251286096
+786970,comment,786650,786663,0,0,byrneseyeview,,,"I avoid driving them home while drunk and then abandoning them underwater. I also try not to pat myself on the back for using my family connections to get into a position where I can spend other people's money on my pet projects.<p>So far, the <i>New York Times</i> hasn't said anything nice about me. On the other hand, I can sleep at night.",1251285892
+786969,comment,786955,786963,0,0,mayanks,,,"I have seen links like <a href=""http://om.bit.ly/xyz"" rel=""nofollow"">http://om.bit.ly/xyz</a> on twitter. In a recent bit.ly's blog I've seen announcement about cbs.bit.ly. So I don't think it is just a plain DNS wildcard. This must have been an intended feature but looks like its not completely intended.<p>For example in case of cbs.bit.ly only links shortened by cbs should be valid. But try it out any bit.ly shortened link works with cbs. subdomain as well.",1251285592
+786968,comment,786650,786824,0,0,fauigerzigerk,,,"I'm not saying politics has no place here. That's why I didn't want to flag the article. But the linked to article is plain headline news, not the kind of interesting debate you describe.",1251285520
+786967,story,,,2,0,phatsphere,"Sage 4.1.1 Released",http://mvngu.wordpress.com/2009/08/22/sage-4-1-1-released/,"Sage open-source mathematics software released a new version.",1251285420
+786966,comment,786650,786796,0,0,fauigerzigerk,,,"Voting behaviour may depend on what people have to say about the article.",1251285291
+786965,comment,785259,785259,0,0,aoeu,,,"Kinda related and interesting/amusing - ""This Guy Can Get 59 MPG in a Plain Old Accord. Beat That, Punk."":<p><a href=""http://www.motherjones.com/politics/2007/01/guy-can-get-59-mpg-plain-old-accord-beat-punk"" rel=""nofollow"">http://www.motherjones.com/politics/2007/01/guy-can-get-59-m...</a>",1251285108
+786964,comment,786955,786955,0,0,onreact-com,,,"Is it a bug or a feature?",1251285019
+786963,comment,786955,786955,0,0,brk,,,"It's likely just a DNS wildcard setting that resolves everything to the same server.<p>Not an uncommon practice, and helps ensure that things like the random typo of ww.site.com by a user still gets them to where they were expecting to go.<p>So my guess is that it's not an undocumented feature but more of a clever hack that exploits something that was done for an entirely different, but closely related, purpose.",1251284935
+786962,comment,786874,786953,0,0,dragonquest,,,"It used to be a meme in the Perl community sometime ago. Not too many people used it but it used to come up in a long chatlog.",1251284901
+786961,comment,785259,785877,0,0,kingnothing,,,"I was taught to leave 1 car length per 10 mph of speed, which probably has about the same effect. Either way, I've been driving for a decade and haven't hit anyone yet.",1251284566
+786960,comment,785295,786935,0,0,sho,,,"Interesting that such a thing exists, but it's hardly the same! Hell, I'd probably visit that, I loved Concorde, and love planes (and all vehicles really) in general ..",1251284563
+786959,story,,,2,0,prakash,"Want to know what journalists, foodies, and tech bloggers read?",http://www.google.com/googlereader/powerreaders2/index.html,,1251284525
+786957,comment,786650,786794,0,0,fauigerzigerk,,,"In that case why don't you just flag (or rather [dead]) my post instead of commenting on it and hence contributing to this boring thread?<p>[edit] I don't like the flag feature because it prevents people from disagreeing with me, maybe explaining why they think the article is interesting.",1251284414

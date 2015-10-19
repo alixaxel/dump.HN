@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92653,comment,92629,92647,0,0,rms,,,"This is how they do it on reddit, try making a long line in code mode on reddit.",1198633980
+92652,story,,,1,0,maurycy,"How to Give Up Coffee and Caffeine Altogether",http://www.dumblittleman.com/2007/10/how-to-give-up-coffee-and-caffeine.html,,1198632765
+92651,comment,92629,92629,0,0,mhartl,,,"While we're at it, maybe add<p>a { text-decoration: underline; }<p>to force link underlining.<p>The current CSS relies on the browser for this; since the links on Hacker News are reasonably close in color to the background text, users who disable link underlining in their browsers may have trouble seeing them.",1198631800
+92650,comment,92501,92501,0,0,utnick,,,"very cool",1198631293

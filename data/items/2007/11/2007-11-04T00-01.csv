@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+75899,comment,75866,75866,0,0,rokhayakebe,,,"Your concept is good but I think you are simply going after the wrong niche. Web2.0 guys have bookmarks/tabs and once they fire FF they probably have all tabs open and they can use the google search box on the toolbar. You should apply the same concept to sports for example and create startup page with the hottest sport website and links ...Then go after teenagers and launch the Gossip or Hollywood startup page...Before you know it you will have all these niche communities. That's just my 2 cents.",1194137692
+75898,story,,,6,2,nickb,"Devices Enforce Cellular Silence, Sweet but Illegal",http://www.nytimes.com/2007/11/04/technology/04jammer.html?_r=2&hp&oref=slogin&oref=slogin,,1194137473
+75897,comment,75866,75866,0,0,dyu,,,"Maybe it's just me (and this is more of a general comment to start pages), I don't see the need for a search bar in start pages, I can easily (cmd/ctrl+k) go to the search bar in the browser and it's not that much harder.<p>As for your site, bmaier's suggestion is good, but if you are concerned about speed maybe you can do some ajax request on some local cached copy of the latest headlines?",1194137415
+75896,comment,75866,75893,0,0,breck,,,"lol. good point. i guess we should target it toward the lazy web 2.0 crowd.",1194137219
+75895,comment,75869,75869,0,0,DarrenStuart,,,"in short no, the thing that made vb popular was it RAD stuff. Ruby on its own does not have windowing etc. Then again maybe it is when you look at the uptake of it. I still think people miss the point of vb and get far to elitist about whatever their fav language. why would I write a 5000 line C program when I could do it in a 1000 a lot quicker? If the end result is the same nothing is lost by doing it in vb. I live by use the best tool for the job.  ",1194137069
+75894,comment,75776,75846,0,0,paulgb,,,"Yeah, the reflections are all wrong. Definitely photoshopped.",1194136923
+75893,comment,75866,75892,0,0,paulgb,,,"Fair enough, but I doubt there is much of an overlap between the ""web 2.0""/hacker community and the kind of people who don't like to customize their homepage.",1194136811
+75892,comment,75866,75877,0,0,breck,,,"thanks. you're right, it's great for my homepage. the idea is to make it the best page for 1-20% of the web 2.0 community. i made one for my college as well, and it was mainly just for my homepage, but there are a lot of people that don't like to make their own homepages or customize thinks like igoogle, so we're trying to provide this segment with a great product.",1194136200
+75891,comment,75866,75881,0,0,breck,,,"thats a very good suggestion. we discussed that, but the idea is to make the best start page. we think the most important things are:
+1. fast
+2. clean
+3. google search bar
+4. links<p>and adding that feature would detract from 1 and 2. our goal is to make the best start page for as many people in the web 2.0 crowd as possible. hopefully we can please a lot of people(1-20%), although we know we can't please everyone.",1194136077
+75890,story,,,1,0,Mistone,"Why Google Turned Into a Social Butterfly",http://www.nytimes.com/2007/11/04/technology/04digi.html,,1194136035
+75889,story,,,10,0,Mistone,"I, Robot: The Man Behind the Google Phone",http://www.nytimes.com/2007/11/04/technology/04google.html?_r=1&ref=business&oref=slogin,,1194135986
+75888,comment,75866,75885,0,0,breck,,,"plus the statistics, which are used to auto update the site monthly to ensure the best links are placed up top.",1194135957
+75887,comment,75521,75802,0,0,greendestiny,,,"That's what working on commission does. Tipping is just working on commission but with a bunch randomness and social rules as obtuse as victorian era manners.",1194135081
+75886,story,,,16,0,bootload,"Free is more complicated than you think",http://radar.oreilly.com/archives/2007/11/free_is_more_co.html,,1194135042

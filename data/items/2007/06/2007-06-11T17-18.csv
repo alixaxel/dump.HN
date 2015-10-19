@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27291,comment,27251,27285,0,0,dpapathanasiou,,,"Well, if they must be together, could they be tagged consistently as ""jobs"" (e.g.) so they can be filtered out of the feed?<p>Alternatively, could you consider grouping all the job items under a separate page tab, next to ""new | best | leaders | submit"" or just use another subdomain for them, e.g. jobs.ycombinator.com?<p>Not everyone who reads news.yc is looking for a job, after all.",1181584722
+27290,comment,27264,27265,0,0,npk,,,"I have not used Mathematica as a programming environment.  But I've written three long numerical codes for mathematica.  One was a ray-tracer for optical design, the second was a stellar model, the most recent code is a monte-carlo type simulator<p>So, mathematica is a beautiful language.  It has symbols and pattern matching, so you can think more ""mathematically.""  Loops exist too, and now aren't that slow, so you can think more like a computer.  If you write mathematical code, the code you write is rendered in mathematical type, this is an <i>amazing</i> feature, and I'm glad Fortress is going to include it.<p>Pros aside, I've found mathematica hard to debug.  The fact that the interpreter costs money is also a big minus.  What are you thinking about writing in Mathematica?",1181584711
+27289,comment,27233,27245,0,0,mattculbreth,,,"Agreed, same goes for Spock.",1181584420
+27288,comment,27276,27286,0,0,danw,,,"To know which web apps need building next! If a lot of people are still using a desktop app when it can be made a web apps you've got to wonder why..",1181584403
+27287,comment,27209,27284,0,0,abrs,,,"Wow, this just fits exactly:<p><a href=""http://typelogic.com/intj.html"" rel=""nofollow"">http://typelogic.com/intj.html</a>",1181583896
+27286,comment,27276,27276,0,0,larkin,,,"BTW, why do you want to know that? :)",1181583801
+27285,comment,27251,27282,0,0,pg,,,"That's intentional.  The companies used to submit links when they were hiring, and I've tried to reproduce that. They'll slide off the frontpage like any story.  The site just looks odd at the moment because there was accumulated demand.",1181583720
+27284,comment,27209,27209,0,0,abrs,,,INTJ,1181583653
+27283,comment,27276,27276,0,0,twism,,,"itunes, eclipse, gtalk, paint.NET, NaviCat, WinSCP, Putty, Windows Task Manager.
+",1181582984
+27282,comment,27251,27251,0,0,dpapathanasiou,,,"Could you prevent the job items from intermingling with the regular news page items?
+",1181582837
+27281,comment,27276,27276,0,0,nostrademons,,,"Firefox, Thunderbird (occasionally), Winamp, Gaim, uTorrent, Winzip, Acrobat, Ghostview, VMWare, SSH.  Netbeans when I need to do work stuff, and IE for testing browser compatibility.  MSPaint for quick graphic edits, and Notepad++ for quick text edits.  Occasionally Civ3 or SimCity 2000 when I feel like playing a game, and the DVD burning software that came with the machine.  Nothing else.",1181582481
+27280,comment,27276,27276,0,0,davidw,,,"emacs, rxvt, firefox, openoffice covers most of it.",1181582283
+27279,comment,27251,27274,0,0,pg,,,"I could enable it easily enough.  But I thought that if people had questions they could just ask the posters, and they could if they wanted modify the post. ",1181582211
+27278,comment,27236,27236,0,0,aston,,,"What you really mean is, Science and Nature haven't updated their process yet for the new Office. The standard they prefer right now is MS's penultimate release, Office 2003...",1181582186
+27277,comment,27276,27276,0,0,danw,,,"With web apps increasingly taking over from desktop, which desktops apps do you still use? <p>As a starter my mac os x dock has Firefox, Mail, Terminal, iCal, TextWrangler, Adium, NicePlayer & Democracy. Everything else has been slowly replaced by web apps. Which app will go online next?",1181581420
+27276,story,,,5,31,danw,"What desktop apps do you use?",,,1181581215

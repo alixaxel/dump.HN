@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+30404,comment,30401,30402,0,0,erik,,,"My first thought is that it sounds like a feature of a calendar application, not a feature of a social networking aplication.",1182714860
+30403,comment,30099,30099,0,0,tocomment,,,"There seems to be no way to see a list of answers I've posted.  Am I missing something?",1182713793
+30402,comment,30401,30401,0,0,tocomment,,,"Here's an idea I had for a facebook app.  Can you guys please put it through the Ycombinator gauntlet and give me any ideas, or feedback you might have (positive or negative)<p>The Idea:
+A facebook app where you can enter all of your gift certificates/cards, the store, the value on the card, and the expiration date.  You will then get notified when the card is about to expire so you can make sure to use it.  I still need to think of a way to tie it into the social aspect of Facebook of course.<p>I got this idea after having three $50+ gift certificates expire on me!  There must be a way to get these things organized.",1182712974
+30401,story,,,8,19,tocomment,"Idea for Facebook App - Need Candid Feedback",,,1182712817

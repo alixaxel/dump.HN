@@ -1,0 +1,224 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8703163,comment,8701763,8702321,0,0,drstewart,,,"The lowest end of our senior band is $150k. Pretty standard for similar companies. This is SF.",1417759067
+8703162,story,,,9,0,Garbage,"Exposed: NSA program for hacking any cell phone network, no matter where it is",http://arstechnica.com/tech-policy/2014/12/exposed-nsa-program-for-hacking-any-cellphone-network-no-matter-where-it-is/,,1417759007
+8703161,story,,,1,0,Global_Delight,"Boom 2 transforms Mac audio",http://www.globaldelight.com/boom,,1417758986
+8703159,comment,8702516,8703011,0,0,air,,,"> Rendering engines are okay. Its the Javascript execution engine that is not allowed.<p>No, they must use WebKit:<p>&quot;Apps that browse the web must use the iOS WebKit framework and WebKit Javascript&quot;<p><a href=""https://developer.apple.com/app-store/review/guidelines/"" rel=""nofollow"">https://developer.apple.com/app-store/review/guidelines/</a>",1417758917
+8703158,comment,8699040,8700850,0,0,edoceo,,,"Email me: edoceo@gmail.com I&#x27;d love to show off",1417758913
+8703157,comment,8693530,8693609,0,0,informatimago,,,"Those Usians... no sense of humour!",1417758885
+8703156,comment,8701852,8702858,0,0,nickik,,,"> after it was launched<p>That is quite a while ago, back then it was mainly one guy who write a compiler, by kmow we have a awesome build and project tool, pretty good editor options, CSP, logic prrogramming, static typesystems, awesome validatiin librarys, a fantastic pattern match ...<p>In terms of organisation, I would suggest looking at the &#x27;components&#x27; library, it takrs the good things of OOP design for things like managing services. Clojure has great namespaces also.",1417758874
+8703155,story,,,29,53,ssclafani,"Watson’s Nobel Prize Medal for Decoding DNA Fetches $4.1M at an Auction",http://www.nytimes.com/2014/12/05/nyregion/james-watsons-nobel-medal-sells-for-record-4-million.html,,1417758865
+8703154,comment,8702807,8702922,0,0,Joeri,,,"I can&#x27;t recall a single time, ever, that the news gave me actionable information that I didn&#x27;t already get from other sources. Basically, when you subtract all the feel-good stories and all the scare stories, what is left is the weather, information that affects my commute and extraordinary events. The weather i get from looking out the window in the morning. If something affects my commute i have to try to make it anyway, so knowing ahead of time just gives me more stress. And extraordinary events will be told to me in other ways.<p>Taking your examples: (1) nobody should need to tell you to protect your kids, (2) you should always vote, (3) you can see whether you need a raincoat in the morning.<p>Basically, the actionable content of the news is exactly zero. When i watch it, i don&#x27;t expect to take action, i expect to be informed about the zeitgeist so i can gossip along with everybody else. We like to gossip about bad things more than good things, so if the news tells us only good things, it&#x27;s not giving us what we want.",1417758790
+8703153,story,,,1,0,Garbage,"What we can learn about effective, meaningful and diverse organizations",http://googleresearch.blogspot.com/2014/12/what-we-can-learn-about-effective.html,,1417758783
+8703152,story,,,193,69,sinak,"Lyft for Work",https://www.lyft.com/work,,1417758681
+8703151,story,,,3,0,peeplaja,"Jerry Seinfeld Gets Brutally Honest About Advertising",http://www.adweek.com/adfreak/jerry-seinfeld-gets-brutally-honest-about-advertising-hilarious-speech-clios-160524,,1417758654
+8703150,comment,8702760,8702901,0,0,wodenokoto,,,"Just look how out of place it looks next to their mascot.<p>I think it it&#x27;s a great logo and a beautiful presentation, but it doesn&#x27;t represent any of the art that I associate with Deviant Art.",1417758596
+8703149,comment,8703005,8703005,0,0,tree_of_item,,,"The `yield` operator is entirely about control flow. I&#x27;m not sure how you can see generators as being &quot;like arrays&quot; and not about control flow. Generators are related to continuations, not arrays.<p>It&#x27;s this extra flexibility in control flow that lets you write nicer asynchronous code.",1417758591
+8703148,comment,8693580,8702168,0,0,pandaman,,,"I see. You are saying that because a library/framework is not calling one of its own functions in a certain configuration nobody ever going to call this function in that configuration, right? I am not sure I can join you in this belief, after all there are not that many fully recursive libraries so some functions will never be called in almost every library.",1417758575
+8703147,comment,8702841,8703125,0,0,pspeter3,,,"I agree and in light of your points, I feel like my comment is out of line.",1417758489
+8703146,comment,8699040,8702086,0,0,rk0567,,,"~ 1000 page views per day.",1417758488
+8703145,comment,8701277,8701848,0,0,programmarchy,,,"I think there&#x27;s an argument to be made for an invitation only group. There&#x27;s a psychological advantage of making users feel exclusive and invested in a community, as well as a practical advantage to scaling server hardware and moderation time.<p>And curious, why hide the fact that you&#x27;re interested in crypto from your friends / colleagues?",1417758441
+8703144,comment,8703005,8703005,0,0,ObviousScience,,,"Generators don&#x27;t have either memory locality or fast indexing, which are basically the two defining features of an array in virtually every programming language.<p>They&#x27;re nothing like arrays, except that you can iterate over them. That is, they&#x27;re no more like arrays than trees, lists, and other iterable data structures are like arrays, which is to say, not particularly.",1417758429
+8703143,comment,8701852,8702703,0,0,dmix,,,"Github most popular languages 2014:<p>Rank 19. Clojure
+Rank 46. F#<p>Source <a href=""https://jaxbot.me/articles/github-most-popular-languages"" rel=""nofollow"">https://jaxbot.me/articles/github-most-popular-languages</a><p>FWIW on that TIOBE list Delphi/Pascal is listed as more popular than F#.",1417758390
+8703142,comment,8702841,8703073,0,0,analog31,,,"I got a PhD in physics in 1993. I think the advice we received still rings true today. Don&#x27;t attend grad school unless:<p>1. You are so in love with the subject matter, that you can&#x27;t think of doing anything else. I&#x27;d give the same advice to someone thinking of going to music school (my Plan B when I was a kid).<p>2. Somebody else is paying for it. My spouse and I finished grad school with no debt.<p>Without wanting to be too negative about it, I think that the inferiority complex thing, and expecting to receive marketable skills, aren&#x27;t good enough reasons. Are computational physicists really more employable than common, or garden, computer programmers? A lot of programming can and is done by trial and error or looking up stuff online, and a lot of people doing it are basically self taught. (I&#x27;m looking in the mirror when I say those things).<p>I went to grad school because my parents had science degrees, and seemed to have good careers and happy lives. And I was interested in learning more, in an academic environment. I already knew how to program, but saw it as a drudge job -- easy but ultimately boring if you were doing it for someone else. (My summer internships at a data processing center may have biased my perspective). During the time that I was in school, the people who seemed to be doing the coolest things with computers were the physicists.<p>Note that I have to be careful what I say about programming, in a nest of programmers. ;-) I really have a lot of respect for what folks are doing, but am describing the limited environment that I was exposed to 20+ years ago.",1417758367
+8703141,story,,,1,3,markchristian,"Ask HN: Want to sell my Mac app to a new developer",,"Howdy, gang;
+I&#x27;ve got a mildly successful Mac app that I just don&#x27;t have time to keep up with. It brings in a few hundred dollars of passive income every month, but I feel bad for not having the time to devote to it.<p>I&#x27;d like to sell it to a new developer, but I have no idea how to go about it. Does anyone here have any advice on how to go about such a thing?",1417758355
+8703140,comment,8702904,8702904,0,0,jtfairbank,,,"Our marketing site is launching next week, any possibility to get a review for that?",1417758282
+8703139,comment,8701852,8702891,0,0,nbevans,,,"Loyalties are cheap on the internet. You can say &quot;no one cares about X&quot;. Just look at all the companies that switch between AWS and Azure these days whenever one or the other has an outage. Microsoft is making aggressive moves now.<p>.NET is a technically superior platform to almost anything else out there. True developers tend to gravitate towards what is the best. To see where .NET is heading you really need to look at Xamarin.<p>You act like you are the only one to have made those original predictions (re: IE declining market share, and iPhone being a big shake up to the status quo of the time). You weren&#x27;t. Nobody else apart from you seems to be acting so blasé about predicting the death of .NET. To the contrary, most are thinking on the opposite end of the spectrum. F# is gaining a large amount of traction now (just look at its advance on the TIOBE index). As is Xamarin. As is Azure.<p>Java is dying a slow death at the hands of Oracle. None of the recent &quot;improvements&quot; to its core language were done correctly  . Just look at their type erasure of generics. And their bastardised implementation of lambda expressions. .NET will serve as a natural destination for all those increasingly alienated developers and companies using the Java stack.",1417758261
+8703138,comment,8702841,8703082,0,0,wavegeek,,,"> study modern statistics hard<p>Would you recommend some texts that cover this?<p>A friend suggested:<p>* Data Analysis: A Bayesian Tutorial
+by Devinderjit Sivia, John Skilling<p>* Bayesian Data Analysis,
+by Andrew Gelman, John B. Carlin, Hal S. Stern<p>* Introduction to Statistical Inference
+by Jack C. Kiefer, Gary Lorden<p>Currently I am working my way through this.<p>Pattern Recognition and Machine Learning
+by Christopher M. Bishop<p>These books are expensive and very time-consuming so it is important to pick the right ones.",1417758260
+8703137,comment,8703005,8703005,0,0,LewisJEllis,,,"&quot;People keep putting generators, callbacks, co, thunks, control flow libraries, and promises into one bucket.&quot;<p>Yes, and that bucket is called a Stream, as used effectively by FRP libs like RxJS and Bacon.js, and by Highland (<a href=""http://highlandjs.org/"" rel=""nofollow"">http://highlandjs.org/</a>, made by the guy who made async).",1417758252
+8703136,comment,8702807,8702992,0,0,john2x,,,"Good point. The &quot;good news&quot; cited in the short article weren&#x27;t really news were they? They were more statement of facts. The roads remained open. The trains remained on time. That&#x27;s not new.<p>Could be a combination of bad reporting (due to reporters/writers not used to good news), and the points made by the grandparent post.",1417758154
+8703135,story,,,26,49,chrismealy,"Designing a study to see if “the 10x programmer” is a real thing",http://andrewgelman.com/2014/12/04/designing-study-see-10x-programmer-real-thing,,1417758145
+8703134,comment,8699167,8702704,0,0,taskstrike,,,"By permission, we mean that each team&#x27;s data is hosted on a single document, and when you add a member, they can see both the data in the app and also binary files associated with that data. We don&#x27;t try to do differing levels of permissions not supported by google",1417758100
+8703133,comment,8699109,8702490,0,0,ekimekim,,,"Yes, if you don&#x27;t care about collisions* or being able to reverse the hash (a pre-image attack) then there&#x27;s nothing wrong with MD5 per se.
+However, MD5 was designed as a secure algorithm, and makes tradeoffs, mainly in speed, to that effect. If you don&#x27;t need security, you should use something designed for that, like CRC.<p>* note that even if it isn&#x27;t immediately obvious, in most situations you really don&#x27;t want collisions to be an easy thing to cause. For example, many algorithms and structures involving hashes (even a simple in-memory hash map) suffer massively degraded performance when there&#x27;s a large number of collisions. If your user can craft an input that causes operations to take orders of magnitude longer, that&#x27;s a denial of service attack.",1417758036
+8703132,comment,8701114,8702257,0,0,coldtea,,,"1) Err, the other guy got sick and died.<p>2) Many years have passed since that time mentioned by the parent.<p>3) Woz is not the type to be &quot;politically correct&quot;.",1417757919
+8703131,story,,,1,0,drewjaja,"Azure updates and human error caused Visual Studio Online outage",http://www.arnnet.com.au/article/561282/azure-updates-human-error-caused-visual-studio-online-outage/,,1417757897
+8703130,comment,8696806,8697738,0,0,reportingsjr,,,"Hmmm, I still don&#x27;t think that is a valid metric to measure both by. There are too many variables and analogies to make it a good comparison. There is a huuuuugggeee variable you didn&#x27;t even talk about which is the electric grid. Huge amounts of land is taken up for this and it is very expensive to maintain. One of the reasons I want solar is because where I live (midwest US) falling trees/branches during wind storms and snow storms causes lots of down time.<p>I could go on about other things, but I still think comparing the land use of both of them is fairly ridiculous.",1417757856
+8703129,comment,8702841,8703065,0,0,prewett,,,"The author is a physicist; where would one find employment in the physics industry?  The &quot;physics industry&quot; is pretty much academia, with the exception of a few DoD positions.  Physics Ph.D.s frequently go into finance and software development, but since neither of those use physics (except limited amounts of software), I think they would fit into the &quot;career change&quot; that he did mention.<p>I graduated with an B.S. in Physics about the time that he wrote, and his analysis pretty much matched what I saw in the lab I worked in.  Of my physics classmates who I know what happened to them, all got jobs doing no physics (including the newly minted Ph.D. who was supervising me).  I talked with the postdoc in our lab (her second postdoc position), looked at the number of Ph.D.s and postdocs at Ohio State (lots), looked at the number of open positions in the Physics Department at Ohio State (none), and decided I did not want to postdoc until a professor died and then hope that I get picked.  So I said physics was a fun, stimulating, foundational undergraduate choice, felt like I understood the entire world, and promptly pursued software.  (Fortunately, I was aided by being tired of school and not really enjoying physics research)<p>One of my physics classmates did software for a while, then decided to do a Ph.D. in (rocket) propulsion, which is physics-related.  &quot;Industry&quot; for him is pretty much limited to NASA (who else is going to employ someone looking into new forms of propulsion?)  Turns out he doesn&#x27;t want to work for NASA bureaucracy, so he switched back to software again.<p>I think the author is right on, at least for his field of physics.",1417757851
+8703128,story,,,1,0,r0h1t4sh,"Bluetooth 4.2 Unveiled: No Mesh Yet, but Big on IoT",http://www.eetimes.com/document.asp?doc_id=1324835&_mc=NL_EET_EDT_EET_IOTdesignline_20141204&cid=NL_EET_EDT_EET_IOTdesignline_20141204&elq=2adc8040ffa240ba90b1d61c3607b1d8&elqCampaignId=20526,,1417757793
+8703127,comment,8693788,8700198,0,0,mezoni,,,"What&#x27;s wrong with the following code?<p><a href=""https://github.com/dart-lang/bleeding_edge/blob/master/dart/runtime/lib/integers.dart"" rel=""nofollow"">https://github.com/dart-lang/bleeding_edge/blob/master/dart/...</a><p>===============================<p>class _IntegerImplementation extends _Num {<p><pre><code>  @inline(INLINE.INTRINSICS)     // <============================
+
+  int _bitAndFromInteger(int other) native &quot;Integer_bitAndFromInteger&quot;;
+</code></pre>
+}<p>===============================<p>The same method in CORE_INTEGER_LIB_INTRINSIC_LIST<p><a href=""https://github.com/dart-lang/bleeding_edge/blob/master/dart/runtime/vm/method_recognizer.h"" rel=""nofollow"">https://github.com/dart-lang/bleeding_edge/blob/master/dart/...</a><p>===============================<p>V(_IntegerImplementation, _bitAndFromInteger,                                \
+    Integer_bitAndFromInteger, 504496713)<p>===============================<p>If Dart VM can use &quot;patch class&quot; declarations then why this &quot;@inline&quot; should be considered as a bad?<p>Maybe your answer in that the &quot;Dart VM ignored all kind of annotations (including type annotations) why it should use this approach&quot;.<p>P.S.<p>This is a not a direct problem of dynamism (ignore annotations even if they hard coded in source).<p>Problem in that the Dart VM does not want rely on annotations (dynamism is better, determine everything at runtime or from magic lists).",1417757701
+8703126,comment,8701050,8702723,0,0,tienthanh8490,,,"Thanks, that sounds good. I subscribed, let&#x27;s see how it goes",1417757671
+8703125,comment,8702841,8703107,0,0,nilkn,,,"It&#x27;s not like this guy is the only one who has observed the problem with academia. I don&#x27;t really think it&#x27;s relevant if students liked him as a teacher. The job problem in academia is very, very well-known at this point, and many professors would back him up now.",1417757652
+8703124,comment,8701906,8701906,0,0,stephancoral,,,"Lekki has some awesome phones. <a href=""http://lekki.fr/fr/40--original-"" rel=""nofollow"">http://lekki.fr/fr/40--original-</a><p>Old Ericssons, Siemens, Nokia, and Motorola - including this beautiful rainbow StarTac: <a href=""http://lekki.fr/fr/mobile/71-startac-rainbow.html#&panel1-1"" rel=""nofollow"">http://lekki.fr/fr/mobile/71-startac-rainbow.html#&panel1-1</a>",1417757625
+8703123,comment,8703122,8703122,0,0,clintandrewhall,,,"This is my simple, open-source attempt to catalogue &quot;geek-speek&quot; as easy-to-understand metaphors. It&#x27;s a companion site to my TEDx talk last month.  Submissions are welcomed, as is critique!",1417757621
+8703122,story,,,1,1,clintandrewhall,"Cookies are Hand Stamps and other metaphors (OSS)",http://metaphorical.ly,,1417757612
+8703121,comment,8702841,8703033,0,0,morgante,,,"> There may be a cautionary tale in there for computer science: once the VC carousel stops the situation in computer science will be quite as bad.<p>The difference is that CS is something that every company increasingly needs, not just tech companies. Most companies have never needed and will never need science.",1417757612
+8703120,comment,8701696,8702027,0,0,coldtea,,,"Yeah, opening an Overton window:<p><a href=""http://en.wikipedia.org/wiki/Overton_window"" rel=""nofollow"">http://en.wikipedia.org/wiki/Overton_window</a><p>Shifting language is not cosmetic. Has actual consequences beyond the realm of language.",1417757602
+8703119,comment,8702841,8702841,0,0,dang,,,"<a href=""https://hn.algolia.com/?q=don%27t+become+a+scientist#!/story/forever/0/don&#x27;t%20become%20a%20scientist"" rel=""nofollow"">https://hn.algolia.com/?q=don%27t+become+a+scientist#!/story...</a>",1417757553
+8703118,comment,8701696,8702495,0,0,coldtea,,,"And that&#x27;s the kind of law that should be in a constitutional amendment.",1417757477
+8703117,comment,8702841,8702841,0,0,kevinalexbrown,,,">If you are in a position of leadership in science then you should try to persuade the funding agencies to train fewer Ph.D.s.<p>or, increase funding for science (academic and otherwise)",1417757420
+8703116,comment,8702841,8703065,0,0,rifung,,,"While I don&#x27;t know whether he&#x27;s right or wrong, he definitely mentions the industry in the article. He first says, &quot;computer science and engineering are the few fields in which industrial demand makes it sensible to get a Ph.D&quot; and later, &quot;there are hardly any industrial jobs in the physical sciences&quot;.<p>Other professors and PhDs I&#x27;ve talked to have basically said the same things as he says here. There are definitely jobs for PhDs in CS in industry, but whether you would be considered a &quot;scientist&quot; for those jobs is debatable, as most of the time you don&#x27;t have the same level of freedom you would have in academia (or at least that&#x27;s what I&#x27;ve been told).",1417757378
+8703115,comment,8703005,8703005,0,0,Animats,,,"The Blind Men and the Elephant
+John Godfrey Saxe (1816-1887)<p>It was six men of Indostan
+To learning much inclined,
+Who went to see the Elephant
+(Though all of them were blind),
+That each by observation
+Might satisfy his mind.<p>The First approached the Elephant,
+And happening to fall
+Against his broad and sturdy side,
+At once began to bawl:
+&quot;God bless me! but the Elephant
+Is very like a WALL!&quot;<p>The Second, feeling of the tusk,
+Cried, &quot;Ho, what have we here,
+So very round and smooth and sharp?
+To me &#x27;tis mighty clear
+This wonder of an Elephant
+Is very like a SPEAR!&quot;<p>The Third approached the animal,
+And happening to take
+The squirming trunk within his hands,
+Thus boldly up and spake:
+&quot;I see,&quot; quoth he, &quot;the Elephant
+Is very like a SNAKE!&quot;<p>The Fourth reached out an eager hand,
+And felt about the knee
+&quot;What most this wondrous beast is like
+Is mighty plain,&quot; quoth he:
+&quot;&#x27;Tis clear enough the Elephant
+Is very like a TREE!&quot;<p>The Fifth, who chanced to touch the ear,
+Said: &quot;E&#x27;en the blindest man
+Can tell what this resembles most;
+Deny the fact who can,
+This marvel of an Elephant
+Is very like a FAN!&quot;<p>The Sixth no sooner had begun
+About the beast to grope,
+Than seizing on the swinging tail
+That fell within his scope,
+&quot;I see,&quot; quoth he, &quot;the Elephant
+Is very like a ROPE!&quot;<p>And so these men of Indostan
+Disputed loud and long,
+Each in his own opinion
+Exceeding stiff and strong,
+Though each was partly in the right,
+And all were in the wrong!",1417757374
+8703114,story,,,1,0,jimit_it,"Mysql fulltext index search returning weird result",http://stackoverflow.com/questions/27294066/fulltext-mysql-search,,1417757352
+8703113,comment,8702841,8703082,0,0,noobermin,,,"I&#x27;m curious, how far into your academic career were you when you dropped out? Post-doc? Grad student?",1417757335
+8703112,story,,,1,0,bottled_poe,"Why does Java's hashCode() in String use 31 as a multiplier?",http://stackoverflow.com/a/299748,,1417757330
+8703111,comment,8702841,8703082,0,0,Xcelerate,,,"> study modern statistics hard<p>This is something I&#x27;ve been thinking about doing.  My work is in computational materials science, and I often feel there is a complete lack of statistical rigor in analyzing the results.  (Peter Gill joked at a conference that the only difference between applied mathematicians and quantum chemists is that the mathematicians calculate the error once they get their answers).<p>I know basic statistics: distributions, standard error, correlations, etc.  But I don&#x27;t know anything about the terms Bayesian or Frequentist.  In your opinion, what would studying these topics provide for me?",1417757325
+8703110,comment,8701852,8702562,0,0,ploxiln,,,"This is a pretty weird opinion. How could the idea that F# &quot;delivers where other functional languages didn&#x27;t&quot; be anything but strange Microsoft hype? or is this a joke?<p>The existing functional languages (which also notably include ocaml and common lisp on SBCL), &quot;on linux&quot;, happen to also run on OS X, BSD, and some of them on Windows too. Could you really think those all suck, but F# is great?",1417757323
+8703109,comment,8701852,8702562,0,0,e12e,,,"I see you left out ocaml?",1417757299
+8703108,comment,8703005,8703005,0,0,chrismorgan,,,"This is the whole point of an iteration protocol—it’s not <i>supposed</i> to be that generators are like arrays, but rather that generators and arrays share the property of being iterable. I’m imagining that the fuss over this now is because JavaScript simply hasn’t been like this in the past, where languages like Python have been. I do know that I’ve missed it when working in JavaScript as every other language I use tolerably frequently has sound iteration semantics. I’m certainly looking forward to the time when for..of can be considered a baseline feature.",1417757297
+8703107,comment,8702841,8702841,0,0,pspeter3,,,"I went to the school where he teaches and never had any student mention his name with a shred of respect or have anything positive to say about him. I would take his points with a huge grain of salt.",1417757249
+8703106,comment,8702516,8702516,0,0,graetzer,,,"I think it&#x27;s great that they are going to officially support iOS again.<p>Coincidentally I submitted a new version of my own browser app to the AppStore, on the same day they made the announcement.
+I added support for the new Firfox sync protocol - it took me forever to get it working and now it&#x27;s kind of redundant :-/<p>Anyway, if someone is interested in the source:
+<a href=""https://github.com/graetzer/Foxbrowser"" rel=""nofollow"">https://github.com/graetzer/Foxbrowser</a>",1417757151
+8703105,comment,8699876,8699876,0,0,aperrien,,,"As a side question, how can you tell how many writes a regular drive has sustained? Say, like the one in my desktop or laptop?",1417757147
+8703104,comment,8700136,8701443,0,0,nyolfen,,,"facebook has actually been extremely aggressive about enforcing real name policies in the last year especially; my extended facebook circle includes many transgender folks who have been complaining loudly about being forced to revert their profiles to previously used names, and facebook does indeed require documentary proof of identity if it is challenged",1417757126
+8703103,comment,8702841,8703073,0,0,mbreese,,,"The problem you&#x27;ll have is that you have a lower career ceiling than a PhD. Staff do get paid significantly better than post-docs (especially when benefits are included, which postdocs don&#x27;t get). However, if postdocs move on to independent researchers, they will have a much higher ceiling in terms of career progression, salary, and external funding opportunities (consulting, etc).<p>You just have to ask yourself if the &quot;prestige&quot; is worth it to you. You&#x27;d be taking a salary hit for 3-5 years for the degree and 3-5 years after that for postdoc, and then after that, you&#x27;d probably not be able to find a job. From what I&#x27;ve heard, physics is a hard field to find work in, and you&#x27;d be over-qualified to do the job you currently have.<p>It&#x27;s a tough call. Going back, I probably would have still gone the PhD route, but I&#x27;d have been much more selective in projects, etc... and family is a big factor.",1417757096
+8703102,story,,,2,0,_Tane,"Show HN: Here's the Bad Version of My App",http://itunes.apple.com/app/smiile/id918595618?mt=8,,1417757068
+8703101,story,,,12,0,luu,"End of the Road for “Endophenotypes”?",http://blogs.discovermagazine.com/neuroskeptic/2014/12/04/endophenotypes/#.VIFBVPTF8Xc,,1417757030
+8703100,story,,,2,1,Garbage,"Netflix Burned by Express.js",http://www.infoq.com/news/2014/12/expressjs-burned-netflix,,1417757007
+8703099,comment,8701939,8702921,0,0,ditojim,,,"I agree.  I always say &#x27;work to live, don&#x27;t live to work&#x27;, which is my way of saying the same thing.<p>I liked this as well: &#x27;I had been dreaming all my life, but I felt like I was finally free to dream&#x27;.  This is where I am at in life right now, and it is beautiful.",1417756975
+8703098,comment,8699870,8702584,0,0,jcampbell1,,,"Lyft even called the fares &quot;donations&quot; until roughly 6 months ago.",1417756948
+8703097,comment,8699411,8699411,0,0,orangea,,,"I look forward to reading this!<p>However, I am reading the first part of the first section (explaining the basis vectors of a linear space), and see this:<p><a href=""http://i.imgur.com/Qizuw0K.png"" rel=""nofollow"">http://i.imgur.com/Qizuw0K.png</a><p>That makes no sense to me, shouldn&#x27;t it be more like this?<p><a href=""http://i.imgur.com/iKpKgSa.png"" rel=""nofollow"">http://i.imgur.com/iKpKgSa.png</a><p>Maybe I am just not familiar with the notation, though...",1417756938
+8703096,comment,8702847,8702847,0,0,mturmon,,,"People have been searching for the applications of quantum computers -- excluding the adiabatic QC&#x27;s associated with D-Wave, which are somewhat in a different class.  I found this part of the article very interesting regarding applications:<p>&quot;[Mathias] Troyer has spent the past three years looking for an answer—a &#x27;killer app&#x27; for quantum computing that would make the development costs worthwhile. The two classic examples, code-cracking and searching databases, are not good enough, says Troyer. Shor&#x27;s algorithm will require thousands of qubits to do any serious factorization, he says, and there are other forms of encryption that a quantum computer would do nothing to solve. And although quantum computers may search databases faster, they are still limited by the time it takes to feed the data into the circuit, which would not change.<p>&quot;Troyer thinks that a much more fruitful application for the near future is the modelling of electrons in materials and molecules—something that quickly becomes too difficult for today&#x27;s supercomputers. At first, this, too, seemed a long shot. His early estimates suggested that it would take a quantum computer as long as 300 years to simulate the molecular dynamics of even a small molecule—such as the iron sulphide inside the ferredoxin proteins that are involved in nitrogen fixation in plants. “Clearly, that was on the border of being science fiction,” he says. But by rewriting the software, he brought the figure down to 30 years—then to just 300 seconds. “Just like in classical computing, where one has to sit down and optimize the algorithm,” he says, “the same is needed for a quantum algorithm.”",1417756906
+8703095,comment,8701852,8701852,0,0,jayvanguard,,,"I think this will be about as revolutionary as Silverlight was.",1417756845
+8703094,comment,8699339,8699339,0,0,mappu,,,"Very cool!<p>I didn&#x27;t get much sense of scale. It&#x27;s hard to tell how big a skiier would be in comparison to the mountain. Could there be an option for third-person view with an average-height skiier model?<p>I see you want to add trees, i guess that would also help alleviate this.<p>Is it possible to pan the view when viewing the whole resort? I kept trying to get &quot;just the right view&quot;.",1417756770
+8703093,comment,8698986,8702837,0,0,graycat,,,"Thanks.  So far, it all looks fine.<p>For me, it has been some fun math
+and software.  I&#x27;m gathering some
+initial data and should go live
+soon.  Then if people like the work,
+I&#x27;ll be in good shape.<p>Just checked with my ISP:  Can
+upgrade to 25 Mbps upload speed
+with a static IP address for
+$89 a month.  That 25 Mbps is
+a lot:  If users really like my
+work, enough to half fill that 
+24 x 7, it adds up to millions
+a year in revenue.  Less expensive
+to start than a pizza carryout,
+and makes money even when
+I&#x27;m asleep.<p>I&#x27;m borrowing at least two of
+PG&#x27;s points:  (1) At first 
+don&#x27;t try to please 1 million
+users only a little but 
+try to please 100 users a lot.
+Then they will tell others and
+will have 1000 users and 10,000
+users.  Then expand to another
+100 users ....  (2) Initially,
+don&#x27;t be afraid to do work that
+does not scale.  So, I&#x27;m following that:
+For the data, the &#x27;business model&#x27;
+has that gathered, in a way that 
+will <i>scale</i>, automatically
+as a by-product of the usage, but
+that will work well only with a lot
+of usage.  In the meanwhile, I will
+will just insert good data by hand!<p>From the lectures in Sam Altman&#x27;s
+course at Stanford, just completed,
+what I&#x27;m doing looks fine except
+I&#x27;m a solo founder, who&#x27;s done all
+the work, thus, knows all the work,
+has no co-founder <i>disputes</i>,
+owns 100% of the business, and has
+meager <i>burn rate</i>.  The burn rate
+is so low that by the time the business
+qualifies for equity funding, it will
+likely also be profitable enough 
+for me to buy lots more servers,
+in a spare bedroom, upgrade my
+house circuit breaker to 200 A,
+put in a window A/C, get some
+UPS units, put my emergency
+electric generator on a pad in 
+a small shack just out back
+and have it kick off when the
+UPS says so, get a new SUV
+and Corvette, and keep growing.
+Outsource bookkeeping, accounting,
+taxes, and legal, and grow.
+Maybe be like the Canadian
+romantic matchmaking service
+Plenty of Fish, long just
+one guy, two old Dell servers,
+ads just from Google, and
+$10 million a year in revenue.<p>Sure, if we were four co-founders,
+all married, with all four
+wives pregnant and wanting
+a new, two bath, three bedroom
+house, with a nice backyard,
+in a nice neighborhood, and
+a new SUV, for her, with
+a baby car seat, a play pen,
+a bassinet, a crib, a stroller,
+two washing machines, help
+with the housework, a GYN,
+OB, pediatrician, GP, dentist,
+dermatologist, optometrist,
+swimming instructor, etc.,
+then, sure, we&#x27;d be desperate
+for equity funding!  But, 
+not me!<p>Looks fine so far.<p>$10 million a year is a lot
+for a mathematician on Wall Street.",1417756722
+8703092,comment,8697829,8698853,0,0,mc_hammer,,,"just season 1...",1417756710
+8703091,comment,8697829,8699938,0,0,mc_hammer,,,"interesting, good point. i suppose that means a flaw was i was only thinking about humans and not about all the life here",1417756668
+8703090,story,,,4,0,shade23,"Elastic Search for Stack Exchange",http://meta.stackexchange.com/questions/160100/a-new-search-engine-for-stack-exchange,,1417756600
+8703088,comment,8697829,8699787,0,0,mc_hammer,,,"cool i didnt know that. thanks for that.",1417756539
+8703087,comment,8701852,8702936,0,0,fsloth,,,"A subset of F# can be used (more or less) as a terser C#. Functional languages make writing correct programs easier. I don&#x27;t think modifiability of an existing program depends on the language as much from the quality of the code. F# is not difficult, just a bit different.<p>Functional languages seem to have this odd halo around them that for some reason they are thought to be obscure and non practical. It&#x27;s probably due to a historical baggage. If Ruby was originally picked up by compiler experts and language afficionados and the only resources that one could find were references to topics in those domains I bet people would be saying the same thing about it.<p>The main problem for adoption IMO is not language complexity, but rather lack of educational resources that display how easy and nice it&#x27;s to do simple things on the language.<p>But since the simple things are so nice and easy it&#x27;s really straightforward to do something a bit more complex and most of the published examples focus on these more advanced things.",1417756450
+8703085,story,,,1,0,sohkamyung,"Brad Templeton: Attending the World SF convention by remote telepresence robot",http://www.templetons.com/brad/telepresence.html,,1417756431
+8703084,comment,8700239,8700239,0,0,iamdave,,,"*jaw drops to the first floor",1417756410
+8703083,comment,8699870,8703071,0,0,mmastrac,,,"Correct: you are offered the option to tip post-ride.",1417756374
+8703082,comment,8702841,8703030,0,0,tjradcliffe,,,"Yes. <i>Do</i> be a scientist. <i>Don&#x27;t</i> be an academic.<p>Dropping out of academia was amongst the more difficult decisions I&#x27;ve made. Also amongst the best.<p>There are <i>huge</i> opportunities for scientists today. I&#x27;m a physicist. I&#x27;ve worked in computer-assisted surgery, medical physics, image processing, computer vision, genomics, computational physics and a few other things besides. It has paid well and let me do all kinds of interesting research that I would never have been able to touch as an academic.<p>Things to do as a student: study modern statistics hard. Being a card-carrying Bayesian is like the secret handshake to an unlimited world of really cool stuff these days. There&#x27;s a childhood friend of mine who&#x27;s (finally) finishing his PhD in psychology, and when we reconnected a few years ago we were amazed that we could meaningfully talk to each other about our work because we both spoke the same statistical language. It really is a universal grammar, and anyone in any field who speaks it fluently has a world of opportunity waiting for them, from finance to fisheries.",1417756304
+8703080,comment,8702807,8702807,0,0,Semiapies,,,"A lot of conclusions being made based on one Russian website&#x27;s experience for one day.",1417756252
+8703079,comment,8699815,8699815,0,0,gregpilling,,,"Zuckerberg is in the relationship business. Free internet will increase communication and relationships. More relationships = more business for Facebook.Seems like a good idea to me.<p>Even if only a third of internet users are FBers, then increasing the users by 4.3 Billion will increase FB users by 1.4 Billion. Interesting to see the effort for old phones.",1417756246
+8703078,comment,8702841,8703033,0,0,IndianAstronaut,,,"This is why for CS and any one else really, it is absolutely crucial to save and become debt/mortgage free while things are good. Also, if possible have some fallback skills, either computer related or not.",1417756207
+8703077,comment,8702847,8702847,0,0,Xcelerate,,,"This is very exciting to me!  It&#x27;s a great time to be interested in quantum mechanics.<p>Quantum computers would pave the way for the holy grail of computational physics and materials science: perfect QM simulations.  Imagine performing a simulation on a computer that matches up exactly* with experiment.  Now that would be exciting.  You could actually develop new materials right from the comfort of your chair at Starbucks (SSHing into a supercomputer of course).  Your simulations would even be <i>more</i> accurate than a lot of experiments because of the absence of environmental and experimental errors.<p>Recalling history, it&#x27;s amazing to me how quickly the idea of a nuclear weapon went from conception to implementation.  Also, it only took like 9 years to get a person to the moon.  You basically had a bunch of the world&#x27;s greatest scientists all gathered in one location with the motivation to get the task done.  I wonder what would happen if a similar situation was applied to quantum physics research.<p>* Leaving out plenty of details here.  Quantum computers can tackle the NP hard fermion sign problem, which is the current main obstacle in high accuracy QM simulations, but there are still some lingering questions about whether the process of inputting a particular system into a quantum computer is itself an NP hard task.  Not to mention that some heavier elements require relativistic treatment, the fact that I&#x27;m talking about quantum chemistry rather than particle physics, and the fact that even with a polynomial time algorithm, quantum computers may still be too slow to simulate a large system in a practical amount of time.  But I can dream.",1417756142
+8703076,comment,8700447,8700447,0,0,Animats,,,"That is neat. I had no idea that microdots had a history before they were used by spies.  I thought that grainless film, where the photosensitive component is at the molecular level, wasn&#x27;t developed until 1930.  But the old collodion process used was grainless, although really slow, as in light-insensitive.  As a process for making original photographs it was barely usable, but this is using it to make prints, for which light sensitivity is no problem.<p>This has steampunk potential.",1417756133
+8703075,comment,8699957,8702077,0,0,smt88,,,"I definitely haven&#x27;t scrutinized this as much as you have, but I don&#x27;t see the scandal here.<p>Docker Machine is separate from Docker. Once Machine was released, what was the point of talking about integrating the functionality into Docker?<p>They&#x27;ve repeatedly stated that they want Machine and Swarm to be totally separate tools.",1417756014
+8703074,comment,8702841,8703030,0,0,mbreese,,,"Sigh, it isn&#x27;t a good time to be a scientist. Even if you are into computational biology (which I am). The &quot;science&quot; is amazing, and we can learn so much more with less than we could even when I started grad school a bit over ten years ago.<p>However, there just aren&#x27;t the jobs available for the number of people that are being trained. I&#x27;m somewhat lucky that I was a programmer first, molecular biologist second, so computational work was a no-brainer. However, it is still extremely difficult to find jobs past the post-doc stage, and that stage does last about 5 years longer than it used to. And post-docs get paid like crap for each of those years.<p>There are lots of career options available, but really, academia is still the place where science gets done. I know lots of people work in industry, startups, biotechs, pharma, etc. But unless you&#x27;re developing a drug, you&#x27;re probably trying to sell to academia. There are some great projects and good work being done, but with the lull in Federal funding, the long-tail of grant funding isn&#x27;t there to support existing labs, let alone new ones.<p>Debating the reasons for all of this could go on for hours... and there are lots of reasons and enough blame to go around.<p>It&#x27;s a great time for science, but a bad time to be a scientist. It was never lucrative, but it just isn&#x27;t a viable profession for many.",1417755949
+8703073,comment,8702841,8702841,0,0,ohquu,,,"I began working as a student at a national lab two years ago after earning my bachelor&#x27;s degree in physics. I was converted to staff nearly a year later. I&#x27;m now earning more than most of my professors back home and some of the postdocs here, although if the postdocs are converted (a difficult process), they&#x27;re very likely to have a higher starting salary.<p>I feel very lucky to be a well-paid staff researcher at such a young age, especially since I don&#x27;t have a graduate degree. I&#x27;m surrounded by older people with PhDs; most of the time, I feel like there&#x27;s really nothing that really differentiates us.<p>However, and this might be my inferiority complex kicking in, sometimes I feel like I should go back to school and get my PhD. But then I read essays and articles like these, and I wonder if a choice like that would be stupid. Granted, I&#x27;d pursue some sort of computational physics in grad school, so I&#x27;d still leave with marketable skills.<p>Anyway, I don&#x27;t know what to do. Just thinking out loud. If anyone has any advice, I&#x27;d appreciate it.",1417755881
+8703072,comment,8699040,8699040,0,0,someotheridiot,,,"<a href=""http://rebrickable.com"" rel=""nofollow"">http://rebrickable.com</a> - a tool to show you what LEGO sets you can build with the parts you have. It has a large collection of fan made creations, all with building instructions.",1417755835
+8703071,comment,8699870,8702998,0,0,ladybro,,,"Lyft offers the option to tip, if I&#x27;m not mistaken.",1417755732
+8703070,comment,8696436,8697177,0,0,bbcbasic,,,"And the question with real estate is whether to leverage. And that would depend on if you want to spend the rental income now (like a retirement) or aim for higher capital appreciation (but back to work!)",1417755697
+8703069,comment,8701852,8702994,0,0,meddlepal,,,"Potentially. Value types seem like a lock for 10, but reified generics have only been suggested as a research topic in Project Valhalla.",1417755682
+8703068,comment,8693932,8701926,0,0,xnull2guest,,,"The challenge (no complaint here, though I do believe it was down(modded?) merely because of disagreement and not for relevance or quality) was meant to incite more on topic discussion.<p>It&#x27;s interesting I&#x27;ve never read the guidelines before now. Was refreshing to have taken a look, although it&#x27;s mostly common sense and etiquette.",1417755646

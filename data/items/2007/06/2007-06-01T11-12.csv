@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25855,story,,,1,0,bootload,"Distruptive potential of web2 tech",http://www.firstmonday.org/issues/issue12_3/pascu/index.html,,1180698629
+25854,story,,,1,0,bootload,"Analyzing long tails",http://www.firstmonday.org/issues/issue12_5/kilkki/index.html,,1180698280
+25853,story,,,1,0,bootload,"Considering Hacking constructive",http://www.firstmonday.org/issues/issue4_2/gisle/,,1180697997
+25852,comment,25848,25850,0,0,ralph,,,"You can do &gt; to get a greater-than sign.  But be careful if you edit the post later, it reverts back;  a known bug on the Feature Requests thread.",1180696979
+25851,comment,25821,25824,0,0,danw,,,"<a href=""http://maps.google.com/maps?f=q&hl=en&q=google&sll=37.403165,-122.049179&sspn=0.095728,0.160675&ie=UTF8&ll=37.422483,-122.08481&spn=0.005981,0.010042&t=h&z=17&om=0&layer=c&cbll=37.420929,-122.084763&cbp=1,301.225264080084,0.6104232618933,2"" rel=""nofollow"">http://maps.google.com/maps?f=q&hl=en&q=google&sll=37.403165,-122.049179&sspn=0.095728,0.160675&ie=UTF8&ll=37.422483,-122.08481&spn=0.005981,0.010042&t=h&z=17&om=0&layer=c&cbll=37.420929,-122.084763&cbp=1,301.225264080084,0.6104232618933,2</a>",1180695878

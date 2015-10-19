@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85091,comment,85004,85004,0,0,staticshock,,,"since there's no way reach standardization on every little arbitrary piece of ui functionality, the best way to deal with this is to provide some ""Emulate x"" options in the menu, which would switch things around to emulate some other application X.",1196452644
+85090,story,,,2,0,shayan,"Dave Winer: Specifically about podcasting",http://www.scripting.com/stories/2007/11/29/specificallyAboutPodcastin.html,,1196452495
+85089,story,,,1,0,shayan,"Talking with Tim Berners-Lee (inventor of the Web)",http://www.podtech.net/scobleshow/technology/1699/interview-with-inventor-of-the-web,,1196451918
+85088,story,,,2,0,mrtron,"The decline of the American dollar and economy",http://www.informationclearinghouse.info/article18787.htm#,,1196451876
+85087,comment,85042,85050,0,0,hhm,,,"I think not, as far as I went. That's why I didn't use the word ""Hacker"" in the title.",1196451460
+85086,comment,85021,85061,0,0,pietro,,,"Just checked my Acer. Squishy all over the place...",1196450935
+85085,story,,,1,0,staunch,"Meebo Lunch 2.0 and Dev Camp Today. Anyone Going?",http://blog.meebo.com/?p=383,,1196450298
+85084,comment,84876,84876,0,0,downer,,,"Summary: Max bandwidth needs multiple connections<p>Large instance (2 virtual cores with 2 EC2 Compute Units each):<p><pre><code> EC2 -> EC2  HTTP  : 96 MB/sec (75 for 1 connection)
+ EC2 -> EC2  scp   : 40 MB/sec (30-40, possible CPU bottleneck)
+ S3  -> EC2  HTTPS : 50 MB/sec (12.6 for 1 connection)
+ S3  -> EC2  HTTP  : 52 MB/sec (10 for 1 connection)
+ EC2 ->  S3  HTTPS : 54 MB/sec upload (7-12.6  for 1 connection)
+</code></pre>",1196450054
+85083,comment,85048,85048,0,0,tocomment,,,"Could this be it?  I feel like there was something more compelling?<p><a href=""http://paulstamatiou.com/2007/09/16/why-private-messages-suck/"" rel=""nofollow"">http://paulstamatiou.com/2007/09/16/why-private-messages-suc...</a>",1196449790
+85082,comment,85056,85056,0,0,jcwentz,,,"Anyone else hate that phrase?",1196449749
+85081,story,,,4,1,philelly,"Popular Facebook applications are unabashed scams (even Stanford ones)",,"i was recently dismayed to find that one of the hottest recent facebook applications, 'Send Hotness,' is nothing more than a scam.  It features a 'continue' button that appears to be a functional part of the application, but actually links the user out of facebook into scam webpages asking for phone numbers, etc.  A user could easily be fooled into thinking that entering this information is part of the registration process.  The buzz around Stanford is that this application, which is trumpeted by the stanford facebook application class, now has over 3 million users and is making many thousand dollars per week.  i'm embarrassed of my alma mater and have tried contacting facebook to inform them of the issue, but i assume they have a pretty laissez faire policy in regard to applications.  Do you guys think this is just the inevitable progression of facebook applications and web ventures in general?",1196449561
+85080,comment,85053,85075,0,0,brlewis,,,"""Expenditures outpaced income"" is an oversimplification.  Every new business's expenditures outpace income.  This essay describes a two-part problem.  The high burn rate makes you die faster; that's one part.  The other part is that scaling up to a larger business makes you less adaptable.
+",1196449424
+85079,comment,84807,84807,0,0,downer,,,"> This is how they want their profiles to look.<p>This doesn't take into consideration that profile layout is a pain in the ass and most people don't want to deal with the mess of CSS.<p>MySpace layouts tend not to be what people <i>want</i>, just what they <i>settle for</i>.  As it is, it's too much work to get it the way you want it.<p>",1196449241

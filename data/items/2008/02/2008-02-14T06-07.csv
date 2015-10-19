@@ -1,0 +1,54 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+115630,comment,115406,115428,0,0,dkokelley,,,"Thanks! That's great that you're in LA. It would be cool to meet up with someone from news.YC. My email is dkokelley at gmail dot com, or you could go with danny@cocunderground.com. What part of Los Angeles are you in? I'm up at the northern end, in Santa Clarita (at the 5 and 14 freeway).",1202972303
+115629,comment,115585,115615,0,0,tlrobinson,,,"<i>Sigh.</i> Read up on how to use the Unix/Linux command line.  I guess I take it for granted.<p>~ signifies your home directory, thus ~/.profile is in your home directory, which is the default directory all Terminals start in.<p>""nano"" is a simple command line based text editor. Try ""nano ~/.profile""<p>Or use the ""open"" command to open it in a GUI text editor like TextEdit: ""open -a TextEdit ~/.profile"" (replace TextEdit with the name of your favorite text editor)<p>Honestly, if you can't figure this out then I don't think MacPorts will be very useful to you. And I don't think Hacker News is the place to get this kind of support.",1202972289
+115628,comment,115585,115615,0,0,elq,,,"umm.. you'll have quite a learning curve ahead of you, but preserver.<p>open up terminal.app and type -<p><pre><code>  >ls .profile
+</code></pre>
+You should see a response like -<p><pre><code>  eric@quark:~>ls .profile
+  .profile
+  eric@quark:~>
+</code></pre>
+this means that the file "".profile"" exists. If instead you get something like -<p><pre><code>  eric@quark:~>ls .profile
+  ls: .profile: No such file or directory
+  eric@quark:~>
+</code></pre>
+Then you should type -<p><pre><code>  >touch .profile
+</code></pre>
+this will create the file with no contents.<p>Next type -<p><pre><code>  >open .profile
+</code></pre>
+(I assume you don't know about vi, so TextEdit.app will have to do for now).<p>Paste in the macports environment settings, save, and open a new terminal window. macports should now work.",1202972206
+115627,story,,,36,7,__,"Internet Software Patents",http://philip.greenspun.com/business/internet-software-patents,,1202972017
+115626,story,,,33,22,gabrielleydon,"(YC Winter08) Addher.com goes Beta",http://www.techcrunch.com/2008/02/13/myspacers-will-love-this-addher-widget-thingy/,"i cant wait to read the comments for this",1202971882
+115625,comment,115577,115577,0,0,rms,,,"<a href=""http://news.ycombinator.com/item?id=9965"" rel=""nofollow"">http://news.ycombinator.com/item?id=9965</a><p>I like to think that my comment is when the Techcrunch comments jumped the shark.",1202971873
+115624,comment,115326,115373,0,0,dfranke,,,"Come to think of it, instead of trying to beat the filters, what if they specifically cooperated with them so that they'd filter out nothing at all?  Think of what a great boast it would make: ""I'll take you straight to the point, and these folks over here will prove it mathematically"".  I could picture Ralph Nader trying this.",1202971828
+115623,comment,114904,115230,0,0,bayareaguy,,,"I tried to leave a tip but nothing happened when I clicked 'Tip This' even after I enabled JavaScript.  Does your site support Opera?",1202971754
+115622,comment,115574,115574,0,0,wehriam,,,"Lots of different places to work - from a 24"" monitor attached to the MBP in the ""office"" to the Eames lounge in front of a big TV. Add the coffee shop down the street and I'm set.<p>Note - don't forget about ergonomics!",1202971733
+115621,comment,115574,115574,0,0,staunch,,,"One with great colleagues that help, inspire, and challenge me. Everything else is optional.",1202971629
+115620,comment,115574,115596,0,0,sbr,,,"i'll take a desk or a cube with a brick alley view where i can sit whenever i want to (within reason) over a pastoral mansion that looks at me funny when i show up at noon.",1202971536
+115618,comment,115524,115524,0,0,jamiequint,,,"Use your parents' address. I did it for my first two companies, never had a problem.",1202971362
+115617,comment,115574,115574,0,0,dkokelley,,,"My ideal office would have an ocean view, be close to everything geographically but never have any traffic congestion. Preferably the top floor (or at least a corner) of a large building with everything I need located inside of it (bathroom, shower, couch, kitchen). There would be two desks. One would be facing away from the large glass window (where the ocean is visible from) so that I can interact with the people who come to visit. The other desk would be against a wall (maybe a corner, or even a small hallway shape) where the real work gets done. In there I would have my computers, printers, and the other essentials. The couch would face the ocean, but rotate to face the flat screen TV. Scratch that. The Couch faces the ocean and when I want to watch TV the window is covered by a drop down wall with the TV inside of it. I'd also have a bed so I could stay the night comfortably when necessary.<p>As you can tell, I think it's healthy to dream big.",1202971334
+115616,comment,114830,114858,0,0,bayareaguy,,,"I'm here.",1202971192
+115615,comment,115585,115608,0,0,daniel-cussen,,,"And how do I do that?  Where is this .profile?",1202971148
+115614,comment,115444,115609,0,0,anupamkapoor,,,"burning a copy of ""7 habits ..."" would be a greater symbolic gesture.",1202970853
+115613,story,,,1,0,__,"EURion constellation",http://en.wikipedia.org/wiki/EURion_constellation,,1202970575
+115612,comment,115444,115444,0,0,gibsonf1,,,"I would be very interested in a digital copy (pdf) to read on my Iphone (usually in places where a book is very incvonvenient)  I'd be willing to pay (to the author of course)  :)<p>I was just recently reading about Macros in PG's _On Lisp_ on my Iphone - excellent work PG.",1202970508
+115611,comment,115574,115574,0,0,trekker7,,,"Something on the beach, with an ocean view.",1202970505
+115610,comment,115369,115537,0,0,ubudesign,,,"who is giving negative points without even adding their own comments? It was a question/comment and if you realy think about it developers do need people that understand business as well.",1202970399
+115609,comment,115444,115444,0,0,dkokelley,,,"Good analysis. I'm half way through reading F.A.W. but I have a bad habit of switching books. Right now I'm on <i>How to Win Friends and Influence People</i> and then I'll go to <i>7 Habits of Highly Successful People</i> and then I'll read a few more cases. It keeps my mind fresh for each book.",1202970273
+115608,comment,115585,115585,0,0,tlrobinson,,,"Just like that nabble page says, add the following to your .profile using a text editor:<p><pre><code>    export PATH=/opt/local/bin:/opt/local/sbin:$PATH</code></pre>",1202970220
+115607,comment,115288,115288,0,0,mynameishere,,,"Aha! The problem is unsolvable.",1202970034
+115606,comment,115585,115594,0,0,tlrobinson,,,"No, bash will also use .profile",1202969907
+115605,comment,114846,114927,0,0,ivan,,,"I meant short time procrastination as an indicator of sleep deficit. It's the best indicator you sleep not enough. You should pay some bill today but you can't find enough energy to do it (you can also feel strong aversion to do  it) so you move this task and three other tasks to the next day. Ask yourself if this already happened.<p>There are some techniques by ex. some very intensive buddhist meditations (you can't perform in normal daily life) which can help you slow down your metabolism and so also need for sleep and eat without impact on your health, or techniques how to wake up exactly at 7AM (it's the best time IMO) without alarm clock.",1202969653
+115604,comment,115577,115577,0,0,tlrobinson,,,"Numerous mistakes involving ""rm"" and ""*""",1202969602
+115603,comment,113531,114200,0,0,RyanGWU82,,,"Wow, this sounds awesome... my problem is exactly the same, so I usually just buy frozen food...",1202969549
+115602,comment,115042,115576,0,0,ivankirigin,,,cool!,1202969528
+115601,comment,115574,115574,0,0,watmough,,,"A large room with a desk, computer, sofa. In an old country house in the UK.<p><a href=""http://xara.com/gaddesden/"" rel=""nofollow"">http://xara.com/gaddesden/</a>",1202969275
+115600,comment,115515,115515,0,0,breily,,,"if you're working with python and images, the Python Imaging Library is a must-have",1202969236
+115599,story,,,3,4,nreece,"Bad Form: Companies Still Send Passwords via Email",http://www.techconsumer.com/2008/02/11/bad-form-companies-still-sending-my-passwords-via-email/,,1202969128
+115598,comment,115094,115538,0,0,xirium,,,"I've seen the effect of two people mimicking each other at a motivational meeting. From this, I presume that the situation would devolve into fits of laughter.<p>Both people would be inclined to be cheerful. If this was mimicked then both people would be increasingly jovial until both would be laughing uncontrollably.",1202969113
+115596,comment,115574,115574,0,0,bootload,,,"<i>""... 	What is your ideal office? ...""</i><p>Hmm couch to the left, bookshelf in front. Large table. Places outside to walk and think.<p><pre><code>       a quiet place that's a 
+       leap and a bound from 
+       a keyboard & monitor
+</code></pre>
+Close to food, kitchen, stereo, whiteboard.  With all these things I can move from idea to code quickly.  Having said that it's a fair hike from the city central. Read these articles to rate your own environment: [0]<p>-  <a href=""http://www.paulgraham.com/gh.html"" rel=""nofollow"">http://www.paulgraham.com/gh.html</a><p>- <a href=""http://www.joelonsoftware.com/articles/BionicOffice.html"" rel=""nofollow"">http://www.joelonsoftware.com/articles/BionicOffice.html</a><p>[0] btw I add these references not because of <i>""who""</i> wrote them, but the quality of the descriptions.",1202969098
+115595,comment,115515,115534,0,0,watmough,,,"Any libraries. It doesn't have to be C based.<p>For instance, I wouldn't be able to live without my Oracle JDBC libraries.",1202969076
+115594,comment,115585,115585,0,0,elq,,,"well... your shell is probably ignoring .profile. I think the default shell under osx is now bash, so look for a file called .bashrc, and if it exists add the settings from .profile in there (or you can just source .profile from your bashrc).",1202968824

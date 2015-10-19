@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+326367,story,,,42,77,visakhcr,"Iceland close to bankruptcy",http://timesofindia.indiatimes.com/After_banks_nations_Iceland_close_to_bankruptcy/articleshow/3572258.cms,,1223445452
+326366,story,,,4,0,qhoxie,"Google’s Best Energy Bet: Organizing Energy Usage",http://gigaom.com/2008/10/07/googles-best-energy-bet-organizing-energy-usage/,,1223445203
+326365,story,,,3,0,qhoxie," Blackberry Storm with Global 3G Launches",http://gigaom.com/2008/10/07/vodafone-verizon-launch-global-3g-ready-blackberry-storm/,,1223445186
+326364,story,,,2,0,qhoxie,"Lijit Launches Publisher Ad Network ",http://gigaom.com/2008/10/07/lijit-launches-publisher-ad-network/,,1223445168
+326363,story,,,2,0,qhoxie,"Market Research's e-Rewards Sells Minority Stake For $60M",http://www.thealarmclock.com/mt/archives/2008/10/market_research.html,,1223445117
+326362,story,,,2,0,qhoxie,"VC Firm Buys Ownership In Israeli Advise Site Bitwine",http://www.thealarmclock.com/mt/archives/2008/10/post_375.html,,1223445089
+326361,comment,325692,326121,0,0,gruseom,,,"<i>We defer DOM manipulations to the end of each ""run loop"" where we coalesce them, removing redundant operations</i><p>That's very interesting. Can you give examples of redundant operations that you coalesce?<p>I'm wondering if this approach might help in my case. I'm frequently repositioning/resizing thousands of little divs. Any suggestions?",1223445086
+326360,story,,,10,0,qhoxie,"Seattle’s Top Entrepreneurs Band Together To Invest In Local Startups",http://www.techcrunch.com/2008/10/07/seattles-top-entrepreneurs-band-together-to-invest/,,1223445075
+326359,story,,,3,0,qhoxie,"Ruby DSLs: instance_eval with delegation",http://www.dcmanges.com/blog/ruby-dsls-instance-eval-with-delegation,,1223445058
+326357,comment,325923,325923,0,0,reinspruch,,,"Wind down the company, i.e. Chapter 7. Then each of you can take what you have done and run with it. If he is not motivated now then he will be even less so post-bankruptcy. If you are motivated now then you will be even more so once you control 100% of the company.",1223445004
+326356,story,,,11,0,nickb," Real Life Tron on an Apple IIgs",http://blog.danielwellman.com/2008/10/real-life-tron-on-an-apple-iigs.html,,1223444605
+326355,comment,326074,326329,0,0,debt,,,"It's sad that believe this stuff is sad.",1223444296
+326354,story,,,3,0,jasonlbaptiste,"Why the Russian River Brewing Company is happy staying small",http://www.37signals.com/svn/posts/1270-why-the-russian-river-brewing-company-is-happy-staying-small,,1223444262
+326353,story,,,2,0,technologizer,"BlackBerry Storm vs. iPhone 3G: an exhaustive feature comparison",http://technologizer.com/2008/10/07/blackberry-storm-vs-iphone/,,1223444197
+326352,comment,326012,326012,0,0,bstadil,,,"Host if on Amazon Web services.   Will cost you $72 / month and you can scale up from there at peak times if you need.   
+You get 1.7GB of memory and roughtly a 2.5GHz processor.   
+If you need help setting this up use Scalr.net or we (cloudincode.com can help you for free)   
+Drop a line if you are interested  bjorn  At Stadil.com",1223444186
+326347,story,,,2,0,soundsop,"Yahoo unveils calendar with new features",http://latimesblogs.latimes.com/technology/2008/10/yahoo-unveils-c.html,,1223443178
+326346,comment,326320,326320,0,0,jamesbritt,,,"This is the Steve I admire:  <a href=""http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/3145691/Steve-Wozniak-interview-iconic-co-founder-on-the-iPod-iPhone-and-future-for-Apple.html"" rel=""nofollow"">http://www.telegraph.co.uk/finance/newsbysector/mediatechnol...</a>",1223443104
+326345,story,,,12,3,shabda,"Building SEO optimised Django web applications",http://uswaretech.com/blog/2008/10/building-seo-optimised-django-web-applications/,,1223443042
+326344,comment,326277,326342,0,0,jmtulloss,,,"I couldn't agree more. I think the distinction is that inherently irreplaceable people are irreplaceable no matter where they are put. Some people are irreplaceable just because they're the only one that knows anything about X.",1223443010
+326343,comment,326277,326318,0,0,kaens,,,"I'm also fairly inexperienced, but it seems to me that as long as there is a clean separation between modules (which there should be <i>anyway</i>), that it would work rather well.<p>Do you do code reviews on each others modules?",1223442754
+326342,comment,326277,326318,0,0,jwilliams,,,"#3 - Seems to indicate that everyone in your team must be replaceable. This is good from a management and operational perspective.<p>...but you can't stop people who are just damn good. In fact, often this hampers them - i.e. You're too good at X, so you have to train a whole bunch of people who are bad at it otherwise it's a risk. This is often applied irrespective of the skill/talent of the person involved and the rest of the team respectively.<p>Sometimes people just are irreplaceable. What you don't want are people who are irreplaceable because of systemic issues.",1223442621
+326341,story,,,2,0,thorax,"Reminder: Ten (10) days left to submit your YC application.",,"Just a friendly reminder that you have ten days to fill out your applications for Winter 2009.<p>http://ycombinator.com/w2009.html",1223442055

@@ -1,0 +1,58 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+249366,comment,248558,249059,0,0,xlnt,,,"They show how they got the result.",1216346373
+249365,comment,248811,249271,0,0,nir,,,"Cool. I always thought YC aims for kids in early 20s - with the $5k/mo model etc.. Are your co-founders also in their 30s?",1216346328
+249364,comment,249239,249354,0,0,nickb,,,"And how would you handle personalization without an account?",1216346165
+249363,story,,,2,0,tx,"PressFlip, former Persai.com (remember uncov.com?), finally launches",http://pressflip.com/about,,1216346120
+249362,story,,,13,34,nickb,"Myth of Consensus Explodes: APS Opens Global Warming Debate",http://www.dailytech.com/Myth+of+Consensus+Explodes+APS+Opens+Global+Warming+Debate/article12403.htm,,1216346061
+249361,comment,249120,249120,0,0,sophist,,,"Wow, that picture is really manipulative.",1216346008
+249360,comment,248168,248612,0,0,tx,,,"Saved to a text file. Thank you for taking the time!",1216345882
+249359,story,,,11,0,pg,"Reuters Stock Buzz, Powered by SocialPicks",http://stockbuzz.us.reuters.com/people,,1216345875
+249358,comment,248811,249245,0,0,aggieben,,,"Sorry - couldn't make it tonight.  Too short a notice for a guy with a family (it takes a couple days to coax the wife into letting me go)",1216345841
+249357,comment,248558,248558,0,0,rw,,,"Another reason to use NoScript.",1216345810
+249356,comment,248168,249329,0,0,tx,,,"Like this? 
+<a href=""http://www.gtk-server.org/"" rel=""nofollow"">http://www.gtk-server.org/</a>",1216345711
+249355,comment,248811,249138,0,0,huhtenberg,,,"How did the first three go if you don't mind me asking ?",1216345677
+249354,comment,249239,249239,0,0,martey,,,"When I pressed ""flip"" to signify that I did not like the content, it bought me to a login box. I have decided that the content they gave me is not useful, and their response is to ask me to create an account with them?<p>This is the point where Uncov would have posted a 'FAIL' picture.",1216345648
+249353,comment,248811,248989,0,0,huhtenberg,,,"Not if it's in hex :)",1216345640
+249352,story,,,11,8,nickb,"Logged in or out, Facebook is watching you","http://www.zdnet.com.au/news/security/soa/Logged-in-or-out-Facebook-is-watching-you/0,130061744,339284281,00.htm",,1216345624
+249351,comment,249120,249120,0,0,rw,,,"Increases in guaranteed human rights <i>must</i> keep pace with technological and moral development.",1216345602
+249350,comment,248558,249335,0,0,paulgb,,,"It would be interesting to find out. If any of the big players are doing it, there would be a huge backlash if they got caught for it.",1216345572
+249349,comment,249077,249218,0,0,attack,,,"Me too, permanently.<p>What techcrunch doesn't make clear is that this wasn't just some inter-registrar communication problem. Godaddy itself was selling the same domain names over and over and over for hours!",1216345498
+249348,comment,249077,249077,0,0,chrisconley,,,"i thought that it must be too good to be true when i snagged you.me (or so i thought-hehe)",1216345485
+249347,story,,,6,2,kimboslice,"Amazon To Target $5.5 Billion Textbook Market With New Kindle?",http://www.techcrunch.com/2008/07/17/amazon-to-target-55-billion-textbook-market-with-new-kindle/,,1216345437
+249346,story,,,15,1,michael_nielsen,"The Future of Science",http://michaelnielsen.org/blog/?p=448,,1216345299
+249345,comment,249296,249296,0,0,isaacewing,,,"I really like the article about the Facebook ads; that website has a lot of good articles!",1216345178
+249344,comment,249199,249199,0,0,smoody,,,"""So, as the Twitter's out there continue to have availability issues and the debate continues as to the scalability of Ruby on Rails, BIG-IP helps show that with a good design and infrastructure planning, big things are possible.""<p>Uh... the bumper sticker app is simply an app that creates static images and then uses static asset servers to serve them up. Twitter aggregates data each time it displays a page. If you think that sticking your f5 BIG-IP product in-front-of twitter is going to make a lick of difference, you are beyond wrong.<p>You might want to read-up on software architecture before you compare apples to gorillas.",1216345114
+249343,comment,248735,249256,0,0,jmatt,,,"Yeah it's calculated. I thought you were talking about comments. Or it was last time news.arc was released by PG<p><pre><code>  (= gravity* 1.4 timebase* 120 front-threshold* 1)
+ 
+  (def frontpage-rank (s (o gravity gravity*))
+    (/ (- (realscore s) 1)
+       (expt (/ (+ (item-age s) timebase*) 60) gravity)))
+</code></pre>
+<a href=""http://github.com/nex3/arc/tree/master/news.arc"" rel=""nofollow"">http://github.com/nex3/arc/tree/master/news.arc</a>",1216345054
+249342,comment,249120,249200,0,0,mileszs,,,"I'm not sure why you are getting down-voted.  I think some people find the idea of being poor inconceivable.  Perhaps some people think that if you can post on the Internet, you should be giving money away.<p>In any case, I know from whence you are coming.  I'm sure the family would appreciate your efforts regardless.  Advertising for the cause is absolutely helpful, as most Hacker News posters should know.",1216344993
+249341,comment,249076,249265,0,0,tlrobinson,,,"Plus, as far as I can tell, you don't really get any of the benefits of EC2, i.e. easy scaling.<p>If you want simple scalable Rails deployment, check out Heroku.",1216344898
+249340,comment,248735,248782,0,0,pg,,,"Traffic actually grew last month.  It went down at the beginning of the summer though.",1216344855
+249339,comment,249120,249120,0,0,isaacewing,,,"If I had money I would donate, I don't like PayPal and don't like using them unless I have to, they should setup alternate payment methods so people have a choice on which one they prefer to use.",1216344804
+249337,story,,,2,1,parenthesis,WardsWiki,http://c2.com/cgi/wiki,,1216344735
+249336,comment,249120,249143,0,0,mileszs,,,"I will admit to having added incentive _because_ they were using PayPal.  I know there are drawbacks, but I had funds readily available in PayPal.",1216344674
+249335,comment,248558,249308,0,0,boucher,,,"I would be pretty surprised if people weren't already doing this.",1216344640
+249334,comment,249239,249239,0,0,omouse,,,"Wait, is this real?",1216344608
+249333,comment,248168,248403,0,0,nailer,,,"The Neo has a 280 DPI screen?<p>That's awesome - I don't think I've ever seen a display that close to print quality. Its a pity the styling and software don't seem very consumer friendly.",1216344599
+249332,comment,248469,249254,0,0,vitaminj,,,"Either you didn't read the books, or I'm afraid you completely missed the point.<p>His investment advice is to invest most of your money (say 80%) in T-bills, and the rest in speculative investments (Taleb does it through derivatives). The rationale is that most of your cash is protected (short of a government default) albeit making modest returns. So you'll never spectacularly ""blow up""... but you also have the upside exposure to good ""black swan"" events in your speculative investments.",1216344583
+249331,comment,248735,249248,0,0,jmatt,,,"Yeah my bad, I'm talking about comments.",1216344461
+249330,comment,249296,249319,0,0,breck,,,"A friend of mine actually was working on something similar for a year(may still be working on it, gotta check in with him).<p>It's funny, I thought it might work because of its originality. My opinion has changed now.",1216344428
+249329,comment,248168,248612,0,0,nailer,,,"Would it be possible or useful to create an X extension for higher lever (ie, toolkit) primitives for remoting? Ie, an app can send 'list box widget in GTK' to the display server?",1216344385
+249328,story,,,30,8,newton,"TechShop lets you use their shop equipment to fabricate anything.",http://techshop.ws/,,1216344242
+249327,comment,249239,249295,0,0,bootload,,,"<i>""... Forget Pressflip, I want Uncov back! ...""</i><p>Got that covered with a new column at <i>""The Register""</i>. You got to read a bit harder... it's to the RHS of the article near the about box ~ <a href=""http://teddziuba.com/2008/07/announcing-my-new-column-at-th.html"" rel=""nofollow"">http://teddziuba.com/2008/07/announcing-my-new-column-at-th....</a>",1216344082
+249326,comment,248735,248735,0,0,jlouis,,,"The main difference is very simple, yet effective: HN has a specific goal. It is not a place which will just flow with whatever is posted. Some things are allowed, and some things are not.<p>Hopefully, the choice of content will keep people interested in that kind of content, and remove those that don't. They already got reddit/digg/foobar for their stories.<p>Comments would take more time to moderate, if we think of users up/downvoting as a differential equation that slowly is moving towards the ""intelligence of the masses"". So in time, the level of comments will degrade. The way of keeping that from happening is, of course, to mercilessly kill bad comments and keep them out with overpowering ;)",1216343997
+249325,story,,,1,0,nickb," Online office apps get real: Google Docs vs. ThinkFree vs. Zoho",http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9108799,,1216343871
+249324,comment,248811,248811,0,0,rgrieselhuber,,,"You're already 18 months older than you would have been had you gone for it when you first had the idea.",1216343829
+249323,comment,248811,249078,0,0,pg,,,"Calling what a startup has made a ""feature"" is just an empty insult.  Google was just a feature, until it wasn't.",1216343757
+249322,comment,248811,249234,0,0,rgrieselhuber,,,"This exchange made me laugh.",1216343747
+249321,comment,248577,248902,0,0,paulgb,,,"I've been wondering lately why lawyers and politicians write in the indecipherable manner that they do. Is it really that difficult to write unambiguously in English, or are they just doing it for job security?",1216343324
+249320,comment,248811,248811,0,0,joseakle,,,"Im 25, my cofounder 42",1216343261
+249319,comment,249296,249316,0,0,brk,,,"Yeah, some of those gave me deja vu.  I hadn't thought about the girls in the Ferrari though, I might pursue that one.",1216343148
+249318,comment,248990,248990,0,0,fallentimes,,,"I love the fail whale; I'm wearing a fail whale Tshirt right now.",1216342983
+249317,comment,248877,248877,0,0,lux,,,"In my mind, a facebook app would be part of a wider strategy, such as integrating your external service into facebook to drive additional use of the core service.  It didn't seem like many facebook apps on their own made that much sense, especially for VCs.  I mean, they basically allow you to spread your ads across a small portion of facebook's site.  As a business model for a couple dudes, fine, but as a model to throw millions of bucks on, not so sure there.  Unless VCs were hoping facebook would acquire them, which it doesn't need to to benefit from them, so why would it?",1216342920
+249316,comment,249296,249310,0,0,breck,,,"Agreed. What was sad/amusing is that I had a similar idea to his #1. Like his #1, it was very original, very funny, and so outrageous that it just might work...It didn't though...As soon as I have a big success I promise to make my own top 10 list of worst ideas...Actually, I'll probably make it a top 20 as narrowing it down to 10 would be hard.",1216342867

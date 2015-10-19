@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+384,comment,317,317,0,0,jwecker,,,"Good content.  Thank you BioGeek.",1172091434
+383,comment,278,278,0,0,Harj,,,"haha &#34;that's cheating&#34;. 
+
+interesting idea re the video though i think the best benefit from the speakers is being able to talk to them afterwards and ask questions/generally chat about what you're doing. ",1172091347
+382,comment,363,363,0,0,abstractbill,,,"How about an area where we can submit startup advice and vote on it, for example:  &#34;don't use bank of america for your business banking&#34;, &#34;do incorporate as a C corp in delaware&#34;, etc.  I think the advice submitted and comment threads generated could be quite valuable.",1172091341
+381,comment,363,363,0,0,jwecker,,,"marking a comment up or down should use ajax- especially so browser history is preserved (pressing the back-button to get to the front page).  I assume comments can be marked into the negative range for those hopefully rare occasions where it's needed? [please don't test it on me!].  Other than that I love the minimalism.",1172090969
+380,comment,227,366,0,0,clamgroin,,,"if only that were really true. y'all never been to a silicon valley singles thing, huh? all the ladies are lining up to bang the bartender.",1172090929
+379,comment,227,227,0,0,smock,,,"Its interesting to me that everyone here seems to have advice to offer, some of it very personally critical, to a man who is merely outlining his own train of thought, not telling anyone to follow his path.  I am nearing the end of my fourth year in physics grad school and have never been closer to quitting.  My own experience has been very isolating-I work long hours in the basement of a lab, limiting of my personal growth-I've been in a kind of 'stasis' where I'm in this college environment but very clearly do not fit the mold of a college student, and professionally frustrating - not only do I not have the kind of control over my project which people claim as the holy grail of a Ph.D., there is no clear end in sight to what I am doing.  The only thing keeping me here is momentum and fear.  Here is a man who just took his life off the usual path and spat in the face of fear.  That deserves respect.",1172090786
+378,comment,363,374,0,0,akkartik,,,"Why not submit a blog post the normal way? Is this a separate kind of post?",1172089936
+377,comment,363,363,0,0,manuel,,,"maybe allow people to add a short, one-line description for each submission, so one has more more info to decide whether to check it out or not.",1172089850
+376,comment,363,363,0,0,akkartik,,,"I think comments are where the action is. Three simple things that get most of the bang of markdown IMO: Working permalinks for comments, paragraph dividers and clickable links.",1172089740
+375,story,,,2,1,Harj,"Keep the Faith",http://allensblog.typepad.com/allens_blog/2006/01/keep_the_faith.html,,1172089719
+374,comment,363,363,0,0,dpapathanasiou,,,"I'd like to see an &#34;announcements/feedback&#34; section where people can tell this community about their projects and get comments back, i.e. similar to what happens (less formally) at Joel Spolsky's &#34;Business of Software&#34; forum.",1172089706
+373,comment,363,372,0,0,akkartik,,,"Counterpoint to all the calls for an RSS feed: Do others find reddit's front-page feed useful? Nobody at a social news site has yet figured out how to do the RSS feed right, IMO. I find myself using my browser to read reddit a lot more than my aggregator. For example, it's hard to capture the action on a comment thread, or to create filtered feeds by user. Here's one idea:
+
+http://features.reddit.com/info/xjvr/comments
+
+If user-specific feeds are infeasible (for server bandwidth or computation reasons) it seems RSS feeds are low-priority.",1172089627
+372,comment,363,363,0,0,brett,,,"You wrote on reddit that an RSS feed is coming. If you're prioritizing that would be my first choice. ",1172088637

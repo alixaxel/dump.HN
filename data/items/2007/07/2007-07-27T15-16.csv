@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37096,comment,37073,37073,0,0,paulgb,,,"The headline is misleading. The company is not trying to take on PayPal, they are just trying to fill the void that PayPal leaves.",1185551788
+37095,comment,37071,37071,0,0,dpapathanasiou,,,"I thought the ""blame the buyer"" comment was an interesting take on the relevance of business models.<p>It's essentially the crazy-uncle-locked-in-the-attic aspect of all this, which no one wants to talk about.",1185551384
+37094,comment,37073,37073,0,0,adnam,,,"<meta name=""Generator"" content=""Joomla!...><p>How lame.",1185550338
+37093,comment,36783,37045,0,0,far33d,,,"Basic premise holds - creating > criticism.",1185550144
+37092,comment,37047,37063,0,0,joshwa,,,"Hell yes. I think there's a big market for selling UGC-type data as behavioral targeting data... the current systems are relatively unsophisticated-- they tell a marketer what kinds of sites you've visited, but not what you were talking about. <p>",1185550141
+37091,story,,,1,0,pg,"World's First Look at the BBC iPlayer",http://mashable.com/2007/07/26/bbc-iplayer-2/,,1185550133
+37090,comment,36964,37013,0,0,npk,,,"It's an inclusive or.",1185549994
+37089,comment,37071,37071,0,0,joshwa,,,"Their business model, as far as I can tell, is to license the presence technology/platform (to other web2.0 sites, mobile carriers/developers, etc), and become the ""finger"" of web2.0. They want to become a network backbone, after a fashion. ",1185549834
+37088,comment,37000,37000,0,0,edu,,,"I think you can do it directly. No? I've just started to study List, but I think you could do sth like:<p><pre><code>  '(root (child-1 attr1: val1 attr2: val2)
+         (child-2 attr1: val1 attr2: val2)
+         (child-3 attr1: val1 attr2: val2))
+</code></pre>
+And then recurse over it?<p>BTW, If I'm wrong please teach me :D",1185549677
+37087,comment,36905,37065,0,0,palish,,,"I'm referring to languages that weren't primarily pushed by big companies to make them popular. For example, Ruby.",1185549048
+37086,comment,37073,37083,0,0,brlewis,,,"I wonder what I would tell my kids.  ""How was work today, Daddy?""",1185548701
+37085,story,,,1,2,amichail,"Would it make sense to give equity to your users when they invite lots of other users?",,,1185548581
+37084,story,,,1,0,jamongkad,"Just Build It, Damnit",http://www.littlehart.net/atthekeyboard/2007/01/02/just-build-it-damnit/,,1185548498

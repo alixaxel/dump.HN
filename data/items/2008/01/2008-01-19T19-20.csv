@@ -1,0 +1,43 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+100992,comment,100955,100955,0,0,corentin,,,"Was it betterexplained.com?",1200772648
+100991,comment,100939,100939,0,0,corentin,,,"There's two things you can do:<p>* convince pg to work on better control policies;<p>* write your own alternative with better ones.",1200772575
+100990,comment,100946,100983,0,0,pg,,,"I'll fix it.  Edit: fixed; sorry.",1200772486
+100989,story,,,14,0,hhm,"Google to Host Terabytes of Open-Source Science Data",http://blog.wired.com/wiredscience/2008/01/google-to-provi.html,,1200772429
+100988,comment,100939,100951,0,0,jraines,,,"Yes.<p>My favorite kind of joke.<p>Man on cell:
+""No, I'm just saying you're being unresponsive.  Unresponsive!  Hello?""",1200772375
+100987,story,,,5,2,danw,"Overcoming blankcanvasphobia",http://cameronmoll.com/archives/2008/01/overcoming_blankcanvasphobia/,,1200772239
+100986,comment,100732,100984,0,0,rms,,,"you can get insurance for as low as $100/month...",1200771833
+100985,comment,100923,100923,0,0,bayareaguy,,,"23 July 2003<p>It also happens to be the most recent entry on that guy's blog.  I did find this comment at the end amusing:<p><i>And on the topic of Lisp (or APL, as another example) people have voted with their feet.</i><p>I'm would bet Arthur Whitney over at <a href=""http://www.kx.com"" rel=""nofollow"">http://www.kx.com</a> is as fond of his secret weapon (K, derived from APL) as pg is for Lisp.",1200771717
+100984,comment,100732,100903,0,0,far33d,,,"they get insurance through school.",1200771701
+100983,comment,100946,100971,0,0,quimax,,,"Yeah, you are right, you can solve it in the address bar, but I guess to check for the typo makes more sense ,-) PG ? Anybody there?",1200771440
+100982,story,,,2,0,iamelgringo,"Functional Programming | Pure vs Impure [Channel 9 video]",http://channel9.msdn.com/ShowPost.aspx?PostID=374141,,1200771388
+100981,comment,100939,100963,0,0,paulgb,,,"I think you need a certain amount of karma before you can downmod comments.<p>edit: curi beat me to it",1200771305
+100980,comment,100939,100953,0,0,curi,,,"You can't downmod comments until you have a certain amount of karma. I think it's around 25.<p>Edit: lol someone downmodded this. obviously mad about something else i posted. I hope he doesn't think of going through my comment history and downmodding them all. Hopefully he's too dumb to find it here:<p><a href=""http://news.ycombinator.com/threads?id=curi"" rel=""nofollow"">http://news.ycombinator.com/threads?id=curi</a>",1200771235
+100979,comment,100901,100929,0,0,byrneseyeview,,,"Sure. I get the feeling I'm not hearing an accurate summary -- like when Naomi Klein turns something like ""the pursuit of rational self-interest maximizes collective gain"" into ""They're trying to convince people that by doing good you do bad, and that by being bad -- by pursuing your most selfish desires -- you do good."" (<a href=""http://www.youtube.com/watch?v=g2kTy7glZ9s"" rel=""nofollow"">http://www.youtube.com/watch?v=g2kTy7glZ9s</a>).<p>I've read some Dennett, and I've never found anything amenable to the paraphrase AS quoted. I'm sure if you wanted to, you could find people who tell you how ridiculous Dennett was by quoting him that way, just as people have had a great time finding out what Milton Friedman said by way of Klein's parody. I suspect that AS just hasn't bothered to consider the possibility that he and his idol are wrong.",1200771156
+100978,comment,100939,100939,0,0,kyro,,,"Just upvote me.",1200771003
+100977,comment,100658,100658,0,0,enmand,,,"Gentoo on two, ArchLinux on one",1200770908
+100976,comment,100939,100953,0,0,yters,,,"You, sir, are a genius!  We also need to watch out for those diggers.  I hear they are even worse and ruined reddit to begin with.  We must fight against the encroaching dark.",1200770907
+100975,comment,100939,100951,0,0,curi,,,"Yeah, it amused me. Also I'm considering changing the post title to either:<p>Upvote if you love Hitler.<p>or<p>Upvote if you think being able to edit post titles is weird.<p>And I needed a frontpage post to do that with.<p>However, it's good to be able to fix typos in your posts, and it hasn't actually been abused yet (as far as I know), so maybe I shouldn't.<p>Edit: I'm not going to, OK?",1200770680
+100974,comment,100838,100910,0,0,DanielBMarkham,,,"Who cares? It all seems so pointless",1200770633
+100973,comment,100931,100931,0,0,bayareaguy,,,"I'd also like to see the ranking of each with respect to the whole community and also for just the last 30 days.<p>It would also be interesting if there were a way to see the amount of karma gained or lost in a period relative to the total of all karma gained or lost in that period.",1200770534
+100972,comment,100736,100965,0,0,mixmax,,,"heh great comment :-) They would break the bank...",1200770406
+100971,comment,100946,100946,0,0,a-priori,,,"I just noticed this. The feed is generating links like this:
+<a href=""http://news.ycombinator.comitem/?id=100946"" rel=""nofollow"">http://news.ycombinator.comitem/?id=100946</a><p>... when they should read this:
+<a href=""http://news.ycombinator.com/item?id=100946"" rel=""nofollow"">http://news.ycombinator.com/item?id=100946</a>",1200770399
+100970,comment,100838,100910,0,0,yters,,,"As the above comments show, smart people tend to take things more seriously.  Not that that's a bad thing, but I think it explains the extremes in the views of smart people.<p>Of course, I've just moved the question up a level here...",1200770359
+100969,story,,,11,1,daviday,"For much of the world, the US is on sale at discount prices",http://www.nytimes.com/2008/01/20/business/20invest.html?ex=1358485200&en=0411d3365138f972&ei=5090&partner=rssuserland&emc=rss&pagewanted=all,,1200770221
+100968,comment,100939,100948,0,0,yters,,,"Upvote this comment if you agree, but don't want to fall for vlad's trick.",1200770196
+100966,story,,,9,2,ereldon,"Microsoft strong-arming Valley startups?",http://techland.blogs.fortune.cnn.com/2008/01/18/the-hard-side-of-mister-softie/,,1200770041
+100965,comment,100736,100874,0,0,DaniFong,,,"What if said restaurant were based in a casino?",1200769954
+100964,comment,100385,100888,0,0,aswanson,,,"Sounds like your working along the lines that I am, except I am using (gasp) c++.  Are you doing H.264/263 or some custom stuff?",1200769817
+100963,comment,100939,100953,0,0,edu,,,"Comments can be downmodded without problems.",1200769652
+100962,comment,100939,100939,0,0,edu,,,WTH?,1200769609
+100961,comment,100319,100319,0,0,jsnx,,,"If I understand it correctly, the idea with Reddit is that the
+community can decide what news it wants to see, by posting links
+and then filtering them. If the community wants hate speach (or
+more of those Ron Paul links) and Reddit serves up hate speach,
+then isn't the algorithm working?<p>I suppose you could actively ban users who skew the community in
+that direction -- though you'd have an endless calvacade of sock
+puppets to deal with.",1200769522
+100960,comment,100901,100901,0,0,cglee,,,"It seems to me that the entire study of philosophy is comprised of arguments based on linguistic puns; how else to express our thoughts? As long as we are limited by language, any existing language, we are constrained by its syntax and semantics. This is analogous to the study of physics with math; we often need to invent new math to model physical phenomenon. Likewise, until we invent a suitable new philosophy language to model the world, we're just going to spin our wheels.",1200769510
+100959,comment,100460,100659,0,0,michaelr,,,"What do you mean obsolete? Do you expect tables to stop rendering some time soon?",1200769284

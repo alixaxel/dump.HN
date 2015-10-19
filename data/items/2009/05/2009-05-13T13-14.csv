@@ -1,0 +1,128 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+606889,comment,606716,606877,0,0,pmarin,,,"Yep, I think that  formatdoc is a subset of markdown. PG makes an explicit reference to the original markdown in the code.<p>From app.arc:<p><pre><code>   ; http://daringfireball.net/projects/markdown/syntax
+   
+   (def md-from-form (str (o nolinks))
+     (markdown (trim (rem #\return (esc<>& str)) 'end) 60 nolinks))
+   
+   (def markdown (s (o maxurl) (o nolinks))
+     (let ital nil
+       (tostring
+         (forlen i s
+           (iflet (newi spaces) (indented-code s i (if (is i 0) 2 0))
+                  (do (pr  ""<p><pre><code>"")
+                    (let cb (code-block s (- newi spaces 1))
+                      (pr cb)
+                      (= i (+ (- newi spaces 1) (len cb))))
+                    (pr ""</code></pre>""))
+                  (iflet newi (parabreak s i (if (is i 0) 1 0))
+                         (do (unless (is i 0) (pr ""<p>""))
+                             (= i (- newi 1)))
+                         (and (is (s i) #\*)
+                              (or ital
+                                  (atend i s)
+                                  (and (~whitec (s (+ i 1)))
+                                       (pos #\* s (+ i 1)))))
+                          (do (pr (if ital ""</i>"" ""<i>""))
+                              (= ital (no ital)))
+                         (and (no nolinks)
+                              (or (litmatch ""http://"" s i)
+                                  (litmatch ""https://"" s i)))
+                          (withs (n   (urlend s i)
+                                  url (cut s i n))
+                            (tag (a href url rel 'nofollow)
+                              (pr (if (no maxurl) url (ellipsize url maxurl))))
+                            (= i (- n 1)))
+                          (writec (s i))))))))</code></pre>",1242223122
+606888,comment,606495,606636,0,0,jnovek,,,"""In addition, Never a good idea to build a business based on what newspapers are saying or how the stock market is performing...""<p>It's probably not a good idea to ignore them, either.  I don't know about you, but all the ""market research"" that my customers ever do is whatever lands on the front page (or on their favorite 24h news channel), and they allocate their buying power accordingly.",1242223102
+606887,comment,606842,606856,0,0,brown9-2,,,"I guess I will be brown9-2 from now on then... thanks.",1242223101
+606886,comment,605656,606512,0,0,biohacker42,,,"Your risk equation is overestimating the worst case scenario.<p>Super bugs are NOT at all easy to design. And there's plenty of natural super bugs like swine flu, etc. that come around every year.<p>The worst case scenario is something like the 1918 flu, but it's not 1918 anymore and we can deal with viruses like that a lot better.",1242223100
+606885,story,,,1,0,TallGuyShort,"Man arrested for photographing an ATM",http://iamshane.com/2009/05/09/of-atms-iphones-and-911/,,1242223094
+606884,comment,606721,606721,0,0,nathanwdavis,,,"Why would you submit an article that requires you to be subscribed in order to read more than a few paragraphs!!",1242223083
+606883,comment,606801,606872,0,0,tortilla,,,"I think it's the dynamic of very loose relationships.  And if I have to read your drivel, you better be reading mine.",1242223035
+606882,story,,,3,0,pj,"Company behind world's cheapest car to sell $7,800 apartments",http://www.businessweek.com/the_thread/hotproperty/archives/2009/05/first_it_came_o.html,,1242223025
+606881,comment,606208,606760,0,0,calambrac,,,"You make a really good point.  For more consumer-oriented data, a more casual level of accuracy is probably acceptable, at least acceptable enough to hang ads off of.  I had my head stuck in the world of data that people are actually willing to pay for directly.",1242223016
+606880,story,,,1,0,cookiecaper,"Utah Attorney General sends text to Twitter, plans for Senate run posted",http://www.ksl.com/?nid=148&sid=6470054,,1242223005
+606879,story,,,1,0,dragonquest,"Is the Free Web About to Expire?","http://www.pcmag.com/article2/0,2817,2346956,00.asp",,1242222882
+606878,story,,,2,0,Anon84,"Google Small Business Network",http://www.google.com/smallbusinessnetwork/,,1242222761
+606877,comment,606716,606843,0,0,davidw,,,"Ok.<p><i></i>However<i></i><p>#It<p>##is<p>`not`<p>[markdown](<a href=""http://en.wikipedia.org/wiki/Markdown"" rel=""nofollow"">http://en.wikipedia.org/wiki/Markdown</a>)",1242222724
+606876,comment,606801,606801,0,0,nreece,,,Flagged.,1242222708
+606875,comment,605656,606414,0,0,randallsquared,,,"<i>People nowadays trust Wikipedia just as much as Britannica, if not more in some cases.</i><p>Usually people who note this consider it a problem.",1242222698
+606873,comment,606870,606870,0,0,jakarta,,,"I love this quote - ""Lawyers who only know a mass of legal doctrine and very little about the disciplines that are intertwined with that doctrine are a menace to the wider civilization.""",1242222629
+606872,comment,606801,606867,0,0,axod,,,"No doubt it's cool in terms of code, I was just intrigued about the whole twitter culture :)",1242222515
+606871,comment,605938,605974,0,0,jaydub,,,"Alternatively, you can grab the Bolt Bus, or others like it (<a href=""https://www.boltbus.com/default.aspx"" rel=""nofollow"">https://www.boltbus.com/default.aspx</a>). Cheaper and slower than Amtrak but apparently has decently usable wifi.",1242222495
+606870,story,,,5,1,jakarta,"Interview with Charlie Munger",http://www.law.stanford.edu/publications/stanford_lawyer/issues/80/,,1242222494
+606869,comment,606779,606779,0,0,jcl,,,"HN comments on the original article:<p><a href=""http://news.ycombinator.com/item?id=592043"" rel=""nofollow"">http://news.ycombinator.com/item?id=592043</a><p><a href=""http://news.ycombinator.com/item?id=605720"" rel=""nofollow"">http://news.ycombinator.com/item?id=605720</a>",1242222426
+606868,comment,363,363,0,0,needsomehelp,,,"Password reset",1242222268
+606867,comment,606801,606854,0,0,sant0sk1,,,"I wrote it more as a fun example of the stuff you can do with very little Ruby (when relying on the proper libraries).",1242222266
+606866,story,,,1,0,linuxmag,"Churning Butter(FS): An Interview with Chris Mason",http://www.linux-mag.com/id/7329,,1242222246
+606865,story,,,1,0,helium,"Instant Mockup for Eclipse SWT Applications using Balsamiq ",http://in.relation.to/Bloggers/InstantMockupForEclipseSWTApplications,,1242222227
+606864,comment,606651,606733,0,0,Retric,,,"The problem cable companies have is their revenue is insane and they are used to it.<p>I am canceling Cable TV (with DVR and HDTV) service becasuse it's overpriced and I have slowly gotten to the point where my TV is on 1-2 hours a week, which is not worth 80$ a month.  The sad thing is I would pay 5$ a hour for what littel TV I watch, but they don't have anything like that as an option.<p>When people who makes as much money as I do cancle their service because of poor value, they must see the end of the road.  They don't procude the content, and while they are the middle men of chioce most people will move on to other things in time which will reduce their power with the people who create content. There was a time when TV could clame they where filtering out the junk which justified their posistion but 300+ channels killed that idea.  So I expect thier only real option is to become an ISP or try and creat the next Hulu.",1242222226
+606863,comment,606506,606506,0,0,needsomehelp,,,"Funny, I had been thinking for years that the Konami code ended in ""a b"" not ""b a""",1242222209
+606862,comment,606801,606801,0,0,absconditus,,,"This seems a bit unhealthy.",1242222166
+606861,comment,606619,606657,0,0,briancooley,,,"The question to ask isn't whether the solution will be better, but rather whether the differentiation that gives your product value is derived from rewriting libraries.<p>Libraries tend to be generic, so you can often do better for your specific problem if you are willing to pay the opportunity cost.",1242222157
+606860,comment,606756,606756,0,0,mpk,,,"This is a system administration HOWTO, not news.",1242222081
+606858,comment,606801,606801,0,0,trezor,,,"I honestly don't see the point of this particular script, apart from giving twitter-spammers stats on what is good bait and what is not.<p>But I guess it goes to show that there is a Ruby twitter-API out there and provides a quick how-to code-nugget as a starting point.",1242222009
+606857,story,,,1,0,ams1,"Sentinel: A New Font Family from H&FJ.",http://www.typography.com/ask/showBlog.php?blogID=189,,1242221944
+606856,comment,606842,606842,0,0,mixmax,,,"If you entered an e-mail into your account you send a mail to PG, and he'll mail you your password.<p>If you didn't enter an e-mail into your account your new username is needsomehelp<p>:-)",1242221942
+606855,comment,606664,606786,0,0,pwim,,,"Neither your original daysFromDateRangeStartToEnd nor daysDateRange seem to capture what it is supposed to represent.  Perhaps if it was seen in context, it would be understandable, but by itself I do not think it is a good example.",1242221887
+606854,comment,606801,606801,0,0,axod,,,"Why is this useful? I'm intrigued. Would you then start unfollowing people who haven't followed you? Either you want to know what they're tweeting or you don't. Why does it matter if it's a one way street?<p>Some of the Twitter stuff I just don't get. People following everyone who follows them (Out of etiquette?), but then using a twitter client that allows them to ignore all the tweets from them??? It makes no sense!!! Waste of bandwidth, resources etc.<p>IMHO Twitter should have a limit on the number of people you can follow. Maybe 50 max. I don't see how you can follow more than that and it be useful. Past that you may as well just check the public updates or do searches for specific things surely. That would be just slightly more efficient than everyone following thousands, then filtering in their twitter client, which seems to be what happens atm.<p></twrant>",1242221880
+606851,comment,606719,606719,0,0,stuff4ben,,,"<i>Are admins developers too?</i><p>If you're lucky they are.  I was fortunate to work at a company where one of the admins knew just as much as (if not more than) most of the developers about how the application worked.  This was a good thing since A) you couldn't BS him and B) when something went wrong (something always goes wrong) he could help you find out what it is.  A good admin will also make his or her job easier by creating tools.  And that my friends makes them a developer.",1242221640
+606850,comment,606639,606819,0,0,jonknee,,,"The government already gets to decide who has access to the important areas (Whitehouse press corp for example). No one is saying that you need permission to publish, only that established journalism outlets would get a tax break. You would still be welcome to take on the NY Times with your blog.",1242221627
+606848,comment,606619,606619,0,0,stonemetal,,,"I find the argument rather faulty.  If you found your own company where does this ""strong bias"" to write software in the same language as the OS come from(just about every language out there has FFI to C so system libraries should be accessible)?  If I am now writing Web software, I am now writing an application that runs on an OS that is primarily written in C so why does this ""strong bias"" magically disappear?",1242221605
+606847,comment,606363,606363,0,0,FraaJad,,,"Juno looks to be simple and the developer has chosen a good set of libraries to build it on. It is a demonstration of the inherent simplicity in using well written, WSGI aware python libraries.<p>IMO, web.py qualifies to be called ""really lightweight""<p>take for instance the hello world code:<p><pre><code>    import web
+
+    urls = (
+        '/(.*)', 'hello'
+    )
+    
+    app = web.application(urls, globals())
+
+    class hello:        
+        def GET(self, name):
+            if not name: 
+                name = 'world'
+            return 'Hello, ' + name + '!'
+ 
+    if __name__ == ""__main__"":
+        app.run()
+
+</code></pre>
+This has two advantages over the Juno code..<p>1. more `REST`y (GET/POST)<p>2. `app` object is a wsgi callable..<p>More importantly, web.py does not need have any external library dependencies unless you choose to use mysql/postgresql when you have to install the db interface libraries. I had problem running the hello world Juno code because I did not have pysqlite2 installed.. huh? why do I need pysqlite2 to return a string?<p>While some may object saying that web.py has a case of NIH, the code of web.py itself does not reflect any such attitude. The whole library is just a directory of aptly named modules. You can plop it anywhere in the python path and start coding ..",1242221550
+606846,comment,606639,606796,0,0,jonknee,,,"Matt Drudge does very little reporting (a few times a year there is an exclusive and frequently it's still on the backs of actual reporters), he just points to the work other people have done. A valuable service, but he's more akin to an editor than an actual publication.<p>You have a point with Politico, but they make most of their money from print (ads in their DC based news paper and syndication with papers around the country).",1242221514
+606845,comment,606619,606665,0,0,axod,,,"OTOH though, a lot of things aren't rocket science. For example, if you want to roll your own webserver/framework for good reasons, definitely do it.<p>But I agree. It's a matter of deciding when it matters, and when it doesn't.",1242221508
+606844,comment,605720,606260,0,0,dugmartin,,,"While I think conditioning plays a role the real value is taking the other team out of their rhythm.  If you practice a game a certain way for years and then someone changes the rules on you all your experience is moot.",1242221487
+606843,comment,606716,606734,0,0,pmarin,,,"In the Arc source, the function that implements formatdoc syntax is named markdown.<p><a href=""http://arcfn.com/doc/app.html#markdown"" rel=""nofollow"">http://arcfn.com/doc/app.html#markdown</a>",1242221475
+606842,story,,,20,17,needsomehelp,"Lost password to my HN account - how do I reset/where is forgot password?",,"I must be missing something here...",1242221405
+606841,comment,606707,606707,0,0,davidw,,,"My problem is that it continues to have no money!",1242221356
+606840,comment,606707,606741,0,0,ph0rque,,,"Thanks for the styleshout reference... very helpful.",1242221326
+606839,comment,606639,606639,0,0,ojbyrne,,,"It's probably appropriate to call it the Newspaper Bailout No. 2:
+<a href=""http://en.wikipedia.org/wiki/Joint_operating_agreement"" rel=""nofollow"">http://en.wikipedia.org/wiki/Joint_operating_agreement</a>",1242221275
+606838,comment,606801,606801,0,0,sant0sk1,,,"Whoops I linked to the ""more"" section instead of the direct permalink. You'll have to scroll up to read the whole post. Sorry.",1242221267
+606837,comment,606779,606809,0,0,ulf,,,"Also one of the things to keep in mind is that the offense usually adapts pretty quickly, since there are very effective measures againts any kind of press. So in general you do not play press for long stretches at once, if you are going against someone at least your own strength. Mixing in the press for little spurts though, is generally a good help, if properly executed.",1242221228
+606836,comment,606639,606730,0,0,Radix,,,"Other than the bit about tax breaks in New York and being too zealous in support of China it doesn't look all that bad.  What did you expect.<p>Everything at the end about tax havens and loop holes is no matter.  Either he's doing something illegal and the government should do something, or the law needs to be changed.<p>Edit: changed 'someone' to 'the government'.",1242221223
+606835,comment,606651,606651,0,0,johnbender,,,"As lame as it sounds, I would be supremely happy to be a victim of success like that",1242221183
+606834,story,,,39,13,chaostheory,"ACLU sues over patents on breast cancer genes",http://www.cnn.com/2009/HEALTH/05/12/us.genes.lawsuit/index.html,,1242220943
+606833,story,,,2,0,sy11,"Ask HN: Is there a HN like site for semiconductor/telecom segment?",,"I was wondering if there is 'user-driven' and 'clean' news website like HN for semiconductor/telecom/communications/embedded technology segment?<p>EEtimes/embedded systems design is not user-driven and updates about once a month. Technology categories in topix.com or digg.com are not as clean (crowded by ads) and also there is not enough coverage on low-level details (programming ideas, specific details on standards, new chip architectures etc)",1242220906
+606832,comment,606619,606619,0,0,pmarin,,,"If you have curiosity, many of these ideas are implemented in Arc:<p>Macros for generating HTML: <a href=""http://arcfn.com/doc/html.html"" rel=""nofollow"">http://arcfn.com/doc/html.html</a><p>Closures Simulate Subroutines: <a href=""http://arcfn.com/doc/srv.html"" rel=""nofollow"">http://arcfn.com/doc/srv.html</a>",1242220871
+606831,comment,606664,606784,0,0,pp,,,"Shouldn't there NOT be 200-line methods in the first place?",1242220575
+606830,story,,,40,1,Anon84,"Success & Motivation",http://blogmaverick.com/2009/05/13/success-motivation/,,1242220561
+606829,comment,606719,606719,0,0,gaius,,,"Developers: manipulate the state of bytes in a text file<p>Admins: manipulate the state of bytes in a running system",1242220535
+606828,comment,606519,606585,0,0,Harkins,,,"<a href=""http://www.paulgraham.com/submarine.html"" rel=""nofollow"">http://www.paulgraham.com/submarine.html</a>",1242220489
+606826,story,,,3,0,transburgh,"At Start-Ups, Boards Spar Over Cash Plans",http://online.wsj.com/article/SB124209156619609281.html,,1242220487
+606824,comment,601903,601903,0,0,wallflower,,,"This just occurred to me: Frankenstein by Mary Shelley",1242220405
+606823,comment,605938,605967,0,0,strider24,,,"Its far more difficult to organize in a different country. I was surprised to see it being held in London.<p>PS. I live in Bangalore",1242220394
+606822,comment,606721,606721,0,0,pierrefar,,,"Text of the decision: <a href=""http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/745&format=HTML&aged=0&language=EN&guiLanguage=en"" rel=""nofollow"">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/0...</a>",1242220333
+606821,comment,606506,606709,0,0,DLWormwood,,,"Hacker News doesn't support the full Markdown spec; only a couple of the more <i>common</i> features...",1242220274
+606820,comment,606457,606457,0,0,nor-and-or-not,,,"Tried to add my note to the post, but it seems to be moderated. So here's my comment:<p>Well, here's another - due to lack of time unfinished - Bloopsaphone tune of mine. It's called ""warp-o-mat"", which grew out of a test of my FX commands implementation:<p><a href=""http://gist.github.com/110939"" rel=""nofollow"">http://gist.github.com/110939</a>
+<a href=""http://freQvibez.net/music/warp-o-mat.mp3"" rel=""nofollow"">http://freQvibez.net/music/warp-o-mat.mp3</a><p>Oh, and here's a mp3 of Cheeky Drat, without distortion:
+<a href=""http://freQvibez.net/music/cheeky_drat.mp3"" rel=""nofollow"">http://freQvibez.net/music/cheeky_drat.mp3</a>",1242220181
+606819,comment,606639,606796,0,0,gaius,,,"If the government even gets to say who the press <i>is</i> then the door is wide open to corruption. You don't - and shouldn't - need any interaction with or permission or support from the government <i>at all</i> to publish. Those that do cannot help but be beholden if not to the present government then at least to the principle of a state-sanctioned press. That's Communism.",1242220161
+606817,comment,606669,606669,0,0,csomar,,,"i didn't find a good tool that record my online stuff, delicious, su and digg are mostly commercial and don't help do that.<p>I use emails by sending and featuring a note, but it depends in the situation, sometimes i save in delicious, sometimes in my browser and sometimes in a txt file",1242220116
+606816,story,,,1,0,gibsonf1,"EU slaps a record fine on Intel",http://news.bbc.co.uk/2/hi/business/8047546.stm,,1242220069
+606815,comment,606201,606799,0,0,tjic,,,"Agreed.  Great book.",1242220059
+606814,comment,606363,606745,0,0,randallsquared,,,"However, for PHP, we really didn't need the indication. :)  I use PHP every day, though, and it gets the job done.",1242219963
+606813,comment,606524,606524,0,0,Silentio,,,"I think they've taken away one of their best features.  This goes to show that very often people and organizations do not understand what makes their product great, something budding startup starters on HN would be wise to consider.  One must be mindful of even (or maybe especially) the small things that give your product heart.",1242219957
+606812,story,,,106,11,lrm242,"Steve Blank: Gravity Will be Turned Off",http://steveblank.com/2009/05/13/gravity-will-be-turned-off/,,1242219911
+606811,comment,606524,606565,0,0,rufo,,,"Another solution is to use a Twitter client that lets you easily view entire conversations.",1242219893
+606810,story,,,1,0,gibsonf1,"Antitrust eyes turn toward Google",http://thehill.com/leading-the-news/antitrust-eyes-turn-toward-google-2009-05-12.html,,1242219856
+606809,comment,606779,606779,0,0,jnorthrop,,,"As I understand it the full court press isn't used all of the time because it has a tendancy to leave the defending basket more vulnerable once the opponent manages to get the ball down the court (some of the defending players are still down towards the other basket).<p>This applies in business as well. Sometimes its best to defend your core business (your basket) tightly and let the competition have its way on the outskirts (their side of the court) of what is important to you. You can't always be defending everything all at once. I guess it boils down to how you manage risks.",1242219670

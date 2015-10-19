@@ -1,0 +1,39 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+78611,comment,78572,78598,0,0,mechanical_fish,,,"There's also a graphical installer for MySQL that works on the Mac. Apparently it hasn't been updated for Leopard yet, but it will be along.<p>Another effortless way to get MySQL installed is to use MAMP, which also gives you an independent Apache with mod_php and some admin tools.<p>I wouldn't know whether or not Mark's catty complaint about automated MySQL security updates on the Mac is valid. I don't sweat MySQL security on my Mac, because it's just for development. I don't run public-facing Mac servers -- I run Linux servers, just like everybody else. MySQL is one of the few Linux killer apps, and it's developed on Linux; of <i>course</i> its support on Ubuntu is first-rate.
+",1194843006
+78610,comment,78363,78363,0,0,maurycy,,,"I feel sad when I have to click ""new"" to find such interesting links, and the top ten is about the dancer's illusion, relaxation and pattern matching in Ruby.<p><here goes your favorite whining about redditization of the Hacker News>",1194842970
+78609,comment,78569,78569,0,0,maurycy,,,"Rather unlikely to happen because:<p><a href=""http://www.cs.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf"" rel=""nofollow"">http://www.cs.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf</a><p>Quoting the abstract:<p>Learning to program is notoriously difficult. A substantial minority of students fails in every 
+introductory programming course in every UK university. Despite heroic academic effort, the 
+proportion has increased rather than decreased over the years. Despite a great deal of research 
+into teaching methods and student responses, we have no idea of the cause. 
+It has long been suspected that some people have a natural aptitude for programming, but 
+until now there has been no psychological test which could detect it. Programming ability 
+is not known to be correlated with age, with sex, or with educational attainment; nor has it 
+been found to be correlated with any of the aptitudes measured in conventional 'intelligence' or 
+'problem-solving-ability' tests. 
+We have found a test for programming aptitude, of which we give details. We can predict success 
+or failure even before students have had any contact with any programming language with very 
+high accuracy, and by testing with the same instrument after a few weeks of exposure, with 
+extreme accuracy. We present experimental evidence to support our claim. We point out that 
+programming teaching is useless for those who are bound to fail and pointless for those who are 
+certain to succeed. 
+",1194842807
+78608,comment,78472,78573,0,0,tel,,,"Tai Ji is incredible in my experience, but it does take a lot of initial investment.",1194842799
+78607,comment,78468,78563,0,0,slashcom,,,"I'd say there are really only two reasons that have stopped widespread adoption of PNG:<p>1. The file sizes can be rather large (less of a problem these days)<p>2. IE6 improperly displays PNG alpha (This is big one).<p>Even the ""IE7"" javascript hack (<a href=""http://dean.edwards.name/IE7/"" rel=""nofollow"">http://dean.edwards.name/IE7/</a>) didn't really catch on.",1194842753
+78606,story,,,1,0,maurycy,"Facebook: Marketers Are Your 'Friends'",http://www.businessweek.com/technology/content/nov2007/tc2007116_289111.htm?chan=technology_technology+index+page_internet,,1194842564
+78605,comment,78498,78498,0,0,neilc,,,"> So I still don't know of a single example of an exclusive platform that worked.<p>Really? Not a <i>single</i> example? How about iTunes Music Store (and/or the iPod), as well as the vast majority of gaming consoles?",1194842452
+78603,comment,78572,78572,0,0,mechanical_fish,,,"I guess we now know why Mark didn't switch to Gentoo.<p>
+",1194842407
+78602,story,,,2,0,maurycy,"Will Success, or All That Money From Google, Spoil Firefox?",http://www.nytimes.com/2007/11/12/technology/12link.html?ex=1352523600&en=b238fd143b093e4c&ei=5090&partner=rssuserland&emc=rss,,1194842313
+78601,story,,,2,1,maurycy,"Google Options Put Masseuse in Crowd of Multimillionaires",http://www.nytimes.com/2007/11/12/technology/12google.html,,1194842238
+78600,comment,78472,78472,0,0,nextmoveone,,,"I was really wondering why my teeth were shifting!!",1194842184
+78599,comment,78589,78589,0,0,mynameishere,,,"They have to make sense or there's no point. Make a python script that can do that.",1194842167
+78598,comment,78572,78572,0,0,dyu,,,"You can also install macports (or something similar) on the mac and then it will be same as the Ubuntu way.",1194842009
+78597,story,,,29,3,hhm,"Everything I Learned at MIT",http://edboyden.org/sb1/,,1194841956
+78596,story,,,1,0,hhm,"Albert Einstein: ""Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?""",http://prola.aps.org/abstract/PR/v47/i10/p777_1,,1194841909
+78595,comment,78576,78576,0,0,gscott,,,"I was wondering what they might be doing buying manure... but after clicking on the link I see it is Sprint.",1194841729
+78594,story,,,31,32,hhm,"Existential Depression in Gifted Individuals",http://www.giftedbooks.com/authorarticles.asp?id=7,,1194841701
+78593,story,,,2,0,hhm,"The Notebooks of Leonardo da Vinci",http://www.fromoldbooks.org/Richter-NotebooksOfLeonardo/,,1194841687
+78592,story,,,1,0,amichail,"The death of computing",http://www.bcs.org/server.php?show=ConWebDoc.9662,,1194840741
+78591,story,,,1,0,jimkonandreas,"From Metrics to KPIs",http://softwarejim.blogspot.com/2007/11/from-metrics-to-kpis.html,,1194840635
+78590,comment,78570,78570,0,0,amalcon,,,"As I said the previous time it was posted (the url you posted was to the dupe), it is just badly rendered.  A badly rendered image is not going to have any special predictive power about mid-level brain functions, especially since the information that's extracted (clockwise vs. counterclockwise) makes no sense in this context.<p>Spinning is neither clockwise nor counterclockwise unless you are looking along its axis of rotation.  In that image, we're looking perpendicular to the axis of rotation.",1194840182

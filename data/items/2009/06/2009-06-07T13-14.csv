@@ -1,0 +1,63 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+645904,comment,645388,645388,0,0,michaelawill,,,"Sometimes I feel inferior to those that went to school at all. But then it passes and I realize I have no loans to pay back.",1244382864
+645903,story,,,11,8,maccman,"Creating a Startup - Choosing a Company Type",http://leadthinking.com/63-creating-a-startup-choosing-a-company-type,,1244382818
+645902,comment,644956,645241,0,0,karlgluck,,,"Ah, that makes sense.  Thanks for the explanation.",1244382684
+645901,comment,645178,645796,0,0,Estragon,,,"There are two aspects to this.  Firstly, postmodernism hardly concerns itself with venturing into scientific arenas at all.  The endeavors which Sokal <i>et al.</i> deride are not representative of postmodernism as a whole.<p>Secondly, while I haven't read the papers from which Sokal <i>et al.</i> take their examples, and don't know what they were about, I am certain that they're not trying to contribute to scientific knowledge in any conventional sense.  I gather from a friend who studies this stuff that Irigaray was playing with the language of scientific discourse in some way.  I haven't looked into it further.  Some of the stuff Sokal derides certainly deserves it.  One of his examples is where Irigaray's work is used to justify sloppy thinking about feminism in science education.  That is definitely problematic and deserves to be dismissed out of hand.  But generally speaking, Sokal picked out these quotes without clearly explaining their context and intent, and that seems problematic, too.",1244382613
+645900,comment,645222,645813,0,0,axod,,,"More specifically, something like this, will add kinda functional downmod arrows:<p><pre><code>  // Find all <a> links with an id of up_* then add a downmod arrow which upvotes everything apart from this article on the page.
+	
+  var links = document.getElementsByTagName(""a"");     // Look at all links...
+	
+  for (var i=0;i<links.length;i++) {
+    var alink = links.item(i);
+    if (alink.id.substring(0,3)==""up_"") {
+	        // We found one...
+            
+    var downer = document.createElement(""a"");
+    var img = document.createElement(""img"");
+    img.src = ""/graydown.gif"";
+    img.style.border = ""0"";
+    downer.appendChild(img);
+    alink.parentNode.appendChild(document.createElement(""br""));
+    alink.parentNode.appendChild(downer);
+    downer.href = ""#"";
+    downer.onclick = function(n) {
+        return function() {
+            downmod(n);
+        }
+    }(alink);
+  }
+
+  // Downmod by upvoting everything else...
+  function downmod(node) {
+    var links = document.getElementsByTagName(""a"");     // Look at all links...
+	
+    for (var i=0;i<links.length;i++) {
+      var alink = links.item(i);
+      if (alink.id.substring(0,3)==""up_"") {
+        // We found one...
+        if (alink!=node) vote(alink);               // Vote for it...
+      }
+    }
+  }</code></pre>",1244382522
+645899,comment,645824,645824,0,0,jerryji,,,"Reminds me of the rice paddy chapter in the Outliers, and to me they are equally not very scientific.",1244382500
+645898,story,,,1,0,adw,"Classified information: why newsprint doesn't pay in the USA",http://byline.timetric.com/2009/06/07/classified-information-why-newsprint-doesnt-pay-in-the-usa/,,1244382442
+645897,comment,645362,645362,0,0,stcredzero,,,"Perhaps competition is good because it is a framework for criticism what tends to encourage continued effort and refinement, rather than discourage it.",1244382386
+645896,comment,645758,645884,0,0,ks,,,"The source code is available under the Apache License 2.0<p>Click the ""community"" link. You'll see the ""Open source"" header at the bottom of the page<p><a href=""http://code.google.com/p/page-speed/"" rel=""nofollow"">http://code.google.com/p/page-speed/</a>",1244382370
+645895,story,,,28,20,systems,"Is Linux ruining my chance at a good software engineering career?",http://stackoverflow.com/questions/193487/,,1244382347
+645894,comment,645824,645824,0,0,Matti,,,"After reading that column, read ""Logical Fallacies used to dismiss the evidence on intelligence testing"" by Linda S. Gottfredson. It's available here: 
+<a href=""http://www.udel.edu/educ/gottfredson/reprints/2009fallacies.pdf"" rel=""nofollow"">http://www.udel.edu/educ/gottfredson/reprints/2009fallacies....</a><p>Now, go back and re-read the New York Times piece.<p>How many fallacies did you notice?",1244382193
+645893,comment,645467,645619,0,0,Alex3917,,,"""A company looking for new hires can't give everyone a month-long trial to see what their ability is firsthand, so credentials like GPA and degree serve as a heuristic.""<p>This is just corporate propaganda. GPA has no correlation with work performance, it's only used because it's a legal way to keep minorities out of the workforce.",1244382062
+645892,comment,645000,645475,0,0,tayssir,,,"I don't think that's true. I know many people who work towards a classless society, which isn't segmented into groups with antagonistic interests. After all, no one believes in the class societies of the past, like under the pharoahs, feudalism, slavery; which took generations to overthrow. (And during those times, persuasive justifications were offered for those systems.)<p>I'm personally interested in Participatory Economics (Parecon for short), which is a model for a decentralized classless economy, which offers properties that I think many people want from their economic system.
+<a href=""http://en.wikipedia.org/wiki/Participatory_economics"" rel=""nofollow"">http://en.wikipedia.org/wiki/Participatory_economics</a>",1244381912
+645891,comment,645388,645860,0,0,notauser,,,"Every time I apply for a job, my engineering degree cuts out two or three annoying questions (which they might not even bother to ask before throwing my CV away).<p>I'm thinking about moving to Hong Kong. A masters degree makes immigration trivial.<p>Sometimes I find that an interesting problem is related to something I studied in college and so I know where to start.<p>When I meet the parents of the girls I date I start with a few extra points of reputation in hand.<p>Each time I sit more professional exams the whole process is well within my comfort zone so I can concentrate on the material rather than stress about the outcome.<p>Not a bad investment if you ask me - although no one has asked me where I went to school in years either.",1244381710
+645890,comment,645178,645525,0,0,Estragon,,,"<i>what's the problem with [2]?</i><p>It tries to draw conclusions about the relative divergence times of different genes based on degrees of sequence similarity.  This evidence is extremely weak, as there are much more likely explanations for the observed patterns of sequence variation, such as a shift in the selection pressure on a gene down the chimp/human lineage, for instance.  Despite this weakness, they chose to highlight the sensational conclusion that human and chimp ancestors must have swapped genes through mating long after the presumed speciation time.  This was irresponsible, because it caused a widespread public sensation when the paper came out.<p><i>it seems pretty harsh to lump it together with [1]...</i><p>I'm not lumping them together.  The common characteristic is that they're both garbage.  The conclusion of [2] is a subtler form of it but not to an evolutionary scientist: the problem with it was immediately obvious to me and many others as soon as it came out.  And it's a more serious corruption of scientific discourse because it's a <i>Nature</i> article.  The data the analysis was based on has merit, though.",1244381514
+645889,comment,645362,645362,0,0,CrLf,,,"The ability to immediately see what's wrong with things can be useful, but can also be dangerous. It's the stuff that obsessions are made of, if left unchecked.<p>Where computers are concerned, I agree that people have a tendency to ignore the flaws. And I guess that's because they find computers enough of a nuisance already, if they started paying attention to what's wrong with them, they would find that they cause more problems than they solve.<p>I have submitted countless bug reports, often in the first few days of usage. And I have stopped using some software for the sole reason that their creators didn't pay enough attention to fixing bugs.<p>I can certainly identify with the author's premise. But I think this is more that just seeing what's wrong with stuff: it's more about knowing that perfection can't be reached, but not because we didn't point out what needs to be done to reach it.",1244381354
+645888,story,,,1,0,gibsonf1,"Chrysler Creditors Ask U.S. Justice to Stop Fiat Sale",http://www.bloomberg.com/apps/news?pid=20601087&sid=aqiTT6yxgHSE&refer=worldwide,,1244381211
+645887,comment,644218,644218,0,0,hyposave,,,"As a programmer it does make me rethink the interface design concept. I really liked the whole timed button idea where you need to leave the mouse pointer on a button for a few seconds while a progress bars slowly activate the button. That could be a step towards elimanating spam or drunk emails.",1244380799
+645886,comment,643207,643845,0,0,spyrosk,,,"In my opinion they have stopped making games like these and the only ones that escape are the exception to the rule. It's not like i am a hardcore oldies fanatic, i still play games, although less frequently compared to 10 years ago.
+I can find two reasons that led to this situation.<p>First, the transformation of the game business to the game industry. Unlike the previous generation of game producers/studios today's dominant publishers are thinking strictly with economic terms. It used to be that someone would have a cool idea and he went ahead and make it reality. Just because he enjoyed it and thought it would be fun. The profit incentive probably was there, but it wasn't his main motivation. Today this is the main reason behind making a game. Take for example the number of mmo's, which are a very lucrative game type, that come out. They are a textbook example of a system designed specifically to hook the players into constantly spending money for their leisure. The same case is with sequels. Take the same proved recipe for success, rearrange/change a few elements in it and relaunch it as a (seemingly) new concept.<p>The second reason is that the gamers community and culture has changed. It went mainstream a few years ago and that changed it forever. When I first noticed that I felt sorry for the majority of new players who, influenced by the gaming related media, started focusing more on graphics, short term and easy satisfaction that on the game as a whole (storyline and gameplay included). Today's gamers don't like to think that hard and even if they do, virtually they have no choice. It's all about getting a quick fix of adrenaline/enjoyment, Hollywood action film-like, compared to having that feeling of satisfaction when you finish a good book. The fist is simple, short term, and essentially you gain nothing from it. The second one, although it requires more dedication, engages your mind and makes you actually investigate/ponder it's arguments, ideas etc. If you can't relate to that think of the quality of posts included here compared to those on reddit. (Although i am a relatively new member here i am able to make the comparison).<p>Just my two cents on the matter.
+(Sorry if some of my points aren't clear enough, English is not my primary language)",1244380761
+645884,comment,645758,645758,0,0,Harkins,,,"This headline is unsupported. The link goes to a download page with no source code, vcs, or mention of an open source license.<p>I think it would be better titled ""released"", in which case it's a dupe.",1244380369
+645883,comment,645178,645306,0,0,silentbicycle,,,"Using magical thinking to reason about scientific phenomena sounds just as out of place as using the scientific method to judge art.",1244380311
+645882,comment,645388,645536,0,0,ovi256,,,"Upmod, but you should feel inferior for not thinking, not for not coding. You are not a code monkey, but a thinking problem solver, whatever your label is (engineer, scientist, technician, CEO, whatever).<p>That remembers me Sir Popper wrote a book ""All of Life is Problem Solving."" Got to read it some time...",1244380146
+645881,comment,645388,645421,0,0,wglb,,,"Except for hillsdale college in Michigan which makes a point of taking zero government dollars for anything, including scholarships.  Not huge, but truly private. <a href=""http://www.hillsdale.edu/support/default.asp"" rel=""nofollow"">http://www.hillsdale.edu/support/default.asp</a>",1244379854

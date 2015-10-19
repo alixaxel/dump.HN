@@ -1,0 +1,158 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+451125,comment,451049,451049,0,0,axod,,,"You have your work cut out for you. There's a massive competitive market for getting customers opinions. The usual method is to pay them.<p>""Get paid to fill out surveys, try product samples, etc etc"" is big business.<p>I'd start with a handy feedback widget that small businesses can put on their websites. (If you haven't already got that setup)",1233007197
+451124,comment,450977,450977,0,0,pg,,,"A good illustration of the distinction between high production values and good design.",1233007167
+451123,comment,450962,450962,0,0,tokenadult,,,"An economist's reply to this might be that if there really are a lot of workplaces that are so full of invidious discrimination that they don't value talented employees, then other workplaces will gain a comparative advantage by hiring the disfavored kind of people.<p>On my part, I'd certainly rather work in a diverse workplace where I meet a lot of varied people than work through anonymized telecommuting in which I never meet co-workers in real life.",1233007160
+451122,comment,451049,451104,0,0,ucdaz,,,"We're not building another review. 
+It's a customer service site where you can leave a question, suggestion, discussion, praise, or issue for the small business. 
+The small business owner can sort by these posts and reply to the thread.<p>We even mail your feedback on postcards for unclaimed businesses on FeedbackJar.<p>Think of us as Getsatisfaction.com for small businesses.",1233007130
+451121,comment,450702,451087,0,0,tptacek,,,"Uh, hello? Venkman: ""Back off, man! We're scientists!""<p>Also, didn't they give props to a Dem mayor of NYC?",1233007119
+451120,comment,450408,450408,0,0,glow,,,"Depends what I'm working on. Often I enter the flow and become engrossed in what I'm doing and at that point, the surroundings become totally unimportant.<p>Then, of course, there's the other times when I play a flash-game 2 hours straight..",1233007003
+451119,comment,447435,448316,0,0,dmm,,,"Ha, I agree with you, really. Reality is crufty and getting things done involves compromise.<p>Still, I think there is value in studying other ways of doing things. For example, my studies of Plan 9 introduced me to CSP, erlang style concurrency, which is a great way to structure some types of programs.<p>And don't forget that some problems can only be solved by introducing simplicity at some level. For example, google achieved high levels of reliability and scalability by using a simpler computational model: map-reduce.",1233006999
+451118,comment,450997,451108,0,0,Jd,,,"Send me an email and I can send you some simple diagrams.",1233006979
+451117,story,,,2,1,hermitcrab,"Marketing software through affiliates",http://successfulsoftware.net/2009/01/26/marketing-software-through-affiliates/,,1233006949
+451116,comment,450997,450997,0,0,tokenadult,,,"If you can filter out trolls, sign me up.<p><i>I conceive of this as primarily a project to increase the aggregate intelligence of the world</i><p>I can introduce you to a very valuable network of participants for that who have already been talking to me about forming new online communities. If you'd like to seed your project with a bunch of people who meet that goal, contact me through my HN profile.",1233006935
+451115,comment,451088,451088,0,0,seraph321,,,"OLED screens that either fold, or roll up, could free us from the tiny-screen limitations of current mobile devices. These are supposedly very close to reality. The next step is lasers that just draw the image directly on the retina, but that's a bit further down the road.",1233006931
+451114,comment,450926,450926,0,0,nopassrecover,,,"ASP.NET annoys me so much with leaky abstractions BUT ASP.NET MVC is the best thing since PHP.",1233006929
+451113,comment,450702,450702,0,0,Setec_Astronomy,,,"Not all are hacker movies per se, but these have great general geek appeal:<p>Existenz  <a href=""http://us.imdb.com/title/tt0120907/"" rel=""nofollow"">http://us.imdb.com/title/tt0120907/</a><p>Cube  <a href=""http://us.imdb.com/title/tt0123755/"" rel=""nofollow"">http://us.imdb.com/title/tt0123755/</a><p>The Nines <a href=""http://us.imdb.com/title/tt0810988/"" rel=""nofollow"">http://us.imdb.com/title/tt0810988/</a><p>The World's Fastest Indian  <a href=""http://us.imdb.com/title/tt0412080/"" rel=""nofollow"">http://us.imdb.com/title/tt0412080/</a><p>October Sky  <a href=""http://us.imdb.com/title/tt0132477/"" rel=""nofollow"">http://us.imdb.com/title/tt0132477/</a><p>Three Days of the Condor  <a href=""http://us.imdb.com/title/tt0073802/"" rel=""nofollow"">http://us.imdb.com/title/tt0073802/</a>",1233006888
+451112,comment,450960,450960,0,0,rickd,,,"I'm generally opposed to the bailout in its current (and previous) form- but if you look at the facts, this MIGHT actually end up saving the company some money...<p>Sure, they get a new jet out of it and that leaves a bitter taste in everyone's mouth- and sure, it might not be ""right"" or ""fair"" in everyone's minds - but it's simple math.<p>Buy one jet for 50mil, sell 2 older jets for 27mil - make a small profit of 4 million and only carry the maintenance/fuel/crew costs of one jet instead of two.<p>Personally, I think they could probably do without ANY corporate jets, or probably COULD just sell one old jet and keep the other...",1233006868
+451111,comment,450356,450502,0,0,coryrc,,,"""it just works"": Asus EEE PC<p>However, unless you are a kernel developer, if you are recompiling the kernel or sound drivers, you are working against the system and making life harder on yourself.<p>There's a small glitch in newer versions of X.org that (until recently) didn't allow proper dual-screens on Radeon cards. I didn't remove the debian package, download the newest X.org CVS, and compile my own version. I just reverted the package and pinned it until I felt like upgrading it. Hell, there wasn't any reason to upgrade in the first place, so that was the first mistake.<p>If you ever have to compile something you are either not using a modern distro (Debian, Ubuntu, and, I presume, Fedora) or are using the same techniques that were required in the 1990s but are just bad habits today (I learned this the hard way).",1233006817
+451110,comment,450702,450702,0,0,aditya,,,"More sci-fi than pure tech, I just saw: 
+""The man from earth"", <a href=""http://www.imdb.com/title/tt0756683/"" rel=""nofollow"">http://www.imdb.com/title/tt0756683/</a><p>Highly recommended.",1233006814
+451109,comment,450886,451044,0,0,nihilocrat,,,"Make an editor which will randomly color-code each set of parentheses such that they or their background is in a set of colors which don't appear as other keywords (like function defs or strings or whatever) so as not to add confusion. You now have a way of more easily seeing every matching pair of parens without having to hover over each one. However, now you have to deal with a strange assortment of colors on your screen.<p>Oh wait, you can just use a gradient of colors instead of random ones, with the more-nested paren pairs having colors farther in on the gradient. Silly me.",1233006803
+451108,comment,450997,451103,0,0,tokenadult,,,"<i>When I've presented this privately I've used a lot of diagrams</i><p>I would find your presentation appealing, then. I like to think about structures of organizations or systems visually.",1233006801
+451107,comment,450997,451102,0,0,Jd,,,"Build a new usenet with a social networking backend, where each group exists semi-independently and has its own mechanism for data filtration.",1233006744
+451106,comment,450702,450702,0,0,prakash,,,"no wonder the netflix prize is such a <i>hard problem</i>.",1233006737
+451105,comment,450965,450965,0,0,run4yourlives,,,"From that article, all I can gather is that it accelerates lock-in.",1233006708
+451104,comment,451049,451049,0,0,TooMuchNick,,,"Po Bronson's book ""The Nudist on the Late Shift"" says that CitySearch cold-called all kinds of businesses in every city it launched in. Have you read enough articles about Yelp to see if they did the same?<p>Incidentally, how do you plan to win people over when they're already on Yelp? I'm confused about what value you add that they don't.",1233006705
+451103,comment,450997,451053,0,0,Jd,,,"When I've presented this privately I've used a lot of diagrams and often had folks sign non disclosure agreements. I'm not sure I can describe the group dynamics I am hoping to capture without that.<p>Have you read E.O. Wilson?  It is something like how ants come together, except humans.  Hence, more complicated.",1233006569
+451102,comment,450997,451053,0,0,run4yourlives,,,"Exactly, too many fancy words, not enough action words.<p>One sentence, WTF do you intend to do?",1233006511
+451101,comment,450972,450972,0,0,glow,,,"Thanks a lot for the comments.<p>As I read through some of the comments, I see that my arch-nemesis ""time management"" probably is one the reasons I'm sweating over this. Using the right amount of spare time effectively and letting it take it's time is probably key, but oh so hard to do.<p>You've given me good food for thought, thanks!",1233006472
+451100,comment,450997,451092,0,0,Jd,,,"I'm spread a bit too thin to be a technical genius, like some others I've met here and there. Besides, I like the people side of the business and would like to spend more time on that end.",1233006460
+451099,comment,451049,451064,0,0,TooMuchNick,,,"If I'm not already excited to join the site, would I be excited about volunteering for it?",1233006455
+451098,comment,450948,450948,0,0,andr,,,"FYI IE 8 is already in Windows 7.",1233006434
+451097,comment,450810,451083,0,0,fsav,,,"Think we could collaborate on this? I thought about doing this we either Django or Drupal, but as you seem to favor Django, that'd be fine with me! Anyway I wasn't planning on doing this as a startup (ie. profit driven), but rather as a community project.<p>We could brainstorm a bit about it, perhaps have others join us in doing so.",1233006409
+451096,story,,,1,0,transburgh,"New Zealander buys used MP3 player, finds classified US Army files in like-new condition",http://www.engadget.com/2009/01/26/new-zealander-buys-used-mp3-player-finds-classified-us-army-fil/,,1233006067
+451095,comment,450977,450977,0,0,jayair,,,"Is there something about flash+FF that makes my MacBook go crazy?",1233006064
+451094,story,,,21,6,nihaar,"Innovate Like Chris Rock",http://blogs.harvardbusiness.org/cs/2009/01/innovate_like_chris_rock.html,,1233006057
+451093,comment,450886,451044,0,0,rincewind,,,"Yes.<p><a href=""http://tinyurl.com/ct3xyb"" rel=""nofollow"">http://tinyurl.com/ct3xyb</a><p><a href=""http://www.dwheeler.com/readable/"" rel=""nofollow"">http://www.dwheeler.com/readable/</a>",1233006046
+451092,comment,450997,451053,0,0,blurry,,,"Second above, plus - you are a web developer coding in RoR, you've studied comp sci, you went to a prestigious college and have numerous connections to venture capital, yet you are looking for a more solid CTO? Something  just doesn't compute :)",1233006006
+451091,comment,450702,450791,0,0,aduk98,,,"I still recall a guy 2 rows in front of me in the cinema stood up and shouted, somewhat uncontrollable, ""YEAH!"" when he saw the Trinity (actual) hack in the Matrix reloaded (<a href=""http://www.theregister.co.uk/2003/05/16/matrix_sequel_has_hacker_cred/"" rel=""nofollow"">http://www.theregister.co.uk/2003/05/16/matrix_sequel_has_ha...</a>). LOL.",1233006006
+451090,comment,450886,451085,0,0,icey,,,"""<i>As of r1232, lambdas created in eval can be GCed.</i>""<p>- Comment from cgrand at the bottom of the article.",1233005985
+451089,story,,,2,0,aak,"Web Trend Tracking Tools",http://traffikd.com/resources/trend-tracking-tools/,,1233005939
+451088,story,,,1,4,TooMuchNick,"Ask HN: iPhones are mundane. What's the new grail?",,"I'm writing a comedy about startups, and I need to invent a feasible portable technology that could appear in a couple of years. But the iPhone made such a qualitative change to what people could do while standing on a sidewalk, all I can think of is a hands-free voice-activated search device. And that seems more like a ten-years-out technology.<p>To be honest, I'm probably gonna go with the above idea, but now I'm wondering: is there any handheld/wearable device that's so close we can taste it?",1233005930
+451087,comment,450702,450804,0,0,scott_s,,,"It's also very much a product of the Reagan era: the bad guys are the scientists, academia and the EPA.",1233005903
+451086,comment,450926,450926,0,0,icey,,,"Microsoft has done a lot of things wrong in terms of its various software offerings. Visual Studio is one of the things that they have done a pretty good job on though.<p>Asp.net is also very attractive to the legions of .Net developers who may not have much exposure to the web way. It mostly abstracts web interactions away, so that it's not a huge leap to go from client/server applications to web apps.<p>Sure, there is a lot of code in the final result, but the IDE helps automate a lot of that, and in combination with ReSharper, it's not a bad environment to work in.",1233005875
+451085,comment,450886,450886,0,0,tlrobinson,,,"<i>""Lambdas are not garbage collected.<p>Yes. That means lambdas can be the cause of memory leaks.<p>As described by Charles Nutter, each lambda in Clojure is an anonymous class in Java. The problem is that classes are never garbage collected. They reside in a special place called the PermGen.""</i><p>I know very little about Clojure, but that seems like a <i>huge</i> problem for Clojure, and other functional-ish JVM languages. Is it?<p>I've used Rhino (JavaScript on JVM) extensively, and I don't think it suffers from this.",1233005869
+451084,comment,450702,450879,0,0,mixmax,,,"This one seems to be the real deal, I'm downloading it now, and I saw Robert X. Cringely in the preview.",1233005801
+451083,comment,450810,450810,0,0,aneesh,,,"I think this is an interesting idea.<p>I decided to throw together a quick-and-dirty webapp for this purpose, inspired by an HN post (<a href=""http://news.ycombinator.com/item?id=426127"" rel=""nofollow"">http://news.ycombinator.com/item?id=426127</a>).  I'm taking a little detour & learning Python & Django along the way.  I'll submit it here when I have a reasonable prototype ready, maybe in a week or two.",1233005799
+451082,comment,451049,451064,0,0,noodle,,,"depends on how the site works and how you want it to work, as well as its goals.<p>simple bribery works wonders, sometimes, if your intent is to build quick content, such as entering in the top, as defined by you, X users into some sort of drawing for a prize.",1233005784
+451081,comment,450960,450960,0,0,tjic,,,"I love how the company wouldn't cooperate with the interview: ""Why should I help you if this information will hurt my company?"".<p>Here's a hint: if you're doing something that you're ashamed of, perhaps the right solution isn't to try (and fail) to keep it secret; perhaps the right solution is to NOT DO IT.",1233005753
+451080,story,,,3,1,Todd,"2009 Annual Letter from Bill Gates",http://www.gatesfoundation.org/annual-letter/Pages/2009-bill-gates-annual-letter.aspx,,1233005700
+451079,comment,451042,451042,0,0,ph0rque,,,"Misleading title: it should say, ""Richard Stallman sells <i>gnu</i> to Microsoft for CAD$105"" :~)",1233005686
+451078,comment,450408,450478,0,0,samlittlewood,,,"<a href=""http://blog.makezine.com/archive/2009/01/hack_lets_you_look_someone_directly.html"" rel=""nofollow"">http://blog.makezine.com/archive/2009/01/hack_lets_you_look_...</a>",1233005682
+451077,comment,450702,450702,0,0,imp,,,"Slightly off topic, but a good hacker TV show is ""Big Bang Theory"" on Monday nights on ABC.  It's about 4 physics PhD students at Cal Tech.<p>The best part is that they don't water down the physics at all.  One guy got dumped by his girlfriend because of their differing opinions on string theory.<p>I just got the season 1 DVD and it's great.",1233005671
+451076,comment,450972,450979,0,0,glow,,,"When I say ""slow down"" I don't mean quit my day job, but rather put it off for a couple of years. Quitting my day-job feels like a bad move, but if things start working out I might take a day off every week to work on my stuff.",1233005668
+451075,comment,450669,450669,0,0,avner,,,"This article is mere speculation. However, It would help if someone from Google said something about Grandcentral's future considering the service has gone nowhere in a long time.",1233005590
+451074,comment,448780,450916,0,0,noel_gomez,,,"lol, tell me about it, I was just offering to partner up, he helps me build an app from which we could potentially both benefit and he gets the experience he is looking for along the way.",1233005583
+451073,comment,450486,450797,0,0,timr,,,"Could you be a little more condescending?  It's possible to state your opinion without questioning the competence of the person with the opposing view.<p>If you're going to claim that H1B employees are critical for making companies better at producing their products, it would be nice if you were to back up that assertion with something other than ideology and theory.  I used only one counter-example (one of the largest H1B employers in the nation, not to mention the subject of the article), but it directly refutes the theory that cheap employees make products cheaper and better.<p>We don't live in a free market.  Any theory predicated on that assumption is wrong.",1233005570
+451072,comment,450702,450864,0,0,bd,,,"In the Shadow of the Moon<p><a href=""http://www.metacritic.com/film/titles/shadowofthemoon"" rel=""nofollow"">http://www.metacritic.com/film/titles/shadowofthemoon</a>",1233005556
+451071,comment,450702,450702,0,0,ardit33,,,"5th Element, I think is the ultimate guy/hacker movie.  Disutopian reality, future, flying cars, spaceships, tech and gadgets, weapons, awesome soundtrack, action, funny, love story, and hot chicks...<p>What do you want more from a movie?",1233005519
+451070,comment,450899,450899,0,0,tolmasky,,,"Don't talk like a Californian eh?... Unless his interviews involve people telling him, a ""dude"", how the surf is ""up"" and how ""radical"" their new product is, I'm not really sure what he's talking about.",1233005510
+451069,comment,450702,450702,0,0,aduk98,,,"There was a sort of 'unofficial' 'hackers 2' with Skeet Ulrich playing Kevin (""My kung-fu better than you kung-fu!"") Mitnick in Takedown (<a href=""http://www.imdb.com/title/tt0159784/"" rel=""nofollow"">http://www.imdb.com/title/tt0159784/</a>) - the story following the book of the same name by Tsutomu Shimonura. Also, I think they recently screened 'Wargames 2 : the dead code' (<a href=""http://www.imdb.com/title/tt0865957/"" rel=""nofollow"">http://www.imdb.com/title/tt0865957/</a>) over here in the UK. Don't forget Tron! Ah.. just hearing the sounds of the video arcade at the beginning...",1233005470
+451068,comment,450853,450853,0,0,tlrobinson,,,"Amusingly Microsoft was forced to implement this in IE due to a patent infringement case: <a href=""http://en.wikipedia.org/wiki/Eolas"" rel=""nofollow"">http://en.wikipedia.org/wiki/Eolas</a><p>And it turns out some people <i>want</i> this as a feature.",1233005392
+451067,comment,450626,450745,0,0,whalesalad,,,"Hilarity. I got such a kick out of this. Adobe truly is crapping all over the place with their UI. I'm pretty sure it's still Carbon based on OS X. Why can't someone like Adobe with so many apps on Win and OS X spend some time to build a really strong -- or even adopt -- front-end framework. CS4 is utter crap, thankfully I didn't purchase it. CS3 was enough of a let down, and I paid quite a few hundred dollars for that.",1233005386
+451066,comment,450702,450702,0,0,davidw,,,"Not a movie but ""The Adventures of Brisco County Jr."" is great fun, and is available on DVD.  There's something kind of hackerish about it.",1233005358
+451065,story,,,2,0,creynolds,"Follow This 7-Step Approach to Good Writing.",http://edbarr.blogspot.com/2009/01/follow-this-7-step-approach-to-good.html,,1233005305
+451064,comment,451049,451055,0,0,ucdaz,,,"Incentives like giving early adopters a better chance to become administrators?",1233005210
+451063,comment,451038,451038,0,0,brk,,,"Wow, there are about 197 companies that are going to end up seriously disappointed...",1233005202
+451062,comment,450702,450858,0,0,tlrobinson,,,"Swordfish did have a cool monitor setup, but he built a virus using some sort of graphical tool! I suppose that's a bit more exciting for most people than vi or something.<p>And, of course, there was the ""break into this system in 60 seconds while I hold a gun to your head and some woman gives you a blowjob"" scene. Hollywood...",1233005171
+451061,comment,450930,450930,0,0,anuraggoel,,,"From the TOC, it looks like DIP3 is going to be even more fun to write and read than the original.",1233005133
+451060,comment,450886,450886,0,0,dreish,,,"In this thread:<p><a href=""http://markmail.org/message/axarlob7wwmnm2xe#query:clojure%20permgen+page:1+mid:axarlob7wwmnm2xe+state:results"" rel=""nofollow"">http://markmail.org/message/axarlob7wwmnm2xe#query:clojure%2...</a><p>Rich Hickey claims that the PermGen issue alleged in this article doesn't actually exist.  A new class is created every time a (fn) is compiled, but only a new instance of that class is created each time it is invoked.<p>The only thing that generates a new class each time it is called is (eval), which as we all remember from reading our PG, is generally regarded as suspect when used in production code.  Obviously you can see this effect at the Clojure REPL, however.",1233005120
+451059,comment,450930,451031,0,0,timf,,,"I always recommend Dive Into Python to people who already know some programming (if they're interested in Python).",1233005111
+451058,comment,450930,450930,0,0,amix,,,"Dive into Python was one of the first Python books I read. It's filled with small (and Pythonic) tricks, has excellent examples and great explanations. I especially like the simple way it's written. It made Python click for me.<p>I am looking forward for the successor.",1233005086
+451057,comment,450886,451044,0,0,dimitar,,,"Why don't you make your editor to paint them white and indent them?",1233005032
+451056,comment,450977,450977,0,0,GeoJawDguJin,,,"AAAAGGHHHH MY BROWSER",1233005031
+451055,comment,451049,451049,0,0,noodle,,,"incentives to try and help build the community.",1233004996
+451054,comment,450972,450972,0,0,axod,,,"Do it in spare time and see how it goes :)",1233004954
+451053,comment,450997,450997,0,0,rscott,,,"Honestly, I read through this a few times and I have no idea what in the hell it does. Maybe I just missed the ball, but I have no idea what your product would do. Buzzwords galore.",1233004953
+451052,comment,450930,451024,0,0,naish,,,"You could try Think Python: How to Think Like a Computer Scientist by Allen B. Downey.<p><a href=""http://www.greenteapress.com/thinkpython/thinkpython.html"" rel=""nofollow"">http://www.greenteapress.com/thinkpython/thinkpython.html</a><p>It is due to be published by Cambridge University Press under the title Python for Software Design.  The link above is for the same content, available for free.",1233004952
+451051,comment,450886,451044,0,0,icey,,,"Some of us prefer the parens.",1233004915
+451050,comment,450702,450782,0,0,dallasrpi,,,"A little more info - Traces the birth and failure of new media company govWorks.com<p>If you are or were part of a start-up company you will be entertained by this documentary.  It makes your head spin to see some of the mistakes and money this company goes through.  They hired literally hundreds of people for an idea that could now probably be run with a dozen people (most of them sales).",1233004823
+451049,story,,,21,29,ucdaz,"Ask HN: How would you launch a Yelp-like site?",,"Our application is kind of like Yelp, but it's  an online suggestion box for small businesses called FeedbackJar.com.<p>Think of us as getsatisfaction.com and uservoice.com but for small business.<p>We're getting ready to launch soon, just wondering if anyone on HN have any good launch ideas?",1233004800
+451048,story,,,1,0,fromedome,"Pogue: Google's GrandCentral not dead, version 2.0 ""imminent""",http://www.alleyinsider.com/2009/1/pogue-googles-grandcentral-not-dead-just-resting,,1233004785
+451047,comment,450930,451024,0,0,dlat,,,"there are a few... <a href=""https://bookmarks.sickos.org/tags/book+python"" rel=""nofollow"">https://bookmarks.sickos.org/tags/book+python</a>",1233004736
+451046,comment,450702,450702,0,0,tom_rath,,,"The Dam Busters (1955 - <a href=""http://www.imdb.com/title/tt0046889/"" rel=""nofollow"">http://www.imdb.com/title/tt0046889/</a> ) is excellent.  You can see real-world examples of the hacker problem-solving mindset right from the start of the movie and it continues on throughout.<p>(PC Warning:  One of the main characters has an unfortunately named black dog, which I suspect is the reason this superb film is only rarely seen).",1233004714
+451045,comment,450702,450767,0,0,tlrobinson,,,"And there are a few other realistic bits:<p><pre><code>                      PHREAK
+                            (to Cereal)
+                D'you bring those Crayola books?
+
+                            CEREAL
+                Oh yeah, technicolor rainbow.
+
+     Cereal brings a book out of his bag.
+
+                            CEREAL
+                Green one.
+
+                            JOEY
+                What is that, what is that? Lemmie see. What
+                are these?
+
+                            DADE
+                International Unix Environments.
+
+    Cereal pulls out another book.
+
+                            CEREAL
+                Luscious orange?
+
+    Cereal hands the orange book to Phreak.
+
+                            DADE
+                Computer security criteria, DOD standards.
+
+    Another book comes out.
+
+                            DADE
+                The Pink Shirt Book, Guide to IBM PCs. So
+                called due to the nasty pink shirt the guy
+                wears on the cover.
+
+    Another one.
+
+                            CEREAL
+                What's that?
+
+                            DADE
+                Devil book. The Unix Bible.
+
+    Another one.
+
+                            CEREAL
+                What's that?
+
+                            DADE
+                Dragon book. Compiler design.
+
+    Cereal brings out a large red book.
+
+                            CEREAL
+                Oh yeah? What's that?
+
+                            DADE
+                The Red Book. NSA Trusted Networks.
+                Otherwise known as the Ugly Red Book that
+                won't fit on a shelf.
+
+    By now Phreak has made a pile of the books, and the Red
+    Book looks wholly out of place on the top of the pile.</code></pre>",1233004676
+451044,comment,450886,450886,0,0,biohacker42,,,"As python is beautiful, lisp is parenthesis-y.<p>Has anyone thought about a Lisp dialect that uses white space, like Python, to get rid of the ()?",1233004674
+451043,comment,450702,450790,0,0,mschwar99,,,"Evidently there is VHS / DVD out there. Didn't find anything streaming, but didn't look too hard. Mr Cringley was nice enough to point us in the right direction:<p><a href=""http://www.pbs.org/opb/nerds2.0.1/"" rel=""nofollow"">http://www.pbs.org/opb/nerds2.0.1/</a><p><a href=""http://www.amazon.com/Nerds-2-0-1-Brief-History-Internet/dp/6305128235"" rel=""nofollow"">http://www.amazon.com/Nerds-2-0-1-Brief-History-Internet/dp/...</a>",1233004650
+451041,comment,450626,450642,0,0,alabut,,,"I love Fireworks, fucking hate CS4.<p>I've been using FW since version 4, from everything from wireframes to full polished design, and I have never seen this much bugginess on any production software. The worst part of it is that the most persistent bugginess is the text selection, which is half of what I do when designing.",1233004529
+451040,comment,450930,450930,0,0,yelkeew,,,"Skip to the bottom:
+        This site is optimized for Lynx just because fuck you.
+        I'm told it also looks nice in graphical browsers.",1233004519
+451039,story,,,2,0,azharcs,"Bloody Monday job tally: More than 68,000 jobs lost",http://money.cnn.com/2009/01/26/news/economy/job_cuts/index.htm,,1233004450
+451038,story,,,1,1,transburgh,"More than 200 kids virtual worlds in development",http://venturebeat.com/2009/01/26/more-than-200-kids-virtual-worlds-in-development/,,1233004449
+451037,story,,,5,0,naish,"John Gruber on the Auteur Theory of Design",http://www.macworld.com/article/138447/2009/01/pulse_gruber.html?lsrc=rss_main,,1233004025
+451036,comment,450408,450408,0,0,enra,,,"I usually work every Sunday on a sideproject with a team that lives in another city. Rest of the team(3people) gather together at same space and I just join them with Skype video.<p>I found using videochat very useful, since you can discuss about things and overhead other people discussing, get feedback in live, feel that you're working(since somebody might be watching you). You also need to take shower, dress up a little that you look somewhat sharp. It feels almost like going to work, except you don't need to commute.<p>(I have worked from home quite a lot as a freelancer and also had a job with regular telecommute, but never felt like I was actually ""working"".)",1233003874

@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91715,comment,91361,91522,0,0,DarrenStuart,,,"that looks pretty smart. Anyone know what the hardware to connections ratio is for it?",1198237921
+91714,comment,91579,91712,0,0,rms,,,"The advantage is in very large buildings with large banks of elevators.",1198237558
+91713,story,,,32,5,jl,"A Tour of Xerox PARC",http://blog.guykawasaki.com/2007/12/a-tour-of-xerox.html,,1198237154
+91712,comment,91579,91617,0,0,axod,,,"But surely these elevators, from the users point of view, are inferior.<p>What if they change their mind about which floor they want once they've got in?
+What if they see a closing lift and jump in, not realising it's not a general purpose lift, but one that only stops in certain predefined places. They'll have to get out at the next stop and start again.<p>You have to ask yourself why these lifts are a good idea for the user. If they reduce wait times by 10% I doubt the users of them will care. The convenience of being able to get a lift to stop where you want it to from the inside is more useful IMHO<p>I really can't see them becoming common place.",1198237142
+91711,comment,91500,91551,0,0,icky,,,"from datetime import TimeMachine",1198237071
+91710,comment,91667,91667,0,0,robg,,,"There is good work being done on intelligent tutors that adjust what they present based on how the student responds.<p>See for instance: <a href=""http://www.pitt.edu/~vanlehn/"" rel=""nofollow"">http://www.pitt.edu/~vanlehn/</a><p>They have pages of completed projects toward the bottom that may help you generate some ideas.",1198236476
+91709,comment,91466,91542,0,0,staunch,,,"I think it's going a bit far to compare Cheney and Jobs. One is an elected official subject to the transparency of a democracy and who costs lives and billions of dollars when he lies. The other is the CEO of a commercial enterprise who's a control freak and occasionally gets a little nasty with people who leak news about his gadgets.",1198236237
+91708,comment,91667,91667,0,0,kabanossen,,,"One element would be the ability to browse topics freely, just like browsing the web. 
+And it would probably be helpful for the ""student"" to set goals for the tasks. Maybe choose from a set of goals.",1198235042

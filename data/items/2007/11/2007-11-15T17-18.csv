@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+80281,story,,,2,0,german,"PNG X The rising star of image formats",http://www.antilogic.co.za/2007/11/14/png-%e2%80%93-the-rising-star-of-image-formats/,,1195149479
+80280,story,,,18,2,aquarin,"The Art of Negotiation",http://edcorner.stanford.edu/authorMaterialInfo.html?mid=1819,,1195149453
+80279,comment,80246,80246,0,0,hello_moto,,,"What's so confusing about this? Their target is not your father and mother. It's for companies and people that know which one to buy.<p>I like their pricing for Windows Web Server 2008 -> $469.<p>Pretty good for startup if you choose ASP.NET.",1195149434
+80278,comment,79924,79924,0,0,cdr,,,"Cyber-despair is a sure winner. ""Cyber"" sounds trendy and ""despair"" accurately captures the feeling, unlike some of the more mild descriptors.",1195149393
+80277,story,,,2,0,shayan,"Berners-Lee warns of 'walled gardens' for mobile Internet",http://www.infoworld.com/article/07/11/15/Berners-Lee-warns-of-walled-gardens-for-mobile-Internet_1.html,,1195149360
+80276,comment,80178,80193,0,0,brlewis,,,"I avoid ORM completely and am perfectly happy with SQL.
+",1195149084
+80275,comment,80269,80272,0,0,cperciva,,,"Two more relevant links:<p>YC: <a href=""http://news.ycombinator.com/item?id=79983"" rel=""nofollow"">http://news.ycombinator.com/item?id=79983</a><p>YC: <a href=""http://news.ycombinator.com/item?id=80081"" rel=""nofollow"">http://news.ycombinator.com/item?id=80081</a>",1195148919
+80273,story,,,7,1,german,"Differentiate Or Die: Marketing's Magic Bullet",http://freelanceswitch.com/finding/differentiate-or-die-marketing%e2%80%99s-magic-bullet/,,1195148856
+80272,comment,80269,80269,0,0,kirubakaran,,,"<i>Related Links:</i><p>CV______: <a href=""http://sifter.org/~aglisi/Physics/CV.html"" rel=""nofollow"">http://sifter.org/~aglisi/Physics/CV.html</a><p>Reddit-1_: <a href=""http://reddit.com/info/60msi/comments/"" rel=""nofollow"">http://reddit.com/info/60msi/comments/</a><p>Reddit-2_: <a href=""http://science.reddit.com/info/60n0z/comments/"" rel=""nofollow"">http://science.reddit.com/info/60n0z/comments/</a><p>PopPress: <a href=""http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2007/11/14/scisurf114.xml&CMP=ILC-mostviewedbox"" rel=""nofollow"">http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2007/...</a>",1195148795
+80271,comment,79982,79982,0,0,shayan,,,"""""famous"" for no reason?""<p>just a side note for fun<p>Paris Hilton is a marketing genius ... <p>her stake in the Hilton hotels is worth just under 30mil in total<p>she makes over 20mil annually just by selling her own products, and using her name<p>she is not the only rich girl out there, but she def is the most successful one no matter how much you like her or hate her<p>and she does have a huge target market and does a great job at satisfying them<p>
+also: it won't be hard for you to prove pg is wrong, just sign your name and leave a link to yourself on your profile... but I wonder if you'll do that?",1195148744
+80270,comment,80234,80234,0,0,dfranke,,,"Can we keep this stuff on Reddit, please?",1195148698
+80268,comment,80178,80240,0,0,mrtron,,,"The community is quite good overall.<p>It is especially good about allowing random people to contribute pieces of code that are useful.
+I also like how their goal is to make everything as straightforward as possible, and eliminate the 'magic' that most frameworks have.  If you have any questions about it, feel free to ask.",1195148593
+80267,comment,79856,79856,0,0,imsteve,,,"The misunderstanding here is that I eat ramen because I'm that broke! Or busy. Mostly broke.",1195148560
+80266,comment,79963,80261,0,0,veritas,,,"Dude... you're trying too hard on a trivial area.<p>You only have to be close by 60 seconds give or take, so just hard code in the timestamp: <a href=""http://www.unixtimestamp.com/"" rel=""nofollow"">http://www.unixtimestamp.com/</a><p>It's a pain in the ass to change every minute, but it works and you'll get on with the rest of it.",1195148539
+80265,story,,,2,0,luccastera,"JavaScript Madness: Keyboard Events",http://unixpapa.com/js/key.html,,1195148444
+80264,comment,80257,80257,0,0,jsjenkins168,,,"Being about Paris Hilton I nearly skipped this, but was surprised that it is actually pretty insightful.<p>The problem is you have to get attention first somehow, before you can create attention by plugging others. I guess Paris did this initially with her association to the Hilton name and the sex tape. Ways to do this in the startup world are obviously much different.",1195148341
+80263,comment,80234,80234,0,0,imsteve,,,"usually I don't get such a laugh just from a title.",1195148334
+80262,comment,80238,80238,0,0,brlewis,,,"Only a million dollars to prove that P is or isn't equal to NP?  They should pay more.",1195148333
+80261,comment,79963,80094,0,0,rglullis,,,"I got back to it now. Still not working...<p><pre><code> - Divided by 1000. 
+ - Changed the clock to Pacific time
+ - rounded using either parseInt, Math.round and Mouth.ceil
+
+</code></pre>
+All failed.<p>",1195148132
+80260,comment,79475,79475,0,0,shayan,,,"dear amichail,<p>I think you should give the best answer to this question NOW, the one you say that takes 3500 days... I also hope that the first answer given by slashcom is not in fact the best answer (as you said it yourself) and you didn't just <i>waste</i> everyone's time for nothing ...even if its 5 min of everyone's time, it adds up to a lot of time and its <i>not ethical</i>...<p>the reason I am posting this is because this post is almost out of the news and it already seems to be forgotten ... I would be pretty pissed if I had spent more time like other users such as curi and everyone else that tried to solve your problem... ",1195147992
+80259,comment,79713,79745,0,0,sharpshoot,,,"There sure will....",1195147957
+80258,comment,80182,80253,0,0,e1ven,,,"The beans were forcibly spilled a few days ago.
+<a href=""http://news.ycombinator.com/item?id=77631"" rel=""nofollow"">http://news.ycombinator.com/item?id=77631</a><p>Sorry guys, I didn't mean to preempt your announcement submitting your URL,  I just thought it was a service that YCers might appreciate.",1195147691
+80257,story,,,3,3,Alex3917,"Paris Hilton is the ultimate web 2.0 platform",http://chartreuse.wordpress.com/2006/09/18/why-paris-hilton-is-famous-or-understanding-value-in-a-post-madonna-world/,,1195147558
+80256,story,,,3,0,nickb,"Coding Horror: Don't Forget To Lock Your Computer",http://www.codinghorror.com/blog/archives/000997.html,,1195147488
+80255,story,,,3,0,dimida,"Three Tips for Creating a Business-Savvy Information Technology Staff ",http://www.cio.com/article/148451/Three_Tips_for_Creating_a_Business_Savvy_Information_Technology_Staff_,,1195147485
+80254,comment,79982,80036,0,0,Alex3917,,,"If you like Punished by Rewards, then I'd recommend No Contest. I loved Punished by Rewards, but I think No Contest is actually more insightful. And certainly better written.",1195147395
+80253,comment,80182,80182,0,0,webwright,,,"Note:  cat out of bag.  We (RescueTime) are a YC Winter '08 company.  Yay!",1195147255
+80252,comment,80182,80239,0,0,webwright,,,"Really?  What?",1195147215
+80251,comment,79963,79963,0,0,veritas,,,"Erm... this maybe a silly question, but how far are we supposed to take this?<p>",1195146343
+80250,comment,79866,79866,0,0,tuukkah,,,"There would seem to be the risk of VC again: in the end of the three months, either you accept more money in their terms, or other VCs think there's something wrong in your startup.",1195146279
+80249,story,,,3,0,davidw,"Big Thinker Al Roth engages crowd in frank discussion on market design",http://research.yahoo.com/node/1863,,1195146154
+80248,comment,79982,80223,0,0,ivankirigin,,,"You can read about who he is on his site: aaronsw.com",1195146143
+80247,comment,79856,79856,0,0,imgabe,,,"but...but i love Ramen",1195146116
+80246,story,,,6,9,nickb,"Thought Vista had a lot of versions? Check out Windows Server 2008.",http://www.microsoft.com/presspass/press/2007/nov07/11-12HyperVPR.mspx,,1195146041

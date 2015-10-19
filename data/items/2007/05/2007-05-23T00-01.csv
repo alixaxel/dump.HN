@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+23968,comment,23885,23961,0,0,Mistone,,,"which site are you referring to?
+1) found/read 
+2) promoterforce",1179881197
+23967,comment,23907,23907,0,0,Alex3917,,,"Funny, I remember someone on Slashdot calling him this shortly after Art of the Start came out.",1179881122
+23966,comment,23888,23908,0,0,rami,,,"Thanks Kyro.",1179880775
+23965,comment,23589,23589,0,0,skittles,,,"Here's information on cgi programming with C:
+<a href=""http://www.cs.tut.fi/~jkorpela/forms/cgic.html"" rel=""nofollow"">http://www.cs.tut.fi/~jkorpela/forms/cgic.html</a><p>Not many people do cgi programming (especially with C) anymore, but it will teach you a lot about Linux and programming.  You will have to get a working web server for one.  Configuring Apache on Ubuntu should be a good learning experience.  If you can also get a working database server such as PostgreSQL (my preference) or MySQL working with your website, you will know the basics for building a real web-based application.
+",1179880554
+23964,story,,,2,0,bootload,"Our Office 2.0 Experiment",http://www.thinkvitamin.com/features/webapps/our-office-2-0-experiment,,1179880513
+23963,comment,23899,23899,0,0,staunch,,,"I don't really agree with the vitriolic hatred of domainers. They're bottom feeders, but I don't think fair to say it is inherently evil. I've chosen not to do it myself for the same reason I'm not an SEO guy. It's unpredictable, a time sink, and it'd be hard for me to be proud of the result of my effort. I think it's easier to just create something of value. If you do that your domain name is mostly unimportant.<p>
+",1179879732
+23962,comment,23885,23885,0,0,tocomment,,,"Hmm, then I go to sign up and it thinks aaaa+aaaa@gmail.com isn't a valid email address.",1179878956
+23961,comment,23885,23885,0,0,tocomment,,,"That's scary.   BTW, I wish I could try his site without signing up...",1179878853

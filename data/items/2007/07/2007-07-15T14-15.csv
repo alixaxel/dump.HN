@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34335,comment,34260,34301,0,0,willarson,,,"You're ignoring what I am saying, seemingly because you are focused on mocking me. As such I'll make a final attempt to explain myself, but it seems likely that communication will be thwarted yet again.<p>
+There was solid and easily locatable evidence that supports the premise of the article in question. The article did not use that evidence, and instead based its premise upon an irrelevant quote that did not support its argument.<p>
+Thus the article is fundamentally flawed: it arrives at its conclusion by making a leap from one disconnected idea to a second; there is no chain of reasoning to follow. Worse than simply making a leap in its reasoning, it misinterprets a disjoint quote and passes it off as support for its argument.<p>
+This method of pseudo-analysis will occasionally render correct segments of analysis. That doesn't matter. The pseudo-analysis is still flawed, unreliable, and devoid of value.<p>
+",1184511367
+34334,comment,34189,34324,0,0,willarson,,,"As for the blog it was having a brief issue with psycopg2, apache, and python eggs... <i>mutter</i>. I'm still learning the sys admin side of things (but it is fixed now). In general it has been stable... (Apache2, Lighttpd for serving media, memcached for caching...).<p>
+I think the way to look for the future is like this: find something that everyone uses, and think of what unexamined assumptions we are making about it. <p>
+For an example, look at how comments work in blogs, maybe we could make a more localized comment system (you can make your comment close to the context you want to commenta bout), or at least inserting comment footnotes.<p>
+Essentially, look for places where the ""proper"" shape and form for an idea have crystalized, and then find a way to do it differently. At this point I don't think that web innovation is bounded by technology (horizontal scaling to build massive and efficient systems is a reality, albeit a n occasionally unpleasant reality for the implementors), but more by ideas.<p>
+Development frameworks (Rails, Django, TurboGears, CakePHP, et al) continue to trivialize internet development, so I think we'll continue moving towards an era where (for internet applications) ideas and design are the limiting factors rather than technology.",1184510238
+34333,story,,,1,0,terpua,"Stats for your startup",http://www.viciao2k3.net/services/xinu/?lang=uk,,1184509007

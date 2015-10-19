@@ -1,0 +1,25 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+282481,comment,281310,282415,0,0,Herring,,,"re: plato<p>If you intend to teach critical thinking, I can think of 10 subjects off the top of my head that don't involve bronze-age concepts.<p>re: soul<p>I think you missed my meaning. I meant all thinking is a physical process that ends at death, same as the individual tree's cells stop working when you burn them. I dislike discussing it; this is so blindingly obvious (today) that it makes more sense to look at why they've made no progress in 2000 years.",1219308960
+282480,comment,282374,282392,0,0,pierrefar,,,"And meanwhile on Cracker News we have...<p>""GREETZ FROM Z0MBEE""",1219308846
+282478,story,,,3,0,nickb,"Microsoft launches 3D wonder Photosynth for consumers",http://news.cnet.com/8301-17939_109-10020637-2.html,,1219308665
+282477,comment,282303,282303,0,0,qqq,,,"Silly title. If he cooked for a living, <i>and refused to charge anywhere near the profit maximizing price</i>, then he'd lose money ... completely by his own choice.",1219308579
+282476,comment,282357,282425,0,0,thwarted,,,"You can always define your own HTTP methods and use other verbs.<p>Apache Script directive:
+<a href=""http://httpd.apache.org/docs/2.2/mod/mod_actions.html#script"" rel=""nofollow"">http://httpd.apache.org/docs/2.2/mod/mod_actions.html#script</a><p>Depending on browser and javascript framework support (guh, as always), you can then use whatever method you want in Ajax calls (first argument to XMLHttpRequest.open, or jquery's $.ajax.type).",1219308139
+282475,story,,,1,0,marketer,"Real-life sculptures of data",http://www.joshuacallaghan.com/Graphs.htm,,1219307903
+282474,comment,282357,282437,0,0,davidmathers,,,Yes.,1219307834
+282473,comment,281446,281819,0,0,bdash,,,"Except for the fact that the real definition is actually more like:<p><pre><code>    #ifdef __cplusplus
+    #define __DARWIN_NULL __null
+    #else /* ! __cplusplus */
+    #define __DARWIN_NULL ((void *)0)
+    #endif /* __cplusplus */
+</code></pre>
+So the code you mentioned works just fine in C++.",1219307517
+282472,story,,,1,0,martinsz,"Encouraging abstinence",http://contexts.org/socimages/2008/08/12/i-want-to-be-an-engineersex-can-wait-encouraging-abstinence-and-making-engineering-seem-really-lame/,,1219307310
+282471,comment,281446,282106,0,0,dazzawazza,,,"Mainly in and around video games on PC/PS2/XBox/PS1. C/C++/ASM for the runtime (sometimes with python for scripting) and Python for level editing and build processes.<p>I'm not discounting python inadequacies  esp when churning vast amounts of data. Video game levels are large and python was too slow to process collision maps, shadow maps etc but we added C modules to do the heavy work and it wasn't a lot of code to write in C (it was a pita to debug them though).<p>PS I don't work in video games any more so I've not experienced the delights of the PS3/XBox2 first hand. I do websites now... it's a lot easier :)",1219307161
+282470,comment,282394,282394,0,0,dabeeeenster,,,"This is the final piece of the puzzle, following on from persistent IP addresses, in terms of using EC2 as a web server platform.<p>Time to get tinkering!<p>A shame Amazon dont have a data centre in Europe for European firms, in terms of reducing latency...",1219307114
+282468,comment,282374,282467,0,0,mrdorian,,,"And ""A Twerp's Nuts""",1219307014
+282467,comment,282374,282374,0,0,amohr,,,"Also learned from this:  Startup news is an anagram for Putter Swans<p>...and swat punters... or pun swatters... and ""we rust pants""",1219306437
+282466,story,,,1,0,luckystrike,"Intel, Microsoft converge on parallel computing  ",http://www.sdtimes.com/INTEL_MICROSOFT_CONVERGE_ON_PARALLEL_COMPUTING/About_INTEL_and_MICROSOFTCONVERGEONPARALLELCOMPUTING/32731,,1219306405
+282465,story,,,2,0,jasonlbaptiste,"Iterasi Evolves Into A Must Have Research Tool",http://www.techcrunch.com/2008/08/20/iterasi-evolves-into-a-must-have-research-tool/,,1219306155
+282464,comment,282307,282307,0,0,maxklein,,,"Studying robotics, one learns an effective combination of engineering and computer science theory. So I'd have given the same answer as the computer scientist, but in ASM, low level C and Verilog.",1219305927
+282463,story,,,1,0,dhotson,"Web Graphics: Canvas, SVG, and more",http://xtech06.usefulinc.com/schedule/paper/57,,1219305706

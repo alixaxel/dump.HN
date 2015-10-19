@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+76200,comment,75135,75135,0,0,thomasswift,,,"thanks all!",1194242170
+76199,comment,76052,76052,0,0,myoung8,,,"Seeing it work the first time. Maybe this is just because I haven't built all that many things, but it's always been an incredible feeling so far.",1194242050
+76198,comment,75906,75918,0,0,ed,,,"Dfranke, adhering to the constraints given shouldn't the correct answer should be a very large negative value for n? There's no upside to increasing the value of n; you're only putting yourself further at risk.",1194240423
+76197,comment,75906,76194,0,0,dfranke,,,"Two million to retire comfortably?  That's quite a standard of living.  Supposing you're earning 6% interest and expect to live to 100, that's a budget of $10725 per month.  That's enough to spend the rest of your life living in the penthouse suite of a cruise ship.",1194240091
+76196,comment,76007,76134,0,0,nostrademons,,,"Usually CPU latency for a web request is very tiny compared to network/DB/IO latency, though.",1194239051

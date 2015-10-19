@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+49595,story,,,2,0,nickb,"Leaked pictures of new iPod nano (3rd gen) - these look pretty real to me",http://www.gearlive.com/news/article/q307-leaked-images-of-new-3rd-gen-ipod-nano/,,1188788343
+49594,story,,,5,0,nickb,"Top 10 Reasons Why Web Startups Fail",http://pastebin.ca/679509,"taken from site that's been slashdotted.",1188787528
+49593,comment,49331,49370,0,0,0123456789,,,"> ""They don't break any stories to me anymore""<p>Care to explain why breaking news stories are relevant at all? I don't see their point.",1188787433
+49592,story,,,5,0,nickb,"10 more reasons why web startups fail",http://www.jroller.com/dscataglini/entry/5_more_reasons_why_web,,1188787411
+49590,comment,48294,48294,0,0,lemi4,,,"Check out Aaron's (partial?) response: <a href=""http://www.aaronsw.com/weblog/perfectionism"" rel=""nofollow"">http://www.aaronsw.com/weblog/perfectionism</a>
+",1188786993
+49589,comment,49331,49331,0,0,0123456789,,,"Once a day for the headlines and insightful or interesting comments.",1188786641
+49588,comment,49552,49560,0,0,steve,,,"Actual Cost vs Benefit calculation = not simple.",1188786247
+49587,comment,49575,49575,0,0,s_baar,,,"This is almost depressing. On the one hand, it makes you feel happy to know stuff, then sad that so much time is wasted.",1188786173
+49586,comment,49552,49560,0,0,DocSavage,,,"The language is Ruby. ""Ruby on Rails"" could be considered a domain-specific language, but most think of it as a web application framework built on Ruby.  Learning a language that exposes you to new ways of programming is a good thing (tm). Learning a language that broadens your mind AND makes you more productive is even better.  Is it a good investment for you?  Depends on what you already know.  If you already have good knowledge of a reasonable language + framework (e.g., Python/Django), then you might just want to go off and build your business.  If all you know is PHP and you've been hand-coding spaghetti web apps, then learning RoR is a good investment, if at least to expose you to some reasonable programming patterns.",1188785559

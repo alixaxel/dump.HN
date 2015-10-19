@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4642,comment,4641,4641,0,0,mattculbreth,,,"What are most people calling themselves?  We have three co-founders, one of whom runs the place.<p>Right now we're going with:<p>
+CEO, Co-Founder<p>
+Co-Founder<p>
+Co-Founder<p>I can't decide if I like this or not, but I've seen it in quite a few places.
+",1174078339
+4641,story,,,4,11,mattculbreth,"Ask News.YC: What titles are you using in your startup?",,,1174078263
+4640,story,,,3,2,amichail,"Google TechTalk: Closures for Java",http://video.google.com/videoplay?docid=4051253555018153503,,1174077490
+4639,story,,,3,1,dawie,"Google Acquired Trendalyzer ",http://googleblog.blogspot.com/2007/03/world-in-motion.html,,1174077240
+4638,story,,,1,0,danielha,"Ficlets -- Collaborative story telling startup",http://ficlets.com/,,1174076422
+4637,story,,,2,0,danielha,"Socializr Launches (from Friendster founder) - Still a Mess",http://mashable.com/2007/03/16/socializr/,,1174076282
+4636,comment,4634,4634,0,0,brett,,,"There's definitely got to be a market for a company with better data on the value of a given site to advertisers, you just have to figure out how to get the data.<p>What about some sort of third party google analytics that specifically targeted whatever metrics make advertising more profitable? If you could prove your metrics were worthwhile maybe you could convince sites to embed your stuff to get a good rating and you could sell ratings to whomever is selling or buying the ads. There's sort of a cart before the horse problem there. Ideas?",1174075911
+4635,comment,4634,4634,0,0,brett,,,"I like that they mention in Nielsen's  comment ""that many news sites force visitors to click multiple times to read longer stories in sections"" and then they make you do that.",1174075894
+4634,story,,,3,2,joshwa,"Do Pageviews Matter Anymore? ",http://www.msnbc.msn.com/id/17070073/,,1174075555

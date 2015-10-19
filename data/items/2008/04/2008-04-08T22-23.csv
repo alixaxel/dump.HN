@@ -1,0 +1,46 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+158369,comment,158323,158366,0,0,kirubakaran,,,"Some might prefer money over flattery :)",1207695496
+158368,story,,,3,0,skmurphy,"Chris Shipley"" TC50 is a ""start-up beauty pageant"" DEMO is a ""business accelerator""",http://www.demo.com/community/?q=node/33145,,1207695457
+158367,comment,158308,158308,0,0,slapshot,,,"Cute, but according to the article it applies only to attempts to log into an MIT realm.",1207695448
+158366,comment,158323,158358,0,0,nilobject,,,"Imitation is the sincerest form of flattery.",1207695175
+158365,comment,158029,158318,0,0,tptacek,,,"This is actually not what ""clean room"" means.",1207695167
+158364,story,,,5,0,nickb,"Is Google App Engine HuddleChat a Campfire Rip-Off?",http://blog.searchenginewatch.com/blog/080408-123318,,1207695037
+158363,comment,157825,157825,0,0,pchristensen,,,"Comment that turned into a blog post:<p><a href=""http://www.pchristensen.com/blog/articles/can-ycombinator-be-beaten-at-its-own-game/"" rel=""nofollow"">http://www.pchristensen.com/blog/articles/can-ycombinator-be...</a>",1207695012
+158362,comment,158323,158354,0,0,andrewparker,,,"Yes, there's no defensibility in functionality.",1207694994
+158361,comment,158316,158316,0,0,m0nty,,,"Bill Bryson points out (can't remember which book) that pricing something just below a round figure (eg 0.99 or 4.99) would force shop assistants to ring up the purchase in most cases where they'd be given a dollar or a five dollar bill, rather than just pocketing the cash. So initially, it was a way to enforce honesty on employees, and the other benefits became apparent later.",1207694873
+158360,comment,158125,158125,0,0,wumi,,,"funny how Zoho is the 2nd worst.<p>Odd for a company making $ 1 million profit / month.",1207694826
+158359,comment,158285,158357,0,0,mullr,,,"Also: when you click to show the answer, it shouldn't fade in.  It should show up instantly.  Fading out is okay.  And the animation at the top that starts to play every time I open the page?  My GOD, it needs to go away.  It probably won't last long on my iGoogle page because of that.  If it's an important part, at least keep the transitions snappy.  Fading == visual distraction, use if VERY sparingly.",1207694808
+158358,comment,158323,158338,0,0,gaika,,,"Wrong in the sense that is not how you make your platform attractive to developers. What happened to ""do not be evil""?",1207694557
+158357,comment,158285,158285,0,0,mullr,,,"1. Not too useful for lower-level Japanese (many many people, myself included) without providing optional readings for the kanji.  (The workaround is a browser extension like RikaiChan.) 
+2. Front page is cluttered
+3. Didn't want to register, did anyway
+4. How do I get it on my iGoogle page?  It wasn't clear after about 15 seconds, which is way too long.  It should have given me a choice just after I hit ""go"".",1207694471
+158355,comment,158029,158123,0,0,mdemare,,,"It's hard to deny though that they've taken a cue from Campfire. Even its name calls up associations with campfires.",1207694372
+158354,comment,158323,158323,0,0,axod,,,"I'd say if your entire app can be cloned in a day, it's fair game. Hardly rocket science.",1207694359
+158353,comment,156464,156464,0,0,ucdaz,,,"Just read digg.com everyday.",1207694343
+158352,comment,158351,158351,0,0,zapnap,,,"Some day I will finish converting my ms pacman cocktail cabinet... some day.....",1207694310
+158351,story,,,2,2,zapnap,"Rediscovering Arcade Nostalgia",http://www.codinghorror.com/blog/archives/001096.html,,1207694133
+158350,comment,156937,156937,0,0,pmjordan,,,"I don't know, does this article even say anything of substance?<p><i>Multi-core systems work very well with the LAMP stack’s multi-process paradigm. With the chip industry now focusing primarily on multi-core as opposed to hyper-threading technology, the benefits of multi-threaded environments such as the JVM are not substantially realized on today’s hardware. Instead the multi-process paradigm delivers more stability and reliability.</i><p>That makes me think the author doesn't even know what he's talking about.",1207694118
+158348,story,,,2,0,konsl,"Musing about artificial scarcities and abundances",http://confusedofcalcutta.com/2008/04/07/musing-about-artificial-scarcities-and-abundances/,,1207694057
+158347,comment,156863,156863,0,0,ucdaz,,,"I've got chance to meet Dmitri at the Drupal meetings in the bay area. He's a good and smart kid.",1207693749
+158346,story,,,11,1,pierrefar,"The Real Strategy Behind Google App Engine",http://ekstreme.com/thingsofsorts/web-programming/the-real-strategy-behind-google-app-engine,,1207693640
+158345,comment,158316,158316,0,0,aggieben,,,"I think the natural defense to forced precision calculations is to simply round everything up (never down).  If it's $19.35, you round up to $20.  In fact, I've even gotten to the place where I really only use the most significant digit, rounded up, in my rough-cut financial judgments.  If I see a car priced $14,000, my subconscious says to itself ""I would never spend $20,000 on a car!"".  It doesn't always work, and there is a time to be more precise, but this sort of order-of-magnitude internal bartering with myself helps keep my more compulsive self in check.",1207693540
+158344,comment,158049,158122,0,0,lyime,,,"seems like they have taken the whole startup culture seriously and made them into rules. Really really bizarre.",1207693476
+158343,comment,158008,158267,0,0,KirinDave,,,"Hg misses some of the most key features. For example, most people find git's robust inline branching support to be an incredible boon for their workflow. Hg's implementation of this feature is poor by comparison.",1207693228
+158342,comment,153812,155516,0,0,gruseom,,,"Glad I looked back at this thread. Thanks for the tip - I will check it out.<p>Edit: I seem to recall sldb works better with SBCL (which I'm not using). Perhaps that's my problem?",1207693052
+158341,comment,158310,158310,0,0,peternicholls,,,"How many startups are applying for YC these days?",1207693035
+158340,story,,,33,10,SwellJoe,"Community, or not community: Y Combinator backed exits in black and white",http://inthebox.webmin.com/community-or-not-community,,1207692977
+158339,comment,158029,158313,0,0,michaelneale,,,"yes... and?",1207692855
+158338,comment,158323,158323,0,0,aristus,,,"Hmm. It's brutal but not ""wrong"", by which I think the poster means ""unfair & anti-competitive"".<p>The point of this platform is to make it easier to write applications. They proved it by cloning the poster child for the last prod-hype-tivity platform, RoR. Life goes on.",1207692838
+158337,comment,157825,158016,0,0,davidw,,,"PG as ""Dear Leader"" ?:-)",1207692815
+158336,comment,158304,158304,0,0,PieSquared,,,"Linux has no problems with drivers, no, none at all. It's just that all those drivers seem to have a problem with Linux.<p>(Hmm... Could that be because they were compiled on Windows and use the Windows API? Nah, can't be.)
+</sarcastic rant><p>Actually, the driver situation for Linux has improved drastically since before. I mean, my 3d-accelerated nVidia card still crashes the X server every so often, but at least I have drivers for most of my hardward. (Although I've had some problems with webcams...) Anyway, good luck to this project.",1207692608
+158335,story,,,14,0,raghus,"Flickr Video Launches",http://www.techcrunch.com/2008/04/08/flickr-video-launches-a-unique-experience/,,1207692412
+158334,comment,158083,158083,0,0,omakase,,,"there were 10k beta developer accounts, they're gone now (i missed it too), but i added my email address so i'll be notified when there are more",1207692393
+158333,comment,158310,158310,0,0,zapnap,,,"Yes, and best of luck to everyone. Remember, if you have a great idea that you're passionate about, don't let not being selected deter you from working on it!",1207692321
+158332,comment,157269,157834,0,0,raganwald,,,"you missed the fun:<p><pre><code>    macbook-pro-2:trunk raganwald$ ruby -v
+      => ruby 1.8.6 (2007-03-13 patchlevel 0) [i686-darwin8.10.1]
+    macbook-pro-2:trunk raganwald$ irb
+    irb(main):001:0> lambda { i = 100; x = 0; [1,2,3].each { |i| x += i }; i }.call
+      => 3</code></pre>",1207692175
+158331,comment,158029,158029,0,0,pius,,,"<i>Did Google rip Campfire off? Absolutely.</i><p>OK, let's be sure we're all talking about the same thing.  When I hear that company Foo ripped off product Bar, I think that Foo has made an unethical clone of Bar's design or Bar's actual copy/code/content.  By this definition, releasing a piece of software with Bar's exact feature set does not constitute a ""rip-off,"" but merely competition.<p>This doesn't look like a rip-off to me after an admittedly brief look at the interface.  I'd believe it if someone, without looking silly, could actually enumerate a list of Campfire design elements Google ""ripped off.""  To me, Campfire's interface looks minimalist and elegant; HuddleChat looks rather like a wireframe.  It seems silly to say that the two apps have the same look and feel.",1207692062

@@ -1,0 +1,48 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+309098,comment,308555,308755,0,0,altay,,,"How will you find them?",1221814754
+309097,comment,308975,308975,0,0,geuis,,,"I know Steve. He's a great guy. Has known my roommate for about 4 years.",1221814687
+309096,comment,308509,308641,0,0,gb,,,"There's also FDT, an Eclipse plugin that makes Flex Builder look like a joke in terms of how it deals with Actionscript code.<p>I don't know what it does with MXML though, and haven't tried the debugger in it either (I don't have the so called enterprise version).",1221814571
+309095,comment,308978,309005,0,0,sh1mmer,,,"I'd also like to see this compared on a range of javascript test suites like John Reisig did recently. Good job on the quick test results though.",1221814442
+309094,comment,308975,308975,0,0,Psyonic,,,"That is some crazy shit",1221814402
+309093,comment,308884,308884,0,0,Tichy,,,"Unbearable - cool people in general don't go around telling everybody how cool they are. I would have thought elitist marketing companies would know such things.",1221814200
+309092,story,,,1,0,abeba,"Loading an ActiveX plugin in Google Chrome (ex: VLC)",http://www.paperfrag.com/?p=22,,1221814160
+309091,comment,308978,308998,0,0,buymorechuck,,,"<a href=""http://www.satine.org/archives/2008/09/19/squirrelfish-extreme-fastest-javascript-engine-yet/"" rel=""nofollow"">http://www.satine.org/archives/2008/09/19/squirrelfish-extre...</a><p>and done. Compare against Chrome on Windows.",1221814126
+309090,story,,,1,0,illume,"My pyweek postmortem. Making a game in a week.",http://renesd.blogspot.com/2008/09/my-pyweek-postmortem-make-game-in-week.html,,1221814111
+309089,comment,307854,307854,0,0,sown,,,"I'd like 2 things to come out of this<p>1.) Some kind of lab support. I could buy a kit and go along and build what ever simultaneously with the class I'm following.<p>2.) an automated way of seeing how well I'm doing. A test giver/grading.",1221813979
+309088,story,,,1,0,jasonlbaptiste,"Facebook Adds Talk Like A Pirate Translation.",http://www.techcrunch.com/2008/09/19/facebook-adds-talk-like-a-pirate-translation-hilarity-almost-ensues/,,1221813589
+309087,comment,309084,309084,0,0,DabAsteroid,,,"Sample computation:<p>Input:<p><pre><code>  Diagonal: 14.1 inch 
+  Resolution: 1024 × 768 pixels
+</code></pre>
+Output:<p><pre><code>  Diagonal: 35.8 cm 
+  Size: 28.7 × 21.5 cm, 0.8 Megapixels 
+  Resolution: 90.8 dpi 
+  Pixel pitch: 0.280 mm 
+  Aspect ratio: 4:3 
+  Viewing distance: 50 - 70 cm</code></pre>",1221813575
+309086,comment,309033,309033,0,0,jasonlbaptiste,,,"What i respect:<p>a) Zoho's recruitment of smart young hackers in India.  They don't look at their degrees, but their skill + tenacity
+b) Not taking VC money.  Granted AdventNet gave them a great start.
+c) They've built a here to stay business.
+What I don't respect:
+a) They basically ripped sugarcrm off with VTiger and called it ""REAL open source"".  Last I checked sugar got past that debate with GPL3, plus zoho relabels vtiger as zohocrm with a new skin
+b) Their products are soulless and lack innovation. They are basically ms products + ajax with a shitty ui.",1221813530
+309085,comment,308670,309062,0,0,mellampudi,,,"The figures for india are wrong too. You need to pay only 1 months basic pay to fire an full time employee or you can ask them to leave after one month without paying them any extra money other than the salary for that month.",1221813510
+309084,story,,,4,1,DabAsteroid,"Display resolutions maths - calculator and tables",https://dotforward.de/sslkunde/beta.unclassified.de/projekte/displayresolution/?diagonal=14.1&resh=1024&resv=768,,1221813485
+309083,comment,309076,309076,0,0,jwilliams,,,"Interesting, but you've got to factor in the fact that C# is a much more specific search term than Ruby...<p>C# searches are probably mostly about C#. The Ruby result would also contain all the searches involving ""Ruby"" that aren't related to the language at all.",1221812882
+309082,comment,308348,308630,0,0,jwilliams,,,"Do you mean capital adequacy requirements?<p>Because there is discussion that the biggest failures were where the SEC relaxed it's requirement. 
+<a href=""http://www.nysun.com/business/ex-sec-official-blames-agency-for-blow-up/86130/"" rel=""nofollow"">http://www.nysun.com/business/ex-sec-official-blames-agency-...</a>",1221812657
+309081,comment,308217,308344,0,0,gojomo,,,"I can understand that with a bank of hot spares or use of a service like EC2 or wild traffic swings, the exact number at any one moment becomes less relevant. But it would be nice for them to have given a historical average (and even, typical variance), based on their logs of actual machines dynamically brought into or out of service.",1221812553
+309080,comment,308884,309059,0,0,babo,,,"Do you heard about Haskell or F#? They a related to Microsoft research without any marketing crap, I really appreciate that.",1221812553
+309079,comment,308676,308676,0,0,greyman,,,"Hubris, hubris...",1221812527
+309078,comment,308546,308546,0,0,rms,,,"<a href=""http://robocode.sourceforge.net/"" rel=""nofollow"">http://robocode.sourceforge.net/</a>",1221812443
+309077,story,,,2,2,martinsz,"How to Change the World: My Visit to Google Germany",http://blog.guykawasaki.com/2008/09/my-visit-to-goo.html,,1221812321
+309076,story,,,17,10,nickb,"C# vs Ruby",http://codeclimber.net.nz/archive/2008/09/16/c-vs-ruby.aspx,,1221811963
+309074,comment,308546,308829,0,0,listic,,,"the same, published on Kongregate:
+<a href=""http://www.kongregate.com/games/Coolio_Niato/light-bot"" rel=""nofollow"">http://www.kongregate.com/games/Coolio_Niato/light-bot</a>",1221811629
+309073,comment,308978,309024,0,0,gruseom,,,"<i>it wouldn't surprise me if the major bottlenecks in many applications are in the DOM access</i><p>No question about it. I'm wondering why we're not seeing much work being done in this area. Perhaps it's because the problems are messier and not as well defined (let alone as well researched) as things like method dispatch?",1221811614
+309072,comment,308546,308546,0,0,listic,,,"I remember playing a robot programming game back in school some 20 years ago. Some time ago I had a discussion about games with my younger brother and told him about it. Yesterday he showed me this game saying ""Look, I found the game like that one you were talking about""<p>Thanks to the authors for re-creating that experience.
+I wonder which game they modelled their about.<p>The newer game has got isometric view and better sound(though from what I hear it is still tracker music), the older had moving staircases and single-stepping debug. But for the most part, it's still the same which is amazing given that both programming technologies and game industry have gone light years since then. Someone would call it ""too simple"" but isn't it amazing that a robot programming game basically the same as the one from 20 years ago is still fun and relevant enough to be rated high on Reddit and Hacker News?",1221811577
+309071,comment,309066,309066,0,0,jwilliams,,,"Can't say I agree with the substance of this article. A lot of the drawbacks seem to be either preference, something that has been improved already or something that just required a tad more effort (e.g. I found the testing resources for Flex to be pretty reasonable).<p>All things being equal, is there anything technically compelling to favour Silverlight over Flex?",1221811571
+309070,comment,308332,308597,0,0,jlouis,,,"Macros are a double edged sword. Their advantages also drags in some disadvantages. If they were only advantageous, they would have flown into mainstream languages long ago(in the full Lisp-sense where the macro is a lisp program).<p>But they have not. This can be due to multiple reasons: their disadvantages outweigh the advantages or that the effort of getting them into the language simply drags so many other undesirable things with it. Perhaps the advantage of a macro is perceived to be so small compared to e.g., function composition and higher order functions, that it is left out of the language.",1221811540
+309069,comment,308884,308884,0,0,gojomo,,,"Oh, good, more stories about Microsoft commercials!<p>I know when I get together with hackers, there's nothing we like more than watching TV commercials, hearing what tech bloggers think about TV commercials, and talking about TV commercials. Sometimes it keeps us up all night!<p>Having stories about advertisements on the front page also makes up for the lack of other ads, which has always made this site look kind of geeky and 'small potatoes' to me. Corporate marketing on the front page means we've arrived into the mainstream, finally!<p>And did you catch Eva Longoria Parker in the ad? Wouldn't kick her out of bed to check email on a MacBook Air, that's for sure! Isn't the wait for the season premiere of Desperate Housewives killing you? Me too!<p>I, for one, welcome News.YC's new video viral marketing overloads.",1221811409
+309068,comment,308117,308365,0,0,DabAsteroid,,,"<i>Unfortunately this would imply lots of unemployed less skilled workers</i><p>How would that be unfortunate?<p><a href=""http://www.reason.com/news/show/122019.html"" rel=""nofollow"">http://www.reason.com/news/show/122019.html</a><p><i>The public often literally believes that labor is better to use than conserve.</i>",1221811326
+309067,story,,,3,0,bootload,"Science Unveils Hidden Drivers Of Stock Bubbles, Crashes",http://www.lloyds.com/dj/DowJonesArticle.aspx?id=405289,,1221811235

@@ -1,0 +1,375 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8829624,story,,,8,0,Varcht,"When FISA Court Rejects a Surveillance Request,The FBI Just Issues a NSL Instead",https://www.techdirt.com/articles/20141224/14510929524/when-fisa-court-rejects-surveillance-request-fbi-just-issues-national-security-letter-instead.shtml,,1420250342
+8829623,comment,8828936,8829274,0,0,Narishma,,,"Right, you have to move it instead into the SSE registers.",1420250311
+8829622,comment,8829194,8829583,0,0,spydum,,,"To be fair, author did say he shouldn&#x27;t be considered an expert and his experience was extremely limited.",1420250298
+8829621,comment,8826060,8828875,0,0,munificent,,,"That starts to look fairly complex to me. In code that I&#x27;ve looked at, doing numeric iteration is actually not that common. The majority is just iterating over collections. Wren&#x27;s grammar for loops is actually really simple. It&#x27;s just:<p><pre><code>    for (<variable name> in <expression>) { ... }
+</code></pre>
+That&#x27;s it. Note that there&#x27;s no special support for numeric ranges. Instead, &quot;..&quot; and &quot;...&quot; are just regular operator calls. The number type implements them to return a range object. That lets you do:<p><pre><code>    for (n in 1..10) { ... }
+</code></pre>
+But also enables:<p><pre><code>    var range = 1..10
+    for (n in range) { ... }
+</code></pre>
+And even:<p><pre><code>    var items = [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;]
+    var slice = items[1..2]
+</code></pre>
+Making the range a first-class object lets you get a lot of mileage out of using it in different places, which is nice. In fact, a range derives from the sequence base class, so you can also do:<p><pre><code>    var evens = (1..10).where {|n| n % 2 == 0}</code></pre>",1420250288
+8829620,story,,,3,0,dublinclontarf,"How to find Ruby developers",http://lety.co/blog/2015/01/02/how-to-find-ruby-developers,,1420250275
+8829619,comment,8829111,8829483,0,0,Negitivefrags,,,"Nobody will give you a business loan against a startup company without a stable existing revenue stream unless you provide a personal guarantee with collateral that you personally own.<p>The difference between a loan and investment is that if your business fails you don&#x27;t lose your house.",1420250263
+8829618,comment,8823472,8827129,0,0,tsotha,,,"It&#x27;s not designed to be a knife fighter.  Stealth is supposed to give it a big BVR advantage.<p>I used to think that was a big mistake, but lately I&#x27;m coming around to the idea that the oft-wrongly-heralded end of the dogfight is pretty much upon us.  As missiles get smarter and (more importantly) integrate more sensors they get much harder to dodge.<p>It&#x27;s one thing to slip a single frequency semi-active radar homing missile or a four quadrant heat seeker in 1980.  It&#x27;s something quite different to shake a missile with IR, visual, and active EM sensors with the computing horsepower to integrate them all into a single predictive model.  I was involved in IR missile development twenty years ago, and the consensus from the test pilots even then was the higher resolution sensors and extra smarts made modern (mid &#x27;90s) missiles almost impossible to shake once they locked on.  That was just IR, too.<p>From what I can tell going forward the last guy to get detected wins.",1420250174
+8829617,comment,8829551,8829551,0,0,jkbyc,,,"Scott Aaronson&#x27;s response: <a href=""http://www.scottaaronson.com/blog/?p=2119"" rel=""nofollow"">http://www.scottaaronson.com/blog/?p=2119</a>",1420250150
+8829616,story,,,2,0,PascalPrecht,"Exploring Angular 1.3: Binding to Directive Controllers",http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html,,1420250106
+8829615,comment,8827904,8827904,0,0,brazzy,,,"Unround timezone offsets are exotic to you? That&#x27;s not even the <i>half</i> of it, sonny!<p>How about the year where Shanghai had the same 5 minutes and 52 seconds twice:<p><a href=""http://www.timeanddate.com/time/change/china/shanghai?year=1927"" rel=""nofollow"">http://www.timeanddate.com/time/change/china/shanghai?year=1...</a><p>Or the year where Germany had TWO hours worth of daylight savings time (hint: that happens to be Moscow time)?<p><a href=""http://www.timeanddate.com/time/change/germany/berlin?year=1945"" rel=""nofollow"">http://www.timeanddate.com/time/change/germany/berlin?year=1...</a><p>I actually once had a production bug based on that, due to an overzealous sanity check in the Java Calendar class which considered all dates in Germany in the summer of 45 invalid...",1420250059
+8829614,comment,8826060,8829545,0,0,munificent,,,"> it would therefore be really nice to have a constructor syntax that does this implicitly.<p>Agreed. I&#x27;m on the Dart team at work, and in Dart you&#x27;d do:<p><pre><code>    class Customer {
+      int customerNumber;
+      String name;
+      String address;
+
+      Customer(this.customerNumber, this.name, this.address);
+    }
+</code></pre>
+You do still have to declare them. I&#x27;ve thought about adding something similar to Wren. Since fields are already syntactically distinguished, it could be as simple as:<p><pre><code>    class Customer {
+      new(_customerNumber, _name, _address) {}
+    }
+</code></pre>
+I&#x27;ve hesitated because I want to see how much this is really needed in real-world code. I&#x27;m trying to keep things as simple as possible at least as first.<p>> There&#x27;s another bit of Scala sugar that is nice here - an automatic copy method which takes keyword arguments to override particular fields.<p>I&#x27;m not opposed to the idea, but it probably doesn&#x27;t carry its weight. Wren is <i>incredibly</i> minimal. I like immutability a lot, but for scripting language where program size is relatively small anyway, I don&#x27;t think it&#x27;s quite as high a priority.",1420250030
+8829613,comment,8829111,8829584,0,0,Negitivefrags,,,"I think you might be missing how a traditional company works.<p>Nobody sets an arbitrary percentage of anything and forces dividends.<p>When the companies directors think that there is enough spare money in the bank account, generated from profits, they distribute those profits to the people who own the company.<p>The founders and investors of the company get the actual profits that the company generates. A strange concept I know!",1420250016
+8829612,comment,8828155,8828155,0,0,ahomescu1,,,"I&#x27;m surprised to see on that list some sequels to flops, Pacific Rim being the perfect example. Why would anyone go watch Pacific Rim 2, or London Has Fallen (which I assume is a sequel to Olympus Has Fallen)?",1420250014
+8829611,story,,,4,0,JohnHammersley,"The Mouse's Tale in LaTeX",https://www.overleaf.com/read/tptdkgmwznys,,1420249921
+8829609,comment,8829194,8829554,0,0,twic,,,"Is there any particular PostgreSQL or ZFS configuration that is necessary?<p>I vaguely remember something about turning off the ZIL for the data files, because the WAL provides the integrity. Or the other way round. Or something else.",1420249902
+8829608,comment,8829111,8829593,0,0,frozenport,,,">>Is bootstrapping really a viable path to an exit in 2015?<p>Academic startups where the technology is based on research are bootstrapped until the commercial viability of their ideas is demonstrated, wherein they sell their patent portfolios. Is this an exit?",1420249871
+8829607,comment,8829111,8829568,0,0,mbesto,,,"Which is ironic because they say <i>&quot;Like cement, the cultural foundation for new projects and companies sets early.&quot;</i><p>It seems the financial terms are clear as cement too. I&#x27;m really interested in this model for my business (sounds perfect for where we are) but clarity of terms makes me hesitate.",1420249855
+8829606,comment,8828250,8829564,0,0,MichaelGG,,,"Cloudflare takes the right approach of being content neutral.",1420249807
+8829605,comment,8829111,8829568,0,0,forsaken,,,"Or get 50-200% back with a higher bar for entry (already having revenue, only needing 200% investment back out in 2 years)",1420249704
+8829604,comment,8828040,8829354,0,0,JadeNB,,,">  Isn’t that an infinite regress problem?<p>I can certainly see the sense in which it might be said to be, but I think that&#x27;s not the sense in which the term is originally meant.  I tried to come up with an explanation of why I think they were meaningfully different by an appeal to mathematical analogy, but I&#x27;m not sure that it&#x27;s convincing.<p>Fermat argued as follows: a positive integer solution to `x^4 + y^4 = z^4` could always be converted into a smaller such solution, and you can&#x27;t produce ever-smaller positive integers forever, so there weren&#x27;t any such solutions in the first place.  I&#x27;d say that this is clearly an infinite regress (though it was actually called infinite descent).<p>On the other hand, consider the problem of subtracting 1.  In the system of ordinary (not-necessarily-positive) integers, this leads to a (non-paradoxical) infinite regress; whereas, in the system of integers modulo some fixed positive integer, it leads to a (non-paradoxical) circularity (where repeatedly subtracting 1 from a number will eventually yield that number itself).  I think that it is reasonable to call these different phenomena.",1420249675
+8829603,comment,8828250,8829564,0,0,newaccountfool,,,"Until cloudflare are contacted by police then I see no reason to drop a client.",1420249647
+8829601,comment,8826060,8829407,0,0,munificent,,,"> Assigning different semantics to two passages of code whose only syntactic difference is in the composition of their whitespace seems like it might be a misfeature.<p>I&#x27;ll admit it&#x27;s a bit iffy. However, newlines are already significant as statement separators, so this isn&#x27;t totally outside the bounds of reason.<p><pre><code>    name = { &quot;Fred&quot; } // implicit return
+</code></pre>
+This looks a little too similar to a setter definition to me. Also, it makes sense here, but would look really strange for a lambda:<p><pre><code>    people.map {= |person| person.name }
+</code></pre>
+The typical solution is &quot;=>&quot;, like:<p><pre><code>    people.map (person) => person.name
+</code></pre>
+But then without a trailing delimiter, it&#x27;s hard to chain multiple of these calls together, which is really common in list manipulation.",1420249572
+8829600,comment,8829111,8829489,0,0,MichaelGG,,,"Last I checked, these startup grants were for 29 and under or for less populated areas (like Northern Ontario). Although one friend got $80k to write some open source software. It may have been Ontario specific.",1420249547
+8829599,comment,8829111,8829571,0,0,MrAlmostWrong,,,"If you check the bottom of the site there is an email address that you contact to get invited into the slack. It belongs to <a href=""http://oatv.com/"" rel=""nofollow"">http://oatv.com/</a> so I would assume that is who is behind this.",1420249540
+8829598,comment,8828250,8829320,0,0,acheron,,,"Why would anyone be able to prevent someone from connecting to another machine to play a game?<p>Oh, because they use centralized servers. Well, don&#x27;t do that. Live by the cloud, die by the cloud.",1420249512
+8829597,story,,,6,0,AxisOfEval,"Five cases that will give NSA a hard time",http://arstechnica.com/tech-policy/2015/01/if-the-supreme-court-tackles-the-nsa-in-2015-itll-be-one-of-these-five-cases/,,1420249478
+8829596,comment,8828041,8829088,0,0,codezero,,,"Yep. I recently got stung by a bee, and a day later, my finger had swollen up, then the next day my hand started to swell. I knew it wasn&#x27;t an allergic reaction because of the speed, but went to the doc and got antibiotics. I do wonder how it would have played out were they not available, the swelling had become pretty uncomfortable, and seemed to be spreading pretty persistently!",1420249454
+8829595,comment,8829207,8829517,0,0,jenscow,,,"The <i>impact</i> isn&#x27;t as severe, for cultural reasons.",1420249439
+8829594,comment,8827904,8829295,0,0,MichaelGG,,,"Is it incompetence, arrogance, ignorance, or ? that&#x27;d lead them to making such annoying decisions? Argentina doesn&#x27;t have a nutty religion forcing them to do this right?",1420249379
+8829593,comment,8829111,8829111,0,0,ykumar6,,,"Is bootstrapping really a viable path to an exit in 2015? Most of the companies indie.vc mention were founded in the early or mid 2000s, so these are bad examples to follow.<p>Back then, there was much less competition for eyeballs, resources, developers, etc. You <i>could</i> grow slowly, without worrying about VC-funded company X or Y or Z catching up.<p>Today, that seems much much harder.",1420249357
+8829592,comment,8828046,8829473,0,0,alfiedotwtf,,,"> It&#x27;s just not willing to go all out.<p>Then applying logic, it can&#x27;t win the war.",1420249326
+8829590,comment,8823733,8829487,0,0,blackkettle,,,"source code should also be included as a matter of course...<p>i don&#x27;t think it is an oversell, in the sense that it is still unusual to include source code and experimental setups [at least in my field]. a replicable environment with included source code is a large step forward.<p>sad as that might be.",1420249313
+8829589,story,,,1,0,jfdi,"Show HN: Pelicanyan – bringing Jekyll's Lanyon theme to Pelican",https://github.com/thomaswilley/pelicanyan,,1420249291
+8829588,comment,8829111,8829489,0,0,jevyjevjevs,,,"<a href=""http://www.nrc-cnrc.gc.ca/eng/irap/index.html"" rel=""nofollow"">http://www.nrc-cnrc.gc.ca/eng/irap/index.html</a>",1420249289
+8829587,comment,8829194,8829194,0,0,65a,,,"All of this is incredibly out of date. ZFS on linux uses SPL, not FUSE and growing filesystems on either platform (FreeBSD, Linux or Solaris) is easy",1420249286
+8829586,comment,8823472,8827025,0,0,tsotha,,,"The Super Hornet has something like a 350 mile radius with a &quot;normal&quot; strike package.  That&#x27;s not very much, and it gets worse every year as US carrier fleets are forced further into blue water to deal with the latest Moskit descendants.<p>That&#x27;s why the Navy is so hot to develop the X-47 into something they can deploy.<p>If refueling aircraft are available then far more capable land-based aircraft should have been used anyway.<p>As far as when the Harrier has made the difference, well, we haven&#x27;t fought many pitched battles lately, so it&#x27;s hard to say.  But you can&#x27;t design a military with the idea you&#x27;ll <i>never</i> have to fight a pitched battle.<p>EDIT:  By the way, one of the advantages of the F-35B is supposed to be that its design is inherently less crash prone.  We&#x27;ll see.",1420249272
+8829585,comment,8825750,8826009,0,0,dllthomas,,,"So, for an interesting example of <i>using</i> monads, consider parser combinators.  I&#x27;m basing this loosely off of the parsers provided by the parsec package, but simplifying a bit.<p>Let the type &quot;Parser a&quot; represent a parser that produces an &quot;a&quot;, after consuming some (or no) input.<p>(In Haskell, lowercase letters are used for polymorphic types;  Parser Integer is a parser that produces an Integer, Parser String a parser that produces a string, and so on.  Any concrete value will be of some more specialized type, but functions can work on the polymorphic version if they don&#x27;t rely on it being something more specific.)<p>Note that parsers may also fail, and give up on parsing further input, instead returning information about how it failed.<p>To run a parser against some input, we can do something like:<p><pre><code>    case (parse someParser inputString) of
+        ResultFailure errorString -> do something with error string
+        ResultSuccess value -> do something with value
+</code></pre>
+where<p><pre><code>    parse :: Parser a -> String -> Result a
+
+    data Result a = ResultFailure String | ResultSuccess a
+
+</code></pre>
+We can put together a lot of things of this type.  The simplest returns just a fixed thing and doesn&#x27;t even look at the input.<p><pre><code>    return :: a -> Parser a
+
+</code></pre>
+So the expression,<p><pre><code>    parse (return 5) inputString
+</code></pre>
+would reduce to ResultSuccess 5, regardless of the input.<p>We can also have things that return the next character, whatever it is:<p><pre><code>    anyChar :: Parser Char
+
+    parse anyChar &quot;f&quot; -- ResultSuccess &#x27;f&#x27;
+    parse anyChar &quot;7&quot; -- ResultSuccess &#x27;7&#x27;
+    parse anyChar &quot;&quot; -- ResultFailure &quot;premature end of input&quot;
+
+</code></pre>
+Or we can have something more restricted, like...<p><pre><code>    oneOf :: [Char] -> Parser Char
+
+    abc = oneOf [&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;]
+
+    parse abc &quot;a&quot; -- ResultSuccess &#x27;a&#x27;
+    parse abc &quot;d&quot; -- ResultFailure &quot;unexpected &#x27;d&#x27;&quot;
+
+</code></pre>
+And we can have more sophisticated things:<p><pre><code>    natural :: Parser Integer
+
+</code></pre>
+So now... where does &quot;monad&quot; come in?<p>Well, when we go to build a new parser out of these components, we need some way of combining them.  We can do our parsing explicitly...<p><pre><code>    parseWithLeftovers :: Parser a -> String -> (String, Result a)
+
+    parseTwoIntegers input = case parseWithLeftovers integer input of
+        (_, ResultFailure errorString) -> ...
+
+        (input2, ResultSuccess int1) -> case parseWithLeftovers whiteSpace input2 of
+            (_, ResultFailure errorString) -> ...
+
+            (input3, ResultSuccess _) -> case parseWithLeftovers integer input3 of
+                (_, ResultFailure errorString) -> ...
+                (_, ResultSuccess int2) -> return (int, int2)
+
+</code></pre>
+It should be plenty obvious why we don&#x27;t want to do <i>that</i> every time.  Let&#x27;s factor out the boiler plate.  The question is what that looks like...<p>What if we set it up so those results could be collected and passed to an arbitrary function?  That could let us write something like...<p><pre><code>    parseTwoIntegers = (,) <$> integer <*> (whiteSpace *> integer)
+</code></pre>
+While you may not understand the symbols, I expect you&#x27;ll agree that&#x27;s quite a bit more readable.<p>But that still doesn&#x27;t actually require monads.  <$> is a synonym for fmap, the two operators containing asterisks are from Applicative.  Can we do everything we might want with these, without getting crazy explicit and chaining parsers by hand again?<p>Well, let&#x27;s look a little closer at what&#x27;s going on above.  Specialized for clarity, the above operators have the following types:<p><pre><code>    (,) :: a -> b -> (a, b)
+
+        tuple operator - takes two arguments, makes a tuple out of them
+
+
+    (<$>) :: (a -> b) -> Parser a -> Parser b
+
+        &quot;fmap&quot; - applies a function to the result of a
+            parser, making it into a parser that does the
+            same thing but returns the modified result
+
+    (<*>) :: Parser (a -> b) -> Parser a -> Parser b
+
+        &quot;ap&quot; - takes a parser *producing a function*, and a
+            parser producing a value, and gives us a parser
+            that applies the function to the value
+
+    (*>) :: Parser a -> Parser b -> Parser b
+
+        Takes two parsers, runs both, returns the result of the second
+
+</code></pre>
+Walking the above expression from left to right, we see...<p><pre><code>    (,)                 :: a -> b -> (a, b) -- tuple operator
+
+
+    (,) <$>             :: Parser a -> Parser (b -> (a, b))
+        note that the partial application of (,) *inside* 
+        the parser gives us a parser returning a function
+
+
+    (,) <$> integer     :: Parser (b -> (Integer, b))
+        we&#x27;ve picked our &quot;a&quot; and are left with a parser
+        returning a function - a job for &quot;ap&quot;
+
+
+    (,) <$> integer <*> :: Parser b -> Parser (Integer, b)
+        It should be reasonably apparent how the bit in
+        parens reduces, so skipping ahead...
+
+
+    (,) <$> integer <*> (whiteSpace *> integer) :: Parser (Integer, Integer)
+</code></pre>
+It&#x27;s easier - and not wrong - to think of &quot;f <$> ... <<i>> ... <</i>> ...&quot; as &quot;apply this function to these wrapped values, giving me a wrapped result&quot; - but the above is <i>how</i> that happens, and following it is a bit necessary for this next bit...<p>What if we want to write<p><pre><code>    readNChars :: Parser [Char]
+</code></pre>
+where the parser first reads the number of characters to read, and then reads that number of characters?<p>Looking at the above operators, there&#x27;s something that the function <i>arguments</i> (wrapped or not) have in common: none of the function arguments <i>return</i> a Parser.  So the functions can&#x27;t dictate <i>what is parsed</i>.  That&#x27;s what we fix next:<p><pre><code>    (>>=) :: Parser a -> (a -> Parser b) -> Parser b
+        &quot;bind&quot; - takes a parser, and a function that 
+        returns a parser, runs the first parser, feeds the 
+        result into the function, and runs the resulting
+        parser
+</code></pre>
+This, then, allows us to say things like:<p><pre><code>     parseCountItems :: Parser a -> Integer -> Parser [a]
+     parseCountItems p i = sequence (genericReplicate i p)
+
+     readNChars :: Parser [Char]
+     readNChars = integer >>= parseCountItems anyChar
+
+</code></pre>
+Haskell programmers <i>care</i> that it&#x27;s a monad for three reasons.  First, communicative value - the pattern comes up a lot and it&#x27;s useful to be able to quickly convey what&#x27;s going on.  Second, there are actually a number of useful functions that can be applied to <i>any</i> monad.  For instance,<p><pre><code>    mapM :: Monad m => (a -> m b) -> [a] -> m [b]
+    filterM :: Monad m => (a -> m Bool) -> [a] -> m [a]
+    when :: Monad m => Bool -> m () -> m ()
+    foldM :: Monad m => (a -> b -> m a) -> a -> [b] -> m a
+</code></pre>
+Finally, do notation.  Haskell provides some syntactic sugar that turns<p><pre><code>    do
+        statement1
+        var <- statement2
+        statement3 var
+</code></pre>
+into<p><pre><code>    statement1 >>= \ _ -> statement2 >>= \ var -> statement3 var
+
+</code></pre>
+The above &quot;readNChars&quot; could be rewritten:<p><pre><code>    readNChars = do
+        cnt <- integer
+        sequence (genericReplicate cnt anyChar)
+
+
+</code></pre>
+Do notation can often be clearer for complicated monadic expressions.",1420249163
+8829584,comment,8829111,8829111,0,0,karamazov,,,"I&#x27;m curious to know how they plan to compensate for the failure rate of startups.<p>If half of the portfolio fails (a good outcome), the cashout option would need to be 2x the original investment for them to break even. More if failing companies are likely to use up the entire line-of-credit and successful companies are not.<p>Setting the payout to be a percent of revenue might work, but could also kill a company with thin margins. Setting it to be a percent of profit will encourage companies to post zero profits. I&#x27;m not sure what the other options are.",1420249102
+8829583,comment,8829194,8829463,0,0,prakashsurya,,,"Could not have said it better myself. It&#x27;s disappointing to see a post with such unfounded nonsense rated so high on HN.",1420249065
+8829582,comment,8829225,8829225,0,0,svisser,,,"Presumably this combines &quot;git&quot; and &quot;discuss&quot; but it now concatenates &quot;git&quot; and &quot;cuss&quot;.",1420249058
+8829581,comment,8829526,8829526,0,0,jkbyc,,,"Learn about positioning (market segmentation, differentiation). Think about what clients want, resp. what your ideal client would see as ideal service. Do they care about how good/pretty your designs are? Or maybe do they care about making money? They care about achieving a goal with that design - getting more users, building their trust, converting them, ... Do they know how to achieve all that? Probably not. How do you help them with it? What are they afraid of? (missing deadlines, overspending, lack of visibility into what you&#x27;re doing, having to handhold you too much). How do you overcome that? How do you communicate it? Network. Find your ideal clients. Approach them. Read comments of HN users such as patio11. Check out what Ramit Sethi has to say (and many others).",1420249056
+8829580,story,,,1,1,astrobiased,"Ask HN: What are the essential VIM plugins for 2015?",,"There are a lot of plugins for VIM, and I want to go down to the barebones to have a simple yet efficient setup. What does the HN community think are the absolutely essential plugins that one must have?",1420249052
+8829579,comment,8825847,8825847,0,0,polar8,,,"Asking &quot;where can I find a co-founder&quot; is alot like asking &quot;where can I find a wife?&quot;. There are no shortcuts. Those who would be willing to join you at a moment&#x27;s notice are precisely the kind of people you will want to avoid.",1420249029
+8829578,comment,8827985,8828279,0,0,julie1,,,"It is called cargo cult computing.<p>People understand the security importance, they hear the words, and instead of applying them, they disguise as monkeys and are repeating the words ad nauseum while throwing bananas at people&#x27;s faces expecting security to happen.<p>It is also happening in OS, sysadmins, science...<p>You are not the only one to experience this.<p>Stay light hearted :) anyway, you are closer to the retirement they are, thus you will have less mess to clean.",1420249012
+8829577,comment,8826506,8826506,0,0,Danack,,,"So it&#x27;s just failing a lot of the time on purpose?",1420249009
+8829576,comment,8828866,8829239,0,0,brynet,,,"FreeBSD&#x27;s binary packages aren&#x27;t .pkg, but rather .txz (.tar + .xz).<p><a href=""http://pkg.freebsd.org/freebsd:10:x86:64/latest/All/2bsd-diff-2.11.txz"" rel=""nofollow"">http://pkg.freebsd.org/freebsd:10:x86:64/latest/All/2bsd-dif...</a>:<p><pre><code>  -rw-r--r--  1 root     wheel          626 Dec 31  1969 +COMPACT_MANIFEST
+  -rw-r--r--  1 root     wheel          921 Dec 31  1969 +MANIFEST
+  tar: Removing leading / from absolute path names in the archive
+  -r-xr-xr-x  1 root     wheel        30616 Oct  3 10:49 usr/local/bin/2diff
+  -r-xr-xr-x  1 root     wheel        11256 Oct  3 10:49 usr/local/libexec/2diffh
+  -r--r--r--  1 root     wheel         2823 Oct  3 10:49 usr/local/man/man1/2diff.1.gz
+</code></pre>
+This is similar to other BSD binary package formats.",1420248993
+8829575,comment,8829207,8829427,0,0,orbifold,,,"You can combine such a privilege escalation with an USB virus, social engineering, etc. to get remote root access to a machine and eventually all machines of a network.",1420248961
+8829574,comment,8828040,8828537,0,0,TheOtherHobbes,,,"I see you missed this:<p><a href=""http://phys.org/news/2014-10-interacting-worlds-theory-scientists-interaction.html"" rel=""nofollow"">http://phys.org/news/2014-10-interacting-worlds-theory-scien...</a>",1420248922
+8829573,story,,,3,0,aceperry,"Ownership of Yosemite park names in dispute",http://www.mercurynews.com/california/ci_27245510/dispute-could-lead-name-changes-at-yosemite,,1420248861
+8829572,comment,8822817,8822817,0,0,MichaelTieso,,,"SEEKING FREELANCER - Technical Writer - Remote<p>Looking for a technical writer that can write a beginners level lessons on WordPress related topics. An example of a lesson is &quot;How to Setup a Test Environment&quot;. Each lesson being 1000+ words in English.<p>Please email me at michael[at]travelblogsuccess[dot]com with either flat rate or per word rate along with examples of your writing. Thanks!",1420248820
+8829571,comment,8829111,8829111,0,0,zacharycohn,,,"My biggest question... who are you?",1420248799
+8829570,comment,8823733,8827037,0,0,blackkettle,,,"well, the idea is that you should be able to run <i>any</i> data set you have, and get good results relative to other solutions. but that is an open question with any research.<p>the point of the docker/lxc aspect is to provide a simple working environment to facilitate replication and validation.<p>so in comparison to the status quo, which is basically &#x27;write a paper, include some high level equations, and results&#x27;, i think this is a step forward in a better direction.",1420248797
+8829569,comment,8829111,8829439,0,0,karamazov,,,"By not requiring the company to be in Canada, for one.",1420248795
+8829568,comment,8829111,8829519,0,0,JohnHaugeland,,,"I think the expected payback is going to be a large multiple.<p>The part that&#x27;s not a small business loan, I&#x27;m guessing, is that these are venture capitalists acting on longshots.<p>5-10% won&#x27;t let you tolerate any misses.",1420248794
+8829567,comment,8827904,8829130,0,0,jasoncartwright,,,"Swatch tried &quot;Internet Time&quot;, which was also decimal.<p><a href=""http://en.wikipedia.org/wiki/Swatch_Internet_Time"" rel=""nofollow"">http://en.wikipedia.org/wiki/Swatch_Internet_Time</a>",1420248792
+8829566,comment,8828155,8828534,0,0,serge2k,,,"You still have things like that. Look at Nightcrawler.",1420248753
+8829565,comment,8827722,8828459,0,0,slm_HN,,,">The Mac App Store is a ghetto.<p>You keep using that word. I do not think it means what you think it means.<p>From Wikipedia: &quot;A ghetto is a part of a city in which members of a minority group live, especially because of social, legal, or economic pressure.&quot; I don&#x27;t see how that applies to the app store.<p>Maybe you&#x27;re trying to use the slang definition of ghetto, in which case you want an adjective and not a noun. Try &quot;The Mac App Store is ghetto, yo.&quot; But &quot;The Mac App Store is a ghetto.&quot; I don&#x27;t know what you&#x27;re trying to say with that phrase.",1420248706
+8829564,comment,8828250,8828728,0,0,drzaiusapelord,,,"Its up now. Tops story is about the lizard squad. This is an interesting tidbit:<p>>These two services, like most booters, are hidden behind CloudFlare<p>Wow, is cloudflare so poorly run they have no idea they&#x27;re hosting/caching/accelerating Lizard Squad tools? CF plays up itself as this strong security minded service, but it looks like they&#x27;re in bed with the blackhats.<p>I was on the fence with them, but now I think I&#x27;m just going to roll my own mod_security/mod_evasive proxy and call it a day. If they dont care about or can&#x27;t detect these types of clients, then I don&#x27;t want to do business with them.",1420248702
+8829563,comment,8829111,8829111,0,0,javery,,,"Doesn&#x27;t Lighter Capital do this? Or other royalty based investments?",1420248646
+8829562,story,,,3,4,jason_slack,"Ask HN: Raspberry Pi or Parallela Clusters use cases for normal people?",,"I&#x27;ve been having an itch to scratch on building a Raspberry Pi or Parallela cluster. I can&#x27;t however figure out a use case to achieve.<p>Perhaps I could:<p>- use it to scale images to various sizes<p>- use it to encode movies to various formats for HTML5 compatibility (mp4, webm, ogv, etc)<p>For normal people (I am a c++ developer though) what are some other things that I could accomplish? OpenCL tasks? Ideas?",1420248607
+8829561,comment,8829207,8829484,0,0,cheald,,,"This is a great point. The article bemoaned Project Zero&#x27;s rigid deadline as unreasonable, but I think you have it right - a known and standard deadline doesn&#x27;t leave anyone surprised.",1420248598
+8829560,comment,8829194,8829447,0,0,bcantrill,,,"From that post:<p><i>I will not make any comments on how this affects performance (I’ll save that for a future post). I also deliberately ignore ZFS caching and other optimizing features – the only thing I want to show right now is how much fragmentation is caused on physical disk by using ZFS for Oracle data files.</i><p>Any engineer should be able to appreciate why this is frustrating from the perspective of ZFS:  if you&#x27;re going to turn off all of the things added for performance, reasoning about performance isn&#x27;t terribly interesting.<p>He did (kind of) post the promised follow up about eighteen months later[1], but it was running ancient ZFS bits (at <i>least</i> four years old when it was published) on a gallingly mistuned configuration (he only had 100M of ARC).<p>Again, what we know is our own experience from running Postgres on ZFS -- which has been refreshingly devoid of ZFS-related performance problems.  And experience has taught me to trust my own production experience much more than naive microbenchmarking exercises...<p>[1] <a href=""https://bartsjerps.wordpress.com/2014/08/11/oracle-asm-vs-zfs-xtremio/"" rel=""nofollow"">https://bartsjerps.wordpress.com/2014/08/11/oracle-asm-vs-zf...</a>",1420248567
+8829559,comment,8827904,8829514,0,0,icebraining,,,"But the &quot;natural noon&quot; you described <i>is</i> more simple than the timezones with DST that might or might not happen depending on who was elected locally and nationally.<p>A system where noon is regulated by a single, immutable equation describing the position of the Earth vis-à-vis the Sun would be much easier to implement.",1420248565
+8829558,comment,8828040,8829429,0,0,mratzloff,,,"There is no evidence for unicorns, but I don&#x27;t know why everyone assumes they don&#x27;t exist. Isn&#x27;t it equally likely that they are just really good at hiding?",1420248558
+8829557,comment,8828250,8828976,0,0,peteretep,,,"No kids yet, right?",1420248494
+8829556,comment,8825375,8827919,0,0,cli,,,"I speak enough Japanese to know this, but I still disagree. These organizations have an official and well known English name, and these English articles were written for English speakers, not Japanese speakers. It would be like calling China &quot;Middle/Central Nation/Country&quot;, or just calling it Zhongguo.",1420248477
+8829555,comment,8829207,8829428,0,0,cheald,,,"Metasploit does the same thing, and we&#x27;ve managed to not have the internet implode yet.<p>Yours is the standard argument against <i>any</i> form of disclosure. I&#x27;m not discounting it, because no disclosure has its merits, but responsible disclosure satisfies both an ethical imperative (you can&#x27;t let people believe they&#x27;re secure if you know otherwise) and provides pressure on vendors to fix their software, when the vendor might otherwise deem it not worth the time or money to fix the issue, which leaves their customers vulnerable.<p>The basic idea behind disclosure is &quot;we might not be the first people to find this, and we definitely won&#x27;t be the last, so let&#x27;s remove all doubt and rob the bad guys of the element of surprise&quot;. Responsible disclosure is intended to permit responsible vendors to fix the issue before wide publication, but an uncooperative vendor doesn&#x27;t mitigate the reality that the bug exists and will eventually be found by someone less benevolent.",1420248399
+8829554,comment,8829194,8829463,0,0,smilliken,,,"> &quot;well known data base [sic] degradation&quot;<p>Came in here to refute this as well. We&#x27;ve been running PostgreSQL on ZFS (ZoL) at MixRank, and it&#x27;s been holding up very well. We switched from EXT primarily for compression which gives us ~2x savings on IO throughput.",1420248391
+8829553,comment,8823472,8826980,0,0,tsotha,,,"The problems you&#x27;ve outlined really are pretty normal teething problems for a system like this.  The best argument in favor of cancellation is cost.<p>Personally I would never have produced a new strike aircraft.  With the advent of cheap guided bombs what you really need is complete dominance of the air and big, big bomb trucks.  I would have bought another thousand F-22s and spent money upgrading the heavy bomber fleet.<p>Nobody asked me, though :)",1420248378
+8829552,comment,8829111,8829111,0,0,jonbarker,,,"How is this different from a convertible bond?",1420248319
+8829551,story,,,6,4,jkbyc,"MIT professor explains: The real oppression is having to learn to talk to women",http://www.rawstory.com/rs/2014/12/mit-professor-explains-the-real-oppression-is-having-to-learn-to-talk-to-women/,,1420248265
+8829550,comment,8827600,8828650,0,0,tsm,,,"Apartment Guide gave me a mug at Clojure/West last year...I was a little surprised that they were so invested in Clojure that they were sending multiple devs with boxes of swag to a Clojure conference. The devs I talked to also said they weren&#x27;t very experienced with Clojure yet.",1420248250
+8829549,story,,,63,4,dil8,"Pandas pivot table explained",http://pbpython.com/pandas-pivot-table-explained.html,,1420248238
+8829548,story,,,2,0,vinnyglennon,"Dev-Ops everywhere",https://dev-ops-tools.zeef.com/richard.kraayenhagen,,1420248198
+8829547,comment,8829111,8829352,0,0,mhluongo,,,"Why not? It&#x27;s a quick application.",1420248174
+8829546,comment,8828250,8829150,0,0,personZ,,,"If they&#x27;re taking over Paypal accounts or stealing credit card numbers, it can be as simple as buying a lot of capacity at the various VPN provider. We know from the attack on Tor that they had many thousands of google compute instances, and the same may be true on the many, many other providers.",1420248164
+8829545,comment,8826060,8827502,0,0,twic,,,"I&#x27;ve come to subscribe to a school of thought that says a constructor should never do anything other than assign its arguments to fields. Perhaps validate them, i suppose. But not compute with them - if you want to do computation for the creation of an object, write a factory method.<p>For me and my fellow disciples, it would therefore be really nice to have a constructor syntax that does this implicitly. So instead of writing:<p><pre><code>  class Customer {
+    new(customerNumber, name, address) {
+      _customerNumber = customerNumber
+      _name = name
+      _address = address
+    }
+  }
+</code></pre>
+We could just write something like:<p><pre><code>  class Customer {
+    new(customerNumber, name, address)
+  }
+</code></pre>
+Or, if you like Scala:<p><pre><code>  class Customer(customerNumber, name, address) {}
+</code></pre>
+I&#x27;m a Java programmer by day, and some thoroughly depressing fraction of the lines of code in my codebases are of the form:<p><pre><code>  private final AmazingObjectOfSomeKind amazing;
+  private final BrilliantObjectOfSomeOtherKind brilliant;
+  private final CrappyObjectOfAnyKind crappy;
+  public Foo(AmazingObjectOfSomeKind amazing,
+             BrilliantObjectOfSomeOtherKind brilliant,
+             CrappyObjectOfAnyKind crappy) {
+    this.amazing = amazing;
+    this.brilliant = brilliant;
+    this.crappy = crappy;
+  }
+</code></pre>
+Users of other languages quite rightly point and laugh at me for this. Now, Wren doesn&#x27;t have those types cluttering up the place, nor does it have the field declarations, but it does still have unnecessary verbosity, and that verbosity provides crevices for bugs to hide in (add a parameter to a constructor, forget to add a corresponding assignment). It might be nice to add a dash of syntactic sugar to eliminate this problem.<p>Another facet of this school&#x27;s approach is that objects are generally immutable. So instead of:<p><pre><code>  class Account {
+    withdraw(amount) { _balance = _balance - amount }
+  }
+</code></pre>
+We would write:<p><pre><code>  class Account {
+    withdraw(amount) { new Account(_balance - amount) }
+  }
+</code></pre>
+(Although in fact, a bank account might be one of the cases where we wouldn&#x27;t do this, but never mind)<p>That gets old as soon as you have a few fields. Like:<p><pre><code>  class Account {
+    withdraw(amount) { new Account(_accountNumber, _sortCode, _balance - amount, _accountType) }
+  }
+</code></pre>
+There&#x27;s another bit of Scala sugar that is nice here - an automatic copy method which takes keyword arguments to override particular fields. Like:<p><pre><code>  class Account {
+    withdraw(amount) { copy(balance = _balance - amount) } // other fields implicitly copied
+  }
+</code></pre>
+Might something like that might be useful enough to justify its weight?",1420248161
+8829544,story,,,1,0,tqn,"Ask HN: What are strategies on-demand services have used to hire their workers?",,"I&#x27;m interested in learning how on-demand service providers (e.g. TaskRabbit, Uber, HomeJoy, Munchery) have gone about recruiting their workers.",1420248149
+8829543,comment,8828250,8829250,0,0,newaccountfool,,,"I have to say that Brians recent posts seem a little pissy and childish in his wordings. He also stated facts that are untrue such as that most of Lulzsec are in jail...currently most of them are out and never served much time.",1420248144
+8829542,comment,8826940,8827687,0,0,cerrelio,,,"The only thing I&#x27;ve seen Scribd used for is embedding legal filings on various news and e-rag sites.  Getting into legitimate publishing distribution is going to be tough.  Licensing content is a pain; and once the sweetheart deals expire, there go the profit margins.",1420248082
+8829541,comment,8826024,8826300,0,0,curun1r,,,"If anyone&#x27;s interested in a somewhat out-of-the-box version of what&#x27;s described above, using a Consul server/cluster to hold this information should give you basically everything ntucker listed. It&#x27;s pretty trivial to setup and configuring it to store its data on an encrypted partition is also pretty simple. It&#x27;s got ACLs and can support TLS connections as well. It&#x27;s also got a bunch of features that the above system doesn&#x27;t have, like being distributed (redundancy isn&#x27;t the same thing as consensus) and datacenter-aware (I&#x27;d prefer to have different secrets per-datacenter, when possible).<p>We&#x27;ve been using it to store our application secrets for some time and had no complaints.",1420248075
+8829540,comment,8829207,8829427,0,0,cheald,,,"This is a <i>big</i> issue in enterprise deployments. Consider, for example, the Sony hack - this is the kind of issue that allows a savvy low-level employee to wreak havoc on their employer, because once you can get root on a machine inside a corporate network, all kinds of doors open.<p>This isn&#x27;t a remote root code execution bug, but it shouldn&#x27;t be taken lightly, either. The exact environments where this bug would be applicable (locked-down) are the environments that could suffer severe damage because of an escalation issue.<p>The thing is, though, local privilege escalation isn&#x27;t new, and it isn&#x27;t novel. This is one in a long string of many, many similar bugs across most every major platform. It&#x27;s completely unremarkable except for the reluctance on MS&#x27;s part to patch it in a reasonable timeframe.",1420248041
+8829539,comment,8823472,8827717,0,0,tsotha,,,"The go-to weapon now for CAS is the SDB, which is 250 pounds.  In theory the F-35 can carry 32 of them.  48 if they tweak the bomb racks.<p>Guided missiles are much more efficient than guns on a pound-for-pound basis, particularly for an anti-armor role.  DU is heavy.",1420247984
+8829538,comment,8828833,8828833,0,0,read,,,"Make Arc use all cores. Although it&#x27;s already multi-threaded, all threads use a single processor. Or make Arc scale out on multiple machines by modifying its webserver to shard based on username.<p>If this works it can run HackerNews.",1420247982
+8829537,comment,8827600,8829160,0,0,dkersten,,,"Can you explain why?<p>Pulsar looks nice, but I&#x27;m not quite sure why users (especially new ones) should prefer it.",1420247975
+8829536,comment,8827904,8829514,0,0,dragonwriter,,,"> Noon is a local event that occurs when the sun is due south.<p>&quot;When the sun lies neither east nor west of a particular point on the surface of the Earth.&quot;<p>At least, if you want &quot;noon&quot; to be something that happens everywhere on Earth.",1420247963
+8829535,story,,,3,0,hubot,"Resume-driven developer",https://tuananh.org/2015/01/02/resume-driven-developer/,,1420247947
+8829534,comment,8829194,8829194,0,0,dmpk2k,,,"This is very one-sided, and I agree with most of the commenters in that thread calling the original poster out. About half the bad/ugly points about ZFS simply aren&#x27;t true.<p>But there is one crucial feature ZFS has, which wasn&#x27;t explicitly mentioned. The only feature that really matters: <i>ZFS has been in production use for a nearly decade.</i> On hundreds of thousands, if not millions, of servers. It has <i>bled</i>.<p>Putting on my sysadmin hat, that original poster just makes me wince. Of all the problems to deal with in production, problems caused by untested filesystems is down at the bottom of what I&#x27;d like to wake up to.",1420247928
+8829533,story,,,2,0,techrat,"When AV apps go rogue – CleanMaster flags a competing app SD Maid as malware",https://plus.google.com/app/basic/stream/z12ccdbizprdc134h04ci32i1qnywtwjwnk0k?cbp=1ug1mthjx8pdk&sview=27&cid=5&soc-app=115&soc-platform=1&spath=/app/basic/116634499773478773276/posts&sparm=cbp%3Dycfjygqdwiw9%26sview%3D1%26cid%3D5%26soc-app%3D115%26soc-platform%3D1%26spath%3D/app/basic/stream/z12ccdbizprdc134h04ci32i1qnywtwjwnk0k,,1420247894
+8829532,comment,8828833,8828833,0,0,alok-g,,,"I am interested in using Deep Learning for several Windows Desktop projects but am struggling a bit due to dependencies in various open-source libraries which are often built on Linux platforms.<p>I have attempted to use Caffe, which has an unofficial Windows port, which nevertheless is failing to compile for me due to some issue.  I have looked at DeepLearning4j, but I am again confused by the setup on Windows since it uses some native libraries for BLAS and provides little help on how to set it up.  I am now looking at CXXNET, which looks promising since the source code looks very nicely organised.<p>Another issue I face is that most libraries come with MNIST, ImageNet, etc. examples where the training data is already pre-processed, and I find practically no examples of how to plug my own data.  (In fact, the specific problem I am interested in may require modifying the library a bit.)<p>I am unsure if this work will be of help to you, though I can imagine other folks on Windows who may benefit from this.",1420247892
+8829531,comment,8827925,8827925,0,0,markmassie,,,"Minihack is the best Hacker News app I&#x27;ve found found for iOS. I&#x27;ve tried almost all of the HN apps in the App Store and Minihack is the one that I keep on my homescreen. It meets all of the criteria you listed, including the bonus ones, and the dev has done a great job at keeping the app up to date and bug-free.<p>[1] <a href=""https://itunes.apple.com/us/app/minihack-for-hacker-news/id631108846?mt=8"" rel=""nofollow"">https://itunes.apple.com/us/app/minihack-for-hacker-news/id6...</a>",1420247857
+8829530,comment,8828259,8828259,0,0,dthal,,,"I think the solution to this has to be mainly technological, not (primarily) legal. Fake cell towers are not NSA-level technology and it seems that they are being deployed in lots of places [1][2], probably by lots of different parties. If a bunch of people are doing it, changing the law won&#x27;t help that much. Probably not all of these actors are &#x27;legit&#x27; (police or whatever). The networks themselves have to be secured better so that this is impossible, or at least much harder, to pull off.
+[1]<a href=""http://www.businessinsider.com/mysterious-fake-cellphone-towers-2014-9"" rel=""nofollow"">http://www.businessinsider.com/mysterious-fake-cellphone-tow...</a>
+[2]<a href=""http://www.foxnews.com/world/2014/12/14/norwegian-security-probes-eavesdropping-tracking-devices-hidden-near-government/"" rel=""nofollow"">http://www.foxnews.com/world/2014/12/14/norwegian-security-p...</a>",1420247842
+8829529,comment,8827600,8829243,0,0,dkersten,,,"Is there any documentation on &quot;specify&quot;? I&#x27;ve seen it used from time to time (eg in your Om code), but the only documentation I&#x27;ve found is the dev wiki page[1].<p>[1] <a href=""http://dev.clojure.org/display/design/specify+i.e.+reify+for+instances"" rel=""nofollow"">http://dev.clojure.org/display/design/specify+i.e.+reify+for...</a>",1420247784
+8829528,comment,8827600,8829199,0,0,weavejester,,,"> The advantage of OO has always been its accessible constructs and abstractions that mirror how we talk about things linguistically.<p>I don&#x27;t think there&#x27;s much of a connection to natural language. OO is about commanding objects through messages; if we must make a connection to language, it would be equivalent to the imperative tense.<p>> Heck, even Clojure has its own object systems; they just often call them entities rather than objects<p>Which object systems would these be?",1420247757
+8829527,comment,8822808,8822808,0,0,mbesto,,,"ProctorFree <i></i> <a href=""http://proctorfree.com/"" rel=""nofollow"">http://proctorfree.com/</a> - proctoring technology for remote test taking - edtech<p>Location: Charlotte/Huntersville, NC<p>Hiring: Senior Java Developer<p>We&#x27;re looking for a senior technical person with product experience.<p>Our stack - J2EE, SpringMVC, Java 1.7 (we have a thick client portion)<p>Shoot me an email if interested - mbesto AT gmail",1420247723
+8829525,comment,8828046,8828654,0,0,dragonwriter,,,"> What was the last war the US actually won?<p>Aside from wars which end by formal, unconditional surrender -- where its absolutely unambiguous who &quot;won&quot; -- winning a war isn&#x27;t a well-defined concept. Particularly not well-defined when one belligerent has ambiguous war aims.<p>But, I mean, there are few US wars where you can&#x27;t make an argument that the US won. Certainly, the most recent Iraq War conducted under the authority of the 2002 AUMF (which is distinct from campaign against those parties responsible for 9/11 authorized by the 2001 AUMF) -- in which at least one of the stated war aims was to remove the then-existing Iraqi regime before it could acquire and use WMDs -- was &quot;won&quot; by the US.",1420247717
+8829524,comment,8829277,8829277,0,0,niels_olson,,,"If you find this guy interesting, you should read the $12 Million Stuffed Shark: 
+<a href=""http://www.amazon.com/The-Million-Stuffed-Shark-Contemporary/dp/0230620590"" rel=""nofollow"">http://www.amazon.com/The-Million-Stuffed-Shark-Contemporary...</a>",1420247706
+8829523,comment,8827198,8828465,0,0,encoderer,,,"It&#x27;s certainly a hard thing to measure. I&#x27;m approaching this both anecdotally and, I believe, logically.<p>The vast majority of software developers work in IT departments writing line-of-business applications in Java, .Net, etc. Certainly NYC has a vast number of these jobs. But these roles are all very similar. You&#x27;re working as a cost-center, in a supporting role, for people who ultimately don&#x27;t care about software. This is true whether you&#x27;re a developer for Pfizer or Jet Blue or NBC Universal or any of the other companies based in<p>I really find the hollywood analogy apt. Yes, you can certainly find work as an actor in NYC. But the epicenter of the industry is in Hollywood.<p>Anyway, happy new year!",1420247647
+8829522,comment,8827525,8829376,0,0,olalonde,,,"I personally prefer<p>console.log(&#x27;delay is &#x27; + chalk.green(delay)));<p>as it is more consistent with non console.log expressions. For example, just with copy/paste I could replace the above with:<p>var msg = &#x27;delay is &#x27; + chalk.green(delay);
+console.log(msg);<p>But it&#x27;s really just a matter of preference as long as only one convention is used throughout the same codebase.",1420247605
+8829521,story,,,2,0,aethertap,"Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems [pdf]",http://yann.lecun.com/exdb/publis/pdf/farabet-iscas-10.pdf,,1420247593
+8829520,comment,8828040,8828189,0,0,kazinator,,,"The multiverse hypothesis by definition asserts that such a thing is impossible. The universes are separate. Any entanglement between universes means they are in fact just constituents of a larger universe.<p>I think that the hypothesis will be quasi-proven when science hits the ultimate limit beyond which there is no explanation. This will show that the world just proceeds by arbitrary rules that are traceable to axioms. Once you have that, you have shown that it&#x27;s indistinguishable from any other such a formal system. That is to say, that it <i>exists</i> in the same way: the world is no more or less real than, say, the plane of the complex numbers.  After that, although you still don&#x27;t have empirical evidence of other worlds, there is no short supply of imaginable worlds (such as in mathematics) which are just as real.<p>In other words, once it becomes obvious that the world is just &quot;math all the way down&quot;, it will be as foolish to deny other existences as to deny the square root of -1.",1420247571
+8829519,comment,8829111,8829492,0,0,ChuckMcM,,,"I got that, that is the &#x27;small business loan&#x27; part. I would be amazed if it was charitably paid back 1:1 over time, rather there is going to be some sort of baked in interest rate which will compute what it costs to remove the obligation from the business. Is that 5%? 10%? set by market rates? compounded or simple? What percentage of equity does is represent? Does it participate pro-rata in future financings or does it always convert to cash at that point? That is where the term sheet helps as it lays out that stuff.<p>Looking at it cynically, it could be a great Goldman Sachs instrument - no exit we win! exit we win! But from a founder perspective, it would be helpful to have a couple of worked examples.",1420247553
+8829518,comment,8828040,8828281,0,0,granfalloon,,,"&quot;Yet all of our scientific progress is biased, because we have evolved in a very specific environment that we handle well.&quot;<p>I often get discouraged thinking about this. Our entire body of scientific knowledge consists of inferences drawn from human observation, but our sensory apparatus is only sensitive to a few different things/processes. And the mental processes we apply to our observations evolved to simply help us survive our physical environment. We could be fatally under-equipped to ever come close to &quot;understanding&quot; the universe, right?<p>Also, I&#x27;m WAY out of my depth here, but is it at least <i>possible</i> to imagine a system where there are multiple sets of elementary particles, with each set not interacting with the rest? I&#x27;m imagining an arbitrary number of sets of particles that are each identical in function to the particles comprising our physical world, but the states of the particles in Set 1 have no effect on the states of the particles in Set 2, and so on. The result could be many intertwined or overlaid physical universes, all occupying the same &quot;space.&quot; Could something like this ever be disproved?",1420247550
+8829517,comment,8829207,8829510,0,0,scarmig,,,"Hahah, I figured Windows might be slightly better about this, hence the self-admitted uninformed take.<p>Could you clarify, though: do you mean to say Windows isn&#x27;t as vulnerable because of cultural reasons (i.e. Windows systems aren&#x27;t multi-user usually) or because of technical ones (they support something like SELinux out of the box)?",1420247518
+8829516,comment,8828866,8828994,0,0,tootie,,,"It&#x27;s good to combine efforts. It means potentially a bigger selection of packages that are available to install and more developers maintaining the project since it now has a wider potential user base.",1420247500
+8829515,comment,8827877,8827877,0,0,leo_santagada,,,"a typo: &quot;cost long time&quot;<p>also I think &quot;Inspired From&quot; feels wrong, but I&#x27;m not a native speaker so I&#x27;m not sure.",1420247487
+8829514,comment,8827904,8829480,0,0,brudgers,,,"It&#x27;s the simplicity that&#x27;s artificial. Noon is a local event that occurs when the sun is due south. Timezones and standardized times are the abstractions.",1420247476
+8829513,comment,8828250,8829250,0,0,bhouston,,,"This has happened repeatedly with other groups and he reports it to CNN or other news media and gets coverage.  It was very brief outage on a really small site but it is good for lots of coverage on national media.  I am not jealous, I think it is lame and not newsworthy. His site being down for less than an hour is not news.<p>Seriously, why do you think I am motivated by jealousy?  I am not in his space, have no interactions with him or his foes. I think it is not a newswirthy story. I stand by that.",1420247447
+8829512,comment,8828250,8829293,0,0,joshmn,,,"I don&#x27;t think they take themselves too seriously. Nor should we.",1420247446
+8829511,comment,8823472,8827409,0,0,tsotha,,,"It doesn&#x27;t carry enough ammunition to be more than a slight annoyance to people on the ground.  The Air Force envisions the CAS role to be executed mostly by missiles and bombs.",1420247439
+8829510,comment,8829207,8829477,0,0,jenscow,,,"However, in the case of Windows, this issue isn&#x27;t that much severe as it would be on a unix-like, for example.<p>With the set up of Windows servers I&#x27;ve seen, only the admin logs in anyway. It&#x27;s not really used as a &quot;multi-user&quot; system per-se, where you get different users logging in at the same time. It does happen, but it&#x27;s not common.",1420247345
+8829509,comment,8828936,8829456,0,0,GFK_of_xmaspast,,,"Why are you blaming this on ~~~floating point~~~ instead of glibc?",1420247339
+8829508,comment,8827198,8829399,0,0,krapp,,,"Fair enough.<p>Pushing down discussions because they don&#x27;t make the frontpage varied enough still just doesn&#x27;t seem right to me. I understand that space is limited and nobody ever checks beyond page 1 but still - making threads harder to find doesn&#x27;t seem to serve the interests of anyone who might actually be interested in those discussions.",1420247334
+8829507,comment,8826472,8827822,0,0,leo_santagada,,,"and now the blog is down too...",1420247330
+8829506,comment,8829362,8829362,0,0,hartror,,,"Really neat design but €240 seems really expensive for the people they are targeting.",1420247326
+8829505,comment,8829207,8829477,0,0,mcintyre1994,,,"This is pretty much how I was interpreting it. For context I did an internship at a bank, I had access to a computer and login credentials, but not admin access.  I get the feeling that this would be a hair on fire problem there if like you said it&#x27;d mean me effectively having root.",1420247308
+8829504,comment,8828040,8829474,0,0,kazinator,,,"Other universes aren&#x27;t hidden variables because they have no effect. That is to say, no process in one universe is postulated to explain a process in another universe (because any such a bridge would mean that we are really talking about the same universe, right?)",1420247291
+8829503,comment,8822834,8823464,0,0,tlrobinson,,,"&quot;deterministic builds&quot; is actually a pretty hard problem with most existing compiler infrastructure. Bitcoin and Tor use a system called Gitian: <a href=""https://gitian.org/"" rel=""nofollow"">https://gitian.org/</a>",1420247253
+8829502,comment,8822808,8822808,0,0,stringbeans,,,"Edvisor.io - Vancouver, BC Canada
+(<a href=""http://edvisor.io"" rel=""nofollow"">http://edvisor.io</a>)
+(<a href=""https://angel.co/edvisor-io"" rel=""nofollow"">https://angel.co/edvisor-io</a>)<p>REMOTE Full-time positions available.<p>We&#x27;ve just completed a 3-month stint in NYC with TechStars and we are looking for both backend and frontend engineers to join us!  We have a strong team that loves working together and getting shit done, and we&#x27;re growing really quickly!<p>Edvisor.io is under a year old and has quickly grown its customer base to over 300+ users, at a rate of 50% month-to-month. You’ll be at the front lines of creating technology that’s transforming an $80B industry and working with customers all over the world.<p>1) Backend NodeJS Engineer<p>Requirements:<p>- strong experience with NodeJS<p>- experience with the Loopback framework<p>- strong experience with MySQL<p>- strong experience building a RESTful API<p>2) Frontend Engineer<p>- strong experience with AngularJS<p>- strong experience with HTML5 and CSS3<p>- experience with Foundation for Apps framework<p>- experience with Gulp and Bower build systems<p>You can apply here (<a href=""https://angel.co/edvisor-io"" rel=""nofollow"">https://angel.co/edvisor-io</a>)",1420247249
+8829501,comment,8828178,8828907,0,0,bradleyjg,,,"Well that makes sense then. Brooklyn to central and northern Queens is one of the worst parts of the whole system. I live in Woodside and have friends in Park Slope, so I definitely feel your pain.",1420247212
+8829500,comment,8828543,8829208,0,0,jzila,,,"Are there any plans to patch this into OpenSSH? It looks like they have a great solution for the problem you highlighted.",1420247209
+8829499,comment,8821068,8825705,0,0,Zigurd,,,"Basically the same thing, less formal, more diffuse, and self inflicted.",1420247200
+8829498,comment,8828040,8829460,0,0,kazinator,,,"Whether the existence of pi is different from the existence of a given stone is a philosophical question! Maybe you and I exist exactly in the same sense that pi exists: no more, no less.<p>Concepts can be reshaped. If pi is merely a concept, why can&#x27;t we conceive it to be something else, like 4.0?",1420247184
+8829497,comment,8827722,8828412,0,0,burntcaramel,,,"Dan and other indie developers talk a lot about the importance of doing your own marketing, even if you are in the App Store. And they also underline how being listed in the App Store isn’t close to the results of proper marketing.
+<a href=""http://dancounsell.com/articles/thoughts-on-increasing-app-revenue"" rel=""nofollow"">http://dancounsell.com/articles/thoughts-on-increasing-app-r...</a>
+<a href=""http://www.joecieplinski.com/blog/2014/12/22/building-a-showroom/"" rel=""nofollow"">http://www.joecieplinski.com/blog/2014/12/22/building-a-show...</a>",1420247170
+8829496,comment,8828543,8828543,0,0,kgilpin,,,"Something else worth mentioning; SSH has built-in support for single-sign-on, via SSH agent forwarding. As long as my public key is available anywhere (and that&#x27;s exactly what it&#x27;s designed for), then I can be authenticated by any system, anywhere. Thus, a problem which is so vexing in so many other scenarios, is very cleanly addressed by SSH.<p>Fundamentally, a password is a shared secret. So you send your password to a server, you are trusting that server not to lose or misplace it. In contrast, an SSH public key doesn&#x27;t require nearly such careful management.",1420247166
+8829495,comment,8827600,8828558,0,0,dkersten,,,"<i>I&#x27;ve had some issues with the Austin REPL however</i><p>I&#x27;ve switched to using the Weasel[1] REPL instead and haven&#x27;t had any disconnect problems since. Its also a little easier to setup (although still not &quot;easy&quot;).<p>[1] <a href=""https://github.com/tomjakubowski/weasel"" rel=""nofollow"">https://github.com/tomjakubowski/weasel</a>",1420247053
+8829494,comment,8829207,8829428,0,0,yourad_io,,,"AFAICT, the project zero <i>team</i> is about hunting down bugs and disclosing them responsibly.[1] They occasionally do write-ups on the project zero <i>blog</i>, after the vuln has gone public, but without actually giving out &quot;kiddies-ready expoits&quot;, i.e. exploit source.<p>But <i>even if they did</i>, that still isn&#x27;t a &quot;questionable practice&quot; - if the full details of the exploit are public, you&#x27;d barely need a writeup to connect the dots.<p>> Even if patches were available, it would be far better to wait for most devices to be patched before releasing a full exploit.<p>So, for router exploits (say), that would be Infinity? If the manufacturer doesn&#x27;t care, or the update ecosystem is broken (or nonexistent), nobody is more secure because someone did a writeup about a vuln that everyone (..interested) knows about.<p>Most exploits, however complex their discovery process may have been, end up as &quot;send these bytes in this order&quot; - they are usually very simple to duplicate once you know where the bodies are buried.<p>[1] As the GP says, 90 days <i>is</i> responsible disclosure.",1420247046
+8829493,comment,8828081,8829394,0,0,iurisilvio,,,"This way you only understand your spikes. Why I have a dip on Christmas? I did something wrong or it is just how internet works?<p>I have the same problem with a website with 98% search traffic. I don&#x27;t know if Google changed something or if my traffic will go back to normal in next few days.",1420247040
+8829492,comment,8829111,8829483,0,0,joshu,,,"It says how it&#x27;s different in the TFA.<p>> An investment from IdVC doesn’t preclude you from selling, but in the event you stay independent, our investment will get paid out as distributions from cashflow over time.",1420247023
+8829491,comment,8829207,8829418,0,0,btian,,,"Because that would cause Microsoft to shift their advertising budget elsewhere.<p>Just being practical.",1420246971
+8829490,comment,8829207,8829365,0,0,higherpurpose,,,"TheVerge took the same approach:<p><a href=""http://www.theverge.com/2015/1/2/7481069/google-publishes-windows-vulnerability-despite-no-fix-from-microsoft"" rel=""nofollow"">http://www.theverge.com/2015/1/2/7481069/google-publishes-wi...</a><p>Disappointing. Microsoft has no real argument here, other than perhaps allowing the NSA to use the bug for longer [1]. This is why the NSA has no need for real Windows backdoors. There are plenty of vulnerabilities such as these in Windows that allow privilege escalation or remote execution that are being discovered all the time. All Microsoft has to do is sit back for a few months on them, wait until another one appears, so NSA can start using <i>that one</i> and then fix the old one. &quot;Everyone&quot; wins.<p>Google gave everyone (only a few big companies actually - everyone else got the &quot;full disclosure&quot; deal) only a week after discovering Heartbleed, and Microsoft is whining about <i>3 months</i> being too little? Give me a break.<p>[1] <a href=""http://www.bloomberg.com/news/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms.html"" rel=""nofollow"">http://www.bloomberg.com/news/2013-06-14/u-s-agencies-said-t...</a>",1420246953
+8829489,comment,8829111,8829439,0,0,dataminer,,,"Can you provide more information about Canadian government grant?",1420246910
+8829488,comment,8828775,8829369,0,0,rokhayakebe,,,"English is a Western language. It belongs to the Western culture. At least that is how the rest of the world sees it.",1420246906
+8829487,comment,8823733,8824792,0,0,gnufx,,,"A distressing number of runs on our HPC system simply aren&#x27;t reproducible twice in a row anyway. They get repeated until, or in the hope that, they don&#x27;t deadlock or segv, not that users typically believe in deadlock.  They aren&#x27;t debugged -- it&#x27;s blamed on supposed system problems, not the code -- and it doesn&#x27;t seem to worry the people publishing results from them.  I doubt our users are unique.<p>Even for decent code, docker is being over-sold for this sort of thing.  Serious large-scale calculations, in particular, simply aren&#x27;t hardware-independent in practice.  Consider a 1024-core PSM MPI job with Haswell-specific code or requiring some GGPU, or a 128-core, 2TB SMP one; you can&#x27;t run them anywhere.  Even if you can package and run in docker at another site, if you don&#x27;t get the &quot;right&quot; results, what do you do about it if you don&#x27;t have source?",1420246902
+8829486,comment,8825750,8826160,0,0,phamilton,,,"In Scala they are heavily used. Future, Try, Option and List are all monadic. I find Options to be fairly easy to understand and pretty useful. An example:<p>Suppose we want a function that returns C = A + B, but only if A and B both exist. Otherwise C cannot be set with a meaningful value.<p>In an imperative language (python-esque?)I might do something like:<p><pre><code>  if A != NULL && B != NULL:
+    C = A + B
+  else:
+    C = NULL
+</code></pre>
+in Scala:<p><pre><code>  val C = for {
+    a <- A
+    b <- B
+  } yield a + b
+</code></pre>
+What&#x27;s the difference? In this example it is largely syntax, but let&#x27;s do something with C.<p><pre><code>  D = [1,2,3,4,5]
+  E = []
+  if C != NULL:
+    E = [x*C for x in D]
+  else:
+    E = D
+</code></pre>
+So now we&#x27;ve got some complex logic. If C is set, then we want to multiply every element in D by C and assign the result to E.<p>Without monads, I have to explicitly check for C == NULL before doing anything with it. The compiler isn&#x27;t going to enforce that so it&#x27;s possible I forgot to check and I segfault or NPE. Here&#x27;s the monadic version:<p><pre><code>  val D = List(1,2,3,4,5)
+  val E = (for {
+    c <- C
+    x <- D
+  } yield c*x).getOrElse(D)
+</code></pre>
+With an Option monad, I must use C inside the for comprehension. This is enforced by the compiler. If C is None, then c<i>x won&#x27;t execute and the for comprehension will return None. `getOrElse` on None just returns whatever was passed in, which in this case is D.<p>So what did we gain? Again, it might just look like syntax.  We swapped an `if C != NULL` and and `else` for a `c <- C` and a `getOrElse`. We actually gained some strong compiler guarantees.<p>Sort of a basic example and it might not be completely straightforward at first, but in my opinion once I understood how to effectively use monads (like Option and Try in Scala) my ability to simplify complex logic and be confident that it was correct increased.<p>EDIT: Haha... I botched my final scala example. That doesn&#x27;t compile... something like:<p><pre><code>  val E = C.map{c => D.map(_*c)}.getOrElse(D)
+</code></pre>
+would do the job.",1420246892
+8829485,comment,8827985,8828357,0,0,robryk,,,"It seems to me that mounting everything user-writable as noexec should be very similar to what you want. That said, it will not prevent a user from executing arbitrary code, but will make it much more complicated than &quot;download this bunary and click it&quot;. (It&#x27;s still possible to use a debugger to load something into an existing process; IIRC you can LD_PRELOAD a library from a noexec location, etc.)",1420246884
+8829484,comment,8829207,8829428,0,0,dragonwriter,,,"> Even if patches were available, it would be far better to wait for most devices to be patched before releasing a full exploit.<p>The practice of a firm 90-day release schedule increases the probability that vendors will fix patches and take steps to assure that they are deployed to most devices within that period. But that only works if the practice <i>is</i> firm.",1420246873
+8829483,comment,8829111,8829111,0,0,ChuckMcM,,,"Interesting pitch, but it is confusing to me. How is this different than just getting a small business loan / line-of-credit? It seems like most financial institutions can price into that an expected rate of return and price out the loan appropriately. Does it &quot;feel&quot; less bad if you leave someone with worthless equity than a worthless promissory note if the business fails to take off?<p>Would be interested in reading one of their typical term sheets and comparing it to say a SAFE from YC or a simple business loan.",1420246854
+8829482,comment,8824691,8827336,0,0,jcbrand,,,"Messaging between friends is not publishing and it&#x27;s normal to want and expect conversations between friends to be private. With Facebook, there&#x27;s always a middle man, listening in on and recording the conversation.",1420246853
+8829481,comment,8828250,8829014,0,0,tacojuan,,,"Anywhere I can get more info on the HTP group? I was pretty fascinated by their zines at the time...",1420246828
+8829480,comment,8827904,8829286,0,0,riobard,,,"&quot;Once you&#x27;ve built a system that understands timezones and offsets from UTC&quot;<p>I think that&#x27;s the point he&#x27;s complaining about: it&#x27;s damn hard to build such a system because of the artificially induced complexity.",1420246814
+8829479,comment,8828040,8829430,0,0,noobermin,,,"You say that causa sui or at least cyclic cause is troublesome without saying why. I&#x27;m curious for your reasoning.",1420246805

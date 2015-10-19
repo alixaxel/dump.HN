@@ -1,0 +1,2 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32914,comment,363,32815,0,0,neilc,,,"In general, combining multiple packages that each attempt to perform concurrent operations is error prone, especially if they use locking. The STM papers make an interesting argument for why using transactions rather than locks as the typical concurrency primitive leads to concurrent programs that can be more easily composed.",1183800876

@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21506,story,,,1,0,mattjaynes,"Rails Developers, Junior and Senior",http://gilesbowkett.blogspot.com/2007/05/rails-developers-junior-and-senior.html,,1178931375
+21505,comment,21377,21475,0,0,paul,,,"The great thing about secrecy is that you never really know what's going on. Exactly who is in Guantanamo or the secret CIA prisons, and why?<p>Do you honestly believe that prosecutions, FBI investigations, etc are never politically motivated?
+",1178930856
+21504,comment,21170,21288,0,0,phil,,,"That was 2005 though. Wordpress.com now has quite a few paid premium services.",1178930618
+21503,comment,21502,21502,0,0,bugmenot,,,"I've good at several lawfirms in and around Boston, but they all seem so expensive, when you look at all the things we need..<p>Once you get to TOS, Incorporation Papers, IP Forms, NDAs, and the like, it gets to be quite a lot of hours.<p>Lawyers in the Boston area are typically charging $225-$300 per hour. After you add up the hours, we'll blow through a lot of our savings just -getting ready- to launch..<p>Is there anything we could do for a better rate? I understand that Lawyers often provide good relationships with VCs and Angels, but for a lot of it, it's grunt work.<p>We've done our own drafts, but we're worried about gotchas- Maybe there are lawyers who are more comfortable just revising stuff that you've already done?<p>",1178930126
+21502,story,,,1,1,bugmenot,"Recomendations for cheap IP lawyers? ",,,1178930121
+21501,comment,21499,21499,0,0,gibsonf1,,,"Not our startup.",1178929941
+21500,comment,21499,21499,0,0,bootload,,,"<i>'... One thing that causes me more alarm, is that I see a lot of startups using MSFT technology these days. See, startups give you early warnings on trends of what people use. Something is going here. Startups are the early warning signs of on-coming floods. ...'</i><p>Added this after reading this article (<a href=""http://marcf.blogspot.com/2007/05/microsofts-long-demise.html"" rel=""nofollow"">http://marcf.blogspot.com/2007/05/microsofts-long-demise.html</a> ) from this thread (<a href=""http://news.ycombinator.com/comments?id=214250"" rel=""nofollow"">http://news.ycombinator.com/comments?id=214250</a> )<p>I thought the costs alone would have made this prohibitive? Unless of course your idea involves MS apps.",1178929216
+21499,story,,,1,7,bootload,"Does your startup use MSFT technology?",,,1178929069
+21498,story,,,3,0,bootload,"The Rise of ""Worse is Better""",http://www.jwz.org/doc/worse-is-better.html,,1178928858
+21497,story,,,5,8,pashbonk,"Want to get hired by the next Google?",http://blogs.theage.com.au/startupstories/,,1178928807
+21496,comment,21413,21413,0,0,rpercy,,,"something = Django. <a href=""http://www.djangoproject.com/"" rel=""nofollow"">http://www.djangoproject.com/</a>",1178928612
+21495,story,,,1,0,bootload,"Unity of interface",http://www.mozilla.org/unity-of-interface.html,,1178928485

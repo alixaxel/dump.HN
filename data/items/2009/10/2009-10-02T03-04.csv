@@ -1,0 +1,243 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+856406,comment,856029,856237,0,0,cmars232,,,"If you don't <i>click</i> on those affiliate ads often enough and buy stuff, you're no different than the worthless lurkers and adblockers as far as actually funding the site go.<p>Advertising is a nice ""turbo boost"" for a trickle of revenue.  It is difficult to impossible to be the sole source of revenue for a business.  All the guilt in the world won't prop up a bad business model.",1254455953
+856405,comment,856051,856051,0,0,jey,,,"<p><pre><code>  colors torte
+  syn on
+  set expandtab
+  set tabstop=4
+  set shiftwidth=4
+  set ruler
+  set ignorecase
+  set autoindent
+  set smartindent
+  set hlsearch
+  set incsearch
+  set backspace=indent,eol,start
+  set laststatus=2
+  autocmd BufEnter * :syntax sync fromstart
+  ""set hidden
+  set history=1000
+  runtime macros/matchit.vim
+  set wildmenu
+  ""set wildmode=list:longest
+  set wildmode=longest:full,full
+  set title
+  set scrolloff=3
+  autocmd BufEnter *.rb :set ts=2 sw=2
+  
+  ""let c_space_errors=1
+</code></pre>
+I'm kinda unsure what good posting this will do...",1254455951
+856404,story,,,81,12,naish,"Rands: Hurry",http://www.randsinrepose.com/archives/2009/10/02/hurry.html,,1254455950
+856403,comment,856317,856394,0,0,sachinag,,,"Well, they got in on the merits.  It certainly wasn't like HP demoing a new product (like we saw at DEMO); it was a company coming out for the first time.  It certainly qualifies as a startup in my mind.  It may be a $20M company, but still, <i>no one had ever heard of them before</i>.  The look of astonishment on the panelists' faces was awesome.<p>It may very well have been the greatest gambit to create a competitive bidding process for VC investment in history.  Seriously.  They presented at TC50, and in less than a month, had a VC firm who they had absolutely no prior relationship with wire $25 million to their account.  (Sure, they had previously raised $3.5 million, which marked the IP as safe and the revenues as real, <i>but still</i>.)<p>Hats off to Yext, as far as I'm concerned.",1254455603
+856402,comment,856317,856317,0,0,albertsun,,,"I'm really surprised that they managed to grow so big and stay so low profile for so long.",1254455519
+856401,story,,,1,0,amelim,"Carpentry Hacking. Computerized box joint jig [video]",http://www.youtube.com/watch?v=dTGO_NR6YiA,,1254455495
+856400,comment,855650,856059,0,0,cmelbye,,,"Yeah, they sure do hate competition. Remember Huddle Chat, an awesome, free group chat client written by some Google Engineers on Google App Engine in his/her spare time, and the whining from 37signals that ensued? It's ridiculous.",1254455383
+856399,comment,856223,856223,0,0,cmelbye,,,"I've personally found Google Wave to be really useful for communicating and collaborating with others (certainly much more so than any other options: IRC, Email, IM). I've been using it over the past few months in the Wave Sandbox, collaborating with other developers on small projects, and I have to say its features are really useful and nice. It's got even more potential as a platform, and developers are just starting to show some of that with Wave extensions.",1254455137
+856398,comment,856301,856344,0,0,wmf,,,"<a href=""http://en.wikipedia.org/wiki/Shotgun_clause"" rel=""nofollow"">http://en.wikipedia.org/wiki/Shotgun_clause</a>",1254455038
+856397,comment,856301,856379,0,0,jws,,,"You can always fall back on a shotgun clause for a cleaner ultimate solution.  <a href=""http://en.wikipedia.org/wiki/Shotgun_clause"" rel=""nofollow"">http://en.wikipedia.org/wiki/Shotgun_clause</a>",1254455012
+856396,story,,,1,3,adriand,"Ask HN: how do you keep up with your inbox?",,"I saw a comment just now that said Google Wave might be tough for people who already have trouble keeping up with their inbox.  I never really considered the idea that I might not be the only person who is having trouble staying on top of email.  This seems absurd, but most people I know don't seem to have this problem, although I don't think they get as many emails as I do.<p>I estimate I get approximately 100 emails per day, many of which don't just require a reply, they also require me to do something (I'm a web developer and project manager).  I'm sure others get more emails than this (and perhaps manage it fine), but I'm finding it increasingly difficult to read and respond to emails in a timely fashion.  I'm also finding that email has become disruptive to my ability to get other things done.  I often have to open my email to either send emails or to retrieve information, which means I always see all the mail and feel compelled to deal with it.<p>At this point I'm feeling like various technological solutions (labels, stars, etc.) just aren't cutting it.  I am tempted to just start letting certain emails slide, which bothers me from a customer service point of view.  What have you found helps you manage the constant barrage of emails?  Is there a solution or are we just stuck dealing with this incessant flood of email?",1254454958
+856395,story,,,1,0,fjabre,"Your mother told me to tell you that Facebook called",http://www.teabuzzed.com/2009/10/your-mother-told-me-to-tell-you-that-facebook-called/,,1254454812
+856394,comment,856317,856317,0,0,moe,,,"The real news here seems to be that a company with $20M in revenue (yext) was allowed to pitch at TC50.",1254454767
+856391,story,,,1,0,epall,"Free-flying cyborg insects steered from a distance",http://www.newscientist.com/article/dn17895-freeflying-cyborg-insects-steered-from-a-distance.html,,1254454658
+856390,comment,854181,854181,0,0,iterationx,,,"Does anyone think bumptop is a good idea?  It seems so pointless to me.",1254454593
+856389,comment,856138,856138,0,0,vamsee,,,"That is truly a nice tribute. For those who aren't very familiar with the topic, the background is made up of 'Khadi', a handspun fabric that holds great symbolism for Gandhi's ideals and his ahimsa (non-violence) movement. And the letters are done in Indigo (color dye), one of India's most prominent exports during the colonial era.",1254454593
+856388,comment,855865,855979,0,0,mbreese,,,"The funny part is that when I first read this comment, the wrong post (GP) had -1 points.  Now it's +1.  That's two people smacking themselves.  Congratulations.<p>On a side note: this brings up a great XKCD quote: ""Someone is <i>wrong</i> on the Internet"". (<a href=""http://xkcd.com/386/"" rel=""nofollow"">http://xkcd.com/386/</a>)",1254454512
+856387,comment,856301,856340,0,0,hristov,,,"There may be legal recourse but the legal system moves so slowly that in Internet time you are pretty much screwed. So in the beginning stages it may be a good idea to keep copies of all software, data, etc. close just in case one gets locked out of the servers.<p>I know of this one company that decided to move their servers out of a collocation facility. The collocation facility hated to lose a good customer so they just locked the company out, disconnected the servers and did not let the company get to them. But they helpfully offered to reconnect the servers if only the company would sign another long term contract. The litigation took many years, so the data on the servers was pretty much lost for all practical purposes.<p>So yeah ... keep backups and keep them where you can get to them if the s hits the fan.<p>Regarding the domain name ... I suppose one person needs to have control of that, no way around that. Well, it is possible to set up a trust where an impartial party (such as an attorney or a professional trustee) controls the domain name according to a previous agreement between the founders, but if you have to resort to this, there is probably not enough trust to do a startup.",1254454487
+856386,comment,856051,856051,0,0,nat,,,"<a href=""http://bitbucket.org/natw/dotfiles/src/tip/.vimrc"" rel=""nofollow"">http://bitbucket.org/natw/dotfiles/src/tip/.vimrc</a><p>some parts I haven't seen mentioned otherwise:<p><pre><code>  set statusline=[TYPE=%Y]\ [ENC=%{&fenc}]\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]
+  hi StatusLine term=bold,reverse cterm=bold ctermfg=7 ctermbg=0
+  hi StatusLineNC term=reverse cterm=bold ctermfg=8
+</code></pre>
+gives me a nice status bar with some good info<p><pre><code>  set t_Co=256
+  colorscheme railscasts
+</code></pre>
+best color scheme I've found yet, and I don't know how I lived before 256 colors<p><pre><code>  set noerrorbells
+  set novisualbell
+  set t_vb=
+</code></pre>
+This might be redundant, but I hate error bells SO MUCH.  This might be even more important than ""set nocompatible"".<p><pre><code>  map ^P :set paste!<CR>:set paste?<CR>
+</code></pre>
+in python mode at least, autoindent will usually mess up pasted text<p>Plus the usual 4 space soft tab, autoindent stuff.  I also highly suggest keeping your dotfiles in some kind of version control.  It is definitely fun to see them grow, and I can't imagine working on multiple systems without it.",1254454474
+856385,comment,856301,856367,0,0,sachinag,,,"They were.  Ivan's now at Facebook, where everyone assumes he's working on Facebook Payments.  Abby's probably doing something even cooler, although IDK.<p>BTW, Tipjoy never held the money; they were just a front-end for PayPal, so they didn't have the issues that Fundable apparently is having.",1254454459
+856384,comment,856382,856382,0,0,tokenadult,,,"The cited research article,<p>Harris S,  Kaplan JT,  Curiel A,  Bookheimer SY,  Iacoboni M,  et al. 2009 The Neural Correlates of Religious and Nonreligious Belief. PLoS ONE 4(10): e7272. doi:10.1371/journal.pone.0007272<p>can be found here:<p><a href=""http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0007272"" rel=""nofollow"">http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjourna...</a>",1254454405
+856383,comment,855215,855871,0,0,colonelxc,,,"Maybe they'll release it for the laptops, which do have accelerometers in them.<p>from a simple google search: <a href=""http://chancechancellor.com/?p=337"" rel=""nofollow"">http://chancechancellor.com/?p=337</a>",1254454391
+856382,story,,,2,3,tokenadult,"Brain Processes Facts and Beliefs the Same Way",http://www.newsweek.com/id/216551,,1254454284
+856381,comment,856301,856334,0,0,brianobush,,,"Lesson: in the articles of incorporations, spell out the arbitration process and include clauses that prevent out of control behavior - like automatic forfeiture of company stock.",1254454210
+856380,comment,855215,856152,0,0,colonelxc,,,"It's a joke, making fun of Apple's approval process.",1254454100
+856379,comment,856301,856344,0,0,ars,,,"I think you have two ways of dealing with it:<p>51/49 split, or have 3 partners.<p>Both methods ensure you never end up with a stalemate.",1254454054
+856378,comment,856301,856360,0,0,callahad,,,"Not train wrecks in general, but a very specific train wreck along the same tracks upon which many of us are traveling, or hope to travel.",1254454027
+856377,story,,,15,8,cesare,"$300 Home-Brew Street-View Camera",http://www.wired.com/gadgetlab/2009/09/the-300-home-brew-street-view-camera/,,1254453920
+856376,comment,855963,855963,0,0,diiq,,,"Apart from the usual utilities, I've got an emacs-lisp version of write-or-die; it deletes words if you stop typing for more than a few seconds. It's an excellent motivator for first drafts.",1254453864
+856375,comment,855963,855963,0,0,larrywright,,,"Much of this is cribbed from other places (credited where possible):<p><a href=""http://github.com/larrywright/emacs"" rel=""nofollow"">http://github.com/larrywright/emacs</a>",1254453808
+856374,comment,856051,856241,0,0,meese_,,,"Here's a function I wrote to get rid of trailing white space:<p><pre><code>    fun! s:RemoveWhitespace()
+    	if &bin | return | endif
+    	if search('\s\+$', 'n')
+    		let line = line('.')
+    		let col = col('.')
+    		sil %s/\s\+$//ge
+    		call cursor(line, col)
+    		echo 'Removed trailing whitespace.'
+    	else
+    		echo 'No trailing whitespace found.'
+    	endif
+    endf
+</code></pre>
+You can map it with:<p><pre><code>    nn <silent> ,R :cal<SID>RemoveWhitespace()<cr></code></pre>",1254453773
+856373,comment,856301,856301,0,0,eplanit,,,"I'm torn between 'sad' and 'pathetic'.   The word 'immaturity' applies, without question or hesitation.",1254453759
+856372,comment,856365,856365,0,0,teeja,,,"I was just reading this, and this paragraph struck my eye:<p>""Bricklin and Frankston recalled that their initial efforts to promote VisiCalc did not meet universal enthusiasm. Experienced computer people weren’t bowled over, Bricklin said; they would dismiss the spreadsheet with, 'Hey, I can already do most of this in BASIC.' People who had no experience with computers tended to think that computers could do anything under the sun, and so VisiCalc didn’t wow them. 'But when the accountants saw it - there was an accountant [at a particular computer store], he started shaking - he said, ‘This is what I do all day!'""<p>Reminds me: who are you solving the problem for?<p>For more details, here's Bricklin's Visicalc history.
+<a href=""http://www.bricklin.com/history/intro.htm"" rel=""nofollow"">http://www.bricklin.com/history/intro.htm</a>",1254453754
+856371,story,,,1,0,cesare,"Apple Tablet To Redefine Newspapers, Textbooks and Magazines",http://gizmodo.com/5370252/apple-tablet-to-redefine-newspapers-textbooks-and-magazines,,1254453742
+856370,comment,855062,855723,0,0,juvenn,,,"<i>Bandwidth</i> always confuses me a lot, when they mean <i>throughput</i>",1254453707
+856368,comment,856301,856301,0,0,ivankirigin,,,"<p><pre><code>  seek legal action against Louis Helm personally 
+  should he fail to resolve your payment issues promptly</code></pre>
+Well, IANAL, but I don't think that is how it works. The corporation is liable for funds it holds on your behalf. Boy would I be worried if I were Pratt.",1254453684
+856367,comment,856301,856356,0,0,tptacek,,,"They were a YC company, weren't they? Ivan and Abby?",1254453635
+856366,comment,855215,855541,0,0,brianobush,,,"If this is PR, it will be lost with the masses (for whom PR is meant for). This feature neither falls into the hacking nor PR camp. Easter egg, maybe. Useless feature, definitely.",1254453624
+856365,story,,,1,2,teeja,"VisiCalc memories - the first Killer App",http://www.wordyard.com/2003/04/09/visicalc-memories/,,1254453603
+856364,comment,856157,856157,0,0,hristov,,,"The problem with Microsoft and mobile devices is they always want to put their operating systems in them and their OS's are hogs which results in mobile devices that are not that mobile really.<p>So I we will see about this thing. If they can make it significantly small (i.e., much smaller than a netbook) it may be useful. But if it is around the size of a small laptop or netbook (which is the what it looks like), it will be utterly pointless, people will just use laptops instead. And if they are serious about putting windows 7 in it, then it will probably be the size of a laptop.",1254453496
+856363,comment,856051,856051,0,0,meese_,,,"<a href=""http://github.com/msanders/vim-files/blob/master/.vimrc"" rel=""nofollow"">http://github.com/msanders/vim-files/blob/master/.vimrc</a><p>Most of it's just my quirks but I think there's some useful bits in there. My vim setup is _heavily_ customized, for better or for worse.",1254453356
+856362,comment,855963,855963,0,0,gibsonf1,,,";; Easymacs sets some common Windows key bindings like ctrl-c to copy, ctrl-s to save, etc.
+(load ""c:/Otech/programs/easymacs/easymacs.el"")<p>(defun init-streamfocus ()
+  (interactive)<p>;; Slime is for starting or connecting to SBCL
+;; To start: C-x slime RET
+(add-to-list 'load-path ""c:/Otech/sf/lib/slime"")<p>;;(setq inferior-lisp-program ""C:/Otech/programs/sbcl-1.0.9/sbcl"")<p><pre><code>                                        ;(setq inferior-lisp-program ""C:/Program Files/LispWorks/lispworks-4450"")</code></pre>
+(add-hook 'lisp-mode-hook (lambda () (slime-mode t)))
+(add-hook 'inferior-lisp-mode-hook (lambda () (inferior-slime-mode t)))
+;; (defun lw-start ()
+;;   (interactive)
+;;   (shell-command (concat ""C:/Program Files/LispWorks/lispworks-4450.exe -multiprocessing ""
+;; 			 ""-init c:/Otech/swank.lisp&"")))<p>;;;For SBCL on Windows
+;(setq inferior-lisp-program ""sbcl"")
+;(add-to-list 'load-path ""C:/Program Files/Steel Bank Common Lisp/1.0.22/sbcl.exe"")<p>;;For Allegro on Windows
+(setq inferior-lisp-program ""allegro"")
+(add-to-list 'load-path ""C:/Program Files/acl81/allegro.exe"")<p>(require 'slime)
+(slime-setup '(slime-fancy slime-banner))<p>;;allegro
+(global-set-key ""\C-cs"" 'slime-selector)
+(setq slime-complete-symbol<i>-fancy t)
+(setq slime-complete-symbol-function 'slime-fuzzy-complete-symbol)<p>(setq slime-multiprocessing t)
+;; choose one of the below based on Express or non-Express usage
+ ;(setq </i>slime-lisp* ""alisp.exe"")
+(setq <i>slime-lisp</i> ""allegro.exe"")<p><pre><code>  ;;(setq *slime-lisp* ""allegro-express.exe"")
+  (setq *slime-port* 4005)
+  
+  (global-set-key
+   [(f5)]
+   '(lambda ()
+      (interactive)
+      (shell-command 
+       (format ""%s +B +cm -L c:/.slime.lisp -- -p %s --ef %s &""
+               *slime-lisp* *slime-port*
+               slime-net-coding-system))
+      (delete-other-windows)
+      (while (not (ignore-errors (slime-connect ""localhost"" *slime-port*)))
+        (sleep-for 0.2))))  
+  
+  (let* ((cygwin-root ""c:/cygwin"")
+         (cygwin-bin (concat cygwin-root ""/bin"")))
+                                        ;(setenv ""HOME"" (concat cygwin-root ""/home/frederick""))
+    (setenv ""PATH"" (concat cygwin-bin "";"" (getenv ""PATH"")))
+    (setq exec-path (cons cygwin-bin exec-path)))
+  (setq shell-file-name ""bash"")
+  (setq explicit-shell-file-name ""bash"")
+  
+  (push "".fasl"" completion-ignored-extensions)
+  (push "".git"" completion-ignored-extensions)
+
+  ;;--------------------------------------</code></pre>
+;;;; For remote slime
+  ;; see <a href=""http://a1k0n.net/blah/archives/2005/11/04/T18_00_44/index.html"" rel=""nofollow"">http://a1k0n.net/blah/archives/2005/11/04/T18_00_44/index.ht...</a>
+  (require 'tramp)
+  (defvar <i>cayenne-path</i> ""/sshx:streamfocus@cayenne:"")
+  (defvar <i>current-tramp-path</i> nil)<p><pre><code>  (defun slime-connect-to-host (path port)
+    (setq *current-tramp-path* path)
+    (setq slime-translate-from-lisp-filename-function
+          (lambda (f)
+            (if *current-tramp-path*
+                (concat *current-tramp-path* f)
+              f)))
+    (setq slime-translate-to-lisp-filename-function
+          (lambda (f)
+            (if *current-tramp-path*
+                (substring f (length *current-tramp-path*))
+              f)))
+    (slime-connect ""localhost"" port))
+  
+  (defun cayenne-slime ()
+    (interactive)
+    (slime-connect-to-host *cayenne-path* 4006))
+  
+  (defun cayenne-find-file ()
+    (interactive)
+    (find-file (concat *cayenne-path* ""/home/streamfocus/sf/"")))
+  
+  </code></pre>
+;;;; TRAMP remote editing. See notes for NTEmacs on <a href=""http://www.emacswiki.org/cgi-bin/wiki/TrampMode"" rel=""nofollow"">http://www.emacswiki.org/cgi-bin/wiki/TrampMode</a>
+  (setq tramp-default-method ""sshx"")
+;;;; SLIME settings to edit remote files on rembrandt
+                                        ;(push (list ""^cayenne$""
+                                        ;            (lambda (emacs-filename)
+                                        ;              (subseq emacs-filename (length ""/cayenne:"")))
+                                        ;            (lambda (lisp-filename)
+                                        ;              (concat ""/cayenne:"" lisp-filename)))
+                                        ;      slime-filename-translations)<p><pre><code>  ;; http://www.emacswiki.org/cgi-bin/wiki/NTEmacsWithCygwin
+  (let* ((cygwin-root ""c:/cygwin"")
+         (cygwin-bin (concat cygwin-root ""/bin"")))
+                                        ;(setenv ""HOME"" (concat cygwin-root ""/home/fred""))
+    (setenv ""PATH"" (concat cygwin-bin "";"" (getenv ""PATH"")))
+    (setq exec-path (cons cygwin-bin exec-path)))
+  (setq shell-file-name ""bash"")
+  (setq explicit-shell-file-name ""bash"")
+  )
+</code></pre>
+(defun init-clojure ()
+  ""Inits slime for streamfocus""
+  (interactive)
+  ;; clojure-mode
+  (add-to-list 'load-path ""C:/Otech/programs/clojure/clojure-mode"")
+  (require 'clojure-mode)<p><pre><code>  ;; swank-clojure
+  (add-to-list 'load-path ""C:/Otech/programs/clojure/swank-clojure"")
+  (require 'swank-clojure-autoload)
+  ;(swank-clojure-config
+   (setq swank-clojure-jar-path ""C:/Otech/programs/clojure/clojure/clojure.jar"")
+   
+   (setq swank-clojure-extra-classpaths
+         (list ""C:/Otech/programs/clojure/clojure-contrib/clojure-contrib.jar""))
+   ;)
+  
+  ;; slime
+  (eval-after-load ""slime""
+    '(progn (slime-setup '(slime-repl))))
+  
+  (add-to-list 'load-path ""C:/Otech/programs/clojure/slime"")
+  (require 'slime)
+  (slime-setup) ;;;type alt-x and slime to start repl
+  )</code></pre>",1254453260
+856361,comment,855793,856144,0,0,poutine,,,"Google does proactively censor:<p>Search for June 4th: google.com 2,780,000 hits, google.cn: 164 hits<p>Try posting a blog entry and reference ""June 4th"" in it and see if it ever shows up in google.cn<p>Don't be evil,  unless there's yuan at stake...",1254453260
+856360,comment,856301,856345,0,0,wheels,,,"I'd like to believe that this site is better than that – that it's not about watching train wrecks.  The problem with picking co-founders isn't that people don't know it's important – it's that they ignore it anyway or don't know how to tell.  It's about as useful as a surgeon general's warning on cigarettes.",1254453219
+856359,comment,855269,855880,0,0,cakesy,,,"The sad thing is that you missed the point of this article, that pirating isn't really a big thing, not enough to worry about.",1254453215
+856358,comment,856301,856344,0,0,imajes,,,"Yeah, it's why you find a good third party mediator and ask them to be a non-exec or mediator/advisor. It also helps to have the arguments and tantrums early- at least you'll know if you can get over them or not before it's too late :)",1254453207
+856356,comment,856301,856301,0,0,patio11,,,"I am having a total mental block trying to recall the name of the ""Donate people money through Twitter"" service that was on HN a few times, but I think this is what he meant when he said ""Do not take payments lightly.""<p>[Edited to add: Tipjoy.  I knew it was T-something but I ran through about 15 combinations of Twit-X before realizing that it was not from that naming convention.]",1254453165
+856354,comment,856051,856051,0,0,nikhilpandit,,,"I like autocomplete in my .vimrc<p>function! InsertTabWrapper()
+  let col = col('.')-1
+  if !col || getline('.')[col-1]!~'\k'
+    return ""\<tab>""
+  else
+    return ""\<C-P>""
+  endif
+endfunction
+inoremap <tab> <C-R>=InsertTabWrapper()<CR>",1254452981
+856352,comment,856301,856344,0,0,IsaacSchlueter,,,"I agree.  Seeing stuff like this is scary.  My heart goes out to both parties, as I'm sure it's not pleasant for either of them.  Even if the story is 100% accurate, and Helm is just a bad guy, no one who's that rotten is happy.  It's a shame.<p>Money has a funny way of ruining even the best of friendships.<p>Be careful.  Do the right thing.  Cover your bases to protect against either of you going crazy.",1254452910
+856350,comment,856026,856171,0,0,cardmagic,,,"He is not offering to work for free, he is offering to work for profit sharing. By not asking for hourly cash, it sounds to me like he is hoping to get a larger piece of the pie.",1254452789
+856349,comment,856051,856051,0,0,jyf1987,,,"syntax on<p>color zellner<p>set cursorline<p>set cursorcolumn<p>set nu<p>set autoindent<p>set tabstop=4<p>map <C-n> <ESC><ESC>:tabnew<CR><p>map <C-left> <ESC><ESC>:tabprev<CR><p>map <C-right> <ESC><ESC>:tabnext<CR><p>map <C-down> <ESC><ESC>:tabclose<CR",1254452748
+856348,comment,855793,855793,0,0,hristov,,,"The way things are in Berlusconi's Italy, I would not be surprised if this case is being kept alive by his friends to benefit his media companies which are undoubtedly pissed off at youtube.<p>Imagine if Rupert Murdoch became president of the US. That is, in a nutshell, the situation with Berluscony and Italy.",1254452686
+856347,story,,,13,0,gthank,"Concur.next — The Laundry List",http://www.tbray.org/ongoing/When/200x/2009/09/30/C-dot-next-laundry-list,,1254452666
+856346,comment,855588,855833,0,0,dlwh,,,"Successes in Speech, Machine Translation, medical diagnosis and data mining successes have all descended from sound theoretical research in statistics and information theory.<p>For instance, Machine Translation (as we know it today) was originally inspired by the ""noisy channel"" for speech recognition that is based on Bayes Rule. In speech recognition, the probability of some words given some input waveform is proportional to the probability of someone saying those words times the probability of hearing some wave form given those rules. The same model led to statistical machine translation: if I speak to you in French, what I'm really doing is speaking to you in English, but the ""channel"" is so noisy that it comes out sounding like French.<p>Today, the parallels are less clear (for instance, German and English have substantially different word order, and in speech you don't usually have reordering in the channel--though there's actually some cool new research in MT to bring it closer in line with modern speech processing!).<p>Yes, there are huge amounts of specialization and hacks for each of these fields, but they are (mostly) based around core good statistical ideas.<p>In fact, some people are worried that the AI community is so focused on log-linear models and the like that we're in some kind of local minimum, and that we're unlikely to work our way out any  time soon.<p>That said, Kurzweil is still wildly deluded, as you suggest.",1254452653
+856345,comment,856301,856334,0,0,vaksel,,,"people love a train wreck, + it has the lesson of being careful of who to pick for your cofounder, and about giving second chances to people who screw you over.",1254452605
+856344,comment,856301,856301,0,0,megaduck,,,"As my cofounder and I are currently finalizing our own incorporation, I look at Fundable's sad situation and think, ""Wow.  What if that were us?  Is there any way we can avoid ever having that kind of situation with a clever bit of legalese?""<p>Unfortunately, I suspect the answer is ""no"".  As soon as you give one partner the ability to eject the other (for <i>whatever</i> reason), you open the door for all sorts of abuse.  Besides which, if a partner wants to cause chaos and destruction, you're in for supreme nastiness, regardless of the legal situation.<p>So, at the end of the day, I think the best you can do is choose your business partners carefully, keep things above board, and do the best you can to behave morally and ethically.  That way, even if things go to shit, hopefully you'll still be able to walk out with your head held high.<p>I'm sorry Fundable went out this way.  Sounds ugly as hell.",1254452578
+856343,comment,855245,856248,0,0,tptacek,,,"The odds are decent that nothing you work on at your startup is going to be meaningful, because nobody is ever going to see it.",1254452574
+856341,comment,856276,856276,0,0,gruseom,,,"Common Lisp and Parenscript.",1254452546
+856340,comment,856301,856301,0,0,WesleyJohnson,,,"I'm curious if anyone has experience with something like this or know of other situations where a joint venture was owned 50/50 and one side allegedly decided to take their ball and go home?<p>Is there legal recourse either side can take to reclaim ownership and move on?",1254452535
+856339,story,,,2,2,mickeyben,"Carpooling market ?",,"Hey, 
+I'm working since a while now with one of my talented friends on a carpooling website for both users and companies, with a lot of fancy features,
+Until there it was only a toy, spent some long nights to talk about it, but now the development began with already some cool stuff even if we are far from the end.<p>Do you think a ""carpooling"" market really exists ? Do you know companies that could pay for this ?<p>Thanks for your feedback, 
+it's my first post on Hacker news, hello world !",1254452529
+856338,comment,855245,856318,0,0,tptacek,,,"So they can what? Talk to the universe? I'm so scared.",1254452492

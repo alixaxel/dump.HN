@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95172,comment,95039,95039,0,0,troels,,,"> Exceptions leak a little bit of memory when thrown<p>So their suggestion for dealing with a limitation of the language implementation, is to not use a feature? Great.<p>Also, teaching people to do ridiculous sub-optimisations, like using ++$i instead of $i++ isn't really what I think of as best practice. Or telling people to avoid OO because it's slow. Now I know, where those poor newbies get this stuff from ...",1199559158
+95171,comment,95039,95139,0,0,randallsquared,,,"In PHP it hardly matters, since variables have their own namespace.  PHP is a lisp2.",1199559033
+95170,story,,,6,2,dskhatri,"Why Intel and OLPC Parted Ways",http://www.nytimes.com/2008/01/05/technology/05laptop.html?ex=1357189200&en=9c2c17178c11e828&ei=5090&partner=rssuserland&emc=rss&pagewanted=all,,1199558316
+95169,comment,94782,94782,0,0,staunch,,,"<a href=""http://www.uncov.com/"" rel=""nofollow"">http://www.uncov.com/</a>",1199557164
+95168,story,,,22,6,macmac,"In-browser code editor with syntax highlighting ",http://www.cdolivet.net/editarea/,,1199557023
+95167,comment,95027,95027,0,0,daniel-cussen,,,"""I don't like demonstrations because the young guys showing me are so enthusiastic they think it is the greatest thing in the world--at least in their life, and if you don't fake an orgasm, they go away very disappointed.""",1199556796
+95166,story,,,4,0,paulgb,"The dangers of blogging [video]",http://www.ted.com/talks/view/id/203,,1199556422

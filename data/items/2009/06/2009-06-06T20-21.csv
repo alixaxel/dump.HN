@@ -1,0 +1,88 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+645114,comment,644956,644956,0,0,justin_vanw,,,"Personally, I think compiler macros are far more interesting than 'regular' macros.  I would love to see compiler macros even in mundane languages such as python.<p>Example, in pseudo code:<p><code>
+defun regex_find(some_string, regex)
+    return regex.compile().find(some_string)<p>def compilermacro regex_find(some_string, regex)
+    if IS_STRING_LITERAL(some_string) and IS_STRING_LITERAL(regex)
+        SUBSTITUTE exec(regex.compile().find(some_string))
+    elif IS_STRING_LITERAL(regex)
+        SUBSTITUTE exec(regex.compile()).find(some_string)
+    else
+        DO_NOTHING
+        return<p></code><p>regex_find(MYSTRING, '\w(.+)\b')<p>A language without compiler macros would compile the regex at runtime, even in those cases that it is a string literal, and could be compiled at compile time.  And in the case that both the string and the regex are string literals, the result itself could be computed at compile time.  Another alternative, used by lots of languages/libraries, is to maintain a cache of recently compiled regular expressions.  Of course, this doesn't help when you have a loop that uses 15 regular expressions but it only caches the last 14, for example.<p>This is one reason why CL-PPCRE is faster than the C PCRE in benchmarks, it makes great use of compiler macros.<p>This is a very concrete real world thing, that isn't endlessly debatable, unlike regular macros, and it could be included in languages without any special macro syntax.<p>One example of a time I <i>really</i> wanted compiler macros in Python was when I was doing some parsing of binary files, using the struct module.  The struct module lets you do stuff like struct.decode(data, 'UUUIUH'), where the UUUIUH is some code for Unsigned long, unsigned long, 32bit int, whatever.  However, it parses the little code each time you want to use it, which ends up taking way longer than the actual decoding itself.  In python 2.x, whatever I was using, they didn't have any way to make any sort of compiled decoder, you had to just use it as above, which is silly, since the code is almost always going to be a string literal and 99% of the work could be done once when the code is compiled.",1244321873
+645113,comment,644796,645110,0,0,joshu,,,"<p><pre><code>    0:00 first dude is already dancing
+    0:19 green shirt
+    0:53 black shirt
+    1:13 2 more
+    1:17 6 more
+    1:26 1 more
+    1:30 4 more
+    1:40 dozens</code></pre>",1244321818
+645112,comment,644948,644948,0,0,amix,,,"I think Firebug (and Firebug Lite for IE, Safari and Opera) are far better tools than this looks to be.",1244321673
+645111,comment,645049,645089,0,0,zackattack,,,"I've been reading Founders at Work and I've been thinking about this. It seems that there's basically two main paradigms when it comes to tech startups:<p>1) Start out building a product/service that you think people will pay for (Viaweb, Excite, VisiCorp) and evolve the idea where appropriate<p>2) Start out building a product/service that you want to use, and its immense popularity makes it become a company (Facebook, Delicious, Yahoo, Google)<p>A lot of people (myself included) have thought ""the way to make it big is by doing #2: making a neat website, and hoping it takes off incredibly"". But perhaps a more statistically sound approach is to do #1. Has anyone done a study of this kind of thing and looked at expected value?",1244321446
+645110,comment,644796,644796,0,0,joshu,,,"I want to do a table of time between joins.",1244321413
+645109,comment,645049,645068,0,0,quizbiz,,,"At what point do you incorporate?",1244321357
+645108,comment,644956,644956,0,0,russell,,,"I used macros a lot in C to initialize structs and arrays with constant information, like keywords for a parser.  It would still be useful for languages, like Java, which do not have literals for initializing objects, maps, and arrays.  Another use would be DSL's on top of a language like Python.  Sure you can do all of this within the languages, but macros would make it more expressive and concise.  I really don't buy the argument that we need to be protected from idiots.  They will piss in the soup regardless.",1244321352
+645107,comment,639647,644462,0,0,tptacek,,,"Look I don't want to be dense here --- and there's a good chance that's exactly what's happening --- but it sounds to me like you're talking about collisions between SHA1, SHA1(SHA1), SHA1(SHA1(SHA1)), etc.<p>Rename the functions. SHA1(SHA1) is now SHA1', SHA1(SHA1(SHA1)) is now SHA1''.<p>Explain why I care if there's an m and an n such that SHA1'(m) = SHA1''(n)?<p>They're two different hash functions.",1244321326
+645106,comment,645021,645021,0,0,riffic,,,"This band has some really good music, too.",1244321286
+645105,comment,644925,645039,0,0,SwellJoe,,,"I'm just curious...what sort of workload are you dealing with that makes XFS a rational choice?  It's dramatically less well-tested than ext3, or even ReiserFS, on Linux, and its performance characteristics are not particularly compelling except for a few pretty specific cases.<p>I have a history of tinkering with odd filesystems, but I wouldn't deploy anything other than ext3 to a production Linux server at this point in time.",1244320968
+645104,comment,644289,645042,0,0,daveungerer,,,"Hi Mike<p>Check my other post in this thread. Also, it's OS X 10.5.6. Maximized window.<p>The first message that comes in (randomly) obscures the text about raising funds. Is it a bug or, respectfully, a design flaw / feature? I would suggest you test this on a netbook.",1244320948
+645103,comment,644406,644406,0,0,bravura,,,"I started developing in GAPE, but stopped because of fears of vendor lockin, difficulty in getting my data out, the limit of only 10 applications (and you cannot change the URL after you create the application, nor delete unused application).<p>All-in-all, I really enjoyed the interface and got up and running very quickly, but I felt like I was painting myself into a corner.",1244320660
+645102,comment,644907,644907,0,0,anigbrowl,,,"""Om nom nom.""<p>""Crunchy, aren't they.""",1244320476
+645101,comment,645000,645087,0,0,quizbiz,,,"I thank you for bringing new eyes to an old article anyways.",1244320464
+645100,comment,644956,644956,0,0,zandorg,,,"In 2006 over 2 months, I wrote an OCR (optical char recognition - turning images back into text) system in Lisp using macros.<p>First it finds all 'features' by traversing a 1-pixel wide representation of the text character's image. Then you describe which features you want to look for, in a macro language.<p>So (in layman's terms) , a 'c' is a top curve curving up, a lower curve curving down, and a stem at the left-hand side close to the left-hand of those curves. So 'c' would be about 3 rules, in this macro language.<p>It was fun but monstrously sluggish and I never got the 1-pixel wide algorithm (called skeletonisation) that I used, to work 100%.<p>One thing it did have going for it was you could identify really small font chars and even 10-pixel-high truetype fonts, as long as you normalise so each char is 60 pixels high.<p>I ported the system to C++ also in 2006 and had to write a simple Scheme-ish interpreter to turn the Lisp ruleset into C code.",1244320437
+645099,comment,643394,643394,0,0,adamBA,,,"its an interesting point thats made. I do believe that google leaves things available/open to us, the users, because we can build useful thing from their ground work. This in turn might get people to spend more time online and therefore use their money making system even more. 
+so the more free stuff google puts out, the more users build on it and the more google ends up making. S-M-R-T<p>I also totally agree with the point that todays (well for the history of startups) get-in build a user base and get out really is no way of creating anything sustainable. things will need to change. 
+Great read",1244320416
+645098,comment,644654,644654,0,0,quizbiz,,,"You may find it notable that he specifically mentions his father, a painter, and how that ties into being a maker[/hacker].",1244320400
+645097,story,,,14,6,TriinT,"When min-max is wrong",http://rjlipton.wordpress.com/2009/06/06/when-min-max-is-wrong/,,1244320257
+645096,comment,644699,644736,0,0,anigbrowl,,,"Well, that's a pretty large assumption. At least in american English, the phrase 'this _____' is commonly understood to be self-referential in some manner unless some other context has been previously established. For example:<p>This sentence contains ten words and is a true statement.<p>If you haven't read <i>Godel, Escher, Bach</i>, now is the time.",1244320226
+645095,comment,644956,645048,0,0,viraptor,,,"If that's all it does, then I don't see a problem with implementing it in any language without macros. Let's take simple C. (I didn't test it, or even try to compile - just want to show the idea)<p><pre><code>    void zap(void *object, void* (*selector)(void *), void (*action)(void*)) {
+        action(selector(object));
+    }
+</code></pre>
+Given your explanation: ""It lets you apply an arbitrary function[1] to (a variable or a position anywhere within some structure)[2].""<p>Where object is the structure you're operating on, `selector` is a function taking an object and returning a pointer to the position [2]. The `action` is a pointer to an arbitrary function [1].<p>Your first example would look like this:<p><pre><code>    int foo[5] = {1, 2, 3, 4, 5};
+    void *select_first(void *x) {return x;}
+    void act_times_10(void *x) {int *i = (int *)x; (*i)*=10;}
+    
+    zap(foo, select_first, act_times_10);
+</code></pre>
+Or am I missing something you didn't include in the description?",1244320221
+645094,comment,645021,645021,0,0,rw,,,"Linkbait title, but the (I'm being generous here) thesis is this: the human species has lost prowess (strength, endurance, intelligence) by shifting from our ""native"" hunter-gatherer diet and activity level, to a sedated lifestyle based upon agriculture.",1244320012
+645093,story,,,26,4,Caged,"25 Years of Tetris: From Russia With Fun","http://www.time.com/time/arts/article/0,8599,1902950,00.html",,1244319793
+645092,comment,644949,644949,0,0,pert,,,"If you're looking to configure mail from your slicehost and you do go with the Google Apps option (that's what I use), you might like to have a look at this guide to getting sSMTP working with Google:<p><a href=""http://wiki.debian.org/sSMTP"" rel=""nofollow"">http://wiki.debian.org/sSMTP</a><p>I can't recommend sSMTP enough to anyone that doesn't want to maintain a mail server.  All UNIX systems should be able to send mail and this is very much still the case on modern Linux systems, but this is often overlooked.",1244319786
+645091,comment,644949,644952,0,0,buro9,,,"Watch out for the limits though:
+<a href=""http://mail.google.com/support/bin/answer.py?hl=en-uk&answer=22839"" rel=""nofollow"">http://mail.google.com/support/bin/answer.py?hl=en-uk&an...</a><p>So if you're automating a newsletter, bear those numbers in mind.",1244319726
+645090,comment,645000,645087,0,0,pg,,,"That's ok.  A year ago is long enough.",1244319590
+645089,comment,645049,645054,0,0,pg,,,"And web apps can switch state.  Delicious wasn't originally a company, but it turned into one.",1244319364
+645088,comment,644954,644972,0,0,j2d2,,,"A lot of people find their fame posthumously only.",1244319340
+645087,comment,645000,645057,0,0,gabriel,,,"Uh oh. Honest mistake. I must have typo'd my search for this article before I posted it.",1244319325
+645086,comment,644753,644916,0,0,yters,,,"With these claims about intelligence and long term success, I wonder if part of the issue is whether smart people define success differently.",1244319288
+645085,comment,645049,645049,0,0,arasakik,,,"""A startup is a human institution designed to deliver a new product or service under conditions of extreme uncertainty."" -Eric Ries",1244319251
+645084,comment,644796,645047,0,0,KC8ZKF,,,"Reminds me of Arlo Guthrie's tale of woe at an induction center:
+""And friends, somewhere in Washington enshrined in some little folder, is a
+study in black and white of my fingerprints.  And the only reason I'm
+singing you this song now is cause you may know somebody in a similar
+situation, or you may be in a similar situation, and if your in a
+situation like that there's only one thing you can do and that's walk into
+the shrink wherever you are ,just walk in say ""Shrink, You can get
+anything you want, at Alice's restaurant."".  And walk out.  You know, if
+one person, just one person does it they may think he's really sick and
+they won't take him.  And if two people, two people do it, in harmony,
+they may think they're both faggots and they won't take either of them.
+And three people do it, three, can you imagine, three people walking in
+singin a bar of Alice's Restaurant and walking out. They may think it's an
+organization.  And can you, can you imagine fifty people a day,I said
+fifty people a day walking in singin a bar of Alice's Restaurant and
+walking out.  And friends they may thinks it's a movement.""",1244319186
+645083,comment,644998,644998,0,0,ahoyhere,,,"What the heck is this? Somebody needs to tell this wannabe dating advice guy that giclée just makes people think of gussied up inkjet prints.",1244318969
+645082,comment,644699,645030,0,0,jibiki,,,"> Is this correct in set theory?<p>More or less:<p><a href=""http://en.wikipedia.org/wiki/Surreal_numbers#.22To_Infinity_....22"" rel=""nofollow"">http://en.wikipedia.org/wiki/Surreal_numbers#.22To_Infinity_...</a>",1244318892
+645081,comment,645021,645021,0,0,codahale,,,"Evolution is not teleological. Your question is meaningless.",1244318891
+645080,comment,645049,645067,0,0,davidw,,,"Well, it is good to be clear about what things are and where you'd like to go with them.  The 'project' comment elsewhere here is right on - not everything can or should be about making money, and it's good to recognize what sort of thing you're dealing with at any given point in time.",1244318861
+645079,story,,,1,0,polomasta,"Search for Change, Respond and Exploit it as an Opportunity",http://www.fortworthstartups.com/2009/06/05/search-for-change-respond-and-exploit-it-as-an-opportunity/,,1244318793
+645078,comment,645049,645067,0,0,bcl,,,"You are obviously a startup then ;)",1244318669
+645077,comment,644796,645044,0,0,brandnewlow,,,"ha.  That'll teach me to turn on error reporting at 3am...",1244318568
+645076,comment,645049,645049,0,0,jack7890,,,"They aren't mutually exclusive.",1244318494
+645075,comment,644948,645065,0,0,entelarust,,,"Nice! Thanks for this",1244318493
+645074,story,,,2,0,cyunker,"Is innovation fair?",http://andrewkeen.typepad.com/the_great_seduction/2009/06/is-innovation-fair.html,,1244318485
+645072,comment,644699,645052,0,0,TweedHeads,,,"Sure it tends to zero which is ε, being ω the largest and ε the smallest possible.<p>Never mind, just trying to understand Cantor's brilliant mind.",1244318444
+645071,story,,,5,1,peter123,"Twitter Launches Verified Accounts",http://blog.twitter.com/,,1244318435

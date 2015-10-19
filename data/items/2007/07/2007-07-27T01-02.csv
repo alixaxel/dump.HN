@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37011,comment,37000,37009,0,0,gibsonf1,,,"I just showed the hierarchy structure. You can put anything you want in the nodes of the hierarchy.  In the example, these are object names that then generate the example hierarchy below in our application.  Hope this helps.",1185500634
+37010,comment,36964,36964,0,0,uuilly,,,"I know a bunch of folks who have done stuff like this. You will work very hard which is fine because there is not much else to do. And you will be safer than you would in most major cities in the US. <p>Secret clearance = no drugs in the last year, no bad credit, no criminal record, and no contact with members of unfriendly governments.<p>Definitely a great way to fund a startup. Hadn't thought of that!",1185500401
+37009,comment,37000,37005,0,0,mojuba,,,"I don't quite get it -- can you show an example with tags, attributes and text?",1185500158
+37008,comment,17947,17947,0,0,ncm,,,"The essay neglects what happens to the 9 of 10 companies that don't, as far as the VCs are concerned, pan out.  Closing them down means they have to give any remaining money back to the investors -- including their own fees they had already pocketed.  Any dollar the company doesn't spend before it dies means money from the VC's own pocket.  <p>The solution is to drain the company.  The VCs install executives they owe favors to, at massively inflated salaries.  They make the company hand over millions to ""market research"" and outsourced  marketing companies.  They make the company sign big service and equipment contracts.  Each of these deals means a kickback or a favor owed.  Best of all is if the money goes to one of the properties not being drained, or somebody the VC owes, or personally owns stock in.  <p>It's no accident so many companies folded after buying unnecessary enterprise-grade Oracle and Vignette licenses.
+",1185499718
+37007,comment,36276,36586,0,0,juwo,,,"Just curious, did you do this independently as a 'small business', or was it as a consultant through a 'solutions provider'?<p>If independently, your business skills must be excellent - to get so many clients who would not choose an off the shelf solution.<p>But in any case, these are not products.",1185499702
+37006,comment,36497,36779,0,0,sbraford,,,"... the race has begun.",1185498906
+37005,comment,37000,37000,0,0,gibsonf1,,,"Here's how we do it:<p>(""as_2586"" (""as_2587"" (""as_2588"" (""as_2637"" (""as_2638"" (""as_2639"")) (""as_2640"")) (""as_2595"")) (""as_2589"")))<p>Equals: <p>Sub Projects<p><pre><code>    * 200705_PSC_Trinity (Construction)
+          o as_2587 (Client Approval)
+                + as_2588 (Building Permit)
+                      # CD Set (Deliverable)
+                            * A-110 (Deliverable)
+                                  o 1. Site Plan (Deliverable)
+                            * PSC Survey Info (Building Surveying)
+                      # as_2595 (Systems Coordination)
+                + as_2589 (Programming)</code></pre>",1185498756
+37004,comment,36533,36697,0,0,nickb,,,"One of my mentors told me once that once he sees Aeron chairs at a startup, he not only doesn't invest, he cuts the meeting short and leaves running away from the company.",1185498318

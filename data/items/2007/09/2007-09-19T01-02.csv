@@ -1,0 +1,22 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+56618,story,,,37,89,aswanson,"What books would you recommend reading?  Why?",,,1190167190
+56617,comment,56580,56580,0,0,leoc,,,"Aiming the pods is quite fiddly.",1190166933
+56616,comment,55974,56311,0,0,greendestiny,,,"I believe playing a 30 second clip is considered fair use.",1190166770
+56615,comment,56331,56445,0,0,blored,,,"There are a bunch of old people (relatively speaking) that would disagree with #3.",1190166658
+56614,comment,56245,56604,0,0,pg,,,"Hmm, maybe journatroll is better.  A lot of these people aren't really reporters, more editorial writers.",1190166559
+56613,story,,,2,0,luccastera,"Startup Weekend Toronto - My Two Cents",http://www.techquilashots.com/2007/09/18/startup-weekend-toronto-my-two-cents/,,1190166207
+56612,comment,56596,56596,0,0,gwenhwyfaer,,,"Which kind of suggests that the future of <i>every</i> planet with life on it is runaway global warming, doesn't it? So what, we should stop trying to regulate our emissions because we're facing certain doom anyway?<p>Well, according to the article, it's surfacing now because the permafrost isn't so ""perma"" any more... something in which humans are directly implicated. So gee, it might well be too late for us now - but it wouldn't have been 50 years ago.<p>...Oops.<p>Perhaps everyone of any influence in world affairs at all since World War II needs to get together and figure out <i>precisely</i> how best to say to our generation, ""Sorry about your planet"".<p><i>edit</i>: Turns out the 500 billion tonne figure is a one-off, worst case release. Not an annual figure. Remind me, what's 500/7 again? And why exactly does ""thanks to human development, mass extinction might suddenly leap one lifespan closer"" mean either ""it's not our fault, really it isn't, nature is evil and killing us all"" or ""see, there's nothing to worry about, humanity is barely having any effect at all""?",1190165814
+56611,comment,56496,56607,0,0,paul,,,"They have some details on this page: <a href=""http://mint.com/safe.html"" rel=""nofollow"">http://mint.com/safe.html</a>",1190165665
+56610,comment,56498,56514,0,0,far33d,,,"Agreed. I was incredibly disappointed that zuckerberg ""thanked"" his developers at the end of the f8 presentation, but neglected to have a slide with their names. <p>This is one thing the film industry has right... it's nice to say to my friends and family ""hey, if you sit around til the end, you'll see my name"".
+",1190165441
+56609,comment,56562,56562,0,0,gwenhwyfaer,,,"Isn't one timesink enough?",1190165271
+56608,comment,56331,56600,0,0,r7000,,,"looks like C# from their website",1190164924
+56607,comment,56496,56496,0,0,marrone,,,"I think the site looks really cool. The only thing that is stopping me from using it is that I have to enter my banking credentials to allow it to access my banking info on its own (nightly). I may decide to sign up in the future, but I am curious as to other people's opinions on that one. <p>I've seen a lot of discussion around asking users for their login credentials just for their email (see this recent YC posting for example: <a href=""http://news.ycombinator.com/item?id=55660"" rel=""nofollow"">http://news.ycombinator.com/item?id=55660</a>), and this is obviously more extreme than that.",1190164873
+56605,comment,56583,56583,0,0,mpc,,,"That's definitely an asp.net error. What is even more mind blowing is the fact that Apple deployed this with debug output turned on. ",1190164541
+56604,comment,56245,56554,0,0,greendestiny,,,"It's really not. Trollporter - some big green dude who carries bags, or a futuristic way for troll folk to travel instantly. I suggest Journatroll, it rolls of the tongue a little better than Journotroll. As a plus its fairly easy to work Journatrollism into a sentence where you would have said Journalism.",1190164207
+56603,comment,56405,56405,0,0,falsestprophet,,,"Better: Paul Graham invented the internet. ",1190164090
+56602,comment,56580,56580,0,0,thisisnotmyname,,,"It seems like a cool game, but it became unplayable once there were around 20 pods on the screen.",1190163929
+56601,comment,56434,56538,0,0,eusman,,,"tell that to YouTube, del.icio.us, flickr ",1190163896
+56600,comment,56331,56331,0,0,aswanson,,,"What language is it written in?",1190163834
+56599,comment,56331,56331,0,0,staunch,,,"I was a Xobni-skeptic but I'm not to proud to reverse my opinion. Things are looking up in Xobniville. Congratulations.
+",1190163632

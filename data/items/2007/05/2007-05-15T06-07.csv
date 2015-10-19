@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+22156,comment,22153,22153,0,0,Sam_Odio,,,"Interesting contrast to News.YC.<p>Honestly, you would think they would have at least two users: the guy who created the project & Tom.  One of them needs to start spamming the site to make it seem alive.",1179211734
+22155,story,,,1,0,reitzensteinm,"Elevating User Experience (Fixing Google) [MP3]",http://www.itconversations.com/shows/detail1758.html,,1179211457
+22154,story,,,1,0,reitzensteinm,"Just Tell The Friggin' Truth",http://www.john-carlton.com/2007/05/14/just-tell-the-friggin-truth/,,1179211132
+22153,story,,,2,1,Sam_Odio,"Things Sure Are Quiet At MySpace News",http://www.techcrunch.com/2007/05/14/things-sure-are-quiet-at-myspace-news/,,1179211052
+22152,comment,22026,22053,0,0,yubrew,,,"Oops, I didn't find the other story.  My bad fellas.",1179211028
+22151,story,,,2,0,reitzensteinm,"The Widget Economy",http://feeds.feedburner.com/~r/ventureblog/~3/116781024/001278.html,,1179210755
+22150,comment,21686,21686,0,0,hello_moto,,,"I would like to know more about the overall architecture especially with their backend written in C# rather than Ruby.",1179210438
+22149,comment,21974,22040,0,0,sbraford,,,"Yes, ""investors"" here is a bit broad.<p>Reading posts like this make it seem really pointless to spend too much time seeking investment.<p>Just go out and build a solid business.  Either:<p>A) It will work.  You will have profits and/or investors will be beating down your door.<p>B) It won't - you've run out of money and no one wants to invest in you.  Just give up!<p>Luckily there are angels and groups like YC who don't take the ""don't fund founder salaries"" approach.<p>For a small web 2.0 startup -- server costs are around $100-500 a month for even a modestly successful app.<p>What else are investors funding, if not founder salaries??",1179210175
+22148,comment,21107,21121,0,0,gyro_robo,,,"A plug-in can access whatever libraries you want.  ",1179209200
+22147,comment,21107,21107,0,0,gyro_robo,,,MMORPG.,1179209104
+22146,comment,21907,22110,0,0,gyro_robo,,,"Very insightful!",1179208894
+22145,story,,,1,0,sbraford,"Ajaxian acquired by Techtarget for $1M",http://www.thealarmclock.com/mt/archives/2007/05/techtarget_buys_1.html,,1179208827

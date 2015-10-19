@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+476,comment,475,475,0,0,phil,,,"so at a first glance, the list of features seems to mostly be about better support and gmail features.",1172134346
+475,story,,,11,5,phil,"Google Apps Premier",http://www.techcrunch.com/2007/02/21/google-launches-apps-premier/,,1172134122
+474,comment,363,363,0,0,brett,,,"Bare bones API-like stuff could go a long way. Add a url parameter to the submit page that prefills the url field and anyone can create a bookmarklet for submitting. Add a status page that takes a url and returns whether or not it is in the system, its current rating and the id to pass in for modding and someone's on their way to a low rent firefox extension.",1172133782
+473,comment,189,189,0,0,papersmith,,,"Damn it Paul, you beat me to it.  I slapped together a reddit clone last summer in reaction to its diluting startup content, but I went on to travel for a month and have been procrastinating from finishing it up ever since.  Nevertheless, I really appreciate that you are opening this to public.",1172133578

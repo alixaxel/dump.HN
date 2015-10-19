@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85358,comment,85211,85211,0,0,tlrobinson,,,"Interesting.<p>I find it amusing that he went to all the trouble (well, not that much trouble) of using MySQL's spatial database features when the following simple query performed even better:<p><pre><code>    SELECT country_code
+    FROM ip_country
+    WHERE ip_to >= INET_ATON('%s')
+    ORDER BY ip_to ASC
+    LIMIT 1
+</code></pre>",1196575007
+85357,comment,85356,85356,0,0,tlrobinson,,,"Normally I find Scoble's videos incredibly boring, but these guys have a really neat idea.<p>It's a WiFi enabled platform with a bunch of different plug-in modules (LCD screens, GPS, camera, motion sensor, accelerometer, etc) that you can put together in different interesting ways.<p>It lets people easily build obscure but useful things that would otherwise never get built due to the complexility of building such things.<p>One example they had was a GPS/internet enabled radar detector, that would automatically report the locations of speed traps. Sounds good to me!",1196574794
+85356,story,,,9,9,tlrobinson,"BugLabs.net's really cool reconfigurable gadget in depth - a hacker-friendly electronics platform",http://scobleizer.com/2007/12/01/buglabsnets-really-cool-reconfigurable-gadget-in-depth/,,1196574417
+85355,comment,85255,85343,0,0,Alex3917,,,"I specialize in awesome.",1196573824
+85354,story,,,4,0,nickb,"Why C remains relevant","http://www.builderau.com.au/program/java/soa/Why-C-remains-relevant/0,339024620,339284206,00.htm",,1196572799

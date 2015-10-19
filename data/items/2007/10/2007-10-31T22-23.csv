@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+74861,comment,74611,74845,0,0,rglullis,,,"No way!  Javascript is the language of the future! Steve Yegge said so!<p>On a more serious note, take a look at version 4. <a href=""http://news.ycombinator.com/item?id=72899"" rel=""nofollow"">http://news.ycombinator.com/item?id=72899</a>.",1193871388
+74859,comment,74605,74830,0,0,hailpixel,,,"I think its time to make a new texteditor / micro-ide",1193870598
+74858,comment,63009,63009,0,0,JPBrown56,,,"Another trend: as start-ups veterans become more common, they will form a group of people who are not reliant on organizations for their livelihood. Like Jefferson's agrarian ideal of individual farmers living off the land, those citizens who control their own destiny through technology will be enjoy the greatest liberty. 
+",1193870557
+74857,story,,,6,1,bootload,"Starting a High Tech Business: Get a Clubhouse",http://www.windley.com/archives/2007/10/starting_a_high_tech_business_get_a_clubhouse.shtml,,1193870457
+74856,comment,74605,74605,0,0,kingnothing,,,"I have no clue how so many of you are only working on one monitor. Maybe you've never tried using two, but there's absolutely no way I could ever code again on just one.<p>The difference is night and day.",1193870416
+74855,comment,74605,74605,0,0,llimllib,,,"<a href=""http://billmill.org/static/images/desktop.png"" rel=""nofollow"">http://billmill.org/static/images/desktop.png</a>
+",1193870366
+74854,comment,74781,74781,0,0,DeathCrab,,,"""Seriously""? It says ""joke"" at the top of the page.
+",1193870267
+74853,comment,74807,74832,0,0,kingnothing,,,"Unfortunately, I'd be plenty sober and lost by the time I hit the Mason-Dixon line... four days later.",1193869775
+74852,comment,74452,74452,0,0,kingnothing,,,"I've been using Bitstream Vera Sans Mono 14pt for about a month now and like it quite a bit.<p><a href=""http://www.bitstream.com/font_rendering/products/dev_fonts/vera.html"" rel=""nofollow"">http://www.bitstream.com/font_rendering/products/dev_fonts/v...</a>",1193869628
+74851,comment,74452,74685,0,0,kingnothing,,,"I'm not sure about you, but my eyes noticeably tire more quickly when reading small fonts versus larger fonts for prolonged periods of time.",1193869453
+74850,comment,74491,74843,0,0,mattmaroon,,,"FSL doesn't do live drafts. They do some goofy version of salary cap pick'ems. ",1193869319
+74849,comment,74605,74605,0,0,nmeyer,,,"Eclipse, vim and Opera.  I like my syntax highlighting scheme, but not many people like colors as much as I do.<p><a href=""http://dl.getdropbox.com/u/59/workspace.PNG"" rel=""nofollow"">http://dl.getdropbox.com/u/59/workspace.PNG</a>",1193869294
+74848,comment,74491,74668,0,0,mattmaroon,,,"Flex is pretty awesome. We use it for the draft and lobby. The lobby we probably could get away with AJAX for in the future, but I'd dread using that for the draft. ",1193869264
+74847,comment,74611,74829,0,0,nickb,,,"He's Super Marc!<p>Anyway... read his post on procrastination... he offers some excellent advice. 
+",1193869245
+74846,comment,74491,74795,0,0,mattmaroon,,,"I'll definitely work on explaining it to people better. <p>One of my cofounders is absolutely crushing at fantasy football and rarely ever watches a game. It's more than anything looking at statistics and learning how they apply.",1193869180
+74845,comment,74611,74777,0,0,nickb,,,"You mean 1997 ;).",1193869165
+74844,comment,74841,74841,0,0,seren6ipity,,,"You are a Pro... ;)",1193869122
+74843,comment,74491,74680,0,0,Caligula,,,"Good to hear.<p>another note , in your about us you say
+""We're currently the only site offering live drafts all day every day throughout each sport's season. We offer short term, hands off leagues, so you won't be penalized if you can't login five times a day to manage teams. And we offer guaranteed cash prizes with a simple, easy to understand structure""<p>A quick google search showed <a href=""https://www.fantasysportslive.com"" rel=""nofollow"">https://www.fantasysportslive.com</a><p>Im sure there are other sites.  I think your game lobby is better than yours.  I look forward to trying it when other players are on and its real $.
+cheers.",1193868818
+74842,story,,,1,0,anaphoric,"Feedback on the usability of our NLI?",http://geo.anaphoric.com/,"Hello I would ask that anyone interested in natural language interfaces take a look at our live demo. It is still rough around the edges, but we figure it's about time to show something that people can pound on. <p>Any feedback (even of the harsh kind) is welcome.<p>Regards...",1193868729
+74841,story,,,8,2,kirubakaran,"Programmers And Prostitutes",http://kirubakaran.blogspot.com/2007/10/pros.html,,1193868645
+74840,comment,74605,74605,0,0,mqt,,,"<a href=""http://www.csh.rit.edu/~apox/images/screenshots/20071031.png"" rel=""nofollow"">http://www.csh.rit.edu/~apox/images/screenshots/20071031.png</a><p>My four desktops merged into one image. I'm using FreeBSD+ion.",1193868528
+74839,comment,74452,74452,0,0,alec,,,"I really like DejaVu Sans Mono.  I've found it's most readable for me on an AntiqueWhite background (sort of off-white).  From my .Xdefaults:<p>Emacs.font: DejaVu Sans Mono-12
+Emacs.background: AntiqueWhite<p>You'll need emacs from CVS, but it is a huge improvement over previous versions if only for the better font support.",1193868243
+74838,comment,74605,74606,0,0,chengmi,,,"I don't think 10 desktops is enough... best to double it. =)",1193868166

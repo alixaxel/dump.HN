@@ -1,0 +1,42 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+119589,comment,119108,119513,0,0,systems,,,"well what is java written in?
+you can always claim that hadoop is ultimately writen in the language used to create java.<p>they should have used Perl5 and Moose thought!",1203501529
+119588,comment,119567,119585,0,0,alaskamiller,,,"they have 17 billion dollars in cash from donations and various other means. they're now disbursing that through the free tuition process.",1203501408
+119587,comment,119536,119543,0,0,aneesh,,,"generally, people you find on online forums are going to be bad.  the difference is, if you find a designer in estonia on odesk, you'll pay 50 bucks for bad design.  if you get a san fran designer from craigslist, you'll pay hundreds for a bad design.<p>go with people you know, or people friends refer you to.",1203500766
+119586,comment,119494,119571,0,0,atoulouse,,,"Isn't working for me in these popular browsers you speak of, unless it's just a mac thing?<p>EDIT: A ha, it works now. Maybe it's a server load thing.",1203500713
+119585,comment,119567,119567,0,0,lex,,,"are they getting money from elsewhere, or are they just taking fewer students from those income brackets?",1203500697
+119584,story,,,26,12,nickb,"xkcd - Duty Calls",http://www.xkcd.com/386/,,1203500532
+119583,comment,119567,119567,0,0,aneesh,,,"""In the future, Harvard will cost $1 billion a year, and only Bill Gates's children will pay full price. When anyone else walks through the door, the message will be 'Special price, just for you.' ""
+--Greg Mankiw",1203500482
+119582,comment,119567,119567,0,0,atoulouse,,,"Well, crap. The only reason I didn't apply to Stanford was because my family wouldn't be able to afford it.<p>..but Berkeley's EECS a wonderful alternative, so it's all good, I guess. =)",1203500385
+119581,story,,,7,1,mickael,"Process One is hiring new Erlang developers",http://www.process-one.net/en/blogs/article/we_are_hiring_erlang_developers/,,1203500331
+119580,comment,119494,119571,0,0,bdfh42,,,"Well spotted - I just assumed that the server was having traffic problems as this link has been posted by Jeff Atwood at Coding Horror. It opens just fine in a FireFox IE tab of course.",1203500314
+119579,comment,119238,119238,0,0,Zarchne,,,"As a religious person, I don't find the graph itself to be anti-religion.  The teachings of Jesus recorded in the Christian scriptures repeatedly warn that material wealth can interfere with one's relationship with God, and other (many? most?) religions make similar observations.  So one way to look at this data is that it simply confirms this precept.",1203500182
+119578,comment,119567,119577,0,0,alaskamiller,,,"the rich feed the rich!",1203500110
+119577,comment,119567,119567,0,0,bkrausz,,,"Damnit...so went to the wrong school...<p>Funny how if I went to Stanford it would be profitable for my mom to quit her job.",1203499740
+119576,comment,118933,118933,0,0,lsmith,,,"Whether it's interesting in its own right or not is not the issue. The subject matter is of a political nature, and doesn't really afffect or concern the technical community moreso than any other demographic group. Shouldn't this sort of thing be left to mainstream sites? In any event, most readers proably check other news sites, so this just seems redundant.",1203499558
+119575,story,,,7,4,drusenko,"Simple Apache Form Authentication: mod_auth_cookie",,"This module seems to have fallen by the wayside: The previous homepage has gone dark, and I was luckily able to grab the source from archive.org.<p>It's a really great way to set up a simple login form and get rid of the ugly Basic Authentication prompt. You still use Basic Authentication (including a .htpasswd file or mod_auth_mysql, for example), but redirect using a custom 401 handler that shows a login form, that in turn sets the user:password combination as a cookie.<p>On the server, mod_auth_cookie then takes that cookie and fakes the Basic Authentication headers. It's literally so simple, it can be configured with one line on top of Basic Auth:<p>AuthCookieName CookieName<p>I've resurrected the module from the abyss, and hosted a shiny new homepage at http://modauthcookie.weebly.com/",1203499537
+119574,comment,118909,118988,0,0,malkia,,,"For such type of thing you should always have something at the last column, even return might be enough<p>A,B,,,,,,,,""
+""
+C,D,,,,,,,,""
+""<p>That's newline there between "" and ""<p>I guess Excel loads that internally through a convertor, trims the rightmost unused columns, and then saves it that way.",1203499516
+119573,comment,119147,119417,0,0,marcus,,,"I agree with one exception, DRM that is designed to keep a company's trade secrets secret. Encountered a few startups building DRM for that purpose and I have to say that I don't find it offensive.<p>Data leakage is a serious problem for many companies and DRMing its key data is a good solution.<p>Although it is technologically impossible to create a bullet proof DRM and DRM as a whole is a rotten concept, at least these things can be ""fool"" proof and prevent accidental leakage.",1203499493
+119572,comment,119068,119068,0,0,rms,,,"<a href=""http://www.boingboing.net"" rel=""nofollow"">http://www.boingboing.net</a><p><a href=""http://www.waiterrant.net"" rel=""nofollow"">http://www.waiterrant.net</a><p><a href=""http://www.offthebroiler.com"" rel=""nofollow"">http://www.offthebroiler.com</a> (though it really went downhill when the author started trying to eat healthily)",1203499417
+119571,comment,119494,119494,0,0,willarson,,,"Trying to go to their website using Camino (I realize that its working for Firefox and other more popular browsers, was just kind of surprised):<p>javax.servlet.ServletException: agent.filename property not set in config
+file
+	at com.cmp.nucleus.servlet.NucleusServlet.init(NucleusServlet.java:895)
+	at com.caucho.server.http.Application.createServlet(Application.java:3114)
+	at com.caucho.server.http.Application.loadServlet(Application.java:3065)
+	at com.caucho.server.http.QServletConfig.loadServlet(QServletConfig.java:435)
+	at com.caucho.server.http.Application.getFilterChainServlet(Application.java:2809)
+	at com.caucho.server.http.Application.buildFilterChain(Application.java:2765)
+	at com.caucho.server.http.Invocation.service(Invocation.java:313)
+	at com.caucho.server.http.RunnerRequest.handleRequest(RunnerRequest.java:346)
+	at com.caucho.server.http.RunnerRequest.handleConnection(RunnerRequest.java:274)
+	at com.caucho.server.TcpConnection.run(TcpConnection.java:139)
+	at java.lang.Thread.run(Thread.java:595)",1203498801
+119570,comment,119453,119453,0,0,bdfh42,,,"I took a look at the FAQ page and then the idea began to make more sense - I could see where it fitted into the web ecosystem.",1203498668
+119569,comment,119498,119498,0,0,aston,,,"I'm about to throw this on PG's essay list page. News.YC karma++ ftw...",1203498640
+119568,comment,119516,119516,0,0,delackner,,,"NO.  In fact, I would love a link that says ""downmod/ignore stories from similar to those that vote for this story"".  If a story has been up-ranked by a lot of people that you disagree with, you should be able to just ignore them, effectively producing different news feeds for different affinity pools.",1203498221
+119567,story,,,50,46,alaskamiller,"Take that Harvard! Stanford drops tuition for students.",http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/20/MNABV5LHM.DTL&tsp=1,,1203498154
+119566,comment,363,118276,0,0,delackner,,,"Think about the incentives you are creating.  This fee would just get written into the contracts of viral ad companies, while enthusiastic users would be deterred by the psychological barrier of spending money to do something that feels like just saying ""hey guys look at this"".",1203498046

@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+76004,comment,75906,75930,0,0,corentin,,,"Why would it be different than the societies we have?",1194169841
+76003,comment,75988,75988,0,0,brianr,,,"looks like that's fixed already. No doubt there will be many more of these fixes in the next few days/weeks... ",1194169742
+76002,comment,75869,75869,0,0,chaostheory,,,"to me Ruby is what Sun always wanted - a simple language (ideally running on the Java VM) that would lure away all those disgruntled VB programmers away from MS... too bad they focused their initial attention on Groovy. Times have changed",1194169118
+76001,story,,,11,4,rms,"Masked thieves storm into Chicago colocation (again!)",http://www.theregister.co.uk/2007/11/02/chicaco_datacenter_breaches/,,1194167079

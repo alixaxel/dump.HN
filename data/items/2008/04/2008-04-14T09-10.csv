@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+163048,comment,162903,163041,0,0,eru,,,"Perhaps he's doing a stage 1 of Gentoo and wants to configure and compile everything himself.",1208166609
+163047,comment,162698,162771,0,0,davidw,,,"Damn.  I go sleep for a few hours, and look what happens...",1208166562
+163046,comment,163038,163038,0,0,henning,,,"Have a look at <a href=""http://code-generation.net"" rel=""nofollow"">http://code-generation.net</a> and Manning's Code Generation in Action.",1208166541
+163045,story,,,1,0,henning,"Leo Laporte did a show for 10 years and it got cancelled - here's how he blogged it",http://leoville.com/category/blog/page/2/,,1208166471
+163044,comment,163013,163036,0,0,sox,,,"Good catch.  The most revolutionary award may actually go to Apple for the Apple II...  although they tried to sell out to Commodore before that!",1208166254
+163042,comment,162803,163014,0,0,eru,,,"You do not need RL friends, fortunately.",1208165857
+163041,comment,162903,162960,0,0,mroman,,,"3 months to install Linux?<p>You can't be serious.",1208165803
+163040,comment,162917,162917,0,0,rlm,,,"Non-linkjacked: <a href=""http://adage.com/digital/article?article_id=126326"" rel=""nofollow"">http://adage.com/digital/article?article_id=126326</a>",1208165748
+163039,story,,,2,1,rantfoil,"Continue; - the forgotten statement",http://www.sitepoint.com/blogs/2008/04/14/continue-the-forgotten-statement/,,1208165383
+163038,story,,,2,3,randomhack,"Ask YC : java template engine for generating source code?",,"Have any of you used stringtemplate, velocity, freemarker or others for generating structured text of any kind? Any experiences or thoughts? Stringtemplate seems to be purely functional and claims to enforce strict model view separation. Is StringTemplate good in real world?",1208165318
+163037,comment,162968,162968,0,0,Hates_,,,"I highly recommend his book Maverick.",1208164501
+163036,comment,163013,163013,0,0,mattjung,,,"I miss Facebook in the article!",1208164275
+163035,comment,162938,163020,0,0,davidw,,,"The problem is whoever voted it up.  Would that we could unmask the bozos;-)",1208164057
+163034,comment,135495,135495,0,0,gscott,,,"I viewed your site and I had a case of information overload.  I would suggest having a feature where a person can type in what they like (cars, technology, etc) and that you feed them what they want rather then dump everything on them at once.",1208163612

@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+554238,comment,553939,554105,0,0,yellowbkpk,,,"Something like this?<p><a href=""http://www.fitbit.com/"" rel=""nofollow"">http://www.fitbit.com/</a>",1239278264
+554237,story,,,40,17,jgrant27,"Live Lisp coding as art",http://www.imagine27.com/articles/2009-04-09-010147_live_lisp_art_opengl_synth_sound.html,,1239278114
+554236,comment,553393,554209,0,0,silentbicycle,,,"And do notation retains a lot of the typical ""block of imperative code"" appearance.",1239278070
+554235,comment,554172,554172,0,0,avinashv,,,"One of the commenters on the site voiced <i>exactly</i> what I was thinking:<p>> The delivery is so dry that it almost comes off as serious. Very nice.<p>Humorous, and I imagine it's on the front page because it raked up 15 votes in an hour.<p>To anyone who thinks there is real advice here: you're wrong.  I'm not saying one language is better than another, but PHP's advantages over Ruby are not these.",1239278046
+554234,comment,554172,554205,0,0,habibur,,,"I wish there was a ""cancel your upvote"" for those of us who vote first and then read the article afterwards :-) People like me might be part of the problem how this crap got to the first page.",1239277761
+554233,story,,,3,0,mancuso5,"Tumblr Power - 50 tumblelogs that will make your inspiration go nitro",http://www.inspiredm.com/2009/04/08/tumblr-power-50-tumblelogs-that-will-make-your-inspiration-go-nitro/,,1239277668
+554232,comment,553794,553854,0,0,codeodor,,,"Half that may not be enough. Don't that you'll be in charge of all business expenses and more tax (if in the US, you'll have to pay an extra ~7 percent right off the bat to cover the half of social security your employer pays on your behalf).<p>Also, a lot more of your time will be taken up by non-billable hours.",1239277496
+554230,comment,552821,553110,0,0,rbanffy,,,"If a marketer or manager thrives in such an environment, there is a good chance they are mediocre at best.<p>Creative people keep banging against the limits corporate rules impose on them. Those who don't bang are not creative.",1239276926
+554228,comment,553794,554224,0,0,axod,,,"Not so good as it first sounded ;)",1239276895
+554226,comment,554220,554220,0,0,trapper,,,"Nothing is dying. Its just becoming easier to use the right tool for the job and coordinate lots of different systems, making any one tool easy to get rid of if it doesn't suit.",1239276653
+554225,story,,,1,0,ccarpenterg,"Madoff-type schemes are proliferating on YouTube",http://abluteau.wordpress.com/2009/04/08/12001/,,1239276390
+554224,comment,553794,554167,0,0,flooha,,,"Exactly where do you live that $8000/week is ""not so good""?",1239276340
+554223,comment,553794,554161,0,0,3pt14159,,,"And adjusted for currency. I checked off an answer one bucket lower because I bill in Canadian dollars, but I don't think most Canadians would think of that.",1239276222
+554222,comment,553017,553545,0,0,redss,,,"Yes, thanks.  Believing in what you sell always helps.  But beyond that?<p>What is the best way to learn most effective selling and closing techniques?",1239276202
+554221,comment,554192,554192,0,0,3pt14159,,,"Love the starbucks idea. What my friends from U of Waterloo do is pitch the idea to a very open economics prof (L. Smith) that gives highly critical feedback (tone, speed, size of market place, range of execution).",1239276066
+554220,story,,,11,8,techdog,"Why is every technology being declared Dead?",http://asserttrue.blogspot.com/2009/04/why-is-everything-being-declared-dead.html,,1239276035
+554219,comment,553776,553985,0,0,eru,,,"That's does not seem to contradict.",1239275993
+554218,comment,553734,553734,0,0,rythie,,,"I don't know why people keep on trying to aggressively get rid of IE6, it will die of it's own accord anyway.<p>Even according to the W3c's web stats (<a href=""http://www.w3schools.com/browsers/browsers_stats.asp"" rel=""nofollow"">http://www.w3schools.com/browsers/browsers_stats.asp</a>), who are probably early adoptors, IE6 has 17% market share. IE6 still has more than Opera, Safari, Chrome and IE8 put together.<p>I don't see that it makes any business sense to annoy a large section of your users, just to save a little bit of development time. I know for example in some internet cafes in Eygpt in December last year they were still using IE6 and no warning message is likely to fix that soon.<p>I say just fix your sites until it's 2-3% of the market, like when Netscape 4 died.",1239275947
+554217,comment,554172,554210,0,0,plinkplonk,,,"""Were the Ruby community equally humble about their language's shortcomings,""<p>The ruby community and humble? the mind boggles ;-).<p>more seriously, in my opinion the <i>ruby</i> community is (mostly) sensible. Rails seems to attract all the fanboy cult ists. Sometimes this spills over into the ruby community.<p>If you see the latest kerfluffle over Twitter moving a bit of code from ruby to Scala  most of the incoherent blabbering responses came from the rails crowd (e.g Obie Fernandez's response on his blog).",1239275853
+554216,comment,554192,554192,0,0,yan,,,"I am really digging this post not only for its goal of training to pitch, but that it stresses approaching random people in a friendly, non-intrusive manner. I know I don't do this enough and I'm sure others have issues with it.",1239275806
+554215,comment,554172,554205,0,0,swombat,,,"I think it's not all that bad, but it doesn't deserve the number 2 spot... there are better articles out there.",1239275733
+554214,story,,,1,0,joschi,"Installing MyDNS-NG & MyDNSConfig 3 On Debian Lenny",http://www.howtoforge.com/installing-mydns-ng-and-mydnsconfig-3-on-debian-lenny,,1239275695
+554213,comment,553776,553776,0,0,known,,,"You are a product of your environment. --Clement Stone",1239275486
+554212,comment,553393,554171,0,0,eru,,,"We should employ mturkers to transcribe videos.  If only ten people pay like 5 cent for it, it should be viable given the low pay of mturkers.  (Perhaps the content provider could also do this, as he profits from advertising and the transactions/coordination costs are much lower for this centralised solution.)",1239275446
+554211,comment,554172,554172,0,0,yan,,,"I came here to rant on the linkbaitism (?) of saying ""Lang X is better than lang Y,"" but was instead pleasantly surprised to find lighthearted satire.",1239275431
+554210,comment,554172,554206,0,0,erlanger,,,"I hope you didn't find any of the sarcastic implications to be persuasive in their own right...#9 is unadulterated BS. In any case, I'm happy to keep fanboys out of the PHP and Perl communities...we know our languages have profound flaws, but like Terry Chay said,<p><i>Rails is like a rounded rectangle and PHP is like a ball of nails [...] When I say that PHP is a ball of nails, basically, PHP is just this piece of shit that you just put together—put all the parts together—and you throw it against the wall and it fucking sticks.</i><p>Were the Ruby community equally humble about their language's shortcomings, the programming blogosphere would be a far less annoying place.<p>Or better, #8, comparing the brevity of two trivial snippets:<p><pre><code>  foo = {""zulu"" => ""1"", ""alpha"" => ""4"", ""golf"" => ""8"", ""bravo"" => ""3""}  
+  bar = foo.keys.sort.slice(0,3)
+</code></pre>
+As opposed to<p><pre><code>  $foo = array(""zulu"" => ""1"", ""alpha"" => ""4"", ""golf"" => ""8"", ""bravo"" => ""3"");  
+  $keys = array_keys($foo);  
+  sort($keys);  
+  $bar = array_slice($keys, 0, 3); 
+</code></pre>
+Look, I can put stuff on one line too!<p><pre><code>  $foo = array(""zulu"" => ""1"", ""alpha"" => ""4"", ""golf"" => ""8"", ""bravo"" => ""3"");  
+  $bar = array_slice(sort(array_keys($foo), 0, 3));
+</code></pre>
+Other than a couple boilerplate ""array"" prefixes, the code is pretty much identical.",1239275250
+554209,comment,553393,553753,0,0,eru,,,"I believe Haskell looks different.  At least with heavy use of combinators my code looks more like Forth than Python.  For me small functions tend to be even smaller in Haskell than Python.",1239275195
+554208,comment,553680,554195,0,0,plinkplonk,,,"@ eru, 
+Brilliant!, upvoted!",1239275145
+554207,comment,554201,554201,0,0,jleyank,,,"Nonbinding resolution.  The UN could pass one against gravity but it would have the same effect.",1239274858
+554206,comment,554172,554172,0,0,CalmQuiet,,,"Pretty funny stuff.  Short and sweet.<p>More persuasive about gutting up and learning Ruby than the head-to-head debates I've slugged through.<p>—A novice.",1239274832
+554205,comment,554172,554172,0,0,erlanger,,,"How did this crap make it to the front page? Digg's that-a-way.",1239274813

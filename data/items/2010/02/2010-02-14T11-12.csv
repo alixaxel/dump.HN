@@ -1,0 +1,191 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1124477,comment,1124456,1124456,0,0,patio11,,,"I didn't think this would necessarily be HN material so I didn't bother submitting it, but apparently someone disagrees with me.<p>I figured I had to ""professionalize"" A/Bingo a bit because recently from reading my email I get the impression that it is looking less like the 10% time project from my 10% time project and more like ""Oh, effity, if this breaks businesses with employees start losing money.""  So I did a bit of code cleanup, wrote some tests, and created a versioning plan so that folks depending on it are not totally on their own for evaluating whether a particular commit will break stuff if they pull it in.<p>Since I had the opportunity I also made some changes to the user experience, such as decreasing the amount of code you have to write even further, and incorporating the Minimum Viable Dashboard.<p>If you aren't A/B testing yet, I want to change that.  Tell me what I need to do to make it happen.",1266148739
+1124476,comment,1124297,1124297,0,0,gnosis,,,"<i>""Handley was the nation’s first to be convicted under that law for possessing cartoon art, without any evidence that he also collected or viewed genuine child pornography.""</i><p>Mike Diana was first to receive a conviction for publishing, distributing, and advertising ""obscene"" comics (in 1996).  See:<p><a href=""http://en.wikipedia.org/wiki/Mike_diana"" rel=""nofollow"">http://en.wikipedia.org/wiki/Mike_diana</a><p>And Diana's website to see the comics he was jailed for:<p><a href=""http://www.mikedianacomix.com/mikediana/mikediana.html"" rel=""nofollow"">http://www.mikedianacomix.com/mikediana/mikediana.html</a>",1266148705
+1124475,story,,,1,0,computinggeek,"Samsung announce 10inch Android Netbook",http://thecomputinggeek.com/samsung-announce-10inch-android-netbook/,,1266148680
+1124474,comment,1124297,1124297,0,0,fauigerzigerk,,,"It seems the legal system as well as our society as a whole is pretty schizophrenic about that relationship between fantasy and reality.<p>Do we believe that representations of violent fantasies generally cause crime? And secondly, if something does indeed cause a tiny group of people to commit a crime is that a good enough reason to prevent everybody from using it?<p>Depending on the answers the consequences of applying it consistently are very far reaching.<p>Clearly, if comic books depicting child porn are prohibited, any depiction of rape and murder for entertainment purposes must be prohibited as well. That includes mainstream movies, TV programs and video games.<p>I suspect the real purpose of laws like the one applied here is not preventing crime or protecting anyone.<p>So the meta question is whether laws should be consistent and effective at preventing crime, or whether it is sufficient if they allow some kind of collective emotional identification.<p>I'm concerned that if we put up with the latter the law will become a mere pretence for mob rule, which is easily exploited by fanatics and populists.",1266148589
+1124473,comment,1121269,1121785,0,0,lsc,,,"I use a laptop with a EVDO modem;  totally worth the $70/month to not have to trust whatever virus-infested windows box I happen to be near when I am out of the house.",1266148537
+1124472,comment,1124139,1124139,0,0,gnosis,,,"Knut Hamsun's ""Hunger"" is also excellent (better even than Kafka, but less well-known):<p><a href=""http://www.gutenberg.org/dirs/etext05/8hngr10h.htm"" rel=""nofollow"">http://www.gutenberg.org/dirs/etext05/8hngr10h.htm</a>",1266148424
+1124471,comment,1123995,1124134,0,0,ZeroGravitas,,,"Why do you think the brightness was turned down? Have you ever tried to use a macbook in bright sunlight? It's unreadable. In fact I was surprised by how clear the macbook screen was so I'd guess they had the brightness jacked right up.<p>Cameras don't always accurately reflect what the human eye would see but an LCD backlight simply can't compete with bright sunlight. The Pixel Qi is effectively acting as a mirror for that light.<p>edit: this video from last June has a good comparison with the kindle and a transflective screen right at the start and a standard LCD touchscreen at 5:20<p><a href=""http://www.youtube.com/watch?v=oawX3wenxNc"" rel=""nofollow"">http://www.youtube.com/watch?v=oawX3wenxNc</a>",1266148399
+1124470,comment,1124457,1124457,0,0,blasdel,,,"javac does do type inference, but it only exposes it to you in error messages!",1266148388
+1124469,comment,1124405,1124462,0,0,jrockway,,,"But of course, you can't actually put just that in a file and expect it to compile.  You have to wrap it with class whatever public static void main ....",1266148361
+1124468,story,,,3,0,gnosis,"Hunger, by Knut Hamsun (brought to mind by ""The Hunger Artist"", by Franz Kafka)",http://www.gutenberg.org/dirs/etext05/8hngr10h.htm,,1266148337
+1124467,comment,1123147,1124033,0,0,pmjordan,,,"Or uninitialised local variables, which are affected by the difference in register allocation, but really you should be enabling the corresponding warning.",1266148286
+1124466,comment,1124055,1124055,0,0,otto,,,"Things like this completely devalue the MIT Media Lab to me.  I can only hope the creator did not receive a Masters for this.",1266148264
+1124465,comment,1121269,1121741,0,0,lsc,,,"Nearly all providers will give you a new IP if your old one got blacklisted before it was assigned to you.<p>Note;  'clean IPs from unassigned netblocks' are not necessarily good.  see bogon filtering[1]  - still, running your own mailserver is not an impossibly difficult task.<p>[1]<a href=""http://en.wikipedia.org/wiki/Bogon_filtering"" rel=""nofollow"">http://en.wikipedia.org/wiki/Bogon_filtering</a>",1266148205
+1124464,comment,1124405,1124405,0,0,bad_user,,,"Of course it's Java's fault ... sure, you can design clean and easy-to-use APIs but it takes a considerable amount of effort and Java doesn't help you.<p>I simply don't get some of its design choices ... operator overloading is not harmful if implemented right, checked exceptions were a bad idea, and why can't it have local type inference or proper closures and why can't developers define their own stack-allocated primitives? Where these really that hard or dangerous to blend in?",1266148171
+1124463,comment,1124297,1124297,0,0,igorhvr,,,"This is utterly absurd. You cannot limit in any way <i>fiction</i> that people read or write - not if you claim to be a free country.<p>Seriously - why is this happening? I am not talking about ""protecting the children"" or other such nonsense - the question is what <i>actually</i> is happening here? What is the reason? What possible advantage can anyone have from destroying the life of this man like this?<p>EDIT: Improved wording.",1266148149
+1124462,comment,1124405,1124443,0,0,barrkel,,,"You're just agreeing with him though - the only bits of Java, as opposed to API, in there are [()=;.], 'new' and 'return'.",1266148140
+1124461,comment,1117007,1118147,0,0,lsc,,,"I think the important part here is to not take on things that will make you /less/ likely to succeed.   Giving ownership to the wrong people will kill the company faster than anything else.  Hell, even just taking on debit can change a company from one where you can learn from your mistakes to a failure after you make your first big mistake.<p>(now, YC is probably the right people to give ownership to for some types of companies;  I imagine if your revenue model is to sell the company to some silicon valley VC, the increased access to people wanting to buy is probably worth the 5%.  It's probably a bad idea, though, for other sorts;   It probably would not have helped my company much.  (well, at least my company would have become something entirely different from what it is.)",1266148074
+1124460,comment,1124405,1124444,0,0,pvg,,,"In many cases, they are the Java APIs, there really aren't 'JVM APIs'. Java the language comes with a standard set of APIs, if they're not there you can't call it 'Java'. If you were writing a nontrivial UI in Swing in Clojure or Scala, it will likely be fairly verbose.",1266147996
+1124459,comment,1124405,1124405,0,0,jrockway,,,"Lies.  Java is intrinsically verbose.  Say I want to make a class with
+a read-only attribute ""Foo"".<p>CLOS:<p><pre><code>   (defclass class () ((foo :reader get-foo :initarg :foo)))
+</code></pre>
+Moose:<p><pre><code>   class Class {
+       has 'foo' => ( is => 'ro' );
+   }
+</code></pre>
+Java:<p><pre><code>   class Class {
+       private String foo;
+
+       public Class(String foo) { // named initargs are clearly for losers
+           this.foo = foo;
+       }
+   };
+</code></pre>
+Notice how a common high-level task requires a manual error-prone
+implementation, every single time.  Java provides only the concepts of
+""class"", ""field"" and ""constructor"", while the other languages provide
+the high-level concept of an ""attribute"", which is what the programmer
+actually wants.  (The first concept is easy for the language
+implementor, the second concept is easy for the practicing
+programmer.)<p>I should also point out how the verbosity exists only for the sake of
+being verbose, not for creating more reliable software.  Perl and CLOS
+assume I want named initargs, making use of my class self-documenting:<p><pre><code>   (make-instance 'class :foo 42 :bar 123)
+
+   Class->new( foo => 42, bar => 123)
+</code></pre>
+That's verbose, but it makes the code very easy to read and write.  No
+guessing about what slot is being set to what value.<p>With Java, though, it's anyone's guess as to what's going on:<p><pre><code>   new Class(42, 123);
+</code></pre>
+The only way to know which field gets set to which value is to Read The Fine Source:<p><pre><code>   public Class(int bar, int foo){
+      this.foo = bar;
+      this.bar = foo;
+      System.Utils.delete_users_pr0n_stash();
+   }
+</code></pre>
+foo does get set to 42, but only by accident... and there are unexpected side effects.<p>So much less typing though! <i>cough</i>.<p>Another common programming pattern is reusing code.  (I hear people
+like doing that.)  Say you have classes representing numbers, and you
+want to add a ""not equals"" method to each type.  That's easy, you can
+just write a generic role like:<p><pre><code>    role Eq {
+        requires 'equal';
+        method not_equal($a: $b){
+            return !$a->equal($b);
+        }
+    }
+</code></pre>
+Then I can easily reuse that extremely-complex ""not_equal"" method:<p><pre><code>    class Int with Eq {
+        has value => ( is => 'ro', required => 1 );
+        method equals($a: $b){
+            return $a->value == $b->value;
+        }
+    }
+
+   Int->new( value => 42 )->not_equals( Int->new( value => 123 ) ); # True
+</code></pre>
+In Java, I can still maintain a similar interface:<p><pre><code>   interface Eq {
+       public bool equal(Eq that);  // Eq is not really the type I want, but whatever.
+       public bool not_equal(Eq that);
+   }
+</code></pre>
+But the implementation can't be shared:<p><pre><code>   class Int implements Eq {
+       private int value;
+       public Int(int value){ // didn't we just say ""int value"" like one line ago?
+           this.value = value;
+       }
+
+       public bool equal(Int that){
+           return this.value == that.value;
+       }
+
+       public bool not_equal(Int that){
+           return !this.equal(that);
+       }
+   }
+</code></pre>
+This is both verbose and error-prone.  (I will also point out that
+Java calls Eq ""Comparable"" and uses the ""implements"" keyword instead
+of ""with"".  But this is petty.  I'm surprised they were happy with
+""implements"" and didn't choose the clearer expression
+""implementsTheInterfaceThatIAmAboutToTypeRightAfterIAmDoneTypingThis"".
+Your editor can type that for you, after all...)<p>But wait, we can use the strategy pattern to save us!<p><pre><code>   class NotEqualStrategy {
+       public bool not_equal(Eq a, Eq b){
+           return !a.equal(b);
+       }
+   }
+
+   class Int {
+       private NotEqualStrategy not_equal_strategy;
+       private value;
+
+       public Int(NotEqualStrategy nes, int value){
+           this.not_equal_strategy = new;
+           this.value = value;
+       }
+
+       public bool equal(Int that){
+           return this.value == that.value;
+       }
+
+       public bool not_equal(Int that){
+           return not_equal_strategy.not_equal(this, that);
+       }
+   }
+</code></pre>
+At least I don't have to cut-n-paste the logic anymore, but it's still
+very verbose.  Imagine you had to delegate more than one method -- you
+can do it, but it involves a ton of meaningless code.<p>In Perl, I can just say:<p><pre><code>   class NotEqualsStrategy {
+       method not_equal(Eq $a, Eq $b){
+           return !$a->equal($b);
+       }
+   }
+
+   class Int {
+      has 'not_equals_strategy' => (
+          is       => 'ro',
+          isa      => 'NotEqualStrategy',
+          required => 1,
+          handles  => ['not_equal'],
+      );
+
+      has 'value' => ( is => 'ro' );
+
+      method equal(Int $a: Int $b){
+          $a->value == $b->value;
+      }
+   }
+</code></pre>
+Notice how I didn't have to type the cut-n-paste delegation; the
+language did it for me.  I didn't have to type it, I don't have to
+look at it, and I can't accidentally fuck it up.  That's what
+programming languages are supposed to do for you, and that's what Java
+doesn't do.<p>In conclusion, Java is verbose, and verbosity is harmful.",1266147944
+1124458,comment,1124405,1124443,0,0,jrockway,,,"The ""new Response()"" value is unused.",1266147940
+1124456,story,,,21,20,stakent,"A/Bingo 1.0.0 Official Release",http://www.kalzumeus.com/2010/02/14/abingo-1-0-0-official-release/,,1266147909
+1124455,comment,1124405,1124405,0,0,pvg,,,"It is, to some extent, Java's 'fault' although it's fuel for endless flamage how much that is a fault.<p>Some stuff is just plain verbose, in part due to lack of type inference -<p><pre><code>  EndlessParametrizedType foo = new EndlessParametrizedType()
+</code></pre>
+As to the APIs, some of it is due to excessively baroque APIs. But even with a well-designed API, in order to provide a reasonable amount of flexible functionality, a lot of the internal structure of the implementation is often exposed so it can be accessed. This is a consequence of static typing - in a dynamic language, you're more likely to just reach into the bowels of an object and pull out, change or replace bits you want. This isn't an option in Java and a flexible API ends up being a composition of a lot of smaller APIs. In the standard library, it's often left to others to provide a simple layer on top that covers the base cases - for instance, Apache Commons mail for Java Mail.",1266147796
+1124454,comment,1124297,1124419,0,0,wheels,,,"According to the article, both textual and visual depictions are still legal if they serve ""serious literary, artistic, political, or scientific value"".  What seems problematic is deciding that a Hollywood blockbuster is art, while anime is not.",1266147785
+1124453,comment,1123147,1123186,0,0,jmaynard,,,"FWIW, I do tend to think the problem's in my code until proven otherwise. That's why I spent a week tearing my hair out trying to find the problem.<p>And, for the naysayers, Hercules is built with -W -Wall.",1266147747
+1124452,comment,1124278,1124287,0,0,david927,,,"Thanks.  I didn't see that.  Interesting that I'm not alone.<p>After they felt free to use my email contacts and frequency to seed their own social network, I feel I can't trust them anymore.",1266147626
+1124451,comment,1124405,1124405,0,0,mnemonicsloth,,,"Clojure code uses the same APIs all the time, but manages to be much shorter.<p>Java's verbose APIs <i>are</i> Java's fault, because Java doesn't provide metaprogramming tools to make the boilerplate go away.",1266147595
+1124450,comment,1117007,1117630,0,0,lsc,,,"whenever someone tells me that money shouldn't matter,  I hear ""I'm trying to take advantage of you""<p>If you want me to work for you for equity, you better be bringing something valuable to the table;  and  you know what?  that idea isn't valuable.  Not until you implement it.<p>This is the other reason why startups like young people;  a young Engineer is easier to impress into thinking your 'idea' is so awesome that you keep 90% of the equity while he does all the work.  (and yeah, I've seen that exact scheme come to pass.)<p>Sure, business people often contribute more than an idea.  A /good/ business person is quite valuable.  a bad business person is worse than nothing, though, and it's extremely difficult for a nerd to tell the difference.",1266147392
+1124449,story,,,1,0,rogermugs,"This is the best blog in the world. this is not a tribute",http://sieveandsand.com/2010/02/12/this-is-the-best-blog-in-the-world-this-is-not-a-tribute/,,1266147261
+1124448,comment,1124382,1124385,0,0,oliverkofoed,,,"But beware that you'll have to give your e-mail address to get the results. It's a trap.",1266147201
+1124447,comment,1124297,1124353,0,0,cduan,,,"Little bit of legal background for you, hopefully it adds something to your thoughts:<p>The standard for ""obscenity"" is defined in the leading Supreme Court case Miller v. California, which held that obscene material was not protected free speech. I won't go through the whole test (Wikipedia explains it well), but it generally says that obscene material has to ""appeal to the prurient interest"" to an average person in the local community, and it has to have no redeeming social values.<p>So I wouldn't be worried that the ""Ruling Party"" deems something obscene or not. Instead, I would be worried about what the ""average person"" thinks. Isn't that a little odd--that your constitutional rights depend on what your neighbors think?<p>(That was an argument that one of my law professors made, and I think it's pretty compelling.)",1266147167
+1124446,comment,1124405,1124440,0,0,_delirium,,,"Ah right, I'm not sure why that skipped my mind; I've even done that before. I suppose that adds to the general view of the linked post that Java-the-language isn't actually inherently that verbose, but the JVM APIs are.",1266147064
+1124445,comment,1124297,1124423,0,0,_delirium,,,"I'm not sure how solid it is either, but for text there are at least some more constraints on what Congress could ban. <i>Fanny Hill</i> (1748) is a very explicit novel about the sexual exploits of a 15-year-old girl, and despite being frequently banned, it was ruled protected by the First Amendment in the U.S. in 1966: <a href=""http://en.wikipedia.org/wiki/Memoirs_v._Massachusetts"" rel=""nofollow"">http://en.wikipedia.org/wiki/Memoirs_v._Massachusetts</a>",1266146889
+1124444,comment,1124405,1124425,0,0,derefr,,,"Those aren't specifically <i>Java</i> APIs, though, they're JVM APIs—Scala and Clojure expose them as well. Are Scala and Clojure verbose? If not, why not? And whatever your response to <i>that</i>, can that same response be retroactively applied to Java, now that we know how to do it?",1266146852
+1124443,comment,1124405,1124405,0,0,InclinedPlane,,,"Response myResponse = new Response();<p>ResponseType myResponseType = responseTypeFactory.CreateNewDisagreementResponseType();<p>responseManger.SetResponseType(myResponse, myResponseType);<p>return myResponse;",1266146800
+1124442,comment,1124358,1124427,0,0,tomerico,,,"You can invite yourself to create an account, and than you do not need SMS validation.",1266146713
+1124441,comment,1124405,1124437,0,0,wolfgke,,,"> for example, no anonymous functions means that if you want to pass a simple one-time-use function to sort, you have to create a whole new file with your sort functor.<p>No you don't have to. Simply create an anonymous class deriving from your sort functor interface. With anonymous functions it would still be shorter, I have to admit. But it is less cumbersome than the way you suggest.",1266146709
+1124440,comment,1124405,1124437,0,0,pvg,,,"<i>you have to create a whole new file with your sort functor.</i><p>You don't. You can use an inner class. An anonymous one, if you like. It's more verbose than your typical lambda expression but it's not 'a whole new file' by any stretch.",1266146661
+1124439,comment,1124055,1124055,0,0,mattwdelong,,,"That is just a good way to send mixed signals.",1266146647
+1124438,comment,1124058,1124067,0,0,kxs,,,"Something similar to the beagle board: <a href=""http://www.globalscaletechnologies.com/c-2-globalscale-technologies-products.aspx"" rel=""nofollow"">http://www.globalscaletechnologies.com/c-2-globalscale-techn...</a> or <a href=""http://www.igep-platform.com/index.php?option=com_content&view=article&id=46&Itemid=55"" rel=""nofollow"">http://www.igep-platform.com/index.php?option=com_content&#3...</a><p>I hope there will be something nettop like with tegra 2 / omap4 / nec's new platform in the near future, I'm looking for something like that as a replacement of my current desktop. Also boxee 2 might be interesting...",1266146528
+1124437,comment,1124405,1124425,0,0,_delirium,,,"Yeah, a more accurate title could have been: Java's verbosity is due to its API, not the underlying language. It's still somewhat interesting to me to decouple the two, though. There are some things that are verbose and cumbersome in Java due to the way the language fundamentally works: for example, no anonymous functions means that if you want to pass a simple one-time-use function to <i>sort</i>, you have to <i>create a whole new file</i> with your sort functor. But the examples in this blog post could've been fixed by just having designed the API differently, or even had the same underlying API but added a set of convenience wrappers for the common cases.",1266146455
+1124436,comment,1123995,1124303,0,0,ZeroGravitas,,,"Without even getting into the multiple generations of iPhones, each with different processors and hardware capabilities, the iPod Touches that don't have cameras or the fact that applications written for the iPhone/iPod Touch will run on the iPad, I'll just point out that the 3G iPad will have GPS and the WiFi iPad won't.<p>So what where you saying about not wanting a platform with applications designed for a device with hardware you don't have?",1266146454
+1124435,comment,1124086,1124086,0,0,mnemonicsloth,,,"I keep wondering why so few people on this site are interested in ideas like signaling and game theory, given their obvious implications for social software, simplicity, explanatory and predictive power.  Why are so many people so resistant to mechanistic explanations of their own behavior, and what's different about the people who aren't?<p>Regardless, no discussion of Miller would be complete without a mention of Robin Hanson's excellent commentary series, which begins with a review of the book that inspired <i>Spent</i>.  Read, smile, and keep clicking ""next post"".<p><a href=""http://www.overcomingbias.com/2009/05/luxury-fever.html"" rel=""nofollow"">http://www.overcomingbias.com/2009/05/luxury-fever.html</a>",1266146412
+1124434,comment,1123147,1123147,0,0,jmaynard,,,"I didn't expect a kind of Spanish inquisition...<p>The terminally curious may download a file containing the assembler output, and the C source, of the offending file from <a href=""http://www.hercules-390.org/esamebug.zip"" rel=""nofollow"">http://www.hercules-390.org/esamebug.zip</a> . This corresponds to revision 5627 of the Hercules emulator as found in the Subversion repository at svn://svn.hercules-390.org/hercules/trunk . The emulator itself is at <a href=""http://www.hercules-390.org"" rel=""nofollow"">http://www.hercules-390.org</a> .<p>The routine is in the generated assembler as z900_load_multiple_long.",1266146371
+1124433,comment,1124358,1124358,0,0,ideamonk,,,"I just tried giving wrong password for delete web history and got this - <a href=""http://twitpic.com/136nev/full"" rel=""nofollow"">http://twitpic.com/136nev/full</a>",1266146298
+1124431,comment,1124358,1124358,0,0,morphir,,,"I suppose this is sort of a internet reset button for many people ;)",1266146201
+1124430,comment,1123579,1124030,0,0,cool-RR,,,"I like how it's shorter to say and write.",1266146149
+1124429,comment,1122706,1123340,0,0,klipt,,,"<i>For that matter, if Jesus returned and resumed his ministry in the modern USA, I'd actually expect more Christians to be ""scandalized"" than atheists.</i><p>There are two possible approaches to the Jesus story. One is to realize that he was criticizing the abuse of religious power in general, and make an effort to avoid that.<p>Of course, the preferred approach for those who actually do abuse religious power is to assume that his criticism focuses on some evil peculiar to the Jews, since being antisemitic is always less work than being introspective...",1266146122
+1124428,comment,1124405,1124405,0,0,viraptor,,,"Isn't it the case, that most places will require an application in java and with most people knowing only the official API, noone will write code for some custom one that is company-specific? IMO yes - it is Java's official API, it is Java's fault.",1266146113
+1124427,comment,1124358,1124402,0,0,mattwdelong,,,"That won't happen, you have to jump through hoops of fire to get a gmail account now. SMS Validation? I am not that curious.",1266145810
+1124426,comment,1124297,1124297,0,0,metamemetics,,,"wire article from 2009 with more details:
+<a href=""http://www.wired.com/threatlevel/2009/05/manga-porn/"" rel=""nofollow"">http://www.wired.com/threatlevel/2009/05/manga-porn/</a><p>''' Chase says he recommended the plea agreement (.pdf) to his client because he didn’t think he could convince a jury to acquit him once they’d seen the images in question. The lawyer declined to describe the details. “If they can imagine it, they drew it,” he says. “Use your imagination. It was there.” '''<p>moral of the story: GET A BETTER LAWYER",1266145729
+1124425,comment,1124405,1124405,0,0,kevingadd,,,"Conveniently ignoring the fact that Java, by default, includes lots and lots of unnecessarily verbose APIs, and in many cases you're stuck using them - then yes, verbosity is not Java's fault.",1266145649
+1124424,comment,1123635,1123635,0,0,DeusExMachina,,,"I think that no one wants to highlight sarcasm. People love to be sarcastic when other people don't get it. It makes them feel superior.<p>When someone is concerned on the reception of a particular sentence, he uses emoticons that already serve this purpose. If someone does not highlight sarcasm, I think he does this on purpose.<p>Not long ago, someone introduced a new character for sarcasm, the SarcMark: www.sarcmark.com<p>Never seen anyone using it.",1266145436
+1124423,comment,1124297,1124419,0,0,jrockway,,,"I would not bet fifteen years of my life on this.",1266145417
+1124422,comment,1124297,1124375,0,0,rms,,,"I just felt like pointing out that the farce goes many levels deep.",1266145330
+1124421,comment,1123364,1124167,0,0,maxklein,,,"Is the 250k+ bracket for a paid app or a free app? I have a free app that is top 10 in its category, and we have 1700 downloads a day on iphone - so it would take me 150 days to reach 250k, or 5 months. How does Android compare?",1266145260
+1124420,comment,1122706,1124044,0,0,klipt,,,"Muhammad never claimed to be a god, but a prophet of the Jewish and Christian god.",1266145254

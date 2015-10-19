@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91723,story,,,2,0,nickb,"Your House Without You (vid)",http://www.youtube.com/watch?v=5NvDhNZNSBk,,1198245330
+91722,story,,,1,0,nickb,"Universe - Laws of Nature, Source Unknown",http://www.nytimes.com/2007/12/18/science/18law.html?_r=1&oref=slogin,,1198245075
+91721,story,,,1,0,nickb,"Aspect-oriented programming",http://en.wikipedia.org/wiki/Aspect-oriented_programming,,1198243677
+91720,story,,,1,0,nickb,"Top 10 reasons you might want to avoid taking this class",http://www.cs.iastate.edu/~leavens/ComS541Fall05/docs/top-10-reasons-not-to-take-541.txt,,1198243523
+91719,comment,91500,91703,0,0,dag,,,"Speaking of that, anyone heard from Arc recently?<p>A 'works now' version would be nice, release the 3000 version later.",1198243295
+91718,comment,91665,91665,0,0,davidw,,,"This has been four years in the making and includes a lot of new code, so it's perhaps a little bit more noteworthy than your average release.",1198243151

@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+327642,comment,327596,327622,0,0,atestu,,,"I agree (especially on the Digg part), but I still find quality programming-related articles on Proggit (<a href=""http://www.reddit.com/r/programming/"" rel=""nofollow"">http://www.reddit.com/r/programming/</a>).",1223542764
+327641,comment,326697,326697,0,0,known,,,"Free markets will succeed only when race to the bottom is prevented in this flat world.",1223542579
+327640,comment,327279,327279,0,0,puzzle-out,,,"The main costs of say a YC startup are living costs - in a downturn, these should drop. Raising second round funding will be more difficult, sure. But in times of trouble, people cut back on bars and stay in, and will spend even more leisure time online. I see the ecommerce space surviving this very nicely; ads will take a big hit; and god be praised there will be less unjustifiable multi-millino M and A's of small start-ups that have not even reached revenue stage - start up entrepreneurs will be forced to actually build a business!",1223542487
+327639,comment,326573,326573,0,0,nocivus,,,"Just an update, on an interesting article that talks exactly about how ""savings"" applications are the most successful in times of recession: <a href=""http://embought.com/blog/show/17?t=Apps-to-Build-in-a-Bad-Economy"" rel=""nofollow"">http://embought.com/blog/show/17?t=Apps-to-Build-in-a-Bad-Ec...</a>",1223542330
+327635,comment,327475,327554,0,0,DaniFong,,,"I'll point out that it is for this exact reason that we're using Fortress: for scientific code, it's so much more readable it's amazing.",1223541946
+327634,comment,327464,327464,0,0,guruz,,,"Funny, Geocasting in XMPP was (roughly) the subject in my diploma thesis :)",1223541913
+327632,story,,,4,1,ashleytowers,"Forgive your users; even when they are drunk",http://usabilityfriction.com/2008/10/09/forgive-your-users-even-when-they-are-drunk/,,1223541543
+327631,comment,326647,327420,0,0,DanielBMarkham,,,"Yes. There are 10 reasons why I hate recursive sarcastic comments. I plan on blogging about them later and posting here.",1223541255
+327630,comment,327626,327626,0,0,davidw,,,"This looked like one of those things that follows 37signals' advice to a T (including copying their look and feel).  Wonder if they'll do as well?",1223540662
+327627,comment,327465,327465,0,0,jacobscott,,,"This is pretty WTF, but honestly your years of PHP experience are probably inversely proportional to your skill at this problem. All you really need is math --  its easier to do this by hand with a calculator than code it. My guess would be that php expertise is anti-correlated with remembering prime factorizations, no offense to php devs.",1223540512
+327626,story,,,3,1,davidw,"Online invoicing and time tracking - Ronin",http://www.roninapp.com/,,1223540393
+327625,comment,327161,327161,0,0,rms,,,"It took 40 surgeons 15 hours. Quite a hack.",1223540389
+327624,story,,,2,0,known,"C++ Program Analyzers",http://www.aristeia.com/ddjpaper1.html,,1223540199
+327623,comment,327596,327596,0,0,jacobscott,,,"Hacker news seems to have the best signal-to-noise in its community, that's why I'm here. The spinoffs rms posted are probably the best place to look next, but I don't think they have the critical mass userbase (yet).",1223540063
+327622,comment,327596,327611,0,0,lunaru,,,"Yeah, reddit (and digg and dzone and <insert social media site>) just don't do it for me. The content is not the right blend.",1223539963
+327621,comment,327427,327427,0,0,swombat,,,"How is this noteworthy?<p>Ok, fine, the AI explains all that crap. Great. ""No, you can't get out"". Done.",1223539860
+327620,story,,,34,10,qhoxie,"Eight Myths of Erlang Performance",http://www.erlang.org/doc/efficiency_guide/myths.html,,1223539858
+327619,story,,,2,0,qhoxie,"To Tail Recurse or Not",http://debasishg.blogspot.com/2008/10/to-tail-recurse-or-not.html,,1223539798
+327618,story,,,2,0,qhoxie,"Idioms and the One True Way",http://www.angelbob.com/musings/?p=6,,1223539740
+327617,comment,326616,326742,0,0,lunaru,,,"So I'm not the only one! Ah to be 16 again... everything flashy was good.",1223539698
+327616,story,,,2,0,qhoxie,"Cool and unusual Git techniques",http://github.com/guides/cool-and-unusual-git-techniques,,1223539487
+327615,comment,327441,327614,0,0,alaskamiller,,,"because it's a $500 stock and when it bounces back he'll be doing pretty good?",1223539454
+327614,comment,327441,327576,0,0,systems,,,"why are you happy for buying google at $349, you bought at a high price, the price dropped ~ $10, you lost  $10 a share ... what is happy about this story!<p>really i want to understand your point of view",1223539302
+327613,comment,327393,327393,0,0,swombat,,,"Absolutely, most programming interviews ARE a waste of time.<p>And so are most Ted Dziuba articles.",1223539301
+327612,comment,327327,327327,0,0,mattmaroon,,,"Most of his ""advice"" is just stuff you ""should"" be doing anyway. If you can ""scale down"" costs, then you were already ""spending"" too much.<p>Also, he sure ""loves"" quotation marks.",1223539201

@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33121,comment,33037,33037,0,0,andreyf,,,"And what did <i>you</i> do this weekend?<p>I'd love to hear about something like this if it happens in NYC. Why is NYC not more of a startup hub?",1183924731
+33120,comment,33045,33045,0,0,akkartik,,,"I'm not sure why the format is important.<p>Building recommendation engines is really hard from an algorithmic perspective. How you format the inputs and outputs seems negligible in importance.",1183924530
+33119,comment,33071,33097,0,0,Tichy,,,"I also think the K version is completely unreadable. I feel reminded of the Perl-One-Liner signature tradition (what was the name for it?).",1183924401
+33118,story,,,4,0,gibsonf1,"All Shook Up, Right Down to the Musical Core (Universal vs Apple)",http://www.nytimes.com/2007/07/08/business/yourmoney/08frenzy.html?ex=1341547200&en=b96317541abeb5b4&ei=5090&partner=rssuserland&emc=rss,,1183924046
+33117,comment,33071,33097,0,0,pg,,,"arc:<p><pre><code> (def bdays (people)
+   (count [no (iso _ (dedup _))] (n-of 1000 (n-of people (rand 365)))))
+</code></pre>",1183923902
+33116,story,,,1,0,gibsonf1,"Engineering a career at the PC's creation (Inventor of the first bitmapped PC with mouse)",http://news.com.com/Engineering+a+career+at+the+PCs+creation/2008-1003_3-6194441.html?tag=nefd.lede,,1183923589
+33115,comment,33002,33007,0,0,gibsonf1,,,"We made some changes from your feedback.  We simplified the first sentence, and we created an explicit launch feature list on the homepage at <a href=""http://www.streamfocus.com"" rel=""nofollow"">http://www.streamfocus.com</a> .  Thanks again, and please let us know if you want to be a private beta tester.  We are planning a private test in about 2 weeks.",1183922847
+33114,comment,32919,33020,0,0,gibsonf1,,,"That <i>is</i> unfortunate.  I'll send an email to my friend on the Iphone sw team about it right now.",1183922531
+33113,comment,32919,32919,0,0,danw,,,"I don't think what the iphone supports will matter much in the long run, it's what devices like these nokias that will have the biggest impact on the future of mobile <a href=""http://www.nokia.com/A4405104"" rel=""nofollow"">http://www.nokia.com/A4405104</a>",1183921884
+33112,comment,33089,33089,0,0,danw,,,"Unless things start to go quite wrong for facebook within the next year (which could easily happen) they're not going to get acquired by anyone. What I'm most interested in is when will facebook make it's first acquisition? ",1183921283

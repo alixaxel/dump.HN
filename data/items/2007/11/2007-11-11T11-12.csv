@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+78387,comment,78334,78334,0,0,ropiku,,,"You can protect you repository with apache http authorization.
+Just search for a tutorial, here's what I found: <a href=""http://svn.spears.at/#3.2"" rel=""nofollow"">http://svn.spears.at/#3.2</a>
+You add the users/passwords with htpasswd and then in httpd.conf add Auth entries.
+",1194782339
+78386,comment,78329,78375,0,0,brianr,,,"$13 is an unbeatable price for a 4x8 sheet of whiteboard... do you have any complaints with it so far? Does it write and erase OK?",1194781959
+78385,comment,78205,78205,0,0,sharpshoot,,,"woot - no 2 and no 5!",1194781577
+78384,comment,78246,78246,0,0,herdrick,,,"He's right to want this; it's great in DrScheme.  I can't stand typing out l-a-m-b-d-a anymore.  Just cntrl-\ and you've got it.<p>""Lambda expressions are rarely useful in Python.""  Sad but probably true.  In my limited experience with Python you are steered away from lambdas.<p>",1194779017

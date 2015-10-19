@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91412,comment,91111,91111,0,0,Eliezer,,,"OMFG heroes can be imperfect!  Alert the media!",1198133993
+91411,comment,91363,91363,0,0,bayareaguy,,,"I suggest you read ""Algorithms + Data Structures = Programs"" by Niklaus Wirth.  <a href=""http://tinyurl.com/yw7tgo"" rel=""nofollow"">http://tinyurl.com/yw7tgo</a>",1198133459
+91410,comment,91204,91204,0,0,oppositionradio,,,"hey... if you need a girl that rocks and has done some great startup work - try becky at www.spotworksdesign.com<p>a super nice chick - fun to work with - and hella responsive. and SF too.",1198132629
+91409,story,,,2,0,cperciva,"Google set to get DoubleClick approval as Christmas present",http://www.techcrunch.com/2007/12/19/google-set-to-get-doubleclick-approval-as-christmas-present/,,1198132386
+91408,comment,91363,91363,0,0,flashgordon,,,"I didnt think that choice was orthogonal?",1198130986
+91407,comment,91107,91107,0,0,emfle,,,"GPU's are getting more and more programmable, while CPU's are getting more and more cores and streaming instructions.<p>It's getting harder and harder to tell them apart and this means a typical PC more and more looks like two general purpose computers that are talking to each other over the PCI bus. Which is kinda dumb.",1198130842
+91406,comment,91153,91153,0,0,emfle,,,"> Alternatively you could throw the move that would have beaten your opponent's previous move. The logic here is that players subconsciously try to beat their own previous move.<p>Wouldn't that mean you should throw the move that beats the move that would have beaten the opponents previous move?",1198130531

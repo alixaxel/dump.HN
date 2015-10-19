@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+107667,comment,107305,107305,0,0,wallflower,,,"""If all you get from your job is an oversized paycheck...""",1201838215
+107666,story,,,5,3,jmorin007,"Average Programmers",http://jfm3-repl.blogspot.com/2008/01/average-programmers_31.html,,1201837433
+107665,story,,,1,0,jmorin007,"The Pain of Being Down and Out ",http://www.markevanstech.com/2008/01/31/the-pain-of-being-down-and-out/,,1201837315
+107664,story,,,2,0,cawel,"Still no repair for 2 international submarine cables",http://news.bbc.co.uk/2/hi/technology/7219781.stm,,1201837296
+107663,comment,105976,106069,0,0,zemariamm,,,"ClusterMedia Labs, Aveiro :D
+Are you fom ist or feup ?",1201837210
+107662,comment,107647,107658,0,0,irrelative,,,"That's the goal -- glad you got it :-)<p>We hope to add several additional absurd coding solutions in the future -- already have a couple in the works.",1201836996
+107661,story,,,1,0,michaelneale,"Ask YC: 100 year language - is it achievable? ",,"Arc kind of excites me. I don't think anyone has (at least half seriously) tried to promote a ""100 year language"" before.<p>But, for the folks who do NOT suffer ADHD, the idea of some stable base for a lifetime/career time is very very interesting. Just think of the value of practical knowledge that can be built up, and built on, over time. An end to the endless wheel re-inventing that we have today (yes, I love new shiny toys as much as the next language geek, but really, we have to move on now).<p>Can this work? Will people (perhaps over time) come to accept the non-syntax of Sexpressions ? Love them? (perhaps with some infix DSLs for when its really needed).",1201836991
+107660,comment,107623,107655,0,0,lisper,,,"I wasn't planning on it.  Don't let that stop you though.",1201836902
+107659,comment,107567,107652,0,0,amichail,,,"Good execution is important, but only after you have sufficient evidence from a prototype with users that it's worth doing.",1201836874
+107658,comment,107647,107657,0,0,kirubakaran,,,"It is a tongue in cheek ""code"" subtly advocating the use of table where appropriate.",1201836838
+107657,comment,107647,107647,0,0,Hexstream,,,"A circumvoluted way of reinventing an obsolete approach.<p>I find no value in this ""feel good"" proposition...",1201836670
+107656,story,,,2,0,eastsidegringo,"The Blog Writer's Dilemma",http://tracksuitceo.wordpress.com/2008/01/31/the-blog-writers-dilemma/,"I began a lighthearted financial advice story when I stopped myself.  What I am really thinking about, what's weighing on my heart, is the loss and heartbreak being experienced by two of our dearest friends.",1201836528
+107655,comment,107623,107623,0,0,bootload,,,"Nice article Ron, non-pc & certainly learnt something reading it. Though I reckon this ones a ripper...<p><i>""... So I can't really go into many specifics about what happened at Google because of confidentiality, but the upshot was this: I saw, pretty much for the first time in my life, people being as productive and more in other languages as I was in Lisp.  What's more, once I got knocked off my high horse (they had to knock me more than once -- if anyone from Google is reading this, I'm sorry) and actually bothered to really study some of these other languges I found #myself# suddenly becoming more productive in
+other languages than I was in Lisp.  For example, my language of choice for doing Web development now is Python.  ...""</i><p>Going to submit this post? ~ <a href=""http://groups.google.com/group/comp.lang.lisp/msg/6f75cfb5a289d3f6"" rel=""nofollow"">http://groups.google.com/group/comp.lang.lisp/msg/6f75cfb5a2...</a>",1201836347
+107654,comment,107653,107653,0,0,iamelgringo,,,"Adrian Holovaty has created a great framework, and I wish him the best of luck in his new venture.   He really deserves any success that comes his way.",1201836272
+107653,story,,,5,1,iamelgringo,"EveryBlock: A news feed for your block | Django author's new startup.",http://sf.everyblock.com/,,1201836158
+107652,comment,107567,107645,0,0,mixmax,,,"Depends on what you are after.<p>Very few scientists are rich, and very few businessmen are good at science.<p>But if the goal is to make money I would pick good execution over a good idea any day. Just look at myspace ;-)",1201836142
+107651,comment,107624,107633,0,0,mixmax,,,"Yeah keepin' up the good vibes :-)<p>and thanks for the link anyway.",1201835985
+107650,story,,,2,0,kirubakaran,"iPhone Car Integration",http://www.ilounge.com/index.php/articles/comments/the-complete-guide-to-iphone-car-integration/,,1201835576
+107649,story,,,1,0,kirubakaran,"Type inference for The Simply Typed Lambda Calculus",http://muaddibspace.blogspot.com/2008/01/type-inference-for-simply-typed-lambda.html,,1201835467
+107648,story,,,5,0,transburgh,"How not to get fired by your VC",http://valleywag.com/351149/how-not-to-get-fired-by-your-vc,,1201835374
+107647,story,,,12,13,kirubakaran,"Table shame eliminator",http://www.codeirony.com/?p=6,,1201835312
+107646,story,,,2,0,cawel,"UK YouTubers given share of ad cash",http://news.bbc.co.uk/2/hi/technology/7217479.stm,,1201835176
+107645,comment,107567,107600,0,0,amichail,,,"I disagree.  Scientific experimentation is everything.<p>Putting significant effort into execution of a bad idea is a complete waste of time.",1201835129
+107644,story,,,1,0,kirubakaran,"Purely functional text editor",http://article.gmane.org/gmane.comp.lang.haskell.general/15954,,1201835100
+107643,story,,,7,1,kirubakaran,"Seamlessly integrate Windows into Linux",http://www.linux.com/feature/124908,,1201834975

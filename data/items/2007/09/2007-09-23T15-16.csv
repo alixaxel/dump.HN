@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+58559,story,,,5,2,luccastera,"Managing Creativity",http://myphdblogged.blogspot.com/2007/09/managing-creativity.html,,1190562762
+58558,story,,,17,21,comatose_kid,"Ask news.YC:  For the lisp experts - tell me how you learned the language.",,,1190562708
+58557,story,,,9,4,luccastera,"Ning Milestone: 100k Social Networks",http://www.techcrunch.com/2007/09/23/ning-milestone-100k-social-networks/,,1190562491
+58556,comment,58393,58512,0,0,zach,,,"Just one 4-core box.",1190561187
+58555,story,,,1,0,gibsonf1,"Web 2.0 ventures attract capital spreading from the Bay Area to elsewhere",http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/09/17/BUJIS6ER0.DTL&type=tech,,1190561183
+58554,comment,58429,58467,0,0,comatose_kid,,,"I drew a different conclusion - PHP is a better language than the rails environment for projects which were already written in PHP.",1190561084
+58553,story,,,1,0,gibsonf1,"Leading [SF] Transbay tower proposal has potential but plays it too safe",http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/23/MNKVS8PEO.DTL,,1190560641
+58552,comment,58404,58454,0,0,jsackmann,,,"I also recently wrote my own blogging platform (in Python).  It's really simple -- no web UI for me (yet, anyway), and the whole thing is contained in a few hundred lines of code.<p>That said, I already like it better than Wordpress.  (Which I was using before.)  I don't have comments, but I didn't want them anyway.  People have written Wordpress plugins for virtually every need I might ever have, but plugins are a pain to deal with for problems that I can now solve in 3 lines of code.",1190560364

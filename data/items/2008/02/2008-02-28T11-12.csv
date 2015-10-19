@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+125404,comment,125401,125401,0,0,aston,,,"Kills me how fast WIRED postings make it in. We start discussing articles before I even get to read them in the real magazine :(",1204199877
+125403,comment,124688,125024,0,0,paulsb,,,"I am, or at least I would be if I could find some programmers. Being out of the UK probably isn't much help to you either. As for examples, most tend to be in the drug discovery/modelling area because industry will pay for that. I think there is huge potential for targeting other areas as well as industry. Some of the really good stuff is academically based, which means it just whimpers along as the funding comes in from grants; eventually, most of these projects just die because they aren't promoted and/or developed with a business mindset.",1204199810
+125402,story,,,2,0,brk,"MiniAjax.com / A showroom of nice looking simple downloadable DHTML and AJAX scripts",http://miniajax.com/,,1204199688
+125401,story,,,70,24,elq,"This Psychologist Might Outsmart the Math Brains Competing for the Netflix Prize",http://www.wired.com/techbiz/media/magazine/16-03/mf_netflix,,1204199475
+125400,comment,125246,125246,0,0,s3graham,,,"Didn't we just spend the last N+1 years desperately trying to avoid client-side downloads and installs? Seriously though, maybe in a few years, if and when the runtime comes pre-installed in most OSs/browsers (or something similar).",1204199240
+125399,comment,124939,124939,0,0,ntoshev,,,"This article is fluff. Insider fluff as Matt Maroon got funded by YC, but fluff nonetheless.",1204199028
+125398,story,,,2,2,moog,"Ask YC: How would you support the iPhone?",,"If you decide iPhone support for your new web app is important, would you:<p>a) Rely on the built-in Safari browser with its double taps and pinch<p>b) Code an iPhone optimised layout to render in Safari<p>c) Write a standalone iPhone app using the SDK (likely to be released on 6th of March)",1204198909
+125397,comment,125255,125306,0,0,cawel,,,"All Peers (<a href=""http://www.allpeers.com/"" rel=""nofollow"">http://www.allpeers.com/</a>) is probably the FF extension you're thinking about.",1204198852
+125396,comment,125317,125317,0,0,prakash,,,"location, location, location: where are all the startup hubs?<p>anywhere close to the valley, boston/cambridge, austin, seattle, nyc.",1204198812
+125395,comment,125093,125196,0,0,mixmax,,,"Don't even  know what or who Princess Bride is...<p>Ignorance is bliss.",1204198717
+125394,comment,125246,125297,0,0,bprater,,,"<a href=""http://www.jamesward.org/wordpress/2008/02/20/adobe-air-on-linux-pre-beta-testers-needed/"" rel=""nofollow"">http://www.jamesward.org/wordpress/2008/02/20/adobe-air-on-l...</a>",1204198514
+125393,comment,125317,125327,0,0,ericwan,,,"Ballmer is not an entrepreneur. He was an employee and never founded a startup.",1204198346
+125392,comment,125317,125322,0,0,ericwan,,,"EE is also a good choice.",1204198205
+125391,story,,,3,0,mattjaynes,"Nerd fight? EC2 isn’t 50% slower",http://blogs.smugmug.com/don/2008/02/27/ec2-isnt-50-slower/,,1204197575
+125390,comment,125119,125305,0,0,timr,,,"Look at it this way:  the first million was probably almost enough to cover her student loans.",1204197261
+125388,comment,123847,124179,0,0,ovi256,,,"Can we share him? Please. Pretty please.",1204196989
+125387,story,,,6,1,cawel,"Kluster Launches at TED: A New Product in 72 Hours",http://www.readwriteweb.com/archives/kluster_launches_crowdsourcing.php,,1204196864
+125386,comment,125112,125289,0,0,seiji,,,"FreeBSD has domU support.  You can have all the FreeBSD guests you want. <a href=""http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/virtualization-guest.html#VIRTUALIZATION-GUEST-XEN"" rel=""nofollow"">http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/vi...</a>",1204196759
+125385,story,,,5,1,hml,"Using Mind Mapping Data To Drive Your Software Application",http://evolvingworker.com/2008/2/28/using-mind-mapping-data-to-drive-your-software-application,,1204196494

@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92388,story,,,33,13,darius,"Ask YC: What tools are you using to monitor a site's load?",,,1198493819
+92387,comment,92243,92243,0,0,bayareaguy,,,"My .emacs has been more or less the same for the past 10 years.   The 4 most critical lines are these:<p><pre><code> (global-set-key ""\C-h""     'delete-backward-char)
+ (global-set-key ""\M-^""     'query-replace-regexp)
+ (global-set-key ""\C-x:""    'goto-line)
+ (global-set-key ""\C-x\C-e"" 'compile)</code></pre>",1198492204
+92386,comment,92296,92296,0,0,dyu,,,"The Great Wall of China had one of those fire towers every some distance (to alert invasions I think), kind of like the set up in the LoTR: The Two Towers. I never thought people would use these signaling methods to actually transmit these kinds of information. Pretty cool.",1198492118
+92385,comment,92297,92314,0,0,downer,,,"And even then, sometimes you still need Steve Jobs.",1198492086
+92384,comment,92341,92341,0,0,downer,,,"Yeah, Chuck Norris.",1198491943
+92383,comment,92168,92168,0,0,rms,,,"Thanks guys.",1198491546
+92382,comment,92290,92292,0,0,bayareaguy,,,"Leo needs a better gui than Tk.",1198491470

@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+197860,story,,,3,0,prakash,"  VC investment in India small but steady",http://venturebeat.com/2008/05/22/vc-investment-in-india-small-but-steady/,,1211533061
+197859,comment,197182,197830,0,0,witten,,,"Which leads to the question.. What type of laptop will all the hackers buy if Lenovo doesn't pull things together soon?",1211532927
+197858,comment,197329,197329,0,0,yariv,,,"Welcome to Erlang :)",1211532851
+197857,story,,,2,0,prakash,"Cubit: Decentralized search plugin for BitTorrent",http://www.cs.cornell.edu/~bwong/cubit/approach.html,,1211532837
+197856,comment,197806,197806,0,0,davidw,,,"Probably depends on the country in question and their policies.",1211532833
+197855,comment,197729,197729,0,0,sutro,,,"I was told that what the world needs now was love sweet love. Clearly, I was misinformed.",1211532780
+197854,comment,197083,197083,0,0,pistoriusp,,,"> svn commit<p>> svn update",1211532760
+197853,story,,,5,0,breily,"5 Data Visualization Dissertations Worth a Look",http://flowingdata.com/2008/05/23/5-data-visualization-dissertations-worth-a-look/,,1211532627
+197852,comment,197737,197823,0,0,mark_h,,,"Yeah, those two were the main reason I posted it actually!<p>I don't think he was being intentionally inflammatory, and I was curious to see if any others actually agreed.  Has anyone actually experimented with codeville (Bram's vc tool?)",1211532076
+197851,story,,,4,0,prakash," Size matters: Yahoo claims 2-petabyte database is world's biggest, busiest",http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyId=18&articleId=9087918&intsrc=hm_topic,,1211531890
+197850,comment,197634,197634,0,0,ks,,,"I think the real reason is that Twitter looks so simple, that everyone thinks they can do better. Deep down, most of us think we're in the top 20%.<p>I've thought about how I would have made Twitter, but the truth is that the Twitter problem is probably not something that is easily fixed. The people at Twitter have had a lot of real world experience and have more data to base their development on.",1211531771
+197849,story,,,2,0,nickb,"Towards a Value-Added User Data Economy",http://www.readwriteweb.com/archives/value-added_user_data.php,,1211531436
+197848,comment,197083,197099,0,0,witten,,,"Here's the bash script I use with Mercurial to deploy:<p>hg qpop -a ; 
+hg pull ; 
+hg update $1 ; 
+hg qpush -a<p>The $1 is a branch or tag argument given to the Bash script. That way you can easily specify a particular version to update to (or rollback to!) on the command line.<p>The qpop and qpush will rebase any MQ patches you've made, e.g. local configuration changes, hacks, etc.<p>More on rebasing applied patches with Mercurial: <a href=""http://hgbook.red-bean.com/hgbookch12.html#x16-28900012.8"" rel=""nofollow"">http://hgbook.red-bean.com/hgbookch12.html#x16-28900012.8</a>",1211531294
+197847,comment,197645,197645,0,0,Tichy,,,"I like that aspect of Twitter, you can just create an account for an event (lie a barcamp) or an interest group and aggregate messages of related people. It would be much easier if they would enable autofollow, but anyway - I like the simplicity, whereas FriendFeed now seems to have two different concepts to achieve the same thing (or so it sounds).",1211531138
+197846,comment,197083,197494,0,0,chrj,,,"... but export can waste a lot of time and bandwidth if your project is large ;-)",1211530870
+197845,comment,197083,197494,0,0,tlrobinson,,,"You can also set your webserver to ignore the .svn folders.",1211530690
+197844,comment,197083,197390,0,0,tlrobinson,,,"You should at least be using SFTP, since FTP isn't encrypted.",1211530586
+197843,comment,197729,197791,0,0,RyanGWU82,,,"I disagree. A company's website <i>should</i> be a marketing vehicle, and Aster Data's site is actually far more readable than most enterprise software vendors' sites.  They do a good job of breaking down the specific reasons one needs such a scalable database, identifying failures of traditional databases in specific industry.  I'm quite impressed with how understandably they present themselves, given the material and their target audience.",1211530497
+197842,comment,197578,197631,0,0,johnerik,,,"exactly. almost nothing is a worthwhile venture without the ""right people.""<p>your statement suggests that you believe YOU are that type of person. ... instead of dis'ing your own city, i challenge you to do something about it.",1211530293
+197841,comment,197624,197624,0,0,symptic,,,"Global warming will be the death of this solar system I tell ya'.",1211529671

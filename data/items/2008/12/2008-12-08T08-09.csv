@@ -1,0 +1,56 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+389674,comment,389214,389648,0,0,mark_h,,,"I thought as much, thanks.  I wonder what they have planned then..",1228726742
+389673,comment,389321,389624,0,0,asdflkj,,,"If you sell half as much stuff as others, it means you're costing the store customers, because presumably you approached close to the same number of customers as the other sales agents approached, but more of your customers decided to take their business elsewhere. This not an issue in a programming job.<p>Let's not ""take this to the extreme"", and instead be realistic. Your ""ticking bomb"" would be the first in history. Like I said, no drug is tested for 20 years before being released (and approved by FDA), so if there was such a risk, then with the sheer number of new drugs developed, you'd see these disasters left and right. Where are they?",1228726657
+389672,comment,389574,389574,0,0,wynand,,,"Paul Erdős was at least as deserving of the title ""genius"" and died quite a bit later (1996). He was a highly productive mathematician until late in his life.",1228726599
+389671,comment,389299,389432,0,0,thwarted,,,"I can't believe there are still people (not necessarily you, arebop) who think pushing _proxy settings_ to clients is somehow good from a security standpoint.  If you really want to control or log what people are doing through your network, you have to FORCE them to go through a proxy, and the only way to do that is with a firewall and with a transparent proxy, not by putting configuration on a piece of hardware that someone else, the user, has physical access to and uses day in and day out.",1228726001
+389670,comment,389401,389401,0,0,sunkencity,,,"the poor unicode support in ruby",1228725952
+389669,comment,389401,389485,0,0,eru,,,"I like it.",1228725901
+389668,comment,389491,389532,0,0,streety,,,"jrockway mentioned doxory.com<p>Might be what you're looking for.",1228725880
+389667,comment,389491,389491,0,0,mapleoin,,,"I'm surprised how nobody said that this was A COMPLETE WASTE OF TIME!, yet...",1228725650
+389666,comment,388876,389557,0,0,thwarted,,,"This is somewhat of a contrived example.  I can't think of any subroutine in perl that I've written, or interfaced with, or seen in production code, that takes multiple types beyond the first argument.  If any function is doing that, the function is too complex and should be refactored.  What you do see a lot of is stuff of the forms:<p><pre><code>   sub foo {
+      my($someflag, @subjects) = @_
+
+   sub foo {
+      my($self, %options) = @_
+
+   sub foo {
+      my($positional, %named) = @_
+</code></pre>
+etc.  And in fact, when the way you call these is the 90% case for functions, at least in perl.<p><pre><code>   sub dosomething_with_data(@) { ... }
+   @data = (1, 2, 3);
+   @moredata = (4, 5, 6);
+   dosomething_with_data(@data, @moredata);
+
+   sub invoke(%) { ... }
+   %common_opts = (a=>1, b=>2);
+   invoke(%common_opts, c=>3);
+   invoke(%common_opts, c=>6, d=>5);
+   %overrides = (b=>3);
+   invoke(%common_opts, %overrides, c=>6);
+</code></pre>
+(I included the subroutine prototypes for clarity).  In this case, perl is exactly DYIM without the programmer having to think about list folding, array splicing, or hash merging.  It just works.  This would appear to be true dynamic typing, rather than dynamic typing where I still need to be strict about how I handle the values.",1228725541
+389665,comment,387724,388038,0,0,kragen,,,"I like GUI Emacs because keys like C-/ work, even if they have no ASCII code, and I don't have to wonder if I'm going to get random backslashes if I try to copy and paste into another window.  There really isn't that much difference between switching between Emacs and, say, IRC, by using Alt-Tab or ^A ^A.",1228725487
+389664,comment,389401,389401,0,0,lucraft,,,"I just did this in Ruby and got a syntax error:<p><pre><code>    Time.now -1.day
+</code></pre>
+Of course, what it should have been was:<p><pre><code>    Time.now - 1.day</code></pre>",1228725393
+389663,comment,389474,389474,0,0,randomwalker,,,"""It’s easier for me to ignore IE because the DF audience predominantly uses Safari, Firefox, and MobileSafari (roughly 53, 25, and 8 percent, respectively, with IE coming in around 4 percent). I have no idea whether the DF Paraphernalia store is even legible under IE, because I didn’t even bother to check.""<p>Perhaps if the site weren't broken in IE, half of his visitors would be from that browser.",1228725222
+389662,comment,389474,389607,0,0,allenbrunson,,,"the point is, the likelihood of that happening is pretty close to zero.  gruber has aligned himself with the tech elite, and the early adopters.<p>suppose some new version of firefox was released that sucked, and broke everybody's css layouts.  gruber's crowd would almost certainly not adopt that particular version.  they value technical superiority above almost everything else.",1228724643
+389661,comment,389615,389631,0,0,bprater,,,"_why is one of the most amazing, creative hackers out there. I get the sense that his goal isn't to take over the planet with Shoes, but he'd rather get Ruby programming into as many hands as possible.",1228724495
+389660,comment,389240,389468,0,0,old-gregg,,,"I hope I won't get killed here for saying this, but hiring Rails programmers is close to impossible. There are only two flavors and neither is desirable:<p>#1 Bad ones: know-nothings who have RoR on their resume ""just in case"", along with 20 other languages.<p>#2 Good ones: snobby assholes who read 37's ""Fuck You"" slide literally, usually very good ex-Java developers who don't really need a full time job because of a plethora of Rails contracting gigs on the market.<p>We even tried the outsourcing route but even that didn't work: offshore devs are all about PHP/Java/C#.",1228724475
+389659,comment,388912,388942,0,0,bdfh42,,,"I don't think it is necessary to investigate and expose every piece of nonsense we see coming from the Daily Mail. Their track record (particularly in this subject area but generally as well) is such that any sane person would automatically filter out any content from that source.<p>If you need some examples of your own to set your filter then try here <a href=""http://www.badscience.net/index.php?s=Daily+Mail"" rel=""nofollow"">http://www.badscience.net/index.php?s=Daily+Mail</a> where someone has taken the trouble to expose the nonsense of the DM (and other organs of the press).",1228724453
+389658,comment,388241,388957,0,0,kragen,,,"What if they give you a sheet of paper, you xerox it there, and then store one copy next to your birth certificate and give the other copy to your regular doctor?  I have an immunization record that I keep inside my passport (for yellow-fever reasons).",1228724328
+389657,comment,389501,389501,0,0,bk,,,"I wholeheartedly agree with the general modular approach.<p>Rack is doing wonders in enabling this approach, with small apps via frameworks like Sinatra, Camping, Ramaze, Merb flat to run as services.<p>However, the big downer of this approach is Ruby's Net::HTTP. It's so slow that I get only about 10r/s on a core 2 duo macbook with it. This is a huge bottleneck.<p>Now imagine running your authentication as a separate app (for SSO, e.g.) accessed as a rest service via Net::HTTP. :(<p><i>Disclaimer: I haven't watched the video yet, connection too slow, don't know if/how they address this problem.</i>",1228724298
+389656,comment,389199,389199,0,0,Prrometheus,,,"There are also some poorly written, hasty implementations of machine learning algorithms written in Matlab.<p>I only mention this because it is pertinent to the reason why I am up at this hour reading Hacker News.",1228724192
+389655,comment,389199,389510,0,0,wagerlabs,,,"There _is_ a backdoor, the license. I'm not holding my breath, though.",1228724186
+389653,story,,,1,0,rms,"Personal Soundtrack Shirt",http://www.thinkgeek.com/tshirts-apparel/interactive/a5bf/,,1228724153
+389652,comment,388932,389342,0,0,fauigerzigerk,,,"Sure, all laws are products of society and eforcement is more or less leaky in a very imbalanced way, but that's another story. I'm saying laws because my assumption is that it will become illegal (maybe it is already in some countries) to create or modify devices  so that they do not enforce copyright and other laws.<p>I am convinced that the one thing _all_ consumer devices including PCs will be obliged to do is to authenticate users. Enforcement isn't trivial, but once it is a felony the risk becomes so high that only organised crime will actually do it, not hackers",1228724123
+389651,comment,389320,389320,0,0,car,,,"""24 Hour Laundry. Who knows what they do, but whatever it is, they're doing it wrong.""<p>""My rule of thumb is that it should take no more than 3 months to go from conception to launch of a new web service. And that's being generous. I'm speaking from experience here.""<p>Foot in mouth?",1228724006
+389650,story,,,1,0,zsection,"Good News for UK Tech Startups. HSBC and UK Government Each to Launch 1BN Funds",http://thenextweb.com/2008/12/08/good-news-for-uk-tech-startups-hsbc-and-uk-government-each-to-launch-1bn-funds/,,1228723886
+389649,comment,389410,389486,0,0,rms,,,"It only covers a small aspect of what they do, but This Film Is Not Rated is solidly ok. <a href=""http://www.imdb.com/title/tt0493459/"" rel=""nofollow"">http://www.imdb.com/title/tt0493459/</a>",1228723880
+389648,comment,389214,389402,0,0,btw0,,,"No, we don't use alien mechanism, just plain keyboard.",1228723858
+389647,comment,389277,389277,0,0,kaens,,,"VLC doesn't need hype. It's recommended to people by word-of-mouth <i>incredibly</i> fast.",1228723345
+389646,comment,388704,388875,0,0,kragen,,,"For those who don't follow the link, the first link places the US, with 95% confidence intervals:<p>- 25th to 28th among the 40 countries on math;
+- 12th to 23rd among the 40 countries on reading;
+- 20th to 27th among the 40 countries on science.<p>The second link just divides the countries into above average, average, and below average.  The US is ""below average"" on math, and no reading rank is reported.",1228723322
+389645,comment,388913,389606,0,0,bradgessler,,,"Project-wide search is still a slow piece of crap on edge...<p>I'd like to see a version of TM released that fixed this problem and used either awk or grep.",1228723263
+389644,comment,385182,386297,0,0,kaens,,,"Ahh, yeah it does require a good bit of familiarity with both python and *nix environments.<p>I'm a lone guy, managing my own servers, with complete control over their environments. That's quite a bit different than a business environment, corporate or not.",1228723253

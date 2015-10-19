@@ -1,0 +1,38 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+780480,comment,780092,780362,0,0,jibiki,,,"The second link is very interesting.  What crimes against ""public order"" are people committing?  Wikipedia suggests that prostitution, statutory rape, and DUI are all in the category.  (I would guess that DUI comprises the bulk of their public order crime number then, but maybe they count that under drug crime instead?)",1251032119
+780479,comment,780412,780474,0,0,jonsen,,,"Java: ""Regardless of their complexity, the meanings of expressions are allways well defined.""<p>That's why you can infer that y = 21 in Java.<p>Would you call Java insane for that?",1251031913
+780477,comment,780442,780442,0,0,fractalus,,,"Is there a way for it not to guess my position? I happen to have a desktop computer that´s very hard to move.",1251031369
+780476,comment,779472,779890,0,0,colinplamondon,,,"Yup, that's the better answer- we need a flag for 'Major Update' and a flag for 'Rush Submission' in the case of an update that has to go out quickly. If we had two rush's a year (per account) and one major per six months then that would go a long, long ways to fixing the system.",1251031147
+780474,comment,780412,780457,0,0,gizmo,,,"Sounds plausible, but I don't think it's true.<p>Compilers don't magically filter assignments out of expressions. The compiler already has the parse tree (+ x (1+ x)), and the arguments are pushed on the stack in reverse order because that's consistent with function calls (in c++ when you were to overload operator+ nothing would change, I suspect). So first 1+ x is evaluated and the value of x is updated, and the number 22 is returned.<p>Or to illustrate with a stack machine:<p><pre><code>    PUSH X
+    INC     
+    STORE X
+    PUSH X
+    ADD
+    STORE Y
+</code></pre>
+But the whole discussion is still silly, because the whole deal is undefined in any sane language (and for good reason). Unless variables become immutable you can't really prevent this kind of ambiguity from occurring, so it's no big deal.",1251030457
+780473,comment,780118,780363,0,0,rbanffy,,,"The videos are very interesting:<p><a href=""http://www.youtube.com/watch?v=XCk22AaRxiE"" rel=""nofollow"">http://www.youtube.com/watch?v=XCk22AaRxiE</a><p><a href=""http://www.youtube.com/watch?v=ctuUrvReOIQ"" rel=""nofollow"">http://www.youtube.com/watch?v=ctuUrvReOIQ</a><p>Also, the discussions on /. are always... entertaining.",1251030401
+780472,comment,780261,780357,0,0,warp,,,"He did say ""packaged"", which is rather different from ""installed"".",1251030382
+780471,comment,780468,780468,0,0,viraptor,,,"Also presented in an article from SciAm: <a href=""http://www.scientificamerican.com/article.cfm?id=device-lets-blind-see-with-tongues"" rel=""nofollow"">http://www.scientificamerican.com/article.cfm?id=device-lets...</a><p>I wonder if eating something with a strong taste later on causes any ""visual"" effects.",1251030332
+780470,comment,780412,780412,0,0,gaius,,,"<p><pre><code>    # let x = 10;;
+    val x : int = 10
+    # let y = x + ++x;;
+    Error: Syntax error
+
+</code></pre>
+Hmm. Let's try that again:<p><pre><code>    # let x = ref 10;;
+    val x : int ref = {contents = 10}
+    # let y = !x + incr x;;
+    Error: This expression has type unit but an expression was expected of type int
+
+</code></pre>
+So nothing, I guess!",1251030155
+780469,comment,779997,780417,0,0,rbanffy,,,"Humans can't learn quantum mechanics. Humans can, at best, get used to it.<p>Understanding it requires at least one brain with at least 8 dimensions and human brains have only 4. It also helps if your sensory organs are evenly spread across all 8 dimensions.",1251030095
+780468,story,,,47,9,viraptor,"BrainPort allows people to ""see"" via their tongues",http://vision.wicab.com/technology/,,1251030046
+780467,comment,779997,780042,0,0,rbanffy,,,"You know... It's only now that it's archaic. By its time, the Apple II was cutting edge personal computing.<p>And I second your fear. Most programmers I meet have not but the shallowest understanding of the architectures they write for.",1251029977
+780466,comment,780412,780464,0,0,derefr,,,"That ""comment"" is called parentheses :)",1251029758
+780465,comment,780412,780457,0,0,3ds,,,"Java's result is 21<p>gcc says 22 and it gives you a warning, that this expression is illegal, we looked it up, because you cannot use a variable which is ++incremented more than once in the same expression.",1251029676
+780464,comment,780412,780412,0,0,viraptor,,,"y is 22. But my favourite imaginary compiler doesn't allow you to compile the second statement unless 1. your IQ is above a certain threshold 2. you explained in a comment - why?...",1251029631
+780463,comment,780412,780449,0,0,3ds,,,"yup, that's python alright. Very odd behaviour",1251029383
+780462,comment,780092,780405,0,0,gaius,,,"Modern Western penal systems assume that <i>everyone</i> can be rehabilitated. They are in the state they are now because that isn't actually true. In the old days people understood this, and that's what penal colonies were for.",1251029286
+780461,comment,779531,780420,0,0,astine,,,"Figures, you rarely find someone as bigoted as your appear to be who didn't have an ax to grind against some nuns or something or other. The truth of any idea (and the way people should be treated because of it) is not affected by others ignorance about it, but <i>your</i> ability to discuss it rationally <i>is</i>.<p><i>And well, yes, I suppose they do not like to be ""slandered"" in front of others. I don't remember suggesting they did</i><p>Really? your useing <i>that</i> tact?:<p><i>Hell, isn't being oppressed what religious people like?</i><p>Seriously, I'm done with you. :rolls eyes:",1251028920

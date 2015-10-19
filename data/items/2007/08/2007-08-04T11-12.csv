@@ -1,0 +1,3 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+39281,comment,39243,39243,0,0,ryantmulligan,,,"currently this page is scoring an 82 on YSlow. Needs to make use of a CDN. Needs to add expires headers to external resources, and Needs to Configure ETags.",1186226141
+39280,comment,39259,39259,0,0,mynameishere,,,"I'm guessing not too many of you use MSFT outlook. I could seriously load up yahoo and google mail 10 times each before outlook is running. There's a certain performance advantage to webapps...the GUI stuff (the real code that renders graphics) is always in RAM. The full process from hitting gmail to displaying email requires very little hard drive access.",1186225845

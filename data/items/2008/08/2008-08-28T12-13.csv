@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+289070,story,,,3,1,sant0sk1,"Improve Your Technical Slides",http://nubyonrails.com/articles/improve-your-technical-slides,,1219928212
+289069,comment,288619,288619,0,0,PStamatiou,,,"As a long-time blogger that has seen comment-based startups come and go, I have to say this is pretty badass. Unlike those failed comment-tracking companies I don't have to install a plugin or what have you, backtype just indexes. Neat to find some of the comments I've made in the past - although I have a feeling I've made more than 80 comments in the last 1-2 years.<p>Anyways, eloquent solution guys. :-) And I'm loving the clickpass support. 1 minute registration. However with the clickpass registration I did not receive feedback that my username was taken.. it just hung, but I assumed ""Paul"" was taken so I tried again and it worked.",1219928095
+289068,comment,288619,288917,0,0,PStamatiou,,,"in addition to the search.twitter.com one",1219928003
+289067,comment,287927,287927,0,0,hs,,,"as expertise goes, keyboard > mouse",1219927896
+289066,comment,288947,288947,0,0,MaysonL,,,"Now - where is the software company that works like this? Does anybody know one?",1219927682
+289065,story,,,1,1,gus_massa,"(UK) One million bank customers found on computer sold on eBay",http://www.dailymail.co.uk/news/article-1049121/Government-probe-launched-details-million-bank-customers-sold-eBay.html,,1219927431
+289064,comment,288764,288845,0,0,Novash,,,"Thank you. I looked into &REST and all the other ways I can declare parameters and I didn't think the Lisp defun could be so powerful. It is not a matter of how I can declare a function anymore but a matter of how I can't.<p>Where would it be the right forum?",1219927363
+289063,comment,289020,289020,0,0,pius,,,"It's (perhaps) worth noting that Object#returning is part of ActiveSupport, not the Ruby Standard Library.",1219927284
+289062,comment,288168,289045,0,0,prakash,,,"My bad. I take back what I said. That does qualify as a private individual investment. Is there a link to where you got that number from? Thanks!",1219926876
+289061,comment,288572,288592,0,0,sosueme,,,"you can buy a drillbit that does this<p><a href=""http://www.drill-service.co.uk/Product.asp?Parent=020620040000&Tool=347"" rel=""nofollow"">http://www.drill-service.co.uk/Product.asp?Parent=0206200400...</a>",1219926853
+289060,story,,,1,0,cryptovenom,"Launchpad to go Open Source by next OSCon",http://popey.com/Launchpad_to_go_Open_Source_by_next_OSCon,,1219926705
+289058,story,,,1,0,parenthesis,"Hacker loses extradition appeal",http://news.bbc.co.uk/1/hi/uk/7585861.stm,,1219926289
+289057,story,,,1,0,pmorici,"NASA Brings Computer Virus to Space",http://news.cnet.com/8301-13554_3-10027754-33.html,,1219926022
+289056,comment,288991,288991,0,0,raju,,,"Reminds me of the unconsciously-incompetent, consciously-incompetent, consciously-competent and finally the unconsciously-competent concepts...",1219925883
+289055,comment,288200,288997,0,0,rbanffy,,,"I think that is what the VC company's site could be used for.",1219925669
+289054,comment,288991,289039,0,0,jtj,,,"There is one other comment with same opinion on the site itself.<p>But the idea is not to get into such gory details. Its a fun thing. They essentially get the highly insightful statement in a very creative way. :)<p>I was definitely impressed to be reminded of Humility and what makes the best people this way.",1219925550
+289053,comment,289002,289002,0,0,iuguy,,,"Some very good points are made in this article.<p>What thoughts do the YC crowd have on web applications for the elderly?",1219925516
+289052,comment,288286,288286,0,0,mtoledo,,,"One thing I pay for and I don't think anyone mentioned is ""O'Reilly Safari Bookstore"". US$ 22,00 month (I think?) and quite some nice books: the Javascript Rhino book, Obie's the Rails way, the Ruby way, the Pragmatic Programmer, the Cathedral and the Bazaar, and Hackers & Painters, to name a few.",1219925489
+289051,comment,289014,289014,0,0,begemot,,,"I know confirmation bias can be a bitch, but this is just ridiculous. Its like a frenzy of ""Me to!!11"" in here every time a list of traits is published and then sure enough someone vomits all over a blog and produces a self-help guide with feel good ""you art special"" theme. </cynical rant>",1219925399
+289050,comment,288200,288998,0,0,rbanffy,,,"True, but it was created by one guy and one NeXT cube in a particle accelerator ;-) Talk about odd partnerships.",1219925337
+289049,story,,,25,6,garbowza,"Wundrbar vs Ubiquity",http://blog.wundrbar.com/2008/08/wundrbar-vs-ubiquity-our-thoughts.html,,1219925172
+289048,comment,288928,288928,0,0,iuguy,,,"Good advice.",1219925102
+289047,story,,,1,0,wmorein,"Windows 7 Blog -- Approach to System Performance",http://blogs.msdn.com/e7/archive/2008/08/27/windows-7-approach-to-system-performance.aspx,,1219925087
+289046,comment,288930,288978,0,0,iuguy,,,"I think no1 was taken care of by justhackit.com.<p>I'm interested in no2 but don't really have that much time at the mo.",1219924988
+289045,comment,288168,289036,0,0,ivankirigin,,,"The average investment by the firm was $35M.",1219924854

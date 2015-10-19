@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+12442,comment,12260,12380,0,0,busy_beaver,,,"Bloglines shows the comments links fine, so not all feed readers ignore them.<p>What I'd like to see in the feed is some indication that the link points to an external site. We get that locally, but not in the feed.<p>Edit -- that looks unclear upon rereading. When we see an article in the list on news.ycombinator.com, it looks like this:<p>Y Combinator a new twist on finding hot companies (mercurynews.com)<p>The same article in the RSS feed doesn't show the (mercurynews.com) part. It would be convenient to have that in the feed as well, so we know that we need to pop two new tabs for that article, rather than just one.
+",1176436280
+12441,story,,,10,8,joshwa,"Twitter trouble - handling 11,000 requests per second w/ Rails!",http://www.loudthinking.com/arc/000608.html,,1176435976
+12440,comment,12434,12434,0,0,zaidf,,,"Usually the guy who is handling the business side of things--such as incorporation, running the marketing etc.
+",1176435447
+12439,comment,12010,12010,0,0,goodgoblin,,,"authorize.net - its not that hard.  I was actually surprised at how easy it was to set up.  If you are doing a consumer site paypal looks sort of amateur - remember the people who are coming to your site don't necessarily need to kmow that its 2 guys in a spare bedroom.
+",1176435410
+12438,comment,11496,11515,0,0,juwo,,,"me five. but you guys were great. so it doesnt figure.",1176434882
+12437,comment,11496,11552,0,0,juwo,,,wisdom,1176434794
+12436,comment,12269,12431,0,0,nurall,,,"Thanks for the recommendation!! I wish more people could explore within rather than look outside for answers.",1176433989
+12435,comment,12434,12434,0,0,ericc,,,"How did you guys decide about this? A very important and sensitive question, but if you guys can give some insight on this, that would be great!! ",1176433767
+12434,story,,,6,14,ericc,"Who should be CEO?",,,1176433710
+12433,comment,12433,9770,0,0,bmcginty,,,"I am disappointed that you came up with The Cliff Notes.  John Dvorak has been saying that for a while.  Thanks for the link to <a href=""http://live.com."">http://live.com.</a>  I typed in ""microsoft is dead"" and got a whole lot of irrevelant articles.  Google had yours at the top along with Dvorak's.  Gave me a good laugh.
+",1176433386
+12432,comment,12290,12298,0,0,RyanGWU82,,,"What do you find lame about North Beach? I kinda like that part of town myself.",1176433293

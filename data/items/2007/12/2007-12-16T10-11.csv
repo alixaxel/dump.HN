@@ -1,0 +1,57 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+90086,comment,90076,90076,0,0,rms,,,"Summary:  There is a lot of very accessible methane hydrate in frozen form off the coasts of India and China. Carbon dioxide can displace the methane in the ice. As a non-technical article I don't entirely trust it, but it does seem like there is a way to extract energy from the ocean floor while safely and permanently storing our CO2 below the ocean floor.",1197802447
+90085,comment,89945,90035,0,0,jey,,,"Well, if it's written in C, it can be used pretty much anywhere and linked to from pretty much anything. Yes, the code needs to be written portably, but that's a solved problem.<p>In addition to that, the FSF has some weird religious adherence to C that goes beyond linkability. e.g. they're opposed to libraries being written in highly portable C++ which export their bindings in pure C, even if you only used features supported by Cfront in 1990.",1197802107
+90084,story,,,1,0,danw,"Top 10 Books for Web Workers 2007",http://webworkerdaily.com/2007/12/12/top-10-books-for-web-workers-2007/,,1197801808
+90081,comment,89861,89861,0,0,Tichy,,,"Thanks for all your helpful replies! A lot of things ring very true to me, I'll try to sort them out one at a time...",1197801466
+90080,comment,89861,89876,0,0,Tichy,,,"I hope it went OK nevertheless!",1197801015
+90079,comment,89861,89885,0,0,Tichy,,,"I think/hope my mind still works OK when it comes to problem solving. It worked for the project euler problems, which of course had zero commercial value to me. Thanks for trying to help anyway!",1197800985
+90078,comment,89861,89942,0,0,Tichy,,,"Have one, but long-distance. Might be part of the problem, unresolved issues in private life.",1197800892
+90077,comment,89861,89883,0,0,Tichy,,,"At least you had 8 productive months. I say definitely go on the vacation, you have earned it!",1197800788
+90076,story,,,3,1,rms,"China and India Exploit Icy Energy Reserves","http://www.spiegel.de/international/world/0,1518,523178,00.html",,1197800660
+90075,comment,89861,90008,0,0,Tichy,,,"It's definitely boring, and in the ""should do"" category rather than the ""want do"" one. I'd really like to blog, on the other hand. <p>I am guessing from this that there is a market for hosting blogs with domain names. Blogger supposedly does it, but I could not get it to work yet.",1197800651
+90074,comment,89525,89525,0,0,samwise,,,"Switch off? why the hell would you want to do that. I like being ""turned"" ON all the time. I love working when others are sleeping, gives me the feeling of ""catching up"". <p>You're the kinda person i would love to have working for me.",1197800603
+90073,story,,,6,3,dfranke,"Ask YC: Including source code with commercial software",,"So, if any of you are wondering where I've disappeared to, I quit my
+job last week, so now I actually have work to do :-).  I'm going sans
+partner and sans investors on a subset of the idea from my YC
+application.  The original idea was a web service targeted at
+developers, but I later realized that what I thought of as
+down-the-road functionality of the web service would actually work
+well as a standalone program for the desktop.  It's sufficiently
+limited in scope that I can make something feature-complete long
+before my savings run out.  So, the plan is to work full time until I get to a release, and
+then get a new job and maintain this on the side.  If it's sufficiently
+successful, I get back together with my partner and use the cash flow
+and the resume boost to jumpstart the original idea.<p>I'm going with a freemium licensing model: this is a database tool, and
+it'll be free for use with sufficiently small databases; use with larger
+ones carries a per-seat fee.<p>Anyhow: I'm giving consideration using a Minix-style license.
+I.e., the program includes source code, which you're permitted to
+modify and distribute patches against.  This would essentially result
+in free users being on the honor system not to subvert the
+database-size check.  There are a number of reasons that I'm considering
+doing this:<p>- Given that I expect a fairly sophisticated user base, anyone
+  determined to circumvent the size restriction is likely going to
+  succeed whether or not they get the source.<p>- The program is written in Haskell and has several dependencies
+  licensed under the LGPL.  Due to some GHC implementation details
+  involving static linking and intermodule optimization, binary-only
+  programs that use LGPL code are rather dubiously in compliance.
+  With some work I could get around this, and I realize the chances of
+  getting sued over such a thing are infinitesimal, but the necessary
+  accomodations would be annoying and I'd feel bad about not making
+  them.<p>- Although the idea behind the program is novel AFAIK, no part of what
+  it does is especially magical, so I don't place much value on any
+  trade secrets.<p>- It means that I get to crowdsource a lot of my technical support and
+  bug-fixing.<p>- People will be less hesitant about using software from a small vendor
+  for potentially mission-critical work if they know that they can
+  do their own maintenance if necessary.<p>- There's a decent-sized community that gets excited about Haskell being
+  used successfully in industry.  Letting them see the source may turn
+  some of them into customers and/or advocates.  (Much as practically
+  everyone in the Haskell community uses darcs rather than git or bzr
+  even though the three are pretty much functionally identical.)<p>So, what are everyone's thoughts on this?  Am I out of my mind for
+thinking about this?  Any major pitfalls I'm overlooking?",1197800581
+90072,comment,90070,90070,0,0,dood,,,"There is a short (10min) edit, but it leaves out most of juicy stuff: [<a href=""http://www.podtech.net/scobleshow/technology/1712/editors-choice-of-twine-the-semantic-web-tool"" rel=""nofollow"">http://www.podtech.net/scobleshow/technology/1712/editors-ch...</a>]",1197800549
+90070,story,,,1,1,dood,"First in-depth demo of Twine with Nova Spivack [video]",http://www.podtech.net/scobleshow/technology/1711/twine-semantic-web-tool-revealed,,1197800450
+90069,comment,89861,89912,0,0,Tichy,,,"Worked for me at times, too ;-) At the moment can't think of a game I'd like to play, and don't feel as if I have earned it.",1197800431
+90068,comment,89861,89968,0,0,Tichy,,,"Very good description! Yes that ""software full of WTFs"" thing is absolutely part of my problem. But I don't want to be like that - I want to be able to decide on something and do whatever it takes to achieve it. It just seems that my mind doesn't work like a simple machine...",1197800352
+90067,comment,89924,89950,0,0,samwise,,,"i would pay a billion and $1 for that shirt",1197800130
+90066,comment,89861,89866,0,0,Tichy,,,"Thanks for the blogging idea - anonymous blog might be really better for my current state of mind. I definitely have the too many projects problem, and I am not even sure which one I am in love with.",1197800128
+90065,story,,,48,21,jsomers,"""The Most Complex Piece of Engineering Known to Man""",http://groups.google.com/group/fa.linux.kernel/msg/52f04d4ab1121c9b,,1197799813

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+42628,comment,42567,42567,0,0,euccastro,,,"It doesn't exist yet.",1187182077
+42627,story,,,40,10,Keios,"How to be a Programmer: A Short, Comprehensive, and Personal Summary",http://samizdat.mines.edu/howto/HowToBeAProgrammer.html#id2792906,,1187182068
+42626,comment,42398,42586,0,0,euccastro,,,"What makes you think they'd have anything like light or atoms in our parent universe?",1187181567
+42625,comment,42537,42537,0,0,zem,,,"He should fork Oz :)",1187181403
+42624,comment,42276,42620,0,0,epi0Bauqu,,,"Thanks!  Keep 'em coming!",1187181202
+42623,comment,39172,39174,0,0,aswanson,,,"Yahoo:  Bear Stearns must stay out of subprime hedging.<p><a href=""http://www.businessweek.com/bwdaily/dnflash/content/jun2007/db20070612_748264.htm"" rel=""nofollow"">http://www.businessweek.com/bwdaily/dnflash/content/jun2007/...</a>",1187180971
+42622,comment,42509,42509,0,0,euccastro,,,"Heh, will we end up with a full stock market, where you invest your karma in stories/comments hoping they will go up in popularity?  That would discourage upvoting stories that you think may have already peaked in popularity.   You'd be better off upvoting the stories/comments that you feel are most underrepresented.  The challenge about implementing something like this would be to keep the UI simple.<p>This would lead to uniformization of discourse, but I'm afraid any global opaque karma system will do that.  If I was to do a news system, I'd make it so you could somehow select people so their ratings have more weigth in your view.  So content would be rated on an affinity graph that is personalized for each user.  A way to do this without complicating the UI is to just derive your affinities from your votes.  Now this would be an incentive to vote on the stuff <i>you</i> find interesting, rather than on the stuff you think will be popular.",1187180911
+42621,story,,,1,0,tomh,"Networking Tips from the White House",http://www.fourhourworkweek.com/blog/2007/08/13/networking-tips-from-the-white-house/#more-117,,1187180771
+42620,comment,42276,42276,0,0,comforteagle,,,"Good itch I wanted scratched.  I started a group.
+",1187179966
+42619,comment,42540,42611,0,0,euccastro,,,"The article doesn't say that the game <i>shipped</i> with these bugs, just that they were there at some stage of development.",1187179554

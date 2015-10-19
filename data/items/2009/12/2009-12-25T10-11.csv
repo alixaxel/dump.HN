@@ -1,0 +1,63 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1014937,comment,1014533,1014734,0,0,abrahamsen,,,"From what I gather _machine code_ has become more low level, while _assemblers_ have adopted features from ""high level"" languages.<p>Not that I would know, the last time I wrote assembler it was for the Z80, and the last time I wrote machine code it was for the 6502.",1261738711
+1014934,comment,1014875,1014914,0,0,lallysingh,,,"Underappreciated is the full definition:<p>""The holiday, as portrayed in the Seinfeld episode and now celebrated by many,[citation needed] includes practices such as the ""Airing of Grievances"", which occurs during the Festivus meal and in which each person tells everyone else all the ways they have disappointed him or her over the past year. After the meal the ""Feats of Strength"" are performed, involving wrestling the head of the household to the floor, with the holiday ending only if the head of the household is actually pinned.""<p>(Wikipedia, obviously)",1261738278
+1014933,comment,1014849,1014849,0,0,Zarathu,,,"Ask them to develop something that involves caching the paginated search results of a double-nested resource with file attachments in as little time as possible. hehe",1261738099
+1014932,comment,1014362,1014666,0,0,henrikschroder,,,"Let's just say that everyone up here doesn't love our high taxes. :-)<p>You could of course wish that IKEA would pay its corporate taxes like a good corporate citizen, but maybe the same traits that makes Ingvar Kamprad want to save expenses on everything, including taxes, is the same trait that has also made IKEA the huge success it is?",1261738087
+1014931,comment,1014849,1014898,0,0,Zarathu,,,">How would you implement the {before|after} filters on models... etc.<p>Models, or controllers? :)",1261738025
+1014930,comment,1014849,1014898,0,0,judofyr,,,"If someone asks me how Rails works, I wouldn't be able to answer. It's just something I don't care about. Sure, give me a few hours and I'll figure out everything you asked for, but right off the bat? No way.",1261737835
+1014929,comment,1014873,1014902,0,0,palish,,,"You can also buy this using Steam, which is very painless.",1261737805
+1014928,story,,,54,34,FreeRadical,"Ask HN: What are the current best solutions for the 30 YC 'ideas'?",,"Please see http://ycombinator.com/ideas.html and feel free to add your own.<p>1. Spotify (for the music element)
+2. Chrome
+3. Twitter/BBC News
+4. service-now.com
+5. 37 signals
+6. ??
+7. ??
+8. Match/Plentyoffish
+9. Facebook
+10. eBay
+11. Google Docs/ Zoho
+12. Adwords/Adsense
+13. University of Phoenix
+14. ?? 
+15. ??
+16. Bing
+17. Paypal
+18. ChromeOS
+19. AWS/Rackspace
+20. Thefind
+21. Mint/Quickbooks
+22. Google Docs/Zoho
+23. ??
+24. ??
+25. Gumtree/Facebook
+26. ??
+27. ??
+28. Gmail with filtering
+29. Too many to list
+30. ??",1261737528
+1014927,comment,1013805,1014599,0,0,ErrantX,,,"Ive replied to all your points clearly. What you propose is best case scenario. But as I said the delay and the key maanagement on the battleield is far too complicated against the benefits.",1261737445
+1014926,comment,1014548,1014917,0,0,roundsquare,,,"Thats a really good point.  I see what your saying about the decoupling of straight news and journalism and it seems reasonable in a number of situations (tech news, local news, political news, etc...).  But there are situations where this model isn't feasible.  Two that come to mind:<p>1) Investigate journalism.  In this case, someone is digging for facts and looking for connections.  Tweeting, or any other instant platform, may not be the right medium for this.  This looks like one area where news and journalism would need to remain intertwined.<p>2) Reporting from dangerous areas or areas without good wireless coverage.  If someone is reporting facts from Darfur, it seems unlikely that any instant publishing platform could work.<p>Still, it appears you are probably right for a large number of situations.  It looks like the situations I'm describing would need to stay closer to the current model for some time.",1261737201
+1014925,comment,1014754,1014754,0,0,LaPingvino,,,"Some questions:
+- Would you turn the service over to other people?
+- How many would you ask?
+- Would the service be easily translatable?
+- The video about how it works doesn't work. I would like to see some more information about the inner workings of the system.
+- Is the code easy to pick up and go on, or does it demand a lot of study?
+- Do you have manuals/documentation about the inner workings?<p>I have been thinking about creating such a site like this, but in Esperanto (I know, small market BUT a lot of people from a lot of places who know a lot of languages). We do have a great working of a non-auction working marketplace (""Marktplaats"") in the Netherlands (now bought by eBay) and as I am good with languages (I speak 9 languages to several extents by now) I would love to have such a service in an international fashion, and eBay just doesn't fit for me (for one instance, it's waaaaay to messy).<p>I have to warn you however, I'm 20 years old and have more ideas than money, so don't trust I will do everything you will profit from. It's just that I like the idea of the site as I see it now because of personal preferences, and I would love to make it something great if I get the chance :).",1261737173
+1014924,comment,1014549,1014549,0,0,teralaser,,,"Levitt/Dubner themselves mentioned, there is more than money at play in much decision making, such as morals, bad conscience.<p>One issue (book) that comes to mind is generousity:
+<a href=""http://www.amazon.com/Generous-Man-Helping-Others-Sexiest/dp/1560259035"" rel=""nofollow"">http://www.amazon.com/Generous-Man-Helping-Others-Sexiest/dp...</a>",1261736873
+1014923,comment,1014688,1014882,0,0,doug11235,,,"I think it is important to consider how comfortable a person is with the pay they receive.<p>That is, if I have to think and worry about necessities then I'm not fully mentally engaged in my work.  Being paid enough to live a comfortable life is important.<p>Conversely, if the difference between 2 jobs is whether or not I can afford something I consider a luxury, then job satisfaction and other non-monetary benefits start to mean something.<p>Clearly necessities, luxuries, and comfort all being subjective.",1261736871
+1014922,comment,1014873,1014873,0,0,AdamGibbins,,,"Holy <i></i><i></i>?  That's going to cost him a fortune :O
+I smell someone that works for amazon, a zillionaire or a stolen CC :O",1261736846
+1014920,comment,1014548,1014753,0,0,ntoshev,,,"I can see where you are coming from with your call for <i>quality</i> content, but lets question this for a minute.<p>I don't see much new in the world now vs 15 years ago that would shift the economics to high quality publishing. Technology and the internet can provide a better platform for crowdsourcing journalism or easier dissemination and aggregation of information, but these are different from just creating and consuming high quality content.<p>I think what's new is the ability to personalize the information. One way to think about it is that industrial revolution was all about economical mass production, and one of the first things to be mass produced was written text with the help of the Gutenberg press. No one knows what information revolution is really about yet, but one of the promises is economical mass customization, and the news is a perfect first candidate for this (more distant candidates being economically producing clothes that fit you perfectly, for example).<p>In a related area, Google seems to think they have mostly exhausted the opportunities to improve their search results <i>in the same way for everyone</i>: they have employed IP geolocation for ages and now they even track your search history by default in order to show you different results from what everyone else is seeing.",1261736570
+1014919,comment,1014875,1014875,0,0,seiji,,,"What I want for christmas on news.yc: Everybody fill out your profile!  There are too many people here who say useful things, but there's no way to contact you (no, the email field in your profile isn't public).<p>I imagine few people here have grounds for staying completely anonymous.  Not everybody is a rich bastard trying to kick unwashed beggars to the curb.<p>So click on your name in the upper right hand corner and write something about yourself with contact info.  You'll be glad you did!",1261736365
+1014918,comment,1014500,1014500,0,0,rdl,,,"I'd rather see more efforts to bring women into the top of the startup funnel, vs. singling them out later on if they become successful.<p>There is some value in having good examples of successful women in entrepreneurship in convincing more women that they should consider it, but I think ""this person in my graduate department launched a startup"" is probably more significant (regardless of gender) than ""a famous woman startup founder and CEO exits, although I've never met her"".<p>women 2.0 actually does a pretty good job with other programs to try to bring qualified women into the startup world (partnership with Founder Institute, various meetups, etc.).  I think the most valuable thing would be attracting more women into college entrepreneurship clubs, entrepreneurial classes in undergraduate and MBA programs, and in non-startups, encouraging them to take responsibility to project/product management on products which may become spinouts or startups.",1261736338
+1014917,comment,1014548,1014870,0,0,coffeemug,,,"<i>Do you think there is potential for harm in a model where straight news isn't presented?</i><p>I don't think straight news will disappear, to the contrary, I think the volume and level of detail of straight news will increase exponentially. It will just move to Twitter (or a similar platform). Build a good UI for Twitter trending topics, and you've got straight news. But I do think there will be little money for straight news content providers, since anyone can post a tweet - all the money in that space will just go to the publishing platform (looks like it's going to be Twitter).<p>The reasons why news and journalism are tightly coupled are completely rooted in old technological limitations - newspapers were the only ones who could deliver breaking news, and they were also the only ones who could publish opinions. So journalism is traditionally perceived as a mix of the two, to the point where the idea the two can be separate is alien to people. But once we take modern communication technology to its logical conclusion, it looks like news and journalism will go their separate ways - there is no longer a reason for them to be tightly coupled. Twitter will handle the news delivery, and some other platform will handle original commentary delivery.<p>So no, I don't think there is any danger at all.",1261736305
+1014916,comment,1013563,1013611,0,0,seiji,,,"(might as well reply to myself!)<p>I finished the postgres support today along with a sane one step installer.  Give it a try.",1261736186
+1014915,comment,1013531,1013531,0,0,roundsquare,,,"1.  Get into and go to law school.<p>2.  Get into shape (again).<p>3.  Eat better.<p>4.  Learn economics.<p>5.  Learn more about algorithms.",1261736045
+1014914,comment,1014875,1014893,0,0,nixy,,,"Happy Festivus?",1261735758
+1014913,comment,1014849,1014911,0,0,myoung8,,,"They don't necessarily have to be questions like ""How does routing work in Rails?"", they could be ""interactive"" questions that involve writing a relatively small amount of code (e.g. write a Generator to do X).",1261735742
+1014912,comment,1014912,967163,0,0,hinoglu,,,"+1. though not fully committed mytime to move my services and stuff to prgmr servers yet, still it is/was much more fun and trust building when communicating with a real person while trying to solve issues.",1261735609
+1014911,comment,1014849,1014909,0,0,myoung8,,,"I wish I had the time to sit down with every candidate and program with them for a week :) Unfortunately, none of us do, so I'm looking to come up with a handful of questions that can effectively weed out the inexperienced from the experienced as early as possible in the hiring process.",1261735592
+1014910,comment,1014849,1014909,0,0,chris123,,,"Could be wrong, but I think the question was ""what interview questions?""  The interview is, for argument's sake, the second screen (the first one being the review of the cover letter/email and resume/cv or whatever).  The third screen might be an audition or trial, such as you've described.",1261735416

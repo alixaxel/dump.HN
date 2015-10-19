@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94259,comment,94254,94254,0,0,dcurtis,,,"I'd like to see the headline: ""Disqus now on News.YC!""",1199271502
+94258,comment,93920,93920,0,0,reitzensteinm,,,"G'Day, mate! Throw a beaut snag on the barbie this arvo and have yerself a true blue Aussie New Years. Stone the flamin' crows, these blowies are putting a damper on things.<p>P.S. Bring an esky.<p>(guess...)",1199271399
+94257,story,,,1,0,zoltz,"Census sensitivity: counting people",http://www.economist.com/world/international/displaystory.cfm?story_id=10311346,,1199271140
+94256,comment,88247,89284,0,0,janm,,,"What is the problem you have with SMP support in FreeBSD?",1199269927
+94255,comment,88247,88313,0,0,janm,,,"64 bit support on FreeBSD is pretty good; the only real issue is being able to compile for 32 bit targets on a 64 bit host out of the box.  The ULE scheduler improves SMP support considerably.",1199269818

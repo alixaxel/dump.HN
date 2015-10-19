@@ -1,0 +1,42 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+137707,comment,137226,137409,0,0,ngrandy,,,"There are a ton of different ways to approach the problem of interpreting a command.  if you're interested in a solid reference for computational linguistics, then i recommend either 'speech and language processing' by jurafsky et al or the 'oxford handbook of computational linguistics'.  finally, the forthcoming information retrieval book (<a href=""http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html"" rel=""nofollow"">http://www-csli.stanford.edu/~hinrich/information-retrieval-...</a>) is a fantastic resource.<p>however, keep in mind that a lot of the stuff in these books has been used more at the academic level than in commercial applications.  we at wundrbar are being very careful not to bite off more than we can chew.  many companies have tried and failed to tackle natural language processing, and we are NOT doing that; we feel like we can add a lot of value without trying to do anything too fancy.  our commands right now are identified by keywords located at the start of the command - simple, intuitive, reliable.",1205614698
+137706,comment,137555,137561,0,0,bkrausz,,,"I find that interviewers are more interested in the method than the answer...if you just sit there and say ""I was never taught this"" you probably won't get the job.  On the other hand, if you stand up, go to the whiteboard, and start writing things down, while talking them through your train of though (""Well I'm not positive how to do fractions in other bases, but this way makes sense to me"" and then proceed to work out the problem as best as you can) then you show more motivation and enthusiasm.",1205614601
+137705,comment,137688,137688,0,0,doubleplus,,,"Huffington Post, Daily Kos, and Gmail<p>[edit: Never mind... corrected!]",1205614467
+137704,story,,,23,16,naish,"The REAL reason we use Linux",http://blog.anamazingmind.com/2008/03/real-reason-we-use-linux.html,,1205614446
+137703,comment,137642,137675,0,0,bkrausz,,,"If I recall you need a certain amount of karma (points) before you have the ability to vote down.",1205614413
+137701,comment,137652,137652,0,0,bkrausz,,,"So instead of posting invite codes here or telling people you have them in comments, we're supposed to email them to some gmail account for some HN account made a few hours ago, under the assumption that they will get redistributed?<p>Alternate idea: if you have invites, let us know in the comments.  If you want invites do the same.  Bam, middleman removed.<p>P.S.-Though I did get a chuckle out of your ""super connection algorithm""",1205614340
+137700,comment,137556,137556,0,0,deltapoint,,,"I would say simplicity makes users happy and it is hard to be simple and have lots of information. If a product says ""healthy"", that is simple. If a product says ""10% lower carbs and calories"" it is no longer as simple and therefore people no longer care as much.",1205614271
+137699,comment,136859,137372,0,0,tptacek,,,"The cold, hard truth is: ""defense in depth"" really means, ""don't do anything wrong"".",1205614181
+137698,comment,137226,137289,0,0,ngrandy,,,"Aneesh, if you install the wundrbar toolbar for firefox you can actually replace the location bar with wundrbar!  It's a big leap, but it's there as an option.  Or you can just use the toolbar, which automatically positions itself below the location bar.",1205614098
+137697,comment,137688,137688,0,0,deltapoint,,,"Google and Facebook. Third place isn't clear.",1205614057
+137696,comment,137688,137688,0,0,bkrausz,,,"Google (mail, search, reader)
+Wikipedia
+Hacker News",1205614006
+137695,comment,137536,137536,0,0,deltapoint,,,"Although the bill may slightly lower the salary for many American workers, especially scientists, it is necessary. It would allow America to brain drain the rest of the world and in doing so greatly help America's economy. Furthermore, the immigrants wouldn't only fill jobs they could also become entrepreneurs or small business owners and created new jobs.",1205613921
+137694,comment,137358,137358,0,0,xcombinator,,,"As someone already noted Ideas without execution are just dreams, and everybody has dreams:
+- I dreamed about going to work flying.
+- I dreamed about people not killing theirs self in war.
+- I dreamed about everybody loving me.
+- I dreamed about travelling all the world.
+- I dreamed about making the best voice-recognition software in the world.
+- I dreamed about creating the best voice-music generator program in the wold.
+- I dreamed about people being able to understand every language on earth easily.
+...<p>It has taken me years of studying and work to be able to put in practice (some of) my ideas. So keep your ideas for yourself, people is busy taking action with their own.",1205613582
+137693,comment,137536,137684,0,0,albertcardona,,,"So you welcome [Asimov's] Caves of Steel scenario. Why not.",1205613162
+137692,comment,137688,137688,0,0,jasonlbaptiste,,,"facebook
+techmeme
+twitter (usually through api though)",1205613138
+137691,comment,137690,137690,0,0,jasonlbaptiste,,,"wow, this is insanely cool.  Probably my favorite new YC startup out of the batch.",1205613093
+137690,story,,,17,9,jasonlbaptiste,"Songkick (YC summer 07) Launches “Alexa For Bands”",http://www.techcrunch.com/2008/03/15/songkick-launches-alexa-for-bands/,,1205613074
+137689,story,,,1,1,curi,"Ask YC: YC Editors Too Active?",,"The comment below is dead, which means killed by an editor. That seems excessive to me. What do you think?<p>http://news.ycombinator.com/item?id=137554<p>1 point by jazj 1 hour ago | link [dead]<p>Sure. Every online community is either stagnating or dumbing down. Fact. Hence if Hacker News doesn't stagnate it will dumb down. Then we all move off to graze at someone else's teat. Except for the startup weenies who post here to get close to Peegee.",1205612908
+137688,story,,,20,38,wave,"Ask YC: What are the top 3 websites you frequently visit?",,"What are the top 3 websites you frequently visit?",1205612612
+137687,comment,137358,137470,0,0,doubleplus,,,"Good catch.",1205612387
+137685,comment,137509,137509,0,0,tel,,,"For limited use of varied typography you can use flash very selectively by using Sifr (<a href=""http://www.mikeindustries.com/sifr"" rel=""nofollow"">http://www.mikeindustries.com/sifr</a>)",1205612158
+137684,comment,137536,137671,0,0,moog,,,"I think I'd like to be a neo-farmer in 2008. With a little land, a few solar panels and access to clean water I'm sure most of us here could make a go of it. Multi-purpose robots are coming soon - they'll be able to help out when the harvest arrives.",1205612095
+137683,story,,,2,2,curi,"Extroversion Makes People Happy Say Psychologists","http://www.time.com/time/health/article/0,8599,1721954,00.html",,1205612092
+137682,comment,137509,137509,0,0,jdavid,,,"Summary: replacing HTML with flash is lame. its like making a movie out of a videogame, or a book just because you can.<p>if you are going to adapt something for a new media, you should do it because you can provide an exponentially better interface than HTML can provide.<p>HTML sucks at vector graphics, file unloaders, consistency, user interfaces, animation (although this is getting better), creating playful experiences.<p>Flash on the other hand flash is a perfect complement for HTML, its good at vector graphics, file uploads, consistency, user interfaces, animation, and playful experiences.<p>Both flash and html suck at taking advantage of any computer built in the last 2-4 years, and are missing the emerging web of 3d, and semantic applications.  Cross domain policies are making it harder to design web apps than it needs to be.",1205611976
+137681,comment,137080,137672,0,0,ivankirigin,,,"When google started, no one thought you could make money from search. Pretty much everyone agrees you can make a great deal of money from micropayments if you can make them work.",1205611943
+137680,comment,137633,137648,0,0,ingas,,,"I vote YOU (not Ada) up =)<p>In russian language ""yazyk Ada""(language Ada) sounds as ""language of Hell"" =)",1205611816
+137679,comment,137642,137642,0,0,ideas101,,,"cool - thanks",1205611460
+137678,story,,,2,0,ameilij,"The nPost Widget (and why it’s better than AdSense as I see it)",http://meilij.com/blog/2008/03/15/nspot-and-why-its-better-than-adsense-as-i-see-it/,,1205611412
+137677,story,,,2,0,luccastera,"Mark Cuban: YouTube Tries to Get Legal",http://www.blogmaverick.com/2008/03/15/youtube-tries-to-get-legal/,,1205611410

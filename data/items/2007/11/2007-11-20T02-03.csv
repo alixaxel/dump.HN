@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81798,comment,81707,81707,0,0,ivankirigin,,,"Design software to run in multiple processes & threads, and you'll be fine for both multi-core and multi-cpu.<p>Most interesting systems have multiple dynamically interacting processes, but this might be a bias of mine from the robotics world.",1195526794
+81797,comment,81707,81707,0,0,carpal,,,"Ruby/Rails/Mongrel/Pound does a great job of utilizing all those CPUs that I have in a production environment.  There's a bunch of overhead, but it is easier than having to deal with locking.<p>It really depends on your application, though.  If it isn't a web application, and state matters, then you're going to have to go elsewhere.",1195526782
+81796,comment,81203,81261,0,0,aswanson,,,"He has a point.",1195526767
+81795,comment,81768,81768,0,0,ivankirigin,,,"splashup.com is photoshop online",1195526686
+81794,comment,81652,81652,0,0,gscott,,,"Nice but I think there is too much red, if you put these links in white (or possibly yellow)
+   Track an Order | Checkout | Wish List | Customer Service
+it might make a big difference.",1195526662
+81793,comment,81594,81649,0,0,chaostheory,,,"i think they did it more b/c they were threatened (by Open Laszlo - an earlier and more mature flash generator) rather than being friendly...",1195526651
+81791,comment,81722,81722,0,0,rms,,,"I believe this has been requested before and PG rejected it, wanting to keep the jobs page exclusively YC. Fortunately, there is an alternative and you've come across it right here.",1195526499
+81790,comment,81660,81767,0,0,rms,,,"Forgot about that. I guess that was pretty influential.",1195526427
+81789,comment,81752,81752,0,0,joeguilmette,,,"ted is pretty consistently amazing in their presentations.",1195525928
+81788,comment,81722,81739,0,0,joeguilmette,,,"the karma floor is a great idea. ",1195525903
+81787,comment,81519,81753,0,0,maxwell,,,"Yeah, actually, a good bot would be really awesome -- I could ask for messages from a specific account, person, by un/read status, etc. or delete spam, get message history, and so on.<p>Hell, why not just make a ""smart command line"" bot-based web app? It's the goddamn twenty-first century, why do we still manually navigate when we can just concisely -ask- (in words, not ""commands"" or ""actions"") for portions of sites, definitions, files, apps, etc.? This was how it was -supposed- to be, but for some reason we're still just using glossed up versions of 1980s (or earlier) paradigms. Why hasn't the A.I. scene done anything practical? Or are those guys all just too enamored with the beauty of 1950s technology?",1195525573
+81786,comment,81711,81711,0,0,queensnake,,,"Boo, that's just a link to the website. I want my vote back! :/",1195525327
+81785,comment,81351,81399,0,0,hbien,,,"The web language/framework I would like to use (Python/Django) doesn't have any sort of source code protection for it.  There's no compiled byte code or source code encoder product.<p>But if it's an advantage to release the source code, that shouldn't matter.  If it's a mistake to release the source code, I would probably use PHP (I'm still comfortable programming with PHP from my day job, but I'd be happier with Python).",1195525278
+81784,comment,81740,81740,0,0,wmf,,,"Wasn't that called J2EE? :-)",1195525039
+81783,comment,81351,81404,0,0,hbien,,,"Thanks SwellJoe, I guess it doesn't sense that other people would steal my code and release their own product based on it.",1195525002
+81782,comment,81563,81563,0,0,mattmaroon,,,"Too hilarious. I've met a lot of the people involved in that. Can't wait to see if they show up in the movies.",1195524694
+81781,comment,81492,81492,0,0,gscott,,,"It may not be glamorous but if you develop things people need and are willing to pay for you should be able to stay in business downturn or not.  Your product would need to help there business do something they couldn't otherwise do easily.<p>Downturns hit highly leveraged companies and companies developing ideas on the 'fringe' that have not yet been accepted widely enough yet to charge anything (or enough) for.",1195524194

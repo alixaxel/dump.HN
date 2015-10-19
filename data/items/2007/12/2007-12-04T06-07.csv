@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85847,comment,85708,85844,0,0,rms,,,"Take the free shuttle from Palo Alto to Stanford though! Stanford owns a decadent amount of land between the too, it was a much longer walk than I expected.",1196751240
+85846,comment,85801,85801,0,0,rms,,,"Windows will be dead?",1196750977
+85845,comment,85801,85801,0,0,utnick,,,"My predictions:<p>buffer overflows will no longer exist because anything user input facing will be written in 'safe' languages<p>sql injection/cross site scripting will be no more as frameworks continue to prevent them out of the box<p>somebody will create a user friendly sandboxing system rendering trojans and spywhere obsolete",1196750677
+85844,comment,85708,85793,0,0,jgrahamc,,,"Better yet.  Park the car and _walk_ down University Avenue.",1196750170
+85843,story,,,54,18,mqt,"Joel Spolsky's talk at Yale, part 2",http://www.joelonsoftware.com/items/2007/12/04.html,,1196750066
+85842,comment,85598,85598,0,0,utnick,,,"I skipped compilers in undergrad, did any of you guys use what you learned in compilers in other topics?<p>( have no desire to make a compiler, but wondering if this is a topic I should pick up )",1196749931
+85841,comment,85803,85808,0,0,utnick,,,"if you 'game' the system by submitting a bunch of news or insightful posts, I think we all benefit",1196749625
+85840,story,,,43,80,cellis,"Ask YC: favorite books",,"with the exception of programming/technical books, what are your faves? <p>Mine: lotr,ugly americans,the new new thing....<p>",1196749539
+85839,comment,85803,85803,0,0,toffer,,,"Karma per submission was calculated once:
+<a href=""http://ycombinator.com/newsnews.html"" rel=""nofollow"">http://ycombinator.com/newsnews.html</a>.  (Scroll down to August 6th's entry.)",1196749508
+85838,comment,85829,85829,0,0,samson,,,"Nice article. Found it refreshing and forwarding looking, without trying to be too futuristic.<p>",1196749401
+85837,comment,85708,85708,0,0,jey,,,"<a href=""http://www.toronado.com"" rel=""nofollow"">http://www.toronado.com</a> for the best beer selection ever",1196749257
+85836,story,,,1,0,amichail,"Spam Trap Claims 10x-100x Accuracy Gain",http://it.slashdot.org/it/07/12/04/0149241.shtml,,1196749142
+85835,story,,,3,0,terpua,"Venture capitalists, and their fake profile pages on Facebook",http://venturebeat.com/2007/12/03/venture-capitalists-and-their-fake-profile-pages-on-facebook/,,1196748651
+85834,comment,85761,85761,0,0,Poleris,,,"Here's an honest question. Why isn't more research being done into solving Poker compared to the amount put into Go or Chess? <p>
+> It seems to me that it is an interesting question that combines elements of computation, AI, and psychology. <p>> One can see instant practical results by playing your bot for real money.<p>> Poker is a fun game. :)<p>
+Any answers would be appreciated, especially as I'm thinking about doing a PhD and am currently exploring open problem domains.",1196748587
+85833,comment,85740,85778,0,0,vegashacker,,,"You know, like, ""I was playing 30-60 at the Bellagio, and I got cleaned out...""  Something along those lines.",1196748179

@@ -1,0 +1,47 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+315848,comment,315278,315549,0,0,apoirier,,,"The complete canonical example of the counter.
+Of course with the back button and browser fork working.<p>Launched with : nagare-admin serve-module counter.py:Counter counter
+===============================================<p><pre><code>  from nagare import presentation
+
+  # A pure python Counter class
+  class Counter:
+    def __init__(self, v=0):
+        self.v = v
+
+    def increase(self):
+        self.v += 1
+
+    def decrease(self):
+        self.v -= 1
+
+  # Default HTML view on the Counter class
+  @presentation.render_for(Counter)
+  def render(self, h, *args):
+    return h.div(
+               h.p('Value: ', self.v),
+               h.a('++').action(self.increase),
+               ' | ',
+               h.a('--').action(self.decrease)
+           )</code></pre>",1222415714
+315847,comment,315793,315793,0,0,swombat,,,"Is this meant to finally siphon off all the finance news off HackerNews? Would be much welcome.",1222415464
+315845,comment,315281,315281,0,0,railsjedi,,,"Good looking app. Stands out as distinct and memorable.<p>The name is a bit obscure and hard to remember. Might hurt word of mouth (which could be a big deal on campuses).<p>I'd recommend getting rid of the adwords. Highly doubtful that they'll make you much money, and its a big distraction.<p>An alternative monetization approach would be to search for keywords on peoples pages and have a sidebar that recommends books (on amazon affiliates) based on the keywords on their notebooks. Call it a book recommender. Fairly easy to parse out keywords and query recommendation on amazon, and you could even run this as a cron job nightly. Here's a good libary: <a href=""http://www.caliban.org/ruby/ruby-aws/"" rel=""nofollow"">http://www.caliban.org/ruby/ruby-aws/</a><p>Nice move focusing on email, sms, and facebook integration. This is the key features that will keep people using your app. More than any fancy html management interface. May be worth looking at iPhone/mobile interface and meebo support for chatting with partners.<p>Just a few random thoughts. Hope they are helpful.",1222415158
+315844,comment,315811,315811,0,0,einarvollset,,,"""[In comments Eric S. Raymond] Says:
+Um, what global warming? There hasn’t been any since 1998. Recently global average temperature has actually been dropping rather dramatically, enough to wipe out the last century of warming trend.""<p>Good lord, did I really consider this guy a luminary in my teens? I am ashamed.",1222414996
+315843,comment,315796,315823,0,0,mattmaroon,,,"I would avoid TechStars due to that obsession, which is a nice word for it BTW. They really do consistently act like ass-clowns.<p>They do seem to have the second most well-attended demo days though. I don't know about how their connections compare to the others on that list. That might be the deciding factor for me.",1222414519
+315842,comment,315281,315281,0,0,rnesh,,,"As a college student, I thank you.<p>However, one thing I would personally change is a small usability issue I noticed on the Courses page. I would like to be able to add a course, and not have to navigate back to Home to be able to add a new assignment. I think it would just really clarify things a bit better.",1222414478
+315840,comment,315142,315142,0,0,blader,,,"Uhm, wow holy shit. The results feel better than Google.",1222413749
+315839,comment,315796,315796,0,0,animalcrackers,,,"went to one of the YC clones.<p>the biggest problem with these YC clones is two-fold.<p>first, most of the clones' founders have a)either not founded a start-up b)founded a start-up in a completely different field.<p>second, the lack of technical ability isn't the most conducive, to, ya know, doing a start-up in the early stages based entirely on code. ideas from the founders are pretty much fluff, because they don't understand rudimentary concepts of code, what can and cannot be done, how long things could possibly take, etc.",1222413683
+315838,comment,315490,315643,0,0,davidw,,,"Articles like this may not be ""on topic"", but they're unlikely to devolve into flame wars, and attract people interested in flame wars, as would an article about politics or (often) economics.",1222413598
+315837,comment,315793,315793,0,0,s3graham,,,"Like the title Georgia, but I'd go farther and change Verdana on the discussion to serif'd (I know, crazy!).<p>Also, the guidelines/faq/contact links don't work.",1222413405
+315836,comment,315142,315142,0,0,rksprst,,,"I LOVE the keyboard shortcuts. In fact, just because of that (and good results) I might switch to using this as my default search engine.",1222413286
+315835,comment,315787,315787,0,0,michael_dorfman,,,"Strange list.  Some great stuff on there, but if I were going to attempt to substitute for an undergrad CS degree, I'd definitely have SICP on a list ahead of APL, for example.<p>Of course, the whole topic is quite silly; if you really wanted to substitute for a CS degree, the easiest way to do it would be to examine (for example) the MIT course catalog, put together the appropriate course plan, and then order the textbooks used by those courses.  And, with the video lectures and lecture notes showing up on OCW, you would actually be approximating (in a loose sense) the experience, provided one actually does the coursework and exams.",1222413191
+315834,comment,315490,315677,0,0,s3graham,,,"Sadly, not enough research has been done:<p>""A broad, comprehensive survey of many different species is needed before the evolution of vomiting is fully understood.""<p>_Needed_.<p>(Interesting read though)",1222413079
+315833,comment,315796,315817,0,0,SwellJoe,,,"Yes, it lends credibility, but it's not necessarily the primary purpose...at least not of YC.  There are a lot of good benefits to YC...it's an educational experience, a community-building experience, and more.  Of course, it doesn't hurt that dropping the YC bomb in a discussion with an investor is an automatic upgrade to ""vetted"" in the investors mind (works with valley press, as well, apparently).",1222413056
+315832,story,,,2,0,gaika,"Maturity transformation considered harmful: programmer's view of a financial crisis",http://unqualified-reservations.blogspot.com/2008/09/maturity-transformation-considered.html,,1222412913
+315829,comment,315152,315425,0,0,geuis,,,"yeah I'm calling shennigans on the title",1222412741
+315828,comment,315796,315818,0,0,SwellJoe,,,"Really?  I don't think I understand how this follows.<p>Alternatives to YC <i>include</i> Sequoia, angels, other VCs, etc. and not just YC clones.  It's an expensive source of money, and if the company isn't delivering a lot of extra value (which YC has consistently been shown to do, and none of the others, with the <i>possible</i> exception of TechStars, has shown that) it's probably a bad deal.<p>And, as for ""would you go to a VC instead of Sequoia""...yes, but I wouldn't go to a VC that I have no knowledge of, and that has no track record.  I'd accept money from a top ten VC (assuming reasonable terms and consonance of vision), but I'd rather build a company on its own revenues than take money from an investor I don't believe in, or I don't believe is capable of grokking our long term vision for the company.",1222412694
+315827,comment,315375,315638,0,0,dhotson,,,"Actually, one of the things I really liked about muxtape was that they weren't trying to sell you anything.<p>It was all about the music maan.. :)",1222412562
+315826,comment,315796,315796,0,0,wayne,,,"As a Silicon Valley person, moving to Colorado, Philly, or DC for even a few months doesn't seem very logical.",1222412542
+315825,comment,315142,315142,0,0,s3graham,,,"Nice start. It looks like a mobile phone interface to me, blown up to desktop size. Maybe a phone-centric focus would be a useful direction?",1222412517
+315824,story,,,1,0,ca98am79,"Who is the iPhone Girl?",http://nanchatte.wordpress.com/2008/09/02/who-is-the-iphone-girl-or-iphonegirl-as-shes-known-as-online/,,1222412473
+315823,comment,315796,315796,0,0,SwellJoe,,,"TechStars, as bizarrely and counter-productively obsessed with YC as they seem to be, has actually produced a couple of winners now.  It's not the kind of hit rate that YC has exhibited...or had exhibited at this stage in YC's life.  But it, at least, has some measurable success.<p>Given that there are cheaper sources of funding, and most of them have no track record and extremely limited credibility, I would look much deeper...and consider other alternatives.  Charles River has an early stage arm that does a lot of deals, for example, and has a good reputation.  Angels are another option.  While this ""new model"" of investing is compelling for its high success rate, when executed by YC, it's not necessarily the best way to raise money.  We took money from YC and have never had any regrets about it...but I can't think of <i>any</i> other situation where we'd give up that much equity for that little money.  But, you'd have to decide that for yourself.",1222412426

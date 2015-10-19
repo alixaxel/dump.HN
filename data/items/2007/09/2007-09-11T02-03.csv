@@ -1,0 +1,54 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+53132,comment,52580,53127,0,0,steve,,,"Parent speaks the truth. Sadly, I don't think this girl will ever escape my dreams.",1189478968
+53131,comment,48642,49186,0,0,lojic,,,"Oh really? Why don't you either stop spreading FUD, or back up that statement with some reality. ""heard through the grapevine"" - give me a break.",1189478951
+53130,comment,52881,52943,0,0,alaskamiller,,,"500 year-long membership at $1100 is $550,000 a year. Amortize your equipment costs (which is what machine shops do) over a 10 year or maybe longer trend and it's perfectly profitable. Your monthly run cost may just be 20-30,000 a month.<p>There are few places open 24 hours here in the Bay and I'm so giddy about this I already sent in my money.",1189478946
+53129,comment,53032,53032,0,0,AF,,,"The GPL licensing would be an issue for some.<p>Edit: Unfortunately Logix seems to have been dead since 2005.<p><a href=""http://common-lisp.net/project/python-on-lisp/"" rel=""nofollow"">http://common-lisp.net/project/python-on-lisp/</a>",1189478747
+53128,comment,53032,53072,0,0,AF,,,"> If only a real Lisp would come along that had the leadership, library, community and documentation of Python.<p>Someone was asking for that just the other day. I was thinking myself that it would be pretty neat to write a Lisp dialect that compiled down to Python, and therefore you could get access to all the Python libraries, a decent VM, and also macros.<p>I've had trouble figuring out where to start, though. Would be a fun project.",1189478677
+53126,story,,,3,1,transburgh,"Boston VC who passed on Facebook trashes the Valley",http://valleywag.com/tech/east-vs%27-west/boston-vc-who-passed-on-facebook-trashes-the-valley-298346.php,,1189478591
+53125,comment,53019,53099,0,0,falsestprophet,,,"Agreed. You folks should checkout <a href=""http://mailhide.recaptcha.net/"" rel=""nofollow"">http://mailhide.recaptcha.net/</a>. I think it would be smart for sites that allow commenting to include an option for attaching protected email addresses with mailhide. ",1189478488
+53120,comment,53018,53018,0,0,redrory,,,iGoogle,1189478125
+53115,story,,,8,4,nickb,"Password-less login that ONLY requires an email address [pdf]",http://isrl.cs.byu.edu/pubs/pp1001.pdf,,1189477628
+53114,story,,,2,0,roysac,"DefCon 15 Session Videos - Batch II",http://www.roysac.com/blog/2007/09/defcon-session-videos-batch-ii.html,"Contains links to the remaining session videos of track 1.",1189477231
+53113,comment,52983,52983,0,0,Readmore,,,"That is cool, I like it. Now just use Web app apis as commands. Google is grep, gmail is pine, stuff like that. You could finally take the web all the way back around to the command line. ;)",1189477141
+53112,story,,,2,0,roysac,"DefCon 15 Session Videos Available Online (Free)",http://www.roysac.com/blog/2007/09/all-defcon-15-sessions-and-panels.html,,1189477109
+53111,comment,53019,53108,0,0,mynameishere,,,"
+ 0111001001101111011101000011000100110011001000000110110101100
+ 0010111100100100000011000100110010100100000011101000110100001
+ 1001010010000001100010011001010111001101110100001011100010111
+ 0001011100010000001000110011000110110111001111010011110100111
+ 0010011001010110011000100000011011100110010101110010001000000
+ 1100001011000100110011100100000011101000110001001110110011000
+ 0101110100001000000110011101100010001000000110111101100010011
+ 0011101110101011100100110010100101111011100110111011001100001
+ 0111000100100000001010000101011001011010010000100010100100100
+ 0000110111001100001011100010010000001100111011101010111001000
+ 1000000110001101100101011100100110011001110010011000010111000
+ 0011100100010000001100010011100110010000001000000001000000110
+ 1010011101100111100101111001001000000111000001111001011010000
+ 1110010001011010111011001100001001000000110011101110101011100
+ 1000100000011001100111001001101110011001010111000001110101001
+ 0000001110010011000010111010001110110011000010111001001100110
+ 0010000001100111011000100010000001100110011001110110001001100
+ 0110010000001101110011000010111000100100000011011000110001001
+ 1010000010011101111001011110010010000001101110011110010110011
+ 0011000100010000001101110011010010110001001110110011100010010
+ 0000011001110111010101110010001000000111000101101000011110100
+ 1101111001000000110001101110010011000100110001101111001011100
+ 1000100000011010100111010101100010001000000111000001101110011
+ 0000100100111011001110010000001110011011101100111010001101000
+ 0110010101110010001000000110001001101000011001110010000001100
+ 1010110001001100111001100010011001100100000001110110010110100
+ 101001",1189477107
+53110,comment,53066,53098,0,0,karzeem,,,"Very true.  Spending a lot of time getting the toolbar to look great is good.  Doing that by tossing out the system toolbar and hacking together your own is very questionable, though.<p>The link they put in at the bottom suggests that Leopard might adopt their selection style.  Gruber linked to it, citing it as a situation where some good can come of a company's bucking a standard.  So it turned out well, if only by luck.",1189477063
+53109,comment,52823,52823,0,0,webwright,,,"I'd offer them a copy of the whole thing and let 'em compete if they want to.  Or buy them out for a few grand.  Or put the idea on the shelf and pursue something else.<p>Or tell them YOU want out for personal reasons, but you'd like to have a written agreement saying you could pursue this on your own down the road at some point.<p>Next time get a boilerplate buy/sell agreement as early as you can...  It's like a prenup and provides clear guidelines for parting ways.",1189477019
+53108,comment,53019,53099,0,0,kirubakaran,,,"rot13 may be the best... Fcnzzref ner abg tbvat gb obgure/svaq (VZB) naq gur cerfrapr bs @ jvyy pyhr-va gur frnepu ratvarf gb fgbc naq lbh'yy nyfb nibvq gur qhzo crbcyr jub pna'g svther bhg ebg13 ;-)
+",1189477002
+53107,comment,53018,53018,0,0,myoung8,,,"Vienna for Mac.
+",1189476952
+53105,comment,53019,53097,0,0,gduffy,,,"1) Bummer. We'll be available for you soon enough, I hear the Internets go outside SF. :)<p>2) Lots of people are paid to use Outlook, and we know a lot of them hate it. We want to brighten their day first.",1189476479
+53104,comment,53019,53046,0,0,cyggie,,,"Probably quite a few... they might not like it, but many are still forced to use it because of their work... ",1189476441
+53103,comment,52932,52932,0,0,webwright,,,"Heh-- I had a similar conversation with my team with similar results.  Sucks, eh?<p>I'm 35, I've built and sold two web businesses, and I think the YC program is a freakin' steal for the 2-10% that they want.<p>If anyone wants to chat about partnering up on a YC app, drop me a line.  My background is design, UX, light coding (rails, etc), SEO, SMM, etc.  I'd happily chat about any ideas (I've got a few of my own), as long as the proposed revenue model isn't ""targetted advertising"". :-)  I bet we could have a prototype ready for review-time.",1189476435
+53102,comment,53019,53019,0,0,cyggie,,,"I'm interested... I actually uses outlook quite heavily (I'm not proud of it... but it gets the job done... :P) so I'd love to see what xobni can do... 
+",1189476292
+53101,story,,,7,4,bootload,"Bruce Stirling: Why tech design seems hostile (vid 5.30 min)",http://www.technologyreview.com/player/video/video_compact_leader.aspx?bcpid=79489195&bclid=60818931&bctid=881376740,,1189476226
+53099,comment,53019,53076,0,0,henning,,,"OT, but do you really think you'll avoid spammers with cutesy things like ""address at domain dot com""? Googling for ""(star) (star)at(star) (star) (star)dot(star) com"" returns addresses like rasterman |at| rasterman |dot| com, dane AT abetterplacetowork DOT com, and other silly variations that are actually easy to deal with.<p>Spammers know enough Perl to split by spaces and strip non-alpha characters or whatever you'd need to do to get most of those addresses.",1189476048

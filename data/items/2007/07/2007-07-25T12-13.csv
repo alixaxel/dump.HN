@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+36566,comment,36545,36545,0,0,willarson,,,"Pretty disheartening story to read. One of the greatest frustrations with open source is that it, like all other human enterprises, eventually becomes a matter of politics.<p>
+Reading the article it seems like the requirements of desktops and servers are sufficiently different to deserve separate kernels. It certainly wasn't worth his time to keep working with the kernel developers if they refused to fairly examine his contributions.",1185368243
+36565,story,,,1,0,drm237,"Legal startup has its eye on the iPhone bandwagon",http://www.chron.com/disp/story.mpl/headline/biz/4996469.html,"A technology startup in Sugar Land is trying to boost the launch of its new software with a little of the hype left from the rollout of Apple's iPhone.",1185367763
+36564,story,,,5,1,jcwentz,"iPhone v. BlackBerry: Side By Side, Two Week Comparison",http://www.techcrunch.com/2007/07/25/iphone-v-blackberry-side-by-side-two-week-comparison/,,1185367586
+36563,story,,,1,0,jcwentz,"LicketyShip Now Making Speedy Deliveries All Over California",http://www.techcrunch.com/2007/07/25/licketyship-now-making-speedy-deliveries-all-over-california/,,1185367559
+36562,story,,,3,1,KB,"For anyone close to Providence, RI: Meetup @ AS220 Wed. July 25th",http://www.providencegeeks.org/2007/07/18/last-geek-dinner-of-the-summer-wed-july-25th-featuring-digication/,,1185366954
+36561,comment,36378,36464,0,0,jamongkad,,,"Not a bad idea at all, I can see your logic in this. Better for every network to do <i>one thing</i> well and leverage some long tail action. ",1185365670
+36560,story,,,1,0,terpua,"How to Check Your Website with Multiple Browsers on a Single Machine",http://www.thesitewizard.com/webdesign/multiplebrowsers.shtml,,1185365329

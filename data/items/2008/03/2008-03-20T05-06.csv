@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+141468,story,,,2,0,gongfudoi,"The Free IT Support Engineers Toolkit",http://www.runpcrun.com/free_IT_support_engineers_toolkit,,1205992744
+141467,comment,141073,141073,0,0,TrevorJ,,,"19 billion?  Sweet, that means the government can afford 19 new B-2 Bombers. Also, seeing as these billions of dollars of airwaves will be traveling through our bodies every single day, what's say charge a fee for that invasion and rake in some cash ourselves?",1205992394
+141466,story,,,1,0,bootload,"Abstract: The Anatomy of the Entrepreneur",http://hum.sagepub.com/cgi/content/abstract/49/7/853,,1205992342
+141465,comment,141339,141405,0,0,aston,,,"My intent isn't to bat for MD5, really. But since you asked me, I'll point out that MD5 is actually not that bad if you want a deterministic string of randomly distributed bits. If you don't need all 128 bits, nobody's forcing you to keep the extra ones. That said, you might as well use SHA1.",1205992123
+141464,comment,141401,141404,0,0,TrevorJ,,,"<i>this</i> comment is an example of it at the moment :-)",1205992085
+141463,comment,141434,141434,0,0,TrevorJ,,,"Great info, thanks!",1205991989
+141462,comment,141399,141399,0,0,TrevorJ,,,"YES! Now I can ignore that raster burn and keep working no matter how bad it is on my eyes! Seriously though, that is really great news since I'm sure it could lead to some really great human treatments.",1205991756
+141461,comment,141261,141458,0,0,ivankirigin,,,"The only way to fly:
+<a href=""http://en.wikipedia.org/wiki/Space_elevator"" rel=""nofollow"">http://en.wikipedia.org/wiki/Space_elevator</a>",1205991753
+141460,story,,,10,1,gongfudoi,"Function Currying in Scala",http://www.codecommit.com/blog/scala/function-currying-in-scala,,1205991457
+141459,comment,141242,141288,0,0,gruseom,,,"Literally! Chapter 12 ""provides a complete mini-Lisp system including a package of builtin operators that you can extend.""",1205991456
+141458,comment,141261,141440,0,0,trekker7,,,"killing me man... my profit targets just got pushed up from $300,000 to $3,000,000! :-) The Moller Skycar (www.moller.com) is also an exciting project, although I don't know when it will hit mass market.",1205991178
+141457,story,,,1,0,timr,"Phobot: a ""phobic"" robot, built with Lego Mindstorms",http://staff.science.uva.nl/~hcramer/phobot/index.html,,1205991079
+141456,story,,,2,0,gongfudoi,"MIT’s TechTV…the new youtube",http://webpub.mit.edu/?p=77,,1205990878
+141455,story,,,6,0,jdavid,"Milwaukee is now 5th fastest growing startup hub.",http://www.jsonline.com/story/index.aspx?id=729733,,1205990794
+141454,comment,140841,140841,0,0,john_gunther,,,"Why did you name it SlinkSet?<p>What is the problem that you are trying to solve?",1205990777
+141453,comment,140602,140602,0,0,monkkbfr,,,"Gotta say: Bullshit point of view.",1205990746
+141452,story,,,2,0,gongfudoi,"Most Firms Near Default Have Private Equity Ties",http://www.cfo.com/printable/article.cfm/10902109/c_10879801?f=options,,1205990685
+141451,comment,141439,141439,0,0,murrayh,,,"If you are worried about your barrier of entry being so high, why don't you try and lower it?<p>You have ruled out doing any hosting yourself, but there are still things you could do. For example, you could try and make your application as easy to install as ""apt-get install <myawesomeapp>"". Or you could try and partner yourself with an existing VPS provider: you can forward them customers, and they can profit on the hosting and lower the barrier of entry for you.<p>Mostly though I would recommend just going for it. I mean, what is the worst that can happen? Just refund everyone's money if they get unhappy. You might lose time, but you probably have a lot to gain.",1205990389
+141450,story,,,5,0,timr,"A 'dream come true' for coffee machine startup",http://seattlepi.nwsource.com/business/355692_clover20.html,,1205989877
+141449,comment,141062,141442,0,0,hbien,,,"Can't wait till google gears is available for mobile Safari.  It'll make my ipod touch more fun to use (I'm not always around wifi..).",1205989873
+141448,story,,,1,0,as,"Love, Singularity, and Airships",http://dresdencodak.com/cartoons/dc_034.htm,"You'll like this, I promise. The STNG crew cameo is only a few strips forward.",1205989823
+141447,comment,141028,141028,0,0,thinkcomp,,,"I don't think the predictions are vague at all. Businesses that don't profit don't stay in business.<p>Facebook and MySpace are both examples of companies (or corporate divisions in the latter case), as best I can tell, that are surviving only thanks to massive quantities of outside investment. If the investments were made with a realistic expectation of return, it would be one thing, but given the economic realities of social networking that this article points out (and not for the first time), these investments are looking more like gross market distortions than anything else.",1205989625
+141446,comment,140363,140899,0,0,as,,,"And somewhat improbably, I just finished Great Mambo Chicken today.",1205989569
+141445,story,,,1,0,dkasper,"Intel Presents: Robobrawl",http://www.robobrawl.com/,,1205989402

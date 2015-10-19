@@ -1,0 +1,322 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+5505688,story,,,2,6,machilin,"Bitcoin Reaching 150 USD. What now?",http://bitcoincharts.com/charts/chart.png?width=940&m=mtgoxUSD&SubmitButton=Draw&r=60&i=&c=0&s=&e=&Prev=&Next=&t=S&b=&a1=&m1=10&a2=&m2=25&x=0&i1=&i2=&i3=&i4=&v=1&cv=0&ps=0&l=0&p=0&,,1365296375
+5505687,comment,5504129,5504497,2,0,Lendal,,,"I do SS myself, but one of this article's requirements is he can't be bothered to go to a gym or to buy large gym equipment for his home. And he wants to do the whole workout in bits and pieces no longer than 30 minutes. With those kind of restrictions, dumbbells do fit his lifestyle better than barbells and I'm fine with that. There are many quite effective exercises you can do with dumbbells. Yes, dumbbells are sub-optimal compared to barbells, but he seems okay with sub-optimal, since his primary qualification seems to favor convenience over effectiveness.",1365296327
+5505686,story,,,1,2,wongwf82,"Ask HN: How did programming become a respectable profession in Silicon Valley",,"Hi from Sydney. Based on my observations and some rough research, it appears that programmers in US (esp. Silicon Valley) command at least 30% more salary compared to Sydney Australia for similar roles and years of experience.<p>Also, many startups in the accelerators and incubators here have zero tech co-founder or outsourced programming (usually overseas). Having spoken to them it appears they don't value/respect what the programmer brings to the table since their idea is king.<p>I understand that the main factor may be demand and supply. But there is also shortage in Australia for good programmers too, so it makes me wonder if the problem is cultural. So just trying to understand my world from your perspective.",1365296327
+5505685,story,,,1,0,molecule,"Administration confirms NASA plan: Grab an asteroid, then focus on Mars",http://cosmiclog.nbcnews.com/_news/2013/04/06/17630481-administration-confirms-nasa-plan-grab-an-asteroid-then-focus-on-mars?,,1365296327
+5505683,comment,5501562,5504459,1,0,nessus42,,,"The default probably only seems insane to us because we don't grok whatever workflow Linus was using with Git when he came up with the defaults. The defaults probably make a lot of sense for his workflow.<p>A common mistake people make when bitching about Git, is assuming that their workflow is the only workflow. Git supports a multitude of different workflows, and that fact is both a strength and a weakness.",1365296314
+5505682,comment,5505641,5505641,6,0,rdtsc,,,"_That is the point_<p>""We'll stomp our feet and make a big deal about how there won't be a 2.8, then put all the 2.8 like changes in 2.7.x""",1365296312
+5505681,comment,5505056,5505300,5,0,runn1ng,,,"Also Linux should be written GNU/Linux.",1365296293
+5505680,story,,,1,0,followmylee,"Reddit Co-Founder: Failure is an Option",http://smallbusiness.foxbusiness.com/technology-web/2013/04/04/reddit-co-founder-failure-is-option/,,1365296267
+5505679,comment,5503996,5505014,2,0,jonemo,,,"I used to ask that question and have been told that the US greatly benefits from having US-educated people in positions of power around the world. I don't know if this is true, but what is true that a surprising number of heads of states of countries that are considered political allies of the US have degrees from US universities. I first noticed this trend when reading about Pacific island nations.",1365296257
+5505678,story,,,2,0,momchil84,"Farewell, Facebook on Android",https://plus.google.com/u/0/103100286417625000956/posts/VeBEgxiqHXc,,1365296237
+5505677,story,,,1,0,kamilszybalski,"The Autonomy of a Mashup - This is awesome - Daft Punk",http://dudepins.com/index.php?option=com_socialpinboard&view=pin&pinid=36642,,1365296213
+5505675,story,,,1,0,aynlaplant,"Facebook Home: Not For Control Freaks",http://www.informationweek.com/mobility/smart-phones/facebook-home-not-for-control-freaks/240152287,,1365296188
+5505674,comment,5505253,5505253,4,0,genericresponse,,,"The article makes a point to say that he started with a job that paid a ""humble"" $60,000 per year in 1997. Based on my quick and dirty run on wolfram alpha, that is the equivalent to $120,000 per year today. Not so much of a humble beginning for a second job out of college.",1365296180
+5505673,comment,5501562,5504350,2,0,nessus42,,,"For me, it's about 50% for each. I often create a branch just to snapshot the current state of the branch before squashing or rebasing. When I do this, I do not checkout the new branch, and in fact, most likely I will never check it out.<p>A common mistake people make when bitching about Git, is assuming that their workflow is the only workflow. Git supports a multitude of different workflows, and that fact is both a strength and a weakness.",1365296178
+5505672,comment,5505293,5505293,1,0,bun-neh,,,"One thing to expand upon:
+This is just the classic formulation of the Multi-Armed Bandit Problem. There are countless variations to the formula which have slightly different underlying assumptions.",1365296174
+5505671,comment,5505418,5505653,2,0,spullara,,,"It is pretty clear that the current users of Python 2.x have voted that they don't want to move to Python 3. Some language changes and lots of library changes. Everything has to be ported to upgrade.",1365296170
+5505670,comment,5503996,5505337,2,0,tsiki,,,"I know of quite a few data analytics companies that hire mainly PhD's for their research positions. Many traditional companies do so too, to get on the big data trend.",1365296117
+5505669,comment,5505304,5505304,2,0,js2,,,"The lack of oxygen is the biggest problem I'd gather:<p><a href=""https://www.youtube.com/watch?v=WTNX6mr753w"" rel=""nofollow"">https://www.youtube.com/watch?v=WTNX6mr753w</a> (hypoxia in an altitude chamber from ""how to kill a a human being"" documentary)<p>I guess radiation exposure is another big one.",1365296062
+5505668,story,,,2,0,EzGraphs,Paper.js,http://paperjs.org/,,1365296060
+5505667,story,,,1,0,dan3dauto,"Three Ubuntu Linux versions will reach end of life in May",http://www.pcworld.com/article/2033033/three-ubuntu-linux-versions-will-reach-end-of-life-in-may.html,,1365296054
+5505666,comment,5503806,5505195,4,0,KVFinn,,,">If you made that kind of money, why would you even bother to do anything but just retire and enjoy life?<p>>When you have the kind of success Minecraft has brought, you can just choose yourself the way you want to do things, said Persson. I dont want to feel like Im in charge or anything... I try to have a studio where people go to make games for the fun of it, not just because some investor has said we have to make money.<p>He pretty much is retired.  Making the games he wants to with other people is how he enjoys life.  Profit is not at the top of the list.<p>Sounds awesome to me!",1365296033
+5505665,comment,5504788,5505012,1,0,mwcampbell,,,"> IMHO most real innovation is happening in the space between hw and sw (duino / pi / etc.). The idea that you can call yourself an ""innovator"" and only know software is quickly becoming quaint.<p>On what basis do you make this claim? I don't think we've come close to exhausting the space of useful and interesting things that can be done in pure software on general-purpose computers.",1365296026
+5505664,comment,5505418,5505516,2,0,iansinke,,,"I guess the Python 3 team is in South Africa, and the Python 2 team is on the East Coast...? ;)",1365295888
+5505663,comment,5501628,5501874,1,0,Ellipsis753,,,"Actually I still dislike Steam and avoid that too. Generally I will buy a non-steam version of a game if it is available.
+I don't want my computer to take longer to boot up or to run slower in case I want to play a game so I don't have Steam set to start automatically.<p>This means that if I want to play a Steam game (I have a couple like Portal) I must first wait for Steam to open up, get internet, log in (oh so slowly) and finally it will think about opening my game. However undoubtedly there's been an update and so steam will decide to install this first. All in all I'm bored by the time the Valve logo pops up and the actual game can start loading. Or you know, I could just pirate the game and it would open straight away without the need for Steam.<p>So in short, Steam is also horrible and forced. But at least they make better games and have something like customer support.",1365295864
+5505662,story,,,1,0,stevewillensky,"Is Apple's new iPhone and iPad software in jeopardy? ",http://www.dailymail.co.uk/sciencetech/article-2303548/Is-Apples-new-iPhone-iPad-software-jeopardy-Experts-claim-engineers-pulled-projects-finish-major-overhaul-time-summer-launch.html,,1365295812
+5505661,comment,5505253,5505253,6,0,iamvictorious,,,"It makes sense ... the guy is running a multi-billion dollar new business line for Google that is their most meaningful business outside of search ads.",1365295800
+5505660,story,,,1,0,valgaze,"Use Google (NG) to Buy Live Chickens, Fertilizer, Pork, ",http://www.google.com.ng/local/trader/s/Agriculture/agriculture?skip=c,,1365295791
+5505659,comment,5505467,5505467,4,0,ChuckMcM,,,"Nice! Now to hook that up to some lasers :-)",1365295785
+5505658,comment,5505401,5505401,1,0,geuis,,,"It doesn't show all of my contacts, only the first 5-6.",1365295759
+5505657,story,,,2,0,aprescott,"How Jason Rohrer Won The Game Design Challenge",http://www.rockpapershotgun.com/2013/04/04/how-jason-rohrer-won-the-game-design-challenge/,,1365295717
+5505656,story,,,1,0,joxie,"10 Free And Best Online Places To Learn Coding ",http://www.siliconindia.com/news/technology/10-Free-And-Best-Online-Places-To-Learn-Coding--nid-144680-cid-2.html,,1365295659
+5505655,comment,5503400,5505628,1,0,rdl,,,"Overkill for a random home, but maybe OK if you WFH and need to vpn/IT wants manage a bunch of devices centrally/etc.  $1k in equipment vs. $300 in equipment isn't <i>that</i> big a difference for a few important home users if you're already using all the same equipment in your other offices.<p>(also a lot of startups have like 20 people working out of a home or condo, and they bump up against memory/crapiness/etc. limits of consumer routers and APs pretty hard.)<p>OP asked for ""low end commercial router"", though.",1365295646
+5505654,story,,,9,3,williamle8300,"California Court Rules It Illegal To Check Maps On Your Phone While Driving",http://www.techdirt.com/blog/wireless/articles/20130405/02103822591/california-court-rules-it-illegal-to-check-maps-your-phone-while-driving.shtml,,1365295556
+5505653,comment,5505418,5505602,3,0,tshepang,,,"Why would you use/support the fork? Why not just upgrade?",1365295529
+5505652,comment,5504032,5504463,1,0,jseliger,,,">To broaden the question a bit: What's likely to be the next location or locations for Google Fiber?<p>It'll probably be somewhere without decent options right now, which rules out anywhere Verizon operates FiOS. I would guess that it will show up in a low-regulation stat, which rules out most of the West Coast and Northeast. Somewhere like Seattle is plausible, but the city is teaming up with a company to offer Gigabit Seattle.<p>Some of the more plausible options might be Phoenix, AZ, Denver or Boulder, CO, a city in one of the Carolinas (Raleigh / Durham?), Oklahoma City, Minneapolis / St. Paul, or Madison, Wisconsin (some may already have FiOS).",1365295517
+5505651,comment,5505266,5505635,1,0,jemfinch,,,"So is driving on the highway.  What, exactly, is your point?<p>We take calculated risks every single day.  Meeting an opportunistic thief in a public place to retrieve your own property is at the low of end the risk spectrum, and the savings is a lot more than a slightly faster commute to work.",1365295494
+5505650,comment,5501628,5502358,1,0,Ellipsis753,,,"On the internet, out of the companies that people interact with that were entered for the poll. Yes, those would seem to be the worst.",1365295476
+5505649,comment,5505508,5505626,7,0,rdl,,,"And shooting people in the head with grenades.  Not as effective as BART PD (the worst Bay Area PD, hands down) at shooting handcuffed people in the back, though.",1365295430
+5505648,comment,5503806,5504967,4,0,archagon,,,"24. Even though we always had a computer at home, I never got into programming and spent most of my time playing games. (The learning curve was too steep, and besides, what could I possibly make that was better than the games I was playing?) Then when I got to college I majored in CS. Now I'm definitely interested in making games. :)<p>In my opinion, the abundance of dynamic and interpreted languages, powerful tools, programmable hardware, and the internet make getting into programming WAY easier than it was before.",1365295417
+5505647,comment,5504051,5504051,1,0,skopp,,,"Vim reminds me of this white powder my mother used to use to clean drains or something. Weird.",1365295388
+5505646,story,,,1,0,samanthabear,"Review: Python for Kids: A Playful Introduction to Programming",http://geekdad.com/2013/04/python-for-kids/,,1365295383
+5505645,story,,,3,0,EzGraphs,"Three Different Kinds of Prototypal OO",http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/,,1365295376
+5505644,comment,5505293,5505620,1,0,zenburnmyface,,,"I am the author. Thanks, I appreciate that!",1365295358
+5505643,comment,5505401,5505401,1,0,jameswyse,,,"This looks like it could be very useful! I don't like the huge font size on the contact list though, a way to change that would be nice :)",1365295357
+5505642,comment,5505056,5505251,2,0,marshray,,,"Seems unlikely that the antimalware scene is driving the Tor detection research. China seems to be putting the lots of effort behind it for censorship purposes.<p>See:
+How Governments have tried to Block Tor
+<a href=""https://www.youtube.com/watch?v=GwMr8Xl7JMQ"" rel=""nofollow"">https://www.youtube.com/watch?v=GwMr8Xl7JMQ</a>",1365295343
+5505640,comment,5505508,5505514,3,0,codexon,,,"<a href=""http://en.wikipedia.org/wiki/Warren_v._District_of_Columbia"" rel=""nofollow"">http://en.wikipedia.org/wiki/Warren_v._District_of_Columbia</a><p>""police do not have a duty to provide police services to individuals""",1365295317
+5505639,comment,5505418,5505561,2,0,natmaster,,,"<a href=""http://hg.python.org/cpython/file/9290822f2280/Misc/NEWS"" rel=""nofollow"">http://hg.python.org/cpython/file/9290822f2280/Misc/NEWS</a> does not list any new features, so no.",1365295310
+5505638,comment,5504755,5504968,1,0,alexanderRohde,,,""" Many governments have legalized Heroine. Doing so has always lead to marked decreases in use."" Source?",1365295297
+5505637,comment,5505304,5505441,2,0,ChuckMcM,,,"Or patch the hole, if there is a hole. But your points is valid that its not a lot of time.",1365295286
+5505636,story,,,2,1,paulschlacter,"The end of men? Expert predicts males will be extinct in five million years...",http://www.dailymail.co.uk/sciencetech/article-2302865/Is-end-men-Expert-predicts-males-extinct--says-process-started.html,,1365295247
+5505635,comment,5505266,5505614,9,0,rdl,,,"This model of the world is optimal in the majority of cases, but when it fails, it fails very badly.",1365295170
+5505634,comment,5504032,5505247,1,0,jseliger,,,"I have no ideaI have an iPhone, but I barely use its capabilities and would probably have a dumb phone if this one didn't come via my work.",1365295159
+5505633,story,,,2,0,spacestronaut,"What Games Are: The Reviewers Are Wrong About Ouya",http://techcrunch.com/2013/04/06/what-games-are-the-reviewers-are-wrong-about-ouya/,,1365295148
+5505632,comment,5504422,5504422,1,0,rastasheep,,,"After all there is justice in this world, i'am really happy about Martha. Everyone should have a chance to learn, if  they really want to do that.",1365295121
+5505631,comment,5503996,5504359,1,0,otoburb,,,"If we follow this logic for the subset of foreigners attending grad school in the US, why wouldn't they opt for a Masters degree instead of a PhD?",1365295107
+5505630,comment,5504032,5504684,1,0,foobarqux,,,"> With what? A city here and a city there is a great experiment hoping to push telcos into action. Trying to expand nationally can get hairy and extremely expensive.<p>I think the main impediment is popular support. When people realize, by way of comparison with cities that have Google fiber, that they are getting gouged government will be under pressure to improve broadband everywhere.",1365295098
+5505629,comment,5503973,5503973,13,0,Paul_D_Santana,,,"Here is a list of everything available in case anyone might find that more convenient:<p><i>Languages:</i><p><pre><code>  - C
+  - C++
+  - C++ (Firefox)
+  - Java
+  - JavaScript
+  - PHP
+  - Python
+  - Rust
+</code></pre>
+<i>C</i><p><pre><code>  So you think OOP is for hipsters?
+  That's cool, we all get nostalgic sometimes. You could work on:
+
+  - NSS: The network security pieces of Firefox
+    https://developer.mozilla.org/en-US/docs/Getting_Started_With_NSS
+</code></pre>
+<i>C++</i><p><pre><code>  So you like long compile times and incomprehensible error messages?
+  That's cool, we do too. You could work on:
+
+  - Gecko: The engine that drives Firefox
+    See: C++ (Firefox)
+
+  - Boot2Gecko: The operating system for Android phones built on web technologies
+    https://wiki.mozilla.org/B2G/Hacking
+
+  - Thunderbird: The open source email client
+    http://developer.mozilla.org/En/Simple_Thunderbird_build
+
+  - Seamonkey: The open source web productivity suite
+    http://www.seamonkey-project.org
+
+  - v8monkey: Implementing the v8 API on top of Spidermonkey
+    http://github.com/zpao/v8monkey
+
+  - emscripten: Creating a LLVM-to-JS system to allow porting native code to the web
+    https://github.com/kripken/emscripten/
+
+  - SVG Project: Help with the implementation and testing of Mozilla's
+    Scalable Vector Graphics engine (https://developer.mozilla.org/en-US/docs/SVG)
+    https://wiki.mozilla.org/SVG:Contribute
+
+  - Windows 8 Integration: The Metro-style enabled desktop browser for Windows 8
+    https://wiki.mozilla.org/Firefox/Windows_8_Integration
+      See 3.3 Platform Integration Windows 8 Development
+
+  - MathML: Display and represent math formulas on the web
+    https://wiki.mozilla.org/MathML:Home_Page
+</code></pre>
+<i>C++ (Firefox)</i><p><pre><code>  That's cool, but not very specific. You could work on:
+
+  - General Firefox work: I don't really care about the details
+    http://developer.mozilla.org/En/Introduction
+
+  - Graphics: Lots of work with OpenGL, DirectX, and Skia making things draw quickly
+    https://wiki.mozilla.org/Platform/GFX/Contribute
+
+  - Accessibility:
+    Make the web more accessible for users using
+      assistive technologies (eg. screenreaders)
+    https://wiki.mozilla.org/Accessibility/Contribute
+
+  - Networking: Tcp, http, ssl/tls, spdy, and more
+    http://wiki.mozilla.org/Networking
+
+  - Spidermonkey:
+    The JavaScript engine: if you like compilers, interpreters, JITs, and more
+    https://wiki.mozilla.org/JavaScript:New_to_SpiderMonkey
+</code></pre>
+<i>JavaScript</i><p><pre><code>  So you're a dynamic individual who thinks that, underneath,
+  everything is an object? That's cool, we like to dream as well.
+  You could work on:
+
+  - Firefox: Did you know that all of the UI is written in JS?
+    See: JavaScript (Firefox)
+
+  - Mobile Firefox:
+    It's the Gecko engine, with an Android-specific UI. No Android device required.
+    https://wiki.mozilla.org/Mobile/Get_Involved
+
+  - pdf.js: A PDF viewer written entirely in JavaScript
+    https://wiki.mozilla.org/PDF.js
+
+  - Shumway: a Flash player written entirely in JavaScript
+    https://github.com/mozilla/shumway/wiki
+
+  - The addon SDK: The foundation upon which all new kick-ass addons are built
+    https://wiki.mozilla.org/Jetpack
+
+  - Gaia: the default UI for the web-based mobile operating system Boot2Gecko
+    https://wiki.mozilla.org/Gaia
+
+  - DXR: The intelligent source code indexing system
+    http://github.com/mozilla/dxr
+
+  - Thunderbird: The open source email client
+    http://developer.mozilla.org/En/Simple_Thunderbird_build
+
+  - Seamonkey: The open source web productivity suite
+    http://www.seamonkey-project.org
+
+  - Web development: We have many large, complicated projects that use JavaScript
+    https://blog.mozilla.com/webdev/get-involved/
+
+  - Popcorn: Create interactive media pages that seamlessly integrate video,
+    audio, and traditional web technologies
+    http://www.benmoskowitz.com/?p=527
+
+  - Windows 8 Integration:
+    The front end for the Metro-style enabled desktop browser for Windows 8
+    https://wiki.mozilla.org/Firefox/Windows_8_Integration
+      See 3.2 Front End Windows 8 Development
+
+  - Persona: Implement a new way to safely and easily sign into websites
+    https://wiki.mozilla.org/Persona
+</code></pre>
+<i>JavaScript (Firefox)</i><p><pre><code>  Good choice - there are a lot of different areas if you'd like to specialize.
+  You could work on:
+
+  - Firefox in general - I don't really care:
+    http://developer.mozilla.org/En/Introduction
+
+  - Developer tools:
+    Implement a suite of tools similar to Firebug directly in the browser
+    https://wiki.mozilla.org/DevTools/GetInvolved
+
+  - Sync: Help users take their personal browsing data on the road
+    https://wiki.mozilla.org/Services/Sync#Get_Involved
+</code></pre>
+<i>Java</i><p><pre><code>  So you're a believer in AbstractMethodFactoryBeans?
+  That's cool, we all have our vices. You could work on:
+
+  - Mobile Firefox:
+    It's the Gecko engine, with an Android-specific UI. No Android device required.
+    https://wiki.mozilla.org/Mobile/Get_Involved
+
+  - Rhino: It's Spidermonkey in Java. Is this actually still a thing?
+    https://developer.mozilla.org/en-US/docs/Rhino
+</code></pre>
+<i>PHP</i><p><pre><code>  So you like your variable names to include dollar signs?
+  That's cool, everyone misses Perl once in a while. You can work on:
+
+  - WordPress: The code that runs our blogs (http://blog.mozilla.org)
+    https://wiki.mozilla.org/Webdev/GetInvolved/WordPress
+
+  - Marketplace: The PHP client for Marketplace (https://marketplace.firefox.com)
+    https://github.com/mozilla/Marketplace.PHP
+
+  - The Mediawiki-Bugzilla plugin:
+    The Bugzilla plugin for Mozilla's MediaWiki https://wiki.mozilla.org
+    https://github.com/mozilla/mediawiki-bugzilla
+</code></pre>
+<i>Python</i><p><pre><code>  So you enjoy the paradigm of backtrace-driven development?
+  That's cool, everyone gets a bit tired of static typing once in a while.
+  You can work on:
+
+  - Firefox: Lots of code is generated by python scripts
+    http://developer.mozilla.org/En/Introduction
+
+  - Web development: We have many large, complicated projects written in Python
+    https://blog.mozilla.com/webdev/get-involved/
+
+  - DXR: The intelligent source code indexing system
+    http://github.com/mozilla/dxr
+
+  - Tools & Automation:
+    Various projects to facilitate easier automated testing of products
+    https://wiki.mozilla.org/Auto-tools/New_Contributor
+</code></pre>
+<i>Rust</i><p><pre><code>  The new systems programming language created by Mozilla.
+
+  - Rust: http://www.rust-lang.org</code></pre>",1365295081
+5505628,comment,5503400,5505116,1,0,MertsA,,,"That's a bit overkill don't you think? Do you really think a home user would have a need to run BGP?",1365295071
+5505627,story,,,2,0,gnosis,"empty - a small replacement for expect",http://empty.sourceforge.net/,,1365295064
+5505626,comment,5505508,5505514,9,0,zapdrive,,,"But the Oakland PD is very active and effective in quelling ""Occupy Oakland"" protests, arresting the protestors and charging them falsely.",1365295026
+5505625,comment,5505401,5505521,5,0,archivator,,,"From a UX perspective, after the initial learning curve, T9 gives you larger tap targets and fewer taps needed (compared to QWERTY). This naturally results in faster finger movement but also less need for movement overall. It's a win-win for search.",1365294994
+5505624,comment,5505418,5505561,9,0,shared4you,,,"> they're still adding functionality by stretching the definition of 'bug fix'<p>Can you please elaborate? All entries in the changelog start with ""Fix"" or ""update"", etc. What new functionality has been added, according to you?",1365294986
+5505623,story,,,1,0,jeffreyfox,"Designing 10000000 as a Free To Play Game",http://www.altdevblogaday.com/2013/04/05/designing-10000000-as-a-free-to-play-game/,,1365294961
+5505622,story,,,83,58,Rauchg,"The San Francisco Safety Net",http://www.futurealoof.com/posts/the-san-francisco-safety-net.html,,1365294911
+5505621,comment,5505266,5505567,3,0,aaron695,,,"To quote myself above 'I'm not saying let them get away with it'<p>I didn't even say not to beat them. If beating them is what you have to do, so be it. All I said was the greater community shouldn't celebrate it.<p>My point is I think these style of stories are glurge and I think people need to try and be aware of that.<p><a href=""http://tvtropes.org/pmwiki/pmwiki.php/Main/Glurge"" rel=""nofollow"">http://tvtropes.org/pmwiki/pmwiki.php/Main/Glurge</a>",1365294892
+5505620,comment,5505293,5505504,1,0,spitfire,,,"Thanks! I quite like the output. Are you the author?<p>If soI took a quick look at your book and it looks excellent.<p><a href=""https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"" rel=""nofollow"">https://github.com/CamDavidsonPilon/Probabilistic-Programmin...</a>",1365294876
+5505619,comment,5503400,5505409,1,0,MertsA,,,"The only problem with Asus Merlin is that it uses the older ""stable"" wifi drivers. I've been running the unreleased Russian build 3.0.0.4.321 for months now and it's stable as a rock.",1365294870
+5505618,story,,,2,0,seminatore,"Salaries are up for game developers but women dont make as much as men",http://venturebeat.com/2013/04/05/salaries-are-up-for-developers-but-women-dont-make-as-much-as-men/,,1365294865
+5505617,comment,5504105,5504890,2,0,freiheit,,,"I believe you need to move out of the travel lanes of the public roadway. Pulling onto the shoulder, for instance.",1365294859
+5505616,comment,5505266,5505455,1,0,alenart,,,"Good point, GT is above what amount in California? Unless it's really high, it's really easy for a lens to fall in that GT category.",1365294834
+5505615,comment,5505418,5505418,5,0,tshepang,,,"The amount of love the core developers give to maintenance releases is incredible... ""hundreds of bugfixes""!",1365294819
+5505614,comment,5505266,5505464,18,0,jemfinch,,,"> Much safer to just gather information and give it to the police.<p>The police won't help you recover your stolen property: it's not their job.<p>> Confronting a thief in person is pretty dangerous...there's a non-zero chance of a fight, possibly involving a knife or gun.<p>Every day walking around a city involves a non-zero chance of a fight.  Every day interacting with other humans in civilization can involve a knife or a gun.  Meeting someone who opportunistically boosted your DSLR at a house party isn't significantly more dangerous than meeting <i>any</i> Craigslist seller in <i>any</i> public place.  In fact, it's probably less dangerous, because you won't be walking up to someone you don't know with hundreds of cash dollars in your pocket.<p>It's not even a complicated meeting.  You take a friend, for safety, as many craigslist buyers do.  You ask to see the camera, as any craigslist buyer would.  You ask to take a few sample pictures to make sure it works, as any Craigslist buyer would.  You snap a picture of the perpetrator and tell him (politely, because you don't want to fight) that this is your camera and you're going to keep it; if he disagrees, he's welcome to accompany you to the police station to sort things out.  The vast majority of opportunistic thieves at this point will <i>completely bug out</i> since they know they're busted and <i>they don't want to go to jail</i> (there are few DSLR/lens combinations that don't qualify as felony larceny in most states).<p>I find your vision of a world in which opportunistic thieves pack heat and victims ""just gather information and give it to the police"" unrealistic, not to mention depressing.",1365294818
+5505613,comment,5505508,5505545,7,0,rdl,,,"It's called ""moving to Piedmont, Orinda, or Hillsborough"", I believe.",1365294816
+5505612,comment,5504129,5505492,1,0,rdouble,,,"If you're doing Starting Strength program you should not be lifting to failure.",1365294807
+5505611,story,,,1,0,maudlinmau5,"Indian Students Develop Anti-Rape Underwear With Electric Shocks",http://mashable.com/2013/04/06/anti-rape-underwear/,,1365294777
+5505610,comment,5504129,5504129,2,0,akandiah,,,"This article has some good points, but doesn't explain some of the basics. If you're after a good read on fitness, try this article: <a href=""http://www.mensjournal.com/magazine/everything-you-know-about-fitness-is-a-lie-20120504"" rel=""nofollow"">http://www.mensjournal.com/magazine/everything-you-know-abou...</a><p>The recommended reading list at the end of that article is extremely valuable.",1365294733
+5505609,comment,5504799,5504799,1,0,rev_null,,,"The human race, as it exists today, will go extinct.<p>If we're lucky, whatever it is that eventually replaces us will continue to refer to itself as the human race.",1365294724
+5505608,comment,5505253,5505594,5,0,rhizome,,,"It's only paper, and Google is under the spotlight for anti-poaching collusion. This story makes them look like in-demand workers benefit from their policies rather than the worker just laboring away unaware that other companies have already agreed with Google not to try to hire him away.",1365294710
+5505607,story,,,2,0,rhufnagel,"Joining Silicon Valley's  Y Combinator, Isn't Always The Best Idea",http://www.sfgate.com/technology/businessinsider/article/Joining-Silicon-Valley-s-Billion-Dollar-Startup-4410031.php,,1365294684
+5505606,comment,5500473,5503529,1,0,klodolph,,,"Well, no, it's not that easy.  You can't always just speed things up or slow them down.<p>For example, try to extract audio from a CD-4 / Quadradisc record.  Two of the channels are modulated with a 30 kHz carrier using something called FM-PM-SSBFM, and they won't be audible unless you demodulate them properly.  You won't get anything resembling music unless you know exactly what you're doing.<p>By comparison, I've recovered audio from undocumented proprietary PCM-based formats from video games made in the 90s.  It was no problem.<p>So I think the distinction between analogue and digital is not as important as the distinction between simple formats (mono/stereo records, linear PCM) and complex formats (FM-PM-SSBFM, MP3).",1365294683
+5505605,comment,5504755,5504755,1,0,alexanderRohde,,,"So, despite the title, this is not new at all (2010). On an unrelated note it's very shoddy speculation, not based on life outcomes of alcohol users versus crack users or anything remotely meaningful.",1365294657
+5505604,comment,5504129,5505492,1,0,dave1619,,,"I wouldn't suggest going to failure on squats if you're lifting solo at home.  Some people are advocates of HVT (High Volume Training) and it seems to have results as well.  I think going to failure on one set is more of a preference thing if you want to maximize efficiency.",1365294626
+5505603,comment,5503267,5505270,1,0,vijayr,,,"Totally agreed, this is incredible.<p>If someone wants to learn, what would be the best place to get started? as in - books, software etc? Also, is there a self paced course?",1365294621
+5505602,comment,5505418,5505561,3,0,forsaken,,,"I would love it if you would maintain a fork of 2.7. I'll look forward to the release!",1365294583
+5505601,story,,,3,0,varishm,"The Bing operating system: Microsoft bets on deep search integration",http://www.theverge.com/2013/3/14/4084622/bing-as-a-plaform-new-microsoft-approach-to-search,,1365294569
+5505600,story,,,2,0,gregpurtell,"Why Blossom.io Switched to Dart",http://gun.io/blog/Why-Blossom.io-Switched-to-Dart/,,1365294404
+5505599,comment,5505266,5505581,8,0,rdl,,,"I did an analysis of it on Quora <a href=""http://qr.ae/TcyFx"" rel=""nofollow"">http://qr.ae/TcyFx</a> and a law professor did a far better job: <a href=""http://slu.edu/Documents/law/Law%20Journal/Archives/LJ56-2_Mason_Article.pdf"" rel=""nofollow"">http://slu.edu/Documents/law/Law%20Journal/Archives/LJ56-2_M...</a><p>There's also the Rap Genius analysis: <a href=""http://rapgenius.com/Jay-z-99-problems-lyrics#note-17560"" rel=""nofollow"">http://rapgenius.com/Jay-z-99-problems-lyrics#note-17560</a><p>(IANAL, of course, nor am I a rap musician or interstate cocaine trafficker)",1365294382
+5505598,comment,5505253,5505594,7,0,niggler,,,"Google is a 258B market cap company (as per yesterday's closing price).  They can afford to give hundreds of these packages, even if they diluted the stock, without moving the needle too much.",1365294378
+5505597,comment,5505253,5505253,13,0,NelsonMinar,,,"Original source for the article, with better formatting: <a href=""http://www.businessinsider.com/neal-mohan-googles-100-million-man-2013-4"" rel=""nofollow"">http://www.businessinsider.com/neal-mohan-googles-100-millio...</a>",1365294363
+5505596,comment,5505418,5505564,1,0,dmishe,,,thanks,1365294281
+5505595,story,,,1,0,unstoppableted,"This Is How Far North Korea's Missiles Can Reach",http://mashable.com/2013/04/05/north-korea-missile-range/,,1365294263
+5505594,comment,5505253,5505253,8,0,capred,,,"Does anyone know if these types of $100M numbers are actually true? I think it makes a great headline but wouldn't everyone at senior ranks get packages like this making it unsustainable?",1365294183
+5505593,comment,5503400,5505240,1,0,NelsonMinar,,,"Hmm, I've used QoS in Tomato for years. The early versions of Tomato had a very simple QoS build. The latest Toastman builds have some 30+ rules. All versions seem to work OK for me. But I'm sure it depends on traffic and would be hard to debug if it did fail.",1365294158
+5505592,comment,5503806,5505067,3,0,jamesrcole,,,"Modern computing environments are way more accessible (and far more readily available).",1365294137
+5505591,story,,,2,1,anonfunction,"Anatomy of a Mashup: Daft Punk Visualised",http://daftpunk.themaninblue.com,,1365294085
+5505590,story,,,2,0,thegarside,"Why are We Still Talking about LucasArts' Old Adventure Games?",http://www.gamasutra.com/view/feature/189899/Why_are_We_Still_Talking_about_LucasArts_Old_Adventure_Games.php,,1365294071
+5505589,comment,5504692,5505402,2,0,dracos,,,"The code is on github ;) I only really have time to keep it running and e.g. move it to OSM, but pull requests always welcome.",1365294066
+5505588,story,,,1,1,kurtable,"Microsoft: Sorry if Orth offended you  no comment on next Xbox",http://venturebeat.com/2013/04/05/microsoft-were-sorry-if-orth-offended-you-but-no-comment-on-next-xbox/,,1365293995
+5505587,comment,5504755,5505394,2,0,JVIDEL,,,"Did you even read that article? the prohibition was the BAN of alcohol, they didn't limit the ads or forced companies to put warnings on the label, they BANNED all drinks and beverages containing alcohol meaning if they catched you with a beer box it had the same results than walking around with a bag of marijuana today: jail.",1365293971
+5505586,comment,5505266,5505571,5,0,8ig8,,,"Apparently Apple is providing the NYC PD assistance in this regard:<p><a href=""http://www.nypost.com/p/news/local/nypd_apple_corps_PmTgzglhsHAGKoRFfsrDJI"" rel=""nofollow"">http://www.nypost.com/p/news/local/nypd_apple_corps_PmTgzglh...</a><p>> Every time an Apple device is stolen, detectives attempt to get tracking numbers from the victim or online records.<p>> That number, known as the International Mobile Station Equipment Identity, is then shared with the officers in Police Headquarters who pass it on to Apple.<p>> The California-based company then informs the NYPD of the devices current location  and it can track it even if it was reregistered with a different wireless provider.",1365293952
+5505585,comment,5505401,5505401,10,0,king_magic,,,"It generally takes a lot for me to be really surprised & impressed with a new iPhone app, but this is a pretty incredible app. I've been spending an absurd amount of time on the phone with a lot of different people at work and this just inserts itself so perfectly into my workflow that I wish I wrote this app myself :)<p>It has managed to dethrone the Phone app from my app tray, which is no easy task. Last app I moved into my app tray was Spotify, and that took forever to win that coveted spot.<p>It's kind of everything I wish the Phone & Contacts apps were.     Love the Metro UI. You have found yourself a raving fan. Please don't stop developing this app!<p>I really like the T9 search, by the way. Nicely done.",1365293935
+5505584,comment,5504129,5504129,0,0,giardini,,,"blogspam pure and simple.",1365293935
+5505583,story,,,6,0,dmoney67,"Raspberry Pi Powering A School Computing Lab In Rural Cameroon",http://techcrunch.com/2013/04/05/raspberry-pi-microcomputers-are-powering-a-school-computing-lab-in-rural-cameroon/,,1365293913
+5505582,comment,5504692,5504853,2,0,dracos,,,"No-one has minded for nearly three years, and TfL are the ones providing the data :-)",1365293889
+5505581,comment,5505266,5505482,2,0,alexqgb,,,"I knew a woman who did white-collar criminal defense at one of San Francisco's most high-profile law firms. She heard ""99 Problems"" and thought ""actually, those are very sound tactics.""",1365293813
+5505580,story,,,1,0,marcieoum,"Video look: Gaming on a Chromebook Pixel: Linux and Steam make it easy",http://gigaom.com/2013/04/03/video-look-gaming-on-a-chromebook-pixel-linux-and-steam-make-it-easy/,,1365293771
+5505579,comment,5504692,5505478,2,0,dracos,,,"Thanks :-) I like to think they'd seen my original version, who knows, so don't mind my backport. Theirs was a bit snazzier, but far too empty for my liking!",1365293761
+5505578,comment,5505418,5505561,2,0,tshepang,,,"There is a tentative freeze date of 2015: <a href=""http://mail.python.org/pipermail/python-dev/2013-April/125160.html"" rel=""nofollow"">http://mail.python.org/pipermail/python-dev/2013-April/12516...</a>.",1365293710
+5505577,comment,5504692,5505479,2,0,dracos,,,"It's more a work of art ;-) I basically show the data I get, but I don't fully understand it all - those Northern line trains all have a 477 id, which I think may be ghosts or tests or something else. Trains can jump lines if they're, for some reason or misparse, going straight from one station to another much further down the line.",1365293669
+5505576,story,,,1,0,GlobalPay,"How Can Your Business Benefit From Mobile Payments?",http://globalpay.me/mobile-payments-article/,,1365293660
+5505575,comment,5505253,5505253,9,0,yekko,,,"It's only a matter of time before us little developers get's similar packages!",1365293651
+5505574,comment,5505126,5505126,1,0,ValentineC,,,"Earlier comments here: <a href=""https://news.ycombinator.com/item?id=5409246"" rel=""nofollow"">https://news.ycombinator.com/item?id=5409246</a>",1365293645
+5505573,comment,5503354,5505398,1,0,Erwin,,,"Another tragic case: <a href=""http://en.wikipedia.org/wiki/Vitaly_Kaloyev"" rel=""nofollow"">http://en.wikipedia.org/wiki/Vitaly_Kaloyev</a> -- he stabbed and killed the (Danish) flight controller responsible for a plane crash (in Switzerland) in which his children died; after his imprisonment ended early he returned home to North Ossetia be made deputy minister of housing.",1365293603
+5505572,comment,5505401,5505401,1,0,aaronbrethorst,,,"Is that AwesomeMenu I see there? <a href=""http://www.cocoacontrols.com/controls/quadcurvemenu"" rel=""nofollow"">http://www.cocoacontrols.com/controls/quadcurvemenu</a>",1365293559
+5505571,comment,5505266,5505550,6,0,rdl,,,"Manufacturers of expensive portable items really should put some effort into making their products easier to trace (by the legitimate owners), making them less appealing to steal.<p>Car theft used to be a much bigger problem before 1) VINs everywhere and 2) anti-theft systems.  The easiest way to steal a high end car now is carjacking (i.e. once all the security systems are dieabled); otherwise, you have to either flatbed it or have the right ECU to swap for a specific model.  Opportunistic theft of a late-model luxury car is actually pretty hard now.<p>European cellphone vendors do this; it really should be done for any product.  I'd be ok with the manufacturer charging a small fee to officially transfer ownership, too, guaranteeing that the first purchaser can't then trace the device.",1365293517
+5505570,comment,5505266,5505266,13,0,xlance,,,"I have a similiar story. Left my laptop in the car, came back and found the window smashed. Had installed Prey on the laptop, and after jogging around the neighborhood (wearing a suit straight from work) for half an hour I get a e-mail. Location, picture of the guy - everything. I run down to catch a cab, but then I suddenly see a police car. Wave them over, they call up another squad car that was 50 meter away from where the guy was sitting. We come down (5 minute drive) and they already have him in chains. It took maximum 4 minutes from he opened the laptop until he was surrounded by cops.",1365293504
+5505569,comment,5504129,5505252,1,0,criveros,,,"If you go on youtube you can find lots of videos that show you how to properly do those exercises.",1365293489
+5505568,comment,5504692,5505104,4,0,dracos,,,"A variety of reasons, including having to change stuff anyway for Google Maps v2 deprecation, preferring OSM's open model to Google with MapMaker, preferring Leaflet, and yes, possible cost too.",1365293477
+5505567,comment,5505266,5505515,3,0,OGinparadise,,,"<i>Always remember more often than not the people participating in these crimes do it due to mental illness or desperation.</i><p>Uh OK, we should accept the loss of our hard earned cash /stuff because some thief is depressed and needs the money.<p>Confronting them can lead to bigger issues, jail for example and it's harder to argue self-defense when you went there, but they surely do need a thorough beating. Stay the hell away from my stuff and that's it.",1365293460
+5505566,comment,5503806,5505481,5,0,adorton,,,"When I was 14, I started learning C from a book that built around this premise.  I think it was called ""Type & Learn C.""  It worked - by the end of the summer I was a somewhat proficient C programmer.<p>I still think it's kind of amazing how such simple advice can be so effective.  I often find that when I'm struggling to grok a new language or framework, that I've forgotten to hand-type at least a few examples.",1365293458
+5505565,comment,5502783,5503146,1,0,commentzorro,,,"This is actually the exact argument _against_ tabs. If you need this much text in order to explain why and how to use tabs then that shows why spaces, which take no instructions, are the way to go.",1365293457
+5505564,comment,5505418,5505530,5,0,codesuela,,,"see the other comments the changelog is for 2.7, the 2.7.4 update only contains bugfixes",1365293448
+5505563,story,,,1,0,superacion,"Frases Para Recuperar Un Amor: Consejo Importante",http://superacionexitosa.com/frases-para-recuperar-un-amor/,,1365293411
+5505561,comment,5505418,5505541,3,0,hosay123,,,"You should check the changelog, they're still adding functionality by stretching the definition of 'bug fix'.. 2.x development is unlikely to freeze any time soon. I certainly have no intention of moving to 3.x, it would be the most pointless upheaval ever. I'd sooner fork 2.x and maintain it myself.",1365293392
+5505560,comment,5504032,5505263,5,0,r0s,,,"As an Austin male I'd like to point out we are also exceptionally good looking.",1365293363
+5505559,comment,5505266,5505464,1,0,cycomachead,,,"It depends on what pictures were on the memory card too. If you have renters/home owners insurance thefts would likely be covered. Luckily for me they were. The cost and time of replacing gear sucks, but life goes on. However, photosthose are HARD to get back. I lost 1,000 photos from a trip to Amsterdam the day after I got back. That sucks more than anything Agreed, however, that I would never confront a seller alone in person!",1365293347
+5505558,comment,5505418,5505513,1,0,publicfig,,,"Also worth mentioning that one can install ordereddict foor older versions of python with pip.",1365293309
+5505557,comment,5505266,5505266,1,0,triplesec,,,"Much less hassle than this guy last year who got his bicycle back from a thief. This was an expensive bike, so he had to fly to another city to retrieve it.<p><a href=""http://gawker.com/5934912/bike-thief-tries-to-sell-stolen-bike-on-craigslist-gets-busted-by-victim"" rel=""nofollow"">http://gawker.com/5934912/bike-thief-tries-to-sell-stolen-bi...</a>",1365293261
+5505556,comment,5504051,5504835,1,0,dhamidi,,,"GNU Readline already provides a lot of VI's (so almost VIM) functionality as a library.  Maybe that could be used as a starting point? It probably still is a lot of work though.",1365293226
+5505555,comment,5504404,5504999,1,0,king_jester,,,"This is really useful to hook into URLs matching a certain scheme when using an IntentFilter on an activity. If you know that emails or web-oriented content may be on the users device you can simply have the filter listen for the android.intent.action.VIEW action and set the pattern for the URL you expect. Having a class or couple of classes to parse that URL and route the user to the right app activity via Intents can be really helpful for more complex URLs.",1365293199
+5505554,comment,5505418,5505418,8,0,hosay123,,,"After years, better integration between the old and new buffer interfaces was finally sneaked in as a bug fix. You can now call `memoryview(some_buffer)` and it'll DTRT. The whole buffers situation is a depressing mess.",1365293186
+5505553,comment,5504790,5504790,1,0,mojoe,,,"I've received a few of these in the mail, but the fact that they were clearly from a third party made me trash them immediately. It's interesting to hear that they don't even provide the extended warranty they are advertising.",1365293170
+5505552,comment,5504032,5504876,1,0,rdouble,,,"Which city?",1365293168
+5505550,comment,5505266,5505266,7,0,danso,,,"An interesting story, I'm glad it worked for the OP...I had been robbed at gunpoint sometime ago in NYC. The cops helped as much as they could but nothing above and beyond...for example, the fact that whoever had my iPod was now using my Netflix account through it didn't really register much interest (and a Netflix rep claimed to not be able to track the IP that device was using...huh?).<p>I did set up a fake account on Craigslist to pretend that I was looking to buy an iPod of my specific make and model (it wasn't a common color/size) and found a couple of people who were selling such an iPod, but they claimed to have original packaging, which would not apply in my case (though I guess if you're good at being a fence you can get packaging from somewhere).<p>Mostly, I learned how annoying it is to search through Craigslist noise.<p>----<p>edit: Some commenters have noted that the OP's story sounds fake, on the grounds that a big city police department wouldn't take interest. Well, yes and no.<p>My good friend had her iPhone snatched in a park during the day. She chased the perp on foot and managed to get the attention of police and, in her words, no less than two unmarked police cars suddenly showed up. They chased the perp into the projects but at that point, there was nothing the police could do. But they did take her to the station to look at mug shots and file a report.<p>In my case, I had left my phone unerased for a week (it was Android) and turned on the tracking program, which allowed me to locate him approximately with GPS and even record sound and take photos. I found where he was staying on two different occasions but the police declined to check it out...and I don't begrudge them since a 100-foot radius in a NYC apartment complex is quite large. Also, my detective was involved in investigating an unusually public and brutal crime that weekend and couldn't get back to me.<p>In other words, the NYPD will call out the troops for a crime in progress, or if you have an otherwise extremely solid lead, as in the case of the OP. Otherwise, yes, they will not go out of their way to track your stolen goods, because they operate on the assumption that it's been sold on the street (in my case, I doubted my phone had been sold, because the Android program lets me know how many times someone has tried to unlock the passcode and other usage info about the phone...it definitely hadn't been hard-wiped to be resold yet).",1365293143
+5505548,comment,5505266,5505266,1,0,victorhn,,,"Two undercover cops for a camera? What an awesome police department. In my country i am skeptical i could get that kind of support for a camera, most probably i would file a report where the investigation would go nowhere ( if there is one ).",1365293132
+5505547,comment,5505418,5505418,20,0,natmaster,,,"I know it's confusing but the feature list on this page is for python 2.7; the 2.7.4 is just bugfixes.<p>Changes are here: <a href=""http://hg.python.org/cpython/file/9290822f2280/Misc/NEWS"" rel=""nofollow"">http://hg.python.org/cpython/file/9290822f2280/Misc/NEWS</a>",1365293114
+5505546,story,,,1,0,hazz,"4D Video Demo",http://themaninblue.com/experiment/4dVideo/,,1365293102
+5505545,comment,5505508,5505528,6,0,scarmig,,,"Time for a private social peer-to-peer civil protection startup?<p>I'm only half joking. Earlier this year someone was murdered on the street directly outside my window at 2 o'clock. PM.",1365293097
+5505544,comment,5504014,5505192,2,0,joonix,,,"I miss the playful/innocent nature of the internet back then. These days it's all about being ""sexy"" and cool.",1365293078
+5505543,comment,5504032,5504266,1,0,jordanthoms,,,"I've got 100mbit up/down for $50 per month in SF with webpass.",1365293064
+5505542,comment,5504129,5504497,3,0,sliverstorm,,,"<i>If you're ""starting out"", then bodyweight exercises...</i><p>Bodyweight exercises can be extremely frustrating when you are really just starting out. When I first started, I couldn't do more than 5 pullups or about 20 pushups, which made it unnecessarily hard to progress. I switched to weights so that I could lower the load and do 3 sets, and immediately made much better progress.",1365293047
+5505541,comment,5505418,5505538,11,0,natmaster,,,"I know it's confusing but the feature list on this page is for python 2.7; the 2.7.4 release appears to just be bugfixes.",1365293003
+5505540,comment,5505266,5505419,3,0,triplesec,,,"Never leave valuables in a car. This is well-known. Doing so is being about as dumb as this thief. Although you've learned the hard way, and I suppose we all make mistakes, so don't see this as personal criticism!",1365292969
+5505539,comment,5503888,5504373,2,0,thatcks,,,"In our case we run servers and then have thin desktops (using LTSP) that actually log in and run their sessions on the servers. The servers carry our entire password and group file because everyone can log in to them.<p>In general, in any NFS based environment all machines that NFS-mount common filesystems need to carry a full collection of login and group information so that things like 'ls -l' work on the NFS filesystems. If you want everyone to be able to log into every machine, they also need some sort of password information as well (either by distributing shadow files or by various other means).",1365292891
+5505538,comment,5505418,5505418,2,0,gluxon,,,"It annoys me how this release was added to the 2.7.x line when it probably should have been 2.8 given all the changes and feature additions. Freezing the 2.x line means not making huge changes to it. Otherwise, it probably shouldn't have been frozen.",1365292860
+5505537,comment,5504422,5504897,2,0,kenshiro_o,,,"When I started working in the IT department of a famous American investment bank, my along with fellow graduates were sent to New-York for a very intensive 6 weeks training programme. 
+Despite the workload and pressure (we had to succeed score high marks in all our tests to stay on), I managed to find some time to visit this great city. I am sure Martha will be able to focus on her learning, while also finding the opportunity to discover a bit more about New-York and the US.
+By the way I just saw that she has reached her fundraising goal. Congrats again to her!",1365292820

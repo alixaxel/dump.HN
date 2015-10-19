@@ -1,0 +1,44 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+279878,comment,279380,279380,0,0,whacked_new,,,"Nobody thinks iPhone? I only used them at experience stores, but when I first did I felt stricken by lightning. I think, holy shit, this will be the first un-Japanese interface phone to become a hit in Japan.",1219107526
+279877,comment,278453,279808,0,0,emmett,,,"Just because one could do something, doesn't mean one will do something. I'm not arguing you should use Lisp over Python, merely that the strength of libraries is not a language feature per se. Clearly, it's one of the most important things to consider when picking a language, but it's not a feature of that language any more than how helpful the people in that language's IRC chat room is, or how good the documentation.",1219107236
+279876,comment,279380,279462,0,0,skmurphy,,,"the post is from July 5, 2002",1219107183
+279875,comment,279842,279842,0,0,mbuchanan,,,"I couldn't agree more with this post...  in fact I think it almost exactly describes Microspaces.  <a href=""http://www.nestedguis.com"" rel=""nofollow"">http://www.nestedguis.com</a>",1219107180
+279874,story,,,1,0,timr,"The End is Near, but is IPv6?",http://asert.arbornetworks.com/2008/08/the-end-is-near-but-is-ipv6/,,1219107116
+279873,comment,279208,279495,0,0,neilc,,,"Does anyone actually <i>use</i> Facebook chat? Leaving aside the details of the implementation, chatting via the FB web interface seems terribly awkward. And while <i>I</i> can use XMPP, most of the people you'd be chatting with won't be.",1219107085
+279872,comment,279866,279866,0,0,babyshake,,,"""Who are you looking to hire and what skills will they have?<p>We’re looking for great developers who are passionate about contributing to and shaping the web.""<p>Sounds perfect for the HN crowd.",1219106927
+279871,story,,,1,0,nreece,"How Deep Brain Stimulation Works",http://health.howstuffworks.com/deep-brain-stimulation.htm,,1219106925
+279870,comment,279559,279559,0,0,whacked_new,,,"Offtopic/<p>Gotta love the community for this: thoughtfulness, mutual understanding and respect.",1219106914
+279869,story,,,1,0,nreece,"Do Subatomic Particles Have Free Will?",http://www.sciencenews.org/view/generic/id/35391/title/Math_Trek__Do_subatomic_particles_have_free_will%3F,,1219106908
+279868,story,,,3,0,timr,"A first look at the Google Android SDK",http://www.thestandard.com/news/2008/08/18/first-look-google-android-sdk,,1219106893
+279867,comment,279812,279812,0,0,dhotson,,,"I <3 muxtape. :'(<p>I really hope they can sort this out..",1219106782
+279866,story,,,38,13,sharpshoot,"What it's like to work at Disqus: interview",http://blog.snaptalent.com/?p=119,,1219106736
+279865,story,,,19,18,makimaki,"What If the Kindle Succeeds? ",http://www.eff.org/deeplinks/2008/08/kindle,,1219106676
+279864,comment,279251,279372,0,0,delano,,,"You could suggest that they change their approach in getting the email address but the concept of reminding you to reply with your fix to that error is good.",1219106467
+279863,story,,,2,0,timr,"FCC Approves The First Google Phone",http://bits.blogs.nytimes.com/2008/08/18/a-dream-come-true-us-approves-the-first-google-phone/,,1219106330
+279862,comment,279812,279812,0,0,agotterer,,,"They aren't shut down. They are negotiating with the RIAA. They will be back up soon.",1219106312
+279861,story,,,2,0,timr,"Project Hovercraft (make your own RC hovercraft from junk)",http://www.sdss.jhu.edu/~tamas/bolts/hovercraft.html,,1219106244
+279860,comment,279812,279812,0,0,brandonkm,,,"A real shame.  I really liked muxtape, thought it was dead simple and very cool.  Although, it says currently that they are sorting out issues with the RIAA, not permanently shut down...",1219106163
+279859,comment,279380,279536,0,0,whatusername,,,"I'd heard about them for a while before actually getting in there and using them. 
+The first time I setup the django admin site was definately a ""HOLY SHIT"" moment...<p>Others:
+* Google Sketchup (This was only last week --> It's so simple!)
+* VM Snapshots
+* ITunes library/playlist structure  (Don't laugh...  The unified library showing every song was a revelation after mucking around with winamp playlists and folders..  Also - I remember winamp really sucking on the mac at the time)
+* HTML - ""You mean I can publish stuff on the Internet and people can read it from across the world?"" (I was about 11 at the time ('95))",1219106046
+279858,story,,,3,0,timr,"Researchers Discover a Form of Photosynthesis that Relies on Arsenic",http://www.nytimes.com/2008/08/19/science/19obarsenic.html,,1219105856
+279856,story,,,1,0,timr,"New Theory on DEET: Mosquitos Just Dislike it",http://www.nytimes.com/2008/08/19/science/19obdeet.html,,1219105666
+279855,comment,279260,279260,0,0,dejb,,,"We need down-voting of articles",1219105492
+279854,comment,279812,279812,0,0,maryrosecook,,,"There is a tiny bit more information on the Muxtape blog: <a href=""http://muxtape.tumblr.com/post/46472068"" rel=""nofollow"">http://muxtape.tumblr.com/post/46472068</a>",1219105466
+279853,comment,279812,279812,0,0,gigawatt,,,"RIAA - Ridding the Internet of its Awesome Abilities",1219105460
+279852,story,,,1,0,buss,"NSF produced video history of the Internet",http://www.nsf.gov/news/special_reports/nsf-net/index.jsp,,1219105265
+279851,story,,,3,0,babooo404,"Elgg Launches Version 1.0 of Open Source Social Networking Platform",http://www.centernetworks.com/elgg-open-source-social-networking,,1219105173
+279850,comment,279791,279791,0,0,maryrosecook,,,"Yep, tried this already.  Really liked it.  Would love to hear more about how it works.",1219105165
+279849,story,,,2,1,timr,"Stephen Sinofsky: the Windows 7 team isn't too big",http://blogs.msdn.com/e7/archive/2008/08/18/windows_5F00_7_5F00_team.aspx,,1219104840
+279848,comment,279680,279680,0,0,netcan,,,"<p><pre><code>   ""He says once he can afford it he will pay""   
+</code></pre>
+There's a few things that I never could believe:<p>A woman when she weeps<p>A merchant when he swears<p>A thief who says he'll pay  -<p>A lawyer when he cares<p>A snake when he is sleeping<p>A drunkard when he prays<p>I don't believe you go to heaven when you're good<p>Everything goes to hell, anyway...<p>(Everything Goes to Hell, Tom Waits, )",1219104408
+279847,comment,279680,279836,0,0,zalter,,,"He's not scraping live updates, sounds like he's crawling pages from reference sites and extracting the stats in that way.<p>I would like to talk to a lawyer who has experience in these matters (my email is in my profile)<p>How does draftmix obtain its stats? And if I may ask, how much does it cost?",1219104383
+279845,comment,279811,279811,0,0,rokhayakebe,,,"Can be very interesting for fund raisers. As people send donation through premium SMS, anyone can see the amount raised live.<p>Now, using an area code database they can integrate SMS polls with a map. ""Text Iphone or whatever to 41411..."" and we can see live the number of people who have Iphones or a certain product and where they live.",1219104260
+279844,comment,279437,279505,0,0,Neoryder,,,"Yes I think this hammers an important point. Write with what helps you think, For me It has to be an uber size blank sheet of paper and I just start planning. After the paper I can usually go to a laptop an either make a rough prototype or at least a structure in code. I don't know why I can't seem to code directly.<p>To repeat do what helps you think faster/clearer/better",1219104193
+279843,comment,279437,279485,0,0,iigs,,,"Agreed.<p>Until your company is fairly large (maybe 20 people?) document for yourself. It's your business, so you can do whatever you want, but I'd suggest writing things down that will help _you_ in three months when you have to look over something you did before.<p>With that in mind you should decide what you value. The small company teams I've worked on have exchanged virtually all knowledge verbally, and we would only ever draw whiteboard diagrams of things for new hires, which was convenient because the stuff seems to change as fast as the ink dries.",1219104189
+279842,story,,,7,1,bazookaaa,"The Future of the Desktop",http://www.readwriteweb.com/archives/future_of_the_desktop.php,,1219104147
+279841,story,,,1,0,trs90,"Does Too Much Self-Linking Make Users Go Blind?",http://www.marksonland.com/2008/08/does_too_much_selflinking_make.html,,1219104089

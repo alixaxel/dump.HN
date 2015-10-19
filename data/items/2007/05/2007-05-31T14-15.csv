@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25676,comment,25625,25625,0,0,petervandijck,,,"I'm thinking it be different from a job board.. the 37sigs board has good jobs, but how can you be sure the people that apply are any good? Also, people there don't post projects so much as just generic posts to hire people. Interesting to consider the differences in the model...",1180623151
+25675,comment,25628,25665,0,0,awt,,,"slicehost.com.  Dedicated box for 20/month. 70/month for 1GB.",1180622777
+25674,comment,25625,25640,0,0,corentin,,,"It can be done: <a href=""http://gigs.37signals.com/"" rel=""nofollow"">http://gigs.37signals.com/</a><p>In that case, they're using price ($100) to filter out people who don't care about quality.",1180621633
+25673,comment,25544,25544,0,0,jkush,,,"So maybe my startup idea isn't so far off?<p><a href=""http://news.ycombinator.com/comments?id=15030"" rel=""nofollow"">http://news.ycombinator.com/comments?id=15030</a>
+",1180621005
+25672,story,,,2,0,jkush,"Interview with Eric Goldstein of Clipmarks",http://startupstories.com/2007/03/20/interview-with-eric-goldstein-of-clipmarks-part-1/,,1180620944
+25671,comment,25551,25653,0,0,staunch,,,"I don't need PDFs for anything. Why is that an important feature?<p>The only thing that really matters to me is storing lots of data on the client. Apollo already has a ""Full file I/O API"". What's missing for me is a Linux version so I can use it on my laptop, where I need it most. Adobe sucks for lagging Linux versions.
+",1180620036

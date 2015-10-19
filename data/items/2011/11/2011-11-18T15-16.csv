@@ -1,0 +1,418 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3252127,story,,,2,0,tathagatadg,"Insight: The Wall Street disconnect ",http://www.reuters.com/article/2011/11/18/us-wallst-disconnect-idUSTRE7AH0Z620111118,,1321631990
+3252126,comment,3251580,3251580,9,0,sk5t,,,"I was expecting a bug that had some subtle relation to the Javascript language... this example would apply to any language and is essentially demonstrating a strong lack of knowledge and/or carelessness with file permission masks / chmod and unix filesystems generally.",1321631983
+3252125,comment,3248911,3249986,2,0,dkersten,,,"I understand that what I'm saying is a bit of a stretch, but when they claim people don't love computers for not doing that they're doing, they may as well take it to the extreme. People have written operating systems, maybe these people should say everybody else doesn't love computers.<p>I mean, obviously I don't expect anyone to build everything they use. My argument was aimed at the ""you don't love computers"" statement and not at the fact that they don't write their own OS.",1321631952
+3252124,story,,,1,0,mmurph211,"Wizgig.com, short nuggets of wisdom",http://www.wizgig.com,,1321631948
+3252123,comment,3251597,3251822,2,0,dspillett,,,"You are comparing apples to oranges there though: the specs are significantly different:<p>* more powerful CPU (or at very least the same design at a higher speed, 1200MHz rather than 700)
+* more powerful GPU (both can play back 1080p  OK, but the GPU can be used for much more than just movie playback acceleration)
+* more RAM (1024Mb on the CC, 256 on the RP(B), 128 on the RP(A))
+* wireless networking via 802.11b/g/n and/or Bluetooth (the rp will need a USB device plugged in to do either of these)
+* the thing the RP has that these don't are wired networking built-in (and then, only on the slightly more expensive model B) and USB ports (it looks like the CC will operate as a USB MSD but I can't see any wording in the descriptions that suggest it can act as a host for USB devices)<p>I plan to grab at least on RP (the planned-to-be-$35 model B) when they turn up as the spec and the price combine to make it irresistible as a techie toy, but what you get for the extra cost of the CC (the target is $200, not $350) is considerable extra power and built-in wireless options. Depending on your needs this price-for-performance might be a good deal, though the Pi should do admirably for what I plan to play with.",1321631945
+3252122,story,,,1,0,lmj8144536,"Glow in the dark High Tops Nike Dunk Shoes",http://www.freeshopping-online.com/glow-in-the-dark-high-tops-nike-dunk-shoes.html,,1321631945
+3252121,comment,3251407,3251407,5,0,nantes,,,"I am actually involved, right now, with securing a couple .xxx domains for a client. Although not an adult product, the client wants to protect their product name from being associated with adult content.<p>For the record, my client is happy to pay the large (compared to normal domain registrations) fee to keep their .xxx from resolving.",1321631944
+3252120,comment,3251743,3251970,2,0,sjs,,,"I run<p><pre><code>    wget -qO - bit.ly/newbox | sh
+</code></pre>
+or<p><pre><code>    curl -Ls bit.ly/newbox | sh
+</code></pre>
+and am up and running. No sweat. I keep this stuff in Dropbox too, just in case.",1321631904
+3252119,comment,3250093,3251835,1,0,JonnieCache,,,"<i>>Biology researchers don't get to reuse the other guy's mice</i><p>In a sense, they actually do.<p><a href=""https://secure.wikimedia.org/wikipedia/en/wiki/C57BL/6"" rel=""nofollow"">https://secure.wikimedia.org/wikipedia/en/wiki/C57BL/6</a><p><a href=""https://secure.wikimedia.org/wikipedia/en/wiki/BALB/c"" rel=""nofollow"">https://secure.wikimedia.org/wikipedia/en/wiki/BALB/c</a>",1321631869
+3252118,story,,,1,0,HealthyLife_uk,"My best kept secret revealed 2nite",http://archive.aweber.com/ericwilkes/BoVgc/h/my_best_kept_secret_revealed.htm,,1321631862
+3252117,comment,3251691,3251691,3,0,click170,,,"On one hand it's nice to see them using words instead of guns.<p>On the other hand I agree with the other concerned comments about the militarization of fact checking. However, until they cross the line and actually shutdown a website for being ""untruthful"" I'm going to hold off on the public flogging.<p>""the fact they engage with us indicated we've hit a nerve""
+Um.. No, to me that means they're willing to engage in conversation with you, likely because they presume you're wrong and feel they can fend you off in an honest argument. This is no indication of ""hitting a nerve"" but nice try.",1321631862
+3252116,comment,3251743,3252024,4,0,stevelosh,,,"Same here.<p><pre><code>    cd
+    hg clone http://bitbucket.org/sjl/dotfiles .dotfiles
+    ln -s `pwd`/.dotfiles/vim/.vimrc ~/.vimrc
+    cd -
+</code></pre>
+My full Vim config is now installed, plugins included thanks to Mercurial's subrepos.<p>But really, I don't find myself editing files directly on servers all that often.  And when I do I usually prefer bcvi anyway, because I can use MacVim instead of Vim through a terminal (which I hate because of all the shadowed keys).",1321631857
+3252115,comment,3251939,3251939,2,0,jinushaun,,,"I was wondering when this would happen... Glasses have transcended practicality into fashion. They are now no different from shoes, belts or watches. In that case, lensless glasses are an eventuality. US hipsters are already doing this, but not to the degree that HK is doing it.<p>I admit, there are many days where I wish I could wear my contacts <i>with</i> my glasses.",1321631838
+3252114,story,,,1,0,coondoggie,"11 cool robots you may not have heard of ",http://www.networkworld.com/slideshows/2011/111611-robots.html,,1321631837
+3252113,story,,,3,1,caquino,"REDIS-BASH - Bash library to access Redis Databases",https://github.com/caquino/redis-bash,"I've made this library to pull a MacGyver but maybe can be useful to someone else. Ideas and improvements are welcome.",1321631835
+3252112,story,,,1,0,oldmill,"(RED)Founding Executive Discusses Bono & Cause Marketing",http://youtu.be/ivJhv6g7bA0,,1321631828
+3252111,comment,3250016,3251419,1,0,tgrass,,,"I support dual landing pages generally when serving two networks.<p>A grocery store leads distributors in through the back and consumers through the front. They have different needs and if you want to maximize your short introductory moment, it benefits you to tailor the experience.",1321631802
+3252110,story,,,2,0,SunnyYe,"2011: The Year of Sina Weibo",http://techrice.com/2011/11/18/2011-the-year-of-sina-weibo/,,1321631795
+3252109,comment,3251877,3252045,2,0,lpolovets,,,"Thanks.. I saw that mentioned in another comment as well. When I first went to the site I didn't see any affordances indicating that that graph was clickable.",1321631777
+3252108,comment,3251597,3251879,5,0,JonWood,,,"If your TV has a USB port (mine does, and is in no way state of the art) you should be able to power it from that. Not quite a zero cable solution, but it's close.",1321631777
+3252107,comment,3251877,3251877,2,0,nocivus,,,"This post will balance things out, i think...",1321631777
+3252106,comment,3248504,3248504,1,0,ohashi,,,"Do you have info about which location has what type of meters (especially length/cost)?  I've always wanted an easy way to find the cheapest/longest time allowed/most convenient parking.",1321631777
+3252105,comment,3251996,3251996,1,0,losethos,,,"Most PC's will be locked-down, some won't.  You'll be asked, ""What's wrong with VMWare?""  You'll have no answer.  Are you a terrorist?<p>God says...
+C:\LoseThos\www.losethos.com\text\YANKEE.TXT<p>e and I'll dictate thus:<p><pre><code>                      ""PROCLAMATION
+
+                           ---
+
+   ""BE IT KNOWN UNTO ALL.  Whereas the king having died
+   and left no heir, it becomes my duty to continue the
+   executive authority vested in me, until a government
+   shall have been created and set in motion.  The
+   monarchy has lapsed, it no longer exists.  By
+   consequence, all political power has reverted to its
+   original source, the people of the nation.  With the
+   monarchy, its severa
+</code></pre>
+God is just.  That's all you have to know.<p>I hate Linux more than I love LoseThos.  Evil fuckers are merciless, so they'll get no mercy.<p>You think I'm joking.  Look at this shit:<p>-------------------<p>#
+# DO NOT EDIT THIS FILE
+#
+# It is automatically generated by grub-mkconfig using templates
+# from /etc/grub.d and settings from /etc/default/grub
+#<p>### BEGIN /etc/grub.d/00_header ###
+if [ -s $prefix/grubenv ]; then
+  set have_grubenv=true
+  load_env
+fi
+set default=""0""
+if [ ""${prev_saved_entry}"" ]; then
+  set saved_entry=""${prev_saved_entry}""
+  save_env saved_entry
+  set prev_saved_entry=
+  save_env prev_saved_entry
+  set boot_once=true
+fi<p>function savedefault {
+  if [ -z ""${boot_once}"" ]; then
+    saved_entry=""${chosen}""
+    save_env saved_entry
+  fi
+}<p>function recordfail {
+  set recordfail=1
+  if [ -n ""${have_grubenv}"" ]; then if [ -z ""${boot_once}"" ]; then save_env recordfail; fi; fi
+}<p>function load_video {
+  insmod vbe
+  insmod vga
+  insmod video_bochs
+  insmod video_cirrus
+}<p>insmod part_msdos
+insmod ext2
+set root='(/dev/sda,msdos7)'
+search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+if loadfont /usr/share/grub/unicode.pf2 ; then
+  set gfxmode=auto
+  load_video
+  insmod gfxterm
+fi
+terminal_output gfxterm
+insmod part_msdos
+insmod ext2
+set root='(/dev/sda,msdos7)'
+search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+set locale_dir=($root)/boot/grub/locale
+set lang=en_US
+insmod gettext
+if [ ""${recordfail}"" = 1 ]; then
+  set timeout=-1
+else
+  set timeout=10
+fi
+### END /etc/grub.d/00_header ###<p>### BEGIN /etc/grub.d/05_debian_theme ###
+set menu_color_normal=white/black
+set menu_color_highlight=black/light-gray
+if background_color 44,0,30; then
+  clear
+fi
+### END /etc/grub.d/05_debian_theme ###<p>### BEGIN /etc/grub.d/10_linux ###
+if [ ${recordfail} != 1 ]; then
+  if [ -e ${prefix}/gfxblacklist.txt ]; then
+    if hwmatch ${prefix}/gfxblacklist.txt 3; then
+      if [ ${match} = 0 ]; then
+        set linux_gfx_mode=keep
+      else
+        set linux_gfx_mode=text
+      fi
+    else
+      set linux_gfx_mode=text
+    fi
+  else
+    set linux_gfx_mode=keep
+  fi
+else
+  set linux_gfx_mode=text
+fi
+export linux_gfx_mode
+if [ ""$linux_gfx_mode"" != ""text"" ]; then load_video; fi
+### BEGIN /etc/grub.d/30_os-prober ###
+menuentry ""Windows 7 (loader) (on /dev/sdb2)"" --class windows --class os {
+	insmod part_msdos
+	insmod ntfs
+	set root='(/dev/sdb,msdos2)'
+	search --no-floppy --fs-uuid --set=root BAE02E36E02DF971
+	chainloader +1
+}
+### END /etc/grub.d/30_os-prober ###
+menuentry 'Ubuntu, with Linux 2.6.38-8-generic' --class ubuntu --class gnu-linux --class gnu --class os {
+	recordfail
+	set gfxpayload=$linux_gfx_mode
+	insmod part_msdos
+	insmod ext2
+	set root='(/dev/sda,msdos7)'
+	search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+	linux	/boot/vmlinuz-2.6.38-8-generic root=UUID=59a819c4-7e13-4350-9803-f59d136854d8 ro   quiet splash vt.handoff=7
+	initrd	/boot/initrd.img-2.6.38-8-generic
+}
+menuentry 'Ubuntu, with Linux 2.6.38-8-generic (recovery mode)' --class ubuntu --class gnu-linux --class gnu --class os {
+	recordfail
+	set gfxpayload=$linux_gfx_mode
+	insmod part_msdos
+	insmod ext2
+	set root='(/dev/sda,msdos7)'
+	search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+	echo	'Loading Linux 2.6.38-8-generic ...'
+	linux	/boot/vmlinuz-2.6.38-8-generic root=UUID=59a819c4-7e13-4350-9803-f59d136854d8 ro single 
+	echo	'Loading initial ramdisk ...'
+	initrd	/boot/initrd.img-2.6.38-8-generic
+}
+### END /etc/grub.d/10_linux ###<p>### BEGIN /etc/grub.d/20_linux_xen ###
+### END /etc/grub.d/20_linux_xen ###<p>### BEGIN /etc/grub.d/20_memtest86+ ###
+menuentry ""Memory test (memtest86+)"" {
+	insmod part_msdos
+	insmod ext2
+	set root='(/dev/sda,msdos7)'
+	search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+	linux16	/boot/memtest86+.bin
+}
+menuentry ""Memory test (memtest86+, serial console 115200)"" {
+	insmod part_msdos
+	insmod ext2
+	set root='(/dev/sda,msdos7)'
+	search --no-floppy --fs-uuid --set=root 59a819c4-7e13-4350-9803-f59d136854d8
+	linux16	/boot/memtest86+.bin console=ttyS0,115200n8
+}
+### END /etc/grub.d/20_memtest86+ ###<p>menuentry ""LoseThos D"" {
+	insmod chain
+	set root=(hd0,msdos1)
+	chainloader +1
+}<p>menuentry ""LoseThos E"" {
+	insmod chain
+	set root=(hd0,msdos5)
+	chainloader +1
+}<p>menuentry ""LoseThos I"" {
+	insmod chain
+	set root=(hd1,msdos5)
+	chainloader +1
+}<p>----------------<p><a href=""http://www.guardian.co.uk/world/2011/nov/16/fbi-entrapment-fake-terror-plots?fb=native&CMP=FBCNETTXT9038"" rel=""nofollow"">http://www.guardian.co.uk/world/2011/nov/16/fbi-entrapment-f...</a><p>All you have to know is God is just... right?<p>God says...
+C:\LoseThos\www.losethos.com\text\WEALTH.TXT<p>ment must be employed to suppress and punish every murmur and
+complaint against it. To a sovereign, on the contrary, who feels himself
+supported, not only by the natural aristocracy of the country, but by a
+well regulated standing army, the rudest, the most groundless, and
+the most licentious remonstrances, can give little disturbance. He
+can safely pardon or neglect them, and his consciousness of his own
+superiority naturally disposes him to do so. That degree of liberty
+which approaches to licenti",1321631708
+3252104,comment,3250016,3251962,1,0,Peroni,,,"Glad to. It will have to wait until I get home this evening however as my archaic work machine runs IE8 and you don't appear to support it (don't blame you!).",1321631701
+3252103,comment,3250330,3251779,4,0,rbanffy,,,"It may take more than one absurd bill to shift the window enough.",1321631689
+3252102,comment,3251597,3252071,1,0,savramescu,,,"I guess if that LCD can handle touch then it'll be just a big tablet where Android is more useful.",1321631687
+3252101,comment,3250093,3251157,1,0,dpark,,,"How do either of those save causality?  If you've got regular neutrinos traveling FTL, causality is broken. It doesn't matter if the particles travel FTL because they really have a measurable velocity FTL or because they somehow spontaneously teleport.",1321631670
+3252100,story,,,2,0,noahlt,"Facebook vs Salary: when choosing jobs, students value Facebook more than money",http://www.designlessbetter.com/blogless/posts/facebook-vs-salary,,1321631652
+3252099,comment,3251597,3252071,9,0,illumin8,,,"They said it also runs Ubuntu, and will run the Windows 8 ARM version.  Android is good for a low power CPU like ARM since it doesn't require as much horsepower.  I would imagine that running a Firefox browser on Ubuntu under ARM would be a pretty painful experience compared to running Android.",1321631642
+3252098,story,,,12,4,llambda,"Here In Silicon Valley, Are We Killing Jobs And Making The Rich Richer?",http://techcrunch.com/2011/11/18/silicon-valley-killing-jobs/,,1321631633
+3252097,story,,,8,4,caffo,"Show HN: Bookqueue, The Antisocial Bookshelf Application    ",,"Hi guys.<p>Im looking for some feedback from the great HN community. I just soft launched the beta version of my humble bookshelf application, bookqueue. I've been working on it as a pet project since 2007. The idea is having a place to track all books you have been reading and having some nice stats around it, with less focus in the social aspects.<p>My own queue can be found here: http://bookqueue.net/caffo<p>You can also create your own at http://bookqueue.net/<p>Thanks!",1321631628
+3252096,story,,,1,0,ericburnettguru,"Increase The Quality Of Your Network Marketing Prospect 10 Fold",http://profitonknowledge.com/network-marketing/increase-the-quality-of-your-network-marketing-prospect-10-fold/,,1321631628
+3252095,comment,3251597,3252071,12,0,jerf,,,"Android <i>is</i> a light Linux distro. My coworker next to me has demonstrated running Firefox on it.<p>I would imagine odds are pretty good you can hack this thing to put your choice of distro on it in the end.",1321631626
+3252094,comment,3251877,3251877,43,0,brlewis,,,"Currently ""gravity"" pulls stories down as a function of time.  If time were replaced by a counter that increments with each story upvote across HN, gravity would be normalized for activity and timing would matter less.",1321631621
+3252093,comment,3251258,3252030,1,0,Peroni,,,"Good point about providing more info on the page. We are having a meeting tomorrow and we will make a point of expanding on the ladning page. It was a rush job in order to have something to show off at a recent Hacker News meet-up where I was giving a talk.<p>Don't worry you didn't insult me! Recruiters have earned their terrible reputation.",1321631574
+3252092,comment,3251557,3251813,-1,0,partition,,,"Can I get some background on what the leaked HBGary emails are, I'm curious.",1321631560
+3252091,comment,3251743,3251928,15,0,stevelosh,,,"Some of this definitely belongs in separate files.<p>The problem is that most of these are things I came up with when, during the middle of coding, I thought ""oh, this would be really nice"".  So I just switched to my vimrc, added it, and got back to working, instead of thinking about where to put it, creating new files, etc.<p>Every so often I'll go through and clean it up.  I just haven't gotten around to it for a long time since it works perfectly fine as is.",1321631559
+3252090,comment,3250093,3251862,7,0,rbanffy,,,"Still, this is not a good reason not to release code. We can deal with funny comments, bad jokes and dead code. Why not let people examine the code? They are not programmers who will be judged by the neatness of their code.",1321631538
+3252089,comment,3251915,3251915,13,0,nopal,,,"I agree, but this should be submitted as a comment on the Feature Requests story (see link at the bottom of HN pages).<p>In fact, this request has already been submitted, so you should just vote it up.<p><a href=""http://news.ycombinator.com/item?id=996374"" rel=""nofollow"">http://news.ycombinator.com/item?id=996374</a>",1321631479
+3252088,comment,3251743,3252051,4,0,TeMPOraL,,,"Seems like vim is finally getting its own Nyan Mode? (<a href=""http://nyan-mode.buildsomethingamazing.com"" rel=""nofollow"">http://nyan-mode.buildsomethingamazing.com</a>).",1321631476
+3252087,comment,3251413,3251413,1,0,dcolish,,,"This is really well explained in the docs:
+<a href=""http://docs.python.org/reference/expressions.html?highlight=generator%20series#list-displays"" rel=""nofollow"">http://docs.python.org/reference/expressions.html?highlight=...</a>",1321631420
+3252086,comment,3251743,3252051,13,0,stevelosh,,,"Actually I'm planning on splicing it into MakeGreen, so instead of getting a green bar when my tests pass I get Nyan Cat flying across my window.  Maybe over Thanksgiving weekend I'll get around to it.<p>Edit: Also, if anyone can show me how to draw an ASCII-art Nyan Cat in one line of text that would be awesome.  Nothing I tried looked recognizable.",1321631418
+3252085,comment,3251743,3251935,9,0,skimbrel,,,"There should be more of it.",1321631418
+3252084,comment,3250034,3250034,1,0,kermitthehermit,,,"It's down.<p>Let everyone know about this.",1321631413
+3252083,comment,3250093,3251904,2,0,ajuc,,,"Data depends on the code. You can't write neutrino arrival time to file on hard disk without some code in between the equipment and the file. That code can be wrong, too.<p>Some code has to be trusted, and scientists can't check every assumption every time, so I don't blame them. But why don't they allow others to check the code? It's the opposite of scientific method.",1321631411
+3252082,comment,3251557,3252049,-4,0,spaznode,,,"You're right, it was an insult.<p>It is nonetheless still true.",1321631387
+3252081,comment,3251413,3251963,2,0,llimllib,,,"> Are there any good reasons why Python can't allow both?<p>That is, you want [a for b in c for a in b] to represent <i>both</i> foreach(c, foreach(b)) <i>and</i> foreach(b, foreach(c))? Surely it must choose one or the other.<p>You can sensibly argue that the order should be reversed, but not that python should allow both. There should be only one obvious way to do things.<p>> Does this feel weird to anyone else?<p>Not to me; [(x,y) for x in a for y in b] translates simply to:<p><pre><code>    ret = []
+    for x in a:
+        for y in b:
+            ret.append((x,y))</code></pre>",1321631386
+3252080,comment,3250034,3250179,1,0,kermitthehermit,,,"More like under fascist and corporatist pressure to let the bill pass.",1321631381
+3252079,comment,3251757,3251757,-3,0,kevinherron,,,"Clever girl.",1321631380
+3252078,comment,3251743,3251743,1,0,michaelty,,,"I love reading these files and finding something new to use. gdefault is definite going in.",1321631380
+3252077,story,,,4,1,prabhat246,"What do you use to develop desktop application. ",,"I know people are moving to browser based application but some people still want to have a desktop application and probably talking to online server. What is your choice of platform for a lightweight application and why?",1321631378
+3252076,comment,3250744,3251109,1,0,malandrew,,,"Next question: Why now? If this was being worked on for several years, why wasn't it released much sooner?<p>I have nothing against projects coming from Google. I'm all in favor of it. However I think Google acts as a much better open-source citizen when it adopts a posture like it has with HTML5. With HTML5, Google got involved early and publicly and one of their employees works as a benevolent dictator, which in the case of HTML5 is Ian Hixie.<p>When a project is released from some company, with no real defined ownership in the form of one human being or a small team at that company, it is a far less compelling project to get involved with, and the likelihood of a community being formed around it is low.",1321631348
+3252075,comment,3251915,3251915,3,0,jinushaun,,,"I agree. I get confused by this too. When I see google.com in the link title, I never know where it might go. Maybe G+, maybe a search, maybe docs, etc. I've seen it all on HN.",1321631339
+3252074,comment,3251580,3251916,2,0,bh42222,,,"<i>Strictly speaking, you can get a list of files in the directory. i.e., opendir() and readdir() will not return ""Permission denied"". However, you can't access any of the files within the directory.</i><p>Yes, and this is commonly used for the parent directory of a publically readable directory.<p>Fore example, you can't read or write anything in my home directory but you <i>can execute through it</i> to read stuff form my public_www directory.
+If the execute bit form my home is removed, that breaks my webpage.",1321631338
+3252073,story,,,3,0,edavis,"Learning About Work Ethic From My High School Driving Instructor",http://www.theatlantic.com/life/archive/2011/11/learning-about-work-ethic-from-my-high-school-driving-instructor/248339/1/?single_page=true,,1321631338
+3252072,comment,3251915,3251915,2,0,molecule,,,"I generally skip ""(google.com)"" articles because of this.",1321631317
+3252071,comment,3251597,3251597,4,0,jablan,,,"I wonder why they went for Android instead of some light Linux distro. Not sure what's the point of having Android on a huge LCD.",1321631304
+3252070,comment,3248916,3250749,2,0,admiralpumpkin,,,"Which means that sppi is lower, since the NP has a much bigger screen.",1321631290
+3252069,story,,,1,0,jpmc,"Five Misconceptions On Cloud Portability",http://highscalability.com/blog/2011/11/17/five-misconceptions-on-cloud-portability.html,,1321631272
+3252068,story,,,1,0,MikeCorso,"How to create Facebook fan pages EASILY",http://www.coolsiteoftheday.com/2011/11/newfacebook-profile/,,1321631227
+3252067,comment,3250330,3250694,3,0,mindcrime,,,"Who cares what Ron Paul thinks about evolution?  He doesn't believe it's the government's job to cram creationism down kids throats, so what he personally believes is fairly irrelevant.   And anybody who knows anything about Ron Paul knows that he isn't some ignorant, fundamentalist bible-thumping hick like Mike Huckabee... Ron is a freaking medical doctor who got his degree from Duke.  He's clearly an intelligent man, who just happens to have this one quirky religious thing going on.  And lots of very intelligent people are conflicted over the whole evolution / creationism thing, because of their religious beliefs.<p>Not a big deal, IMO.",1321631226
+3252066,comment,3251407,3251407,2,0,tgrass,,,"First time learning of this. I am not concerned with the possibility of my domains being maliciously duplicated on .xxx by someone else; if this becomes a serious problem, I have little doubt Google et al will take care of it in the search returns.",1321631206
+3252065,story,,,1,0,TWaHH,"Sharing The Empower Network Vision",http://workwithbobspiro.com/2011/11/13/sharing-empower-network-vision/,,1321631187
+3252064,comment,3249396,3250126,1,0,billpatrianakos,,,"I think what his message is meant to be taken in the ""Free Software"" sense. You know, proprietary anything is evil, all software should be free, hippies rule the new utopia and all that. I won't speak for Microsoft as I'm not sure how they do it but what you mentioned with Apple and iTunes is pretty much it right there. What people who repeat this message forget is that this ""lock-in"" is not bad or evil to many people. Sure, the hackers want to install their own apps and use alternative app stores and all that in which case I'd say find another (or create another) platform. My mother and the vast majority of consumers want to tap their screens a couple of times and get a cool app. It's not lock-in to them. To them it's easy and convenient. Technology is for everyone, not just those l33t enough to hack.",1321631180
+3252063,comment,3251557,3252038,1,0,spaznode,,,"The thing is that you really ~can~ just say that. Statistical analysts aren't f-ing around when it comes to analyzing data and are capable of some extremely magical things that you can't just ""pick up"" randomly simply by working on data a lot.<p>Just like you can't randomly understand the fundamentals of software engineering like data structures & algorithms without first studying the concepts directly.<p>Hey I'm totally fine if people don't like what they're reading though. It gives me a competitive edge for any company I work for if everyone else is against the idea. ;)",1321631178
+3252062,story,,,1,0,Yoanna_Savova,"The Mystery of CAP measurement",http://www.cloudsigma.com/es/blog/2010/08/28/9-cloud-server-benchmarking,"also revealed by http://www.cloudsigma.com/es/blog/2010/08/28/9-cloud-server-benchmarking",1321631172
+3252061,comment,3248916,3251385,1,0,bnr,,,"Apps like SSHDroid and SMBDroid can make your phone act as a file server on WiFi.<p>MTP allows the storage to be accessed by the phone and computer at the same time.",1321631160
+3252060,comment,3251471,3251471,12,0,jcc80,,,"While it's clear SOPA isn't going anywhere, my concern is that the ""next"" SOPA won't be so extreme and hence, the outrage will be muted. All they need is a foothold to build off of. Luckily they were dumb this time and tried to go big.",1321631146
+3252059,comment,3251993,3251993,2,0,CJefferson,,,"Before anyone else reads all the way through, this seems to actually be a (high level) article about just iPhone Mobile UIs, not general Mobile.<p>I deduce this (possibly incorrectly) because the only mention of Android is on the second to last slide: ""Android is broken, though"".",1321631144
+3252058,comment,3249678,3252039,1,0,gnaritas,,,"For any reasonable definition of consciousness, no.",1321631125
+3252057,story,,,1,0,bitdefender,"Research Reveals Significant Malware Threat Targeting Businesses",http://www.bitdefender.co.uk/security/research-reveals-significant-malware-threat-targeting-businesses.html,,1321631106
+3252056,comment,3251133,3251692,5,0,Bobby_Tables,,,"You say that like it's a bad thing!",1321631075
+3252055,comment,3250093,3251835,2,0,ajuc,,,"Mouse can't be perfectly copied. Code can.<p>If biologists could copy mice from other experiment to give them their own drugs and compare results, they would surely do this along with using their own mice.<p>The more ways to compare experiments, the more sure we will be about results.<p>I understand cleaning up code is a lot of work, so don't do it, just release it as it is. I know it will be ugly, will include obscenity, etc. If somebody need it, it will do the rest of work.",1321631060
+3252054,comment,3249982,3250927,3,0,hvs,,,"The first thing that happens (after the TOS) when you go to the App Store is it asks you if you want to download your free version of iBooks.",1321631059
+3252053,comment,3252040,3252040,1,0,jayniz,,,"This app is for people who already know what to do at the gym and don't want an app full of unnecessary videos/pictures/exercise lists etc.<p>Let me know what you think!",1321631052
+3252052,comment,3249678,3250901,1,0,Cushman,,,"You would think this, but the quantum erasure experiment appears to demonstrate that a photon which has been marked so as to determine its path and then subsequently randomly unmarked so as to irretrievably destroy that information once again displays interference. The delayed choice quantum eraser appears to demonstrate that this decision to either record or destroy path information may be delayed until <i>after</i> the reference photon has arrived at the detector, with corresponding absence or presence of interference.<p>It's not just about interaction causing collapse, or, if it is, a particle which has been interacted with and collapsed may be subsequently <i>un</i>interacted with and <i>un</i>collapse back into a wave.<p><a href=""http://en.wikipedia.org/wiki/Quantum_eraser"" rel=""nofollow"">http://en.wikipedia.org/wiki/Quantum_eraser</a>
+<a href=""http://en.wikipedia.org/wiki/Delayed_choice_quantum_eraser"" rel=""nofollow"">http://en.wikipedia.org/wiki/Delayed_choice_quantum_eraser</a>",1321631046
+3252051,comment,3251743,3251743,4,0,mmavnn,,,"<p><pre><code>    function! NyanMe() "" {{{ ...
+</code></pre>
+I very much hope that's just there as an easter egg for those of us who read to the bottom.",1321631040
+3252050,comment,3251877,3251877,4,0,yread,,,"Hmm this story seems to be posted in a good time. Coincidence?",1321631029
+3252049,comment,3251557,3251974,1,0,pessimizer,,,"That's not an argument, just a weird insult.",1321631023
+3252048,comment,3251877,3251980,11,0,pgroves,,,"It's a nice visualization.<p>One more suggestion: Do label the time zone. even if it correctly detects the user's time zone, that's unexpected on the internet. Plus you don't label 'current' time... for all I know it's a Time Zone ahead but only updates once an hour. Anyway, all confusion goes away with a label.<p>Edit: Took out references to my personal time zone",1321631000
+3252047,story,,,1,0,cborgrx,"Hemorrhoids Pictures",http://www.treathemorrhoids.org/hemorrhoids_pictures.html,,1321630975
+3252046,comment,3251877,3251877,5,0,JonnieCache,,,"I've always just checked the age of the story at the bottom of the new page, but this is a big step forward. Nice work.",1321630962
+3252045,comment,3251877,3251952,1,0,cookiecaper,,,"><i>You should label and explain the axes and sliders. I have no idea what the numbers mean, or what the ""pickup ratio"" is.</i><p>Left-click on the graph.",1321630961
+3252044,comment,3249678,3249678,2,0,cygx,,,"I didn't read the paper yet and it really might contain some valuable insights into the nature of quantum mechanics (I'll take a look at it later today), but I find this debate about whether the wave-function is a real object or not hilarious: It completely fails to take into account that the wave function is not defined on space-time, but rather on an abstract configuration space - it confuses the mathematical model with physical reality.<p>The general problem with QM is that it's an algebraic and not a geometric theory, ie you know the rules, but have no real concept about what they mean. However, QM strongly resembles the Hamilton-Jacobi formulation of classical mechanics, and the geometry of that is known (see eg <a href=""http://arxiv.org/abs/math-ph/0604063"" rel=""nofollow"">http://arxiv.org/abs/math-ph/0604063</a> ).<p>The quantum numbers basically select a leaf of the foliation of our phase space, and the wave function is some sort of probability distribution on that (but not really ;)), which can be represented by a function on configuration space (which is, in general, NOT space-time, in particular if multiple particles are involved).<p>It's closest classical analogon is the action function S (or rather, its differential dS), and you don't see many people arguing that dS is a real object: it doesn't make a lot of sense to do so, and the same holds true for the wave function.",1321630956
+3252043,comment,3251877,3251877,5,0,tszming,,,"The text  on the graph is hardly readable on Windows/Chrome",1321630946
+3252042,comment,3249982,3251441,1,0,MatthewPhillips,,,"Yes, I also found that peculiar. I wish he had explained what he meant by that. Are all of the other Kindle Fire reviews not from humans? I'm confused.",1321630942
+3252040,story,,,2,1,jayniz,"Rate my app: Gym Hero (minimalist workout tracking for iPhone)",http://www.gymheroapp.com,,1321630888
+3252039,comment,3249678,3251972,1,0,StacyC,,,"I get that particles dont know anything, thats why I put it in quotes. But then again, how do we know they dont know anything? Could elementary particles possess a form of consciousness?",1321630861
+3252038,comment,3251557,3251557,3,0,kevinalexbrown,,,"Defining Data Science as ""exploration and invention"" and Business Intelligence as ""the same old reporting on the top of big data"" is just silly. You can't just say ""Data Science is inventive, innovative, and great Statistics"" but ""Business Intelligence"" is old, crotchety, bad Statistics. That just seems pedantic to me.",1321630834
+3252037,story,,,1,0,aarenjohnson,Aarenjohnson,http://xhtmljunkiesnotscam.weebly.com/,"Hire xhtmljunkies after reading its review. Xhtmljunkies.com is the famous website for web developing & designing websites. We provide best and high
+quality services at competitive rates.",1321630817
+3252036,comment,3251743,3251970,17,0,billybob,,,"I feel exactly the opposite. The previous editors that I used required configuration through a menu system. I wouldn't have known how to take that with me elsewhere.<p>With Vim, all my configuration is in files, which can be backed up. I have them in a dotfiles repo on Github. As I make tweaks, I regularly pull and push from my various computers and they are always up to date. If I'm on a computer that doesn't have my .vimrc, I'm just a `git pull` away from having it. (Same goes for zsh config, etc.)<p>The most likely time for me not to have my .vimrc is when sshing into a server, in which case I can use stock vim just fine. If my main editor were a GUI, I wouldn't have it available at all, so I think Vim has a leg up in that, too.",1321630801
+3252035,comment,3251597,3251748,1,0,dspillett,,,"Apparently the target cost is $200.",1321630788
+3252034,story,,,1,0,kemper,"IPhone 4S carrier showdown: AT&T fastest, Verizon most reliable",http://www.bgr.com/2011/11/18/iphone-4s-carrier-showdown-att-fastest-verizon-most-reliable/,,1321630766
+3252033,comment,3251691,3252015,2,0,rdtsc,,,"I got that, however he followed it by the statement that US posts factual information, implying that only other side is somehow trying to influence public opinion but US is posting just facts. Making it seem as it is ""propaganda"" vs ""facts"".<p>So I made up a stupid example to show how even presenting facts in a certain way is enough to completely skew the type & tone of the message.",1321630747
+3252032,comment,3250330,3250782,2,0,sp332,,,"<i>The Internet has worked fine without regulation for so many years.</i><p>Ummmm, no. Markets are segregated and each municipality grants a franchise to a specific company. Most markets in the USA have one cable company, one phone company, plus maybe some wireless and satellite coverage.<p>ISPs have been given billions of dollars in federal subsidies. Also, there are strings attached to every one of those dollars.<p>The FCC and FTC have pretty restrictive regulations regarding spectrum usage, how much power you can push over phone lines, etc.<p>There is a lot of regulation on the internet in the USA, which is why we can't let the market settle the Net Neutrality issue.",1321630723
+3252031,comment,3251413,3251648,1,0,evmar,,,"This got me too -- I thought the reason the code was ""the strangest"" was because the double-loop was nested the wrong way.",1321630713
+3252030,comment,3251258,3251523,2,0,robinwarren,,,"Signed up for hackerjobs.co.uk just before I posted this actually, although it'd be nice to have a bit more info on that page about what it will be.<p>I was going to caveat things more in the description but wanted to avoid going off on a ramble. Didn't want to insult anyone, so sorry if I made you sad on a Friday. I know there are good guys out there and I've been lucky enough to deal with some of them. However there are sadly some recruiters giving the profession a bad name, but I think you know all about that.",1321630698
+3252029,story,,,1,0,switz,"Kindle Fire Added to Apple's Amazon Lawsuit",http://www.macrumors.com/2011/11/18/app-store-updates-ipad-swiping-chinese-yuan-kindle-fire-added-to-amazon-lawsuit/,,1321630661
+3252028,story,,,1,0,jessicaleilani,"Christian Colleges Had Great Fun This Halloween",http://www.liberty.edu/,,1321630661
+3252027,comment,3251915,3251915,3,0,z_,,,"Indeed, this would be great for filtering out random weblogs as well.",1321630658
+3252026,story,,,1,0,concordgroup,"Car Rental Tbilisi",http://concordmotors.ge,"Concord Motors - leading car rental company in Georgia, providing its luxury services in Tbilisi as well as in the regions of Georgia. Concord Motors offers a full package of transportation services to the passengers and travellers visiting Georgia and South Caucasus. The company has exclusive services for business travellers.",1321630655
+3252025,comment,3248916,3251967,2,0,ZeroGravitas,,,"Are you talking AMOLED or pentile? AMOLED has a distinctive color-cast at low brightness and a color gamut that exceeds the standard which can make it look cartoony, but so do other screens e.g. the iPhones 3 and 4 which have too small a range and can look washed out as a result. The banding sounds like an AMOLED problem too (unless you mean the ""stippling"" type effect you can see if the pixels are big enough).<p>But neither of your complaints appears to be related to pentile vs RGB stripe. If you're talking about low pixel density then it's the same Mac OS vs Windows text rendering debate. There's not enough pixels so which kind of ugly do you prefer (or are you used to)? Some people like the hand wrangled pixels, other just let it fall where it lands. Things designed for one system will look worse on the other and especially bad to people who prefer the other look.",1321630652
+3252024,comment,3251743,3251977,1,0,agscala,,,"This is what I do.  I can clone a git repo, run an install script, and have my typical vim setup running in a trivial amount of time.",1321630605
+3252023,story,,,1,0,concordgroup,"Tour Operator Georgia, Caucasus Conord Travel",http://concordtravel.ge,"Tour operator Concord Travel Georgia Caucasus offers you different kind of tours including cultural tours, adventure tours, rafting on the rivers, ski holidays in wonderful Georgian ski resorts Bakuriani and Gudauri.",1321630573
+3252022,story,,,3,0,EwanToo,"The web's worst passwords",http://www.guardian.co.uk/money/blog/2011/nov/18/worst-computer-passwords,,1321630555
+3252021,comment,3251691,3251691,-1,0,DavidAdams,,,"Reminds me of that famous XKCD comic, only someone is doing it as a job: <a href=""http://xkcd.com/386/"" rel=""nofollow"">http://xkcd.com/386/</a>.  ""Duty Calls"" indeed.  I wonder however whether we should be heeding that great and wise axiom, which I believe it was Sun Tzu who originally said: ""don't feed the trolls."" Nobody has been able to talk Glenn Beck out of his idiotic ideas, and the fact that there are people out there ""engaging"" with his fans with true facts doesn't seem to do anything but feed their persecution complex. This could very possible be a waste of time at best, and fanning the flames at worst.",1321630552
+3252020,comment,3247925,3251664,1,0,danssig,,,">Here you did sweeping personal attacks on Perl programmers<p>Again, you're projecting.  I said ""perl <i>fanboys on this site</i>"".  That's much less broad but you seem to not realize there is anything else?<p>>start writing personal attacks there<p>Why do you take fair critiques of the language as <i>personal</i> attacks?  I think you need to read pg's essay about ID again.<p>>Get a life or start writing code for a hobby.<p>Again with the personal attacks.  I have a life and I code for a hobby.  That doesn't stop me from correcting fan boys who spread misinformation or distortions of the truth.",1321630551
+3252019,comment,3250199,3251197,1,0,caw,,,"I signed up to see what it'll be like.<p>I took an entrepreneurial class that sounds like this at Georgia Tech, run by Merrick Furst (who has now started up the an incubator of sorts => <a href=""http://flashpoint.gatech.edu"" rel=""nofollow"">http://flashpoint.gatech.edu</a>). The course was team based, go out and iterate. Every time to class you found out what you did wrong over the past week so you'd go and redo part of it.<p>I suspect this course is going to be rather similar, but different perspectives are always good.",1321630513
+3252018,comment,3248853,3251144,1,0,simcop2387,,,"I'd probably check to see if they had a valid login already and not update the cookie.  Not sure if that opens up other holes though.",1321630490
+3252017,comment,3251915,3251915,6,0,xdissent,,,"This happens with <username>.github.com as well and often confuses me.",1321630477
+3252016,comment,3251877,3251952,1,0,marquis,,,"I think it's more related to North American lunch breaks and end-of-the-day? I'm on HN now because I take Fridays off for research, but otherwise not much time during the week except for breaks and after hours. I'm not sure how that will change knowing something we all know..",1321630473
+3252015,comment,3251691,3251994,2,0,JonnieCache,,,"He is simply saying that there's no such thing as anti-propaganda by definition, there can only be propaganda from opposing viewpoints. It's mainly a linguistic distinction. Chill out. He's almost agreeing with you.<p><i>>Please... Your only excuses is if you are being sarcastic or are actually getting paid to say that.</i><p>Nobody has to provide you with an ""excuse"" for their views.",1321630463
+3252014,comment,3251471,3251471,8,0,maeon3,,,"The big companies would censor the data stream between my motor cortex and muscles if they could.  But that is ridiculous, so they will settle for censoring the streams between all computers.  Remember, in 50 years we will all have onboard computers integrated with our thoughts.  we must program freedom right into the fabric of the net.  As free as the signals between my liver and brain.",1321630449
+3252013,comment,3250330,3251268,6,0,ceejayoz,,,"Predicting Ron Paul's opposition of legislation is hardly prescient. Heh.",1321630434
+3252012,comment,3248915,3249301,1,0,hkarthik,,,"Can you not start writing tests against those monster methods so that you've got a refactoring safety net?<p>I totally agree on being practical and not refactoring methods that work correctly. But if you find yourself in the monster methods making changes quite often, it seems irresponsible to not refactor and leave the camp ground cleaner for the next time you or someone else comes through it.",1321630434
+3252009,comment,3250140,3250140,1,0,losethos,,,"Ba ha.  Enemy thinks I infringed patents.  They don't know what ""trivial solution"" means.<p>God says...
+C:\LoseThos\www.losethos.com\text\QUIX.TXT<p>ek, like one in deep
+dejection. Seeing him in this mood, looking so sad, Don Quixote said to
+him:<p>""Bear in mind, Sancho, that one man is no more than another, unless he
+does more than another; all these tempests that fall upon us are signs
+that fair weather is coming shortly, and that things will go well with
+us, for it is impossible for good or evil to last for ever; and hence it
+follows that the evil having lasted long, the good must be now nigh at
+hand; so thou must not distress thyself at the<p>--------------<p>Highs and lows balance.",1321630316
+3252008,story,,,1,0,mmogport,"Drakensang Online Key",http://mmog-portal.de/drakensang-online-key-kaufen-mit-bonus-code,,1321630300
+3252007,comment,3250330,3251527,3,0,dignan,,,"That's precisely the problem.  He's out there at the defense contractors, but since when were the defense contractors his constituents?",1321630294
+3252006,comment,3251471,3251656,5,0,lobo_tuerto,,,"Don't be, it happens sometimes when we contribute something that isn't considered helpful or contributive to the discussion going on. I have been downvoted a lot of times, but meh, sometimes you gain points sometimes you lose them.<p>I exercised an ability in a case I deemed necessary. Come on, a two word expression with no explanation whatsoever? I saw you did explain yourself after you got downvoted and I'm sorry you got downvoted again (I didn't do that, in case you are wondering).<p>The point is, I wouldn't have downvoted you if your first comment was as well explained as your second one.",1321630235
+3252005,comment,3249678,3250901,1,0,Anderkent,,,"That part is not mysterious either - the collapse simply doesn't occur.<p>Say you have a photon in a superposition of state A and state B - think position. If it is in state A it hits a detector, if it is in state B it does not. If the detector is hit, it displays 'HIT' on its screen - otherwise it does not. If 'HIT' is displayed, the researcher thinks photon was in state A, otherwise the researcher thinks it is in state B.<p>The result of the experiment, without any wavefunction collapse, is a superposition of two states of the entire system:<p>State 1: Photon is in A, Detector was Hit, Researcher thinks photon is in A<p>+<p>State 2: Photon is in state B, detector was not hit, researcher thinks photon is in B.<p>As you can see, the fact that the researcher never sees a photon in a superposition of states a+b (he doesn't ever see the detector both lit up and not) is explained without any wavefunction collapse.",1321630224
+3252004,story,,,2,0,navatux,"Y Combinator: Bookmarklet",http://ycombinator.com/bookmarklet.html,,1321630222
+3252003,comment,3250330,3251715,2,0,sp332,,,"They'll come up with a bill which is less objectionable in these areas in exchange for a lot of favors and other, probably completely unrelated clauses being added.",1321630178
+3252002,comment,3251743,3251970,2,0,loire280,,,"This is why I stick pretty close to stock vim - I use it on too many remote systems to worry about keeping my environment consistent. I could automate something, and maybe when our sysadmin finishes integrating puppet into our servers I can use that, but in the meantime, my .vimrc is just syntax highlighting and tab settings.",1321630156
+3252001,story,,,12,19,jeremyjarvis,"Google+ continues battle with fading user interest",http://latimesblogs.latimes.com/technology/2011/11/google-plus-traffic.html,,1321630153
+3252000,comment,3251993,3251993,1,0,hdragomir,,,"I thought I'd share my learnings that I presented at Berlin.js yesterday with everybody",1321630121
+3251999,story,,,1,0,protomyth,"Microsoft software would detect, score and report obnoxious workplace habits",http://www.geekwire.com/2011/microsoft-software-detect-obnoxious-workplace-habits,,1321630115
+3251998,comment,3251133,3251918,2,0,Retric,,,"Technically, the way the law works is based on what a jury is willing to accept.  As I would not accept the first interpretation and I would accept the second it's something of a grey area.",1321630115
+3251997,comment,3249948,3250625,-1,0,beagle3,,,"That's how it is <i>supposed</i> to work, but it never does if you are politically wealthy and well connected, and rarely does if you're a nobody.<p>Unfortunately for Swartz, he is neither - on the contrary, he's been constantly and loudly criticizing the government, so he gets the ""by the book"" treatment to its worst possible conclusion.",1321630113
+3251996,story,,,93,54,RyanMcGreal,"Linus Torvalds: Locked Down Technologies Lose in the End",http://mashable.com/2011/11/18/linus-torvalds-apple-lockdown/,,1321630108
+3251995,comment,3251743,3251970,6,0,rudenoise,,,"I totally agree. Personally I take the Robert De Niro approach:<p>""...become attached to nothing in life that you can't walk away from in 30 seconds if you spot the ""Heat"" around the corner.""<p>Except I apply this to customised/complicated software rather than ""things"" in my life.",1321630095
+3251994,comment,3251691,3251875,3,0,rdtsc,,,">  there being no such thing as anti-propaganda<p>(from Wikipedia) Propaganda is a form of communication that is aimed at influencing the attitude of a community toward some cause or position so as to benefit oneself or one's group.<p>So anti-propaganda is propaganda aimed at countering the message and effects of an opponent's propaganda<p>> through open exchanges and posting of factual material.<p>Please... Your only excuses is if you are being sarcastic or are actually getting paid to say that.<p>But ok, I'll bite. So which one of these is a factual statement?:<p>* Yesterday an American CIA drone killed Ahmed Behjzad, a 13 year old goat herder from Ungkmar village. His death left behind a grieving mother, father & sister.<p>* A group of militants have reportedly been killed by a US drone strike yesterday.<p>Oh look, they both contain factual information. Which one do you think US Air Force is going to blog about?",1321630095
+3251993,story,,,7,3,hdragomir,"Fast Mobile UIs: You're an Edge Case ",http://horia.me/fast-ui,,1321630081
+3251992,comment,3251142,3251945,2,0,alexholehouse,,,"I feel like antivirus software is less piratable than a lot of things though - you need to constantly update through a centralized server which checks your credentials (which are inevitably false if you've pirated the software).",1321630077
+3251991,comment,3251470,3251519,1,0,sjs382,,,"Talking about botany? It's a fruit.<p>Talking about food? It's a vegetable.",1321630067
+3251990,comment,3249396,3249396,1,0,billpatrianakos,,,"Over 100 comments here and most everyone seems surprised? The reporting in that article was complete crap. I don't like Microsoft but I don't see any evidence in this article for the claim that the BSA is a front for MS. That bit was recycled from a claim Some years ago in Uruguay which also doesn't totally make it clear that the BSA is a front.<p>Aside from the writer's total desperate reaching for a real story, let's all remember this is the BSA. the BSA has been independently campaigning to stop piracy by all means necessary for years now. How is this any shock at all that now they'd support SOPA? It's not Google supporting it, it's big ass software companies! Come on!<p>So you mention Apple in the title and we're all supposed to be shocked and horrified? We're supposed to be shocked that the company that just had record breaking profits is going to support a piece of legislation that is total dog shit for everyone but huge copyright holders?<p>Come on now. Let's cut the crap and be real. This is a non story. SOPA sucks, I love Apple, I'm still not moved.  Waste of time to read.",1321630059
+3251989,story,,,7,0,jeremyjarvis,"How Famous Companies Got Their Names",http://stocklogos.com/topic/how-famous-companies-got-their-names,,1321630058
+3251988,story,,,1,0,sathishmanohar,"Travelling abroad? Beware the death penalty",http://www.reprieve.org.uk/publiceducation/generalpublicdeathpenalty/,,1321629991
+3251987,comment,3251877,3251980,1,0,iambot,,,"Brilliant work, dont suppose you'd reveal (if you have one), your @twitter handle?",1321629961
+3251986,comment,3249982,3250762,1,0,ugh,,,"Thats always going to happen. I think that looking at the distribution of reviews and also reading a few negative reviews (because its generally possible to figure out whether reviews are negative for valid reasons) is very helpful.",1321629950
+3251985,comment,3251452,3251783,3,0,roam,,,"Look, noahc is absolutely right. If you think Notepad++ is holding you back when coding HTML and CSS, you're wrong. You need practice. So practice.<p>Have a look at PatternTap (<a href=""http://patterntap.com/"" rel=""nofollow"">http://patterntap.com/</a>) to find inspiration for specific bits of the UI. Find out how you would create your own in Photoshop/Gimp/Illustrator/Pixelmator/Paint. Maybe add a texture, find a better color scheme or change around the font.<p>Then build it with HTML/CSS/JS. Use Frontpage, Dreamweaver, Eclipse, Vim, Notepad++ or, hell, even regular Notepad. It does not matter.<p>Great designers use the tools they are comfortable with. Most use a tool such as Photoshop to build something tangible (a PNG, PSD or, if you're management-material, PPT). That let's them define the way the website should look under ideal circumstances without getting to hung up on the correct HTML and CSS. Then they cut that up and code it in HTML and CSS to create something useful.<p>That's what you need to practice. And if you're worried your designs look too ""Web 1.0"", you need to focus on the first part of that process: defining what it should look like, before opening up your editor of choice.",1321629945
+3251984,comment,3251877,3251877,10,0,wukkuan,,,"Very interesting!<p>However, I can't find any indication of what time zone you're displaying. Is it my time zone, GMT+0, or something else?",1321629942
+3251983,comment,3251123,3251123,1,0,properslang,,,"If there's one successful company making something that nobody else makes yet many people want, it seems like there has to be space. I'd go for it.",1321629935
+3251982,story,,,1,0,McClubin,"This Week In Social Media",http://blog.attentionusa.com/2011/11/this-week-in-social-16/,,1321629925
+3251981,comment,3251877,3251957,1,0,iambot,,,"Could the author identify him/herself? I think this is brilliant, and would like to web-stalk/follow whom ever created this. In a purely selfish-selfimprovement manner. :)",1321629880
+3251980,comment,3251877,3251877,12,0,zeratul,,,"Thank you very, very much. I will implement all your suggestions over the weekend. I was trying to make the app work with mobile devices, hence, skimpy use of the real estate.<p>- If you click on the graph you get the definitions.<p>- If you click at the title you get the visual analysis of the data (<a href=""http://hnpickup.appspot.com/hnpickup_ratio_visual_analysis.png"" rel=""nofollow"">http://hnpickup.appspot.com/hnpickup_ratio_visual_analysis.p...</a>)<p>- if you click at the link below graph is sends you to HN.<p>- the time is calculated on the client side and it should be Your local time - let me know if it's not the case (JSON data has UTC epoch time, though)<p>And yes: it is a catch-22 ;-)<p>EDIT: I don't like clutter on a web page. You can put a lot of information on what is what but you just need it ONE time, then it should go away. Maybe someday I will find a jquery plugin that will do the trick.",1321629869
+3251979,comment,3251743,3251970,10,0,zmanji,,,"This is why people place them on github or bitbucket. So it is very easy to clone the repo locally and then use the .vimrc. It is something you only have to do once per machine.",1321629863
+3251978,comment,3249672,3251160,1,0,aslakhellesoy,,,"I figured out why it doesn't work. It has nothing to do with private or public repos.<p>It doesn't work for projects that are under an organization. That would be nice to get fixed.",1321629858
+3251977,comment,3251743,3251970,6,0,ldh,,,"Does that computer have a network connection? Just store your plugins and settings in a git repo (a good idea anyway) and pull them down on whatever machine you're using.",1321629758
+3251976,comment,3251743,3251970,2,0,oops,,,"What editor do you use now?",1321629722
+3251975,comment,3251585,3251878,2,0,shahidhussain,,,"Prey will track up to three devices with a limited number of reports for free. If you pay (<a href=""http://preyproject.com/plans"" rel=""nofollow"">http://preyproject.com/plans</a>), you can hold more reports or track more devices.",1321629707
+3251974,comment,3251557,3251813,-4,0,spaznode,,,"Since I work daily with a group of these ""data scientists"", I can only assume your comment indicates that you have no idea what you're talking about.",1321629692
+3251973,comment,3251142,3251455,3,0,cjfont,,,"Google fanboy? Otherwise Linux would fit the bill, doesn't sound like anyone there is supporting SOPA.",1321629654
+3251972,comment,3249678,3251696,2,0,Anderkent,,,"That is very wrong. A particle doesn't 'know' it is being observed. However, when it interacts with other particles, the new state of both particles depends on the old states of both particles.<p>For a better explanation than I could possibly write here, see <a href=""http://lesswrong.com/lw/r5/the_quantum_physics_sequence/"" rel=""nofollow"">http://lesswrong.com/lw/r5/the_quantum_physics_sequence/</a>.",1321629654
+3251971,comment,3251133,3251673,9,0,beagle3,,,"If the principles behind SOPA were applied to other things,<p>- police would close gardening shops if someone <i>says</i> they saw a client bought anything that was later used to grow pot<p>- pharmacies would be shut down by the police for selling syringes if <i>someone says</i> one of these was used for drugs<p>- gun producers would be shut down for selling guns if one of them was <i>said to have been</i> used to commit a crime.<p>And if you think ""well, in theory, but of course it isn't going to be used like that"" - well, it definitely IS going to be used like that. DMCA is being used like that (and part of the reasons SOPA is being introduced is because DMCA has some fairness provisions that make it harder to <i>abuse</i> , even though it is very easy to <i>use</i> ).<p>Also, PATRIOT act was for terrorists, and wouldn't be used for anything else, right? That's why 99% of the times it was used have nothing to do with terrorism.<p>SOPA is <i>designed</i> to be abused the way those people cry about. Make no mistake. And you'll suffer its consequences like the rest of wolf criers, even if you wouldn't know it.",1321629622
+3251970,comment,3251743,3251743,3,0,LeafStorm,,,"That's one thing that worries me about using vim full-time: if I become reliant on a .vimrc or a set of plugins to use vim effectively, but I'm on a computer that doesn't have my .vimrc on it, I'm doomed.",1321629581
+3251969,story,,,1,0,seoservices40,"Gadget New: Windows Phones Are Getting Great Responses As New Gadgets",http://www.gadgetnew.org/2011/11/windows-phones-are-getting-great.html#.TsZ3VFmFkNI.hackernews,,1321629541
+3251968,story,,,1,0,hemancuso,"Unlock iPhone 3GS, 4 or 4S without hardware or software modification",http://9to5mac.com/2011/11/17/iphone-4s-can-reportedly-be-unlocked-without-any-hardware-or-software-changes/,,1321629504
+3251967,comment,3248916,3251360,1,0,flyosity,,,"Pentile may be great engineering but the colors it shows are not true, and it has significant banding across solid colors. As an interface designer, it makes my eyes bleed and my graphics look sub-standard.",1321629501
+3251966,comment,3251877,3251952,1,0,iambot,,,"I agree with the emphasis (link) on ""bad""/""good"" being confising, and agree with moving the link to ""submit"", and actually having an explination behind bad/good.<p>Still nice despite the catch22 though.",1321629499
+3251965,comment,3249396,3249766,4,0,billpatrianakos,,,"The chamber of commerce is amateur hour to Apple whereas the BSA actually has a bit of pull. There's a big difference.",1321629495
+3251964,comment,3251636,3251636,1,0,miksago,,,"Definitely worth a read, some really good words of wisdom in there, and some that are common sense, but sometimes common sense really does need to be written down.",1321629457
+3251963,comment,3251413,3251667,1,0,cousin_it,,,"Thanks! Ouch, indeed my code doesn't work. I didn't test it, but honestly expected it to work. In fact it still seems perverse to me that Python doesn't allow consistent right-to-left scoping in comprehensions! In other words, given a list of lists:<p><pre><code>    z = [[1],[2],[3]]
+</code></pre>
+Python wants me to write something like this:<p><pre><code>    [x for y in z for x in y]
+</code></pre>
+instead of the more natural-looking:<p><pre><code>    [x for x in y for y in z]
+</code></pre>
+Does this feel weird to anyone else? Are there any good reasons why Python can't allow both?",1321629452
+3251962,comment,3250016,3251120,1,0,mittermayr,,,"i'd love for you to check out my company and concept. i'd really love to hear your thoughts.",1321629429
+3251961,story,,,73,33,mrsebastian,"Galaxy Nexus and Ice Cream Sandwich: Android's inflection point",http://www.extremetech.com/computing/105815-galaxy-nexus-and-ics-androids-inflection-point,,1321629419
+3251960,comment,3251691,3251798,1,0,danssig,,,"This isn't ""fact checking"", this is just more US propaganda spreading.  Do you really think you're going to get a neutral, purely factual account from a member of the US military of all places?",1321629399
+3251959,story,,,1,0,TheNorba,"How To Sync Your Data From Social Networking Sites: SocialFolders",http://www.thenorba.com/en/2011/11/18/how-to-sync-your-data-from-social-networking-sites-socialfolders/,,1321629384
+3251958,story,,,1,0,retsced,"Natural Remedies for Impotence",http://naturalremedies-for.com/natural-remedies-for-impotence/,,1321629376
+3251957,comment,3251877,3251877,1,0,iambot,,,"thats pretty cool, as far as using/hackin HN for the best possible result (if thats what one is aiming for).<p>One this that got me though, in terms of usablity, is that me being at GMT+0 it was hard to determine if the far right of the graph was current or lagging?<p>but I'll definitely be checking this out in the future for launch planning etc.",1321629364
+3251956,story,,,1,0,digiwizard,"France to Rule on Samsungs iPhone Injunction December 8",http://www.macobserver.com/tmo/article/france_to_rule_on_samsungs_iphone_injunction_december_8/,,1321629359
+3251955,comment,3248911,3251436,1,0,quanticle,,,"Right. The question, however, was about working in the ""cloud"", which usually means that you just have access to the VMs, not to the underlying hardware. VMs are great, but there's nothing like root access to the <i>physical computer</i> to help you diagnose hardware issues.",1321629358
+3251954,story,,,1,0,tecnogram888,"Profit and Market Valuations",https://www.facebook.com/note.php?note_id=10150359364156712,"The wealth disparity we see today between the 99% and the 1% is due to our failure to price goods and services properly.  Market forces, supply and demand, the entire concept of economics upon which we use to price goods and services today is wrong.  If everything were truly priced appropriately, where an equal value of goods and services is exchanged from one party to another, how can there emerge the large wealth disparity that we are seeing today, or any at all for that matter?<p>My proposal is simple: goods and services are worth what they are worth, and consumers and merchants should be paying VALUE price for products, not MARKET price.  The concept of market price was invented, perhaps intentionally or unintentionally, to shield the eyes of the consumer from the blatant over-valuing of a product.<p>Hey, let me sell you this apple that cost $0.04 to produce and $0.10 to transport and $0.01 to stock for $0.99.  The extra $0.84 I'm taking is for profit, which not what I deserve for my efforts, but a testament of how well I can recognize the market opportunities to screw you.<p>Hey, let me sell you insurance, and here's how it works: I will get the smartest mathematicians to work as actuaries and ensure that you will end up paying significantly more money in the long run, since you have to support all my employees while on top of that turn me a profit, which by the way I will try to maximize regardless to your situation.<p>Hey, let me sell you stock, and here's how it works: it is priced as high as I can trick you into believing, and definitely not what it's actually worth at the moment, because ""it's what people think the stock will be worth in the future.""  Firstly, why would anyone agree to even the concept of buying something now at the price it will be in the future? Secondly, why would anyone believe it when someone tells you that's what it will be worth in the future: by definition that's knowing the future, which is IMPOSSIBLE.<p>Profit and market valuations are why there is the income and wealth inequality we are seeing today.  As long as they exist, there is not an equal exchange of goods and services, the equal sign does not hold, and there will exist inequality.",1321629354
+3251953,comment,3249678,3251696,2,0,gnaritas,,,"Particles don't know anything.  The way we see anything, even with our own eyes, is to analyze reflected photons. You can't see something without hitting it with something first and analyzing what bounces back.  Obviously, if you're bouncing photons off something, you're going to affect its state.  Usually this effect is negligible, but in the case of trying to watch individual particles, well, it's no longer negligible, it affects the experiment.<p>The problem is people tend to assume observation is passive, they think seeing something does't affect it; this simply isn't true at all.  Eyes only work because the sun is continually spraying and bouncing photons off everything.  Sight isn't passive at all, you need a photon source spraying photons everywhere, like a flash light.<p>What's strange about the doulbe slit experiment isn't that watching forces the particles to act like particles, that's the expected behavior all the time, the same as a single slit.  What's strange is that when you don't watch it, you get the interference pattern indicating a wave that isn't acting like a particle. That's not at all expected and indicates the particle is going through both slits and interfering with itself.  I'm a total layman as well, but that's my take on it.",1321629322
+3251952,comment,3251877,3251877,12,0,lpolovets,,,"Cool idea, although it might turn into a Catch-22: once people know what the best times to submit are, those will no longer be the best times to submit. =)<p>You should label and explain the axes and sliders. I have no idea what the numbers mean, or what the ""pickup ratio"" is.<p>Also, instead of linking ""bad"" below the chart, you should make it bold and link the word ""submit"" instead. I thought clicking on ""bad"" would take me to an explanation, not the HN submit page.",1321629318
+3251951,comment,3248853,3251508,2,0,adavies42,,,"you shouldn't redirect for pages either, 404s exist for a reason....",1321629318
+3251950,comment,3251762,3251924,8,0,alexchamberlain,,,"I believe Detexify came first",1321629305
+3251949,comment,3242772,3251228,1,0,Cushman,,,"Yes, it is. ""Circle jerk"" is a term used to denigrate someone who gives (in <i>your</i> view) unnecessarily effusive praise by comparing it to an adolescent sexual behavior. If you feel the praise is unwarranted, you're welcome to express that feeling -- and if you have evidence to support this, you're welcome to present it -- without the insult.",1321629268
+3251948,comment,3251834,3251834,1,0,nakkali_kuere,,,"Sonia Gandhi is a lair and killer.",1321629250
+3251947,comment,3251597,3251597,3,0,untog,,,"Fun concept. Does make me wonder about ChromeOS, though- everyone is going to Android, even for full computer devices. I don't blame them- you can install apps and do all sorts with Android, wheras ChromeOS is just a glorified browser.<p>Taking bets on when Google mothball ChromeOS for good.",1321629250
+3251946,comment,3249982,3250209,-2,0,e40,,,"If you want the power button on the top, then just rotate the device 180 degrees.  It works fine that way.",1321629244
+3251945,comment,3251142,3251845,1,0,cjfont,,,"On one hand there is a lot of pirating of antivirus software, and yet to some extent P2P does increase the need to have it installed on one's system (which may increase demand/business).",1321629243
+3251944,story,,,1,0,margaret24,"Leveraging Your Holiday Marketing Strategy",http://oneims.com/blog/2011/11/18/leveraging-your-holiday-marketing-strategy/,,1321629232
+3251943,comment,3251133,3251191,6,0,beagle3,,,"I'm not a satirist, and this is not TV, but:<p>congressman: Good day, sheeple. With prompting by the content industry, we are considering beheading everyone, because it has been shown that everyone sometimes plays back a tune in their head without paying royalties. We've tried to get you to admit and pay every time you do that, but that didn't work, and we have to do something -- it seems only beheading would solve the problem.<p>(people frantically writing letters)<p>congressman: Seems, from everyone's responses, we've gone too far. We've asked our content industry overlords, and they will apparently be ok if we only cut everyone's ears to start with, so that no infringing content can get into people's heads. But if that doesn't work well for music, we're not just going to take your eyes out to avoid infringing on videos -- we'll have to do the full beheading thing then.<p>(people sighing with relief) Well, that's a reasonable measure.<p>--<p>At least, that's my impression of the effectiveness of writing these letters. Congress just keeps introducing horrible bills, and the people have to win every time (which they hardly ever do), because every one of these bills includes the cumulative effect of the previously failed-to-pass bills.<p>EDIT: prompted->prompting, out->eyes",1321629199
+3251942,story,,,1,0,thenewsjockey,"More on Jan Lokpal Bill || thenewsjockey",http://www.thenewsjockey.com/comments/post-9lvT9KQu/More-on-Jan-Lokpal-Bill.html#.TsZ1i5nXg2E.hackernews,,1321629194
+3251941,story,,,1,0,GEET04,"Boston, Meet the i-lab: The Future of Entrepreneurship Begins Here",http://www.xconomy.com/boston/2011/11/17/boston-meet-the-i-lab-the-future-of-entrepreneurship-begins-here/,,1321629165
+3251940,comment,3249678,3251850,2,0,Anderkent,,,"As many classical metaphors for quantum mechanics, your explanation is intuitive, convincing, and demonstrably wrong.<p>There is simply no way to describe the underlying mechanisms of this world using classical physics. However, since our brains are used to the classical picture, the metaphors seem true at a glance.",1321629163
+3251939,story,,,4,2,grellas,"Lenseless glasses all the rage in Hong Kong where many are myopic",http://online.wsj.com/article/SB10001424052970203699404577044020959385832.html?mod=WSJ_hps_RIGHTTopCarousel_1,,1321629154
+3251938,comment,3251471,3251598,7,0,thehigherlife,,,"A little irony here:  My work's content filtering app blocks this (<a href=""http://www.tumblr.com/protect-the-net"" rel=""nofollow"">http://www.tumblr.com/protect-the-net</a>) pages' content.",1321629151
+3251937,comment,3251171,3251457,3,0,justinschuh,,,"You're implying a controversy here that simply does not exist. Firefox never had support for h.264 to drop in the first place, because the licensing model is (justifiably) unacceptable to Mozilla. And Google is still entirely committed to WebM. It's just that dropping dropping h.264 from Chrome requires quite a bit of coordination to ensure that the vast majority of content remains accessible--particularly with regards to Google properties.",1321629123
+3251936,comment,3251877,3251877,2,0,svmegatron,,,"Cool!  Can you put the graph and the text on a single page, and make them both bigger?",1321629110
+3251935,comment,3251743,3251743,0,0,xerxes2001,,,"Can we now have a long discussion about profanity in dotfiles?",1321629104
+3251934,story,,,2,0,protomyth,"Spotify loses music from over 200 labels | thinq_",http://www.thinq.co.uk/2011/11/17/spotify-loses-music-200-labels/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thinq%2Frss+%28Latest+from+thinq_+%29,,1321629082
+3251933,story,,,1,0,Yoanna_Savova,"Is There Such Thing as a Private PaaS?",http://www.infoworld.com/d/cloud-computing/cloud-app-dev-goes-private-179024,,1321629070
+3251932,story,,,1,0,SamadKhan,"Don't blame Anonymous for Facebook porn storm, says researcher",http://mimosaciti.com/blog/2011/11/dont-blame-anonymous-for-facebook-porn-storm-says-researcher/,,1321629017
+3251931,comment,3251471,3251858,3,0,Merrack,,,"Once you hit 500 karma it ""unlocks.""",1321629004
+3251930,story,,,2,0,hkarthik,"I just don't like Object Mappers",http://openmymind.net/2011/11/18/I-Just-Dont-Like-Object-Mappers/,,1321629000
+3251929,story,,,1,0,DanielRibeiro,"Clojure and Processing",http://tech.puredanger.com/2011/11/17/clojure-and-processing/,,1321628943
+3251928,comment,3251743,3251743,9,0,zmanji,,,"I think that having all of this in one file is too crazy. I suggest putting some of the stuff in the appropriate files in ftplugins, etc in your ~/.vim directory.",1321628938
+3251927,comment,3251585,3251884,1,0,drzaiusapelord,,,"I don't know what version of the GPL they are licensed but all they need to do is release their code and they are compliant. I think VLC didn't like the DRM wrapper around their software (or whatever Apple does), demanded the code for it, and were told no.  If I can take the code and compile the software, then I'm good. I don't need to app store code to make it work.<p>You can have GPL'd apps in the app store. The VLC guys are just more demanding than the license itself. I guess there could be some issue with GPL3 and its DRM restrictions, but this should work with GPL2.",1321628901
+3251926,comment,3249982,3250768,1,0,nhangen,,,"I don't think accounting for price is equivalent to him cutting slack for the Fire.<p>However, to answer your question:<p>Any Android or WebOS tablet on the market still.
+The Nook Color
+Older Kindle models
+iPod Touch (Same price class, similar features)<p>Yes, the iPad SHOULD be in the conversation, but just as it defined the tablet market, so too did the Kindle define the e-reader market. It's a brand new market, and I have a hard time believing it's never going to evolve or see a worthy competitor.",1321628899
+3251925,story,,,1,0,NickT84,"How Can I Be Taller  The Importance Of A Good Posture | Ways To Become Taller",http://ways-to-become-taller.com/2011/how-can-i-be-taller-the-importance-of-a-good-posture/,,1321628878
+3251924,comment,3251762,3251762,1,0,sp332,,,"Looks a lot like Shapecatcher for Unicode: <a href=""https://news.ycombinator.com/item?id=3222964"" rel=""nofollow"">https://news.ycombinator.com/item?id=3222964</a>",1321628877
+3251923,story,,,1,0,davidedicillo,"Lets Pick A Phone",http://blog.cocoia.com/2011/lets-go-buy-an-android-phone/,,1321628862
+3251922,comment,3248406,3251546,1,0,tarkin2,,,"120.7 billion for the year 2007. From wiki.<p>It's not so much it just has budgetary powers, but it must also approve most of the EU directives: <a href=""http://en.wikipedia.org/wiki/European_Parliament#Legislative_procedure"" rel=""nofollow"">http://en.wikipedia.org/wiki/European_Parliament#Legislative...</a>",1321628839
+3251921,comment,3251691,3251691,3,0,kevinalexbrown,,,"It's the combination of things like this, and SOPA that get me worried. They're well intentioned, and I agree with those intentions. But when the US government is simultaneously fact-checking, and website-regulating, it's not too much of a stretch to require US websites which are ""confusing or harmful to consumers"" to provide ""correct facts"" about the US government, instead of just posting online in forums.",1321628837
+3251920,story,,,1,0,draggnar,"Stuxnet 2.0? Infected Control System May Have Caused Explosion",http://debka.com/article/21496/,,1321628832
+3251919,story,,,1,0,SamadKhan,"How To Repair A Corrupt Windows 7 Installation",http://mimosaciti.com/blog/2011/11/repair-corrupt-windows-7-installation/,,1321628812
+3251918,comment,3251133,3251435,7,0,beagle3,,,"That's very naive. It would be that someone's staffer who broke the law, that staffer having the good faith belief, and the representative would have good faith belief in his staffer. By the transitive property of good faith belief among people in politics, that would make them all clean.<p>However, when your 8 year old daughter who shared an Miley Bieber mp3 had good faith belief she was ok because everyone is doing -- that is untrustworthy, and the fact that <i>you</i> have good faith belief in her intentions does not clear you of anything. You'll go to jail or pay a hefty sum.<p>That's how laws really work. Not the way they common knowledge assumes.",1321628775
+3251917,comment,3251488,3251607,1,0,rubinelli,,,"Every company with more than a few hundred employees has enough projects in its pipeline for a couple of years. Copying an unproven product, no matter how great it looks, probably won't get pushed to the front of the line. Now, reversing the question, what if one of these companies launches a product similar to yours before you do?",1321628730
+3251916,comment,3251580,3251580,7,0,js2,,,"<i>In the UNIX world execute permission on a directory means that you can CD into it; with it removed the directory cannot be accessed (i.e. you can't get a list of the files in the directory)</i><p>Strictly speaking, you can get a list of files in the directory. i.e., opendir() and readdir() will not return ""Permission denied"". However, you can't access any of the files within the directory.<p>BTW, sounds like something you'd see in an Adobe installer.",1321628727
+3251915,story,,,115,12,samirahmed,"HN Needs to add URL Sub Domains for Google",,"Is there anyway that HN could add subdomains to domain that is displayed near titles.<p>Otherwise I can't tell if this links to Google or to some random person's Google Plus account<p>For example,<p>The best data scientists are curious and entrepreneurial (google.com)<p>Determine someone's height using Google (google.com)<p>The first goes to Google Plus, the second goes to Google Search, I would think that I am not the only one who is mislead...",1321628629
+3251914,comment,3250330,3251341,-1,0,ja30278,,,"Consider the situation in which most subscribers of Comcast in your area wanted to switch..if there are enough of them to build a business, that strong 'latent' demand is a market waiting to happen.",1321628589
+3251913,story,,,35,0,grellas,"B&N before the ITC as it pushes patent misuse claims against Microsoft",http://www.groklaw.net/article.php?story=20111116222255905,,1321628584
+3251912,story,,,1,0,prtk,"Really awesome tool for PDF editing - PDFescape",http://www.pdfescape.com/,,1321628578
+3251911,comment,3249678,3251850,2,0,mikeash,,,"Bell's theorem proves that your ""rational"" theory with state that exists but can't be observed can't work: <a href=""http://en.m.wikipedia.org/wiki/Bells_theorem"" rel=""nofollow"">http://en.m.wikipedia.org/wiki/Bells_theorem</a><p>Note: I'm pretty physics-clueless, so take this with a grain of salt.",1321628559
+3251910,comment,3249396,3250522,1,0,billybob,,,"Under this system, how can a new party gain traction? Can they spend their own money if they don't have public funding? And if so, why would established parties NOT spend their own money if they have more than public funding will provide?",1321628496
+3251909,comment,3250093,3251868,1,0,jonhendry,,,""" discount their results without having to redo their experiment, potentially saving years of work and millions of dollars.""<p>Or you could just analyze their data using their described methods and your own implementation.",1321628465
+3251908,story,,,3,0,illdave,"WolframAlpha can now tell you which planes are flying above you",http://blog.wolframalpha.com/2011/11/17/taking-to-the-skies-with-wolframalpha/,,1321628438
+3251907,comment,3251585,3251884,1,0,dtorres,,,"There is a lot of open sourced apps in the App Store, so i'm guessing is not.",1321628409

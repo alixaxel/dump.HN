@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26115,story,,,1,0,bootload,"Virtual Brilliance, Virtual Idiocy",http://www.goertzel.org/blog/2006/11/virtual-brilliance-virtual-idiocy.html,,1180864444
+26114,comment,26009,26009,0,0,ced,,,"Maybe Google is priming itself for an aquisition by the DoJ.<p>There's gotta be some kind of technological solution to the problem of data centralization and privacy, without sacrificing usability. <p>Maybe desktop software will make a comeback as a solution. Javascript is already a client-side technology.  Gmail could run entirely in Javascript 7.0, fetching and sending data in encrypted form from the GoogleDrive, and decrypting it entirely on the user's computer, with a user-supplied key.",1180864108
+26113,story,,,2,0,bootload,"Norvig on the Google AI",http://blog.outer-court.com/archive/2007-06-02.html#n28,,1180863236
+26112,story,,,2,1,bootload,"'Web 2.0' Crowd A Small Minority",http://searchengineland.com/070507-095250.php,,1180863188
+26111,story,,,3,0,bootload,"Term Sheet Hacks: Get a Great Deal",http://www.venturehacks.com/articles/term-sheet-hacks,,1180863034
+26110,comment,26084,26084,0,0,ralph,,,"Summary: says that harnessing the power of crowds is great, but you can't do without a small (maybe one) group of quality control arbiters at the core.  Compare Linux (Linus only lets good stuff in) with Wikipedia (anything gets in, hope it gets improved later).",1180862949
+26109,story,,,1,0,bootload,"Web 2.0 firms face unusual problem: too many customers","http://www.borthwick.com/weblog/2007/03/10/web-20-firms-face-unusual-problem-too-many-customers/
+",,1180862747
+26108,story,,,1,0,bootload,"F8 and that Telegraph road",http://www.borthwick.com/weblog/2007/05/30/f8-and-that-telegraph-road/,,1180862718
+26107,story,,,2,0,bootload,"Advertisers put more value on visitors closer to home",http://www.mercurynews.com/businessheadlines/ci_5394311?nclick_check=1,,1180862671
+26106,story,,,1,0,bootload,"Tech camp for kids: Get the right fit",http://news.com.com/Tech+camps+for+kids+Get+the+right+fit/2100-1041_3-6188104.html,,1180862625
+26105,comment,26003,26003,0,0,ralph,,,"<i>Yet, system administration is still tied to the shell and the old
+toolset, despite the astounding advantages of moving to a modern
+high-level language.</i><p>This is where I stopped reading.  Python's great, but the shell and the
+old toolset is still more useful for many sys. admin. tasks because
+the tasks are one off things and each command is typically more
+higher-level still than Python, e.g. join(1) and comm(1).
+",1180861772
+26104,story,,,5,0,andrewmobile,"10 reasons why every Web 2.0 developer should attend Virtual Goods Summit",http://andrewchen.typepad.com/andrew_chens_blog/2007/06/10_reasons_why_.html,,1180861646

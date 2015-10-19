@@ -1,0 +1,45 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+298125,comment,298073,298097,0,0,dandelany,,,"This is what I thought at first too, but I think what he's saying is that the wireless AP you set up on your computer spoofs the victim's phone, using the phone's MAC address, wherever it is in the world. Then, when you use <i>your</i> iPhone/iPod Touch connected to that AP (the one he's talking about in step 3 is, I think, ""<i>yours</i>"" and not ""<i>the victim's</i>"") and use the ""locate me"" feature, the Skyhook system polls both your iPhone and the victim's for nearby wireless AP's that are in its database (this is why it's important not to be near other AP's). When the victim's returns a whole bunch of Skyhook AP's and yours returns nada, Google Maps tells your phone it's located at the victim's location. Interesting.<p>The ""not being near Skyhook AP's"" caveat might make this hack difficult to pull off in urban areas, but I'm sure it wouldn't be too hard to build an iPhone Faraday cage :)",1220864261
+298124,comment,298088,298088,0,0,maxklein,,,"I used to have a lisp as a child, and I think receiving the book would be my final moment of triumph. 25 words, no?",1220864151
+298123,comment,297650,297650,0,0,MaysonL,,,"The startup sequence is really interesting...",1220864103
+298122,comment,297616,298092,0,0,pavelludiq,,,"How does a pen invite you to chew it? I just spin it around in my fingers, it's much more relaxing.",1220863988
+298121,comment,297791,298109,0,0,gaius,,,"Which demonstrates that wealth isn't the problem per se.",1220863973
+298120,comment,298088,298088,0,0,rms,,,"<a href=""http://www.paulgraham.com/onlisptext.html"" rel=""nofollow"">http://www.paulgraham.com/onlisptext.html</a>",1220863869
+298119,story,,,1,0,vitaminj,"Is TV Bad for Kids? The Economist's View",http://online.wsj.com/article/SB122065245432005241.html?mod=todays_us_page_one,,1220863504
+298118,comment,298057,298057,0,0,gaius,,,"Facial recognition by satellite is probably impossible. The Rayleigh formula states :<p><pre><code>    angular resolution = (1.22 * wavelength) / diameter of lens. 
+</code></pre>
+Now I don't know what altitude a spy satellite is at, so let's say 100 miles == 160,000 metres. Let's also say that you need a resolution of 1cm in order to recognize a face (probably you actually need better than that). Wavelength of light, to make the maths easy, 5x10^-7m.<p><pre><code>    tclsh[1]% / [* 1.22 5e-07] [atan [/ 0.01 160000]]
+    9.760000000000012
+</code></pre>
+So that's a 10m lens, assuming you could make an optically perfect lens that big and get it into orbit. If you wanted a 1mm resolution, you would need a 100m lens. And you would probably want the entire spectrum of visible light. And I've probably guessed the altitude way too low as well...<p>Oh, and your subject would need to be looking straight up at the moment your satellite passed overhead on a perfectly clear day :-)",1220863431
+298117,comment,298088,298088,0,0,Maro,,,"I'll write a pair of reviews plus an additional article about LISP itself on bytepawn.com",1220863420
+298116,comment,298057,298101,0,0,gojomo,,,"Iraq has so little coastline, they're probably using landsharks.",1220863225
+298115,story,,,26,7,ashleytowers,"How to make your user interface CRAP",http://usabilityfriction.com/2008/09/08/how-to-make-your-user-interface-crap/,,1220863224
+298114,comment,298088,298088,0,0,soundsop,,,"Request Haiku:<p><pre><code>  I just want On Lisp,
+  to improve my coding style
+  with advanced techniques</code></pre>",1220862819
+298113,comment,297737,298074,0,0,derefr,,,"Odd; I suppose I'm of neither of those mindsets particularly. I studied when I was bad at something, but I <i>didn't</i> study, and in fact specifically underachieved, when I already was sure (through practical usage) of my own knowledge in the subject. I suppose I'm of the growth mindset, but just really lazy.",1220862755
+298112,comment,297791,298020,0,0,maxklein,,,"Not Clinton. She married someone who did, and then won one election based on name recognition.",1220862731
+298111,story,,,1,0,soundsop,"The Closures are Coming",http://notes-on-haskell.blogspot.com/2008/09/closures-are-coming.html,,1220862587
+298110,comment,297101,297101,0,0,EastSmith,,,"Scoble fan here.<p>I don't know how much pageviews these startups would get without Scoble telling that they  suck.<p>Scoble started conversation. Many agreed the thesis, many don't, everybady CHECKED. It is like mini DEMO for these companies. How this could be bad for them?",1220862332
+298109,comment,297791,297985,0,0,brianmckenzie,,,"The founding fathers didn't have anything in common with the average citizen either - if anything, they were relatively more wealthy than politicians today.",1220862249
+298108,comment,298033,298033,0,0,alaskamiller,,,"I have 4 things I need to check:<p>1. My personal MobileMe account<p>2. My master gmail account that has mailed forwarded from:<p>a. My work Gmail
+b. My web-contact Gmail (also for signups and throwaway)
+c. My former personal Gmail that I'm replacing with MobileMe<p>3. My Yahoo Mail accounts only for PayPal/Ebay because of the ability to use folders<p>I use Fluid to capsulize the Gmail windows and I have never ever bothered with Thunderbird or Outlook.<p>Gmail's IMAP forwarding is always pretty fast for me. I then just change the mailfrom to the email it was forwarded from and I haven't logged into those separate Gmail accounts since last year.<p>My one gripe is just that there's not enough colors for the tags.<p>My calendar setup is Gcal but I'm trying to get it synced to iCal. I've been using BusySync on Mac for the past 20 days and will be paying for it because it essentially solves the headache of syncing both ways so that my iPhone is always updated but I can manage it on my computer.",1220862158
+298107,comment,297939,297939,0,0,louislouis,,,"Hmmm, hasn't this been posted on HN before?",1220862111
+298106,comment,297616,297616,0,0,jrockway,,,"My desk looks like this:<p><a href=""http://disk.jrock.us/bingo/public/random/desk.jpg"" rel=""nofollow"">http://disk.jrock.us/bingo/public/random/desk.jpg</a><p>Basically monitor + model m + tea == happiness.",1220861831
+298105,story,,,1,0,gscott,"UK: Rival genetic tests have different results",http://www.timesonline.co.uk/tol/news/uk/science/article4692891.ece,,1220861668
+298104,comment,297616,297616,0,0,kaens,,,"I don't have a camera, but I can tell you what it looks like.<p>I don't have a ""room"". I have a futon in a shared office room in the house I live in, some homemade bookshelves (read wood, eyelet screws and twine), and a laptop. In this same room there is also a silkscreening station.",1220861561
+298103,comment,297683,298013,0,0,TunaFish,,,"<p><pre><code>  - Jython
+  - Jython
+  >>> from __future__ import GIL
+  Traceback (most recent call last):
+  (no code object) at line 0
+  File """", line 0
+  SyntaxError: Never going to happen!
+  - Jython</code></pre>",1220861558
+298101,comment,298057,298057,0,0,menloparkbum,,,"sharks with laser beams attached to their heads?",1220861355
+298100,comment,297656,297854,0,0,axod,,,"But is it legal for a 3rd party to scan in your newspaper, remove the ads, then print it out and sell it to you?<p>That is a more accurate analogy. It's stealing and depriving the publisher of their income.<p>In any event, getting past adblockers is really really simple. It always will be, and if you think an adblocker can block anywhere near all adverts, you should go read up on how things work.",1220861316
+298099,story,,,1,0,nickb,"Law prof warns against coming ISP privacy apocalypse",http://arstechnica.com/news.ars/post/20080907-prof-rails-against-greatest-reduction-of-user-privacy-in-net-history.html,,1220861143
+298098,comment,297656,297740,0,0,axod,,,"Most people don't care. Most people see adverts as a good way to keep the internet free.<p>It's only a very small proportion of people who like to block adverts and leech pages.<p>""With Microsoft controlling the browser, they could conceivably release an ad blocker in IE8 and turn it on by default. Google would be in serious trouble very fast.""<p>Any ad blocker is at best maybe 50% effective. Most ads get through. You just don't realize they are ads.<p>It might take google... an hour at most to get past the ad blocker if ms did such a thing.",1220861115
+298097,comment,298073,298073,0,0,Timothee,,,"The title of the submission seems wrong to me.<p>Reading the article, I understand that you can obtain the approximate location of a WiFi router knowing its MAC address. It doesn't sound as worrying as getting the position of a cell phone though. The number of cases where you know someone's router's MAC address but not where they live seem very limited to me. Or at least, if you know someone's MAC address, there are plenty of other ways to find out where they live, including asking or following them. (non-tech old school ways)<p>Am I missing something?<p>Note that the 'hack' and the explanation are interesting. Just not as worrying as presented IMHO.",1220860989

@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+31092,comment,30984,30984,0,0,brlewis,,,"I love the last paragraph:<p>""On the user experience side of things, we're not even close to tapping out the potential of HTML. The majority of web sites and applications still suck. And if most developers and designers can't make a clean run with the training wheels and constricted playground of HTML, then we probably are in no rush to start playing with a Ducatti on the Autobahn.""<p>So true.  For example, lots of web pages have a screen version and a print version, and in most cases they could have just used CSS media to have just one version.",1182949179
+31091,story,,,1,2,rokhayakebe,"Help test this facebookIM. what do you think?",http://apps.facebook.com/IMessenger,,1182949105
+31090,story,,,2,0,sbraford,"Facebook Frenzy: Facebook Apps Getting Acquired",http://mashable.com/2007/06/26/facebook-frenzy/,,1182949070
+31089,comment,30950,31055,0,0,brlewis,,,"Another problem with the rotating screenshots...I clicked on the small version to see it bigger and got a different screenshot.
+",1182948621
+31088,story,,,2,1,sbraford,"LinkedIn IPO Looming?",http://mashable.com/2007/06/26/linkedin-ipo/,,1182948379
+31087,story,,,1,0,tracksuitceo,"Programming a hurricane-tracking website from scratch",http://stormpulse.wordpress.com/2007/06/27/part-ii-the-python-discovery-and-the-early-grind/,,1182948022
+31086,comment,30581,30581,0,0,nrohan,,,"I guess IIT Powai had started KRSIT course for this sort thing. Although, it seems thats not very much successful.<p>Anyway, the main reason as already stated is that such people land in US rather than in India to become rich!<p>And even if someone builds such product in India, US is the main market to sell it. Selling the product remotely is not that easy!
+",1182947942
+31085,comment,30984,31021,0,0,paul,,,"Which ""arcane bullshit"" do you have in mind? People talk a lot about browser incompatibilities, but the most serious ones are no longer real (nobody uses NS4) and the others are mostly covered by libraries such as jQuery. (though it is true that some of the browsers are simply lacking certain features)",1182947811
+31084,story,,,1,0,moses1400,"dukudu.de sells for $58,192",http://www.centernetworks.com/dukudu-final-ebay-auction-price,,1182947737
+31082,comment,30776,30986,0,0,davidw,,,"I make trivial money from them.  Enough for hosting and a bottle of wine now and then.  But that sure beats <i>paying</i> someone to host them.",1182946660
+31081,story,,,5,0,yubrew,"Facebook App users have 5 apps installed on average",http://lsvp.wordpress.com/2007/06/27/facebook-app-users-have-5-apps-installed-on-average/,,1182945688

@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94105,comment,93984,94005,0,0,Andys,,,"DHH was referring to individual unix webserver process restarts, not server reboots.",1199191570
+94104,story,,,24,6,getp,"AI on the Web",http://aima.cs.berkeley.edu/ai.html,,1199190409
+94103,comment,93984,94095,0,0,qaexl,,,"Didn't say he was a script kiddy. I'm glad that there are people who will stick up for him.",1199188970
+94102,comment,94003,94090,0,0,qaexl,,,"They don't necessarily need to be excluded. Sometimes they are. In the Mongrel interview, it seems to me Zed has always been an in-your-face kind of a guy. Like I said though, I won't really know unless I talk with him face to face. Words are OK, but words make it easy to obfuscate any truths about yourself.<p>He threw a tantrum in this rant, no bones about it. But I'm not going to make a judgment on whether he was justified or not. Zed just is, this is the choice he made, these are his actions, and there will be ripples from his actions. So be it.",1199188877

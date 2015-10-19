@@ -1,0 +1,193 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2478178,comment,2477586,2477586,7,0,gsf,,,"I wonder how many 24-year-old CS students have given this same advice to Stallman in the last 25 years. Not that Alexey shouldn't voice his thoughts, but it's well-trod ground.",1303613967
+2478177,comment,2477788,2478149,8,0,georgecmu,,,"My guess is that it doesn't assume anything about your motion model. The real question you should ask is what's the frequency of the positioning solution. Your generic GPS unit computes solutions at 1Hz, more sophisticated ones do it at 5Hz, surveyor quality units can do it at 10-20Hz depending on firmware, but I think they're pushing the limit and probably assume something about the motion model. Applanix and Novatel solutions that use inertial sensors definitely make pretty strong assumptions of the motion model (see Kalman filter).<p>OmniSTAR in particular and DGPS in general will operate under assumption that errors due to ionospheric and tropospheric effects change slowly in time and space. If this assumption is correct, then dynamics of the vehicle won't affect the corrections themselves.<p>My point with all this is that 99% of the corrected GPS solution should theoretically be within <i>x</i> cm of some point on the true path of the vehicle no matter how it moves in a plane. The question is, if you're interested in real-time solution, how far will the vehicle be from that point by the time you get this fix, and if you're interested in capturing vehicle's travel, how well will the curve fit through these points match the true vehicle path.",1303613941
+2478176,comment,2477877,2478095,2,0,rosser,,,"There are all kinds of solutions available to you in that scenario.  Two-phase commit, on DBs that support it, would probably go a long way towards enabling a transaction layer like you describe.<p>Usually, though, discussions of DR should start with determining what kinds of RPO and RTO you're willing to pay for and then evaluating which of the available solutions will get you there.",1303613885
+2478175,comment,2477788,2477788,4,0,zmmmmm,,,"Will it get a lock any quicker?<p>It would be nice if accuracy could be traded off for time, so that instead of getting a more accurate lock, we're getting a the old accuracy but quicker.<p>For me the biggest limitation of GPS is that it can take > 1 min to get a lock on a regular basis.  I know this is hardware and software dependent ... but it's still common for it to be at least 20 seconds even on the best hardware, I think.   Apart from making apps that rely on GPS awkward (""please wait an indeterminate amount of time while we find your location"") it also means much greater power use because the GPS has to be active for longer (GPS seems to be something that noticeably uses a lot of power in my Nexus One).",1303613810
+2478174,comment,2477732,2477732,0,0,avstraliitski,,,"Anyone want to meet sooner? I'm recently freed of employment and trying to figure out what the tech scene's like around here (other than linked to 'the industry'...)<p>May is ages, I might throw the towel in and go travel India or move to SF or something before then :) Would prefer to stay though! Looking out over San Fernando valley now .. listening to lovely music, typing on new laptop and preparing to go and celebrate the traditional long weekend holiday that commemorates my nations' deaths in Turkey during the war...<p><i>sigh</i><p>May as well have a party!  Hell, have it at my place!",1303613711
+2478173,story,,,3,0,jameshicks,"The State of the Mobile App [infographic]",http://www.thetechscoop.net/2011/04/23/the-state-of-the-mobile-app-infographic/#axzz1KPBmC9UF,,1303613597
+2478172,story,,,24,13,SergeDavid,"Sometimes it is amazing how many images are required for even a small video-game",http://www.blog.knolif.com/Image-Overload/,,1303613538
+2478171,comment,2477788,2478141,2,0,jwilberding,,,"DGPS requires a fixed base in order to calculation the differentials I believe.<p>Some states, like Iowa (<a href=""http://www.iowadot.gov/rtn/"" rel=""nofollow"">http://www.iowadot.gov/rtn/</a>), also have real time information you can access to reduce the margin of error.",1303613460
+2478170,story,,,1,0,Julian123," Write Thesis",http://www.masterpapers.com/blog/essay-writing-tips/how-to-write-thesis-2/,"Writing a thesis is one of the toughest challenges faced by students. The writing of a thesis is unavoidable when students are doing a degree and are hoping to receive the degree. Therefore, they need to be familiar with how to write thesis in order to submit a well written thesis.",1303613371
+2478169,story,,,1,0,Remxawy,"   24-4-2011",http://www.almstba.com/vb/showthread.php?t=18165,"   24-4-2011
+   24-4-2011
+http://www.almstba.com/vb/showthread.php?t=18165
+http://www.almstba.com/vb/showthread.php?t=18165
+   24-4-2011
+   24-4-2011
+http://www.almstba.com/vb/showthread.php?t=18165
+http://www.almstba.com/vb/showthread.php?t=18165",1303613365
+2478168,comment,2477877,2477877,3,0,sespindola,,,"If you're using exclusively AWS, you should have instances
+in 2 different regions, at least.<p>Instead of relying on the elastic load balancer, you should
+be doing load balancing with DNS using SRV records.<p>If you are using SRV records and you are at the beginning
+of what seems to be a serious downtime, you can set all 
+the weight of your SRV records to the instances in the
+healthy AZ.<p>In the backend, if you're using SQL, you should use a DB
+with a WAL-based async replication, like Postgresql.<p>In PostgreSQL 9, you have streaming replication integrated
+to the DB. If using PostgreSQL 8, you could use third
+party apps, like Slony-1 or PG-Pool II.<p>In the NoSQL databases, there seems to be a ""last write wins"" effect. Even in distributed beasts like Cassandra.
+So if you are running a NoSQL cluster, you need to 
+determine which nodes received the most data during the
+outage and repair from there.",1303613172
+2478167,comment,2478115,2478115,6,0,hsmyers,,,"While the rumor was slightly interesting, the commentary was very interesting! It gives (with give and take :) ) a modest window into how folks at this level and in this discipline interact. A pleasant change from the more or less constant 'Apple this...' and 'SEOs that...'",1303613141
+2478166,comment,2477758,2477845,3,0,nviennot,,,"I lost my previous account password that I haven't used in a very long time...",1303613110
+2478165,comment,2477667,2477667,2,0,cygwin98,,,"Maybe I misunderstood this article. It seems to me there is a security issue in X Server, which gives out keyboard input info to all running X apps. That's fine. If that's X Server, just fix it then everyone will be happy. Why introduces all the Xen/VM stuffs into this problem. It is like you have a mosquito flying around, but you choose to kill it using a nuclear bomb.",1303613057
+2478164,comment,2477877,2478151,2,0,dotBen,,,"Given this is a common problem that all tenants of the system face, I'd like to see Amazon offer a more holistic approach to faul-related instance migration.<p>Essentially, if Amazon offers that functionality rather than individual scripts, it can have a better chance of managing the resource as a whole, rather than everyone fight for resource with no overall management.",1303613037
+2478163,comment,2477011,2477341,2,0,davidtgoldblatt,,,"I haven't used them personally, but my understanding is that BDD's are increasingly used for formal hardware verification.",1303612902
+2478162,comment,2476861,2477839,5,0,Helianthus16,,,"And I'm sure it would be an interesting read.  However, I feel I should also point out that what makes this article interesting isn't that this technology is out of date, it is that it is a glimpse into a time when we didn't have computing technology and the solutions people found for Very Important Communication.",1303612878
+2478161,comment,2477855,2478062,1,0,Detrus,,,"But in practice, how many bad abstractions are there? From what I understand the Go team sees VMs as bad abstractions and they're ubiquitous.<p>The Go compiler can be fast, essentially as fast as a VM. Go can already run ~3x slower than C and they haven't put much effort into optimization. V8 is ~5x slower with a larger team working longer, 50,000 LOC compared to ~12,000 LOC of Go. To get the security of a VM they discourage the use of low level stuff by putting it into an unsafe package. This makes the binaries compatible with NativeClient, which actually checks for malicious programs. Go code can be sent as text and compiled quickly enough client side.<p>So they get many of the features of a VM while cutting down on complexity with some clever tradeoffs. The language is not for everyone's tastes, but their fundamental approach will surely lead somewhere.<p>In practice people make bad abstractions constantly and build huge legacy on top of them. Lately people have been trying to clean up the mess by starting from a pretty low level, like Go and Redis.",1303612855
+2478160,comment,2476341,2476664,1,0,nantes,,,"Kansas City?",1303612812
+2478159,comment,2477479,2477849,13,0,stonemetal,,,"I would have t agree.  There was ask HN recently where someone was asking for advice.  The advice I would give was already posted so I up voted, but now the guy doesn't know if the advice had 100 up votes and really well regarded or if he just got really few responses.  I could have made a yeah what that guy said comment to make my agreement more visible but that is rather frowned upon.",1303612713
+2478158,comment,2477949,2478029,2,0,spitfire,,,"Be worried? This sort of computerized terror has already happened. Facebook would just make this sort of thing much more efficient.<p><a href=""http://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153102/ref=sr_1_1?ie=UTF8&qid=1303612561&sr=8-1"" rel=""nofollow"">http://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corpo...</a>",1303612697
+2478157,comment,2477586,2477629,-4,0,8877workgold,,,"Over 20 years ago, I attained the PROFESSIONAL ENGINEER's
+License and have volunteered in many VOLUNTEER ORGANIZATIONS.
+These include 'open source' and the A.S.M.E.  Which DIRECTLY
+AFFECTS YOU.<p>How?  The Supreme Court Case - called Hydrolevel showed
+that the voluntary organization was 'corrupt' and 'friendly
+relations' and even 'cult of PERSONALITY' played a part.
+    every time your car or plane does NOT crash and you are
+    not forced to flee from the nuclear plant, think of an engineer.<p><pre><code>    warning: controversial.
+    1.)Mother Theresa doubted GOD!, yet she is a saint!  without
+    her, supposedly the organization (church) will endure.
+    2.)Warren Buffet, richest man on earth FIRED his successor,
+    with no clear successor in sight.  Both have NOT repeat NOT
+    been charged with Insider Trading/collusion.
+    3.)President George Washington knew some or (many) of his
+    officers were suspect like General Benedict Arnold.
+
+    Our pledge is to the trust of 'open source' and the 'rule
+    of law' above 'rule of man.'  The man is NOT the organization.
+
+    It is my sad and unfortunate duty to request Dr. Stallman
+    immediately designate at least three potential successors.
+    His position will be like Guido, founder of Python,
+    BENEVOLENT DICTATOR of the 'ADVISORY COMMITTEE.'  This
+    committee has NO formal powers.
+
+    Such successors will give most of THE POWER to the
+    ORGANIZATION, not the person.
+
+    Warning: highly controversial.
+    Stallman's committee will be forming alliances with WOMEN
+    GROUPS (yes, he is single) - that's STRATEGIC alliances,
+    not personal ones.  Stallman's committee has NO RIGHT to
+    SPEAK for all of us.  Stallman's committee shall have
+    PERMANENT FUNDING, including a small stipend for the 'leader.'   After all he has not had a career working for
+    MAJOR CORPORATIONS and saved HUGE amounts of money.
+
+    The only other choice is to ask for ABOLISHMENT OF THE FSF!
+    I am against this choice.
+
+    Dear Alexeymk.com: Thank you for speaking up.  Thank you
+    for showing your IGNORANCE of history.  Why do such GREAT
+    DISASTERS like Hurricane Katrina and drowning of New Orleans,  GREAT Dust Bowl (overfarming), BP Oil Volcano Spill, Japan Nuclear Meltdown (not presently, the U.S. has
+    MANY MORE OLD Reactor/Fuel Waste Pools) and the presence
+
+    of closed source Microsoft/Adobe software at the nuclear
+    and critical infrastructure?
+
+    History of 'Open Source' in World War II:  The AXIS and GERMANS were winning!  So, the ALLIES (that's including the
+    U.S.A.) broke their codes/secrets.
+
+    Now, most of the leading research is OUT OF THE U.S.A. and
+    the U.S.A. leads in areas like Windows botnets.  Go, America!
+
+    The movement of Dr. Stallman, EMERITUS shall be accompanied
+    with CASH PRIZE, honors, awards, recognition from WORLDWIDE
+    universities and other volutary/non-profit organization.
+
+    GOOGLE, now that it has lost the lawsuit on Linux, will perhaps (repeat perhaps) KICK IN a very small amount of
+    FIVE MILLION DOLLARS.
+
+    I shall be one of those to congratulate (I don't know him
+    personally) Dr. Stallman as to his GREAT PRIZE WINNING,
+    promotion and forthcoming WEDDING.
+</code></pre>
+This 'crazy conspiracy' movie is pure FANTASY with 'no
+    programming side effects', LOL
+<a href=""http://en.wikiquote.org/wiki/The_Matrix"" rel=""nofollow"">http://en.wikiquote.org/wiki/The_Matrix</a><p><pre><code>    Morpheus to Neo:    
+        The very minds of the people we are trying to save. 
+        But until we do, these people are still a part of that system, and that makes them our enemy. ...And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it.
+
+        Maybe you have seen the movie and have been 'infected' by
+        the CRAZY meme?</code></pre>
+PS:  Dear Alexeymk.com:
+    When you see a flock of birds, using Particle Swarm Optimization,
+does the flock CONSPIRE to travel together?   Can DISTINCT PATTERNS
+be caused by a MATRIX of stupid birds, not speaking to one another?",1303612664
+2478156,comment,2473932,2477549,1,0,kragen,,,"Thanks! I hadn't seen those, although I knew of 1.4.  I think 1.1, 1.3, and 1.4 are actual bugs, if the reports are accurate; I'm pretty sure Dan disagreed with Wietse about 1.1.  Three bugs in about 15000 lines of code doesn't quite rise to the level of less than one bug per 7000 lines of code, so maybe that's only been done once, in seL4.<p>What are the DNS-related bugs?",1303612559
+2478155,comment,2473544,2473544,1,0,bendmorris,,,"You can find that salary for a ""senior"" position in Utah as well. California salaries are much higher than the average.",1303612510
+2478154,story,,,5,1,toponium,"Why isn't this UPS working?",http://strangebeaver.com/2010/07/why-isnt-this-ups-working/,,1303612492
+2478153,comment,2477926,2478128,4,0,markkat,,,">I think this is definitely the edge of a huge new market.<p>I agree. I also feel that we are going to see uses of this information that we haven't considered yet.<p>Urban planning seems a very low-hanging fruit. I'd bet you can predict crime to some extent too.<p>As I read this, I kept thinking about Roller Coaster Tycoon. Watching all those little people mill about.",1303612453
+2478152,story,,,1,0,chrisyeh,"Little Bets = Greatest Hits Of The 2000s",http://chrisyeh.blogspot.com/2011/04/little-bets-greatest-hits-of-2000s.html,,1303612445
+2478151,comment,2477877,2477877,1,0,fleitz,,,"""What got a lot of startups in trouble was architecting systems that were fault-tolerant across availability zones within the US-East region, but when one availability zone went down, everybody's apps started flooding the other availability zones""<p>If most startups implement this solution wouldn't the problem just replicate itself to regions instead of availability zones?<p>The problem is mathematical in nature and the dependent variables are uncontrolled by consumers of the AWS service. To be certain that you can failover and handle the load you need to run at 50% capacity. EC2 does not do this therefore you cannot solve the problem with certainty using only AWS resources.",1303612404
+2478150,comment,2477758,2478112,3,0,nviennot,,,"1) freeing memory automatically for you. That's under the table :)<p>2) Absolutely<p>3) No. it's just that memory management related issues are really nasty. On the other hand, adding a new printf() function won't do much harm.",1303612399
+2478149,comment,2477788,2478080,2,0,bodhi,,,"Interesting! I don't use this stuff in anger, so my questions are merely idle curiosity.<p>Omnistar refers to the HP accuracy as ""real-time""[1] and:<p>> [it] will usually have a 2-sigma (95%) horizontal error of about 6 centimeters and a 99% horizontal error of less than 10 centimeters<p>Do you happen to know what kind of movement this is based on? For example, if it was attached to an RC car (assuming that the equipment is this compact, it may not be?) would you still be able to get this level of precision? Or is it designed for more consistent movement patterns?<p>[1] <a href=""http://www.omnistar.com/about.html"" rel=""nofollow"">http://www.omnistar.com/about.html</a>",1303612372
+2478148,comment,2477788,2478141,2,0,yellowbkpk,,,"So you can achieve the better accuracy without the expensive DGPS equipment and subscriptions to the DGPS services?",1303612337
+2478147,comment,2476440,2476440,0,0,SpookyAction,,,"""Look! We're passing in a function as an argument.
+Can your language do this?""<p>Umm, yes it can....<p>#!/usr/bin/perl<p>sub cook_time {
+	($hours, $min) = @_;
+	$result = ""$hours hours and $min minutes\n"";
+	return $result;
+}<p>sub animal {
+	$animal = shift;
+	return $animal;
+}<p>sub cook_animal {
+	($get_animal, $get_time) = @_;
+	return ""Cook $get_animal for $get_time"";
+}<p>print cook_animal(animal(cow),cook_time(5,23));",1303612319
+2478146,comment,2477310,2477310,2,0,gbog,,,"Interesting. Would this tool be a way to work around censorship and control? I mean, only the naive can think there will be no increase in censorship on the net. My guess is all govs are brainstorming a LOT right now, including the new govs in Middle-east. We need to fix this. Something like droppages could be a piece of the puzzle, no?",1303612317
+2478145,comment,2477540,2477540,2,0,phektus,,,"While one should always anticipate failure and design around it, it makes no sense to blame the software designer for such a failure. Downtime should be the failure of the one providing the network resource.
+<a href=""http://en.wikipedia.org/wiki/Chewbacca_defense"" rel=""nofollow"">http://en.wikipedia.org/wiki/Chewbacca_defense</a>",1303612305
+2478144,comment,2477656,2478120,1,0,freerobby,,,"Thanks (and karma) to you both for your perspectives.",1303612270
+2478143,comment,2477788,2478080,3,0,makmanalp,,,"Exactly what you said. But OmniStar is giving it away to us for free so why the heck not! :)",1303612243
+2478142,comment,2476649,2477829,1,0,rpeden,,,"You might want to check out Ruboto. I haven't used it yet, but it seems to allow you to do exactly what you want, i.e. write full Android apps using JRuby. I've heard there's a significant performance penalty, though.<p><a href=""http://ruboto.org/"" rel=""nofollow"">http://ruboto.org/</a><p>I've also heard of people having success using Mirah to write Android apps. The syntax is very similar to Ruby, so it will be comfortable for you. It compiles to a straight Java class with no runtime dependencies, so you don't get the performance hit you run into with Ruboto.<p><a href=""http://www.mirah.org/"" rel=""nofollow"">http://www.mirah.org/</a>",1303612170
+2478141,comment,2477788,2477989,1,0,makmanalp,,,"I know, that's the point of DGPS. What I meant was, we already have that infrastructure and accuracy, so why are they putting new satellites? I guess the ones up there are getting quite old now.",1303612151
+2478140,story,,,1,0,citizenkeys,"How to Make a Potato Battery",http://www.kidzworld.com/article/4726-how-potato-batteries-work,,1303612100
+2478139,comment,2476649,2477829,1,0,soamv,,,"Check out ruboto-core at <a href=""http://ruboto.org/"" rel=""nofollow"">http://ruboto.org/</a>",1303612041
+2478138,comment,2477586,2477963,3,0,zdw,,,"He also went through a period of time where he was having wrist trouble which cut down on his programming output: <a href=""http://oreilly.com/openbook/freedom/ch09.html#15416"" rel=""nofollow"">http://oreilly.com/openbook/freedom/ch09.html#15416</a><p>(the zinger here would be a comment on finger gymnastics required to enter all those parenthesis is elisp)",1303612020
+2478137,comment,2475854,2476391,1,0,klbarry,,,"Send me an invite please, awesome idea.",1303612011
+2478136,comment,2477758,2478108,9,0,ryannielsen,,,"Apple doesn't advise developers to avoid ref counting, it advises them to avoid using -retainCount. -retainCount is a weak debugging tool, at best. It doesn't take into account autorelease pools, to start, and any framework-specific memory management is ignored. Its use is discouraged for good reason.<p>For better tools, check out Instruments, MallocDebug or leaks. Or read Apple's Memory Usage Performance Guidelines, specifically the ""Finding Memory Leaks"" section. [1] Apple's Technical Note TN2124 ""Mac OS X Debugging Magic"" even has, in the Cocoa section, an example of how -retainCount can be misleading and confusing. [2]<p>Nowhere does Apple advise Cocoa developers to avoid ref-counting. Cocoa's ref-counting/GC'd memory management system is considered a huge advantage for the platform.<p>[1] <a href=""http://developer.apple.com/library/mac/#documentation/Performance/Conceptual/ManagingMemory/Articles/FindingLeaks.html"" rel=""nofollow"">http://developer.apple.com/library/mac/#documentation/Perfor...</a>
+[2] <a href=""http://developer.apple.com/library/mac/#technotes/tn2004/tn2124.html"" rel=""nofollow"">http://developer.apple.com/library/mac/#technotes/tn2004/tn2...</a>",1303611923
+2478135,comment,2477758,2478061,6,0,nviennot,,,"Hum.. the Linux Kernel, it's pretty big :)<p>You get kmalloc() and kfree(), which are very similar to malloc() and free(). (Okey you also get kmem_cache_alloc()/kmem_cache_free() which gives you the ability to provide a ctor/dtor, but they are explicit)<p>tmalloc() does too much: The day you have some memory corruption / leak, you'll start being scared of using tmalloc().",1303611908
+2478134,comment,2475191,2475431,1,0,rebelde,,,"I bet you're right. They probably operate elsewhere and use Cyprus for whatever reason.",1303611897
+2478133,story,,,1,0,mysticalwolf724," What ""type"" are you?",http://thegoodbadandhonest.blogspot.com/2011/04/in-relationships-we-tend-to-search-for.html,,1303611841
+2478132,comment,2477281,2477447,1,0,mikepurvis,,,"Interesting you should say that. What about having both the sum and the xor? Then it's two equations, two unknowns. That should be enough to solve for it...",1303611706
+2478131,comment,2477228,2477228,5,0,mahmoudimus,,,"I've previously had interactions with CrackZ. He's an incredibly sharp individual.<p>He runs a reverse engineering forum called woodmann and he has some great essays here: <a href=""http://www.woodmann.com/crackz/index.html"" rel=""nofollow"">http://www.woodmann.com/crackz/index.html</a><p>Definitely worth reading if you're into reverse engineering.",1303611669
+2478130,comment,2478113,2478113,1,0,EllieAsksWhy,,,"For the ""What are your greatest strengths or weaknesses?"" question, don't say your greatest weakness is ""being a perfectionist"".",1303611655
+2478129,story,,,3,0,jimwise,"A Cautionary Incident: Gene Spafford on AWS",http://www.cerias.purdue.edu/site/blog/post/a_cautionary_incident/,,1303611517
+2478128,comment,2477926,2477926,13,0,donofrip,,,"The world is finally starting to take notice of how significant it is that everyone has these handheld computers in their pockets all day long. The amount of data that is being harnessed by apps today is impressive, but over the next few years, I think the market for this information is going to be enormous. I wonder who will ""own"" the information. I assume it will be the network providers.<p>They are going to need tools to make sense of the information they have. They have very detailed information on their phone users, but they'll have to think through how they can monetize the information legally. Could we see these companies developing the ability to say, ""the user of the cell phone X, who is a 14 year-old girl, spent 2 hours in this store on this day"". That data on an aggregate basis could be very valuable to companies--companies that would be willing to pay for this kind of insight. ""We noticed a spike in teenage girls visiting your stores in the northeast within a day after launching your ad campaign. It didn't have as large of a spike in this region of the country however."" I think investors would be willing to buy this kind of information too. Imagine the edge a hedge fund would have if they had this sort of insight into consumer trends.<p>I suspect there will be a huge need for tools to analyze and make sense of the data that this new market will demand. I'm sure there are already some startups headed down this path, and I'm sure large communication companies would rather use a vendor for this data analysis than learn to do it themselves.<p>I think this is definitely the edge of a huge new market.",1303611491
+2478127,story,,,2,0,MatthewDP,"What Is SEO?",http://searchengineland.com/guide/what-is-seo,,1303611477
+2478126,story,,,2,0,MatthewDP,"11 Reasons Why I love the Philipines",http://outsourcetothephilippines.com/love-the-philippines/,,1303611454
+2478125,story,,,3,0,SRSimko,"Oshkosh 2010 ""Salute to Veterans"" [video] For Aviation Fans",http://youtu.be/CgM2W2vxsbw,,1303611452
+2478124,comment,2477667,2477667,2,0,jhuni,,,"Insecurity is an inherent part of the desktop metaphor.",1303611395
+2478123,comment,2477586,2477938,5,0,kabdib,,,"There are a few commercial clones. I use Epsilon (by Lugaru Software) because I think it's faster and behaves more reasonably on Windows than Gnu Emacs, and I'm used to it.<p>That said, I'm sure that Gnu Emacs is fine.",1303611373
+2478122,comment,2477479,2477479,1,0,markkat,,,"PG might consider doing something similar to what I am doing on Hubski (<a href=""http://hubski.com"" rel=""nofollow"">http://hubski.com</a>). -Scores have ranged values, only the user sees their absolute score.<p>Maybe I can give something in return for the great source code. :) Thanks PG.",1303611302
+2478121,comment,2477281,2478099,2,0,pedrocr,,,"Here's a counterexample.<p>Sequence is [1, 2, 3, 4, 6, 6, 7, 8, 9, 10] so m = 5 and d = 6<p><pre><code>  diff = 5-6 = -1
+  xor = 5^6 = 3
+
+  1-2 = -1
+  1^2 = 3
+
+  5-6 = -1
+  5^6 = 3
+
+  9-10 = -1
+  9^10 = 3
+</code></pre>
+So three different combinations, within N, that obey the two constraints",1303611295
+2478120,comment,2477656,2477975,2,0,code,,,"I completely agree here. There are limitations with the micro and even running on a small server is insufficient in most cases with memory limitations. For development purposes before launch, AWS is probably not ideal.<p>On the other hand, after launch, AWS is amazing to scale with. I use AWS in conjunction with Rightscale which I highly recommend. Much easier to deploy.",1303611294
+2478119,comment,2477798,2478109,6,0,dwc,,,"The entire paper is long, and I grumbled at that length. Then I began reading it and couldn't stop. Now it's available in book form with the original material expanded, plus a new section at the end. This book I ordered and read quickly. This new material happens to be laying out some interesting math ideas of the kind that could be used in teaching. Fascinating. If there were a whole book of interesting ideas like that I'd buy it in a heartbeat.<p>EDIT: I should make clear that the second part of the book is <i>not</i> coursework, but a brief taste of some ideas that capture the imagination. A counterpoint to the <i>Lament</i> portion, if you will.",1303611264
+2478117,story,,,2,2,gourneau,"Reel - a jQuery plugin that provides a 360 views",http://jquery.vostrel.cz/reel,,1303611109
+2478116,comment,2477877,2478037,1,0,byoung2,,,"Thanks for the link...looks like exactly what I'm looking for!",1303611091
+2478115,story,,,12,4,fname,"Did the LHC find the Higgs boson?",http://www.math.columbia.edu/~woit/wordpress/?p=3643,,1303611089
+2478114,comment,2477877,2477948,2,0,Devilboy,,,"That will increase the chances of cross-region failures though.",1303611066
+2478112,comment,2477758,2477838,6,0,ryannielsen,,,"What side effects were introduced ""under the table""? talloc introduces entirely new functions, it doesn't override standard malloc/free. All of the new behaviors are rather explicit.<p>As for large project with collaborators: if the project doesn't already have coding standards or doesn't have a code review process for new members then they're already headed down a bad path. And anyone blindly introducing talloc into an existing project without first getting agreement from other participants and taking steps to smooth integration is irresponsible.<p>The issues you give aren't reasons to dismiss talloc. Bugs, implementation flaws, design limitations are some valid reasons. By your argument, anything layered on top of the C standard library should be avoided.",1303611017
+2478111,story,,,1,1,faisy,"Whisky Powered Car",http://www.ispyce.com/2011/04/kentucky-man-invents-bourbon-whisky.html,"A 62 year-old man, Mickey Nilsson, of Bardstown, Kentucky, made a bourbon-powered junk car. He got the idea from Chitty Chitty Bang Bang. Nilsson said that his inspiration came from a character played by Dick Van Dyke in the classic Disney movie. The character in Chitty Chitty Bang Bang assembled a flying car from junk parts.",1303610881
+2478110,comment,2476341,2477525,2,0,cincinnatus,,,"Would be nice to have state level data too, this would help regions that dont have any hot cities.",1303610761
+2478109,comment,2477798,2478069,11,0,jmatt,,,"I agree.<p>I recommend ""A Mathematicians Lament"" by Paul Lockhart. It's an excellent essay on math education. The entire paper is long but even the first 5 pages are great. It covers everything from the unacknowledged creativity that is involved in math to the culture and curriculum.<p><a href=""http://www.maa.org/devlin/devlin_03_08.html"" rel=""nofollow"">http://www.maa.org/devlin/devlin_03_08.html</a><p><a href=""http://www.maa.org/devlin/LockhartsLament.pdf"" rel=""nofollow"">http://www.maa.org/devlin/LockhartsLament.pdf</a>",1303610722
+2478108,comment,2477758,2478039,-2,0,hardy263,,,"Except apple advises you not to use reference counting when trying to debug. So when reference counting doesn't work, you still have to go back and manually count the references yourself...",1303610720
+2478107,comment,2477877,2477901,4,0,byoung2,,,"<i>Both ELB and RDS only work within a single zone, and this latest incident occurred in ""multiple availability zones"", according to Amazon</i><p>ELB and RDS work across multiple zones.  So a single ELB can span EC2 instances in multiple zones within a region.  So I could have 4 EC2 instances in us-east-1a, us-east-1b, us-east-1c, and us-east-1d, with an RDS instance in us-east-1a and a read replica in us-east-1b.  What happens when us-east-1a goes down and every big user in that AZ has failover mechanisms that start moving instances, EBS volumes, RDS databases, S3 buckets and who knows what else from us-east-1a to us-east-1b,c, and d?  Those AZ's get overloaded, API endpoints get slammed, and the whole region goes down in flames.  It didn't matter that these availability zones are hosted on separate infrastructures (from what I gather, the zones are separate datacenters in the same city with low latency connections between them, but separate power sources and backbone connections).  Meanwhile, all's quiet on the US-West front.<p>That's what got me thinking about failover across regions.",1303610691
+2478105,comment,2477586,2477951,4,0,dget,,,"In his talk, he referred to the Kindle nearly exclusively as the ""Amazon Swindle,"" only clarifying that he was talking about the Kindle at the end, for what its' worth.",1303610550
+2478104,comment,2477667,2477667,7,0,trotsky,,,"Qubes seems to be YASTVOS (Yet Another Security Through Virtualization OS). While I'm not going to disagree that Xen vms represent a smaller attack surface than most current installations, that doesn't mean there won't be bugs. If you shift everyone to a solution like this, guaranteed people will be breaking out of it. VMware has had a number of vm escapes.<p>The other problem is these OS's often don't seem to get very far. Seems like Qubes is launching beta 1. It's the kind of thing that one would expect needing a significant time to shake out.<p>Which isn't to say I wouldn't like to run a nicely implemented example of the concept. It certainly has the possibility of raising the bar significantly. Of course, it seems like no matter how far windows raises the bar people still keep on jumping it easily.",1303610517
+2478103,comment,2477855,2477855,11,0,fleitz,,,"You move the complexity to the system instead of the automaton.<p>An ant is an easily understood organism behaviorally, however, when working in unison according to a very simple set of operating conditions they generate incredibly complex behavior.<p>Most people want to design complex automatons that understand the entire solution space instead of designing simple automatons that interact with other simple automatons to converge on a reasonable approximation of the solution.<p>You can see this in the article itself where the article describes C code as clear. Yes, it's very clear to anyone reading C exactly what assembly instructions will be produced but it's about as clear as mud as to what the code is actually accomplishing. I tend to care more what the code does as opposed to how it does it which is why I prefer functional languages where I have no clue as to what assembly will be produced but have a good idea of what is actually being accomplished.<p>Apparently C supports something called a string but all I ever see is a pointer to a char.",1303610487
+2478102,comment,2475349,2476216,1,0,mahyarm,,,"Squeak smalltalk has the <- character.  It's actually the '_'  character but displays as a one character width left arrow.  You can also use :=",1303610473

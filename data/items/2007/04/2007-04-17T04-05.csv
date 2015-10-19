@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+13547,story,,,3,2,farmer,"Project San Dimas: Cleaning Up eBay's UI",http://www.techcrunch.com/2007/04/16/projectsandimas-public-beta-cleaning-up-ebays-ui/,,1176785936
+13546,comment,13465,13472,0,0,akkartik,,,"rms: how did you find out about this page?",1176785891
+13544,comment,13417,13417,0,0,staunch,,,"He says all you need is a risk-taking attitude (#1) and hard work (#2). Both of these attributes are <i>prerequisites</i> for a successful startup and the <i>opposite</i> of what you see in most big companies.<p>This guy must work for big companies where shipping bloatware in less than 5 years counts as innovation.
+",1176784965
+13543,comment,13518,13531,0,0,mauricecheeks,,,":-) i was wondering if anyone used better/different ones than CNet ",1176784888
+13542,comment,13484,13536,0,0,gyro_robo,,,"> You want to fail as quickly as possible.<p>A bunch of us got <i>that</i> out of the way!",1176784594
+13541,comment,13465,13465,0,0,gyro_robo,,,"Next funding round?  So you plan on waiting until 2008 for someone to even start on it?",1176784503
+13540,comment,13524,13532,0,0,gibsonf1,,,"It looks like they want you to actually provide something there first that has not been live before.  Their application, though, includes stats on your current website, so I guess their plan is to focus on some new feature to be presented there for the first time.  They also want you to explain how their conference is causing your company to accelerate development, etc.  <p>I don't see any downside in applying or getting the media attention of getting selected.  One option: get selected, get the media attention, then forgo any radical high trajectory bubble bursting funding proposals, and then use that momentum to get into YC.",1176784155
+13539,comment,13538,13538,0,0,dawie,,,"I need cheap hosting that can handle massive trafic if I get lucky. I am tending towards Media Temple. I don't have time for Amazon EC. I am using Rails.<p>Any suggestions?",1176783035
+13538,story,,,1,2,dawie,"Hosting: Media Temple or Slice",,,1176782931
+13537,comment,13343,13475,0,0,gyro_robo,,,"See my top-level post.",1176782830
+13536,comment,13484,13484,0,0,dawie,,,"You want to fail as quickly as possible. Startups are like dating. If its not going to work out you want it to bomb quickly, so you don't waste your time and so you can move on to the next one...
+",1176782806
+13535,comment,13448,13520,0,0,omouse,,,"Crap, the question is are they any good? I gotta cut down on the coffee...",1176782788
+13534,comment,13343,13507,0,0,shiro,,,"I see.  I understood the original article's two categories maps to the case whether those ""random factors"" exists or not; I'm not familiar with school admission process in US, so I don't know if that particular example is good or bad.",1176782623

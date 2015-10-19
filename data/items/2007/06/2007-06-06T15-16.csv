@@ -1,0 +1,32 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26630,comment,26572,26572,0,0,tx,,,"People tried this approach many times: mimicking the real world, even in 3D, while trying to organize information better on the computer.<p>The problem is that in real world things get messy. That is why we started using computers to begin with! :-) 
+",1181145425
+26629,comment,26410,26410,0,0,acgourley,,,"For what it's worth, IDE's make java far less painful in a way an IDE could never help a dynamically typed language. <p>I used mostly python or other scripting languages before taking a primarily java-based job. At first I was fearful, but then I got a taste of what an IDE can do to Java.<p>Sure you have lots of libraries to call, and lots of mundane code to write, but the IDE is able to a) give you your options and b) autowrite the mundane code c) catch most errors before you compile thanks to tight syntax and (almost) strong typing<p>It can also save a lot of time over python which is prone to introduce program halting errors without any compile time notification. This is especially annoying if you have programs with a long runtime. <p>In the end, its just another tool in the bag. 
+",1181145235
+26628,comment,26570,26625,0,0,tx,,,"I wonder what's the percentage of code that 37signals produces  that goes into Rails itself, and how does it compare to their actual applications. I bet it's something like 9 to 1. <p>Don't get me wrong, I love Rails and thank you, 37signals, But let's not distort the reality: Rails is their biggest cash cow they are milking, and <i>there is absolutely nothing wrong with it</i>. 
+",1181145214
+26627,comment,26454,26528,0,0,Tichy,,,"Too bad the article doesn't state the numbers of immigrants/businesses started. Also, I guess immigrants will typically have more money than an average person, so starting a business might be slightly easier.",1181145009
+26626,comment,26611,26612,0,0,donna,,,"Here the common answer I find: Feasibility study
+A formal document presenting an overview of your business can help you recruit potential partners, investors or lenders. It should detail the following aspects of your business:
+-- The product or service: What are its unique features?
+-- The management team: Does your team have experience in the industry?
+-- The market: Who are the target customers? How big is the potential market? What are the costs required to reach the target market?
+-- The competition: Who are your major competitors? Is your product or service superior to the competition?
+-- The costs: What will it cost to start and run your business?
+Don't rely on credit cards
+Credit cards are a tempting but expensive source of capital for starting a business. If you resort to them for cash, your business plan should include a schedule for paying back that money within a year or so.",1181144855
+26625,comment,26570,26624,0,0,davidw,,,"Perhaps what he means is that the ""ecosystem"" is a pretty level playing field right now.  Since 37 signals conspicuously does not do rails development, service or support, anyone can jump in and play in that space.",1181144377
+26624,comment,26570,26570,0,0,tx,,,"So... he's basically saying that ""there is no Rails Inc"" because of two reasons:<p>1. If he does go full time Rails, it's not going to be the ""best"".
+2. If he does it, it will be ""unfair"" to competitors.<p>In my opinion it's a bunch of BS. Because there is already ""Rails Inc"" and it's called 37 signals. Rails is their most valuable product. They <i>are</i> making money on it, riding all the positive Rails PR, promoting the hell out of their relatively weak offerings (basecamp, ta-da lists). Very similar to how Joel makes money on his ""Joel on Software"" blog.
+",1181144244
+26623,story,,,1,0,abstractbill,"Google acquires peakstream",http://www.theregister.com/2007/06/05/google_buys_peakstream/,,1181144147
+26622,story,,,8,5,vlad,"New York Times versus Digg",http://www.stevepavlina.com/blog/2007/06/new-york-times-vs-digg-strange-new-media/,,1181143622
+26621,comment,26412,26460,0,0,NickDouglas,,,"""Every single idea is derivative. Many successful products are simply about taking something that exists and then changing its focus or its look.""<p>Yyyyyyes...but understand that Truemors is rather more ""derivative"" than, say, the iPod or Windows 3.11.",1181143609
+26620,comment,26520,26597,0,0,ced,,,"It's not <i>inherently</i> bad. There are trade-offs. Yes, proprietary software carries increased legal risks. OTOH, it is often better precisely because there is more incentive to build it than to build OSS.",1181143430
+26618,comment,26583,26601,0,0,vlad,,,Yes,1181143269
+26617,comment,26524,26555,0,0,NickDouglas,,,"Also, what he said.",1181143265
+26616,comment,26524,26529,0,0,NickDouglas,,,"If 500 people are willing to pay $10 for a piece of software, a developer has two options: 1. Make it on your site for $5000 (minus your cut) and feel good about themselves; 2. Make it themselves, sell it on the web for $10, and make much more money. So much for others' incentive to produce your product.",1181143238
+26615,comment,26275,26275,0,0,Tichy,,,"Any ideas for avoiding the login, though? It seems to me the prevalent reason for requiring it is to be able to ban users that write inappropiate things in your forums, for example?",1181143055
+26614,comment,26385,26455,0,0,Tichy,,,"I could recommend my soon to be published book ""How to finish reading 'Getting Things Done'"". If only I would finish writing it one of these days...",1181142880
+26613,comment,26520,26520,0,0,snorkel,,,"My favorite analogy of being a Microsoft developer comes from this article: <p><a href=""http://www.stepwise.com/Articles/Editorial/wjs_Windows.html"" rel=""nofollow"">http://www.stepwise.com/Articles/Editorial/wjs_Windows.html</a><p>""Lots of small programmers have a vision that working with Microsoft is like being one of those little toothbrush birds for crocodiles - sure, the crocodile is the one eating the zebras and gazelles, but there's plenty of crumbs left in the cracks between his teeth. The crocodiles don't hurt the birds, as they appreciate clean teeth, and the tiny birds can live very well off the morsels that the 20-foot crocodile deems not worth bothering with, so everybody wins.<p>The problem with this analogy is toothbrush birds never grow up to be crocodiles - they spend their whole lives just living off the gunk in crocodile's teeth.""
+",1181142785
