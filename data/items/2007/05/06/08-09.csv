@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19909,comment,19863,19863,0,0,SwellJoe,,,"Are you capable of using complete English words, or R U not?",1178439895
+19907,comment,19203,19382,0,0,akkartik,,,,1178439857
+19906,comment,18012,19403,0,0,akkartik,,,"Now can you get submit to inline the newly-added comment without reloading? :)<p>[edit] Agh, it already does. This totally rocks.",1178439806
+19905,comment,19649,19692,0,0,akkartik,,,"<a href=""http://news.ycombinator.com/comments?id=11086"" rel=""nofollow"">http://news.ycombinator.com/comments?id=11086</a>",1178439724
+19904,comment,19781,19813,0,0,akkartik,,,"Sometimes I think I am the only one on the planet who hates CPAN. Chasing dependencies gets old <i>really</i> fast. I really really like the python packaging model -- many packages contain a single code file which you can just save to development directory. No installation, no munging around with paths.<p>My favorite example: pyparsing\n<a href=""http://pyparsing.wikispaces.com"" rel=""nofollow"">http://pyparsing.wikispaces.com</a>",1178439333

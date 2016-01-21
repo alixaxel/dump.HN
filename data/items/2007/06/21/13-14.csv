@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+29811,comment,29293,29642,0,0,byrneseyeview,,,"You may want to consider implementing [Idea Futures](<a href=""http://hanson.gmu.edu/ifextropy.pdf)."" rel=""nofollow"">http://hanson.gmu.edu/ifextropy.pdf).</a>",1182434327
+29810,story,,,1,0,sigma3dz,"Overclocking as a business model ",http://www.ventureitch.com/?p=243,,1182432845
+29809,comment,29791,29803,0,0,cperciva,,,"You might not know what is ""right"" until you put it in front of users, but at very least you should know that certain things are ""not right"".  Cross-site scripting vulnerabilities fall into the category of ""not right"" regardless of what your website is supposed to be doing.",1182432830
+29808,comment,29634,29634,0,0,brlewis,,,"HTML first.  Then some SQL.  Then some JavaScript.  Then BRL (never PHP if you have a choice).  Then more SQL.  Then more JavaScript.\n",1182432528
+29807,story,,,6,0,nickb,"Outsourcing for startups",http://www.remi-vespa.com/?p=11,,1182432350
+29806,story,,,9,0,nickb,"Implementing Silverlight in 21 Days",http://tirania.org/blog/archive/2007/Jun-21.html,,1182431951
+29805,comment,29108,29108,0,0,mm,,,"seems like you're getting screwed. Try to get a better deal or jump ship. Man do i hate people who screw others.",1182431885
+29804,comment,29293,29642,0,0,mynameishere,,,"That idea is highly thievable. Done right, I could see it being a good go-to site for news in general.",1182431748
+29803,comment,29791,29791,0,0,brlewis,,,"The author is right in the domain he's working on, cryptographic security.<p>For those of us making web sites, we often won't know what ""right"" is until we put something in front of users.",1182431462
+29802,comment,29763,29767,0,0,jkush,,,"I would consider charging a small fee per minute (to the person calling you).<p>[edit] I absolutely love this idea! I love to see this kind of thing, too.\n",1182431332
+29801,comment,29335,29405,0,0,rzwitserloot,,,"I'm referring to the tales of orders-of-magnitude flexibility and productivity enhancement, mostly the ""Beating the Averages"" essay, in other words. Here's a fragment that seems to promise almost magical productivity:<p> It must have seemed to our competitors that we had some kind of secret weapon-- that we were decoding their Enigma traffic or something. In fact we did have a secret weapon, but it was simpler than they realized. No one was leaking news of their features to us. We were just able to develop software faster than anyone thought possible.\n",1182430888

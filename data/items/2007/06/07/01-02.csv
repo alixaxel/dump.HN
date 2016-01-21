@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26707,comment,26559,26704,0,0,staunch,,,"From a computer science perspective isn't that mostly true. What challenging technical problems does a banking system pose?<p>\n",1181181284
+26706,story,,,1,0,iamwil,"Gamasutra.com - Mars Sucks - Can Games Fly on Google Earth?",http://www.gamasutra.com/features/20061228/intel_01.shtml,,1181180690
+26705,story,,,1,0,iamwil,"OLYMPUS Development Kit for Red Hat Linux 8.0",http://www.arcom.co.uk/devkit-linux-olympus.htm,,1181180063
+26704,comment,26559,26559,0,0,mynameishere,,,"_banking software has got to be some of the least technically difficult software in the universe_<p>Breathtaking idiocy.",1181178895
+26703,comment,26672,26672,0,0,staunch,,,"California at least has quite reasonable laws on this stuff. As long as you're not doing anything shifty and you are strictly using own resources and time there's not much to worry about.<p>Whether you should talk to your employer mostly depends on the company you work for and the laws in your area.\n",1181178478
+26702,comment,26660,26660,0,0,bootload,,,"'<i>... infrastructure is a good fit for open source. We don't believe consumer products are as good a fit ...'</i><p>this is a good point. Does MT4 being released as open source mean the source code is no longer the product and the service (source code, hardware, scaling technologies, users) now is?",1181178340

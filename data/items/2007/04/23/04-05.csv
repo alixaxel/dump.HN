@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+15903,comment,15743,15743,0,0,russ,,,"You must have heard from YC by now? What's the verdict? I can't take the suspense!\n",1177303819
+15902,comment,15748,15890,0,0,Sam_Odio,,,"Some of the features could have different URLs (for example, demomyapp.com wouldn't have to move) - but it'd be cool to run we all off the same server w/ the same theme/layout and same user authentication process.<p>Kind of like google accounts w/ google/gmail/google analytics/etc.",1177302550
+15901,comment,15880,15880,0,0,bootload,,,"Great spot sam. You know the market is maturing when their are tools that allow ranking.  Interesting to see news.yc at 92 and ycombinator 82 and joelonsoftware 98.",1177302347
+15900,comment,15748,15899,0,0,jaggederest,,,"No database there for that, and pg_hba.conf is set up to not allow outside connections, but aside from that, my host uses mysql and I develop on postgres.<p>Heh. I'm a bit amped.",1177302224
+15899,comment,15748,15898,0,0,Sam_Odio,,,"Be careful about your database.yml file :)",1177302174
+15898,comment,15748,15894,0,0,jaggederest,,,"SVN is up. <a href=""http://www.jaggederest.com/jobs/svn/"">http://www.jaggederest.com/jobs/svn/</a>",1177301878
+15897,comment,15748,15890,0,0,omouse,,,"That's a good idea, and the first step is organizing.<p>My email's omouse@gmail.com and my name's Rudolf.",1177301837
+15896,story,,,8,2,usablecontent,"Google Calendar Nightmare Release",http://startupmeme.com/2007/04/22/google-calendar-nightmare-release/,,1177301645
+15895,comment,15818,15849,0,0,waleedka,,,"The page contains a list of cities where there are co-working arrangements or groups willing to arrange something. Select your city and see what's there. Or, you can start something yourself and add your city (it's a wiki). They also have a Google group to communicate and a blog. I think they're doing a great job promoting the concept.",1177300955
+15894,comment,15748,15838,0,0,jaggederest,,,"it'll be at <a href=""http://jobs.jaggederest.com/"">http://jobs.jaggederest.com/</a>",1177300930

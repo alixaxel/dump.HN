@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-37039,comment,36905,36933,0,0,Zak,,,"I think most people mean something more like Uncommonweb or KPAX. I built a fairly sophisticated application for a client using TBNL (now Hunchentoot), CL-WHO and CLSQL.<p>Building a web application doesn't require a framework; it does require a set of libraries to handle talking over http, generating HTML and often talking to a database. Since most frameworks include these, some people may confuse the two. A framework is really just a half-done bottom-up application, which is pretty useful when it matches the kind of application you're building and pretty useless otherwise.",1185518579
-37038,comment,36823,36996,0,0,tx,,,"Depends on what tech you're talking about. Some areas are not developonig has rapidly as electronics, computers and software. For instance russian jet fighters are still very much on top in many respects, but their avioncis/radar/target tracking suck big time comparing to modern american/french fighters. (and THAT I heard from a friend who's <i>russian</i> defence contractor).",1185518505
-37037,comment,36964,36964,0,0,Stewie,,,"Java OR HTML!! What the deuce ?!!",1185518017
-37036,story,,,2,0,gibsonf1,"Microsoft's Ozzie opens up on Internet 'cloud' services",http://news.com.com/8301-10784_3-9750850-7.html?tag=bl,,1185517871
-37034,story,,,1,0,gibsonf1,"Microsoft decides 'open' is better than 'shared': What this says about OSI",http://news.com.com/8301-10784_3-9750653-7.html?tag=nefd.only,,1185517653
-37033,story,,,3,0,gibsonf1,"Online Publishers Need To Stop Selling Space",http://publishing2.com/2007/07/26/online-publishers-need-to-stop-selling-space/,,1185517501
-37032,comment,36964,36964,0,0,far33d,,,"$240k to be a part of a monumental failure? Please. I'd rather work for IBM.
-",1185516598

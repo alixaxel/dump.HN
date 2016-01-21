@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-25319,comment,25280,25280,0,0,nickb,,,"I wasted 2 weeks on web.py. Why a waste? No documentation and you outgrow it VERY quickly. As soon as you realize you need a feature (e.g. caching), you'll have to implement it yourself. <p>The sooner you switch over to Django, the better and easier your life will be.
-",1180493304
-25318,comment,25239,25239,0,0,AF,,,"That clip struck me as Kevin being really shady. He acts like he is a completely objective third party ('they', 'they', 'they'). I bet a lot of people wish that they could promote their site to millions of people for free.<p>Anyway, promoting something like that and not making clear it is yours is dishonest, imo.",1180493275
-25317,comment,25251,25251,0,0,googvsfacebook,,,"Whoever said you can't teach an old dog new tricks? Looks like grandaddy google still has a few tricks up his sleeve. Will Zucks and his merry band of 20-something API'ers be able to counter 30-something Serge and Larry's 3-D maps? Only time will tell. ",1180491770
-25316,story,,,1,0,danw,"Google Releases Mapplets - Widgets for Maps",http://radar.oreilly.com/archives/2007/05/where_20_google_3.html,,1180491351

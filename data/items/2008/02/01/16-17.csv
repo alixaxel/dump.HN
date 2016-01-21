@@ -1,0 +1,30 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+107894,story,,,1,0,surya,"Microsoft + Yahoo = Microwho?",http://arnavk.blogspot.com/2008/02/microsoft-yahoo-microwho.html,,1201885199
+107893,story,,,1,0,kirubakaran,"Pirate Bay: big revenue claims fabricated by prosecutors",http://arstechnica.com/news.ars/post/20080201-pirate-bay-big-revenue-claims-fabricated-by-prosecutors.html,,1201885153
+107892,story,,,1,0,kirubakaran,"FCC Auction Opens Door to Open Access",http://www.businessweek.com/technology/content/jan2008/tc20080131_154134.htm?chan=top+news_top+news+index_businessweek+exclusives,,1201885112
+107891,comment,107771,107771,0,0,some,,,"How could an offer, that is 62% higher then the price at the stockmarket be refused?",1201885083
+107890,comment,107883,107883,0,0,Tichy,,,"Looks good - good luck with it! I have always wondered why something like that doesn't exist.",1201885047
+107889,comment,107771,107888,0,0,joeguilmette,,,"haha yea it'd be expensive. maybe $50 billion expensive.",1201885011
+107888,comment,107771,107839,0,0,patrickg-zill,,,"Sure they could fund a lot of startups.  But how would you manage 1000 startups - hire 50 in-house VCs?<p>Better to let former MS employees bet their own cash on startups, which MS then gets to pick and choose and buy the ones they find most interesting.<p>And don't write off Yahoo's presence in the Third World, like China, Philipppines, India, etc.  As those economies grow Yahoo's user base there will be more valuable.",1201884780
+107887,comment,107647,107647,0,0,Zak,,,"So... to avoid using tables, reinvent all the table-related tags as classes? I haven't had my caffeine yet. Is this a joke?<p><i>Plus, you have to use ""float,"" which if you think about it means you're really just pushing the dirt under the CSS rug.</i><p>Isn't that what CSS is all about?",1201884712
+107886,comment,107545,107634,0,0,SwellJoe,,,"It's also not true with airlines.",1201884641
+107885,comment,107870,107870,0,0,chaostheory,,,"besides aws - what did you use to build this?",1201884510
+107884,story,,,1,0,robg,"Microsoft's Yahoo Bid Is Also About Business Users",http://blogs.wsj.com/biztech/2008/02/01/microsofts-yahoo-bid-is-also-about-business-users/,,1201884412
+107883,story,,,4,1,liliyal,"Just launched a social news site for fashion, beauty, etc. (with pretty photos) Comments?",http://www.prettysocial.net/,,1201884370
+107882,comment,107771,107845,0,0,DarrenStuart,,,"yeah good point but they are not losing money and I think you will see google do the same thing in a few years once they hit the peak for their products.<p>Yahoo's problem seems to be the management and the fact they are still playing catch up with adsense.",1201884283
+107881,comment,107874,107874,0,0,chaostheory,,,"in my opinion - if Yahoo accepts; all of the open source projects under its under wing are in danger; I'm already thinking of how to get out of yui...",1201884126
+107880,comment,107870,107872,0,0,chaostheory,,,"Nice - I can see using this with my older relatives that live far away =)",1201884020
+107879,story,,,9,0,robg,"How Microsoft Could Go Hostile",http://dealbook.blogs.nytimes.com/2008/02/01/how-microsoft-could-go-hostile/index.html?hp,,1201883751
+107878,comment,107759,107759,0,0,stcredzero,,,"It's a big missing feature in Java and Python.",1201883247
+107877,comment,107759,107759,0,0,huherto,,,"Closures would be nice in Java.",1201883178
+107876,comment,107683,107683,0,0,stcredzero,,,"Sounds like he's lost his faith in Lisp uber-alles, but not necessarily in high-level languages or dynamic languages.",1201882828
+107875,story,,,1,0,iamelgringo,"Programmer's food pyramid",http://osteele.com/images/2008/programmers-pyramid.png,,1201882635
+107874,story,,,5,4,iamelgringo,"Open-source silver lining in Microsoft's wedding vow to Yahoo?",http://blogs.cnet.com/8301-13505_1-9862772-16.html?part=rss&subj=news&tag=2547-1_3-0-20,,1201882601
+107873,comment,107771,107771,0,0,chaostheory,,,"crap... given MS's history with standards, I should switch from yui's css framework to another one if the bid goes through",1201882572
+107872,comment,107870,107870,0,0,zemaj,,,"Hi All,<p>I launched thatsmymouse.com this morning. Mashable posted a very positive review; <a href=""http://mashable.com/2008/01/31/thatsmymouse/"" rel=""nofollow"">http://mashable.com/2008/01/31/thatsmymouse/</a><p>I read news.yc everyday (or all day as the case may be), so if you have any questions feel free to post them here.",1201882299
+107871,comment,107771,107854,0,0,joeguilmette,,,"my point is that they could get a lot more bang for their buck elsewhere. yahoo is a <i>dying</i> brand.<p>if they invested that $45 billion in 45  one billion dollar projects, if at least <i>one</i> of them had an annual net of more than $700 million/year, they are doing better than buying Yahoo.",1201882276
+107870,story,,,10,11,zemaj,"thatsmymouse.com - Social browsing",http://thatsmymouse.com/,,1201882095
+107869,story,,,1,0,iamelgringo,"Intel releases graphics programming manual",http://intellinuxgraphics.org/,,1201882088
+107868,comment,107771,107855,0,0,huherto,,,"shit! I am going to have to move a way from deli.cio.us, I already had lot of links!",1201881964
+107867,story,,,1,0,nsimpson,"Persuasion: Facts don't sway people, feelings do.  And stories are the best way to evoke feelings.",http://fridayreflections.typepad.com/weblog/2008/01/facts-dont-pers.html,,1201881796
+107866,comment,107683,107842,0,0,anamax,,,"I note that infix was so natural that you resorted to parens.<p>Infix looks reasonable until one has more than 2 operators.  Then people start making mistakes.  To combat those mistakes, they start parenthesizing.  The number of mistakes goes down but there's still confusion.  (Some folks know more precedence levels than others and many folks think that they know precedence levels that they don't know.)",1201881744

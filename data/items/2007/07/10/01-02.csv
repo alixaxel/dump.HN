@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33383,story,,,2,0,thinkingserious,"Three Basic Steps for Any Startup Venture",http://blog.thembid.com/index.php/2007/07/09/three-basic-steps-for-any-startup-venture,,1184032246
+33382,story,,,1,0,purblind,"Entrepreneur in Residence, the cushy garage alternative",http://finiteloop.org/~btaylor/startingup/entrepreneur-in-residence,,1184032216
+33381,comment,33350,33373,0,0,far33d,,,"If they underprice the offering, the price will go up a LOT during public trading on the first day, hence, high actual price for everyday investors and a big payout for the IBankers. <p>So what I'm saying is, if I can get in at a reasonable valuation, I'm in. If not, I might wait it out til the hype wears down a bit.",1184031443
+33380,comment,33287,33287,0,0,morselsrule,,,"I'd be interested.  I'm living in Cambridge now, and am working for a startup.  Shoot me an email:  patfitz06 aaat  gmail",1184031298
+33379,comment,33361,33361,0,0,patrickg-zill,,,"Why do you need to take the site down to do maintenance?  Even if moving physically from one server to another you should be able to migrate with almost zero downtime.",1184030892
+33378,story,,,7,0,dawie,"Best of May/June 2007",http://www.smashingmagazine.com/2007/07/09/best-of-mayjune-2007/,,1184030643
+33377,story,,,1,0,farmer,"Big, Big Round of Funding For Ning",http://www.techcrunch.com/2007/07/09/big-big-round-of-funding-for-ning/,,1184030300
+33376,comment,33322,33322,0,0,jmclain,,,"I am using PayPal's PayFlowPro.  They were acquired by PayPal from Verisign, I believe.  It has an XML API and a url string type of API.  The API contains a very convenient methodology for handling subscription payments, which is why we use them.  I was not really into storing credit card information, so the recurring payment is very handy.  Very good reporting API as well.",1184030116

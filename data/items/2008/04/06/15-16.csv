@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+156191,comment,155830,155830,0,0,pkrumins,,,"Jessica Alba and monkeys!",1207497424
+156190,comment,156139,156165,0,0,sohail,,,"Yes, it is a famous misquote. ""God"" to Einstein was the universe.",1207497339
+156189,comment,155833,155988,0,0,smalter,,,"yahoo's board is in trouble, but it doesn't seem as if the shareholders are. either the merger will go through at $31/share, which is pretty good (even for those who got in at $29/share)--or the shareholders will get to vote on it in a proxy fight. the only losers in the latter scenario are those who vote in opposition to the final result. but whichever result that is, a majority of the shareholders will have believed in that outcome (either higher value with existing management or higher value with microsoft's offer) such that that outcome might actually be plausible, and we can all go forward from there.",1207497197
+156188,comment,155869,155869,0,0,chaostheory,,,"in the same vein as gdb is strace, another lifesaver if you're on almost any nix box",1207496156
+156187,story,,,33,42,chaostheory,"The True Price of SMS Messages",http://gthing.net/the-true-price-of-sms-messages/,,1207495851
+156185,story,,,22,8,chaostheory,"Waf: a Python-based framework for configuring, compiling and installing applications.",http://code.google.com/p/waf/,,1207495480
+156184,comment,156076,156076,0,0,subwindow,,,"Good article.  I had seen the original from the Skype blog, but it was kind of empty.  This was a good recap.  Plus, it liked to SkyTools, which for some reason I had never heard of.",1207495475
+156183,comment,156118,156118,0,0,aschobel,,,"curl -I <a href=""http://www.smugmug.com/test/safari/300k.jpg"" rel=""nofollow"">http://www.smugmug.com/test/safari/300k.jpg</a><p><pre><code>  HTTP/1.1 200 OK\n  Date: Sun, 06 Apr 2008 15:16:43 GMT\n  Server: Apache\n  Last-Modified: Mon, 17 Mar 2008 06:17:28 GMT\n  ETag: ""4c00f-f9632e00""\n  Accept-Ranges: bytes\n  Content-Length: 311311\n  Content-Type: image/jpeg\n\n</code></pre>\nBug? Why doesn't he add an Expires header?<p><a href=""http://developer.yahoo.com/performance/rules.html#expires"" rel=""nofollow"">http://developer.yahoo.com/performance/rules.html#expires</a>",1207495183
+156182,comment,156119,156155,0,0,pg,,,"Well, go find and submit some better stories then.",1207494904
+156181,story,,,2,0,net0guy,"A powerful bot enables JobArray to collect jobs without prior cooperation with content publishers",http://www.jobarray.com/,,1207494786
+156180,story,,,35,50,grotius,"More undergraduates are majoring in philosophy",http://www.nytimes.com/2008/04/06/education/06philosophy.html?em&ex=1207627200&en=cf253583648590d5&ei=5070,,1207494779
+156179,comment,156121,156121,0,0,iamelgringo,,,"It's the glassy eyed, far off, hungry look.  When you're trying to geek out with someone about web stuff, and it seems like they're just looking through you and throwing out buzz words...  it's time to exit stage left.",1207494716
+156178,comment,156121,156121,0,0,aneesh,,,"""the next facebook""",1207494639
+156177,story,,,61,72,kradic,"Is poverty self-perpetuating?",http://www.boston.com/bostonglobe/ideas/articles/2008/03/30/the_sting_of_poverty/?page=full,,1207494558
+156176,story,,,1,0,iamelgringo,"PostGres: High Availability, Load Balancing, and Replication",http://www.postgresql.org/docs/8.3/static/high-availability.html,,1207494557
+156175,story,,,3,0,kradic,"A Tinypy: a minimalist implementation of python in 64k of code",http://www.tinypy.org/,,1207494396
+156173,story,,,1,0,bkow20,"Apple Challenges NYC Bid for New `Big Apple' Logo",http://www.bloomberg.com/apps/news?pid=20601103&sid=a8qELO6fs2YU&refer=us,,1207494274

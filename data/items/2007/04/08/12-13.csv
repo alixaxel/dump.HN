@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+10419,comment,10419,9294,0,0,igrigorik,,,"Are you certain? This must be new, because before your would get a fresh machine every time. Anytime you boot, AMZ looks at the image you want to run, and they unpack and uninstall it for you, meaning that even a reboot led to a clean drive. Now, there's been some talk about 'shadow copies' where you might even get access to other customers data by simply starting a deep scan on the drive.. but that's hardly persistence. ",1176037047
+10418,comment,10407,10407,0,0,igrigorik,,,"""we"" - if you want to be a big dog, you gotta act like one.\n",1176036763
+10417,comment,10407,10407,0,0,ivan,,,"So you are acting as a big company no matter you working alone?",1176035574
+10416,comment,10407,10407,0,0,staunch,,,"<i>""The market is a lot more discerning than any employer. And it is completely non-discriminatory. On the Internet, nobody knows you're a dog.""</i> -- <a href=""http://www.paulgraham.com/hiring.html"">http://www.paulgraham.com/hiring.html</a>\n",1176034964
+10415,comment,10409,10409,0,0,yaacovtp,,,"Also check out <a href=""http://copyblogger.com,"">http://copyblogger.com,</a> The Ultimate Sales Letter by Dan Kennedy and Triggers by Joe Sugarman.",1176034525
+10413,story,,,2,0,jk,"A Giant Leap Forward in Computing? Maybe Not - New York Times",http://www.nytimes.com/2007/04/08/business/yourmoney/08slip.html?ex=1333684800&en=dab8f9cf4a5fd7ff&ei=5090&partner=rssuserland&emc=rss,,1176033933

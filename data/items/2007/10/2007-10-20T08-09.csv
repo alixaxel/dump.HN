@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-70660,story,,,1,0,davidw,"Everything I need to know about economics I learned from beer",http://www.economist.com/blogs/freeexchange/2007/10/everything_i_need_to_know_abou.cfm,,1192870618
-70659,comment,70501,70654,0,0,davidw,,,"IMO the reason that Microsoft managed to get its monopoly (one of the reasons, at least) is that they ""settled"" for controlling the software on top of an open platform, whereas Apple wanted control of both the OS <i>and</i> the hardware, thus biting off more than they could chew.",1192870403
-70658,comment,70452,70456,0,0,jonathan,,,"14 year olds suck!",1192870091
-70657,comment,70501,70651,0,0,RyanGWU82,,,"Nope.  Apple publishes instructions to help users upgrade the memory of all Mac models (except the Mini?) and the hard drives of most models.",1192869682
-70656,story,,,10,8,keaneu,"The end of Microsoft as we know it?",http://www.marketwatch.com/enf/rss.asp?guid={440BADC1-5825-482B-8976-153BEF719233}&amp;siteid=rss&amp;rss=1,,1192867489
-70655,comment,70624,70644,0,0,cperciva,,,"When I've been asked to review papers, I've been explicitly asked for a vote of ""publish"", ""reject"", or ""this might be worth publishing if improvements are made"".",1192867344

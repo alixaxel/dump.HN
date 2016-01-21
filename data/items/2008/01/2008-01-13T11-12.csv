@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-97826,comment,96813,96813,0,0,icky,,,"If you do want to play with free tools, try haXe and swfmill.",1200225406
-97825,comment,97751,97799,0,0,icky,,,"I don't believe he was ever a COBOL expert, since COBOL is basically stripped-down English with the added requirements of syntax, logic, and correct spelling.",1200224545
-97824,comment,97573,97721,0,0,corentin,,,"I've noticed that, over time, programmers (including myself) tend to break some punctuation rules. I guess it's because we don't write:<p>char *foo = ""bar;""",1200223480
-97823,comment,97709,97815,0,0,corentin,,,"It's just that people have a different opinion of what good style is (a lot of people <i>love</i> Comic Sans MS and websites with animated, blinking stuff).",1200223186
-97822,comment,97573,97695,0,0,akkartik,,,"Or ffbb88",1200222519
-97821,comment,97590,97698,0,0,eru,,,"Well said.<p>Reminds me of the broken window fallacy (<a href=""http://jim.com/econ/chap02p1.html"" rel=""nofollow"">http://jim.com/econ/chap02p1.html</a>).",1200222337
-97820,comment,97587,97662,0,0,Tichy,,,"I don't know, what about criminals? They make money, too, but do they make meaning?",1200222173
-97819,story,,,14,1,eru,"Database of VCs: how they treat founders",http://thefunded.com/,,1200222001

@@ -1,3 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-31967,comment,31918,31918,0,0,kyro,,,kbeshay@gmail.com,1183351893
-31966,comment,363,363,0,0,mark-t,,,"1. Make it clear that feature requests are not welcome as threads on the submit page. Provide a link to this thread.<p>2. If no URL is given, prompt the user to submit a comment before creating the thread. If given, always display that comment at the top of the page.",1183350513

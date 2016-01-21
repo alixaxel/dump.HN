@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-56225,comment,55974,55974,0,0,mstevens,,,"A better email client - automatic classification of incoming mail, understanding mailing list headers, reminding me to add attachments if I've said ""see attached"", understanding bounce messages and tracking them against that address in my contacts list (""You're trying to email <foo>. I see that didn't work last time. Please check the address is correct.""). etc.<p>",1190116393
-56224,story,,,1,0,tzury,"NOSO: NO SOcial Networking",http://nosoproject.com/,,1190115636
-56223,comment,56159,56201,0,0,staunch,,,"As soon as I looked at it again I realized the problem.",1190114899
-56222,comment,55958,55958,0,0,dpapathanasiou,,,"In many ways, it's still an issue today: most users (especially for web applications) have come to expect software to be free, but not every business can generate cash from advertising.",1190114544
-56221,comment,56108,56152,0,0,dpapathanasiou,,,"Sign of the Times? ;)<p>(sorry, couldn't resist)",1190114321

@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-84927,comment,84813,84924,0,0,tyler,,,"No one said anything about truth or falsehood.  The truth, unfortunately, does not just automatically win in an argument.",1196407526
-84925,comment,84721,84794,0,0,tyler,,,"I'm so tired of that comparison.<p>Heres the difference:  Rails is programmed on Ruby.<p>Rails in itself is, to me, not that impressive.  It does a lot of things right, but it does probably just as many wrong.  Not the least of which is scaling.<p>But the advantage that Rails has is that its programmed on top of Ruby.  And for that reason it will never be truly akin to the monstrosity that was VB.<p>Except in that it attracts poor developers.  But, thats simply because its easy.   The trick is finding the people who use Rails because of Ruby... not the other way around.",1196406537
-84924,comment,84813,84813,0,0,inklesspen,,,"It can't be done. The truth doesn't become falsehood just because it gets voted down.",1196406413
-84923,story,,,1,0,ceesai," How science-fiction writers weave tales from GIGO models",http://www.discerniblepreferences.com/2007/11/how-science-fic.html,,1196406026

@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-24790,story,,,4,3,gibsonf1,"Web application design: the REST of the story (Also see linked long email discussion)",http://www.findinglisp.com/blog/2004/11/web-application-design-rest-of-story.html,,1180186966
-24789,comment,24648,24755,0,0,rzwitserloot,,,"'get users paying five bucks a month'? Sounds difficult.<p>I'll leave that to another enterprising soul. I think that's best left as an add-on of sorts to existing aggregators.",1180185221
-24788,comment,24648,24786,0,0,rzwitserloot,,,"Dreamhost is wonky a lot, of late. From time to time it sort of goes down for a couple of minutes, then comes back later.<p>We'll get the 1U installed at a colo facility soon and move this page over.",1180185123

@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26970,comment,26969,26969,0,0,benhoyt,,,"I thought you'd have to be logged in, but it looks like you don't -- so maybe this is another free Google service. :-)<p>Just change the p= to your own base 36 number (0-9 a-z):<p>https://www.google.com/analytics/reporting/sparkline?p=0055009900ff00mm00zz00<p>Or http, but IE might warn you about ""showing non-secure items"":<p><a href=""http://www.google.com/analytics/reporting/sparkline?p=0055009900ff00mm00zz00"" rel=""nofollow"">http://www.google.com/analytics/reporting/sparkline?p=0055009900ff00mm00zz00</a>",1181346425
+26969,story,,,5,4,benhoyt,"Use Google Analytics to generate your own 75x18 interpolated graphs",,,1181346361
+26968,comment,26926,26927,0,0,steve,,,"You're worrying too much about respect a company gets. It's not about that.<p>If a company makes a billion dollars selling retarded pink web2.0 bunnies while you built high power laser communication systems and made one tenth that -- as a company, they have won.",1181346084
+26967,comment,26926,26963,0,0,far33d,,,"Well, students are a great market for the credit card industry, so they must be spending that money SOMEWHERE.\n",1181344870
+26966,comment,26930,26930,0,0,phil,,,"Angry and mostly incoherent.",1181344812

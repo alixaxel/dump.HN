@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-4872,comment,4861,4861,0,0,mattculbreth,,,"We're building on PostgreSQL now.  I'm not an expert on either platform but the research I did led me to PostgreSQL due to its better performance on larger systems and in more traditional enterprise software categories.  Our software will operate with Oracle sometimes and having a similar database will make a few things easier.
-",1174244008
-4871,story,,,13,3,sofus,"How to be creative",http://www.gapingvoid.com/Moveable_Type/archives/001760.html,,1174242809

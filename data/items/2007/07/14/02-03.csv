@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34159,comment,33886,34040,0,0,Jd,,,"Yeah, this is mostly about speed of growth in social networks and only looks at Yahoo 360 and Flickr.  I will keep looking for the original paper and post back if I find it.",1184381676
+34158,story,,,3,0,jcwentz,"LinkedIn Traffic Up, But Is It Enough?",http://www.techcrunch.com/2007/07/13/linkedin-traffic-up-but-is-it-enough/,,1184381530
+34157,comment,34114,34114,0,0,nostrademons,,,"Who says?  I'm just waiting for my VM to boot. ;-)",1184379528
+34156,comment,33886,34100,0,0,nostrademons,,,"Database for searching for by the item (news story, game, journal entry), pickle or sexprs for the individual comment threads.  The database helps you manage the hopefully large number of news stories you'll get.  The tree takes care of individual comments for a single news story.<p>Many filesystems have trouble with large numbers of files in a single directory, as you'd get with eg. pickle tree to a file per item.",1184379470

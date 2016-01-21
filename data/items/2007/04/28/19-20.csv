@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+17744,comment,17669,17719,0,0,papersmith,,,"If access to the closures are session-specific, you'll have to hijack the session to do that.",1177790391
+17743,comment,17742,17742,0,0,papersmith,,,"Hi,<p>Does anyone have any idea on scaling high traffic sites in Common Lisp?  Does any existing server or framework store session objects on disk?  So far I couldn't find a CL client for memcached, are there any other ways to handle caching?",1177789967
+17742,story,,,5,6,papersmith,"Scaling lisp web apps",,,1177789939
+17741,story,,,3,0,pfedor,"Audrey Tang's talk about Perl 6 (Google Video)",http://video.google.com/videoplay?docid=-3876155376103839772,,1177789340
+17740,story,,,1,0,danw,"Don't ever let anyone tell you that something is too competitive",http://www.techquilashots.com/2007/04/28/quote-dont-ever-let-anyone-tell-you-that-something-is-too-competitive/,,1177789132
+17739,comment,17737,17737,0,0,gibsonf1,,,"I wonder if they are using S3?",1177788658
+17738,comment,17701,17720,0,0,ecuzzillo,,,"I wouldn't say that anybody who programs is likely to be able to pick up a new language easily. Anybody who has been exposed to most of the common ways of thinking about programming (functional, logic, the various subsets of OO, imperative) can probably pick up a language that uses any of those pretty easily (it's basically just syntax from there). Similarly, someone who knows both Chinese and English can probably pick up French pretty easily, because their tools for thinking about languages are expanded enough that picking up another one doesn't involve significant restructuring. <p>However, if you take someone who programs in Basic, and try to teach them Lisp, it will take them a long time, because there are lots of new concepts to learn. Similarly, if you take an English speaker and try to teach them Chinese, there will be a lot of stuff to learn, and it will take a long time. ",1177788417
+17737,story,,,5,7,pg,"Mozy Online Backup: Free. Automatic. Secure.",http://mozy.com/,,1177788330
+17736,comment,17679,17713,0,0,russ,,,"Not to mention Flex/Flash's ability to scale to screen size is much more flexible than laying out pages via XHTML/CSS",1177788274
+17735,comment,17669,17719,0,0,pg,,,"The code explicitly protects against that.\n",1177787940
+17734,comment,17683,17683,0,0,ralph,,,"Sorry, but what's the connection to Startup News?",1177787907
+17733,comment,16031,16031,0,0,asdf333,,,"""Be the change you want to see in the world"" --Ghandi\n",1177787802
+17732,comment,17711,17727,0,0,PStamatiou,,,"Anyone in the Atlanta area? Alternatively I will be in the CA bay area in july..",1177787742
+17731,comment,17566,17566,0,0,Tichy,,,"I noticed that the amazon stock price seems to have taken a jump of ~25% four days ago, what was that all about - was it related to the buzz around S3 and ECx?",1177787120

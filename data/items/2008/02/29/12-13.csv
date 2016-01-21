@@ -1,0 +1,29 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+126053,story,,,1,0,edw519,"How to 'Google Bomb' an Enemy",http://howto.wired.com/wiki/'Google_Bomb'_an_Enemy,,1204289927
+126052,story,,,1,0,edw519,"Robin Williams Saves the Day at TED When Tech Fails",http://blog.wired.com/business/2008/02/robin-williams.html,,1204289874
+126051,comment,125974,125974,0,0,ConradHex,,,"I think the real problem in this case is being unwilling to cut features, and having too large of an initial feature set.<p>The last 10% always takes a long time, but it sounds like things are getting out of hand here.",1204289849
+126050,story,,,1,0,brk,"Company gaming Google search results leads to $2 million in revenue",http://businessshrink.biz/psychologyofbusiness/2008/02/28/company-gaming-google-search-results-leads-to-2-million-in-revenue/,,1204289810
+126049,story,,,1,0,edw519,"Will New Blu-ray Drives Suck Your Laptop Battery Dry?",http://www.wired.com/gadgets/pcs/news/2008/02/bluray_power,,1204289791
+126048,story,,,1,0,edw519,"Salesforce.com: Why the model is working",http://blogs.zdnet.com/BTL/?p=8105,,1204289702
+126047,story,,,1,0,brk,"New Google Health Screenshots",http://blogoscoped.com/archive/2008-02-28-n18.html,,1204289694
+126046,story,,,5,0,brk,"Teenage Hacker Is Blind, Brash and in the Crosshairs of the FBI",http://www.wired.com/politics/law/news/2008/02/blind_hacker,,1204289652
+126045,comment,125974,125974,0,0,jcromartie,,,"I think I prefer this adage:<p>""the first 90 percent of the work is easy, the second 90 percent wears you down, and the last 90 percent - the attention to detail - makes a good product""<p>(from <a href=""http://www.pacifict.com/Story/"" rel=""nofollow"">http://www.pacifict.com/Story/</a>)",1204289518
+126044,comment,125950,125950,0,0,edw519,,,"Negotiate a 6 month review instead of the usual one year.  If you're any good, you'll get your first raise 6 months early.  You may want to say something like, ""The salary is not quite what I was hoping for, but I want to get started here so badly, I'm willing to accept it.  I plan to do such good work that we'll both see that a 6 month review makes sense.""  How can they say no to that?",1204289458
+126043,story,,,14,3,muriithi,"Never Complain. Only Ever Code.",http://gilesbowkett.blogspot.com/2008/02/never-complain-only-ever-code.html,,1204289293
+126042,story,,,1,0,GIMAD,"MyBLogLog Launches v.2 of service",http://fvrit.com/archive/2008/02/29/mybloglog-launches-v.2-of-service.aspx,,1204289163
+126041,story,,,1,0,muriithi,"DARPA to fund development of modular satellite technology ",http://www.networkworld.com/community/node/25502,,1204288683
+126040,comment,115348,115359,0,0,extantproject,,,"Did you get this working?",1204288643
+126039,comment,126024,126024,0,0,bdfh42,,,"10 second opinion (based on no knowledge whatsoever) - looks like something for the corporate parameter tweaking suits to play with and not a developer's tool.<p>If you want to target .NET then surely you use Visual Studio? If you want to write Java apps then (?) Eclipse",1204288553
+126038,comment,125112,125645,0,0,extantproject,,,"EC2 is built on Xen.",1204288415
+126037,story,,,1,0,muriithi,"University of San Francisco Law Clinic Joins Fight Against RIAA",http://recordingindustryvspeople.blogspot.com/2008/02/university-of-san-francisco-school-of.html,,1204288413
+126036,story,,,11,2,buckpost,"The New OS Landscape: Real Competition ",http://www.markevanstech.com/2008/02/29/the-new-os-landscape-real-competition/,,1204288236
+126035,story,,,1,0,muriithi,K2C,http://thedailywtf.com/Articles/K2C.aspx,,1204288209
+126034,comment,125158,125975,0,0,aston,,,"Ubuntu's a fine OS, but it's not really to be compared to Windows or OS X for general purpose computing, mostly because it's not popular enough to merit serious 3rd party investment.<p>Wake me up when I can apt-get install photoshop-cs3<p>PS: I code all day on Ubuntu.",1204287961
+126033,story,,,1,0,muriithi,"Scripting GIMP with Scheme",http://benjisimon.blogspot.com/2008/02/earning-my-script-fu-blackbelt.html,,1204287939
+126032,comment,125968,125998,0,0,muriithi,,,"I doubt whether this ""censorship to increase productivity"" would apply to places like Iraq and Afghanistan where soldiers cannot provide their own Internet.IMHO that is where the military would want to really want to clamp down on posting of ""sensitive"" information.<p>Even in ordinary companies I doubt whether restricting internet access leads to improved productivity. A worker intent on wasting time will find a new way of doing it if you restrict his internet.",1204287768
+126031,story,,,8,9,jgamman,"The most interesting problem in physics?",http://www.aip.org/pnu/2008/split/857-2.html,,1204287666
+126030,comment,125119,125580,0,0,aston,,,"Skinny columns are a hallmark of newspapers, mostly because they're a lot easier to read. I'm not arguing that the design was great here, but if you look at CNN's stories, they're not all that wide, either.",1204287635
+126029,comment,126028,126028,0,0,brk,,,"Some good Friday-morning thoughts in the latest post.",1204287562
+126028,story,,,1,1,brk,"The latest comments on Venture Hacks: Founder Edition",http://venturehacks.com/articles/comments-founder,,1204287545
+126027,comment,125119,125358,0,0,aston,,,"Eh, it's happened before. Mike Stoppelman's gotten his looks talked about on Valleywag, as has Ben Ling.<p>Pretty people getting called pretty: it's not sexism, it's a compliment.",1204287472
+126026,comment,125766,125804,0,0,apgwoz,,,"In order to truely benefit from this, you'd have to ensure you're not just translating the PHP into Lisp.",1204287216

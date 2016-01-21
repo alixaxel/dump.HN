@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-76220,comment,76052,76052,0,0,wenbert,,,"for me, planning is my favorite part... :/",1194252797
-76219,story,,,20,6,staunch,"Marc Andreesen: Suicide by strike",http://blog.pmarca.com/2007/11/suicide-by-stri.html,,1194252771
-76218,comment,76062,76062,0,0,staunch,,,"One of the biggest reasons any non-geek in the US gets a computer is for email. In Japan they <i>all</i> have phones with email. I think long-term it's probably a real problem for Japan that an awful lot of people aren't PC users.",1194252502
-76217,comment,76204,76204,0,0,wenbert,,,"YC reader here... from the philippines... cebu :P",1194252498
-76216,comment,76007,76146,0,0,davidw,,,"Erlang is most definitely functional, although it's not as pure as something like Haskell.<p>In terms of speed, this is something to look at:<p><a href=""http://shootout.alioth.debian.org/debian/benchmark.php?test=all&lang=all"" rel=""nofollow"">http://shootout.alioth.debian.org/debian/benchmark.php?test=...</a><p>It's pretty fast for most things if you use HiPE.<p>Your skepticism about Erlang is justified in terms of ""next big language"":<p><a href=""http://journal.dedasys.com/articles/2007/10/09/languages-worst-case-vs-average"" rel=""nofollow"">http://journal.dedasys.com/articles/2007/10/09/languages-wor...</a><p>However, if you use it for what it was created for, it is <i>very</i> nice - it's the best thing out there.",1194250416
-76215,comment,76192,76192,0,0,zandorg,,,"If Windows Mobile can't beat Symbian, Google can't...<p>Symbian is one of my favourite UK companies, having been spawned off from Psion (I have a battered 3c).
-",1194250327

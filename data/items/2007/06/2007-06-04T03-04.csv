@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26212,comment,26135,26135,0,0,mynameishere,,,"Yes, but the Java code is shorter than the Lisp code. I'll take the slight performance hit to avoid the boilerplate.<p>I wonder if his test doesn't have one obvious flaw though. I ran it three times and got:<p>.46, .28, .28<p>...I took out the System.out.println statements and got:<p>.032, .047, .032<p>So I think he might have been testing the wrong thing.",1180928191
-26211,comment,26205,26205,0,0,abstractbill,,,"Some nice historical stuff I hadn't seen before:<p><a href=""http://video.google.com/videoplay?docid=-5046297730700144952#29m52s"" rel=""nofollow"">http://video.google.com/videoplay?docid=-5046297730700144952#29m52s</a>",1180928040
-26210,story,,,6,9,bootload,"Long player",http://www.roughtype.com/archives/2007/05/long_player.php,,1180927628
-26209,story,,,3,0,mazen,"The State of the Online Advertising Market",http://www.mazenblog.com/2007/06/state-of-online-advertising-market.html,,1180927318
-26208,comment,26150,26157,0,0,amichail,,,"It's faster now.",1180927201
-26207,story,,,3,0,bootload,"Amazon's unseemly tags",http://www.roughtype.com/archives/2007/05/amazons_unseeml.php,,1180926299

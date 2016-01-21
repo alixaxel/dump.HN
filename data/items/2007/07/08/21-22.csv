@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+33135,comment,31834,31834,0,0,antonio,,,"Richard Feynman was an amazing individual, a true mentor who inspired us all. Thanks for submitting this article, it is an excellent read.",1183931079
+33134,story,,,5,0,rami,"Competition For Scribd",http://www.techcrunch.com/2007/07/08/competition-for-scribd/,,1183930415
+33133,story,,,10,6,nickb,"To Those About to Hack",http://www.kirit.com/Blog:/2007-07-08/To%20Those%20About%20to%20Hack,,1183929556
+33132,story,,,1,0,jslogan,"The Definition of Excellent Customer Service",http://www.smallbusinessgurus.com/content/view/476/66/,,1183929427
+33131,comment,32827,32850,0,0,epi0Bauqu,,,"From the initial login message you sent me, it looks like you signed on to the mail server using www.devgrow.com, but your reverse dns is just devgrow.com.  You might want to make it so they match exactly.  Also, have you run it through the latest spamassassin filters?  Those aren't always too useful, but sometimes they catch things you may have missed.  Finally, have you tried it without the exclamation marks?  You currently have one in the subject and two in the message.",1183928850
+33130,story,,,1,0,nickb,"MIT ""CADR LispMachine"" main console font",http://www.eurogaran.com/downloads/lispmfont/,,1183928775
+33129,story,,,5,3,gambeht,"Feedback Requested: Superlatives, a Facebook App - How can we make this better?",http://www.esgut.com,"Who's Most Likely To Burn in Hell? Get Arrested for Streaking? We'd like your opinion on how Superlatives could be a better app and any other suggestions you may have. Thanks guys. ",1183928538
+33128,comment,33029,33029,0,0,nanijoe,,,"In the eternal words of the Geico Caveman..""What?""",1183928490

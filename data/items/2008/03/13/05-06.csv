@@ -1,0 +1,41 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+135793,story,,,4,0,gongfudoi,"CFOs See Recession Through 2009",http://www.cfo.com/article.cfm/10852286,,1205387932
+135792,comment,135737,135771,0,0,kajecounterhack,,,"Sudo make me a sandwich. (xkcd reference)",1205387888
+135791,comment,135185,135364,0,0,pg,,,"More specific than that: see things from the other person's point of view.",1205387842
+135790,story,,,14,3,dkokelley,"Less precise processors may increase battery life",http://www.technologyreview.com/read_article.aspx?ch=specialsections&sc=emerging08&id=20246,,1205387787
+135789,comment,135166,135785,0,0,huhtenberg,,,"Another example is (was ?) NuMega's DriverStudio framework for developing Windows drivers in C++. Both examples are more of an exception rather than a rule though.<p>Here's a lovely discussion from few years back:\n<a href=""http://developers.slashdot.org/article.pl?sid=04/10/27/2110228"" rel=""nofollow"">http://developers.slashdot.org/article.pl?sid=04/10/27/21102...</a>",1205387755
+135788,comment,135666,135746,0,0,gruseom,,,"Angry? What on earth gave you that impression? I'm curious.<p>Edit: I'm specifically curious because I can think of a few reasons not to want to work at Google and I'd like to know if others share them.",1205387595
+135787,story,,,3,0,muriithi,"10 accidental inventions",http://www.pocketgadget.org/2008/01/14/serendipity-10-accidental-inventions,,1205387525
+135786,story,,,1,0,gongfudoi,"Java Tip: Using Generics With Wildcards and Extends",http://blogs.sun.com/CoreJavaTechTips/entry/using_generics_with_wildcards_and,,1205387461
+135785,comment,135166,135757,0,0,mellampudi,,,"Symbian os is coded in c++",1205387415
+135784,story,,,1,0,gongfudoi,"Fewer new American millionaires",http://money.cnn.com/2008/03/12/news/economy/millionaire_growth/,,1205387250
+135783,comment,135666,135666,0,0,Emmjaykay,,,"I never ever get past the first phone interview with them. I usually stumble because I forgot some command-line switch or something. The last time they called I said I didn't want to interview since the interviewers often are kind of mean. :`(",1205387200
+135782,story,,,1,0,gongfudoi,"Amgen's billion-dollar tightrope walk",http://money.cnn.com/2008/03/12/news/companies/amgen/,,1205387172
+135781,story,,,2,0,abhishekdesai,"A De(Sign)ed Gift for Those That Have it All...",http://www.uglydoggy.com/2007/01/designed-gift-for-those-that-have-it.html,,1205387019
+135780,comment,135737,135737,0,0,makecheck,,,"xargs; say, a fast replacement for a find-exec:\n% find <whatever> -print0 | xargs -0 <command>",1205386974
+135779,comment,135707,135707,0,0,Zeromus,,,"My experience with AIR (mostly twitter clients) has been that the app in use sticks out like a sore thumb and never feels quite right, be it on Windows or Mac OS X.<p>I hope later versions/apps look and feel more like desktop apps.",1205386923
+135777,comment,135737,135741,0,0,foonamefoo,,,"gnome-open for gnome users",1205386294
+135776,comment,135666,135698,0,0,tokipin,,,"that part you quoted was totally tongue-in-cheek",1205386276
+135775,comment,135737,135737,0,0,tapostrophemo,,,tree,1205386257
+135774,story,,,3,0,gongfudoi,"Apple Manager Writes ""Managing Humans"" to Help Techies",http://www.infoq.com/news/2008/03/Managing_Humans,,1205386053
+135773,comment,135737,135737,0,0,ivank,,,"du -h --max-depth=1 <dir><p>apt-cache search --names-only <name><p>less -S<p>free -m<p>time<p>host",1205386031
+135772,story,,,2,0,gongfudoi,"Common Questions when Adopting Test Driven Development",http://www.infoq.com/news/2008/03/tdd-smells,,1205385904
+135771,comment,135737,135737,0,0,dkokelley,,,"Probably doesn't count, but I sure like that ""sudo"" command in Ubuntu.",1205385852
+135770,story,,,2,0,yagibear,"Joseph Weizenbaum, Famed Programmer, Is Dead at 85",http://www.nytimes.com/2008/03/13/world/europe/13weizenbaum.html,,1205385742
+135769,story,,,1,0,gongfudoi,"7 Confessions Of A Verizon DSL Tech Support Rep",http://consumerist.com/366623/7-confessions-of-a-verizon-dsl-tech-support-rep,,1205385680
+135768,comment,135666,135666,0,0,henning,,,"Counterpoint from a bitter ex-Googler: <a href=""http://valleywag.com/366983/ex+googler-vents-google-recruiters-are-out-of-touch"" rel=""nofollow"">http://valleywag.com/366983/ex+googler-vents-google-recruite...</a><p>However, he's clearly suggesting that classic, relatively timeless material on data structures and algorithms along with a little bit of theory of computation is at the heart of computer science, which is important if you want to do software development, and you'll get no argument from me there.",1205385596
+135767,story,,,1,0,gongfudoi,"Thieves finding new ways to steal gas from your car",http://www.9news.com/news/article.aspx?storyid=87950,,1205385419
+135766,comment,135101,135597,0,0,Spyckie,,,"start small and work your way up?<p>lets say 1>x>y and x+y<=4...",1205385417
+135765,comment,135495,135730,0,0,hashbucket,,,"You have to include the cookie.",1205385410
+135764,comment,135708,135708,0,0,kajecounterhack,,,"Next up: Brains <i>trying</i> to adjust to information overload<p>This is why we'll always have cultural lag...",1205385408
+135763,story,,,2,1,gongfudoi,"Designing for the Mobile Web",http://www.sitepoint.com/print/designing-for-mobile-web,,1205385303
+135762,comment,135723,135723,0,0,kajecounterhack,,,"Yes. But you do it anyway. Just like videogames.",1205385284
+135761,comment,135598,135598,0,0,comatose_kid,,,"I still recall an article in BYTE from long ago (1986ish) which went over the design of the ST.  The article was subtitled ""The 68000 Unbounded"" and had a nice interview with the chief h/w designer Shivji (forget his first name).<p>BYTE was a great magazine back in the day...",1205385171
+135760,story,,,2,0,gongfudoi," 	\nIBM sees decline in number of U.S IT pros, boom in China","http://searchsoa.techtarget.com/news/article/0,289142,sid26_gci1305047,00.html",,1205385083
+135759,story,,,1,0,gongfudoi,"Xooglers Launch rentBits Vertical Search Engine for Rentals",http://blog.searchenginewatch.com/blog/080312-154600,,1205385041
+135758,comment,135494,135494,0,0,kajecounterhack,,,"I hope you understand that while javascript has its uses, most web applications are built on server side scripting languages. Much to the chagrin of the hackers here at YC, I personally would recommend learning PHP or Python. Probably PHP though. (Cue Ruby fanboys and anti-php lynch mobs). Really, it is the place to start if you're interested in Web 2.0 application development. Javascript is a tool you can pick up later that allows you to do cool things with your site. But I mean, wouldn't you rather jump right into doing things right? Starting with javascript will end up being sort of like...taking a class in school; you have to learn a bunch of things first, figure out something to make, embed with HTML and toy around and in the end, do you even get anything functional? How bland is that?! Now, if you start with a server side scripting language, you get your ""hello world"" experience and you jump right in.<p>Just my 2 cents...",1205384945
+135757,comment,135166,135430,0,0,comatose_kid,,,"Do you have any examples where C++ has been used as a systems programming language?  I thought C held that role.",1205384898
+135756,comment,135566,135566,0,0,PStamatiou,,,"Great job guys. I've been working with Sumon, Jamie and Tim and getting snaptalent setup on my site over the last 2 weeks. I like advertising jobs over the crap adsense shows.<p>example of snaptalent on the top of my site: <a href=""http://paulstamatiou.com"" rel=""nofollow"">http://paulstamatiou.com</a>",1205384740
+135755,comment,134322,134751,0,0,pchristensen,,,"That was the third book that I was trying to remember but it became ""etc"".  Thanks!  I also highly recommend it.",1205384510
+135754,comment,135666,135750,0,0,aswanson,,,"Right.  I should have said ""something wrong with them in terms of the way I see things"". But I took that as implied.",1205384431
+135753,comment,135573,135573,0,0,cawel,,,"It's a pity that Peter is acting like a teenager. It looks like he says things only to get a reaction.<p>It gets better in the third part, where ideas are better articulated, like the prosumer paradigm.",1205384404

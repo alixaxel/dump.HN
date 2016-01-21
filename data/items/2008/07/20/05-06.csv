@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+251150,story,,,2,0,martian,"Simple DB commits: zodb + cherrypy python",http://renesd.blogspot.com/2008/07/zodb-cherrypy-python.html,,1216533460
+251148,comment,250704,251142,0,0,gscott,,,"(Catfish Jerry?)  You know they get you started then put you in front of the right people to get the 15m.  But there are too many people beating down the door to get in, but email me I have several things going on that can provide you with more income then you can spend.",1216532953
+251147,comment,250704,250801,0,0,ambition,,,"A large and frequently overlooked part of what good teachers do: <i>motivating</i>. In my opinion, it's the true hard problem in online learning.",1216532839
+251146,comment,249120,249502,0,0,Kaizyn,,,"Dollar for dollar, such donations do more good for more people than a donation to help save the one life.  However, it's easier for people to relate to individual tragedies than it is to the faceless masses who collectively are in greater need.",1216532644
+251145,comment,250704,250825,0,0,ambition,,,"Great comment. One consideration is that the credibility isn't global or transferable across fields. It's constrained to each niche. So you really want a slinkset for academia more than an HN.",1216532518
+251144,comment,250704,251142,0,0,rms,,,"What's your number?",1216532201
+251143,comment,250792,250853,0,0,tx,,,"Instead of hundreds per second I see you've switched to billions with a ""B"" per month? No shit, Sherlock. How about Trillions with a ""T"" per year? You should also try measuring shit in football fields just to make your arguments more impressive.",1216531848
+251142,comment,250704,250704,0,0,jerry5,,,"Hm, seems like pg & co. want to have all the big problems of business and the economy solved for $15,000. I guess if you're only funding kiddies with amounts equivalent to the allowance they get from their parents, all you get is kiddie solutions. As soon as $15m are on the table, call me.",1216531685
+251141,story,,,33,47,nickb,"The 20-year-old at heart of web's most anarchic and influential site",http://www.guardian.co.uk/technology/2008/jul/20/internet.google,,1216531677
+251140,comment,363,363,0,0,na,,,"etag header for rss?<p>currently working on my own reader and it looks like this is not implemented: so i need to parse the feed every time, instead of fetch from the db when etag is unchanged.",1216531623
+251139,comment,250781,250781,0,0,boredguy8,,,"These retrospectives are always hard for me: so much lost because of systems that works so poorly. Such needless waste...",1216531597
+251138,comment,250781,250912,0,0,boredguy8,,,Trust.,1216531332
+251137,comment,251109,251109,0,0,brett,,,"Daigle's edge rails reviews are probably my favorite content of all the rails blogs I subscribe to.",1216530389

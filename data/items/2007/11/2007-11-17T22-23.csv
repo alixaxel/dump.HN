@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-81036,story,,,3,4,szczupak,"What makes a startup sexy and successful? 5 points.",http://www.businesshackers.com/2007/11/18/what-makes-a-startup-sexy-and-successful-5-points/,,1195339739
-81035,comment,81032,81032,0,0,gat,,,"We're planning to launch in December. Looking for some feedback before launching.",1195338946
-81034,comment,80992,80992,0,0,darius,,,"I'm closing my browser right now :)",1195338940
-81033,comment,79205,79576,0,0,marijn,,,"About line numbers -- the people of TYPO3 did add them to their branch (though they made a bit of a mess in the process), and it seems most other in-browser code-editors support them, but I've never really seen their utility. Something like a status bar showing the current line would be just as useful, less wasteful of screen space, and addable as a wrapper to the current editor. I designed the thing to be a 'component' that can be put into all kinds of systems, rather than a full-blown IDE.",1195338821
-81032,story,,,4,4,gat,"Critique our new website: Gatherama.com",http://www.gatherama.com/commenting.php?id=_news/20071117/US/Crimes-Law/7_Should_cyber-bullying_be,"We're planning to launch in December. Looking for some feedback before launching.",1195338732
-81031,comment,81023,81023,0,0,joeguilmette,,,"i like the idea a lot, especially if you can incorporate it into fb or opensocial (preferably both). <p>i dont know how much luck you'd have selling it in its current condition. it's a good idea! run with it!",1195337236
-81030,story,,,4,0,gruseom,"Amazing anticipation of the web from 1934",http://www.kottke.org/07/09/glut-mastering-information-through-the-ages,,1195337191

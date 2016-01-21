@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+70701,story,,,6,0,mikesabat,"Building Assets in your Startup",http://shelfmade.wordpress.com/2007/10/20/building-assets-in-a-startup/,,1192895638
+70700,story,,,5,12,pg,"Radiohead Kicks the Middleman to the Curb: 1 Week, 1.2M Albums Sold",http://mashable.com/2007/10/19/radiohead-album-sales/,,1192895353
+70699,comment,70675,70675,0,0,bct,,,"The Web 3.0 label was a bad idea. The people that have the most to gain from the Semantic Web right now are technical types, and I think most of us are suspicious of the Web 2.0 label.<p>The Semantic Web has an (undeserved) reputation for being vapor or hype, ""Web 3.0"" just exacerbates that.",1192895291
+70698,comment,70675,70687,0,0,bct,,,"> That those errors cannot be automatically detected and eliminated is actually relevant to the overhyped semantic web, no?<p>No. That would require your computer to understand sentences meant for humans; the whole point of the Semantic Web is that it's machine-readable.",1192894776
+70697,story,,,1,0,iamwil,"Elsewhere I'm: Relationship Update Stream",http://updates.elsewhere.im/,,1192893759
+70696,story,,,1,0,iamwil,"Web2Summit: Opening Up the Social Graph",http://www.slideshare.net/daveman692/web2summit-opening-up-the-social-graph/,,1192893686
+70695,story,,,2,0,amichail,"Treaps:  Binary Search Trees that are also Heaps",http://www.ibr.cs.tu-bs.de/courses/ss98/audii/applets/BST/Treap-Example.html,,1192893558
+70694,story,,,3,2,rams,"Startup hubs: Do you have to be in one? [video]",http://youtube.com/watch?v=4bITPfhB5Dg,,1192893265
+70693,comment,70475,70521,0,0,inklesspen,,,"What about Firefox extensions?",1192893112
+70692,story,,,1,0,german,"The truth about Radiohead",http://sethgodin.typepad.com/seths_blog/2007/10/the-truth-about.html,,1192893089
+70691,story,,,7,3,theoneill,"Sun bidding adieu to mobile-specific Java",http://www.news.com/8301-13580_3-9800679-39.html,,1192892422

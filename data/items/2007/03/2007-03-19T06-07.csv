@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-4944,comment,4938,4938,0,0,brett,,,"adobe's site: <a href=""http://labs.adobe.com/technologies/apollo/"">http://labs.adobe.com/technologies/apollo/</a>",1174286593
-4943,comment,4861,4887,0,0,volida,,,"prior to multicore cpus asuming the scaling was achieved horizontally, MySQL has been a good choice. But today, if your systems comprising the clusters are at least dual core x2 cpu, I am lead to the conclusion, as nickb points out, that is better to use PostgreSQL.",1174286067
-4942,comment,4883,4883,0,0,zkinion,,,"I have learned to embrace myspace just as I have learned to embrace Walmart.  It might be cesspool to some, but it is what it is, which is mainstream.  It is just a relection of our society, not something to be hated at all.  <p>As far as the cracks go, they'll have little to no impact on their operaitons at all.",1174285663
-4941,comment,4902,4912,0,0,JMiao,,,"I'm guessing you have a team set up?  Working remotely?<p>Thanks for the info, btw -- all of this sounds exciting.",1174285458
-4940,comment,4913,4936,0,0,JMiao,,,"Heheh, reminds me of ""The Homer.""",1174285331
-4939,comment,3929,3929,0,0,mikeroykoh,,,"Once you upload a photo, you can never take it down.",1174284854

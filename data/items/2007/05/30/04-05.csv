@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25338,comment,25320,25323,0,0,pg,,,"Thanks for the suggestions, but it keeps the site cleaner if people submit feature requests through that link rather than as individual stories.",1180501183
+25337,comment,25280,25326,0,0,timg,,,"Exactly. Webpy is for programmers, django for people who want to <i>feel</i> like programmers, but are really just walling themselves into pre-defined ultra-boring patterns.\n",1180500461
+25336,story,,,1,0,reitzensteinm,"""Microsoft Surface"" - multi touch screen table",http://www.popularmechanics.com/technology/industry/4217348.html,,1180500435
+25335,comment,25334,25334,0,0,danw,,,"Amazingly this politician truly gets the potential of the web and is the Secretary of Rural Affairs for the UK!",1180499890
+25334,story,,,1,1,danw,"We can: politics for the Facebook generation",http://www.defra.gov.uk/corporate/ministers/speeches/david-miliband/dm070521.htm,,1180499830
+25333,comment,25332,25332,0,0,dawie,,,"CenterNetworks are reviewing the startups that entered their startup video contest. There is some pretty cool ones...",1180499818
+25332,story,,,2,1,dawie,"CenterNetworks - Startup Video Reviews",http://www.centernetworks.com/,,1180499722
+25331,comment,25226,25226,0,0,kingnothing,,,"$1M a year is a good bit, but it's still not fuck you money. That's what I'm aiming for.<p>Worst case, I'll fall short and still do well.",1180498623
+25330,comment,25280,25280,0,0,googvsfacebook,,,"It will be interesting to see if web.py jumps on the facebook apps bandwagon before its competitors Rails, Drupal or Cheetah. Is Aron the next Zuck?",1180498288
+25329,comment,25280,25290,0,0,timg,,,"That security gaffe was in Markdown - a piece of junk that I've been pointing out flaws in for the past year.\n",1180497611

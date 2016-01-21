@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-38911,comment,36970,38901,0,0,brett,,,"An NPR story I heard the other day brought up a related factor in their stubbornness to go free: unlike most other newspaper subscriptions, most WSJ subscriptions either get paid for by an employer or are written off. ",1186113341
-38910,comment,38908,38908,0,0,gaborcselle,,,"OMG! OMG! This is, like, the best thing ever.",1186113063
-38909,comment,38639,38883,0,0,nreece,,,"It's not about updation date. It's about content. The RSS generator will ""scrape"" indexable content, viz HTML. It cannot read Flash content (because its embedded in a non-standard format), just like a search engine bot (Google) can't.",1186112682
-38908,story,,,53,12,brezina,"Xobni's Facebook app replaces Facebook messaging with email",http://www.xobni.com/blog/2007/08/02/email-me-instead-for-facebook/,,1186112243
-38907,comment,38454,38454,0,0,dshah,,,"Though it takes a fair amount of time, I've found that a blog is a good place to recruit (as it provides potential recruits some insight into the company).",1186112133
-38906,story,,,2,0,moses1400,"Is this Federated Media's new conversation? ",http://www.centernetworks.com/is-this-federated-medias-new-conversation,"Over the past few months, we have debated the campaigns that Federated Media has run. The buzz today is about WebbAlert, a daily video show by FM publisher Morgan Webb. It seems most of the blogs discussing the show are FM blogs and most of the links from the show are also to FM blogs. Should there be disclosure on the video blog noting the links?",1186111979
-38905,story,,,40,39,immad,"[New YC startup] Listen To Your Music anywhere on the web with Anywhere.FM",http://www.techcrunch.com/2007/08/02/listen-to-your-itunes-library-on-the-web-with-anywherefm/,,1186111908
-38904,comment,38699,38699,0,0,sanj,,,"Never wake a sleeping child.  It's never worth it.",1186110619

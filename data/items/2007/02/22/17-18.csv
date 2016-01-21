@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+506,story,,,11,1,brett,"Google Apps Premier vs Standard Feature List",http://www.google.com/a/help/intl/en/admins/editions.html,,1172165862
+505,comment,504,504,0,0,mattculbreth,,,"This is a cool service--I'm using it now to back up my 8GB music collection.  Runs in the background on my Mac.\n\nThe cooler thing is that it uses S3, which is something I've been looking at for my own startup.  $0.15/gb/month for storage.  \n",1172165382
+504,story,,,6,3,mattculbreth,"Bandwagon Launches--Use Amazon S3 service to back up ITunes libraries",http://blog.ridethebandwagon.com/,,1172165248
+503,comment,363,363,0,0,omarish,,,"We'd like to see a geographic search so that founders can meet other founders based on where they live.\n\nhttp://news.ycombinator.com/comments?id=445",1172165018
+502,comment,445,501,0,0,omarish,,,"Very good idea. We can assume most people here are in the startup community. \n\nSo perhaps there should be a search by location field on a page here so that people can find each other. ",1172164744
+501,comment,445,500,0,0,sharpshoot,,,"yeah if we fill out the profiles - and add a location and status field. It'll work pretty well at first - as you can browse people's profiles to see if they are also looking for a co-founder etc. Things can then be taken up on email",1172164475
+500,comment,445,493,0,0,mattculbreth,,,"Actually, why not do it here?  I bet that sort of functionality could be integrated somehow into this site, and from Paul's first post to the group on the reasons for the site I think it would fit in well.\n\nThen again you won't be able to use Ruby...",1172164181

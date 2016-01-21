@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+71106,story,,,2,0,catalinist,"windows 7 demo - mini kernel with web server",http://arstechnica.com/news.ars/post/20071021-core-of-windows-7-taking-shape-meet-the-minwin-kernel.html,,1193050286
+71105,comment,71054,71054,0,0,ntoshev,,,"Interesting, but has to be put in an iframe to enable the user to see the end of the page navigation etc.<p>Also, for big datasets, it should unload the first items as you scroll. Also the scroller is deceptive - if it's in an iframe, perhaps it can be overriden to show where you really are in the virtual dataset. Enable dragging it for quick positioning too. <p>Not that simple, it turns out.",1193050229
+71104,comment,71081,71087,0,0,davidw,,,"> There are tons of tiny details that can cost you a great deal of time/money/control down the road if you don't get started on the right foot<p>For instance?",1193050140
+71103,comment,71093,71093,0,0,daniel-cussen,,,Whoa.,1193047683

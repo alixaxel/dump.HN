@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+36723,comment,36644,36722,0,0,tipjoy,,,"what, not voldemort? ",1185400492
+36722,comment,36644,36717,0,0,tipjoy,,,"<a href=""http://news.ycombinator.com/user?id=pq"" rel=""nofollow"">http://news.ycombinator.com/user?id=pq</a>\nuser:	pq\ncreated:	2 hours ago\nkarma:	-5\nabout:	Not you-know-who; just want to see how many people confuse him for me, since his stuff seems to get a ton of upvotes, automatically.",1185400455
+36721,story,,,1,3,glangley,"Decision to store geocodes",,"I am working on a website and am planning on implementing a google map on each page and would need to make between 10-50 geocode requests on each page. Is it smart to have a whole new table just for storing these geocode address or is it easier to just hit google every page refresh? <p>Thanks in advance.",1185400311
+36720,story,,,1,0,dawie,"(mt) Media Temple - Introducing AccountCenter for iPhone",http://www.mediatemple.net/iphone/,,1185399966
+36719,comment,36713,36713,0,0,twism,,,"People use ""<a href=""http://"" rel=""nofollow"">http://</a>"" in web content?",1185399911
+36718,comment,36594,36594,0,0,ks,,,"Many blogs require an email address if you want to comment. I've never understood why. I just enter a bogus address",1185399267
+36717,comment,36644,36716,0,0,tipjoy,,,"how sly!",1185399102
+36716,comment,36644,36715,0,0,palish,,,"That's actually 'pq'.. I fell for it too.",1185399022
+36715,comment,36644,36651,0,0,SwellJoe,,,"I voted down pg on his own site.  That was fun!",1185398812
+36714,comment,36675,36675,0,0,schoudha,,,"I think the iPhone met expectations in real sales (vs activations), earnings report came out today. \n",1185398698
+36713,story,,,6,4,nickb,"http is deprecated",http://no-http.org/,,1185398547
+36711,comment,36554,36554,0,0,Tichy,,,"Couldn't he get an invitation to a party by Paris Hilton? That would be more interesting...<p>In fact, shouldn't there be enough ""Stars"" who might appreciate his company? Maybe they should bank on that.",1185398261
+36710,comment,36706,36706,0,0,nickb,,,"A single most powerful line I've been using when communicating to people is: ""Thank you.""<p>The author of this article is clueless.<p>PS: I linked this: <a href=""http://news.ycombinator.com/item?id=36709"" rel=""nofollow"">http://news.ycombinator.com/item?id=36709</a>",1185398189
+36709,story,,,1,0,nickb,"The Two Most Powerful Words in Business",http://ezinearticles.com/?The-Two-Most-Powerful-Words-in-Business&id=80047,,1185398163
+36708,story,,,4,1,szczupak,"A startup provides the best way ever to find your work buddies",http://www.businesshackers.com/2007/07/25/a-startup-provides-the-best-way-ever-to-find-your-work-buddies/,,1185397901
+36707,story,,,8,1,nickb,"It's Time to Drop the ""www""",http://dmiessler.com/archives/1471,,1185397871
+36706,story,,,2,2,crxnamja,"No Response Needed",http://okdork.com/2007/07/25/no-response-needed-nrn/,"Tired of Pointless email responses?",1185397762
+36705,comment,36613,36613,0,0,crxnamja,,,"so hot right now. total boner;P",1185397740

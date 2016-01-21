@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26868,story,,,5,1,tim,"New approach to quantum information systems",http://www.news.harvard.edu/gazette/2007/06.07/99-quantumcomputing.html,,1181296712
-26867,comment,26850,26855,0,0,Tichy,,,"Alarm clock makers of the world should take note, though.",1181296694
-26866,comment,26865,26865,0,0,antirez,,,"I wrote it in the free time of the last few days, still a bit primitive but I'll try to improve it, please feel free to post feature requests (and bug reports as the only beta tester for now was valgrind ( <a href=""http://valgrind.org/"" rel=""nofollow"">http://valgrind.org/</a> )",1181296156
-26865,story,,,1,1,antirez,"WBox - HTTP testing tool",http://hping.org/wbox,,1181296093
-26864,story,,,16,1,nivi,"Audio and transcript from the first Venture Hacks office hours",http://www.venturehacks.com/articles/office-hours-june-7-2007,,1181295668

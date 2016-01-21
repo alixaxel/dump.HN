@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92078,comment,91988,92063,0,0,trekker7,,,"Which ones, and how do you tell? I'm genuinely curious.",1198360696
+92077,comment,92007,92007,0,0,david927,,,"John Walker, founder of AutoCAD and programming demi-god, has a reading list that will blow your mind:\n<a href=""http://www.fourmilab.ch/fourmilog"" rel=""nofollow"">http://www.fourmilab.ch/fourmilog</a><p>I've been tipped off to several good books here.",1198360635
+92076,story,,,5,0,nickb,"Look at how far we've come!",http://blog.pmarca.com/2007/12/look-at-how-far.html,,1198360136
+92075,story,,,13,1,edw519,"Solve This Puzzle to Get This Job",http://www.networkmirror.com/hUmsXHsC3yihic9B/denver.craigslist.org/sof/514727825.html,,1198360122
+92074,comment,92022,92058,0,0,dyu,,,"How do you send a mail using a real MTA? If I set up Sendmail and use the mail function in python or something, is that the right way to do it?",1198359868
+92073,comment,92048,92048,0,0,aristus,,,"Spammer, i think -- read this first paragraph -- adlinks junked up in it, and submitted by a 2-hour-old account.<p>""What have I been doing all of these years... on a whim I picked up OK Computer and Amnesiac and am blown away -- great albums -- been listening to little else since purchasing them. I've always used simplified APIs built on SAX, so I felt it was time to learn the mechanics of it to expand the depth of my knowledge on that front. Must join <DELETED>.com and <DELETED>.com. Here is a Python class, using a generator object, that rolls n number of s sided dice:""",1198359512
+92072,story,,,5,0,nivi,"You can't be normal and expect abnormal returns.",http://www.nivi.com/blog/article/normal,,1198359229
+92071,comment,92007,92007,0,0,ptn,,,"He's read his share of books...",1198358494
+92070,comment,91911,91911,0,0,dkberktas,,,"RIFE of course. It handles login stuff and much more about authentication built in and also support uploading. Use RIFE/Crud. It takes less then 5 minutes. (it is a Java Framework by the way. rifers.org)",1198358397
+92069,comment,91968,91968,0,0,aswanson,,,"Ah, if only all companies were so small and work environments so humane...",1198358216
+92068,comment,92022,92022,0,0,ojbyrne,,,"If you have an email account somewhere with spamassassin, send  some mails there, then look at the headers to see how SA scores you. Fix what's indicated and repeat. Not a 100% solution but it helps.",1198357911

@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-18050,comment,18047,18047,0,0,jamongkad,,,"Wow awesome! although I don't use PHP, any CRUD scaffold maker is a big plus in my book. ",1177915901
-18049,comment,18012,18012,0,0,PStamatiou,,,"speaking of how to, how can I create a discussion page like this that is on the homepage?",1177915094
-18048,comment,18047,18047,0,0,henryw,,,"I wanted something that just makes all the basic CRUD pages for me without having to installing anything, so I made this. Basically, you create your table in phpMyAdmin and paste your table export SQL into it, and it makes all the pages for you. Hopefully it'll be a time saver you for guys using PHP. ",1177914595
-18047,story,,,4,5,henryw,"PHP Online CRUD Scaffold File Maker (Paste Export Table SQL)",http://www.spotstart.com/php-crud-scaffold/,,1177914356
-18046,story,,,1,0,Gretha,"Is it time for incubator 2.0?",http://www.vecosys.com/2007/04/29/is-it-time-for-incubator-20/,,1177914050
-18045,story,,,1,0,Gretha,"Can Microsoft visualise the future of search?",http://www.vecosys.com/2007/02/15/can-microsoft-visualise-the-future-of-search/,,1177913996
-18044,comment,17947,18020,0,0,rms,,,"You just can't do it until you're old enough to either have a lot of money or you have enough connections to get a lot of money.",1177912989

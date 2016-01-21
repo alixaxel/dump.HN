@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-12830,comment,12619,12695,0,0,shiro,,,"Note that they didn't write their engine IN Allegro CL---they developed a Lisp-like language which compiled into native code, and the compiler was written in CL.  If you're developing for console you won't want to drag all the runtimes comes from the implementation.<p>I was at a session in GDC where a guy from NaughtyDog talked about how they tuned memory access on PS2 for Jak and Dexter and that was cool; since they had full control over the compiler, they could place memory access instructions to the optimal places that would interfere least to other bus activities.
-",1176528027
-12829,comment,12771,12771,0,0,randallsquared,,,"Serverbeach has 2TB bandwidth and varying amounts of disk up to 500GB.  They don't manage the server for you, though, after setup.",1176527648

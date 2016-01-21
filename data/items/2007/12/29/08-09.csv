@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93443,comment,93432,93432,0,0,krav,,,"Straight, clear, and very helpful.  Thanks!",1198918746
+93442,comment,93216,93317,0,0,Tichy,,,"Not yet. How does Haskell compare to Scheme, I wonder? I have tried Erlang.",1198918656
+93441,comment,93216,93439,0,0,Tichy,,,"How do other languages do it? I can't actually imagine it, odd as it sounds? You don't mean returning maps, I presume?",1198918468
+93440,story,,,1,0,maurycy,"It's the (Other) Algorithm, Stupid! Understanding DiggRank.",http://searchengineland.com/071128-122432.php,,1198918418
+93439,comment,93216,93414,0,0,aston,,,"A good contrast to make between Java and other languages on over-typing is Java's lack of a way to return multiple items at a time without making a container class.",1198918267
+93438,story,,,8,1,nickb,"Building a Ray-Tracing 3D Renderer from Scratch Over a Weekend",http://www.superjer.com/pixelmachine/,,1198917961
+93437,comment,93413,93435,0,0,aston,,,"My 13.3"" has a screen with the same resolution as my older 15.4"". Way easier to travel with, though (half as heavy). I think screen size + resolution is the better question.",1198916589
+93436,comment,93413,93413,0,0,dcurtis,,,"The MacBook Pro 15.4"" is fine for me, and doesn't weigh a ton. In my Timbuktu bag, it doesn't really hurt my shoulder for about six hours.",1198915713

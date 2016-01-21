@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83878,comment,83660,83780,0,0,axod,,,"Sure. I should have made it clearer. This isn't something I'd show users, just some early toys I made.",1196157073
+83877,story,,,13,2,dannyv,"Email's Friendly Fire",http://online.wsj.com/public/article/SB119612732031704719.html,,1196156655
+83876,comment,83429,83530,0,0,BitGeek,,,"\nJust let it clean up when you log out....",1196156593
+83875,comment,83429,83719,0,0,BitGeek,,,"\nActually, all versions of filevault have done this.",1196156559
+83874,comment,83429,83503,0,0,BitGeek,,,"\nThis is no the case with filevault, when it is set up with a login account.  I have lost encrypted disk images under OS X due to drive problems... but have had a filevault make it thru a failing disk without trouble.<p>It helps that the Mac has HFS+ and Journaling.",1196156520
+83873,story,,,1,0,thinkingserious,"Successful Business Planning and Execution",http://www.thinkingserious.com/2007/11/27/successful-business-planning-and-execution/,"Over 50 tips from industry experts to help you take business planning off the back burner and make the plan a meaningful part of your business.",1196156182
+83872,comment,83702,83834,0,0,rms,,,"It would be nice to have a way of adding friends inside news.ycombinator.com. This site has to turn into a social network eventually...",1196156154
+83871,comment,83632,83731,0,0,Prabaker,,,"You may 'think' you have deleted your account, but if you sign up again it will reappear just the way you left it - you can never really leave!",1196156033
+83870,comment,83702,83834,0,0,waleedka,,,"Or maybe you can aggregate the short-lists and generate a report in a few weeks that showcases the most tracked users. ",1196155800
+83869,story,,,2,0,davidw,"The Google Enigma",http://www.strategy-business.com/press/article/07404?gko=a2bce-1876-26510326,,1196155619
+83868,comment,83865,83865,0,0,rms,,,"Intel is more successful than OLPC so far, measured in numbers of sales. The competition was bitter. Intel recently donated millions of dollars to OLPC, joined the board, and the companies signed a ""non-disparagement"" clause. The next version of the OLPC will use an Intel processor instead of an AMD processor.",1196155237
+83867,story,,,5,0,nickb,"BASHing Through Scripts - Introduction",http://www.bit-tech.net/bits/2007/11/26/bashing_through_scripts/1,,1196154943
+83866,comment,83632,83632,0,0,michaelneale,,,"Facebook is what - a few years old? really only a year in mainstream awareness? yet it has this evil empire feel about it already. Took decades for that and Microsoft. Gives me a new found admiration for googles under-appreciated ""don't be evil"" ethos. ",1196154689
+83865,story,,,11,6,rms,"Wall Street Journal on the OLPC (3000 words)",http://online.wsj.com/article/SB119586754115002717.html,,1196154596
+83864,comment,83660,83821,0,0,axod,,,"Yeah nice game. Might code up a plugin of that :) thanks.",1196154556
+83862,comment,83827,83827,0,0,Tichy,,,"Just how many sheep are out there???\n",1196154090

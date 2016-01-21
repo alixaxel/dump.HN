@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-46124,comment,45698,45789,0,0,aanand,,,"If people want to use Now Form A Band to name their startups, I'm absolutely fine with that.<p><a href=""http://www.nowformaband.com/"" rel=""nofollow"">http://www.nowformaband.com/</a>",1187949396
-46123,story,,,1,1,terpua,"Could The GPhone Be Nigh?",http://www.techcrunch.com/2007/08/24/could-the-gphone-be-nigh/,,1187948334
-46122,comment,45815,46103,0,0,bootload,,,"<i>""... The big PIA is time-syncing in with where you are at the moment ...""</i><p>Though I was thinking this fails if your machine has the wrong time. <p><i>""... It should now pick up your timezone via js ...""</i><p>and you can use this to check against user preferences in TZ. I'll be checking the src how you do this. Difficult to find out how?",1187947840
-46121,comment,46031,46042,0,0,gojomo,,,"Try the Firebug 'inspect' button and then hovering/clicking in the source And CSS panels. Shows box model, computed CSS, allows live edits, and more.",1187947832
-46120,comment,46007,46007,0,0,palish,,,"Well, I was going to mention <a href=""http://www.shoutfit.com"" rel=""nofollow"">http://www.shoutfit.com</a> .. but they appear down.",1187947032
-46119,story,,,1,0,mqt,"If you build it, they will come: Google sees big boost in mobile traffic",http://arstechnica.com/news.ars/post/20070823-if-you-build-it-they-will-come-google-sees-big-boost-in-mobile-traffic.html,,1187946709
-46118,comment,46113,46113,0,0,rms,,,"This is great, thanks.",1187946577
-46117,comment,45698,45698,0,0,rms,,,"<a href=""http://en.wikipedia.org/wiki/Working_memory"" rel=""nofollow"">http://en.wikipedia.org/wiki/Working_memory</a>",1187946505

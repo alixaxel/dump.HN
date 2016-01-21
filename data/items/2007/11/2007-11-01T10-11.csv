@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-75019,story,,,1,0,danw,"Filespots Web 2.0 Online File Management: Emulates Vista in a browser",http://www.filespots.com/,,1193914433
-75018,comment,74993,75017,0,0,blader,,,"Thanks, we tried to make it as fun as possible (and as quick to develop as possible!)<p>Although news.yc is really upsetting the gender ratio right now =)",1193914071
-75017,comment,74993,74993,0,0,waleedka,,,"Great idea. And, unlike most Facebook Apps, it has potential for continued use after the first time. Best of luck.",1193913958
-75016,comment,74993,75014,0,0,blader,,,"Yeah that's coming. Took longer expected to deploy so we couldn't get everything in in time.",1193913205
-75015,comment,74993,75013,0,0,blader,,,"This isn't what we applied with, if it makes you feel any better.",1193913011
-75014,comment,74993,74993,0,0,brianr,,,"Can you add a search feature to the ""Find Pets"" page? Paging through 60 pages of friends isn't exactly my idea of fun...<p>I think you should be able to use one of the built in fb:friend-selectors with some ajax to make it pretty slick.",1193912352
-75013,comment,74993,74993,0,0,alaskamiller,,,"This makes me so sad. Sour grapes. ",1193912013

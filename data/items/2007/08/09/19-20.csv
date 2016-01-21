@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41005,story,,,1,0,amichail,"Why social networks use bidirectional links even though unidirectional links are probably better  ",http://mindrosity.blogspot.com/2007/08/why-social-networks-use-bidirectional.html,,1186689544
+41004,comment,40814,40837,0,0,umjames,,,"This sort of thing should be an ""industry standard"" among programmers.  We'd all be happier if we had the freedom to dice up our work and play time (and locations) anyway we wanted.<p>It looks like some people at Best Buy have been reading (or should be reading) Paul Graham's ""What Business can learn from Open-Source"" essay.  It definitely makes the list of my favorite readings.",1186689460
+41003,comment,40886,40886,0,0,henning,,,"If you have no competition, there might not be a market for what you want to create, so competition can actually help you out.<p>It's also possible to address similar sets of needs in different ways. digg and reddit are both successful. Live and let live. Namaste.",1186689423
+41002,comment,40973,41000,0,0,tocomment,,,"Really?  They're patented?  I thought it was like academic research?",1186689271
+41001,comment,40973,40986,0,0,far33d,,,"I think this would actually be really interesting for Google StreetView. \n",1186689157
+41000,comment,40973,40973,0,0,nickb,,,"Patent issues... make sure you license it from them!",1186688865
+40999,comment,40993,40993,0,0,blored,,,"keep 'em coming, it looks like they are in pg's basement, nice.",1186688738
+40998,comment,40800,40800,0,0,migpwr,,,"That link above no longer works, for anyone wanting to check this out its a good read:<p>Google cache:<p><a href=""http://209.85.165.104/search?q=cache:V_HlOsNVc8UJ:www.doxpara.com/DMK_BO2K7_Web.ppt+http://www.doxpara.com/DMK_BO2K7_Web.ppt&hl=en&ct=clnk&cd=1&gl=us&client=firefox-a"" rel=""nofollow"">http://209.85.165.104/search?q=cache:V_HlOsNVc8UJ:www.doxpar...</a>",1186688690
+40997,comment,40887,40887,0,0,randallsquared,,,"It's not clear whether you meant to say ""live under the fear"" or ""understand the fear"".  If the former, no, because they're just another competitor, if so.  If the latter, then sure, because some YC companies have kicked ass.  <p>Statistically, though, it's still somewhat unlikely that any given YC company will succeed, and only if they were going to succeed were I not in the marketplace would I need to worry about them particularly.\n",1186688670
+40996,comment,40973,40979,0,0,tocomment,,,"That looks cool too.  Maybe do both then.",1186688597
+40995,story,,,3,0,sbraford,"Working Together ... When Apart",http://sloanreview.mit.edu/wsj/insight/organization/2007/06/15/,,1186688072
+40994,comment,40651,40651,0,0,sabhishek,,,"Green tea with fresh mint.. trust me folks it works and doesn't ruin your already exhausted nervous system.",1186688008
+40993,story,,,14,17,paul,"Watching Songkick Demo At Y Combinator",http://www.flickr.com/photos/fredwilson/1063095836/,,1186687999
+40992,comment,40651,40833,0,0,christefano,,,"It's great seeing erowid as a cited source. Thanks for the info.",1186687962
+40991,comment,40897,40911,0,0,A-Merchant,,,"I wish I could be there, but say Hi to Dexter and Monty for me!",1186687872
+40990,story,,,1,0,sbraford,"Netscape bigger than Digg?  (including forced netscape.com startpage users)",http://www.calacanis.com/2007/08/07/netscape-bigger-than-digg/,,1186687792
+40989,story,,,1,0,sbraford,"Fox News and The Onion: The Most Trusted Names in News, together at last",http://mashable.com/2007/08/07/myspace-the-onion/,,1186687710
+40988,story,,,1,0,sbraford,"Collaboration is Hard, Part III",http://onlyonce.blogs.com/onlyonce/2007/08/collaboration-1.html,,1186687573
+40987,comment,40809,40809,0,0,arasakik,,,"Scott Berkun's a great public speaker. Has anyone read his new book ""Myths of Innovation""? I'd be interested to see what you guys think of it before buying it myself.",1186687471
+40986,comment,40973,40973,0,0,jkush,,,"How about something like ""empty planet""? I'm thinking of taking photographs of famous places that are very busy (like Times Square) and digitally removing all the people. <p>I think seeing pictures of places that are very familiar, but devoid of people would be quite profound. <p>Maybe it's just a feature and not business, though.<p>",1186686981
+40985,comment,40879,40879,0,0,Jd,,,"I've worked with Joomla's social networking features in the past.  Avoid.",1186686900
+40984,story,,,1,0,terpua,"Breaking down the Apple announcements",http://www.macworld.com/weblogs/macword/2007/08/announcements/index.php,,1186686611
+40983,story,,,1,0,terpua,"Widgets, Spotlight Coming to iPhone?",http://www.iphoneology.com/2007/08/08/widgets-spotlight-coming-to-iphone/,,1186686572
+40982,comment,40800,40811,0,0,nickb,,,"Thanks!<p>Yeah, it's pretty nasty what he accomplished :( Now things are gonna get just a lot more complex.",1186686460
+40981,comment,40651,40728,0,0,ed,,,"For art to exist, for any sort of aesthetic activity or perception to exist, a certain physiological precondition is indispensable: intoxication. (Friedrich Nietzsche)",1186686432
+40980,story,,,1,0,sbraford,"Developer Platform on Google Apps for Domains?",http://sablog.com/archives/2007/08/09/oh-man-this-would-be-killer,,1186686026

@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+90155,story,,,8,0,nickb,"N.Y.S.E. Places Buy on Linux, Hold on Unix ",http://www.nytimes.com/idg/IDG_002570DE00740E18002573B100020F62.html?ex=1355288400&en=1a1c847788830aeb&ei=5088&partner=rssnyt&emc=rss/ru/,,1197834983
+90154,story,,,25,11,amichail,"The Next Generation of Neural Networks [Google Tech Talk]",http://www.youtube.com/watch?v=AyzOUbkUf3M,,1197834828
+90153,story,,,3,0,dherman76,"2008 Trends & Forecasts for Digital Media - the UBER list",http://www.darrenherman.com/2007/12/16/the-digital-media-internet-uber-2008-prediction-list/,,1197834684
+90152,story,,,1,0,sohail,"Python decorators in Lisp, Part 1",http://uint32t.blogspot.com/2007/12/python-decorators-in-lisp-part-1.html,,1197834391
+90151,comment,89951,89951,0,0,axod,,,"This is a really really old page. Interesting for historical reasons, but the limit isn't really there any more.",1197833758
+90150,comment,90097,90097,0,0,davidu,,,"Not true.",1197833638
+90149,comment,90065,90135,0,0,some,,,"Its not a comparison at all.<p>Linus replied to someone who said Linux coding style is not improving because no one sets the rules. Linus said that it is improving via evolution. Style liked by many will be taken over by others, style liked by few will fade out.<p>Not a comparison. Just a fact.",1197833471
+90148,comment,90094,90094,0,0,gnaritas,,,"Another dumb app asking users for their email usernames and passwords. Wrong!  No, it's not OK to tech users to be stupid, stop doing this.",1197833168
+90147,comment,90097,90097,0,0,jey,,,"That's a totally speculative inference. Amazon is a big company, and just because someone in Amazon wrote a BDB interface for erlang doesn't mean SimpleDB is erlang + BDB.",1197831779

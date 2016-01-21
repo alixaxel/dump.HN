@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26805,story,,,3,0,farmer,"Doll Web Sites Drive Girls to Stay Home and Play",http://www.nytimes.com/2007/06/06/technology/06doll.html?ex=1338782400&en=72ebc342df7cc4a0&ei=5090&partner=rssuserland&emc=rss,,1181253469
-26804,comment,26741,26741,0,0,iamwil,,,"Under ""Solution"" it says ""Show where your product physically sits""  I'm not sure exactly what that means.  I'm guessing it's literal?<p>So for web applications, it sits on a server?  For a guard dog, it sits on the front porch?",1181253082
-26803,comment,26719,26719,0,0,pg,,,"Lisp gets the last laugh here; everyone voting up this link used Lisp to do it.",1181252655
-26802,story,,,4,0,brett,"How do you put your heart into that? - (37signals)",http://www.37signals.com/svn/posts/452-how-do-you-put-your-heart-into-that,,1181251910
-26801,comment,26800,26800,0,0,pg,,,"dupe <a href=""http://news.ycombinator.com/comments?id=26753"" rel=""nofollow"">http://news.ycombinator.com/comments?id=26753</a>",1181251178

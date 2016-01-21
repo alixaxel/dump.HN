@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+86987,story,,,10,6,transburgh,"Edgeio To Shut Down - In The DeadPool",http://www.techcrunch.com/2007/12/06/edgeio-to-shut-down-in-the-deadpool/,,1197035767
+86986,comment,86976,86976,0,0,JohnN,,,"Clearly none, how many startup founders are called ""superstars"" by the pres.",1197035294
+86984,comment,86870,86978,0,0,Caligula,,,loser,1197034768
+86983,comment,86680,86680,0,0,nootopian,,,"Google Charts meets Pac-Man\n<a href=""http://chart.apis.google.com/chart?cht=p&chs=400x250&chd=t:85.0,15.0&chl=pac-man|not+pac-man&chco=FCFC00,0000FF&chtt=Google+Charts+meets+Pac-Man"" rel=""nofollow"">http://chart.apis.google.com/chart?cht=p&chs=400x250&#38...</a>",1197034630
+86980,comment,86933,86933,0,0,brianr,,,"Any reason you're using Subversion instead of a distributed system like mercurial or git?",1197034396
+86979,comment,86812,86812,0,0,pchristensen,,,"Did anyone else look at these guys' app they link to (<a href=""http://litmusapp.com/"" rel=""nofollow"">http://litmusapp.com/</a>)?  Talk about muck and brass!  Definitely worth a look for anyone worried about cross-platform presentation.",1197034124
+86978,comment,86870,86914,0,0,staticshock,,,lose,1197033968
+86977,comment,86976,86976,0,0,pg,,,"<i>How Many Do You Think Have Startups?</i><p>None, obviously, because they didn't include capital gains, which is the way startup founders get paid.<p>""Forbes' 20 Under 25 list of the Top-Earning Young Superstars examined earnings from June 2006 to June 2007. We included salaries, winnings, endorsement deals and royalties.""",1197033442

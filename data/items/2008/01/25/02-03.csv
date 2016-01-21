@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+103926,story,,,43,6,theoneill,"21 New Startups in the Valley",http://www.foundersatwork.com/1/post/2008/01/21-new-startups-in-the-valley.html,,1201229716
+103925,story,,,4,2,garbowza,"What the boss looks like determines how he performs",http://www.economist.com/science/displaystory.cfm?story_id=10559771,,1201229218
+103924,story,,,2,0,garbowza,"Suited for space - can humans cope with the final frontier?",http://www.economist.com/science/displaystory.cfm?story_id=10566279,,1201229158
+103923,comment,102876,103242,0,0,pg,,,"Standards rise too, though.  When I was poor I was way better off materially than most rich people were 200 years ago.  But I still felt poor, and felt like I had to get a lot more money to have a comfortable life.",1201229103
+103922,comment,103657,103827,0,0,jsrfded,,,"try ab -c 1000 -n 100000 <url><p>that will give you 1000 concurrent connections, 100k total connections.<p>good luck.",1201229066
+103921,comment,103768,103829,0,0,mynameishere,,,"As I said, aimlessly.",1201228606
+103920,comment,103500,103724,0,0,jey,,,"I don't know, I haven't looked at it. But you won't go wrong with Cooper & Torczon.",1201228120
+103919,comment,103857,103857,0,0,jyu,,,"Don't they wish they had spent the $XX/mo to do online backups!",1201228014
+103918,comment,103798,103798,0,0,Hexstream,,,"""Given the eminent background of both academics, though, this is surprising. DeWitt has researched large parallel DBMS since the 1980s and, in addition to his pioneering work on Ingres and Postgres, Stonebraker is currently active in the large DBMS area with his new company Vertica.""<p>Someone with a strong background in DBMSes doesn't get a new technology somewhat unrelated to them because of ""expertise bias"". What's surprising?",1201227785
+103917,story,,,5,0,iamyoohoo,"Part 2 Follow up - How to balance a startup, family and a full time job",http://endorseyou.com/blog/2008/01/25/part-2-how-to-balance-a-startup-family-and-a-full-time-job/,,1201227629
+103915,story,,,1,0,drm237,"Tips for 'n00bs' moving to the Bay Area",http://mindplunge.com/2008/01/24/tips-for-n00bs-moving-to-the-bay-area/,,1201227258

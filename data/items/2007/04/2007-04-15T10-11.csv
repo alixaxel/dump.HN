@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-13078,comment,12990,12990,0,0,danw,,,"The problem is the take down request system is flawed. Theres no easy way of verifying if the takedown is coming from the copyright owner and if you do delay acting on the notice and request the sender prove that they own the material then you become liable for the infringement. [IANAL of course]",1176634796
-13077,story,,,4,11,bootload,"$50,000 Spock Entity Resolution Challenge",http://challenge.spock.com,,1176633846
-13076,comment,12938,12938,0,0,sharpshoot,,,"Isn't this sort of hyocritical when comcasts internet properties are all flash and involve streaming video. I think they have a part to play too!
-",1176633787
-13075,comment,13075,8428,0,0,paulwe,,,"yeah... php's lack of a mb charset friendly wordwrap function is a bit lame... the only quote i haven't been able to validate is the GitS 2 Innocence quote, anyone else run into that problem?",1176631609

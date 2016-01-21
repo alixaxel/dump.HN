@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+89842,story,,,3,0,jacobolus,"""Comet is a giant hack"" -- explanation of various real-time web app techniques",http://cometdaily.com/2007/12/11/the-future-of-comet-part-1-comet-today/,,1197716354
+89840,comment,89501,89684,0,0,cperciva,,,"Whatever gave you the idea that SimpleDB was Dynamo?  Werner has said quite explicitly that Dynamo is not and will not be exposed directly to potentially hostile users.",1197716118
+89839,story,,,1,0,gevaperry,"Developer scalability competition",http://www.gigaspacesblog.com/2007/12/10/launching-the-openspaces-developer-challenge/,,1197716019
+89838,comment,89692,89713,0,0,icky,,,"> Find someone else who is asking the same thing.<p>No way!  You're competing for the same resource:  a cofounder!  If he finds one first, then you're screwed!<p>;-)",1197713665
+89837,comment,89692,89735,0,0,icky,,,"Last time I did that, it spent all its time playing video games! :-(",1197713585
+89836,comment,89556,89712,0,0,jgrahamc,,,"That sounds like a quote from The Secret.",1197712902

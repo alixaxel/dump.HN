@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-2069,comment,363,372,0,0,pg,,,done,1172966193
-2068,comment,1987,2031,0,0,bootload,,,"'...  Wednesday, August 09, 2000 ...'<p>Pretty sure this article was written pre fogbugz while Citydesk was still in development. Look at the date on the article posting.",1172965712
-2067,story,,,1,0,juwo,"Java has harmed Unix but helped Windows win",http://juwo.blogspot.com/2006/11/flatface-musings-java-has-harmed-unix.html,,1172964606
-2066,story,,,1,0,msgbeepa,"Interactive Knowledge Sharing Website",http://www.wikio.com/webinfo?id=14060965,,1172964343
-2065,comment,2055,2055,0,0,Alex3917,,,"I'm imagining two intersecting lines. The positively sloped line represents the amount of time saved increasing as transactions of this kind increase. The other negatively sloped line is the cognitive overhead of using the system, i.e. higher when the number of transactions is small. I'm trying to figure out where exactly they cross, because while I like the system in theory I can't really see myself using it, at least at the moment. <p>P.S. Congrats on launching to the founder(s).",1172962855

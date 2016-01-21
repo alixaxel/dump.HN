@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+58839,story,,,6,3,gibsonf1,"Google Prepping A Second Life Competitor?",http://www.techcrunch.com/2007/09/24/google-preping-a-second-life-competitor/,,1190631219
+58838,comment,58837,58837,0,0,bootload,,,"<i>""... framework authors are not application developers ...""</i><p>Rolls eyes, shake heads. I'm not sure #2 argument holds. Wouldn't it be better to have a few system developers working on core code and the app developers assembling from pre-built blocks?",1190630571
+58837,story,,,1,3,bootload,"Top 10 Reasons Why Java Sucks",http://www.jroller.com/obie/entry/top_10_reasons_why_java,,1190629924
+58836,comment,58780,58819,0,0,eru,,,"I wonder if those 'irregular expressions' are already lambda isomorph (or say Turing complete if you like).",1190628907
+58835,comment,58025,58357,0,0,zoltz,,,"Really that's what I thought when reading this essay. And I agree that some of your essays are exactly what philosophy should be. But most are advice about startups rather than philosophy (although you can still see they were written by a philosopher), and some state specific observations. Maybe the philosophy essays deserve their own directory?",1190628857
+58834,comment,58629,58653,0,0,dcurtis,,,"I think the goal of the electric car should not be how fast it charges or how far it goes, but rather... when will the car be able to drive indefinitely off the power of the sun coming through the frame of the car? <p>That should be the seventy-year goal for electric car design. This is a good start though. But where does the electricity that charges the battery come from?",1190628388
+58833,comment,55127,55252,0,0,yrashk,,,"the next step is to move to osx :)",1190628050

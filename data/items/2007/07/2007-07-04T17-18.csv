@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-32479,comment,32478,32478,0,0,dbosson,,,"In the essay ""The 18 Mistakes that Kill Startups"" Paul Graham mentions how it is impossible for business guys to hire good programmers. I posted this essay because it shows why it is impossible and will give business guys a deeper understanding.  ",1183571663
-32478,story,,,3,1,dbosson,"Lisp:Good News Bad News How to Win Big",http://naggum.no/worse-is-better.html,,1183571362
-32477,comment,32085,32476,0,0,pg,,,"We rate them online.  The application looks the same to 
-us when we're reading it as it does to you while you're
-editing it.",1183570354
-32476,comment,32085,32085,0,0,npk,,,"I assume, that YC prints out a stack of these applications and grades them on paper.  Have the printouts ever looked like crap because of some weird browser thing?  If so, is there any chance we could see how the application looks when it's printed?",1183570073
-32475,comment,32366,32393,0,0,avibryant,,,"It's up to you, obviously, but I found the pushiness extremely off-putting.  You need to decide whether the core user activity is writing documents or inviting their friends.  If it's writing documents, get rid of the invite clutter.  If it's inviting friends, well, good luck, but the app is gone from my profile.",1183570064
-32474,story,,,2,1,dawie,"Rails For Linux",http://linrails.thembid.com/,,1183568462

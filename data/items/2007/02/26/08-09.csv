@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1139,story,,,8,0,rtm,"How MySQL Cluster works",http://vldb.idi.ntnu.no/program/paper/wed/p1108-ronstrom.pdf,,1172479077
+1138,comment,1015,1131,0,0,Nick_Smith,,,"Who would you suggest emulating?",1172478883
+1137,story,,,2,0,manuel,"Amazon working on database web service?",http://developer.amazonwebservices.com/connect/thread.jspa?messageID=43576,,1172478796

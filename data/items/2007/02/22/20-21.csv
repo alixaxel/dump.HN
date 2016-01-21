@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+533,comment,189,513,0,0,pg,,,"I hope we can tell the difference between people who are smart and those who are merely articulate.<p>(We all have a lot of experience dealing with hackers, after all.)",1172177687
+532,story,,,9,3,altay,"UI design: When tags work (librarything.com) and when they don't (amazon.com)",http://www.librarything.com/thingology/2007/02/when-tags-works-and-when-they-dont.php,,1172177644
+531,comment,445,479,0,0,pg,,,"Can you let me know precisely how to reproduce it?  Has anyone else experienced anything like this?",1172177438
+530,story,,,13,7,gustaf,"CNN: Next net 25 startups to watch",http://money.cnn.com/2007/02/21/magazines/business2/nextnet_intro.biz2/index.htm,,1172176215
+529,comment,528,528,0,0,nate,,,"We've had to be on a bunch of conference calls even as a startup.  Especially as a startup it's hard to even have the partners always in the same place to talk to lawyers, clients, etc. when you don't have an office.  So this thing has perfect quality and is totally free.  I can't believe if even exists.  \n\nSkype conferences suck in comparison.  ",1172175558
+528,story,,,4,3,nate,"Free conference calls you can setup over the web",http://www.telejunctions.com/,,1172175447
+527,story,,,1,1,adamsmith,"How a linker works [video, admittedly in RM format]",http://mfile.akamai.com/7870/rm/mitstorage.download.akamai.com/7870/6/6.033/s05/videolectures/ocw-6.033-32123-14feb2005-220k.rm,,1172175345
+526,comment,189,189,0,0,kentbrew,,,"Please, may we have a mashable feed of some sort?  RSS probably wouldn't work, but a JSON object would....",1172175244
+525,story,,,4,1,brett,"Interesting Craig's List design breakdown",http://blog.topix.net/archives/000095.html,,1172175220
+524,story,,,2,1,adamsmith,"Lecture videos from my favorite undergrad CS class",http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-033Spring-2005/LectureNotes/index.htm,,1172174992
+523,story,,,1,1,kentbrew,"Badger: Badge Any RSS Feed",http://kentbrewster.com/badger,,1172174889

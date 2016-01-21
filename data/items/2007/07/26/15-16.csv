@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+36872,story,,,4,0,nickb,"Pattern matching with Ruby",http://etorreborre.blogspot.com/2007/04/pattern-matching-with-ruby.html,,1185465431
+36871,story,,,5,0,nickb,"Ajax: A Sequence Diagram for Scriptaculous",http://blogs.pathf.com/agileajax/2007/07/a-sequence-diag.html,,1185465376
+36870,story,,,1,0,nickb,"YSlow Review and Tips, add-on for the Firebug add-on",http://www.seifi.org/server/yslow-review-the-firebug-addon.html,,1185465250
+36869,story,,,1,0,drm237,"Startup Epicenter Offers Arsenal of Tools for Entrepreneurs",http://bub.blicio.us/?p=293,"Scott Lane  of SF Bay Ventures has once again brought entrepreneurs up against feisty angel investors and renowned venture capitalists. Some of them even got personal onsite coaching with experts that cater to the startup community. This is yet just another example why these events make Silicon Valley the place for serious entrepreneurs to plant themselves in this fertile soil.",1185465217
+36868,comment,36768,36768,0,0,natonic,,,"I'd better start collecting ideas to post as projects.",1185465016
+36867,story,,,1,0,AF,"Ask YC: What are the best open-source business models?",,,1185464866
+36866,story,,,1,0,jsjenkins168,"Sprint teams with Google to build an open WiMax portal",http://biz.yahoo.com/bw/070726/20070726005162.html?.v=1,,1185464693
+36865,story,,,1,0,oxyona,"6 Steps to write a better Windows setup.exe",http://alumnit.ca/~apenwarr/log/?m=200707#26,,1185464609
+36864,comment,36684,36808,0,0,dpapathanasiou,,,"<i>That story sure brings Gates down another few notches in my book</i><p>It seems he was a bully, too, at least in the early days: <a href=""http://blog.tomevslin.com/2007/05/microsoft_memor.html"" rel=""nofollow"">http://blog.tomevslin.com/2007/05/microsoft_memor.html</a><p>Then again, most people probably don't care, given Microsoft's financial results.",1185464525
+36863,comment,36851,36854,0,0,nickb,,,"Microsoft's desperate... they probably gave them guaranteed yearly revenue just like they gave it to facebook.",1185464140
+36862,comment,36684,36833,0,0,create_account,,,"What would -2000 get you if you used it in YC's application form?",1185463999
+36861,comment,36684,36858,0,0,create_account,,,"They'd be better off asking: you much have you done, how many more weeks until you can release a prototype, etc.",1185463970
+36860,comment,36684,36841,0,0,create_account,,,"<i>Why do people measure LOC? Because they're trying to measure the productivity of programmers. Why are they doing that? Largely to decide how to reward them.</i><p>Yes.<p>But if I'm an IT manager at a large company, the answer to that question is not <i>startups</i> (it's not LOC, either).<p>(I know this site is all <i>rah rah startups</i> and I'm not trying to harsh anyone's mellow, but this question is still largely unanswered)",1185463845
+36859,comment,36851,36854,0,0,migpwr,,,"They're moving product. It's not bribery, it's business...",1185463822
+36858,comment,36684,36815,0,0,simpleenigma,,,"While I'm a firm beleiver that LOC are not a good measure of anything anymore ... The YC as this question:<p>""If you've already started working on it, how long have you been working and how many lines of code (if applicable) have you written?""<p>I guess it's important in some places still .... :-)",1185463560
+36857,story,,,1,0,falsestprophet,"Why Britain has lost out to the US in the battle for Indian students and entrepreneurs",http://business.timesonline.co.uk/tol/business/markets/india/article2141186.ece,,1185462832
+36856,comment,36675,36714,0,0,Tichy,,,"So buyers couldn't figure out how to activate their phones? Or they didn't care, they just wanted to have it to look at it?",1185462441
+36855,comment,36834,36834,0,0,aston,,,"If by ""accurate,"" you mean ""not even counting through the first weekend of sales.""<p>It's hard to get a sense of how many people out there have iPhones based on the initial spike.",1185462384
+36854,comment,36851,36851,0,0,jey,,,"s/chooses/is bribed to choose/<p>Fixed it for you.",1185462231
+36853,story,,,2,0,szczupak,"A dynamic startup allows real time price comparison",http://www.businesshackers.com/2007/07/26/a-dynamic-startup-offer-real-time-price-comparison/,,1185462073

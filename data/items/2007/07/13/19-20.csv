@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34101,comment,34065,34065,0,0,pg,,,"Go to CS talks at nearby universities.  Most have talks that are open to the public.  These usually include ""job talks"" in which people applying for teaching jobs present their recent work.",1184356293
+34100,comment,33886,33952,0,0,euccastro,,,"Why are you using a database, in this case?  Aren't you better off serializing your tree using the native methods of your language?  (e.g., with pickle.dump() in Python.)",1184354539
+34099,comment,33886,33892,0,0,euccastro,,,"What's hard about threaded comments, exactly?",1184354218
+34098,comment,34065,34065,0,0,felipe,,,"IEEE Magazines:<p><a href=""http://www.ieee.org/web/publications/journmag/index.html"" rel=""nofollow"">http://www.ieee.org/web/publications/journmag/index.html</a><p>""Software"" and ""Computer"" are more in-depth and oriented towards latest advancements and practices. ""Internet Computing"" and ""IT Professional"" are more practical.",1184353863
+34097,comment,33931,34096,0,0,brlewis,,,"You're right.  Haskell, despite having been around a few years, is early in its life.  I suppose the right title would be ""12 languages that aren't wildly popular in 2007.""",1184353621

@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-155578,comment,155063,155565,0,0,rms,,,"Computer programmers, then?",1207389461
-155577,comment,155400,155436,0,0,mynameishere,,,"Ugh. Monroeville. Come for the Sam's Club. Stay for the Popeye's.",1207389457
-155576,comment,155400,155424,0,0,marrone,,,"yeah, I thought it was a cool to find a football player on that list, and a Steeler as well",1207388591
-155575,comment,155553,155553,0,0,marrone,,,"For finding those kinds of mistakes use jslint (<a href=""http://jslint.com"" rel=""nofollow"">http://jslint.com</a>), though it doesnt catch calling a function with the wrong number of arguments (which may be what you intended anyways). If you download the source you can easily write a custom command in vim or emacs to run the current buffer through jslint.",1207387968
-155574,comment,155553,155567,0,0,marrone,,,"I use VIM too. What exactly do you find is a pain?",1207387821
-155573,comment,155390,155390,0,0,inovica,,,"I think this will be once piece of many, however having using EC2 and experienced their support (which is great) it will take something for me to move over to Google. With Google their support has been less than great and if this filtered into this kind of product then I wouldn't use them. AWS have been pioneering and I'd stick with them if they continue to improve and innovate",1207386550
-155572,comment,155382,155382,0,0,zkinion,,,sent,1207386239

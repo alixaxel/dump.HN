@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41429,story,,,10,2,pg,"SCO Loses",http://www.groklaw.net/article.php?story=20070810165237718,,1186804775
+41427,comment,41414,41418,0,0,amichail,,,"Sure, but maybe you'll gain more than you will lose.",1186802818
+41426,comment,41133,41218,0,0,chazwozz,,,"how would you store the users data?",1186802133
+41425,comment,41133,41284,0,0,chazwozz,,,"appreciate the comment earlier. some of the more constructive feedback",1186802070
+41424,comment,41133,41215,0,0,chazwozz,,,"haha, yeah i do, i'm a middleware guy though. The question is nothing to do with the company i work for.. honest! :)",1186801755
+41422,story,,,3,0,nickb,"How REST won over WS-*",http://blogs.concedere.net:8080/blog/discipline/web/?permalink=Sharing-vs-Services-or-Why-There-is-No-Me-and-There-is-No-You.html,,1186801662
+41420,story,,,13,4,nickb,"John Resig - The Browser Scripting Revolution",http://ejohn.org/blog/the-browser-scripting-revolution/,,1186801552
+41419,story,,,3,0,nickb,"Learning JavaScript Programming Language through Video Lectures",http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/,,1186801372
+41418,comment,41414,41414,0,0,veritas,,,"No because you piss off your users.\n",1186801352
+41417,story,,,1,0,nickb,"SchemaCrawler for PostgreSQL Announced",http://python-postgressql-django.blogspot.com/2007/08/schemacrawler-for-postgresql-announced.html,,1186801323
+41416,story,,,1,0,nickb,"JazzScheme at lispvan",http://bc.tech.coop/blog/070810.html,,1186801289
+41415,story,,,4,1,transburgh,"Are You Ready To Bar Camp?",http://www.techcrunch.com/2007/08/10/are-you-ready-to-bar-camp/,,1186801245

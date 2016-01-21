@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+74894,comment,74751,74751,0,0,boucher,,,"I completely disagree.  Objective-C is an incredibly readable language precisely because it is verbose.  Message parameters have labels, what a concept!  \n",1193878753
+74893,story,,,1,0,nickb,"Tim Bray's Wide Finder Project: Results",http://www.tbray.org/ongoing/When/200x/2007/10/30/WF-Results,,1193878729
+74892,story,,,3,0,nickb,"Can Google's Preso kill PowerPoint? ",http://www.slate.com/id/2176549/,,1193878641
+74891,story,,,1,0,nickb,"Tag clouds look better sorted",http://www.willmcgugan.com/2007/10/31/tag-clouds-look-better-sorted/,,1193878398
+74890,story,,,1,0,nickb,"Google Announces the OpenSocial API",http://radar.oreilly.com/archives/2007/10/google-opensocial-api-launch.html,,1193878243
+74889,comment,74781,74886,0,0,nikolaj,,,"who says jokes can't be fully functional.. imo it makes them all that much better.. remember textquake? :)",1193878126
+74888,story,,,1,1,Basti,"Former Executive Board Member of SAP promotes the electrical car with $200 mio. Venture money",http://4.78.165.100/projectbetterplace/event/rnm.asp?link=150kOD.ram,"He is promoting nothing really new, but this is the first time I take it seriously!",1193877610
+74887,comment,74605,74840,0,0,apgwoz,,,"I love the emacs color scheme.",1193877095
+74886,comment,74781,74854,0,0,benhoyt,,,"I haven't run the .exe, but the source code looks pretty non-jokish to me.",1193876627
+74885,comment,74628,74628,0,0,kingkongrevenge,,,"> Python, like Ruby, Perl, and other relatively high level languages, has supports a dictionary (or hashtable if you prefer) data type at the syntax level.<p>Kind of a dumb point.  STL has map and hash_map.  Failing to use them has nothing to do with the language, just stupidity.",1193876420
+74884,comment,74605,74856,0,0,copenja,,,"I concur.  I can't believe how many single monitor\nsetups there are.<p>I am also surprised that more people don't use split\nscreen setups where they can view multiple pages of\ncode within the same window (ala emacs,gvim, Visual Studio).  I prefer to have around four but atleast two\nviews of code open at once.<p>\n",1193876417
+74883,comment,74866,74866,0,0,rms,,,"Are we taking bets on whether or not he finishes it?",1193876202
+74882,comment,74605,74862,0,0,copenja,,,"Just curious, but what doesn't work for you about\nmultiple monitors?",1193876196

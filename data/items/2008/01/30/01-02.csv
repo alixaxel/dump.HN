@@ -1,0 +1,31 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+106599,story,,,1,0,pius,"Using Rack to create standalone RESTFul services in Ruby",http://nutrun.com/weblog/rack-restful-dispatcher/,,1201658141
+106598,comment,105976,105976,0,0,scw,,,"I'm a developer for NCEAS, an ecological research center, attached to UC Santa Barbara.",1201658117
+106597,comment,106498,106498,0,0,bootload,,,"<i>""...  what's your del.icio.us username? ...""</i><p><a href=""http://del.icio.us/bootload"" rel=""nofollow"">http://del.icio.us/bootload</a>",1201657967
+106596,comment,106398,106428,0,0,mcxx,,,"Do you really think that Arc is a competitor for CL?",1201657849
+106595,comment,106398,106398,0,0,dbrush,,,"<a href=""http://news.ycombinator.com/whoami"" rel=""nofollow"">http://news.ycombinator.com/whoami</a>",1201657354
+106594,comment,106586,106586,0,0,tlrobinson,,,"Next: ""Linux in 62 lines of code!!!""",1201657103
+106593,comment,105976,106466,0,0,kobs,,,"I forgot to add that my e-mail can be found in my profile =). Looking for a software engineering summer internship located in NYC or Silicon Valley.<p>(Hopefully this isn't a faux pas =)",1201657070
+106592,comment,106347,106347,0,0,rkts,,,"The word ""OOP"" is so ill-defined that we can't begin to have a meaningful discussion unless you tell us precisely what you mean by it.  In particular, what is an ""object"" and how is it different from a collection of closures?",1201656962
+106591,comment,106482,106482,0,0,tlrobinson,,,"<a href=""http://www.oreillymaker.com/link/7686/arc-for-dummies/"" rel=""nofollow"">http://www.oreillymaker.com/link/7686/arc-for-dummies/</a><p>Please forgive me.",1201656910
+106590,comment,106586,106586,0,0,rms,,,"The original algorithm, I presume... I would think they're up to millions of lines of python/c++ by now.",1201656832
+106589,comment,106498,106498,0,0,toffer,,,"<a href=""http://del.icio.us/toffer"" rel=""nofollow"">http://del.icio.us/toffer</a>",1201656571
+106588,comment,106498,106498,0,0,kobs,,,"<a href=""http://del.icio.us/sbok"" rel=""nofollow"">http://del.icio.us/sbok</a>",1201656542
+106587,comment,106571,106571,0,0,far33d,,,"This is very un-Steve.<p>But either way - Only in SV would employees complain about 100% YOY growth. Come on people!",1201656438
+106586,story,,,50,8,hhm,"The Google PageRank Algorithm in 126 Lines of Python",http://kraeutler.net/vincent/essays/google%20page%20rank%20in%20python,,1201656396
+106585,comment,106398,106569,0,0,axod,,,"Users care if their name is zoe (with an accent on the e), or if they want to discuss prices of things in euros or GBP.<p>I wrote a php forum a while back. You wouldn't believe the number of emails telling me that the gbp sign doesn't show up properly when they post a comment.",1201656011
+106584,comment,106244,106582,0,0,rms,,,"But Nirvana is real. Close your eyes and try and think of nothing. That's Nirvana. Close enough, at least.",1201655722
+106583,story,,,6,0,bfioca,"Design's Place in a Startup",http://www.tonywright.com/2008/designs-place-in-a-startup/,,1201655645
+106582,comment,106244,106579,0,0,curi,,,"i was comparing one imaginary place, and arguments based on it, with another.",1201655519
+106581,comment,106398,106527,0,0,mechanical_fish,,,"Nothing!<p>Nobody said <i>I</i> was going to be a highly efficient Arc programmer. :)",1201655512
+106579,comment,106244,106552,0,0,rms,,,"I'm not talking about the religion of Buddhism, I'm talking about a mental state of nothingness. I only wish I could reach that state without the use of mind altering substances. As great as Nirvana is, it doesn't seem worth the effort to train the unenhanced mind to get there. That process is what is boring.<p>But if you're looking for shortcuts, I've got plenty of them.",1201655450
+106578,comment,106380,106380,0,0,tlrobinson,,,"Believe it or not, I still have a :CueCat.<p>I hacked it to output standard barcode numbers (unmodified it uses some silly obfuscated encoding to lock people into their software).",1201655398
+106577,comment,105739,105868,0,0,aswanson,,,"<i>You will be affected.</i>\nGot that right.",1201655332
+106576,comment,106244,106552,0,0,mixmax,,,"Well neither have you.<p>unless the Internet stretches farther than I am aware.",1201655297
+106575,comment,105739,105970,0,0,aswanson,,,"A true entrepreneur...diversified income stream.  Keep at it.",1201655211
+106574,story,,,2,5,garbowza,"Is Google Recession-proof?",http://www.wired.com/techbiz/it/news/2008/01/google_recession,,1201655163
+106573,story,,,1,0,thingsilearned,"DDJ | DDJ's Portal Blog",http://www.ddj.com/blog/portal/archives/2006/08/a_grid_is_a_gri.html,,1201655075
+106572,comment,106347,106347,0,0,asolove,,,"Just to review, this stream of comments leads us to the invention of a new unit, the ""Hypothetical Paul Graham"" or HPG, which represents the amount of BS required to defend poor coding practice.<p>Absolute reliance on OO even in non-real systems is a 5 HPG proposition, as it would apparently require five hypothetical Paul Grahams before the use of closures to simulate objects became too complex.<p>A language that does not include functional abstraction is at least a 10 HPG proposition. We would need to posit at least ten hypothetical Paul Grahams before the dangerous ability to simply define one's own functions (even redefine system functions, oh my!) and pass them around would become dangerously confusing.<p>This raises the question: is there a theoretical limit of HPGs? How many would be required before we could justify just writing machine instructions?",1201654981
+106571,story,,,2,1,transburgh,"Steve Jobs tells investors to ""hang in there"" in leaked email",http://valleywag.com/350280/steve-jobs-tells-investors-to-hang-in-there-in-leaked-email,,1201654973
+106570,story,,,2,0,carpo,"Firebug-like tool for Internet Explorer - Web Developer Toolbar",http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&displaylang=en,,1201654957
+106569,comment,106398,106524,0,0,far33d,,,"Coders care, users don't. Just like they don't care about tables used for layout.",1201654802

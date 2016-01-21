@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83526,comment,83439,83439,0,0,david927,,,"It's ""whoever"", not ""whomever"".",1196067305
+83525,comment,83429,83521,0,0,davidw,,,"That's what a subscription to the paper copy of The Economist is for.",1196066272
+83524,comment,83429,83488,0,0,davidw,,,"Yeah, I'm super paranoid when I'm out and about with my laptop.  I do not leave it unattended.",1196066228
+83523,comment,83359,83506,0,0,dfranke,,,"I see no indication that it's intended to be one.",1196066121
+83522,comment,82724,82724,0,0,bayareaguy,,,"Actually sh is pretty lean compared to some of the frameworks out there, and I could easily see how this approach could work nicely in an embedded linux device.",1196065639
+83521,comment,83429,83505,0,0,axod,,,"Try using a desktop whilst sat on the toilet.\nOr am I the only one...?",1196064391
+83520,comment,83359,83479,0,0,corentin,,,"I'm not sure it's useful either. Why not just use a dedicated data structure (such as a radix tree dictionary)?",1196064108

@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+81029,comment,81023,81023,0,0,g-e,,,"You mention resources. What resources do you need? And where are you based?\n",1195336624
+81028,comment,80970,80970,0,0,axod,,,"Sounds good to me. Would be great to meet some like minded hackers.",1195336387
+81027,comment,80933,80933,0,0,abarrera,,,"Truth to be said, the title comes from slashdot, but hey guys, why argue about the title when the content is cool? I enjoyed the article and just for the record, I did understand the problem was a user memory leak and not something to do with C#. ",1195336104
+81026,story,,,3,0,nickb,"Update On AdultFriendFinder Acquisition - Penthouse May Be The Buyer",http://www.techcrunch.com/2007/11/17/update-on-adultfriendfinder-acquisition-penthouse-may-be-the-buyer/,,1195335326
+81025,comment,80845,81008,0,0,pg,,,"I had a similar reaction.  I think a lot of people did.  One should never underestimate the power of (a) making it easy for people to get a hello world running, and (b) view->source.",1195335070
+81024,story,,,2,0,rokhayakebe,"fun tool",http://www.pimpampum.net/bubblr/,,1195335057
+81022,comment,81006,81016,0,0,amichail,,,"This just depends on your personality.  Some people envy while others admire.",1195334631
+81021,comment,81006,81015,0,0,amichail,,,"<i>At the risk of sounding like an old prude, I'm not crazy about dragging somebody out by name and then everybody gathering around and critiquing his life.</i><p>I don't know about that.  I think it would be a neat idea for a startup.",1195334527
+81020,comment,80621,80840,0,0,rkts,,,"<a href=""http://ycombinator.com/hackernews.html"" rel=""nofollow"">http://ycombinator.com/hackernews.html</a><p>""The focus of Hacker News is going to be anything that good hackers would find interesting. That includes a lot more than hacking and startups. If you had to reduce it to a sentence, the answer might be: anything that gratifies one's intellectual curiosity.""",1195334137
+81019,comment,80915,81003,0,0,mrtron,,,"Sorry I think its just the wording that is confusing here.<p>The controller is doing the work to determine what will be shown, yes.  I meant once the controller determines which view should be used, the view then can manage the specific data being shown.<p>Django does separate the view into a 'view' and a 'template'.  One does your work, and the other does the displaying.",1195333511
+81018,comment,80970,80994,0,0,ian,,,"Sorry Vikram, that was a mistake. Let's wait and see who can make it on the 30th.",1195333411

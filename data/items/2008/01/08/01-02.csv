@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95831,comment,95753,95830,0,0,paul,,,"Sorry, I wish I had the answer. Even with our resources, it's still difficult. The sad thing is that there are a lot of great people out there working away at bad jobs. One of the things I try to accomplish with my my blog is to convince them to quit their bad jobs and try something new. I believe that it will be good for them, and good for the world.",1199757455
+95830,comment,95753,95753,0,0,staunch,,,"I was hoping for some advice for those of us in slightly less ideal circumstances :-)<p>I'm charged with assembling a team of people for a new project and I certainly don't have access to the kinds of people or money PB has. It's tough trying to find great people when you have a lot of constraints.",1199756649
+95829,story,,,2,2,iamelgringo,"For $5 Million You Can Buy Enough Storage to Compete with Google",http://www.highscalability.com/5-million-you-can-buy-enough-storage-compete-google,,1199756538
+95828,comment,95657,95813,0,0,mojuba,,,"No wonder, so is your content - exceptionally h, ch and u, haha! :)",1199756473
+95827,comment,95656,95812,0,0,mattmaroon,,,"I'm pretty sure almost any niche has some sort of profitable business waiting to be monetized by a blogger with a decently sized, trusting audience.",1199756217
+95826,comment,95708,95708,0,0,hsiung,,,"Seems like this script does a top level document search for nodes to apply it's PNG fix. This can really hurt performance for sites that have complicated layouts. Sometimes it's best just manually code your own png fix solutions (fix exactly the image and div nodes you need for each page, rather than conducting a document.getElementsByTagName.. sweep)",1199756140
+95825,comment,95774,95774,0,0,henryw,,,"i wish i knew flash this well when i needed to do powerpoint presentations for classes.",1199756105
+95824,story,,,2,0,pius,"Behavior Driven Development is ""not worth it.""",http://giantrobots.thoughtbot.com/2008/1/7/why-bdd,,1199754724
+95823,comment,95657,95780,0,0,dcurtis,,,"Woah, woah. Craigslist may be ugly, but it's a UI masterpiece. The ugliness of MySpace comes at the expense of the UI, which makes it infinitely more shitty.",1199754328
+95822,comment,95758,95807,0,0,superjared,,,"Hopefully what I created is elegant enough for people to want to use.",1199754032

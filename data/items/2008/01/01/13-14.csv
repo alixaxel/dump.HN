@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94111,comment,94067,94067,0,0,mwerty,,,"where does songza get the songs from?",1199195098
+94110,story,,,1,0,agentbleu,"The hobbyists part 3 : Dazzled by success - a call for sanity!",http://startupcrunch.org/the_hobbyists_part_3_dazzled_by_success_a_call_for_sanity,,1199193772
+94109,comment,93727,93727,0,0,pius,,,"Really inspiring post to read at the start of the new year.",1199193618
+94108,story,,,11,2,pius,"Ruby's AI Libraries",http://web.media.mit.edu/~dustin/rubyai.html,,1199193556
+94107,comment,93984,94105,0,0,pius,,,"Sure, but either way, it's your app server process going down.  Not useful.",1199192977
+94106,comment,93984,94095,0,0,pius,,,"I'm not calling the dude a script kiddie either.  I was pointing out the more general pattern of the sentiments Zed has shown in his posts.<p>Kevin's obviously done a lot of useful work for the Ruby and Rails communities and I respect him on that basis the same way I respect Zed for his open source contributions.",1199192545

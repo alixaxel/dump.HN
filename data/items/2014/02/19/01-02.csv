@@ -1,0 +1,3 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+7261429,comment,7260596,7261367,4,0,robszumski,,,"We&#x27;re leaving it up to the user. Ideally this is a replicated database that handles failover automatically, but it can be an attached storage device, NFS share, etc.",1392774970
+7261428,comment,7250917,7250917,1,0,babyturtle,,,"typical facebook rubbish.. why does the world have to know everything you do?",1392774967

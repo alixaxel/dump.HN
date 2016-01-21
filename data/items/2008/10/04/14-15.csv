@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+323502,comment,323482,323494,0,0,cperciva,,,"Because the xkcd odds are computed based on the completely bogus assumption that Obama and McCain win or lose states independently.<p>When we get to election day, the states become pretty independent; but until that day, there are very strong correlations between the results in different states.",1223132123
+323501,comment,323462,323462,0,0,josefresco,,,"Using Gears right now to build home inspection software for a client.<p>The one major issue so far is the time involved to program the syncing when going back online.  Offline support is great, it seems however that Google left the online sync ""up to you"".",1223132109
+323500,comment,323482,323494,0,0,andreyf,,,"Because markets are imperfect.<p>""It is based on Intrade.net <i>state-by-state</i> prediction market odds...""<p>When betting state-by-state, people think Obama is doing better than when they bet nationally.<p><a href=""http://en.wikipedia.org/wiki/Monte_Carlo_method"" rel=""nofollow"">http://en.wikipedia.org/wiki/Monte_Carlo_method</a>",1223132085
+323499,comment,323482,323482,0,0,robg,,,"See fivethirtyeight.com for much better simulations - 10,000 run each day based on weighted national and state polls. Plus their graphic design is excellent in being both very clean and informative.<p>Munroe links to them at the bottom.",1223131863
+323498,comment,323032,323093,0,0,aswanson,,,"This coming from a guy who has <i>every single submission</i>, or at least his last sixty, originating from alleyinsider, the enterprise version of Valleywag.",1223131760
+323497,comment,323493,323493,0,0,whalliburton,,,"A good attack on the ""release early and often"" process.",1223131602
+323496,comment,322579,322579,0,0,sc,,,"WebKit's built-in Inspector has been more than adequate for my needs as of late.",1223131538
+323495,comment,322964,322964,0,0,ntoshev,,,"This guy doesn't understand that these limitations are not just arbitrary, they stem from the architecture of the service. In order for it to scale, Google needs to make sure the applications are doing everything in small chunks. I bet even the background batch tasks, when they come, will require the developer to break the tasks in small pieces, map-reduce style or otherwise.",1223131451
+323494,comment,323482,323482,0,0,clay,,,"So here's the question: why does this give odds of 91% to Obama while Intrade has him forecast at 68%?",1223131306
+323493,story,,,30,37,whalliburton,"What Is An Idea Worth?",http://whydoeseverythingsuck.com/2008/10/what-is-idea-worth.html,,1223131251
+323492,comment,323461,323461,0,0,13ren,,,"If it does implement the PageRank patent, it will be interesting to see how Google handles this.",1223131176
+323489,story,,,21,4,prakash,"Capitalism to the Rescue - Green Tech Rising",http://www.nytimes.com/2008/10/05/magazine/05Green-t.html?_r=1&oref=login&pagewanted=all,,1223130502
+323488,comment,323439,323439,0,0,iamdave,,,"will define: <term> still work?  That was the main way I got definitions, as opposed to just typing the word in.",1223130167
+323487,comment,323305,323469,0,0,matt1,,,"What do you mean?",1223129790
+323486,story,,,3,0,byrneseyeview,"Brought Low by the List",http://www.thecommonreview.org/bookends.html,,1223129778

@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28057,story,,,1,0,gibsonf1,"Google Gives Up on Competing With eBay's Big Boston Party",http://www.nytimes.com/2007/06/14/technology/14google.html?ex=1339473600&en=a6c2244025859e73&ei=5090&partner=rssuserland&emc=rss,,1181822259
+28056,comment,28030,28050,0,0,ivan,,,"E-mail address in profile is a big secret for me also :) This is probably question for PG.",1181822059
+28055,story,,,5,1,gibsonf1,"Alpha alert: OpenOffice.org for Mac",http://news.com.com/8301-10784_3-9728852-7.html?tag=head,,1181822053
+28054,story,,,1,0,gibsonf1,"Intel readies massive multicore processors",http://news.com.com/Intel+readies+massive+multicore+processors/2100-1008_3-6190856.html?tag=nefd.lede,,1181821968
+28053,comment,27532,27532,0,0,lupin_sansei,,,"""The implication is, in my view, quite clear -- the Facebook Platform is primarily for use by either big companies, or venture-backed startups with the funding and capability to handle the slightly insane scale requirements. Individual developers are going to have a very hard time taking advantage of it in useful ways.""<p>I wonder if anyone hosting providers will step up and offer a Facebook level service to budding application developers.",1181820862
+28052,comment,27883,27883,0,0,ralph,,,"What are the significant savings that mean it's worth misusing GET?  Is REST really that hard?  _RESTful Web Services_, <a href=""http://www.oreilly.com/catalog/9780596529260/"" rel=""nofollow"">http://www.oreilly.com/catalog/9780596529260/</a>",1181820402
+28051,comment,27532,27905,0,0,lupin_sansei,,,"I decided. Since you're not LvanB on here I assumed that your were faking.",1181820231

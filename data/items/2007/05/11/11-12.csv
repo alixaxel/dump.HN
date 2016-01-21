@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21302,story,,,1,0,gibsonf1,"How Will Twitter Affect Search?",http://publishing2.com/2007/05/10/how-will-twitter-affect-search/,,1178884652
+21301,story,,,1,0,gibsonf1,"Rapid coding collaboration (Web based)",http://www.springloops.com/,,1178884426
+21300,story,,,1,0,gibsonf1,"Share Your Profiles + Contacts + Bookmarks",http://profilefly.com/,,1178884312
+21299,story,,,1,0,gibsonf1,"LinkedIn to Attention Streams",http://www.loosewireblog.com/2007/05/linkedin_to_att.html,,1178884174
+21298,comment,21296,21296,0,0,yaacovtp,,,"Yup. ""I'm serious about this, and willing to pay quite a bit of money to make it happen.""",1178884027
+21297,comment,21296,21296,0,0,paul,,,"Here's one way to get funded: write this plugin",1178883778
+21296,story,,,25,15,Sam_Odio,"Flash, Silverlight, and JavaFX all look nice, but what I really want is better file upload",http://paulbuchheit.blogspot.com/2007/05/flash-silverlight-and-javafx-all-look.html,,1178883361
+21295,story,,,3,0,danw,"Orbitz, the worst IPO of 2007?",http://gigaom.com/2007/05/11/orbitz-the-worst-ipo-of-2007/,,1178883322
+21294,comment,15030,15975,0,0,dpapathanasiou,,,"Hey, check out this cartoon: <a href=""http://www.newyorker.com/humor/issuecartoons/2007/05/14/cartoons_20070507?slide=3"" rel=""nofollow"">http://www.newyorker.com/humor/issuecartoons/2007/05/14/cartoons_20070507?slide=3</a>\n",1178883310
+21293,comment,21153,21248,0,0,dpapathanasiou,,,"Brett: I agree completely.<p>I visit this site for certain type of information/inspiration.<p>The last thing I want to see (especially at no. 1) is another dumbass screwup story, however funny it might be.<p>There are already plenty of sites for that kind of stuff (WTF, digg, boing boing, etc.).",1178882739
+21292,comment,21161,21262,0,0,omouse,,,"If you posted that on reddit you would be flamed to a crisp. But you're among friends here :D",1178882478
+21291,comment,21227,21265,0,0,gibsonf1,,,"I agree, they do have concepts, but not in a <i>human</i> way.  One questioner asked what their conceptual schema looks like, and the CEO said that it is basically the same as typical ontologies out there but with a few more links between concepts.  We looked closely at OWL and RDF and CYC and all the other ontology languages we could find to see if it was possible to meaningfully capture <i>human</i> like conceptualization with these languages, and it isn't - they are extremely far from providing a framework for successfully doing it.  A radically new framework is needed to make progress conceptually - which is what we are working on.",1178882473

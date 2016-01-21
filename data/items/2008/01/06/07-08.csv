@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95271,story,,,2,0,kirubakaran,"Flying Cars",http://www.terrafugia.com/landing.html,,1199606200
+95270,story,,,1,0,merrick33,"Use Appletalk over a VPN, *not* Samba",http://blog.merricklozano.com/post/23097980,"If you ever tried connecting from a mac to a samba share over a VPN, you know how much that sucks. Setup appletalk (afp) and the suffering is over.",1199603904
+95269,comment,95260,95260,0,0,matth,,,"Off-topic, but a little humor for us all.",1199603699

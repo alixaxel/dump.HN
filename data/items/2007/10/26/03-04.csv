@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+72786,story,,,1,0,bootload,"Developing extensions for Firefox an exercise in futility",http://andy.5263.org/archives/2007/01/10/gaaarr/,,1193371053
+72785,comment,72698,72698,0,0,gscott,,,"I would add some listings on each side, maybe about 3 to 5 with a more link to see more.  I want instant gratification, an extra click might send me away.",1193370874
+72784,comment,72710,72710,0,0,Goladus,,,"<a href=""http://steve.yegge.googlepages.com/transformation"" rel=""nofollow"">http://steve.yegge.googlepages.com/transformation</a><p>Skip to the bottom section if you're in a hurry.",1193370852
+72783,story,,,2,1,nickb,"Ruby in Leopard: Ruby 1.8.6, 30 gems, Objective-C bridge, XCode and Interface builder integration",http://trac.macosforge.org/projects/ruby/wiki/WhatsNewInLeopard,,1193370709
+72782,story,,,1,0,nickb,"Pageless pagination: cease and desist",http://blog.reindel.com/2007/10/25/pageless-pagination-cease-and-desist/,,1193370542
+72780,story,,,5,0,gscott,"Hackers: 'Your Vonage Call is Owned'",http://www.news.com/Security-firm-Hackers-can-divert-Vonage-calls/2110-7349_3-6215259.html,,1193368770
+72779,comment,72767,72767,0,0,eusman,,,"Brin \n""We really started to grow (Google) during the bust of the dot com bubble,"" he said. ""Their timing may be somewhat inverted."" Google, he said, benefited from the discipline imposed on it by the bust. ""I think that's an extra challenge that they face,"" he added""<p>it's obvious he is considering Facebook overvalued",1193368292
+72778,story,,,3,0,mqt,"Darpa's Robot Car Race: Gentlemen, Start Your Processors",http://www.wired.com/cars/futuretransport/news/2007/10/grandchallenge_walkup,,1193368135
+72777,comment,72606,72653,0,0,youngnh,,,"wrong. The sum of an infinite geometric series is a finite sum. If an infinite parade of new languages each drag us halfway to lisp eventually we'll all be programming in it",1193367614

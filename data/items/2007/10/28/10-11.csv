@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73414,story,,,1,0,terpua,"Bug.gd: Collaborative Search And Bug Solutions",http://www.techcrunch.com/2007/10/28/buggd-collaborative-search-and-bug-solutions/,,1193569009
+73413,comment,73249,73249,0,0,staunch,,,"Your post is as disoriented and unfocused as the kinds of work you're railing against. If you can't even discuss the idea in a succinct and compelling way how can you condemn others for not creating it?<p>Fear not though, the problem your discussing is probably the trendiest of all trendy ideas anyone is working on right now. It will be solved, by people who can articulate it in terms users can understand <i>and</i> create it.\n",1193568249
+73412,story,,,10,28,Tichy,"Ask YC: which editor to use for LISP programming?",,"I have used emacs many years ago, but I wonder if that is still the way to go? Are there IDEs that make sense?",1193567982
+73411,comment,73260,73373,0,0,jamiequint,,,"Sure there are always tradeoffs, basically you are trading your time (a limited resource) so necessarily other things will suffer. But where do you draw the line, how do you find the balance?",1193567908
+73410,story,,,1,0,bluishgreen,"Open Culture: Your guide to smart media",http://www.oculture.com/2007/02/science_podcast-2.html,,1193567293
+73409,story,,,1,2,robmnl,"Ask YC: Any one uses SoftLayer?",,"Anyone uses SoftLayer as host?<p>Good, bad?<p>What other recommendations?<p>Is there a search system on news.YC?<p>\nGracias.",1193566029

@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-96241,comment,96206,96206,0,0,mynameishere,,,"Oh, right. The cloud. Whatever.",1199853041
-96240,comment,96008,96008,0,0,mberning,,,"I like the idea of this a lot. Being ORM agnostic is a real win in my book.",1199852091
-96239,comment,96143,96143,0,0,reitzensteinm,,,"Comet is better than polling only if the benefits outweigh the opportunity cost. For almost all situations, the greatest upside is improving user experience.<p>Is Comet the best thing you can do, right now, to improve your user experience? If so, great! But I highly doubt that.",1199851521

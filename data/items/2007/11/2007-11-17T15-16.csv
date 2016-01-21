@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-80944,comment,80942,80942,0,0,pius,,,"Same question goes for reddit.",1195314557
-80943,comment,80719,80907,0,0,plusbryan,,,"and well!",1195313929
-80942,story,,,1,4,pius,"Ask YC: How does one reset or retrieve forgotten passwords here?",,"I've forgotten my password, but it's saved in my browser.  Now that I'm switching browsers, I'd like to retrieve my forgotten password.  Any way to do that??",1195313661
-80941,comment,80915,80915,0,0,HiddenBek,,,"Rails has filters that can run before, after, or around some or all of your controller actions.  This can be done on a per controller basis, or it can be application wide.  In this case you'd probably define a ""load_widgets"" before_filter in your application controller, then set your view to display whichever widgets it had data for.",1195313385
-80940,story,,,5,0,drm237,"30 Resources for Joining a Startup Company",http://www.ajaxninja.com/?p=252,,1195312705
-80939,story,,,1,0,brlewis,"Seth Godin: Openness gaining traction as marketing technique",http://sethgodin.typepad.com/seths_blog/2007/11/conceal-vs-reve.html,,1195312639
-80938,comment,80621,80621,0,0,SamanthaG,,,"I am a lawyer in the UK, English qualified, we're not all bad, honest. 
-",1195312336

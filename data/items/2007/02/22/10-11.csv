@@ -1,0 +1,2 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+479,comment,445,445,0,0,vikram,,,"Paul there seems to be a bug. I've been just entering some stuff in the application and it seems it forgets the answers that I entered for the last few questions. It also seems to be truncating answers. I entered 1 month and it truncated that to 1 mon. Is there a restriction to the length of the entire application? ",1172138781

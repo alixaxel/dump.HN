@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-35918,story,,,3,1,nickb,"Will JavaScript be the next big language?",http://ola-bini.blogspot.com/2007/07/will-javascript-be-next-big-language.html,,1185075997
-35917,story,,,3,0,donna,"Continuing Facebook Applications with Ruby On Rails",http://www.liverail.net/articles/2007/7/16/continuing-facebook-applications-with-ruby-on-rails,,1185074117
-35916,comment,35824,35828,0,0,jamiequint,,,"I was thinking something a little more informal, just a mixer? Maybe we could do this early on though. ",1185073627
-35915,comment,35913,35913,0,0,cperciva,,,"One of your comments was moderated down: <a href=""http://news.ycombinator.com/item?id=35836"" rel=""nofollow"">http://news.ycombinator.com/item?id=35836</a>",1185073210

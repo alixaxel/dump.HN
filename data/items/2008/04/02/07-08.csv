@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+152884,story,,,2,0,michjeanty,"Google's CIO leaves search giant for job at EMI",http://www.news.com/8301-10784_3-9908312-7.html,,1207123173
+152883,comment,152863,152863,0,0,kashif,,,Spam,1207123148
+152882,story,,,2,0,comatose_kid,"Economic report says Bay Area could lose its global competitive edge",http://www.mercurynews.com/breakingnews/ci_8774132,,1207123110
+152881,story,,,10,19,MarkyMark,"Startuprant.com rants on about Scribd.com",http://startuprant.com/2008/04/02/scribd-4m-in-funding-and-not-able-to-reply-support-email/,,1207122998
+152880,comment,152805,152805,0,0,bayareaguy,,,"Mohandas K. Gandhi, Howard Zinn, Noam Chomsky<p>Just to add a little to the ideas vs execution debate: stories of people whose ideas were not recognized in their time (e.g. Hermann Grassmann) generally interest me more, especially when the reasons for their failures provide lessons from which to learn.",1207122904
+152879,comment,152767,152793,0,0,icky,,,"I was tempted to downmod this, just so it would be a lower number and run faster...",1207122819
+152878,comment,152311,152311,0,0,comatose_kid,,,"Here is a pointer to a transcript of this talk:<p><a href=""http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf"" rel=""nofollow"">http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf</a>",1207122743
+152877,comment,152753,152862,0,0,davidw,,,"Price movements aren't that interesting though, IMO.  I might vote for some kind of in-depth analysis type of article, of the kind you might find in The Economist or FT, but this sort of ""look, a round number!"" thing is boring.",1207122687
+152876,story,,,2,0,jasonb05,"Rule the World! or Acknowledging Startup Idealism and the Shift to Pragmatism",http://neverreadpassively.blogspot.com/2008/04/rule-world-or-acknowleding-startup.html,,1207122570
+152875,comment,151637,152329,0,0,icky,,,"That's only available on Super vim Fighter II Turbo Championship Edition.",1207122161
+152874,comment,152836,152864,0,0,johnb,,,"It's because no one uses REST and then choose to go back to spending days making java axis web services and .net clients play well together with ugly hackish custom soap extensions.<p>Or maybe I'm just venting about my shitty week at work :)",1207122064
+152873,story,,,1,0,gongfudoi,"Linux kernel developers have tripled in number",http://www.linuxdevices.com/news/NS6925891609.html,,1207122049
+152872,comment,152836,152836,0,0,sah,,,"The reason that SOAP vs. REST isn't like Emacs vs. vi is that both Emacs and vi are pretty decent.<p>Read the text of a SOAP transaction sometime.  Or, more realistically, just read the first kilobyte or so.  It's ridiculously over-engineered, and should just never be used.  REST is a good example of how much simpler it could be.",1207121924
+152871,comment,152805,152819,0,0,tonystubblebine,,,"For being rich? Or for having being able to think independently and for spending his whole life doing something he loves? Either way, he's got a lot to look up to.",1207121883
+152870,comment,152851,152851,0,0,chrisbroadfoot,,,"Thank god we have OO",1207121597
+152869,comment,152642,152642,0,0,lst,,,"Nobody is perfect. And Microsoft(R)(TM) is <i>not</i> nobody.",1207121545
+152868,comment,152836,152854,0,0,chrisbroadfoot,,,"+1<p>That's not to say that there needs to be a war, there's no reason why both can't be implemented, though REST is definitely (as you assert) suited to HTTP.",1207121427
+152867,comment,152832,152832,0,0,chrisbroadfoot,,,"This is pretty cool, WebKit is really leading the pack, making great advancements, and actually pushing them out to consumers (especially with the latest Safari)",1207120891
+152865,comment,151980,151980,0,0,soyapi,,,"Polishing up my Facebook Cross Number Puzzle app <a href=""http://apps.facebook.com/xnumber_puzzle"" rel=""nofollow"">http://apps.facebook.com/xnumber_puzzle</a> before submitting to FB App Directory",1207120512
+152864,comment,152836,152836,0,0,Tichy,,,"I only ever see articles proclaiming REST is better. Maybe that is because my primary news source is news.yc.",1207120428
+152862,comment,152753,152839,0,0,rms,,,"A lot of people here are interested in general business and the markets.",1207120355
+152860,comment,152792,152792,0,0,chrisbroadfoot,,,"I wonder what they think their target market is... Who do they think would be interested in tech startups and would want to use an aggregator like theirs?",1207119899
+152859,comment,152836,152836,0,0,bosky101,,,"i think u nailed it in the title yourself... 8 )<p><humour><p>there are people who use soap,...and then there's the REST of us :D<p></humour>",1207119836
+152858,story,,,3,1,gscott,"Open Source Databases Widely Used, Seldom Paid For ",http://news.yahoo.com/s/cmp/20080402/tc_cmp/207000893;_ylt=AiHvIGuLJ_7Rc3rJtJKI1MQjtBAF,,1207119827
+152857,story,,,1,0,gscott,"Amazon launches text-message shopping ",http://news.yahoo.com/s/ap/20080402/ap_on_hi_te/amazon_text_message_shopping;_ylt=AkPjkvff6TJcNQ4D.41i.FUjtBAF,,1207119750

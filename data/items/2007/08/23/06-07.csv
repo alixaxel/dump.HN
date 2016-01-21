@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+45513,story,,,1,0,sbraford,"The ""this thread is going nowhere fast"" Slope",http://onwebapps.com/wp-content/uploads/2007/08/nowhere_fast.jpg,,1187852091
+45511,comment,41884,42069,0,0,akkartik,,,"..or you're wrong. Just to cover all the options.<p>We know they assembled their own hardware from day 1. We know they manage their own backend and platform. They have their own version control. They designed their own buildings at various places. They are even planning to spend 2 years building their own HR tool (but you didn't hear it from me).<p>Given that they have to compete in a marketplace, they can't be overly irrational. But you can bet they will try to duplicate something they care about before they consider acquiring a startup. More so than Yahoo or Amazon or even Microsoft.",1187850173
+45510,story,,,6,3,sabhishek,"Online CSS grid generator",http://kematzy.com/blueprint-generator/,,1187849104

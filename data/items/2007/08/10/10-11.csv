@@ -1,0 +1,2 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41213,comment,41133,41133,0,0,phuego,,,"PostgresQL. It scales very well in my opinion, although I have yet to get to Face Book sized numbers :-)<p>I second all the 'has real features and is more reliable' comments that precede this one; I add to those my number one favourite. I can develop on Win32 and deploy on Linux and apply backups, schema changes, what have you from one to the other without any pain at all.\nI started with MySQL but simply could not achieve the above.\nYMMV naturally. ",1186741671

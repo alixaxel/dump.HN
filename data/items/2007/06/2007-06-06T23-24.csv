@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26697,comment,26645,26662,0,0,budu3,,,"Do I detect a hint of sarcasm?",1181174141
-26696,comment,26513,26675,0,0,comatose_kid,,,"I believe that Mark mentioned (during his keynote speech) that over half of their user base is over 25 yrs old now.  <p>Facebook will probably be hot until something an order of magnitude better comes along, and even then many people will not want to switch (inertia).  Add to this the open approach (API + site integration), and it isn't too far a stretch to see them becoming the standard social operating system.<p>",1181173814
-26695,story,,,1,0,bootload,"Slicing and dicing web data with Tabulator",http://dig.csail.mit.edu/breadcrumbs/node/153,,1181173551
-26694,story,,,1,0,bootload,"Reinventing HTML",http://dig.csail.mit.edu/breadcrumbs/node/166,,1181173411
-26693,comment,26513,26580,0,0,comatose_kid,,,"If you look at it just in terms of # of users, of course facebook's offering suffers.  But that isn't a great comparison - it's like comparing the # of viewers for The Office (awesome show btw) to the total viewers of all TV channels in existence.<p>I think the real win is that their api allows your app to take advantage of the connections between facebook's users.",1181173379
-26692,story,,,1,0,lkozma,"First Romanian dotcom-millionaires (ejobs.ro acquired)",http://www.zf.ro/articol_127043/first_romanian_dotcom_millionaires.html,,1181171739

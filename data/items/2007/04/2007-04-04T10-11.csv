@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-8749,comment,8563,8625,0,0,ralph,,,"If you had to reimplement in C then it suggests that whatever non-C language the original was in, e.g. Python, you would have had to re-write it in C.  Otherwise, you would have had the choice to reimplement your Lisp in a more suitable language than C that was acceptable.  Lisp here seems a side issue.",1175682783
-8748,comment,8711,8711,0,0,rms,,,"CRV Quickstart is great if you're a bit further along than the idea stage.<p><a href=""http://www.crv.com/AboutCRV/QuickStart.html"">http://www.crv.com/AboutCRV/QuickStart.html</a>",1175682232
-8747,story,,,1,0,mattculbreth,"Google Desktop for the Mac",http://www.tuaw.com/2007/04/04/google-desktop-for-the-mac/,,1175681896
-8746,comment,8676,8676,0,0,mattculbreth,,,"Yes, I pay for COBRA to continue insurance from my previous employer.  Expensive but it's good insurance.",1175681631

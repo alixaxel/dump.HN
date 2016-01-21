@@ -1,0 +1,24 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94158,story,,,15,1,nickb," Public and private spaces, and why Reddit and YouTube comments are so awful",http://andrewchen.typepad.com/andrew_chens_blog/2007/12/public-and-priv.html,,1199209895
+94157,story,,,10,2,iamelgringo,"The Dumbest Startups of 2007",http://mashable.com/2007/12/23/the-dumbest-startups-of-2007/,,1199209788
+94156,story,,,21,1,jholloway7,"Chatting with Adrian Holovaty",http://www.akitaonrails.com/2008/1/1/chatting-with-adrian-holovaty,,1199209788
+94155,story,,,1,0,iamelgringo,"Startups to watch ",http://money.cnn.com/galleries/2007/biz2/0702/gallery.nextnet.biz2/,,1199209741
+94154,story,,,1,0,izak30,"Ask YC: Money from your users.",,"Ok, so I know that a lot of you are developing free services, but for those of you that aren't.  Let's say that you rent digital tools (we'll call them sprockets) on a per-month basis; different sprockets have different line item costs, and you can buy a machine that has a set number of sprockets  x y and z.<p>This is the pricing structure that I'm planning on (the numbers are pretty arbitrary)<p>Machine 0 - build your own, at line item value.<p>Machine 1 (possibly free-to-very low cost) has \n2 x sprockets\n2 y sprockets and \n4 z sprockets<p>Machine 2 has 2x the number of default sprockets, at 90% of the price of buying them at their line-item value.<p>with maybe 2 more machines, with different % of the line item value (more value if purchasing more sprockets)<p>This is my question: should users be able to add sprockets to the machine, and then be billed accordingly, or should users have to purchase a sprocket to be able to use it. Has anybody done research on what users want from this type of scenario?",1199209678
+94153,comment,93980,94050,0,0,klein_waffle,,,"In any mid-size to large programming company, very very few of its engineers will know anything about web performance. They don't teach it in school and (until now) you couldn't learn this stuff from a book.",1199209566
+94152,comment,93727,93727,0,0,ALee,,,"Reminds me of the adage: Success is when preparation meets opportunity.",1199209529
+94151,comment,93920,93920,0,0,tonit,,,"Frohes neues Jahr! (german)",1199209388
+94150,story,,,1,0,iamelgringo,"The Best Product Design Of 2007",http://www.businessweek.com/magazine/content/07_31/b4044401.htm,,1199209173
+94148,comment,94035,94035,0,0,maurycy,,,"DHH? This guy who restarts his web server 400 times a day?",1199208684
+94147,comment,94138,94138,0,0,kradic,,,"My nomination: Time.com, for making us click on four ""next"" links to see a list of 5 sites.",1199208674
+94146,comment,93654,93654,0,0,asciilifeform,,,"Sturgeon's Law applies to people. This must be accepted and dealt with. Choose between dictatorship (omnipotent, zealous editors) or ease of compartmentalization (a la Usenet.)",1199208548
+94145,story,,,1,0,iamelgringo,"Best of 2007: Trends That Shaped the Web",http://mashable.com/2007/12/16/best-of-2007-trends-that-shaped-the-web/,,1199208113
+94144,story,,,4,1,pg,"Some changes in the formatting of comments",http://ycombinator.com/newsnews.html?2,,1199207990
+94143,comment,93984,94096,0,0,wehriam,,,"Would you hire him?",1199207892
+94142,story,,,1,0,iamelgringo,"11 Top New Web Apps of 2007",http://www.lifehack.org/articles/technology/11-top-new-web-apps-of-2007.html,,1199207723
+94141,story,,,1,0,iamelgringo,"50 Best Websites 2007 - TIME","http://www.time.com/time/specials/2007/article/0,28804,1633488_1633608,00.html",,1199207545
+94140,comment,94137,94137,0,0,edw519,,,"""Being expected to kill yourself if you decide to quit is a pretty good motivating factor to keep going even at the lowest points.""<p>I would think so.",1199207466
+94138,story,,,2,1,iamelgringo,"5 Worst Websites of the year ","http://www.time.com/time/specials/2007/article/0,28804,1638344_1638341,00.html",,1199207404
+94137,story,,,1,1,edw519,"One Secret of Success: If You Quit, You Die",http://www.financialhack.com/2008/01/01/10186_lessons-from-the-marathon-monks-how-to-achieve-the-impossible.html,,1199207381
+94136,comment,93984,94087,0,0,randallsquared,,,"Indeed.  With disk space cheap, there's no reason not to log everything on your personal machine(s).  I have many years of mail and IM logs, not because I intend to use them against anyone, but just because it's so easy to keep them, and I might need to know something in there one day.",1199207378
+94135,story,,,8,0,jkopelman,"Redeye VC: Some thoughts on pricing...",http://redeye.firstround.com/2008/01/some-thoughts-o.html,,1199207301
+94134,story,,,13,1,iamelgringo,"Amazon Raises the Cloud Platform Bar Again With DevPay",http://smoothspan.wordpress.com/2008/01/01/amazon-raises-the-cloud-platform-bar-again-with-devpay/,,1199206913

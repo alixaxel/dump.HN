@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+34734,story,,,7,7,staunch,"New Feature: Ask Marc ""Pmarca"" Andreesen",http://blog.pmarca.com/2007/07/new-blog-featur.html,,1184669599
+34733,comment,34401,34698,0,0,nanijoe,,,"Completely off topic...I wonder why I think of Vitamins every time I see your name :)",1184667914
+34732,comment,34401,34539,0,0,nanijoe,,,"This may be true, but the guy who applies to YC with $25k already in the bank and the experience of having sold a 'startup' after less than 2 weeks of launching, will surely have some kind of advantage over other applicants; No?",1184667694
+34731,story,,,1,0,zx76,"Dumpster Diving",http://www.foundread.com/view/dumpster-diving,,1184667055
+34730,story,,,1,0,zx76,"FlickIM, a better chat for iPhone",http://venturebeat.com/2007/07/16/flickim-a-better-chat-for-iphone/,,1184666999
+34729,story,,,1,0,zx76,"Google Plans Search Service for Mobile Content",http://online.wsj.com/article/SB118461672269867869.html,,1184666977
+34728,comment,34619,34619,0,0,mattculbreth,,,"Yes I would.  Probably any smallish consulting gigs I do will be in Rails now, as will any sort of internal quick admin-type app we do for our startup.  Rails + ActiveScaffold gets you going very quickly for your standard LOB/CRUD app.<p>For my startup we've chosen Pylons and we're happy so far.  It's definitely not as polished as Rails but it gives us a lot more flexibility.  We're using SQLAlchemy as well and there's no better way to talk to a database.\n",1184666502

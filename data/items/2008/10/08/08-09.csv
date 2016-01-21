@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+326430,story,,,5,2,maxklein,"YouTube, now in Super HD",http://mrdoob.com/lab/youtube/superHD/,,1223455994
+326429,comment,326345,326345,0,0,agentbleu,,,"how do companies like django make money?",1223455795
+326428,comment,325914,326084,0,0,maxklein,,,"What did the two cats do when they met? Just look at each other? Or did they miaw at each other?",1223455081
+326427,comment,325554,325672,0,0,Jem,,,"Better late than never?",1223454986
+326426,comment,326213,326213,0,0,ntoshev,,,"I don't think there are enough cases of terrorism to be able to apply data mining to this problem. There just isn't enough statistics and every case is different.",1223454937
+326424,comment,325904,326387,0,0,ntoshev,,,"Google has released Google Forms as part of their Apps For Your Domain offering. It feels very impersonal compared to Wufoo, of course, but let's not underestimate it.",1223454634
+326423,story,,,2,0,nocivus,"Different (interesting) approach for timepicking",http://haineault.com/blog/71/,,1223454598
+326422,story,,,3,0,ash,"Fish observed in the act of splitting into two distinct species",http://ecoworldly.com/2008/10/07/scientists-discover-fish-in-act-of-evolution-in-africas-greatest-lake/,,1223454265
+326421,comment,326372,326372,0,0,alaskamiller,,,"1. i'm confused about the branding\n2. did yahoo register buzz? is this why you're changing the brand?\n3. the color doesn't have enough contrast. i'm squinting on my monitor to read the text.\n4. what's the distinction. your little paragraph is horribly written and didn't explain it.",1223453961
+326419,comment,325548,325621,0,0,pg,,,"It looks as if most of the file descriptors in use at any given time refer to closed tcp connections.  We're still trying to figure out what this means.",1223453848
+326418,story,,,7,2,thenextweb,"Porn Like You Never Seen it Before (SFW)",http://thenextweb.org/2008/10/08/porn-like-you-never-seen-it-before-sfw/,,1223453642
+326417,story,,,2,0,gzammit,"Data leakage can be prevented",http://www.theemailadmin.com/2008/10/data-leakage-can-be-prevented/,,1223452826

@@ -1,0 +1,2 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+15411,comment,15320,15320,0,0,wehriam,,,"I'm interested to see what people say here. <p>I've been using S3 for some time; my primary complaint is the lackluster performance. So my request would be additional caching to accelerate things far away from wherever the S3 data center is.<p>\n",1177139914

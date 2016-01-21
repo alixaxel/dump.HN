@@ -1,0 +1,640 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+6844103,comment,6843051,6843051,2,0,latchkey,,,"Just curious, what is the purpose of the 4 towers around the launchpad?",1386115184
+6844102,comment,6843457,6844090,1,0,MIT_Hacker,,,"Same here. I kept wanting to make it and finally got a flight delayed by a couple of hours so I finally made it :)<p>The goal is generally to cover healthcare tech. Probably a bad title for HN but if you look at the articles on it thus far, it covers a wide spectrum.",1386115173
+6844101,comment,6843756,6844063,10,0,kbenson,,,"I think that oversimplifies the problem.  I think a scope helps keep overeager researchers from doing things that result in legal problems for the company.  For example, are laws that require notification of data breaches and personal identification triggered in certain cases?  This isn&#x27;t an academic setting, these are real businesses.<p>I think the best of both worlds would be very wide scopes with targeted limitations.  Don&#x27;t log into user accounts or company accounts at other services, but here&#x27;s a few sample user accounts that are fair game and if it&#x27;s an external service, here&#x27;s a rep to vet whether credentials you gathered are correct or not.",1386115166
+6844100,comment,6841759,6842952,1,0,dllthomas,,,"Or, y&#x27;know, direct contributions.",1386115166
+6844099,comment,6841557,6843572,2,0,sbov,,,"People who complain about crap code usually aren&#x27;t complaining about this.<p>Obviously no-one can see the future.  The problem isn&#x27;t when code can&#x27;t be easily extended, the problem is when code is easily broken.",1386115166
+6844098,comment,6843676,6843999,2,0,msandford,,,"One definition of money is &quot;the most marketable commodity&quot; and bitcoin does tend to pass that test.  It&#x27;s rapidly becoming a marketable commodity as so many people will accept it for goods or services.<p>My point wasn&#x27;t so much that money has to be a commodity with an underlying value.  It was to point out that the notion that &quot;money is an asset to the holder and a liability to the issuer&quot; might be the author&#x27;s definition of money, but it&#x27;s not THE ONLY RIGHT definition of money.<p>If gold can effectively be money, sans minting into coins that means that the earth is the issuer.  Do we &quot;owe&quot; the earth an ounce of gold by virtue of having mined it?  If so, do we then &quot;owe&quot; the earth a ton of steel for every ton we extract?  And what happens if/when that gold or steel leaves the earth on one of the Voyager probes?<p>I&#x27;m making absurd arguments to point out that the author&#x27;s definition of money is absurd.  I&#x27;m not trying to troll but to illustrate a point.  I think his definition of money works fine when you&#x27;re issuing bills or notes, but it breaks down when people are using commodity money with none of the &quot;debt&quot; part that gets brought to play with notes.<p>When people start issuing paper notes redeemable for bitcoins then I&#x27;ll accept the author&#x27;s definition of money.  But right now people are trading the actual commodity itself so his definition of money falls flat in this circumstance.",1386115164
+6844097,comment,6843457,6843563,1,0,laurenstill,,,"Personally, I think so.  The mhealth/healthIT twitter communities are pretty strong, but spread out over multiple blogs/domains.",1386115158
+6844096,comment,6840437,6843969,1,0,mimog,,,"Having tested <a href=\"http://jd.benow.ca/\" rel=\"nofollow\">http://jd.benow.ca/</a> I must admit it seems to do a near perfect job. Impressive and scary at the same time.",1386115143
+6844095,comment,6843756,6844061,5,0,veszig,,,retroactively.,1386115136
+6844094,comment,6842774,6844001,2,0,Nux,,,"DO lets you run your own kernel nowadays?",1386115129
+6844093,comment,6839702,6843662,2,0,brimtown,,,"I&#x27;ll just say up front that I&#x27;m not going to debate your worldview, but your ideas are fucked and it saddens me that people like you visit this website.",1386115114
+6844092,comment,6841557,6843316,2,0,chipsy,,,"There&#x27;s a pattern to your complaints, which is that they are most impacting to long-term external contribution.<p>That&#x27;s the area where architecture is driven by philosophy. It&#x27;s whether or not you _choose_ to study the problem, search for best practices, and work out contingencies during the design phase, or go forward with a simplistic, unknown solution and study it by driving trucks over it[0]. With most exploratory programming - of which games are a prime example - you want to drive trucks because your design is likely to be reworked many times regardless.<p>As well, independent creation not driven by clients and markets has to be done entirely selfishly. When taking this to heart, one naturally moves towards an exploratory style, because selfish, truck-driving code will satisfy your urges more quickly.<p>[0] <a href=\"http://www.gocomics.com/calvinandhobbes/1986/11/26\" rel=\"nofollow\">http://www.gocomics.com/calvinandhobbes/1986/11/26</a>",1386115108
+6844091,comment,6835094,6843774,1,0,dragonwriter,,,"> Yeah... but is scaling down the &#x27;single big rotor&#x27; mechanisms used by real helicopters that difficult?<p>TL;DR: Yes.<p>TS;WM (Too Short, Want More): The top-and-tail rotor design relies on varying pitch on the individual blades of the top rotor at different points in their rotation (rather than varying speed on separate rotors) for translation, varying pitch (the baseline/average pitch of all blades throughout rotation) of the main rotor for lift, and pitch of the tail rotor for rotation.<p>Quad/octorotor designs get all of that by just vary rotor speed without the additional machinery needed to vary blade pitch, which makes the vastly easier to build at small scale.",1386115107
+6844090,comment,6843457,6843457,4,0,laurenstill,,,"I kept on meaning to do this, but work got in the way.  Mind expanding it out to healthcare tech in general to cover regulatory and IT policy in addition to mobile?  There&#x27;s a lot of potential with a nice link aggregator for the community.<p>I hate having to follow comment threads on 15 different blogs.",1386115076
+6844089,comment,6843756,6844061,4,0,MrZongle2,,,"I don&#x27;t know about that: &quot;from now on&quot; seems to imply that <i>in the future</i> that will be the case.",1386115060
+6844088,comment,6843710,6843710,10,0,TrainedMonkey,,,"Took almost a minute to load. At first I thought HN effect, but then I realized it preloaded a lot more than just the front page.<p>Edit: I played with it for a bit, and wow. This is so cool. All the cool technology they use meshes seamlessly with content. Added this to my special bookmarks folder along with Statistics Done Wrong and Experimental Design (Norvig).",1386115056
+6844087,comment,6843651,6843651,4,0,slg,,,"These type of articles never take into consideration the reason why coaches don&#x27;t go for it as often as a computer might.  The coaches face a reverse moral hazard when taking risks because the negative outcomes are multiplied for them.  Even if the statistics support their decisions, a coach will be fired for taking too many risks and failing.  Is gaining an extra 2% (or whatever) in expected returns worth the risk of losing everything if the low(er) percentage outcome does actually happen?  It is the same idea behind the whole &quot;no one gets fired for buying IBM/Microsoft&quot;.<p>Until you get a coach&#x27;s motivations more in line with the motivations of the team, you won&#x27;t get a coach that is as aggressive as these computer simulations suggest they should be.",1386115009
+6844086,comment,6842774,6843721,5,0,Nux,,,"> no one thinks upgrading from 6.4 to 6.5 is even an option<p>OMG, who tells you this? They should not be allowed anywhere near a computer. Do yourself a favour and stop listening to them. Seriously.<p>Actually one of RHEL&#x27;s strong points is that you can easily do updates between minor versions and it will still work, even after 10 years.<p>Yes, nothing is perfect and every now and then shit happens, but quality wise RHEL (CentOS too!) is still in a class of its own.\nYou have a problem? Search the interwebz, get on the forums, on the mailing lists, you&#x27;re not alone.",1386114997
+6844085,story,,,2,0,matiasb,"Facebook / Internet.org launches \"free Internet service\" in Paraguay",http://www.abc.com.py/tecnologia/facebook-desembarca-en-paraguay-645578.html,,1386114982
+6844083,comment,6841606,6843645,4,0,icebraining,,,"It&#x27;s not the gc that causes this problem. The problem is: you allocated a block of, say, 100KB. Then you needed two 10KB subsets of that block. While you&#x27;re using those, you may stop needing the rest of the block. How do you create those subsets? Do you just point to the original memory? Then you can&#x27;t free() the 80KB you don&#x27;t need anymore. Do you copy those 20KB? Then you&#x27;re potentially using more memory than necessary.<p>The problem holds even if you&#x27;re not using a gc or refcounting at all.",1386114948
+6844082,comment,6838299,6838299,1,0,jakejake,,,"I love this kind of ingenuity to modify things.  I have to admit in my old age I&#x27;m getting a little out of touch and I don&#x27;t relate very well with crafting your bedroom into living quarters.  Though I remember the days of having roommates, no money, and your bedroom is your only personal space.  It&#x27;s cool to take a look at what you have and use it to your advantage.",1386114944
+6844081,comment,6842697,6842742,5,0,darkmighty,,,"I&#x27;ve been thinking about the arbitration problem, what do you think of the following possible implementation of a &quot;3rd party free&quot; arbitration?<p>Alice desires to buy asset of V value from Bob with bitcoins. Alice sets up a k1xV value address and requires Bob to set up a k2xV one, and they give up control on those addresses for at most time T. Also, Alice and Bob set up a conditional transfer of this value V to a charity (or destroy it) if both don&#x27;t agree on retrieving the wallets before time T. That way, if the merchant believes he will be punished (e.g. k2 = 2) he shouldn&#x27;t engage in fraud. Also the merchant should hold the same faith in customers (by setting e.g. k1 = 1 for new customers, k1 = .5 for old ones).<p>Thoughts?<p>Note: As a bonus, the merchant could make his transaction history transparent to try to prove he punishes every fraud, and customers can likewise demonstrate some &quot;proof of transaction&quot; showing either they conducted transactions without issue or punished fraudsters.",1386114934
+6844080,comment,6842186,6842663,3,0,voltagex_,,,"Australia Post is currently doing this with Parcel Lockers, but they&#x27;re degrading the service to a point where it&#x27;s less useful (no courier deliveries, limited international deliveries, no paid option, no API to access pending packages)",1386114925
+6779360,story,,,0,0,,,,,1386114906
+6779277,story,,,0,0,,,,,1386114903
+6778885,story,,,0,0,,,,,1386114894
+6778880,story,,,0,0,,,,,1386114894
+6778866,story,,,0,0,,,,,1386114894
+6778859,story,,,0,0,,,,,1386114893
+6778688,story,,,0,0,,,,,1386114890
+6778670,story,,,0,0,,,,,1386114889
+6778103,story,,,0,0,,,,,1386114876
+6844079,comment,6843651,6844024,1,0,Zimahl,,,"Well, getting a yard in the NFL isn&#x27;t typically a big problem and 3rd and 1 vs 4th and 1 are <i>feasibly</i> no different.  But turning the ball over inside 30 yards is at least 3 points for the other team with only rare exceptions.",1386114870
+6777871,story,,,0,0,,,,,1386114870
+6777758,story,,,0,0,,,,,1386114868
+6844078,comment,6843388,6844066,12,0,dmix,,,"It&#x27;s funny because &quot;degrade gracefully&quot; was the standard for a very long time as javascript blew up in popularity.<p>Now the pioneer of JS apps doesn&#x27;t even bother trying to put <noscript>There is usually a blog post here if you are using javascript</noscript>",1386114864
+6844077,comment,6842913,6842913,4,0,thejteam,,,"Just a suggestion: In the title the phrase &quot;fix elections&quot; can have multiple meanings.  One meaning is to &quot;improve what is broken&quot; about elections.  This is the one you mean.  The other one is to &quot;rig&quot; an election, or to illegally predetermine the result.  This is not what you mean.<p>I would just keep it simple with a) and b) above, c) if you really want it to be a social app.  The hard part will be getting data for the app and convincing people you are not trying to favor one candidate over another.  At least I presume this will be a problem, I am not from Brazil.",1386114854
+6844076,comment,6843388,6843388,5,0,dfox,,,"While there is probably no meaningful use for gets() (which is missing from that list and certainly is not Win32 specific) and maybe sprintf() and even more maybe strcat(), what is exactly so insecure about things like memcpy() or alloca()?",1386114825
+6775923,story,,,0,0,,,,,1386114825
+6844075,comment,6842006,6843173,5,0,maaku,,,"TRL 9 is &quot;we have nothing more to learn about it.&quot;<p>&quot;It&#x27;s in space&quot; would be TRL 6. I think this is the appropriate level at which to be running this kind of kickstarter.",1386114814
+6844074,comment,6841557,6843324,7,0,shurcooL,,,"Very well said.<p>Nothing -> something that works (in any way possible, spaghetti code, written quickly) -> something that works (clean refactored code that can be maintained/improved/changed).<p>You can&#x27;t skip step 2. If you do, you will likely spend more time overall.",1386114798
+6844073,comment,6838299,6841695,1,0,gbog,,,"One door: sure that&#x27;s a difference but not that significant. You can measure it and try in mentally in different positions. You have to think twice before sawing but actually in code you also have steps where thinking twice I&#x27;d required, eg choosing a framework, a data structure.<p>Shape: not sure it can be helpful but you could try to convince yourself that it&#x27;s only in your head. I have seen very fat people doing physical work and enjoying it, maybe needed more frequent pauses, and but quite able to do anything except crawling under the table.",1386114794
+6772948,story,,,0,0,,,,,1386114756
+6844072,comment,6843388,6843388,9,0,eliasmacpherson,,,"I never liked those microsoft functions, and disable all the warnings in each new project. What are you supposed to use instead of memcpy?\nIt&#x27;s a bit of a rant but I find myself in agreement with this:<p><a href=\"http://unspecified.wordpress.com/2009/05/16/microsoft-bans-memcpy/\" rel=\"nofollow\">http://unspecified.wordpress.com/2009/05/16/microsoft-bans-m...</a>",1386114733
+6771874,story,,,0,0,,,,,1386114731
+6844071,comment,6843756,6844029,21,0,kbenson,,,"I think that&#x27;s a bit harsh.  I read the full email exchange he posted at the end of his article[1], and they went to some length to explain their position at the end of that exchange, and while I and many other wish it was different, I find their position <i>understandable</i>.  With any number of past security submissions already deemed inadmissible for a bounty based on being out of bounds, how do they justify doing it in this one case?  I think they were heading this direction anyway, and if anything this just sped up the time frame.<p>1: <a href=\"http://blog.shubh.am/wp-content/uploads/2013/12/LetterLog_Prezi.pdf\" rel=\"nofollow\">http://blog.shubh.am/wp-content/uploads/2013/12/LetterLog_Pr...</a>",1386114699
+6770553,story,,,0,0,,,,,1386114699
+6844070,comment,6841974,6843404,1,0,Pitarou,,,"Yup. That&#x27;s why my desk fan has 11 blades, and my car has 16 wheels and a 1024 valve engine.",1386114682
+6844069,comment,6843676,6843676,3,0,Lazare,,,"...does &quot;new economic perspectives&quot; mean wrong ones?  This article is lunacy.  I started to skim it, but after the fifth or sixth ridiculously wrong assertion in as many sentences, I stopped.  This article is so, so wrong.<p>It&#x27;s littered with idiosyncratic phrases and simply incorrect definitions.  For example:<p>> Second, all financial instruments have a fair value that is defined as the discount value of future streams of monetary payments.<p>There&#x27;s a grain of truth in there.  Let&#x27;s give the correct definition from Wikipedia:<p>> In finance, discounted cash flow (DCF) analysis is a method of valuing a project, company, or asset using the concepts of the time value of money. All future cash flows are estimated and discounted to give their present values (PVs)—the sum of all future cash flows, both incoming and outgoing, is the net present value (NPV), which is taken as the value or price of the cash flows in question.<p>In other words, it&#x27;s nothing to do with &quot;financial instruments&quot;; it&#x27;s how you value any asset.  And it&#x27;s not the &quot;fair value&quot; it&#x27;s just one of many ways of valuing things.  And it&#x27;s not &quot;the discount value&quot; (as if there were only one), nor is it just &quot;monetary payments&quot;; rather it&#x27;s all cash flows, in every direction, each one discounted appropriately.<p>And so on, and so forth.  The author makes a big point of arguing that they aren&#x27;t financial instruments so much as they are real assets.  There&#x27;s some truth to this; if I own a bitcoin nobody is obligated to give me anything in exchange; it doesn&#x27;t exist as a liability on anyone&#x27;s balance sheet.  And?  The same is true of a gold ingot.  Or, largely, or a share of Apple stock; nobody is obligated to give you anything for that share.  By the same logic, the &quot;fair&quot; value of gold (or Apple stock) is zero.  Hell, the same logic would indicate the fair value of a Euro is zero.  After all, nobody is actually obligated to give me anything for a Euro.  I don&#x27;t live in the EU, I have no EU debts, and no stores around here accept Euros.  It&#x27;s worthless!  Except, you know, for the part where there&#x27;s a large, liquid market where I can trade Euros for my local currency.<p>> Now what is the fair value of a bitcoin? It does not provide any income (Y = 0), it has no maturity given that it is not a financial instrument. For the sake of argument, we might assume that their maturity is infinite because we are stuck with them forever once they are created.<p>Taken literally, this means that you cannot sell a bitcoin.  I would suggest that this is not true.  You can actually sell bitcoins.  People do this every day!  In which case we plug in the expected value of the future sale in his fancy equation, discount it appropriately to account for the time value of money and the uncertainty of how much I&#x27;ll get when I sell it, and find that...<p>...bitcoins aren&#x27;t worthless.  Huh, who knew?",1386114669
+6844068,comment,6842186,6843827,2,0,fomojola,,,"Not yet available for iOS Safari, oddly enough. I would think it would be easier to do there, and the ability to add push to a Safari website saved to the iOS screen as a shortcut would be pretty excellent.",1386114664
+6844067,comment,6836994,6837979,1,0,gridspy,,,"The problem is often one of having to lead the customer through a sales process. For eg<p>1) I want a reliable product... like BRCK .. okay.<p>2) This product really meets that criteria. Prove it.<p>3) So, is it useful?<p>4) Fine. Because of 1..3 I want more detail and to buy one.<p>For instance with <a href=\"http://gridspy.com\" rel=\"nofollow\">http://gridspy.com</a> (my site)<p>1) So, why should I monitor (energy usage) at all?<p>2) Okay, so why GridSpy (not a competitor)...<p>3) Fine, tell me more about what you do...<p>4) Lets get started. Give me a quote on some hardware.<p>It&#x27;s a process. You can&#x27;t just lead with (4) because the customer hasn&#x27;t yet decided that they want your class of product at all.",1386114637
+6767153,story,,,0,0,,,,,1386114619
+6766587,story,,,0,0,,,,,1386114606
+6844066,comment,6843388,6843825,28,0,ANTSANTS,,,"Seriously, try loading the page with NoScript, and you get nothing. Apparently, it needed nearly a megabyte of JavaScript (somehow managing to make Firefox unresponsive for a several seconds <i>on every page load</i>) to asynchronously load a 600 word plain text article.<p>Not the author&#x27;s fault (apart from choosing to use Blogger), but wow, how do you fuck web design up that badly? It&#x27;s just a blog, a few paragraphs and links to more articles, it doesn&#x27;t need to be an entire fucking web app complete with 5 other useless ways to view a list of summaries (Pinterest is big right now, people love grids, right? Here, let me smack you in the face with this stupid zooming JQuery effect).",1386114595
+6844065,comment,6843651,6843651,5,0,kosei,,,"Tough to take everything into account, but I find it troubling that all non-success/failure outcomes are not part of the calculation (ex: 8-yard gain on a 4th and 10; a fumble on a 4th and 2 run, etc). It simplifies the formula to the layman, but I have to imagine that it adds enough additional variance to matter, especailly considering we&#x27;re talking in variances of less than half a point in their stated example.<p>Also (and to their point), there is a ton of variation between offenses, defenses, punters, running backs, etc. Using this as a rubric is a nice idea for a rule of thumb for an armchair quarterback, but I&#x27;d strongly disagree with using it to accurately criticize any decision within a couple points of expected value.",1386114589
+6765878,story,,,0,0,,,,,1386114589
+6844064,comment,6843756,6844029,5,0,dnautics,,,"<i>Whilst waiting for their response, I realised that I would rather not accept their “swag”, and decided to instead, send off an email indicating why I wished to walk away with nothing....<p>Anyways, they did try and get it right, by emailing me an apology as well as responding to my constructive criticism.</i><p>Before shubham posted anything.",1386114587
+6764981,story,,,0,0,,,,,1386114568
+6764963,story,,,0,0,,,,,1386114568
+6844063,comment,6843756,6843756,12,0,GauntletWizard,,,"This is a trite response to an actual concern: Placing scope limits on bug bounties is meaningless and dangerous. Hackers will not respect your scope. The scope of a bug bounty program should always be &quot;Anything that affects our, or our users, data or security&quot;.<p>There&#x27;s plenty of non-entities that get reported: Failures of XSS protections on data that is actually public, vulnerabilities on vendors sites that don&#x27;t impact your data, etc. Those should be dealt with with a polite thank you. Everything else should be valid, and everything else should be paid. Possibly not high-tier paid. Have your security team (You don&#x27;t have a security team? Make one, even if it&#x27;s just the coder from your team who has the most experience) triage and report. Fix things, or don&#x27;t, but don&#x27;t be an asshole and try to downplay real issues.",1386114557
+6844062,story,,,1,0,mrb,"China detains Bitcoin fraud suspects",http://www.nzweek.com/world/china/china-exclusive-china-detains-bitcoin-fraud-suspects-102598/,,1386114542
+6763392,story,,,0,0,,,,,1386114530
+6844061,comment,6843756,6844029,11,0,veszig,,,"&quot;To improve the program from now on we will reward bug hunters who find bugs outside of the scope provided that they do not violate our users’ information and that their report triggers us to improve our code base. We will also retroactively check to see if other reports found issues that fall into this category.&quot;<p>This means Shubham will get the bounty.",1386114517
+6844060,comment,6843710,6843710,6,0,solarmist,,,"Wow, this site is slow.  I thought it was broken in my browser because there was no content for about 20 seconds.",1386114494
+6761736,story,,,0,0,,,,,1386114492
+6844059,comment,6843388,6843800,6,0,jheriko,,,"one of my favourite old school tricks for achieving such breakery is:<p>#define const_cast CONST_CAST_IS_FORBIDDEN\n#define dynamic_cast DYNAMIC_CAST_IS_NEVER_NECESSARY<p>etc...<p>its dirty, but it gets the job done",1386114489
+6844058,comment,6843756,6843756,13,0,fourstar,,,"Never even heard of Prezi before this. If anything, they should be thanking this guy for all the free publicity.",1386114485
+6844057,comment,6843756,6844029,3,0,Voltbishop,,,"@MrZongle2 I agree.",1386114478
+6844056,comment,6843676,6843982,1,0,schmichael,,,"You&#x27;re correct which is why he compares bitcoins to commodities instead of currency and declares it a &quot;purely speculative asset.&quot;<p>Note that saying it has no fair price as a currency by no means implies it&#x27;s worthless. It&#x27;s just that its worth is purely speculative like any intangible asset like art, intellectual property (e.g.: patents), wine (or at least &quot;valuable&quot; wine whose cost bears no resemblance to how much it cost to produce).<p>Think of it this way: bitcoin isn&#x27;t a currency you buy goods with; bitcoin is a commodity you barter with. It&#x27;s just a far more convenient commodity than chunks of gold or pieces of art.",1386114477
+6844055,story,,,15,0,darkbot,"Flying hacker contraption hunts other drones, turns them into zombies",http://arstechnica.com/security/2013/12/flying-hacker-contraption-hunts-other-drones-turns-them-into-zombies/,,1386114458
+6844054,comment,6842338,6843121,1,0,rayiner,,,"> Even with very pessimistic alignment, HSW should get well more than one instruction per clock from that loop.<p>Why? In Haswell, a store needs an AGU (ports 2, 3, or 7) and the store data unit (port 4). Even with perfect store-load forwarding, you can only write one value per cycle into the store buffer.",1386114438
+6759337,story,,,0,0,,,,,1386114436
+6844053,comment,6843676,6843676,1,0,altoz,,,"> They should be easy to create (bitcoins are) BUT ALSO easy to destroy if demand declines;<p>You can provably destroy bitcoins by sending them to an address with no private key (this is provable). Believe it or not, this is actually useful for stuff like <a href=\"http://www.proofofexistence.com/\" rel=\"nofollow\">http://www.proofofexistence.com/</a><p>Hence the premise of this article, even if you take the underlying economic theory at face-value, is flawed.",1386114428
+6844052,comment,6841974,6843280,2,0,tynan,,,"I went to Steve and Erin&#x27;s house and talked with them for a few hours once. Erin is absolutely in category A.",1386114424
+6758623,story,,,0,0,,,,,1386114419
+6844051,comment,6843388,6843825,6,0,resu_nimda,,,"Did you seriously load 22kb of Google Analytics because you weren&#x27;t strong enough to truly uphold your ideals? You piece of shit.<p>(to prevent confusion: this is a parody of the site MBlume linked)",1386114418
+6844049,comment,6841759,6843664,1,0,Already__Taken,,,"in 5 years of such use by said tweens how many more users might be brought into the system. How many tweens parents a there accounts made for.<p>Things are not so simple.",1386114397
+6844048,comment,6843801,6843801,1,0,agrias,,,"I&#x27;m glad they decided to reward Shubman Shah and I hope for the future this will help set a precedence on better communication and what deserves compensation.",1386114388
+6757263,story,,,0,0,,,,,1386114387
+6755608,story,,,0,0,,,,,1386114348
+6844044,comment,6841606,6842896,1,0,Someone,,,"<i>&quot;new string&quot; is rather misleading here.</i><p>But the string _is_ new; there was no object that was Object.Equals to it before the call. That new string just never forgets where it came from.<p><i>e.g. make people write .substring(n).view() or .substring(n).copy() or similar.</i><p>That&#x27;s what people have been doing for years: <i>.substring(n)</i> versus <i>new String(substring(n))</i> (and, as a third option: <i>.substring(n).intern()</i>)<p>I find it weird that this change is made because, as a side-effect, they almost have to start optimizing <i>&quot;new String(s)&quot;</i> calls. With this change, the only thing that can be useful for is for creating a String that is the same as another String, but not equal to it. I think that aspect of that call is rarely, if ever, used. If one can proof that it is never used, the next step on this path would be to make that call into a no-op. If one cannot proof it, it still would likely be a good speed up, but it also would be extremely risky.",1386114319
+6844043,comment,6841831,6841831,3,0,szimek,,,"Brush, fur and neighbor points look really cool.<p>Using Bézier curves, but with variable width, can give nice &quot;handwritten&quot; feel to it - <a href=\"http://szimek.github.io/signature_pad\" rel=\"nofollow\">http://szimek.github.io/signature_pad</a> (works best on touch devices).",1386114309
+6844042,comment,6842196,6842196,1,0,benatkin,,,"I agree. I was thinking a low-end but top-brand laptop computer (Apple, Dell XPS, Chromebook Pixel, etc). Pretty much the same cost.",1386114302
+6844041,comment,6840437,6841490,2,0,csallen,,,"Define &quot;take&quot; source code. Do you mean &quot;read&quot; or &quot;access&quot; source code? I know this is an aside, but I think we as a community need to be more judicious in our use of criminally-accusatory words, especially when it comes to taking/stealing/theft vs copying vs distributing/selling vs reading/watching/accessing. They&#x27;re all very, very different things.",1386114295
+6751535,story,,,0,0,,,,,1386114251
+6844039,comment,6841974,6842822,1,0,Pitarou,,,"Shame on you.",1386114242
+6844038,comment,6843651,6843985,2,0,001sky,,,"<i>is more likely than not primarily</i><p>This seems pretty loose. I&#x27;m not trying to be pedantic, but the theoretic flaws in the data are such that you would want a pretty tight logic in your model to have any level of comfort with it. The proportion of the state-space that is unobserved seems ~large and critically relevant.",1386114223
+6844037,comment,6843676,6843676,1,0,schmichael,,,"Excellent post, although as usual the title could be a be less sensational and more precise.<p>&quot;Bitcoins are Purely Speculative Assets&quot; would be an excellent line from the article to use as a title. Or perhaps as a comment put it: &quot;Bitcoins are an Intangible Commodity Asset&quot;",1386114208
+6844036,comment,6842774,6843884,8,0,kbenson,,,"It&#x27;s people speaking about things they know little to nothing about.  For example referring to apt as superior to yum because major release version upgrades using yum is not recommended.  This ignores that:<p>- It&#x27;s not talking about what they think it&#x27;s talking about.  6.4 to 6.5 is a minor, or <i>point</i> release, and is fully expected to be updated using yum.<p>- Even if it was a problem, that would be a problem mostly of the package format (rpm vs deb) and what it supports or how they were created by the maintainers, not the tools that take the packages and use them to determine dependencies and apply the updates.<p>- The package formats are similar enough in capabilities that the package managers can actually handle repos of the other packages.  You can get apt  on CentOS, and yum on debian based systems, and use them on the native packages with a little work.<p>RHEL really is a best of class distro, and just because they&#x27;ve focused less on swizzy-look-cool features doesn&#x27;t mean they&#x27;ve been resting on their laurels.  They&#x27;ve invested a <i>lot</i> in making sure the distro works well in their entire ecosystem of products, and just plain works without too many problems.  In a way, they are the Microsoft of lniux distributions, in that they have a solution for just about everything, and <i>it just works</i> most the time.  In a way, it&#x27;s the best of both worlds.",1386114202
+6844034,comment,6843676,6843676,1,0,BetterLateThan,,,"Doesn&#x27;t measuring BitCoin in dollars kinda beat the purpose of BitCoin?",1386114193
+6844033,comment,6843562,6843562,1,0,computerslol,,,"They need at least one killer &quot;Modern&quot; (windows 8 only) application.<p>I can&#x27;t see anything modern apps can do that normal desktop apps can&#x27;t. The interface is dramatically different, and that can be a plus if the right app came along that you WANTED to use your fingers to control over a keyboard and mouse.<p>Off the top of my head, I could imagine a hardware/software combination that automates your house. A wifi connected controller box would use the power lines in your house to transmit information (like x10 does) to cheap replacement switches and outlets; letting you control what does and doesn&#x27;t get power. Maybe the outlets track how much electricity your household devices are using and you can get a pretty graph. Maybe they use a threshold to determine when a device is in standby mode and give you the option to automatically cut it&#x27;s trickle power. Maybe an IR breakout box lets you control your entertainment center. Some sort of wifi streaming box lets you stream audio from one room to another. Maybe a few wifi enabled cheap cameras you can mount around let you monitor your rooms. All of these features would be controlled centrally through a windows 8 modern device. I could see something like this being a good use of the simple design of metro applications. Wasn&#x27;t there a Microsoft home concept a long time ago? What happened to that?<p>I hope Redmond devotes more energy to developing killer apps in the near future. I think they could turn this around if they get normal consumers inspired.",1386114161
+6747157,story,,,0,0,,,,,1386114147
+6844032,comment,6843070,6843930,1,0,Crito,,,"The use of the word <i>&quot;math&quot;</i> (and <i>&quot;science&quot;</i>) seems to be changing as well, I think this usage is an example of an unconventional use of the word <i>&quot;math&quot;( rather than an example of the new use of </i>&quot;because&quot;*.",1386114144
+6844031,comment,6843070,6843990,15,0,sillysaurus2,,,"<i>You of course don&#x27;t know this, because you haven&#x27;t read through the page and figured out what the code does.</i><p>Let&#x27;s not get personal.  I only mentioned your name because it was in the headline, not to bully anyone.<p>I know this is a framework.  But the problem with stego is that as soon as you release your code, you make it almost trivial for law enforcement to detect that you&#x27;re using stego.  It&#x27;s a catch-22: you want people using the code, but you don&#x27;t want law enforcement knowing what code you&#x27;re using, because then they can just use the same code to detect that you&#x27;re using stego, which defeats the purpose of stego.<p>This isn&#x27;t theoretical.  Each time someone releases a new stego tool out into the wild, forensics companies add it to their own frameworks for detecting stego.<p>Let me be clear: I <i>want</i> you to succeed, and I think it&#x27;s a great thing that so much effort is being put into developing these sorts of tools.  But you have to say something like &quot;Don&#x27;t use this tool yet!  It&#x27;s not ready for production!&quot; ... The way it was presented here made it sound as if it&#x27;s ready to be used, but anyone who uses it in its current state will be swiftly detected by law enforcement.<p>Let&#x27;s put it another way.  Do you think the 120 people who upvoted this did so because they understood this is &quot;just a framework / reference,&quot; or because they were hopeful this actually works?  It&#x27;s not fair to them not to include a disclaimer saying this shouldn&#x27;t be used. The way the README is written makes it sound like you&#x27;re encouraging people to use it, even though it&#x27;s not intended to be used.",1386114143
+6844030,comment,6840437,6843268,2,0,csallen,,,"You should read the rest of that post instead of stopping at the point you quoted. I think he makes a good point: There are real costs associated with expanding security, and there are points at which those costs <i>can</i> become unreasonably high.<p>I think your point is too extreme. Locking your front door is most definitely NOT a waste of time, because with that move alone, you&#x27;ve automatically protected yourself against the subset of attackers who don&#x27;t think to try the back door. Are you still vulnerable? Yes, of course. But decidedly less so. As the OP said, 50% is better than 0%.<p>The real conversation that should be taking place is not whether or not a limited scope should exist (it should), but how far that scope should extend given the costs of extending it.",1386114112
+6844029,comment,6843756,6843756,29,0,MrZongle2,,,"Prezi&#x27;s apparently trying to cover their posteriors in the wake of Shubham&#x27;s disclosure and subsequent snub ( <a href=\"http://blog.shubh.am/prezi-bug-bounty/\" rel=\"nofollow\">http://blog.shubh.am/prezi-bug-bounty/</a> ).<p><i>&quot;We greatly value this feedback.&quot;</i><p>Weak sauce.  Shubham&#x27;s disclosure saved Prezi from a future nightmare.  If they&#x27;re not going to pay him from the bug bounty coffers, they should at least try and sound more like grateful humans rather than a pissy HR department trying to do damage control.",1386114085
+6844028,comment,6826429,6827000,1,0,hhorsley,,,"Why do you think games are unable to stay interesting even though Chess has never had to change and the movie industry finds a way to be interesting every year?",1386114084
+6844027,comment,6843330,6843330,1,0,jheriko,,,"&quot;When trying to be informed of changes on a class that you don’t own, such as one of Apple’s classes. A classic case of this is observing the contentSize of a table view. This information can’t be gotten in any other way.&quot;<p>I never like this - platform holders ramming their crap down your throat basically...<p>A broader version of this applies to Objective-C as a whole for me... I have to use it to interact with iOS or OS X in the intended way. There is no other reason for me to want to use it - the language features are not helpful for me, the ref counting is dangerous and the performance is horrendous (that last one is a design tradeoff to be fair - but I don&#x27;t want to pay for what I don&#x27;t use).",1386114070
+6743628,story,,,0,0,,,,,1386114063
+6844025,comment,6826429,6826440,1,0,hhorsley,,,"Where did that stigma come from?",1386114046
+6844024,comment,6843651,6844011,1,0,thejteam,,,"In place of 4th and 1 data AdvancedNFlStats would substitute 3rd and 1 stats.  And I would agree that this substitution is suspect.  Just a bit shy of bogus in fact.",1386114040
+6742655,story,,,0,0,,,,,1386114040
+6741558,story,,,0,0,,,,,1386114014
+6844023,comment,6826429,6827671,1,0,hhorsley,,,"Good point",1386113993
+6844022,comment,6842956,6843771,1,0,eliot_sykes,,,"In the UK, you can work as a contractor on a software project for BigCo. If you go as a permanent employee as part of a consultancy company (eg Thoughtworks, IBM) they will take the lion&#x27;s share of your day rate. As a contractor that changes to your benefit.",1386113980
+6740106,story,,,0,0,,,,,1386113979
+6844021,story,,,3,0,lightblade,"Sensible Turbolinks with baconjs",http://blog.flowdock.com/2013/10/28/sensible-turbolinks-with-bacon-js/,,1386113977
+6844020,comment,6841557,6843906,1,0,BlackDeath3,,,"So the simplest program using the simplest shader would use a pass-through shader that doesn&#x27;t modify the inputs?",1386113975
+6844019,comment,6826429,6826483,1,0,hhorsley,,,"I think these are interesting points.<p>Two clips you might find interesting:\n- Brian Wong of Kiip talking about how Counter Strike made him good at photoshop (I don&#x27;t think this is a serious counter arguement to your point): <a href=\"http://youtu.be/BAx7Npsrin4?t=4m40s\" rel=\"nofollow\">http://youtu.be/BAx7Npsrin4?t=4m40s</a><p>- Gabe Newell (Valve) and JJ Abrams (Lost, Alias, Star Trek) talking about similarities/differences between narrative in video games and movies, and at the end announcing that they&#x27;re working together on one: <a href=\"http://www.youtube.com/watch?v=a7mihllgiro\" rel=\"nofollow\">http://www.youtube.com/watch?v=a7mihllgiro</a>",1386113975
+6844018,comment,6842139,6842644,4,0,SiVal,,,"&quot;...meaning the [normally liberal LA Times] doesn&#x27;t stand behind any of the facts claimed.&quot;<p>&quot;right-wing Koch brothers organization&quot;<p>&quot;from someone who hates broad-based education&quot;<p>It doesn&#x27;t seem to matter that these right-wing haters are praising an Obama program. It doesn&#x27;t matter that these haters of broad-based education approve broadening education from the current one-size-fits-all college degree that leaves so many dropouts with a few semesters of useless film studies courses, no degree, no job skills, and enormous debt, to one that offers a much wider array of options for ending up with more value at less cost.<p>There are many skilled trades that offer much better career options than are available to most film studies dropouts, but there aren&#x27;t many people getting the training needed to work in those trades, because they are all told that there is only one acceptable career preparation: a 4-year college degree in whatever studies.<p>Obama thinks this is a problem. The Manhattan Institute agrees and considers his program a step in the right direction.<p>Yet your main point seems to be a warning to us that, despite the usual reliability of the mainstream media, the source of <i>this</i> editorial is unexpectedly not one of the approved speakers of orthodox political doctrine, but is in fact a heretic, and we would be wise to cover our ears so as not to be deceived, and rely instead on your &quot;nutshell&quot; opinion.",1386113975
+6844017,comment,6843070,6843478,5,0,bramcohen,,,"There was a CIA contractor who outright defrauded them claiming that he had tools which were detecting steganographic messages used by terrorists on the internet. He didn&#x27;t get prosecuted because they were too embarrassed to admit that they&#x27;d been completely bamboozled.",1386113937
+6738146,story,,,0,0,,,,,1386113932
+6844016,comment,6835392,6842535,1,0,darkmighty,,,"I can say the savings would probably be greater than the 50 bytes he saved on the domain name. Compressing is not magical, if you compress class names you&#x27;re still storing at least one instance of each name plus overhead.",1386113928
+6844015,comment,6843651,6843651,4,0,thejteam,,,"This was discussed some in <a href=\"https://news.ycombinator.com/item?id=6728821\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6728821</a><p>I&#x27;ve thought about it some since then and I&#x27;m also not convinced that expected points is a good metric.  That will maximize the expected point differential per season but I am not convinced (although I could be wrong... I haven&#x27;t put pencil to paper to make my thoughts rigorous) that there are enough possessions in the game on average to make this metric useful even in the first half.",1386113925
+6737191,story,,,0,0,,,,,1386113910
+6844014,comment,6843676,6843935,16,0,voyou,,,"&quot;These posts are entirely the result of authors who didn&#x27;t buy bitcoins when they were cheap.&quot;<p>That&#x27;s nonsense. The post is a result of applying a particular economic theory of how money works to something that is apparently trying to be a form of money. This theory of money might be wrong in general, or it might for some reason not apply to bitcoin specifically. But to dismiss it simply as &quot;bias&quot; is willed stupidity - it is a way of avoiding addressing the actual arguments put forward in the post.<p>(The specific theory being drawn on in that post is called Modern Monetary Theory; it isn&#x27;t generally accepted by mainstream economists: <a href=\"https://en.wikipedia.org/wiki/Modern_Monetary_Theory\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Modern_Monetary_Theory</a> )",1386113907
+6844013,comment,6843562,6843562,1,0,mullingitover,,,"I have to wonder if the plan with Win8 all along was to give the OEMs a savage beating before MS steps into the market to compete with them directly.",1386113901
+6844012,story,,,1,0,aalbertson,"Atlassian.net experiencing issues",,"It appears that atlassian.net is experiencing some sort of outage, we cant hit our subdomain, or the primary domain. Also, isitdownrightnow.com shows it down.",1386113899
+6844011,comment,6843651,6843651,4,0,Zimahl,,,"Why would you ever go for it on 4th and 1 inside your own 10 yard line?  You would put yourself at a severe disadvantage if you failed.<p>Since the data from this is from previous plays in the last 10 or so seasons it is flawed.  There probably isn&#x27;t very little data of a team going for 4th and 1 and that deep in their own territory.  The only time this has probably happened is in extraordinary circumstances - specifically in a game-winning drive scenario with time expiring, where the defense is in &#x27;prevent&#x27;.  In these cases it is highly successful in that situation but you don&#x27;t have the time to get the score.",1386113894
+6735339,story,,,0,0,,,,,1386113868
+6844010,comment,6840437,6843908,1,0,agrias,,,"This should be up-voted some more so people can see the resolution. I&#x27;m glad you guys decided to reward the bug hunter for his time as well as provide a response.",1386113856
+6844009,comment,6841557,6843093,2,0,skizm,,,"Ideally both, but if I had to sacrifice code quality for a successful product I would sort in exponential time if it meant getting a working product out the door faster. It doesn&#x27;t need to be good, just good enough. (IMO obviously)",1386113818
+6844008,comment,6843562,6843562,1,0,jheriko,,,"what about windows 8.1? what about windows vista as a point of comparison? what about how its nearly just windows 7 with extra stuff?<p>new machines are being churned out with windows 8 preloaded. it seems like its just a matter of time before it, or its progeny become accepted as &#x27;the standard&#x27;... until mac or *nix seriously up their game (still we are saying this?) i don&#x27;t see any alternatives - unless MS ship Windows 9 that does for 8 what 7 did for Vista.",1386113817
+6733163,story,,,0,0,,,,,1386113817
+6844007,comment,6842697,6842742,1,0,nadaviv,,,"Oops - that testnet link shouldn&#x27;t be using SSL. Instead of serving he testnet version, it goes to the default ssl server which is the regular version...<p>I can&#x27;t edit the comment now, but here&#x27;s the fixed link: <a href=\"http://testnet.bitrated.com/\" rel=\"nofollow\">http://testnet.bitrated.com/</a>",1386113806
+6844006,comment,6841974,6843003,1,0,tynan,,,"I did this a long time ago, so I don&#x27;t remember exactly. Typically I would get my nap in on time, but sometimes wouldn&#x27;t be able to fall asleep for some reason or another.<p>I think going to sleep 20 minutes late wouldn&#x27;t be that big of a deal... 1 hour late would probably mess things up considerably.",1386113790
+6844005,comment,6841759,6843181,2,0,newsum,,,"Yes, because buying merch and donations are one-time deals. No one is buying the same shirt from their favorite band every month but they are sure listening to their music every month. And if the the lionshare of my own subscription is going to Lady Gaga just because she released a new album...well that makes no sense in any business.",1386113775
+6844004,comment,6842139,6842972,1,0,digitalzombie,,,"Passion is abstract and it&#x27;s harder to show.<p>The degree is the best effort so far in our society that shows that someone is competance in their field.",1386113775
+6731113,story,,,0,0,,,,,1386113768
+6844003,comment,6841669,6841937,1,0,oofabz,,,"They should try using live mice with little acetaminophen candy necklaces.",1386113767
+6729880,story,,,0,0,,,,,1386113738
+6729668,story,,,0,0,,,,,1386113733
+6844002,comment,6840437,6842824,1,0,SideburnsOfDoom,,,"The picture says &quot;intra.prezzi.com is out of scope&quot;. Because yeah, real attackers would <i>definitely</i> not go looking for a back door instead.",1386113727
+6728624,story,,,0,0,,,,,1386113709
+6727980,story,,,0,0,,,,,1386113693
+6844001,comment,6842774,6843484,4,0,csmuk,,,"6.4->6.5 is a minor update. yum update, reboot that is all. Just works. Done it, thanks to ansible, to 24 machines today in about 30 minutes after I QA&#x27;ed the packages on my staging machine, DO droplet and laptop.<p>Between 6.x and 7.0 is another story and I wouldn&#x27;t do this with any distro. Risk is too high. Just build new kit, test it then migrate services and data over piecemeal.<p>Debian screwing up dovecot configuration terribly between 6 and 7 is a fine example of why you shouldn&#x27;t do this.<p>I&#x27;ve managed about 60 CentOS/RHEL machines, 30+ Debian machines, 20 FreeBSD machines and 200 Solaris machines and I&#x27;ve <i>never</i> done a major release in place upgrade.",1386113673
+6844000,comment,6843676,6843676,1,0,jacob019,,,"Seems all currency is a ponzi scheme.  Even gold is valuable only due to scarcity and peoples desire to have it.  It&#x27;s been currency for thousands of years and only recently has it been used in industry.  That said, I keep expecting this bitcoin bubble to burst and it keeps going up.  Could it stabilize as a true global currency, I doubt it, but maybe.",1386113673
+6843999,comment,6843676,6843909,4,0,voyou,,,"So what can you make out of your bitcoins when you melt them down? The argument of the post is that gold-as-money is worth more than gold-as-commodity, and, if gold doesn&#x27;t have an issuer, its value falls to that of the physical commodity. Because bitcoin, unlike gold, has no use <i>except</i> as a medium of exchange, if a bitcoin&#x27;s value fell in the same way in the absence of an issuer, unlike gold, bitcoin&#x27;s value would fall to zero.",1386113670
+6843998,comment,6843066,6843066,5,0,duaneb,,,"I wouldn&#x27;t ever use this without an enterprise (self hosted) option, it involves giving a third party my security credentials.",1386113662
+6843997,comment,6842915,6843463,1,0,rprospero,,,"> That&#x27;s a market signal that this $40,000-per-year process that the US calls &quot;education&quot; has lost meaning and value.<p>It&#x27;s not that it&#x27;s lost meaning, the meaning has just changed drastically.  Imagine that you&#x27;re deciding between two candidates for a job opening.  As you&#x27;re preparing for the interview, the reception mentions that the first candidate isn&#x27;t moving and doesn&#x27;t seem to have a pulse.  Are you going to interview both candidates or are you just going to hire the guy who can fog a mirror?<p>That&#x27;s what the modern college degree represents.  It&#x27;s no longer a guarantee of lifetime employment.  Instead, it&#x27;s now the bare minimum qualifier for even being considered for employment.  A degree tells future employers that you won&#x27;t soil yourself at work more than once a month.  It&#x27;s not a glowing recommendation, but it&#x27;s better than the guy with the high school diploma who will soil himself weekly.<p>Of course, you can point to great counter example from the titans of industry who don&#x27;t have college degrees.  On the other hand, we&#x27;ve had a vice president who didn&#x27;t have a pulse.  However, they&#x27;re both statistical anomalies and you&#x27;re far better off hiring someone with a pulse.<p>For the record, I&#x27;m not saying that this is a good system.  Rather, that&#x27;s just the way I&#x27;ve observed it from watching my wife.  She&#x27;s been searching for work for two years.  She&#x27;s had fast food restaurants request her college transcript as part of the hiring process.  Even below minimum wage baby-sitting gigs have fallen through because she doesn&#x27;t have a bachelor&#x27;s degree.  The simple fact is that there&#x27;s enough desperate people with degrees that there&#x27;s not to require one.",1386113645
+6725872,story,,,0,0,,,,,1386113643
+6843995,comment,6843051,6843898,0,0,TrainedMonkey,,,"Possibly just insuring it lands in designated area, so it does not land on anything important and they do not have to search for it.",1386113634
+6843994,story,,,2,0,alexlitov,"Driver who wore Google Glass pleads not guilty to 2 violations","http://www.latimes.com/local/lanow/la-me-ln-driver-google-glass-20131203,0,5724684.story#axzz2mSRvD5Ej",,1386113632
+6843993,comment,6843388,6843825,14,0,yk,,,"While we are at it, if a site needs tweaking of noScript settings for displaying text...",1386113627
+6843992,story,,,1,0,mdokas,"SpaceX successfully launches commercial satellite",http://www.foxnews.com/science/2013/12/03/spacex-3rd-launch-attempt-commercial-satellite/,,1386113600
+6843991,comment,6843051,6843898,3,0,pvarangot,,,"Here, look at the left frame at about 3:30. It looks like RCS maneuvers, some guy on reddit claims he saw a relight from his backyard but its not visible in the official video.<p><a href=\"http://youtu.be/cXEJLhAh-Kg?t=3m15s\" rel=\"nofollow\">http://youtu.be/cXEJLhAh-Kg?t=3m15s</a>",1386113591
+6723677,story,,,0,0,,,,,1386113591
+6843990,comment,6843070,6843575,40,0,bramcohen,,,"This is a framework for steganographic schemes, not a specific steganographic scheme. The specific ones thrown in are just for demonstration purposes. The versatility of this approach is a major step forward in defeating statistical detection schemes. You of course don&#x27;t know this, because you haven&#x27;t read through the page and figured out what the code does.",1386113588
+6843989,comment,6825196,6826860,1,0,vfclists,,,"Poverty or no poverty, blue sky research is also necessary for an ancient civilization with over 1 billion people. They can&#x27;t expect to depend on the rest of the world for all their technological needs.<p>Again the material resources for poverty reduction exists and I don&#x27;t think those resources required for space exploration don&#x27;t diminish them.<p>Financial or monetary allocation isn&#x27;t quite the same as material resource allocation. In most of the world material resources are deployed by financial resources and the allocation of these is wholly arbitrary. Such as in America where trillions have allocated for the payment of odious and criminal bank debts and war in Afghanistan and Iraq, when health and housing provision is woefully inadequate.<p>Do homeless people in America have good access to clean water, electricity and antibiotics?<p>How is that different from India?",1386113575
+6843988,comment,6840437,6842458,3,0,shiftpgdn,,,"Are we talking cash to bitcoin or bitcoin to cash?  I haven&#x27;t done cash to Bitcoin but the bitcoin to bank deposit was done instantly.",1386113572
+6722550,story,,,0,0,,,,,1386113565
+6722470,story,,,0,0,,,,,1386113563
+6843987,comment,6843651,6843651,3,0,timfrietas,,,"This does not take into account an important factor that is somewhat intangible, but real to the psychology of the game: point swings.  If you go for it on 4th and 1 at your own 1 and lose you are definitely down 3 points and probably 7.  This puts pressure on your offense--which just failed on a 4th and 1--to somehow make it all the way down the field next time.  That can be demoralizing for that offense, paralyzing in fact.  That is much harder to model, but an important part of a correct model, I believe.",1386113562
+6843986,comment,6841974,6841974,2,0,stbtrax,,,"From all of their marketing material it appears that they&#x27;re based out of Poland. I wonder if setting your kickstarter location to SF is the cool thing to do.",1386113536
+6720786,story,,,0,0,,,,,1386113523
+6843985,comment,6843651,6843914,2,0,cheald,,,"The choice to go for a 4th down conversion is more likely than not primarily decided by the current score and time left in the game. However, the success of a 4th down conversion probably isn&#x27;t heavily influenced by those factors (other than perhaps player fatigue), which would suggest that coaches are indeed too conservative.",1386113512
+6843984,comment,6840262,6840262,3,0,nizmow,,,"I&#x27;d love them to do a Mono / .NET IDE so that I wouldn&#x27;t have to use Xamarin Studio on Linux / Mac anymore. Actually, I&#x27;m going to see if I can go put this on a wish list somewhere...",1386113505
+6843983,comment,6841858,6841858,1,0,hexis,,,"Anybody know if screencasting works with a Galaxy Nexus? I am not seeing the icon in Dev Tools and I can&#x27;t find a list of supported devices.",1386113503
+6843982,comment,6843676,6843676,1,0,morgante,,,"To follow the logic of this article, it could just as easily be titled &quot;the fair price of gold is zero.&quot;<p>Gold billion has no value as a monetary instrument. But obviously it, like Bitcoin, has value as a unit of account because it is scarce.",1386113503
+6843981,comment,6841557,6843324,10,0,crazy1van,,,">Notch is a very bad programmer<p>If his goal is to create code that other programs will love to read, then maybe he is terrible.<p>If his goal is to create software that millions of people will enjoy, then he is amazing.<p>My guess is that he would describe his goal as the latter. Maybe his goal is different from yours.",1386113501
+6843980,comment,6842139,6842989,1,0,digitalzombie,,,">> knowing and understanding concepts is more difficult than learning the lingo.<p>I don&#x27;t believe knowing and understand goes hand in hand.<p>Computer Science have tons of vocab. If you get rid of all of them then you mind as well spend the whole day doing nothing but describing all the absract concepts.<p>The reason why we invent vocabulary is so we can ignore the lower nitty gritty details and talk on a higher level and focus on the problems we&#x27;re trying to solve. I don&#x27;t need to spend more than sentence or so to describe a singleton. I can just say hey I&#x27;m thinking that we should implementing a singleton because it&#x27;s resource intensive.<p>Instead hey, let&#x27;s ensure that there is only one instance of this class because we don&#x27;t need more than one instance. Even in that sentence, Instance is also a vocab of CS.<p>>> to believe that a degree is the silver bullet of ignorance that you&#x27;re suggesting.<p>I&#x27;m not suggesting that this is the silver bullet. But this is an indication that a person have some competent to at least get a degree.",1386113492
+6718990,story,,,0,0,,,,,1386113481
+6843979,comment,6841557,6843734,6,0,mattmanser,,,"I&#x27;ve worked with good code and bad code. Where there was good code, programmer turnover was low and the original programmers were still around.<p>Where there was bad code, turnover was high and the original coders were long gone, the impression I often got was they&#x27;d coded themselves into a corner and it was too much for them.<p>I honestly think places with bad code just have to keep burning out more and more programmers until someone good enough to dig them out of the hole comes along.<p>The most successful company had the worst code written by incredibly incompetent programmers who didn&#x27;t even know basic things. One of their products the programmer was so clueless he&#x27;d created a new project and DLL for every single class. Every single class. Still made millions.<p>There are very few coders who can write and design a large product from scratch. Hence far more bad code than good. I think that&#x27;s the more likely explanation.",1386113463
+6843978,comment,6843676,6843676,2,0,BlackDeath3,,,">The structure of the payment system, not bitcoins, is actually what makes the bitcoin project so successful.<p>Isn&#x27;t this statement just as valid when applied to USD?",1386113455
+6843977,comment,6843676,6843676,2,0,EGreg,,,"<a href=\"https://en.bitcoin.it/wiki/Myths#Bitcoins_are_worthless_because_they_aren.27t_backed_by_anything\" rel=\"nofollow\">https://en.bitcoin.it/wiki/Myths#Bitcoins_are_worthless_beca...</a>",1386113453
+6843976,comment,6841557,6842900,4,0,alexcroox,,,"Also hindsight is a wonderful thing",1386113447
+6843975,story,,,1,0,bochi,"Show HN: Distributed Genetic Algorithm in Clojure",https://github.com/jbochi/gene,,1386113446
+6843974,comment,6843676,6843935,3,0,hackerboos,,,"There&#x27;s only been one rational post on Bitcoin in the last fortnight:<p><a href=\"http://blog.samaltman.com/thoughts-on-bitcoin\" rel=\"nofollow\">http://blog.samaltman.com/thoughts-on-bitcoin</a>",1386113433
+6716532,story,,,0,0,,,,,1386113423
+6715309,story,,,0,0,,,,,1386113394
+6843973,comment,6843651,6843914,1,0,jhermsmeyer,,,"Agreed. The sample is very likely tainted by factors that made success much more likely than average if we believe that NFL coaches are both conservative (they forgo punts only when the odds are much in their favor) and rational (they are win maximizing).<p>Still, there is probably a case to be made that coaches should be a bit more aggressive, but that edge could be small enough that other factors (like perceived incompetence) dominate it.",1386113391
+6714466,story,,,0,0,,,,,1386113374
+6843972,comment,6843676,6843676,3,0,warfangle,,,"If you think of the Bitcoin system itself as the issuer, the system itself promises to accept transaction fees -- ostensibly a bounty on verifying the transaction. So BTC are a liability of the Bitcoin system. QED.<p>Thus, instead of a debt-based economy, it will be a verification based economy.. which is a little funky, and I don&#x27;t know if there are models for it yet.<p>/mostly-tongue-in-cheek",1386113369
+6713071,story,,,0,0,,,,,1386113341
+6843970,comment,6843782,6843782,1,0,jdn,,,"The point about small displays being the same in many ways as big displays was great, until the rather confusing conclusion. If both have in common that they are more suited for consuming information rather than accomodating interaction, how is a smartwatch, a small display, an excellent tool for interacting with a TV?",1386113334
+6843969,comment,6840437,6842055,1,0,phaed,,,"You can drag drop that jar file into <a href=\"http://jd.benow.ca/\" rel=\"nofollow\">http://jd.benow.ca/</a> and in two clicks you have 100% of the source code, variable names and all.  It&#x27;s not the same as decompiling an C executable by any means.",1386113326
+6711915,story,,,0,0,,,,,1386113314
+6843968,comment,6843676,6843909,1,0,jstalin,,,"I found this odd as well. The US Dollar was essentially a unit of weight for much of its early history. Much of the money circulating was in fact silver Spanish dollars, issued by the Spanish empire as a result of the gigantic silver mines in central and southern America. Anyone could bring a unit of gold or silver to the treasury and be issued a silver or gold dollar. It was not a liability of the government in any way.<p><a href=\"https://en.wikipedia.org/wiki/Eight_real_coin#United_States\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Eight_real_coin#United_States</a>\n<a href=\"https://en.wikipedia.org/wiki/Coinage_Act_of_1792\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Coinage_Act_of_1792</a>",1386113305
+6843967,story,,,21,3,gpvos,"Launch code for US nukes was 00000000 for 20 years",http://arstechnica.com/tech-policy/2013/12/launch-code-for-us-nukes-was-00000000-for-20-years/,,1386113299
+6843966,comment,6840262,6842787,1,0,paperwork,,,"This is my second one. Haven&#x27;t had any problems. The one I&#x27;m using now is Crossover 27QD-P. I bought it because it pivots, ironically it doesn&#x27;t work when pivoted on my older model macbook pro. However, it worked perfectly on a similar (slightly newer) macbook pro so the problem seems to be with my laptop. Make sure you have the correct connectors, I had a buy a displayport-dual-linkdvi adapter from monoprice.",1386113290
+6710379,story,,,0,0,,,,,1386113277
+6843965,comment,6843562,6843562,3,0,oz,,,"After using Windows 8.1 on my >5 year old laptop for the last month, the only thing I really <i>dislike</i> about it is the schizophrenic impedance-mismatch between the &quot;Desktop&quot; metaphor and the new &quot;Metro&quot; interface. Like on reviewer said, &quot;at boot, you get this tablet interface, but then you click the Start button, and it&#x27;s Windows 7 underneath.&quot; Me, I&#x27;m a techie, so figured things out pretty quick, and I love the fast boot, improved file copy dialog, and much improved Task Manager<p>I think that Windows 7 is the new XP: It&#x27;s a great OS, with perhaps no obvious warts, so nobody really <i>needs</i> to upgrade, as wee needed to upgrade from Windows Me (Ugh!). It looks modern enough, is very stable (c&#x27;mon now, let&#x27;s admit it) and simply does its job. For most people, why bother upgrade?<p>In time, of course, we&#x27;ll see Windows 8 numbers improve, as people replace old computers. But most laptops now, are like Windows 7, and XP before it: They&#x27;re good enough for most people, so why bother upgrade?",1386113268
+6843964,comment,6843070,6843681,7,0,dmix,,,"&quot;Terrorists use web forums and couriers.&quot;<p>From same source as previous comment: <a href=\"https://twitter.com/thegrugq/status/407662098093580288\" rel=\"nofollow\">https://twitter.com/thegrugq/status/407662098093580288</a>",1386113262
+6709579,story,,,0,0,,,,,1386113258
+6843963,comment,6841557,6843119,3,0,10098,,,">  to the point of being able to design his own toy CPU architecture<p>Not sure what the CS curriculum is in other countries but back where I&#x27;m from they had basically taught us enough by the middle of the second year for one to be able to design something like DCPU16 using only that knowledge.<p>In other words, it isn&#x27;t that hard, especially when you&#x27;re surrounded by examples. I would expect a second-year undergrad to be able to accomplish that.",1386113246
+6708510,story,,,0,0,,,,,1386113233
+670780,story,,,0,0,,,,,1386113215
+6843962,comment,6843388,6843822,2,0,tcoppi,,,"It works fine on chrome for android",1386113199
+6843961,comment,6843318,6843318,1,0,thatswrong0,,,"I&#x27;d be curious to see the portion sizes and how it compares to SpoonRocket over in the East Bay.",1386113191
+6843960,comment,6833691,6833691,1,0,eddyparkinson,,,"Build web applications, with formulas. Formulas that build real software, the kind a programmer is able to create. This way: www.cellmaster.com.au/Build.html?hn (2 min video)",1386113175
+6843959,comment,6841669,6843891,3,0,cperciva,,,"I find that reporters tend to be very good for changes after an article is published -- much easier to fix mistakes at that point than before publication, in fact, since they no longer have an editor breathing down their neck.",1386113171
+6843958,story,,,5,0,conductor,"A Link Between Wormholes and Quantum Entanglement",http://news.sciencemag.org/physics/2013/12/link-between-wormholes-and-quantum-entanglement,,1386113158
+6705186,story,,,0,0,,,,,1386113153
+6843957,comment,6843052,6843052,3,0,JacobJans,,,"This reminds me of an article I recently read in the Harvard Business review.<p>&quot;The Three Rules for Making a Company Great.&quot;<p>The three rules are basically:<p>1. Increase Revenue<p>2. Increase Quality.<p>3. Only rules 1 and 2 matter.<p>I&#x27;ve following these rules since I read about them, and I do think they are very, very, helpful. Even though we grow mostly through direct response marketing, our brand value has been increasing, as has readership loyalty and revenue per unique subscriber. We are starting to get to the point where we&#x27;re producing the type of quality that nobody else produces, anywhere. This easily solves one of the biggest marketing questions: What is your unique position? Eventually, the answer will be simple: We&#x27;re simply better than all of our competitors. By a lot.<p><a href=\"http://hbr.org/2013/04/three-rules-for-making-a-company-truly-great/\" rel=\"nofollow\">http://hbr.org/2013/04/three-rules-for-making-a-company-trul...</a>",1386113144
+6843956,comment,6842697,6842742,1,0,zachlatta,,,"Hey! I saw you talk about this on #bitcoin. Congratulations on the launch! I&#x27;m excited to see where you take this.",1386113138
+6843955,comment,6842697,6843725,1,0,nadaviv,,,"I touched that point at <a href=\"https://news.ycombinator.com/item?id=6843655\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6843655</a>",1386113133
+6843954,comment,6840140,6840140,1,0,fprotthetarball,,,"How does the Indiegogo pricing compare to waiting for it to launch and subscribing at that time?",1386113103
+6843953,comment,6841557,6842578,2,0,drawkbox,,,"Yes good code can be commended, but initially it was his small project he worked up to be his golden ticket, never expecting it to be such a huge success.  I&#x27;d say he did enough good to get it shipped, in the end that is the metric.  But in terms of maintenance and clean code, I am a big proponent of it and good architecture.  I can&#x27;t say that this makes a project successful or not but it does make it easier to deal with after it is successful and sometimes largely determines how far it can go.  There is always a battle between shipping and quality and here Notch was just shipping, in terms of the end product he is a good coder and a product shipper.",1386113103
+6843952,comment,6841606,6843508,3,0,cpeterso,,,"Couldn&#x27;t the substring copying be deferred until the parent string is ready to be GC&#x27;d? In the common case of a short-lived substring, no string copies are necessary. Only if the substring outlives the parent string would a copy be necessary.",1386113098
+6843951,story,,,2,0,shawndumas,"Hands-on with the Qualcomm Toq smartwatch",http://arstechnica.com/gadgets/2013/12/hands-on-with-the-qualcomm-toq-smartwatch/,,1386113088
+6843950,story,,,1,0,greenyoda,"In Which Elan Gale Teaches Two Social Media Lessons",http://www.popehat.com/2013/12/02/in-which-elan-gale-teaches-two-social-media-lessons/,,1386113086
+6843949,comment,6843492,6843492,1,0,farsttol,,,"Just signed up - they sent me a confirmation email with my password in plaintext.",1386113062
+6843948,comment,6834791,6834791,1,0,pixelmonkey,,,"Really cool. A suggestion. For long explains, it&#x27;d be great to be able to click on the part to jump to that part of the explanation, and then offer some way to &quot;jump back to top&quot;.<p>Alternatively, I was thinking there might be a nice &quot;swipe&quot; or &quot;carousel&quot; interface applicable here. e.g. you hit left/right arrows and it explains every individual atom of the command-line.<p>That said, very nice as it is now. You deserve major kudos simply for bringing most manpages online in a searchable, good-looking interface! Instantly added as a &quot;dev&quot; bookmark for me.",1386113058
+6843947,story,,,2,0,shawndumas,"SpaceX successfully launches its first attempt at geosynchronous orbit",http://arstechnica.com/science/2013/12/spacex-successfully-launches-its-first-attempt-at-geosynchronous-orbit/,,1386113049
+6843946,comment,6841113,6842311,2,0,read,,,"I can confirm a friend incorporated and did the e-verification themselves and indeed did not have the 90 day unemployment problem.",1386113042
+6843945,story,,,2,0,shawndumas,"Apple stock movement: A short history lesson",http://thetechblock.com/apple-stock-movement-history/,,1386113041
+6843944,comment,6843070,6843478,4,0,phil_2-0,,,"> &quot;Uncrackable encryption is allowing terrorists — Hamas, Hezbollah, al-Qaida and others — to communicate about their criminal intentions without fear of outside intrusion,<p>You succeeded to put 3 different ethnic groups - I should say 2, the last one being an US product - in the same bag and doing then, a misleading association, fucking idiot!",1386113039
+6700105,story,,,0,0,,,,,1386113033
+6843943,story,,,1,0,dcre,"A \"good\" Hasse diagram",http://en.wikipedia.org/wiki/Hasse_diagram#A_.22good.22_Hasse_diagram,,1386113014
+6843942,comment,6841306,6843716,1,0,praxeologist,,,"That sounds nice but holds no water. I mean, what sort of monster could not value human life? Please, pay strict attention to what I am saying about what really having &quot;intrinsic value&quot; means.",1386113010
+6698562,story,,,0,0,,,,,1386112997
+6843941,comment,6843070,6843510,1,0,simbolit,,,"i am also interested in what they use?",1386112971
+6843940,story,,,1,0,deviceguru,"Android eyewear beats Google Glass to market",http://linuxgizmos.com/android-based-eyewear-device-beats-google-glass-to-market/,,1386112966
+6843939,comment,6841858,6841858,1,0,seoguru,,,"Does anyone have instructions on how to get this working on linux google chrome?",1386112961
+6843938,comment,6843676,6843676,3,0,knowitall,,,"Wouldn&#x27;t the same logic also lead to the inevitable conclusion that the (fair) value of gold is zero?<p>Given that people pay real money for BTC, perhaps it is time to question the theory.<p>Btw, I found this really amusing: apparently the Tulip Mania never actually happened, or at least nobody knows for sure and lots of things seem to indicate that it didn&#x27;t happen (overpriced tulips happened, but not a mania that made the common people join the frenzy and drove everybody to bankruptcy). It&#x27;s on Wikipedia (the German version seems to be more clear about it, though).",1386112948
+6843937,comment,6843509,6843639,3,0,tjohns,,,"There are three reasons I really like Chrome apps: They can run in a windowed/chrome-less mode (no navigation bar), you can write offline HTML5 apps that actually work, and discoverability via the Chrome web store.<p>And as somebody else mentioned, it gives you access to the USB JavaScript APIs, which is pretty cool.",1386112935
+6694587,story,,,0,0,,,,,1386112902
+6843935,comment,6843676,6843874,8,0,fragsworth,,,"These posts are entirely the result of authors who didn&#x27;t buy bitcoins when they were cheap. They want it to fail, and try to find any flaws in it that they can, because if it succeeds then they&#x27;ll really feel like shit because they missed out.<p>There is extreme bias in the news community (on both sides) because of their investment (or lack thereof)... And possibly a certain amount of attempted market manipulation as well.<p>In other words, almost everyone writing about bitcoins is full of shit. Take <i>everything you read, on all sides of the issue</i> with a grain of salt.",1386112895
+6843934,comment,6840262,6841652,3,0,nizmow,,,"I have to disagree with both of these guys, it was so slow in Visual Studio 2013 that I actually disabled it. Then I was forced to re-enable it when I couldn&#x27;t live without the functionality.",1386112891
+6843933,comment,6842006,6843650,1,0,gus_massa,,,"The page is not very clear. The energy comes from the solar cells. They are using the water to store mass, no energy. It’s (probably) easier to store a lot of mass of water as a liquid than a lot of mass of Xenon because you must compress it a lot.<p>The idea is that to accelerate in one direction, you must push something in the opposite direction. They will convert the water into plasma (imagine very hot ionized water vapor) and push it using the energy from the solar cells.<p>It’s different from a normal rocket, because in a normal rocket the energy and the mass come both from the fuel and oxidizer.",1386112881
+6843932,comment,6838836,6843685,1,0,MichaelGG,,,"If the tail-call-needing function isn&#x27;t found rather quickly (say, in the first 100? frames), then isn&#x27;t it unlikely that the tail call will help? That seems like a much rarer case. Is the cost of going 1000 functions deep that expensive? Most threads aren&#x27;t gonna hit a high % of stack without having some sort of problem anyways.<p>Of course it&#x27;d be better for the JVM to support this in bytecode, just like generics, stack allocation, and pointers. But it seems to me that if there was a real solid need for TCO then a JVM could implement it with tunable heuristics (most Java code doesn&#x27;t need TCO, so if your code really depends on it in complex scenarios, you can always pass a -XXTcoInspectionDepth argument.)",1386112881
+6843931,comment,6841557,6842578,25,0,naiyt,,,"Notch tweeted this in, I&#x27;m assuming, response to this thread:<p>> &quot;Just saw a nerd flamewar debating if I&#x27;m a bad programmer. I&#x27;m self-taught, prefer working along, and program for fun. Don&#x27;t learn from me.&quot;<p>Take it for what you will.<p><a href=\"https://twitter.com/notch/statuses/408011329237049344\" rel=\"nofollow\">https://twitter.com/notch/statuses/408011329237049344</a>",1386112874
+6843930,comment,6843070,6843776,3,0,simbolit,,,"i was actually thinking that the &quot;of&quot; was superfluous.\nsince reading [0] on hn (discussion: [1]) i am more and more seeing the use of &quot;because&quot; without preposition. so i was expecting<p>&quot;Q. Why can&#x27;t it be given more than two alternates for one position to encode more information?\nA. Because math. See Explanation.txt for a bit more detail.&quot;<p>[0] <a href=\"http://www.theatlantic.com/technology/archive/2013/11/english-has-a-new-preposition-because-internet/281601/\" rel=\"nofollow\">http://www.theatlantic.com/technology/archive/2013/11/englis...</a>\n[1] <a href=\"https://news.ycombinator.com/item?id=6765099\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6765099</a>",1386112870
+6693091,story,,,0,0,,,,,1386112866
+6843929,comment,6827545,6842265,1,0,JoeCortopassi,,,"Not sure if this was just an accidental comment in the wrong place, or trying to hijack my post for more exposure, but I just want to be clear that I have no idea who railsprojectapp is nor can I be reached through them. Not assuming anything more than a mistake, just trying to clear up potential confusion",1386112865
+6843928,comment,6842697,6843897,2,0,nadaviv,,,"This could be a cool idea, but Bitcoin currently artificially limits the total number of public keys to 3, but that limitation will probably be lifted at some point.<p>Also, in the future, you won&#x27;t really need hacks like that to make something like that work - Bitcoin has a scripting language that allows you to specify much more complex conditions than m-of-n. You could specify something like `2 of (buyer, seller, (2 of (arb1, arb2, arb3)))`. But currently, the scripting language is limited to a specific white-list of allowed script templates, and doesn&#x27;t allow doing stuff like that.",1386112865
+6692915,story,,,0,0,,,,,1386112862
+6843927,comment,6842006,6843315,9,0,j-g-faustus,,,"Clear for people in the know, I guess.<p>But suppose I had a Kickstarter for a car on the same premises: &quot;A revolutionary car powered by sunlight and water - fill up with water every now and then, and it will run forever&quot;. No further details. Would you buy?<p>I think it&#x27;s a very small percentage of the world that would know off the bat why &quot;sun and water&quot; could work for a spacecraft, but not for a car.<p>I think some more detail on the physics behind it, aimed slightly below say Physics 101 level, would help to convince more people to contribute. \nIt makes it simpler to distinguish this from &quot;crystals can change your life&quot; or &quot;lose X pounds of weight in Y days&quot; style marketing, which promise the moon but don&#x27;t explain how their miracle is supposed to work.<p>They do give an explanation in their link[0], but I think having a summarized version on the Kickstarter page itself would help donations. (To be clear, this is a comment on the marketing, not on the physics or feasability.)<p>[0] <a href=\"http://pepl.engin.umich.edu/thrusters/CAT.html\" rel=\"nofollow\">http://pepl.engin.umich.edu/thrusters/CAT.html</a>",1386112839
+6843926,comment,6840437,6843004,3,0,hsod,,,"Can you expand?",1386112837
+6691635,story,,,0,0,,,,,1386112832
+6691456,story,,,0,0,,,,,1386112828
+6690979,story,,,0,0,,,,,1386112816
+6690791,story,,,0,0,,,,,1386112812
+6843925,comment,6841974,6843311,1,0,stcredzero,,,"I am currently in the process of reviving my Zeo Sleep Manager.<p><a href=\"http://imgur.com/rHZmTY3\" rel=\"nofollow\">http://imgur.com/rHZmTY3</a><p>I can replace the lipo battery with another one with the same capacity. However, I will have to expand the case. My current plan is to seal the battery in a few layers of aluminum tape and to 3D print a &quot;gasket&quot; system.<p>The company going out of business doesn&#x27;t &quot;brick&quot; anything, at least for my older system. There are programs that can read the data format.",1386112808
+669024,story,,,0,0,,,,,1386112798
+6843922,comment,6843710,6843710,4,0,hcarvalhoalves,,,"Excellent content and presentation. Happy to see interactive formulas in the book, like proposed by Brett Victor [1].<p>[1] <a href=\"http://worrydream.com\" rel=\"nofollow\">http://worrydream.com</a>",1386112730
+6843921,comment,6843676,6843676,2,0,lcuff,,,"This is clearly low-quality flame-bait IMHO.  Sophisticated math in the middle doesn&#x27;t impress me.",1386112715
+6843920,comment,6843676,6843676,1,0,jferguson,,,"The price of a Bitcoin is the amount of other resource (possibly a more traditional currency, like electrum or cocoa beans ;) ) that two parties can agree to trade at.<p>What&#x27;s fairness?",1386112714
+6686554,story,,,0,0,,,,,1386112712
+6686541,story,,,0,0,,,,,1386112711
+6686531,story,,,0,0,,,,,1386112711
+6686523,story,,,0,0,,,,,1386112711
+6686508,story,,,0,0,,,,,1386112711
+6686496,story,,,0,0,,,,,1386112710
+6686494,story,,,0,0,,,,,1386112710
+6843919,comment,6843676,6843874,2,0,mullingitover,,,"> Let those of us who are interested in furthering the Bitcoin economy do so unencumbered by pundits.<p>Bitcoin would be much more encumbered if it wasn&#x27;t relevant enough for the pundits to pontificate on it.",1386112703
+6843918,comment,6843676,6843910,5,0,dingaling,,,"Your third sentence could just as easily apply to the Bitcoin network.  Miners ( third parties ) take their cut ( transaction fees ) and the processing time is dependent upon the generosity of the fee-payer ( low-fee transactions are left out of blocks until finally swept after hours or days ).<p>You don&#x27;t have a way to pay someone else BTC without participating in the system at least once.<p>I&#x27;m excited by Bitcoin but it isn&#x27;t financial liberation.",1386112697
+6843917,comment,6842697,6843785,1,0,obiefernandez,,,"Using well-known arbitrators solve this problem also. I signed up and have quite an online identity that can be verified easily, as did the creator of the hexayurt.",1386112692
+6843916,comment,6843676,6843909,8,0,lignuist,,,"The fair price of an ounce of gold is one Bitcoin. More or less. Currently.",1386112690
+6684439,story,,,0,0,,,,,1386112662
+6843915,comment,6843676,6843874,4,0,lukifer,,,"Things are worth what people are willing to pay (or trade) for them. What&#x27;s a dollar worth? How about a Linden dollar, or WoW gold? What about rare stamps, or collectible coins, or baseball cards? All of those things are objectively worthless, yet they have value because humans imbue them with value.<p>Economics is like quantum physics: if you claim to understand it, you don&#x27;t understand it. Let the experiment play out, and caveat emptor.",1386112657
+6843914,comment,6843651,6843651,2,0,Uhhrrr,,,"Hm, so the data points for likelihood of getting another first down is based on data from the fourth downs that coaches actually attempted? It may be that the fourth downs they didn&#x27;t attempt were not as propitious for some reason - wind (which the authors mention), injuries on key players, lateral positioning which doesn&#x27;t favor one formation or another, etc.",1386112656
+6843913,comment,6843855,6843855,1,0,pnts,,,"Did you consider using Angular?",1386112653
+6683030,story,,,0,0,,,,,1386112628
+6683027,story,,,0,0,,,,,1386112628
+6843912,story,,,1,0,grellas,"Online Matchmakers Offer New Way to Find Legal Help",http://online.wsj.com/news/articles/SB10001424052702303464504579107231443311754?mod=hp_jrmodule,,1386112627
+6843911,comment,6843676,6843676,3,0,bachback,,,"also, the internet is worthless. just photos of cats, you know.",1386112570
+6843910,comment,6843676,6843676,2,0,bobbles,,,"So you have people exclaiming that bitcoins are worthless.\nWell... there are plenty of people right now spending bitcoins and receiving goods and services in exchange for those bitcoins.<p>Plenty of things in the world can be considered worthless if you aren&#x27;t interested in them.<p>I&#x27;m quite happy for people to continue living in a world where sending money goes through several 3rd parties, all taking a cut and adding delays, but I don&#x27;t want to be one of those people any more.",1386112553
+6679802,story,,,0,0,,,,,1386112551
+6843909,comment,6843676,6843676,12,0,msandford,,,"The Fair Price of an Ounce of Gold is Zero!  Since there&#x27;s no issuer of an ounce of gold it can&#x27;t be worth anything.  Q.E.D.<p>EDIT:  Some context:\n&quot;First, all financial instruments are accounting creatures. They are the asset of the bearer and the liability of the issuer. Gold coins were the liability of, e.g., the King, Federal Reserve notes are liability of the Federal Reserve, and coins are the liability of the Treasury.&quot;<p>An ounce of gold is worth a lot even prior to being minted into a coin.  As such you could melt it, cut it in half, etc and it would retain it&#x27;s value.  That means it might technically be the liability of the government or the king, but practically speaking they&#x27;re not.  I could buy krugerrands, francs, golden eagles or whatever, melt them down and make jewelry out of them and it doesn&#x27;t screw up the books of any of their issuers.",1386112539
+6843908,comment,6840437,6840437,14,0,halacsy,,,"I&#x27;m hp co-founder and CTO of prezi. We learn from our mistakes, we have changed the program: To improve the program from now on we will reward bug hunters who find bugs outside of the scope provided that they do not violate our users’ information and that their report triggers us to improve our code base. We will also retroactively check to see if other reports found issues that fall into this category. More info at engineering.prezi.com/blog/2013/12/03/a-bug-in-the-bugbounty/",1386112537
+6679168,story,,,0,0,,,,,1386112536
+6843907,story,,,1,0,acosmism,"Freaky or what?",http://www.reddit.com/r/Banksy/comments/1s0l25/i_think_i_just_found_a_banksy_can_anyone_confirm/,,1386112520
+6678408,story,,,0,0,,,,,1386112518
+6677993,story,,,0,0,,,,,1386112508
+6677752,story,,,0,0,,,,,1386112503
+6843906,comment,6841557,6843835,1,0,Narishma,,,"They are, unless you use old deprecated versions of OpenGL.",1386112502
+6677546,story,,,0,0,,,,,1386112498
+6843905,comment,6828699,6829846,1,0,gcb0,,,"because it is wired only, without gigabit ports.",1386112478
+6676604,story,,,0,0,,,,,1386112475
+6676563,story,,,0,0,,,,,1386112474
+6843904,comment,6841606,6841606,2,0,binarycrusader,,,"The author of the change in Java discusses it in more detail here (from the article):\n  <a href=\"http://www.reddit.com/r/programming/comments/1qw73v/til_oracle_changed_the_internal_string/cdhb77f\" rel=\"nofollow\">http://www.reddit.com/r/programming/comments/1qw73v/til_orac...</a>",1386112471
+6843903,comment,6843052,6843726,4,0,adwf,,,"Now put it in an algorithm that detects any mention of &quot;only, always, never&quot; or any other absolute.  Then insert a boilerplate at the top of such discussions, saying there are always exceptions, but the gist of the argument is still valid ;)",1386112468
+6843902,comment,6842697,6842778,3,0,pyalot2,,,"The arbitrator is not in control of the funds. He cannot defraud either merchant or customer directly. That is the nature of multisignature transactions. The law&#x27;s got a lot of catching up to do.",1386112454
+6675575,story,,,0,0,,,,,1386112451
+6843901,comment,6840430,6841506,1,0,BHSPitMonkey,,,"New policy: All crime is now illegal.",1386112443
+6675193,story,,,0,0,,,,,1386112442
+6674111,story,,,0,0,,,,,1386112416
+6673708,story,,,0,0,,,,,1386112407
+6673695,story,,,0,0,,,,,1386112406
+6843900,comment,6842915,6843869,1,0,michaelochurch,,,"I agree with you on all of this. I might have come off as somewhat cynical, because the just-worlding of HN gets under my skin.<p>Decades from now, when the average age of the contemporary HN crowd is 50, if people here are facing the age discrimination of the world that the current VC-istan demigods created, I bet the current crop of HN libertarians will be the first to be up in arms about it.",1386112399
+6673398,story,,,0,0,,,,,1386112399
+6673364,story,,,0,0,,,,,1386112399
+6673310,story,,,0,0,,,,,1386112397
+6843899,comment,6842338,6842959,1,0,raverbashing,,,"What trace cache?<p>That&#x27;s a P4 thing, not a Core thing <a href=\"http://en.wikipedia.org/wiki/CPU_cache#Trace_cache\" rel=\"nofollow\">http://en.wikipedia.org/wiki/CPU_cache#Trace_cache</a><p>Edit: ok, Core has a uop cache <a href=\"http://en.wikipedia.org/wiki/Micro-operation_cache#Micro-operation_.28uop.29_cache\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Micro-operation_cache#Micro-ope...</a><p>You don&#x27;t need a trace cache to do what you suggest, it just predicts the branch and goes from there",1386112394
+6673033,story,,,0,0,,,,,1386112391
+6843898,comment,6843051,6843051,9,0,jccooper,,,"Saw the 1st stage doing some RCS maneuvers right after separation, but they cut the camera away from that shot pretty quick so I couldn&#x27;t see exactly what. They&#x27;re not supposed to be trying to &quot;land&quot; this one, but I bet they&#x27;re getting aero data in support of the F9-R.<p>All in all, looks like a good launch. Can&#x27;t wait to hear about the second burn, which was last flight&#x27;s sticking point.",1386112384
+6672662,story,,,0,0,,,,,1386112382
+6843897,comment,6842697,6842742,4,0,ryan-c,,,"I&#x27;m glad someone finally made this.<p>What do you think about potentially offering more complicated schemes in the future? For example, supporting say three arbitrators, requiring two to agree?<p>You could do this as follows:<p>Seller: Keys S1 and S2<p>Buyer: Keys B1 and B2<p>Arbitrators: Keys A1, A2, A3 (one per arbitrator)<p>You then do a 4-of-7 multisig transaction.<p>This generalizes to buyer, seller and N-of-M arbitrators:<p>Seller gets N keys<p>Buyer gets N keys<p>Arbitrators each get one key<p>Actual transaction is 2N of M + 2N.",1386112374
+6843896,comment,6842774,6843721,3,0,TallGuyShort,,,"Yeah it&#x27;s not like any major corporations make their living offering enterprise support on a practically identical distribution. Who&#x27;s saying this stuff? I&#x27;ve upgraded many servers through minor revisions of CentOS and never had any big problems that weren&#x27;t my own fault.",1386112373
+6843895,comment,6828699,6831589,1,0,gcb0,,,"openWRT... another asus model. but yeah, after my research, asus is the best bang for the buck.",1386112368
+6843894,comment,6835347,6836072,1,0,pdog,,,"$10.00 / month",1386112365
+6671692,story,,,0,0,,,,,1386112359
+6843893,comment,6842186,6843810,3,0,msandford,,,"It would be super-great if that&#x27;s how it worked, but it&#x27;s not.  There is no send-to-this-person-at-this-address API to see if it&#x27;s OK to do so.  There is no national database of who-lives-where that&#x27;s in any way unified -- except maybe at the NSA -- and if there is, it&#x27;s certainly not shared publicly.<p>Everyone&#x27;s software doesn&#x27;t check names in any way whatsoever.  I could send a package to:\nPresident Abe Lincoln\n1600 Pennsylvania Ave NW\nWashington DC 20500<p>FedEx, UPS, USPS, DHL, everyone&#x27;s software would eat that right up and spit out a label.  That&#x27;s because the name portion of the address usually doesn&#x27;t mean anything.  The White House is where it is irrespective of the person receiving the mail there.<p>Furthermore nearly all of the time this isn&#x27;t an issue.  The vast majority of all mail and packages go to the right address.  People tend not to have items shipped to anyone but themselves or perhaps relatives.  That&#x27;s the reason there&#x27;s a law that writes an exception to normal mail delivery only in the case where someone&#x27;s doing it as a business (a CMRA).<p>And the only reason there&#x27;s an exception there is that some (not all) CMRA owners 10-15 years ago didn&#x27;t seem to care about preventing fraud and enough people got scammed to where it was a problem.  It&#x27;s expensive to scrutinize the incoming mail enough and that meant that the people who didn&#x27;t scrutinize had higher profits so there was no corrective feedback through profits and losses.  The only way to fix that was to make it a legal issue instead of an economic one.",1386112357
+6671437,story,,,0,0,,,,,1386112353
+6671164,story,,,0,0,,,,,1386112347
+6671110,story,,,0,0,,,,,1386112346
+6671068,story,,,0,0,,,,,1386112345
+6671030,story,,,0,0,,,,,1386112344
+6670975,story,,,0,0,,,,,1386112342
+6670901,story,,,0,0,,,,,1386112341
+6670762,story,,,0,0,,,,,1386112337
+6843892,comment,6835392,6835901,1,0,Zoomla,,,"and I hate how Google (and others) force websites to serve small files from *.googleapis.com (and other domains)...  some websites end up loading files from 10-15 different domain names... I wish this would stop, but I am sarcastic at the same time because I know that they could easily host them locally.",1386112336
+6843891,comment,6841669,6843332,2,0,DanBC,,,"Thank you.  It&#x27;s really nice to hear that they listened and did something.<p>And I&#x27;m grateful to you for actually doing something!",1386112334
+6670324,story,,,0,0,,,,,1386112327
+6670154,story,,,0,0,,,,,1386112322
+6670116,story,,,0,0,,,,,1386112321
+6670019,story,,,0,0,,,,,1386112319
+6669672,story,,,0,0,,,,,1386112311
+6669565,story,,,0,0,,,,,1386112308
+6669530,story,,,0,0,,,,,1386112307
+6843890,comment,6843052,6843726,3,0,pdog,,,"Even Microsoft (presented as a possible counterexample) had a great relationship with developers in the early years that sustained its incredible growth.",1386112305
+6843889,comment,6843070,6843811,5,0,rosser,,,"<i>Seems like that would give you a very high cover:hidden text ratio.</i><p>It would, but that doesn&#x27;t change the principles used to detect the steganographically encoded cyphertext. The bits would still be twiddled in the same way, and could be found in the same way.",1386112295
+6668974,story,,,0,0,,,,,1386112293
+6668170,story,,,0,0,,,,,1386112274
+6668085,story,,,0,0,,,,,1386112272
+6668083,story,,,0,0,,,,,1386112272
+6667779,story,,,0,0,,,,,1386112264
+6843888,comment,6843388,6843388,1,0,jhhn,,,"Good! I had never ignored that unsafe notices from visual studio console.",1386112258
+6667001,story,,,0,0,,,,,1386112246
+6666872,story,,,0,0,,,,,1386112242
+6666852,story,,,0,0,,,,,1386112242
+6666685,story,,,0,0,,,,,1386112238
+6666352,story,,,0,0,,,,,1386112230
+6666307,story,,,0,0,,,,,1386112229
+6666253,story,,,0,0,,,,,1386112227
+6666252,story,,,0,0,,,,,1386112227
+6666222,story,,,0,0,,,,,1386112227
+6666219,story,,,0,0,,,,,1386112227
+6666193,story,,,0,0,,,,,1386112226
+6666041,story,,,0,0,,,,,1386112222
+6665909,story,,,0,0,,,,,1386112219
+6665887,story,,,0,0,,,,,1386112219
+6665673,story,,,0,0,,,,,1386112213
+6665606,story,,,0,0,,,,,1386112212
+6665502,story,,,0,0,,,,,1386112209
+6665488,story,,,0,0,,,,,1386112209
+6843887,comment,6842232,6842232,1,0,mendicantB,,,"Looks like he took your advice. Regardless, I still got the same impression you did.",1386112207
+6665424,story,,,0,0,,,,,1386112207
+6665414,story,,,0,0,,,,,1386112207
+6665334,story,,,0,0,,,,,1386112205
+6843886,comment,6838757,6839698,1,0,sinwave,,,"I wasn&#x27;t feelin&#x27; the vocals. Just making fun though - keep rockin&#x27; if you enjoy it.",1386112204
+6665258,story,,,0,0,,,,,1386112203
+6665231,story,,,0,0,,,,,1386112202
+6665202,story,,,0,0,,,,,1386112201
+6665058,story,,,0,0,,,,,1386112198
+6664957,story,,,0,0,,,,,1386112195
+6664944,story,,,0,0,,,,,1386112195
+6664881,story,,,0,0,,,,,1386112193
+6664795,story,,,0,0,,,,,1386112191
+6664752,story,,,0,0,,,,,1386112190
+6664709,story,,,0,0,,,,,1386112189
+6664694,story,,,0,0,,,,,1386112189
+6664687,story,,,0,0,,,,,1386112189
+6664667,story,,,0,0,,,,,1386112188
+6664633,story,,,0,0,,,,,1386112187
+6664621,story,,,0,0,,,,,1386112187
+6664529,story,,,0,0,,,,,1386112185
+6664476,story,,,0,0,,,,,1386112183
+6664331,story,,,0,0,,,,,1386112180
+6664250,story,,,0,0,,,,,1386112178
+6664147,story,,,0,0,,,,,1386112175
+6664067,story,,,0,0,,,,,1386112173
+6843885,comment,6841606,6843105,1,0,Strilanc,,,"The JVM garbage collector is not capable of tracking intervals nested inside other objects like arrays. At least, not that I&#x27;m aware of.",1386112172
+6664001,story,,,0,0,,,,,1386112172
+6663958,story,,,0,0,,,,,1386112171
+6843884,comment,6842774,6842774,5,0,belgianguy,,,"What&#x27;s with all the FUD? I just ran &#x27;yum update&#x27; on my VPS (6.4 -> 6.5) yesterday without any hassle at all. It doesn&#x27;t just start downloading things out of the blue you know, it&#x27;ll check first what packages are available and then ask what you want to do. If you have broken packages, you can skip those with --skip-broken flag, of which it will remind you if you have them!<p>Worked like a charm.<p>Your upgrade process is often a reflection of your installation process: if you were uncareful and skipped over details, such things have a tendency to bite you in the rear. E.g.: Don&#x27;t mix repositories offering the same software but with different configurations, like clamav, or you will have a bad time. This was one of my stumbling blocks, but I learned from it.<p>When upgrading major versions eg from 5.x to 6.x, I agree that a reinstall is probably more apt.",1386112169
+6843883,comment,6841557,6843343,2,0,willismichael,,,"To be fair, the difficulty of modding isn&#x27;t necessary directly correlated with the fact that it was written in Java.",1386112169
+6663752,story,,,0,0,,,,,1386112166
+6663647,story,,,0,0,,,,,1386112163
+6663599,story,,,0,0,,,,,1386112162
+6843882,comment,6843070,6843811,2,0,jcarpio,,,"I&#x27;d like to know if there&#x27;s been an implementation of that.  I remember reading about such a thing in William Gibson&#x27;s Pattern Recognition.",1386112156
+6663028,story,,,0,0,,,,,1386112148
+6843880,comment,6843388,6843822,1,0,eitland,,,"Which phone?<p>(It is perfect with no sidebar on Dolphin/Note 2. Arstechnica on the other hand has been broken for a few days already.)",1386112146
+6843879,comment,6842186,6842527,1,0,prawn,,,"I&#x27;ve wondered the same. Less traffic on the roads after the peak rush home so couriers/vans would be able to zip around more quickly. Deliver groceries at 6am, packages at 7pm and onwards, etc.",1386112145
+6662820,story,,,0,0,,,,,1386112143
+6843878,story,,,2,0,jtheoof,"Norway's slow TV format Coming to US",http://nypost.com/2013/12/02/norways-slow-tv-format-coming-to-us/,,1386112140
+6843877,comment,6842697,6843577,1,0,nadaviv,,,"Thanks for the tip; I cleaned them up.",1386112140
+6662672,story,,,0,0,,,,,1386112140
+6843876,comment,6843667,6843667,1,0,DanBC,,,"I really like it.<p>I could only sketch with grey.  I didn&#x27;t log in, and I didn&#x27;t look around for instructions.  Eventually I gave up and looked for instructions, but there was a big wall of text.  So, I know that cursor keys do size of brush and colour (but colour is asymetric).<p>You might want to consider a paint style toolbar.  For people like me.  Just something really very simple - brush size and brush colour.<p>This is my first impression after about 45 seconds of play.  You may not want users like me, (people who don&#x27;t  bother to read instructions) and if that&#x27;s the case then that&#x27;s fine!!  It&#x27;s a good thing to cater to your market.",1386112136
+6843875,comment,6841557,6843572,7,0,Jormundir,,,"Though there are some good points here, my experience has been that this &quot;just get it done&quot; above all else principle has sunk just as many projects as it has launched.<p>Getting it done is a bare necessity of a good programmer, but what separates the mediocre programmer from a good programmer is whether they get it done in a more maintainable fashion.<p>It is completely ridiculous to say as long as one can get a product launched, they are a good programmer, because you&#x27;re likely praising a group, half of whom are good programmers, and half of whom are sinking the product more and more over time. This is a common happening I see with praise of engineers from a management perspective, and why so often companies sink without knowing where exactly they went wrong.<p>You can judge if a programmer is good, not by tearing apart and poking at the mistakes they made in a new project, but if they proceeded to code using strong abstractions and decoupled code. The easiest programmers to fire are the ones who don&#x27;t ship, and the programmers that tend to be the costliest to a business are the ones who ship crap code.",1386112134
+6662193,story,,,0,0,,,,,1386112128
+6662067,story,,,0,0,,,,,1386112125
+6661982,story,,,0,0,,,,,1386112123
+6661815,story,,,0,0,,,,,1386112119
+6661703,story,,,0,0,,,,,1386112116
+6661503,story,,,0,0,,,,,1386112111
+6661454,story,,,0,0,,,,,1386112110
+6661204,story,,,0,0,,,,,1386112104
+6661151,story,,,0,0,,,,,1386112103
+6661032,story,,,0,0,,,,,1386112100
+6661022,story,,,0,0,,,,,1386112099
+666099,story,,,0,0,,,,,1386112099
+666094,story,,,0,0,,,,,1386112097
+666088,story,,,0,0,,,,,1386112096
+6843874,comment,6843676,6843676,18,0,colinbartlett,,,"I&#x27;m so tired of every Tom, Dick, and Harry throwing his hat in the ring to declare Bitcoin worthless. Can&#x27;t we just agree that this is a new thing nobody quite understands and stop making prognostications about it&#x27;s value or lack thereof?<p>Let those of us who are interested in furthering the Bitcoin economy do so unencumbered by pundits.",1386112091
+6660576,story,,,0,0,,,,,1386112089
+6660515,story,,,0,0,,,,,1386112087
+6843873,comment,6843388,6843800,3,0,CJefferson,,,"Probably not, but could put comments in the header?",1386112086
+6660348,story,,,0,0,,,,,1386112083
+6660318,story,,,0,0,,,,,1386112082
+6843872,comment,6843388,6843825,5,0,hashmymustache,,,"+1. Seriously. Is this from circular redirects? faulty browser plugin?",1386112081
+6843871,comment,6841606,6843671,1,0,Strilanc,,,"I&#x27;d consider &quot;nested containment list&quot; a pretty good name, actually. Of course then they abbreviate it to NCList...",1386112080
+6660126,story,,,0,0,,,,,1386112078
+6659950,story,,,0,0,,,,,1386112073
+6659884,story,,,0,0,,,,,1386112072
+6659871,story,,,0,0,,,,,1386112071
+6843870,comment,6842915,6843744,2,0,presidentender,,,"If it&#x27;s a crime, who&#x27;s the criminal?",1386112070
+6659825,story,,,0,0,,,,,1386112070
+6843869,comment,6842915,6843744,2,0,Tzunamitom,,,"I don&#x27;t see why the two are mutually exclusive. Yes, it is a crime that this happened to him, but there are enough media outlets carrying the &quot;Poverty fucking sucks&quot; message. Unfortunately that message is TBU (True But Useless - <a href=\"http://www.fastcompany.com/1514493/switch-dont-solve-problems-copy-success\" rel=\"nofollow\">http://www.fastcompany.com/1514493/switch-dont-solve-problem...</a>).<p>The thing that always strikes me about homelessness is not its remoteness, but rather how it seems that any one of us are only a few unfortunate events and wrong moves away being in the gutter, and how most people feel that it could never happen to them. I find David&#x27;s account brutally honest, enjoyable and yes, uplifting because it shows that there is a real (albeit long and painful) route out of the damning poverty of homelessness, not because of any particularly joyful spin that he puts on his story.<p>Is he making it uplifting because he&#x27;s desperate and he wants people to help him? I don&#x27;t think that&#x27;s the overriding reason, but maybe, who knows? At any rate, if he&#x27;s managed to pull himself so far out of the lows that he&#x27;s able to adopt that strategy rather than just accept a life of homelessness that just happens to him then fair play - he deserves every success he can find.",1386112064
+6659553,story,,,0,0,,,,,1386112064
+6659193,story,,,0,0,,,,,1386112056
+6658970,story,,,0,0,,,,,1386112050
+6843868,comment,6840437,6843455,5,0,kstop,,,"A dick would have stuck it up on Pastebin or wherever it is the kids stick things these days.",1386112047
+6658648,story,,,0,0,,,,,1386112043
+6658592,story,,,0,0,,,,,1386112041
+6658413,story,,,0,0,,,,,1386112037
+6658410,story,,,0,0,,,,,1386112037
+6658392,story,,,0,0,,,,,1386112037
+6843867,comment,6841606,6843263,1,0,Strilanc,,,"I haven&#x27;t read the entire paper, but just based on the abstract it sounds like nested containment lists are for querying what&#x27;s within in a range.<p>In other words, they&#x27;re just like interval trees in that they tell you where things are. Like I mentioned in the post, we want to solve the opposite problem: where things aren&#x27;t.",1386112036
+6658348,story,,,0,0,,,,,1386112035
+6658325,story,,,0,0,,,,,1386112035
+6658290,story,,,0,0,,,,,1386112034
+6658207,story,,,0,0,,,,,1386112032
+6658204,story,,,0,0,,,,,1386112032
+6658110,story,,,0,0,,,,,1386112030
+6658042,story,,,0,0,,,,,1386112028
+6658029,story,,,0,0,,,,,1386112028
+6657879,story,,,0,0,,,,,1386112024
+6657851,story,,,0,0,,,,,1386112023
+6657844,story,,,0,0,,,,,1386112023
+6657738,story,,,0,0,,,,,1386112020
+6657692,story,,,0,0,,,,,1386112019
+6657677,story,,,0,0,,,,,1386112019
+6657666,story,,,0,0,,,,,1386112018
+6657663,story,,,0,0,,,,,1386112018
+6657612,story,,,0,0,,,,,1386112017
+6657311,story,,,0,0,,,,,1386112010
+6657298,story,,,0,0,,,,,1386112009
+6657260,story,,,0,0,,,,,1386112009
+6657213,story,,,0,0,,,,,1386112007
+6657203,story,,,0,0,,,,,1386112007
+6657040,story,,,0,0,,,,,1386112003
+6657024,story,,,0,0,,,,,1386112003
+6657010,story,,,0,0,,,,,1386112003
+6656947,story,,,0,0,,,,,1386112001
+6656910,story,,,0,0,,,,,1386112000
+6656768,story,,,0,0,,,,,1386111997
+6656725,story,,,0,0,,,,,1386111996
+6656720,story,,,0,0,,,,,1386111995
+6843866,comment,6841306,6843598,1,0,praxeologist,,,">I think what you are actually saying is that &quot;intrinsic value&quot; is actually meaningless.<p>No, I mean exactly what I said. Nothing has intrinsic value, ever.<p>>Therefore I propose a definition of &quot;intrinsic value&quot;: something that all entities to whom &quot;value&quot; has meaning universally believe has that quality. For example, oxygen.<p>If I already have many lifetimes&#x27; worth of oxygen for my breathing apparatus, I might have no interest in and place no value upon your stock of oxygen.<p>Maybe the beings in question are some sort of alien life form that live in volcanos and breathe nitrous oxide. The type of error you are making is similar to calling air &quot;superabundant&quot; and then conflating that with &quot;unlimited&quot;.",1386111994
+6656666,story,,,0,0,,,,,1386111994
+6656639,story,,,0,0,,,,,1386111993
+6656572,story,,,0,0,,,,,1386111992
+6656490,story,,,0,0,,,,,1386111990
+6656481,story,,,0,0,,,,,1386111990
+6656480,story,,,0,0,,,,,1386111990
+6656468,story,,,0,0,,,,,1386111989
+6656441,story,,,0,0,,,,,1386111989
+6656316,story,,,0,0,,,,,1386111986
+6656291,story,,,0,0,,,,,1386111985
+6656270,story,,,0,0,,,,,1386111984
+6656248,story,,,0,0,,,,,1386111984
+6843865,comment,6843051,6843051,2,0,hkbarton,,,"Flight Update\nFalcon 9 and SES-8 satellite currently in parking orbit, awaiting second burn. All systems nominal.",1386111983
+6656100,story,,,0,0,,,,,1386111980
+6843864,story,,,2,0,rosser,"Humble Jumbo Bundle",https://www.humblebundle.com/?jumbo,,1386111979
+6655983,story,,,0,0,,,,,1386111977
+6843863,comment,6841783,6841783,7,0,tikhonj,,,"I rather like the idea of &quot;functional first&quot; as a paradigm. It underscores the crucial fact that all the common functional languages (even Haskell) are multiparadigm; they just default to functional programming instead of defaulting to imperative programming the way other &quot;multiparadigm&quot;languages do.",1386111976
+6655924,story,,,0,0,,,,,1386111976
+6655923,story,,,0,0,,,,,1386111976
+6655899,story,,,0,0,,,,,1386111975
+6655858,story,,,0,0,,,,,1386111974
+6655811,story,,,0,0,,,,,1386111973
+6843862,comment,6841858,6843612,1,0,tieTYT,,,"Ah, good to know. Thanks",1386111971
+6655717,story,,,0,0,,,,,1386111971
+6655682,story,,,0,0,,,,,1386111970
+6655642,story,,,0,0,,,,,1386111969
+6655631,story,,,0,0,,,,,1386111969
+6655596,story,,,0,0,,,,,1386111968
+6655566,story,,,0,0,,,,,1386111967
+6655551,story,,,0,0,,,,,1386111967
+6655508,story,,,0,0,,,,,1386111966
+6655499,story,,,0,0,,,,,1386111966
+6843860,comment,6843457,6843853,4,0,MIT_Hacker,,,"I&#x27;ll have to disagree haha. What&#x27;s the point in putting in more effort?<p>Telescope took me a solid 15 mins at most to get running and I can test this &quot;MVP&quot;",1386111962
+6655243,story,,,0,0,,,,,1386111959
+6654990,story,,,0,0,,,,,1386111953
+6654912,story,,,0,0,,,,,1386111951
+6843858,comment,6843051,6843738,3,0,double051,,,"It&#x27;ll have to go over 7km/s to reach low Earth orbit, and even faster still to complete it&#x27;s mission to the geostationary satellite belt.<p><a href=\"http://en.wikipedia.org/wiki/Geostationary_orbit\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Geostationary_orbit</a>",1386111947
+6654580,story,,,0,0,,,,,1386111943
+6843857,comment,6843052,6843052,1,0,DustinCalim,,,"> All companies that grow really big do so in only one way: people recommend the product or service to other people.<p>Yeah, I recommend all my friends to get Exxon gas and buy GE lightbulbs...<p>There are some things essential to us(inelastic), and those are the things where we&#x27;ll see really big changes-- Invent things that everyone uses all of the time, not something that some people use some of the time.",1386111942
+6843856,comment,6841974,6841974,5,0,stcredzero,,,"One serious concern I have with polyphasic sleep is the suppression of pineal gland secretions like melatonin from exposure to blue/green light. 470mn is the most potent frequency (looks like &quot;sky blue&quot; to me) though humans have shown some sensitivity to frequencies as high as 505nm. What&#x27;s more, humans have shown sensitivity to intensities as low as 0.5 lumens. (Especially for prolonged exposures. That sliver of light coming underneath your door? Bad.)<p>What this means: If you are doing computer work at night, you are probably messing up your circadian rhythm and endocrine system. This is true, even if you have installed software like f.lux.<p>Note: We have done research into melatonin levels, but there are other pineal secretions that are probably affected the same way. The receptors involved are not the ones used for sight. Also note that we uncovered that the deepest phases of sleep are involved in actually removing certain materials from your brain!<p>Do not mess with sleep! (Disclosure: I am currently developing an iPhone app that will help evaluate the presence of melatonin suppressing light in your environment.)",1386111942
+6843855,story,,,5,1,devdazed,"Why we use D3 and Ember for Data Visualization",http://simplereach.com/blog/why-use-d3-ember-for-data-visualization/,,1386111938
+6654233,story,,,0,0,,,,,1386111935
+6843854,comment,6842697,6843785,1,0,nadaviv,,,"I&#x27;m working on that! See my other comment, <a href=\"https://news.ycombinator.com/item?id=6843655\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6843655</a><p>Edit: Also, for now, I&#x27;m hoping that it&#x27;ll take place off the website, possibly over Reddit (which have a pretty active Bitcoin community). I opened an r/bitrated subreddit for possible future use, but it seems like r/bitcoin aren&#x27;t very excited about this project [1] for now...<p>[1] <a href=\"http://www.reddit.com/r/Bitcoin/comments/1s0myx/bitrated_bitcoin_mofn_arbitrated_transactions/\" rel=\"nofollow\">http://www.reddit.com/r/Bitcoin/comments/1s0myx/bitrated_bit...</a>",1386111932
+6654004,story,,,0,0,,,,,1386111930
+6653641,story,,,0,0,,,,,1386111921
+6653581,story,,,0,0,,,,,1386111919
+6653458,story,,,0,0,,,,,1386111916
+6653308,story,,,0,0,,,,,1386111913
+6653253,story,,,0,0,,,,,1386111911
+6652878,story,,,0,0,,,,,1386111902
+6843853,comment,6843457,6843457,2,0,timthimmaiah,,,"Not to be a hater, I think it&#x27;s a cool idea, but spinning up Telescope on a server isn&#x27;t really &#x27;making&#x27; something. At least change the css or something (eg. <a href=\"http://www.hackb.io/\" rel=\"nofollow\">http://www.hackb.io/</a>)",1386111899
+6843852,comment,6841577,6841577,2,0,asibehar,,,"As head of SW Engineering for that video company offering the rev split, I just wanted to point out that the Eepybird video linked earlier in the article (Diet Coke and Mentos fountain), actually launched exclusively on Revver and financial reward was one of the big motivations for their decision to release it on Revver instead of Youtube. In fact, they filed numerous DMCA takedowns for all the unauthorized uploads to Youtube. There are numerous other examples of the same occurring with other creators.<p>While I do agree that financial motivations are usually less compelling than social and ego-driven motivators, there are times in an industry&#x27;s evolution where they do matter, especially in trying to establish a new professional class.  Would Lyft, Sidecar, and UberX drivers exist for fame and glory alone?<p>Revver was about a lot more than the just the rev-split - we were building an open network that rewarded video creators for their efforts and sought to let them to make a living performing the craft they loved.",1386111892
+6843850,comment,6838917,6838917,1,0,freefrancisco,,,"The diagonalization argument has always bothered me, this is why.<p>Countable sets are shown to be countable by providing a mapping between the natural numbers and that set.  Uncountable sets are shown to be uncountable by assuming they are and creating a new element from the set of all elements and showing that it was not accounted for in the first place.<p>But what happens when we try to use the mapping argument on the set of the reals, and the contradiction argument in the set of the integers?<p>For the countability of the reals, I can setup a binary tree of infinite depth with 0 on the left and 1 on the right.  I then do a depth first walk of the tree and assign an integer to each of the nodes.  Then the sequence of 0s and 1s from the root of the tree to any node we care to go to represents a binary number between 0 and 1 if we treat it as a binary fraction like he does in theorem 16.  So any number we care to go down to in the binary tree can be assigned a natural number, and since the binary tree is infinite it can go down to any real number.  So according to this argument the reals are countable.<p>Now for the diagonalization-like argument for incountability of the natural numbers.  Assume the positive even numbers are countable, and that we have a list of all the even numbers assigned to a natural number.  I can create a new even number by adding all of the numbers in the list, since all the numbers are positive, each number is smaller than the sum of all of the numbers on the list, so the number is not on the list, and we have to conclude that our assumption was wrong, and that the even numbers are uncountable.<p>If the first argument is wrong, why is it wrong for the reals but not wrong for the naturals?  And if the second argument is wrong, why is it wrong for the naturals but not wrong for the reals?",1386111889
+6843849,story,,,1,0,chaimchuck,"Branded Content Moves the Needle",http://www.adweek.com/news/press/branded-content-moves-needle-forbes-153299,,1386111880
+6843848,comment,6842654,6842654,0,0,LetMeListen,,,"People need to get over themselves. The TSA are normal high school graduates that want a higher paid than 7.25hr. Let them work and stop getting butt-hurt when someone touches your genitals, in my world that usually constitutes for a good day.",1386111879
+6651762,story,,,0,0,,,,,1386111876
+6651621,story,,,0,0,,,,,1386111872
+6843847,story,,,2,0,RougeFemme,"You are the query: Yahoo's bold quest to reinvent search",http://news.cnet.com/8301-1023_3-57613601-93/you-are-the-query-yahoos-bold-quest-to-reinvent-search/,,1386111871
+6843846,comment,6843801,6843801,1,0,nodata,,,"<i>The program has a limited scope for now, because these subdomains are the high priority areas to make Prezi more secure for our users.</i><p>How is their source code repo not a high priority to make Prezi secure?",1386111871
+6651308,story,,,0,0,,,,,1386111865
+6651279,story,,,0,0,,,,,1386111864
+665126,story,,,0,0,,,,,1386111863
+6651166,story,,,0,0,,,,,1386111861
+6651105,story,,,0,0,,,,,1386111860
+6651060,story,,,0,0,,,,,1386111859
+6650860,story,,,0,0,,,,,1386111854
+6650848,story,,,0,0,,,,,1386111854
+6650839,story,,,0,0,,,,,1386111853
+6650807,story,,,0,0,,,,,1386111853
+6650746,story,,,0,0,,,,,1386111851
+6650732,story,,,0,0,,,,,1386111851
+6650703,story,,,0,0,,,,,1386111850
+6650591,story,,,0,0,,,,,1386111847
+6650368,story,,,0,0,,,,,1386111842
+6650248,story,,,0,0,,,,,1386111839
+6650124,story,,,0,0,,,,,1386111836
+6650100,story,,,0,0,,,,,1386111835
+6650082,story,,,0,0,,,,,1386111835
+6650065,story,,,0,0,,,,,1386111835
+6650029,story,,,0,0,,,,,1386111834
+6843845,comment,6841759,6841759,2,0,jheriko,,,"&quot;if we could build a service which was better than piracy, then we could convince people to stop illegal file-sharing, and start consuming music legally again&quot;<p>this is exactly the right attitude. i&#x27;ve been &#x27;selling&#x27; this for years as my reason for piracy - its just easier. spotify absolutely killed that for me. it really is more convenient...<p>i do wish existing businesses in that area would look and learn instead of lobbying and abusing legislation to try and keep hold of a business model that died years ago... (or publishers trying to convince their artists that Spotify is ripping them off rather than /them/)",1386111833
+6649999,story,,,0,0,,,,,1386111833
+6649920,story,,,0,0,,,,,1386111831
+6843844,comment,6843388,6843388,2,0,hk__2,,,"I’m currently doing a school project in C and we wrote a shell script to check every source file for these insecure functions. It displays a warning and suggest you a more secure alternative function.",1386111829
+6649825,story,,,0,0,,,,,1386111829
+6649706,story,,,0,0,,,,,1386111826
+6649695,story,,,0,0,,,,,1386111826
+6649362,story,,,0,0,,,,,1386111818
+6649357,story,,,0,0,,,,,1386111818
+6649218,story,,,0,0,,,,,1386111814
+6649046,story,,,0,0,,,,,1386111810
+6843843,comment,6842697,6842697,0,0,oleganza,,,"Bitcoin has no value because deflationary spiral.<p>Seriously, nice work!",1386111809
+6648968,story,,,0,0,,,,,1386111808
+6648910,story,,,0,0,,,,,1386111807
+6648693,story,,,0,0,,,,,1386111802
+6843842,comment,6842186,6842541,2,0,nknighthb,,,"Going to a UPS, FedEx, or USPS location to get a package can easily kill the better part of an hour just doing it, nevermind the wider effects of any interruption.<p>Meanwhile, one delivery guy can probably handle 10+ deliveries an hour. One guy can easily save us a work-week every night.<p>The guy who delivers lunch to a company can be delivering the lunch of 100+ people every day. Even if it only saves 10 minutes per person, he&#x27;s just saved 16 man-hours.<p>What does it take to qualify as &quot;important&quot; to you?",1386111798
+6648530,story,,,0,0,,,,,1386111798
+6648413,story,,,0,0,,,,,1386111795
+6648058,story,,,0,0,,,,,1386111786
+6843841,comment,6843052,6843511,3,0,8_hours_ago,,,"My experience with government contracts differs from that. Most of the contracts we get are because we have worked with the Contracting Officer previously and had done good work, or were introduced to them by a mutual contact. Of course that&#x27;s just my experience, and one anecdote does not make good data.",1386111785
+6647914,story,,,0,0,,,,,1386111783
+6647850,story,,,0,0,,,,,1386111781
+6647654,story,,,0,0,,,,,1386111776
+6647528,story,,,0,0,,,,,1386111773
+6843840,comment,6843465,6843796,4,0,DanBC,,,"Is this parody?<p>I genuinely don&#x27;t know.  Often I feel like I&#x27;m reading The Onion, only it&#x27;s true.",1386111772
+6647324,story,,,0,0,,,,,1386111768
+6843839,comment,6843070,6843524,4,0,im3w1l,,,"No most of steg is actually even worse then that: append text/rar to end of other file (many formats are tolerant to extra data at end).",1386111761
+6646563,story,,,0,0,,,,,1386111750
+6646503,story,,,0,0,,,,,1386111749
+6843838,comment,6840430,6843008,0,0,bnolsen,,,"So what you are saying is that the bill of rights itself lays out a recipe which tells polticians what to start regulating and limiting to get themselves more power to turn the US into a tyrrany.  The excuse is that since it&#x27;s in the constitution the government can regulate it, even though it it stated otherwise.",1386111747
+6646054,story,,,0,0,,,,,1386111738
+6646041,story,,,0,0,,,,,1386111738
+6645899,story,,,0,0,,,,,1386111734
+6843837,comment,6841759,6842387,2,0,soci,,,"70% royalty share was imposed by the majors to Spotify. Just because this was the model used by physical stores and it&#x27;s how the industry works. They didn&#x27;t change the revenue split model.<p>One of the problems here is that there are many middlemen involved between the artist and Spotify. The label, the manager, the aggregator. Everyone gets his piece.<p>Also, there is problem regarding how much it takes for an artist to get the same from Spotify than they used to get from a song sold from a service like iTunes. Some artists claim that a song has to be listened up to 60 times in a streaming service in order to the same as a song sold in a digital music store. And here there comes the big issue. Have you ever listened 60 times to a song you buy in iTunes.",1386111727
+6645480,story,,,0,0,,,,,1386111724
+6645458,story,,,0,0,,,,,1386111723
+6645355,story,,,0,0,,,,,1386111720
+6843835,comment,6841557,6842911,1,0,BlackDeath3,,,"If all you&#x27;re looking to do is simple stuff (like get a rectangle on the screen), shaders are not required, correct?",1386111719
+6645267,story,,,0,0,,,,,1386111718
+6645244,story,,,0,0,,,,,1386111718
+6645127,story,,,0,0,,,,,1386111715
+6843834,comment,6841858,6842963,1,0,robertha,,,"It&#x27;s a great product, unfortunately (for us) the price has been steadily rising. When I first signed up it was $20/month for everything now I think it&#x27;s $40/month.",1386111709
+6644871,story,,,0,0,,,,,1386111708
+6644841,story,,,0,0,,,,,1386111708
+6644814,story,,,0,0,,,,,1386111707
+6644808,story,,,0,0,,,,,1386111707
+6644790,story,,,0,0,,,,,1386111706
+6644779,story,,,0,0,,,,,1386111706
+6644752,story,,,0,0,,,,,1386111706
+6843833,comment,6843667,6843667,1,0,magicalhobo,,,"I have a lot of ideas for new features, but I&#x27;d like to know what other people think.<p>Does anything jump out as an obvious next feature?",1386111704
+6644704,story,,,0,0,,,,,1386111704
+6644674,story,,,0,0,,,,,1386111704
+6644660,story,,,0,0,,,,,1386111703
+6644645,story,,,0,0,,,,,1386111703
+6644500,story,,,0,0,,,,,1386111699
+6644450,story,,,0,0,,,,,1386111698
+6644423,story,,,0,0,,,,,1386111697
+6644385,story,,,0,0,,,,,1386111697
+6843831,comment,6843509,6843639,10,0,DanAndersen,,,"I found it useful to use Chrome&#x27;s USB API to create a viewer to connect the Oculus Rift with remotely-hosted WebGL apps: <a href=\"https://github.com/DanAndersen/cupola\" rel=\"nofollow\">https://github.com/DanAndersen/cupola</a><p>It lets me feed in head-tracking data from the Rift, while avoiding the latency that you&#x27;d get from using something like WebSockets. I&#x27;d use something like vr.js, but that&#x27;s an NPAPI plugin and Chrome is retiring those.<p>Unfortunately Windows-only (and maybe Linux with some adjustment) so far, since the USB API doesn&#x27;t yet properly work with HID devices on OSX.",1386111695
+6644261,story,,,0,0,,,,,1386111694
+6644229,story,,,0,0,,,,,1386111693
+6644217,story,,,0,0,,,,,1386111692
+6644035,story,,,0,0,,,,,1386111688
+6644028,story,,,0,0,,,,,1386111688
+6643883,story,,,0,0,,,,,1386111684
+6843829,comment,6841557,6843328,2,0,tehwebguy,,,"Asking for qualifications isn&#x27;t the same as asking for evidence",1386111682
+6643800,story,,,0,0,,,,,1386111682
+6643570,story,,,0,0,,,,,1386111676
+6643327,story,,,0,0,,,,,1386111671
+6643234,story,,,0,0,,,,,1386111668
+6643078,story,,,0,0,,,,,1386111664
+6643002,story,,,0,0,,,,,1386111663
+6642988,story,,,0,0,,,,,1386111662
+6642976,story,,,0,0,,,,,1386111662
+6642962,story,,,0,0,,,,,1386111662
+6642853,story,,,0,0,,,,,1386111659
+6642714,story,,,0,0,,,,,1386111656
+6642522,story,,,0,0,,,,,1386111651
+6642458,story,,,0,0,,,,,1386111649
+6642369,story,,,0,0,,,,,1386111647
+6642363,story,,,0,0,,,,,1386111647
+6843828,comment,6842697,6843156,2,0,smokeyj,,,"Looks like you&#x27;re using bootstrap. Might want to check out <a href=\"https://wrapbootstrap.com/\" rel=\"nofollow\">https://wrapbootstrap.com/</a>",1386111646
+6642337,story,,,0,0,,,,,1386111646
+6642255,story,,,0,0,,,,,1386111644
+6642240,story,,,0,0,,,,,1386111644
+6641948,story,,,0,0,,,,,1386111637
+6641923,story,,,0,0,,,,,1386111636
+6641901,story,,,0,0,,,,,1386111636
+6641760,story,,,0,0,,,,,1386111632
+6641712,story,,,0,0,,,,,1386111631
+6641632,story,,,0,0,,,,,1386111629
+6641584,story,,,0,0,,,,,1386111628
+6641540,story,,,0,0,,,,,1386111627
+6641527,story,,,0,0,,,,,1386111626
+6641498,story,,,0,0,,,,,1386111626
+6641416,story,,,0,0,,,,,1386111624
+6641216,story,,,0,0,,,,,1386111619
+6641163,story,,,0,0,,,,,1386111618
+6843827,comment,6842186,6843736,1,0,zackbloom,,,"You can send push notifications from websites now: <a href=\"https://developer.apple.com/library/mac/documentation/NetworkingInternet/Conceptual/NotificationProgrammingGuideForWebsites/PushNotifications/PushNotifications.html#//apple_ref/doc/uid/TP40013225-CH3-SW1\" rel=\"nofollow\">https://developer.apple.com/library/mac/documentation/Networ...</a>",1386111617
+6641097,story,,,0,0,,,,,1386111616
+6641005,story,,,0,0,,,,,1386111614
+6843826,comment,6843052,6843625,1,0,jmduke,,,"This doesn&#x27;t really contradict your point, but I was more thinking about the arc from &#x27;small to huge&#x27;, not the arc from &#x27;huge to ginormous&#x27; -- after all, how did Vanguard become the leader in the space?  Honda competed on price and efficiency to secure government industrial contracts; for Vanguard&#x27;s first five years its only investors were institutional[^1], where their success laid much more in being a (massively successful) niche fund that no other firm offered than having any household success.<p>Other commenters have argued that repeated success in an RFP environment comes from reputation (and thus word-of-mouth), but I think that&#x27;s stretching too far from the original thrust of the article.<p>[^1]  I read this in a book but Wikipedia says that its first index fund in 1976, was available to individual investors, so I&#x27;m not 100% on this.",1386111612
+6640831,story,,,0,0,,,,,1386111610
+6640828,story,,,0,0,,,,,1386111610
+6640788,story,,,0,0,,,,,1386111608
+6843825,comment,6843388,6843388,66,0,MBlume,,,"Somewhat off-topic, but I can&#x27;t use my back-button to get off this page.<p>Can we please, please stop breaking shit that worked just fine in &#x27;95?<p><a href=\"http://motherfuckingwebsite.com/\" rel=\"nofollow\">http://motherfuckingwebsite.com/</a>",1386111606
+6640627,story,,,0,0,,,,,1386111604
+6640536,story,,,0,0,,,,,1386111602

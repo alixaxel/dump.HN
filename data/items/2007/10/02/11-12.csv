@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+62009,story,,,2,0,iamelgringo,"Database Management Systems: The end of an architectural era (MIT paper)",http://www.highscalability.com/paper-end-architectural-era-it-s-time-complete-rewrite,"The paper goes through how databases should be written with modern CPU, memory, and network resources. It's a fun an interesting read. Well worth your time.<p>",1191325846
+62008,comment,61831,61994,0,0,joe_fishfish,,,"Are you talking about Vitalic, by any chance?",1191325676
+62007,comment,62005,62005,0,0,djonesx,,,"The sky is falling!!!\n",1191325653
+62006,comment,61610,61705,0,0,fauigerzigerk,,,"Is there a reasonably mature web framework for SBCL?",1191325197
+62005,story,,,2,5,sabhishek,"YCNews down?",,"I was not able to access YC since last 1 hr. Was it a planned downtime?",1191325142
+62004,comment,61831,61988,0,0,agranig,,,"Then you should try <a href=""http://wazee.org/"" rel=""nofollow"">http://wazee.org/</a> as streaming radio.",1191324889
+62003,comment,61683,61913,0,0,dpapathanasiou,,,"Thanks, I tried to find the right balance between enough content and over-filling the page.<p>Still, it's intended to be <i>more</i> than just a simple feed reader.<p>The recommendations system (only <i>ahem</i> slightly behind schedule), based on a system of shared inputs, is what will really make it stand out (or not).\n",1191324712
+62002,comment,61831,61831,0,0,apgwoz,,,"Punk/Hardcore (bands like Bane, Paint it Black, Modern Life is War, Good Clean Fun, Minor Threat, Gorilla Biscuits) mostly, with some Pink Floyd and Violent Femmes thrown in there for good measure.",1191324686
+62001,comment,61901,61901,0,0,pg,,,"If your answers are less than 120 words that's fine.  ",1191324292
+62000,story,,,1,1,catalinist,"SEOS : The Card Counters of the Internet",http://www.johnon.com/399/google-las-vegas.html,"Google is the casino. Google gives us free stuff, and provides the entertaining environment - the web as Las Vegas. YouTube, Picassa, Google News.. they are the pirate ship, the fountain show, the fake Paris streets of Las Vegas.",1191324277

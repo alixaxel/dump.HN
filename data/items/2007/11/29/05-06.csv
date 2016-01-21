@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+84556,story,,,4,0,pius,"In Eastern Europe, P2P transmissions account for 95 percent of Internet traffic at night",http://arstechnica.com/news.ars/post/20071128-nocturnal-p2p-transmissions-account-for-95-percent-of-internet-bandwidth.html,,1196315463
+84555,comment,84362,84362,0,0,jsomers,,,"It gave my location to within a few blocks. In a small town without a car, though, ""a few blocks"" is significant. Not obviously useful to me, yet.",1196315248
+84554,comment,84547,84547,0,0,nickb,,,"The more you learn about Zuck, the more you start to dislike the guy :(",1196314901
+84553,story,,,8,1,nickb," Facebook's Billion Dollar Valuation Hinges On Apathy.  *Our* Apathy.",http://www.deepjiveinterests.com/2007/11/25/facebooks-billion-dollar-evaluation-hinges-on-apathy-our-apathy/,,1196314863
+84552,comment,84525,84525,0,0,jwp,,,"My intuition says it's not possible to get 1 without destroying the ability to get 2, or vice versa.  But I'm no expert.  The solution that leaps to my mind is to use a locality-sensitive hash function.  It would make search stochastic, which means reversing the encoding would be easier.  Seems like any hash-based solution will involve a tradeoff between 1 and 2.<p>What did you have in mind?  ",1196314663
+84551,comment,84410,84530,0,0,SamReidHughes,,,"It isn't memoizing anything here.  If it were memoizing, do you think it would take 0.48 seconds?  Laziness is not the same thing as memoization of function arguments.",1196314580
+84550,story,,,1,0,rms,"Upload high quality videos to Youtube",http://forum.videohelp.com/topic336882.html,,1196314419
+84549,comment,84448,84448,0,0,eugenejen,,,"I have to agree with him on that. I joked to my mother before that: the East Asians culture takes failures as disgrace and encourage ""Failure is not optional"" mindset, but U.S. culture takes it more lightly and as long as one can learn from mistakes and not cover them up. That's why high tech inventions are mostly happens in U.S.\n",1196314329
+84548,comment,84410,84520,0,0,SamReidHughes,,,"What gives you the idea that Haskell implicitly memoizes functions?<p>And it obviously isn't memoizing.  If the function were memoized, the timing would be much, much less than 0.48 seconds.",1196314317
+84547,story,,,23,20,paulgb,"How Zuckerberg ""hacked"" the residence networks to build his photo database. (Scroll down)",http://www.scribd.com/doc/531743/1140,,1196313014
+84546,comment,84386,84516,0,0,HiddenBek,,,"Google, EBay and Amazon, to name three.",1196312555

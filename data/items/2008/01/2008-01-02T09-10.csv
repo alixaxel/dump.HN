@@ -1,3 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-94254,story,,,12,3,immad,"Disqus on Fake Steve Jobs blog",http://fakesteve.blogspot.com/2008/01/testing.html,,1199267914
-94253,story,,,1,0,andrewfong,"Ask YC: Javascript, memory usage",,"Is there a rough rule of thumb for what's a reasonable amount of memory for your Javascript to be using? My worst case scenario is a six year old laptop with running XP / IE6.<p>On a related note, any recommendations for how to avoid memory leaks in Javascript? I understand how they occur but was wondering if anyone was using any frameworks and had any best practices to keep them from forgetting to unhook event handlers and whatnot.",1199266319

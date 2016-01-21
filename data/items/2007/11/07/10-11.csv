@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+76965,story,,,8,4,nreece,"Five reasons why iPhone is still the best thing invented this year","http://www.time.com/time/specials/2007/article/0,28804,1677329_1678542_1677891,00.html",,1194433025
+76964,comment,76541,76840,0,0,DanielBMarkham,,,"Looks awesome! If I wasn't trying to pick up OCaml and F# right now I'd jump on it -- one of the problems I'm facing is a lack of good texts. Would be very interested in your opinion of the book and Lisp, especially coming from a C# (like me) background.",1194432829
+76963,comment,76870,76870,0,0,davidw,,,"Ok, I admit it, I'm a programming language geek:-)",1194432136
+76962,story,,,2,0,lkozma,"Public Transport in Helsinki",http://transport.wspgroup.fi/hklkartta/,,1194430550
+76961,story,,,3,2,terpua,"Interview with Mohammad Yunus (micro-entrepreneurs)",http://edition.cnn.com/2007/WORLD/asiapcf/11/05/talkasia.yunus/index.html?iref=newssearch,,1194430523
+76960,story,,,3,2,thinkingserious,"Build A Reverse Ebay Style Business Using the ThemBid.com Engine",http://digigen.wordpress.com/2007/11/07/20-minutes-with-elmer-thomas-founder-of-thembid/,"In this interview, Elmer Thomas, CEO of ThemBid.com announces a White Label version of ThemBid.com.",1194430450
+76959,story,,,3,0,terpua,"How a Startup Inspired HP's Print 2.0 Strategy",http://www.readwriteweb.com/archives/hp_print_20_tabblo.php,,1194430121

@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-23368,story,,,5,14,Sam_Odio,"YC competitor: how TechStars was born",http://www.denverpost.com/business/ci_5933462,,1179647801
-23367,story,,,1,0,ivan,"Looking for co-founder/co-worker to create site with people's resumes as an additon to jobitems.com",,,1179646956
-23366,comment,23354,23354,0,0,ivan,,,"Oh these Levys and other jews :)",1179646367
-23365,comment,23300,23300,0,0,ivan,,,"Learn ruby and/or python and C for low levels and/or create extensions for those two. ",1179645781
-23364,comment,23300,23308,0,0,davidw,,,"Excellent list, and pretty much precisely what I would have posted with a few very minor tweaks: Ruby and Python are nearly interchangeable.  Time is limited, so have a look at both and pick which one you like.  Tcl is also a neat language in some ways - it's even better for DSL's than Ruby is, and has the lisp like property that you can create your own control structures.<p>Anyway, jaggederest's list is pretty much <i>the list</i> to learn if you want a broad overview.",1179645512

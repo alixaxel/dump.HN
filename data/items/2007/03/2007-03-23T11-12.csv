@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-5912,story,,,5,0,sharpshoot,"Joyent Slingshot: Allows you to port rails applications which converge between the web and the desktop ",http://joyeur.com/2007/03/22/joyent-slingshot,,1174650157
-5911,comment,5910,5910,0,0,veritas,,,"I looked at their site (Slingshot) and although the framework seems interesting, there's a catch.  To use it free you have to host on their ""Joyent Accelerators.""  Bah... no thanks.  I'll just Apollo or XUL.",1174649439
-5910,story,,,3,1,veritas,"Apollo's Competition",http://www.techcrunch.com/2007/03/23/here-comes-competition-apollo/,,1174649308

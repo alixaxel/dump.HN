@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-1444,comment,1321,1331,0,0,brett,,,"isn't part of the whole point that the thing scales up or down as you need it to? so, yeah, if you know up front what kind of constant bandwidth/storage/cpu load you are going to need then you're in a really good position to shop around for a better deal.",1172620633
-1443,comment,1313,1313,0,0,palish,,,"Now I'm interested to know what it was.",1172620281
-1442,story,,,2,0,AlfredNgeno,"To VC or Not to VC? That is the Question...",http://advisorgarage.wordpress.com/2007/01/16/to-vc-or-not-to-vc-that-is-the-question/,,1172619841
-1441,comment,1338,1338,0,0,papersmith,,,"I'm leaning toward Rails because I've been using it since its early stage.  I also wrote stuffs in Django just out of curiosity, and it feels just as good.  I think they're both highly productive environments, and with the time it takes to read all the comparison articles, we could've written entire apps.",1172619105

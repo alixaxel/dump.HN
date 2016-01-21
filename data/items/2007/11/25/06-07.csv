@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83297,comment,82949,83037,0,0,herdrick,,,"When an employment relationship is a bigger commitment, employers are much more hesitant to hire.  ",1195973974
+83296,comment,83291,83295,0,0,rokhayakebe,,,"thanks. ",1195973425
+83295,comment,83291,83291,0,0,aaroneous,,,"Use Flash + Flash Media Server",1195972981
+83294,comment,83196,83196,0,0,mynameishere,,,"<i>About half the bugs I've seen were caused either by poor variable naming or single entry/single exit violations</i><p>I honestly can't remember seeing a bug caused by either. Sorry. Obviously, experiences vary quite a bit in this respect. From what I've seen, the most common causes of bugs are:<p>1. Off-by-one errors.\n2. Platform incompatibility.\n3. Allocation issues (C/C++)\n4. Shared state problems.\n5. Not releasing/closing resources.<p>Function returns? Variable names? They just don't figure.",1195971797
+83293,comment,83242,83242,0,0,aston,,,Skip<p>two<p>lines.,1195971741
+83292,comment,83162,83162,0,0,aston,,,"I like the term a lot. However, popup blocking is actually a real feature since sometimes you want to block popups and sometimes you don't. Designing a system that makes sorting out allowed vs. disallowed in a user friendly way is non-trivial and is in fact a feature of a browser. It's especially a feature if enabling means, as it did for the Internet Explorer team, going back and changing old functionality to allow for blocking.",1195971387
+83291,story,,,3,3,rokhayakebe,"How to capture audio from the browser? ",,"Can this be done from the server without a browser plugin?",1195971216
+83290,story,,,7,6,nickb,"Follow Up To The Viral Video Post: Dan Wants Another Word",http://www.techcrunch.com/2007/11/24/follow-up-to-the-viral-video-post-dan-wants-another-word/,,1195970476

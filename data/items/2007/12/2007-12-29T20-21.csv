@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-93525,story,,,1,0,kradic,"New ""biochips"" to replace animal testing",http://www.technologyreview.com/Biotech/19984/,,1198961314
-93524,comment,93445,93445,0,0,davidu,,,"That equity stake is appropriate.",1198959579
-93523,comment,93515,93515,0,0,mattmaroon,,,"He's neglecting the fact that it's irrelevant, as DVD sales matter more nowadays.",1198959274
-93521,comment,93216,93460,0,0,Xichekolas,,,"Ahhh, I tried that, but apparently it doesn't work if you do it on the first line. So here it is, not on the first line.<p><pre><code>  def return_three_values
-    ""1,2,3"".split(',')
-  end
-  a, b, c = return_three_values</code></pre>",1198958694

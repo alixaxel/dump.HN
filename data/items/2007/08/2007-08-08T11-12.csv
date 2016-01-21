@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-40473,comment,40222,40222,0,0,vikram,,,"lisp + javascript
-",1186573959
-40472,story,,,40,24,terpua,"Age and the entrepreneur, part 1: Some data",http://blog.pmarca.com/2007/08/age-and-the-ent.html,,1186572413
-40471,story,,,4,0,terpua,"Spock Open Public Beta",http://www.techcrunch.com/2007/08/08/spock-open-public-beta-make-your-favorite-top-10-list/,,1186572281
-40470,story,,,5,0,terpua,"The Fascination With ToDo Lists Continues",http://www.techcrunch.com/2007/08/08/the-fascination-with-todo-lists/,,1186572237
-40469,comment,40402,40402,0,0,antirez,,,"Another work in progress tool to work together: a shared todo list + calendar application at <a href=""http://tudulist.com"" rel=""nofollow"">http://tudulist.com</a><p>It is not really a startup or something like this, some week ago I finished to write the Ruby framework we are using in our company to develop web apps and I needed to test it a bit so I started writing this application that ended being good enough to be put online.<p>I'm continuing the development because at this point we are using it as a tool in my company and other companies of our friends are using this too. Feel free to try it and give suggestion now that it's the initial stage of development and there is a lot of room to change things.",1186572043

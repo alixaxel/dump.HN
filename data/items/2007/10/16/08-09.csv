@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+68443,story,,,1,0,mqt,"The Ugliest Products in Tech History","http://www.pcworld.com/article/id,137988/article.html",,1192524260
+68442,story,,,4,2,alx,"Making a picture website from Picurls.com",http://www.catonmat.net/blog/making-of-picurls-popurls-for-pictures-part-two/,"PHP + Smarty + SQLite, including source code",1192522750
+68441,story,,,1,0,danw,"CSS Vertical Bar Graphs",http://meyerweb.com/eric/css/edge/bargraph/demo-table.html,,1192522341

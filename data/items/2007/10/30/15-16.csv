@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+74232,comment,73906,73906,0,0,cglee,,,"Reminds me of the adage ""wise men never claim to be wise"" (paraphrasing)...",1193759892
+74231,story,,,2,0,limeade,"Low Buzz May Give Mice Better Bones and Less Fat",http://www.nytimes.com/2007/10/30/health/research/30bone.html?ex=1351483200&en=825365026130f0ce&ei=5090&partner=rssuserland&emc=rss,,1193759848
+74230,comment,74224,74224,0,0,aston,,,"Welcome to some time last week right after everyone read the news articles that made this distinction clear.",1193759567
+74229,comment,74219,74223,0,0,pg,,,"People listen to Woz because he's smart.",1193759521
+74228,comment,74219,74223,0,0,aston,,,"While it's true that Woz isn't doing much of anything right now, he's at least voicing opinions that are widely held and he represents ""the old Apple"" (that is, whatever Apple should become).",1193759396
+74227,comment,74215,74215,0,0,pixcavator,,,"And the conclusion is, God was a hacker?",1193759380
+74226,comment,74174,74176,0,0,pg,,,"Trying (successfully) to decrease mortality goes back to the 18th century.",1193759371
+74225,comment,74210,74210,0,0,jsjenkins168,,,"This is really evil. Apple needs to realize that people use the Java JDK for purposes other than writing enterprise Java applications. Some run Python code above the JVM (Jython), for example. I use it to compile Java syntax to native javascript using GWT. <p>Bad move Apple.\n",1193759322
+74224,story,,,1,2,mudge,"Microsoft Didn't Buy Facebook",http://nickmudge.info/?post=68,,1193759199
+74223,comment,74219,74219,0,0,far33d,,,"I don't get it... Steve raises Apple from the dead, creates a whole new genre of movies (3D animation) and continues to innovate. Woz quit while he was ahead, shouts from the sidelines, and everyone listens to him? <p>I don't see HIM building anything. ",1193759181
+74222,comment,74096,74199,0,0,muriithi,,,"Try Turbocash (www.turbocash.net). It is open source and done in Delphi 7 but quite stable. I am doing one in python and wxpython but I am not done yet.",1193759117
+74221,comment,74105,74143,0,0,tocomment,,,"Agreed.  I don't think they ""get it"".",1193759076
+74220,comment,73512,73530,0,0,DXL,,,"You're awesome. I indeed missed it at the top bar or as autodetectable.",1193758578
+74219,story,,,15,11,nickb,"Woz raps on Apple for lower ideals, locked iPhone, less innovative UI ",http://www.engadget.com/2007/10/29/woz-raps-on-apple-for-lower-ideals-locked-iphone-less-innovati/,,1193758567
+74218,story,,,5,0,nickb,"People Are Human-Bacteria Hybrid ",http://www.wired.com/medtech/health/news/2004/10/65252,,1193758544
+74217,story,,,1,0,nickb,"If It Is Not Simple, It Is Wrong",http://freeshells.ch/~revence/simple.txt,,1193758472
+74216,comment,74082,74082,0,0,seren6ipity,,,"This is how the ""Serene"" phone looks - <a href=""http://www.bang-olufsen.com/page.asp?id=54&bhcp=1"" rel=""nofollow"">http://www.bang-olufsen.com/page.asp?id=54&bhcp=1</a><p>Some other pics - \n<a href=""http://www.infosyncworld.com/phones/bang_&_olufsen_serene.html?n=1"" rel=""nofollow"">http://www.infosyncworld.com/phones/bang_&_olufsen_seren...</a>",1193758441
+74215,story,,,5,1,nickb,"How to evolve a watch",http://scienceblogs.com/pharyngula/2007/10/how_to_evolve_a_watch.php,,1193758398
+74214,comment,73972,74151,0,0,ijoshua,,,"""But I think they're inherently slower for things like reporting.""<p>I wouldn't say the deficiency is _inherent_, but the powerful indexing ability of a relational DB that we take for granted seems to be necessarily _ad hoc_ in an object-oriented DB.  From my understanding, the index in an OODB is just another object in the database, which may be a B-tree, a hash table, or a simple sequential list.  So far, that's fairly similar to the RDB.  However, the indices in the RDB are closely coupled to the table that stores the records.  The RDB ""knows"" that it should update the index when the table is modified.  On the other hand, there isn't a table of records in the OODB, so there isn't a close coupling of the index to the data store.  It may be entirely up to the application to manage the integrity of the index.",1193757939
+74213,comment,74096,74178,0,0,jkush,,,"Is this publicly available? I've been working on a (very) side project that's somewhat similar and for the same reasons.<p>",1193757930
+74212,comment,74096,74096,0,0,gibsonf1,,,"(a) Was my road.  I needed an intelligent way to deal with all my work flows for my architecture firm and found nothing available, so I teamed with a SW architect partner and we're finishing it up now.",1193757800
+74211,story,,,9,1,iamelgringo,"Joe Armstrong - On Erlang, OO, Concurrency, Shared State and the Future (Channel 9 interview)",http://channel9.msdn.com/ShowPost.aspx?PostID=351659,,1193757742
+74210,story,,,11,16,jkush,"So Long Apple. The Party's Over",http://www.javalobby.org/java/forums/t102936.html,,1193757716
+74209,story,,,1,0,nickb,"""shooting oneself in the stack""",http://groups.google.com/group/comp.lang.forth/msg/33ac8209bb7135e0?dmode=source&output=gplain,,1193757663
+74208,story,,,2,0,onreact-com,"Top 7 Niche Social News Communities",http://seo2.0.onreact.com/top-7-niche-social-news-communities,,1193756870
+74207,comment,73824,74186,0,0,oditogre,,,"I always log in, check my mail, and log out...",1193756675

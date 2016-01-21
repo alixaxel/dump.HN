@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+106733,story,,,2,0,petrux,"Arc's Out",http://paulgraham.com/arc0.html,,1201679909
+106732,comment,106124,106124,0,0,derefr,,,"A CAPTCHA method that just came into my head at this moment, and thus is completely unfounded and horrible: ""Please compose a haiku on the topic of 'togetherness' [or something equally vague]. Your work will then be passed through a Bayesian filter specifically trained on that topic.""",1201679788
+106731,comment,106498,106498,0,0,mkull,,,"<a href=""http://del.icio.us/kaine"" rel=""nofollow"">http://del.icio.us/kaine</a>",1201679705
+106730,comment,106498,106498,0,0,theolagendijk,,,"<a href=""http://del.icio.us/theolagendijk"" rel=""nofollow"">http://del.icio.us/theolagendijk</a>",1201679654
+106729,comment,106124,106167,0,0,derefr,,,"""Todd was five times as old as Jane <i>is</i>.""<p>I believe that that semantic flaw sadly classes Todd out of existence by 15 years (that is, t = -15).",1201679592
+106728,comment,106716,106716,0,0,bigbee,,,"For the $10 it costs you to register another domain, I'd say it's worth the price to get the .net, .org, and possibly some European/Asian domains if you can see yourself doing business there in the future. \nI wouldn't go into companynamesucks.com and the like though - there's no end to the number of such domains that people can come up with if they really want to hurt you. A better use of your time and money would be to make sure you don't give customers a reason to say you suck...",1201678631
+106727,story,,,7,3,aston,"The Python IAQ: Infrequently Answered Questions",http://norvig.com/python-iaq.html,,1201678383
+106726,comment,106546,106546,0,0,aston,,,"Zip = Matrix Transpose is on Peter Norvig's list of Infrequently Answered Questions about Python.",1201678314
+106725,comment,106716,106716,0,0,Shooter,,,"I'd say it depends on how big your idea is and how much capital you have to start with...",1201678177
+106724,story,,,3,0,pius,"The FAIL Blog",http://failblog.wordpress.com/,,1201677967
+106723,comment,106498,106676,0,0,tomh,,,"Since there are 864 people already linking to HN in delicious, it might take a while to check out all of them and find the ones you like.<p>This way, you find the ones who give a damn enough to post on a thread.",1201677649
+106722,comment,106398,106425,0,0,Zak,,,"If you look at Arc's source, it certainly seems like PG prefers short names everywhere - it's more like what I've seen from Haskell people. I generally prefer medium-long names. Scheme's call-with-current-continuation is too long. Arc's ccc is too short. Ruby's callcc is just right.",1201677516
+106721,story,,,3,0,nickb,"Scientists discover way to reverse loss of memory",http://www.independent.co.uk/news/science/scientists-discover-way-to-reverse-loss-of-memory-775586.html,,1201677402
+106720,comment,105976,106550,0,0,neilc,,,"Interesting. Can you talk a bit more about the nature of the data mining project?",1201677167
+106719,comment,105976,105976,0,0,neilc,,,"I'm working for Truviso, a startup in the Valley. We're building a data stream management system on top of PostgreSQL -- essentially taking PostgreSQL, and giving it the ability to evaluate SQL over live streams of data in addition to static tables.<p>(BTW, we're always looking to hire good hackers -- send me mail if interested.)",1201677056
+106718,story,,,1,0,tomh,"RIAA (cartoon by hugh)",http://www.gapingvoid.com/Moveable_Type/archives/004432.html,,1201676638
+106717,story,,,1,0,nsimpson,"Communication Bypass",http://fridayreflections.typepad.com/weblog/2008/01/communication-b.html,,1201676510
+106716,story,,,6,5,bmaier,"Ask YC: How important is it to make your domain defensible?",,"If you can get the .com how important is it to have the .net and .org as well as domains for potential competitors and defensive domains like companynamesucks.com?",1201676464

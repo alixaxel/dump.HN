@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+95247,comment,95207,95234,0,0,dfranke,,,"As I commented below, the source is unreadable, but I don't think it's using minimax.  The algorithm simply seems to be don't leave pieces undefended and try to attack opponent's pieces.  It didn't see my mate-in-two where the first move was a knight sacrifice.",1199591832
+95245,comment,95207,95207,0,0,dfranke,,,"They obfuscate the source with one-letter variable names and no indentation to keep the size down, which is pretty silly.  It wouldn't be any less impressive if it were 10k and readable.",1199591560
+95244,comment,95159,95179,0,0,reitzensteinm,,,"No, they aren't. That's what accountants are for.",1199591317
+95243,story,,,3,1,hhm,"Particle physics: Merry Christmas, Dr Heuer",http://economist.com/science/displaystory.cfm?story_id=10319130,,1199591026
+95242,story,,,5,2,reitzensteinm,"Venture Capital in China",http://ventureblog.com/articles/2008/01/venture_capital_in_china.php,,1199590726
+95241,comment,95181,95181,0,0,electric,,,""" If you're serious about learning advanced business principles, ""<p>don't read, start a business yourself.",1199590676
+95240,comment,95173,95173,0,0,electric,,,"Interesting -- i'm reading this on my eee pc.  I love it!",1199590524
+95239,comment,94806,94806,0,0,michaelneale,,,"OR, alternatively, the US Surgeon General's advice is not really that great, and/or the minimum wage working poor maids can't possibly eat healthy in their money and time poor lifestyles.",1199590406
+95238,comment,95168,95168,0,0,jsnx,,,"It's too bad you can't set the width. In fact, it's too bad the guy doesn't force it to 80 chars...",1199589822
+95237,story,,,1,1,pius,"There is no bug. It is not the bug that bends, it is only yourself.",http://damonpoole.blogspot.com/2007/12/there-is-no-bug-it-is-not-bug-that.html,,1199589490
+95236,comment,95206,95206,0,0,kmt,,,"Rather interesting, especially if you are familiar with Jeff Hawkins' research.",1199589319
+95235,comment,95206,95206,0,0,scw,,,"For anyone interested in how the brain operates, including its ability to adapt to new sensory input, I highly recommend Jeff Hawkins' book On Intelligence:\n  <a href=""http://en.wikipedia.org/wiki/On_Intelligence"" rel=""nofollow"">http://en.wikipedia.org/wiki/On_Intelligence</a>",1199589236

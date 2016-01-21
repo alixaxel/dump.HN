@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+41202,comment,41068,41082,0,0,terpua,,,"It is way cool...you can checkout our page by adding a /xackup",1186731320
+41201,comment,41101,41131,0,0,paul,,,"Yeah, if anything, the fact that the Gmail free quota is still stuck at 2.8GB shows that they're getting complacent and making bad product decisions.",1186730697
+41200,comment,37850,38276,0,0,arasakik,,,"Well played - I guess I picked the wrong vocabulary :P",1186730548
+41199,comment,40847,40961,0,0,dfens,,,"Why did you sell?",1186730085
+41198,comment,41064,41064,0,0,wehriam,,,"I don't think it works like that. Try ""scientist physics"" and you get some meaningful results.<p><a href=""http://www.spock.com/q/scientist-physics"" rel=""nofollow"">http://www.spock.com/q/scientist-physics</a><p>",1186729846
+41197,comment,41133,41133,0,0,davidw,,,"Depends - if you just need data storage that's fast, and don't care about having 100% data integrity, Mysql seems popular.  I wouldn't trust people's money to it, though.<p>I've long preferred PostgreSQL, because it's always had those things that make a relationanl DB a relational DB - foreign keys, lots of consistency checks, things like that.  I have to admit, though, that as of Mysql 5, with InnoDB, it has started to resemble a ""real database"".<p>Of course, for some applications, data integrity really doesn't matter that much, and you'd prefer speed, so Mysql with its native db type might be faster.",1186729737
+41196,comment,41190,41190,0,0,udfalkso,,,"I think your javascript hunch sounds right.  I see a few similar 404s in my logs on the 8th and the 9th.  So, maybe it is Google Analytics?  ",1186729561

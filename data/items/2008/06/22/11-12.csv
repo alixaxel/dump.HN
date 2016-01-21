@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+224180,story,,,9,0,robg,"The Pixar Touch: The Making of a Company",http://www.nytimes.com/2008/06/22/books/review/Hirschorn-t.html?partner=rssuserland&emc=rss&pagewanted=all,,1214134955
+224179,comment,223977,224158,0,0,smanek,,,"yep, it's just straight perl, and Leopard comes with perl",1214134207
+224178,comment,223977,224057,0,0,smanek,,,"I would argue that 'perl regexes' are a member of the set of 'perl compatible regexes' ;-)",1214134151
+224177,story,,,1,0,joschi,"Embedding Python In Apache2 With mod_python (Debian Etch)",http://www.howtoforge.com/embedding-python-in-apache2-with-mod_python-debian-etch,,1214133943
+224176,comment,223846,223846,0,0,ced,,,"Living in cheap asian countries on savings from my grad school year. Trying to develop AI that isn't Good Old Fashionned AI. Learning music. Learning Turkish. Biology. Reading.",1214133591
+224175,story,,,1,0,prakash,"Meet the Antipreneurs",http://www.businessweek.com/print/magazine/content/08_66/s0806032873701.htm,,1214133472
+224174,comment,223846,223846,0,0,amitry,,,"Taking over the world (Pinky and the Brain).",1214133014

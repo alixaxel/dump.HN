@@ -1,0 +1,3 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37813,comment,37384,37459,0,0,omouse,,,"Me too!",1185847003
+37812,comment,37720,37720,0,0,jey,,,"We're planning on renting a dedicated server for our web and database servers, and using EC2 for red5 instances. The red5 machines don't need to store any persistent data, and the number needed will vary according to demand, making it a good fit for EC2.",1185844084

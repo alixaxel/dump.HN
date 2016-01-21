@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-88188,comment,87848,87848,0,0,herdrick,,,"Poor kid.  His life will suck.",1197367030
-88187,comment,88186,88186,0,0,rms,,,"Anyone here ever successfully use an unconventional ergonomic keyboard?",1197366445
-88186,story,,,2,1,rms,"The 25 Coolest (and Most Unconventional) Keyboards",http://speedingcomputer.com/2007/12/coolest-and-weirdest-keyboards/,,1197366429
-88185,comment,88131,88131,0,0,myoung8,,,"anyone have any experience using merb in production?",1197366293
-88184,comment,88139,88139,0,0,davidw,,,"His reasons for Tcl ""languishing"" were true until about <i>10 years ago</i>, when 8.0 came out.  Tcl was doing quite well then, and only started ""languishing"" later.  It's a long story, sometime I'll write up my somewhat peripheral view of it.",1197365948
-88183,story,,,1,0,shogunmike,"A good first project to learn Python?",,"I'm wondering if people have a good idea for a first project to learn Python with? I thought Hacker News would be the best place to ask! I'm a C++/PHP developer and I'd like to expand my range a bit.",1197365471

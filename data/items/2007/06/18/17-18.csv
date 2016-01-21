@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+28928,story,,,3,0,geekninja,"Xbox 360: Microsoft's Trojan Horse",http://www.techbeef.com/xbox-360-microsofts-trojan-horse,,1182189491
+28927,story,,,4,2,vuknje,"Prometeus - The Media Revolution",http://www.youtube.com/watch?v=xj8ZadKgdC0,,1182189409
+28926,comment,28901,28901,0,0,orlick,,,"I've been using Debian stable as a server for the past 8 years.  The stability has been top-notch and I actually prefer having a distro that doesn't update very often.  The less time I can spend updating a server the more time I can spend delivering value to my customers.",1182189268
+28925,story,,,13,4,transburgh,"3 Things a Founder Can't Tell their Team",http://www.gobignetwork.com/wil/2007/6/18/3-things-a-founder-cant-tell-their-team/10167/view.aspx,,1182189182
+28924,comment,28830,28868,0,0,omouse,,,"Indeed. Very funny that <i>it's the last sentence</i>. Isn't that kind of important information that belongs at the top of the article?",1182188723
+28923,comment,28901,28901,0,0,brlewis,,,"Initially I used Debian's ""testing"" release.  With PostgreSQL 8.1 now in stable, I recently switched to ""stable"".  I develop on an Ubuntu notebook and have never had any nasty surprises deploying from development to production.\n",1182188671
+28922,comment,28848,28848,0,0,cogswell,,,"If Dot Com buble companies had been a little more thrifty, we might see a few more of them around today.  I think the cheap factor is just a correction for the spending spree during the first bubble.",1182188512
+28921,comment,28830,28830,0,0,Alex3917,,,"There are maybe one or two genuinely thought provoking articles on the entire web each week. What does it matter how the rest of them are displayed?",1182188345
+28920,comment,28866,28866,0,0,webwright,,,"""First, cut a hole in the box....""",1182188233
+28919,story,,,2,0,brlewis,"The Very Organized Hit Job On LifeLock",http://www.techcrunch.com/2007/06/17/the-hit-job-on-lifelock/,,1182187843
+28918,comment,28901,28904,0,0,omouse,,,"Or he can use a different distro...like ArchLinux, Slackware or Gentoo. But if it's between just those two, then I agree with you, go for Ubuntu! :D",1182187602
+28917,comment,28659,28659,0,0,mynameishere,,,"The paging is annoying. Yeah, it's ""cool"". But UI experience and techie coolness are sometimes distinct.",1182187434
+28916,comment,28910,28910,0,0,ivan,,,"Ooops, I give it up several times a day :)",1182187048
+28915,story,,,2,0,farmer,"Adaptive Path: Why content management fails",http://www.adaptivepath.com/publications/essays/archives/000315.php,,1182186426
+28914,story,,,1,0,gibsonf1,"No Microsoft-Ubuntu deal in the works, Canonical CEO says",http://news.com.com/8301-10784_3-9730673-7.html,,1182186237
+28913,comment,28610,28844,0,0,hello_moto,,,"Can you come up with a product that is complete (100% can serve everybody needs in the universe) but not bloat?<p>Can you come up with a product that starts faster, install faster, requires less memory requirements, and don't crash as much as MS Words but also provides the same amount of features comparable to MS Words?<p>When I plug my iPod to my Ubuntu version 6.06, Ubuntu crashed my iPod without any informative feedback. When I dmesg-ed, I saw some hex number and some usbX where X is a number. ",1182186208
+28912,comment,28901,28901,0,0,arete,,,"I'd recommend a distro designed for server use, like CentOS.  You'll find its packages are a little out of date because they are well tested and known to be stable. The default install is hardened and security updates are prompt.  Also automatic updates are pre-configured and just need to be enabled.",1182186111

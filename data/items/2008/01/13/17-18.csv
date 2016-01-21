@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97901,comment,97852,97852,0,0,tocomment,,,"I really thought I once heard about the A9 search engine opening access to its index. I can't find it now though.",1200247191
+97900,comment,97789,97789,0,0,tlrobinson,,,"Wake me up when we reach 2,000,000,000.",1200247032
+97899,comment,97220,97336,0,0,ijoshua,,,"I looked at it very briefly.  The codebase is actually pretty small.  It appears to depend heavily on memcached.",1200246528
+97898,comment,97829,97895,0,0,Tichy,,,"Who knows, if Apple delivers on the 15th, I might switch ;-)",1200246522
+97897,comment,97896,97896,0,0,pius,,,"The statement that ""my pet raven is black"" is not even weak evidence that ""all ravens are black.""  Rather, it's strong evidence that ""there exist black ravens.""  That's the flaw I see.",1200246179
+97896,story,,,9,16,hhm,"The Raven Paradox (logic)",http://en.wikipedia.org/wiki/Raven_paradox,,1200245882
+97895,comment,97829,97891,0,0,ivankirigin,,,"I had the same dilemma. Then I got my shiny new MacBookPro. It took about an hour to setup an equivalent development environment. I was surprised it was so easy. I expected lots of builds to fail.",1200245690
+97894,comment,97852,97852,0,0,immad,,,"Is there actually a good way for someone to open up a web search index even if they wanted to? I know wikia is doing it but I didn't really investigate what that meant. Seems quite challenging.",1200245441
+97893,comment,97573,97830,0,0,kirubakaran,,,"It has been a long time since we got an essay from him, yes.<p>BTW, I was just speaking for people with day job who can't use Firefox. Anyway, proxy should work in that case.",1200245021
+97892,comment,97735,97835,0,0,vlad,,,"I've done it every day for a year once.",1200244751
+97891,comment,97829,97886,0,0,Tichy,,,"I might use it, but I am running Linux, so no rescuetime for me.",1200244542
+97890,comment,96423,96898,0,0,eusman,,,"never crossed with any of his writtings<p>the thing is that innovations in languages don't happen tomorrow. Though when they do happen, an experienced progammer shouldn't have any difficulty in adapting in a new feature of a language that is added to supposly to add value.<p>Since you reffered to natural speaking languages its obvious that it seems natural, programming languages to take characteristics of other languages as it happens in real life that they take words from each other.",1200243869
+97889,story,,,4,0,iamelgringo,"Shared hosting is not a ghetto",http://www.b-list.org/weblog/2008/jan/13/meathook/,,1200243770
+97888,story,,,6,1,iamelgringo,"Dishonest Programming",http://chalain.livejournal.com/39332.html,,1200243758
+97887,comment,97789,97789,0,0,ivankirigin,,,"Happy New ... err ... CentMill!",1200243733
+97886,comment,97829,97829,0,0,ivankirigin,,,"Go to rescuetime.com and get their tool. It'll help you know how much time you spend on things.<p>Now it's a game for me. I don't want to stop working until I've hit the peak for that week.<p>I work for myself though, so working more directly benefits me.",1200243676
+97885,story,,,9,2,iamelgringo,"A Dude, it's like you read my mind",http://scottaaronson.com/blog/?p=30,,1200243611

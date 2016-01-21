@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-82414,comment,81976,82405,0,0,g-e,,," ""Last time I checked, other technologies are rarely backward compatible""<p>7 years ago I created one of the first Web2.0 websites in PHP. It became very popular and is still up and running and used by hundreds of thousands of people a month. Without any modification. On a managed server that has been updated to new versions of LAMP countless times.<p>I also wrote ASP (not .net) code at that time. It is long dead and gone.",1195642487
-82413,comment,82378,82378,0,0,Tichy,,,"That's another one of those submarine articles, right?
- ",1195641852
-82412,comment,82267,82267,0,0,bigtoga,,,"Ditto. As a startup, MSFT makes it insanely cheap and easy to get started - for $300 you can buy their ""Action Pack"" which includes Windows Server, SQL, Exchange, Office, etc licenses for up to 10 people. When you get ready to take the next step, it is $1400 per year for the MS Partner/MSDN package which adds full Visual Studio, etc.  ",1195641619
-82411,comment,82390,82390,0,0,jamongkad,,,"Hey Terrence isn't it? when will this be? I'll be in the country for the holidays.",1195640947

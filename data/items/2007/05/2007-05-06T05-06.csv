@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-19893,comment,19891,19892,0,0,kmt,,,"You haven't heard of emacs?",1178430937
-19892,comment,19891,19891,0,0,palish,,,"Programming consists of a few things.  An editor, a compiler, source control, and so on.<p>The editor is particularly important when it comes to being productive.  I'm inexperienced with Lisp, and I've found a few things inside Visual Studio that I feel particularly reluctant to part with.  ""Go to Implementation"" is one.  I just move the mouse over a function call, press alt-G, and it takes me right to where that function is defined.  Another is a complete list of defined procedures for the current file.<p>Does Lisp have an environment that has similar features?<p>Shawn",1178428723
-19891,story,,,13,23,palish,"Which editor do you use for Lisp?",,,1178428595
-19890,story,,,1,0,gibsonf1,"Microsoft And Yahoo Combined Can't Beat Google",http://publishing2.com/,,1178428131
-19889,comment,19888,19888,0,0,mattjaynes,,,"I'd never heard of any of these ""hottest startups"", how about you? Which startups would be on your list?",1178428054
-19888,story,,,3,3,mattjaynes,"5 hottest startups according to Killer Startups",http://www.centernetworks.com/aftervote-blogcatalog-talkshoe-shopbig-zwinktopia,,1178427990
-19887,story,,,1,0,mattjaynes,"TwitBin: Inline Firefox Twittering (less than 2 weeks and $1000 to develop)",http://www.techcrunch.com/2007/05/05/twitbin-inline-fifefox-twittering/,,1178427813

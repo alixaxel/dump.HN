@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+71116,comment,71054,71054,0,0,edw519,,,"Cool.  How about wraparound?  That is, after you look at the first 20 results, you'd like to see the LAST 20 results.\n",1193057775
+71115,comment,70285,70547,0,0,brlewis,,,"It doesn't take any clever parsing to see that if person A says ""X is possible"" and person B says, ""No, you're wrong!  It's not 100% certain that X will happen!"" then person B is misinterpreting person A, either mistakenly or deliberately.\n",1193057238
+71114,comment,70876,71033,0,0,euccastro,,,"True, although last time I had that, I could also order books on someone else's expense.",1193056443
+71113,comment,70700,70700,0,0,jgamman,,,"next stop on their website: ""radiohead likes up and coming XXXX, download their album here""",1193056319
+71112,story,,,1,0,mdemare,"Language Waves",http://www.tbray.org/ongoing/When/200x/2007/10/21/On-Languages,,1193056123
+71111,comment,71054,71105,0,0,rrival,,,"You can just update a div in an ajaxy way, you don't need an iframe. <p>There are definitely some things I don't like about this approach, though, namely SEO/SEM considerations - content on the fly invites poor indexing of content (i.e., no content) if you're using an onload to pull the first n items, spiders won't see what you have to say. ",1193055865

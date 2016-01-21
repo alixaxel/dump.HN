@@ -1,3 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-5237939,comment,5237930,5237930,1,0,SEJeff,,,"Obvious troll is obvious",1361163528
-5237938,comment,5235389,5235930,2,0,MattRix,,,"In my experience, GitHub for Windows is great for basic commits, and that's about it... Good luck doing a merge (or god forbid you actually have a conflict). It's fine if you're a single user, but the moment you're working with other people you need to drop down into the CLI a lot (which is fine, but not ideal). I do like using it as an easy way to get an overview of all my repos and a quick way to link into the CLI for each repo, and to quickly check over commits.",1361161414

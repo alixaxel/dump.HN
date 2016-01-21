@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+32615,story,,,6,0,dawie,"The Underbelly of a Web App Part 2",http://particletree.com/notebook/the-underbelly-of-a-web-app-part-2/,,1183654459
+32614,comment,32605,32605,0,0,pg,,,"What happens in the ""not"" case?",1183654367
+32613,story,,,4,1,nickb,"23 Programming Languages compared through their Amazon book sales",http://antoniocangiano.com/articles/2007/07/05/23-programming-languages-compared-through-their-amazon-book-sales,,1183654340
+32612,comment,32605,32605,0,0,dawie,,,"I have deleted comments and they still show up. I deleted my comments, because I wrote stuff that I didn't mean to say, but it was not removed",1183654138
+32611,comment,32609,32609,0,0,far33d,,,"The interesting point here is that the new IE release had no effect on Firefox adoption - it only affected the IE6 numbers. Personally, I find this somewhat surprising, but also more interesting than the fact that firefox now has a narrow lead (for a site with a tech audience). <p>Once users go to Firefox, they don't go back to IE. It's a one way street. \n",1183653613
+32610,comment,32553,32553,0,0,gleb,,,"There is some correlation between presence/specific college/type of degree and certain relevant properties of a worker. That's why employers want to know.  That's why everybody puts this info on the resume.<p>Do read this <a href=""http://paulgraham.com/judgement.html"" rel=""nofollow"">http://paulgraham.com/judgement.html</a>  \n",1183653583
+32609,story,,,5,2,far33d,"Firefox vs. IE in O'Reilly Network Logs",http://radar.oreilly.com/archives/2007/07/update_firefox.html,,1183653481
+32608,comment,32602,32602,0,0,amirmissaghi,,,"great article.  I couldn't agree more.  Last year during college I worked at T-mobile selling phones and I hated it.  Everyday I thought my potential was being wasted.  It was awesome money (60-70k part-time) but I was miserable.  Even though I work way more with my start-up I love it, I could work even more but I have research and an internship...:(.    ",1183653394
+32607,story,,,11,1,far33d,"Justin.tv does baseball",http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/05/MNG1QQR9RI1.DTL,,1183653346
+32606,comment,32552,32552,0,0,far33d,,,"If you are a startup, the real value of this article is in the ""How to talk a great person out of going to a startup"" section. <p>You'll need to have better answers for all these tactics to get great talent from big companies.",1183653109
+32605,story,,,1,4,Tichy,"Why can I sometimes edit my comments and sometimes not (always being logged in)?",,,1183652932
+32604,comment,32362,32362,0,0,Jd,,,"The integrity thing is huge.  I left a startup about a year ago for the same reason.",1183652706
+32603,story,,,2,0,yubrew," The nature of entrepreneurship: randomness, trial and error, and how intelligence can get in the way",http://www.fabricegrinda.com/?p=207,,1183652268
+32602,story,,,11,10,buildv1,"Do you want money or freedom?",http://blog.buildv1.com/article/23/do-you-want-money-or-freedom,,1183651709
+32601,story,,,12,3,toffer,"How Yahoo can beat Google",http://storagemojo.com/?p=488,,1183651680

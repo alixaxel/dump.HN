@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+13255,comment,12971,13081,0,0,schoudha,,,"Great point, getting users is the tough part.  ",1176713957
+13254,story,,,3,0,gibsonf1,"Research In Motion use LEGO Machines to Test Blackberry",http://www.pcstats.com/newsviewrss.cfm?NewsID=57761,,1176713843
+13253,story,,,1,0,gibsonf1,"Ubuntu's 'feisty' spin on virtualization",http://news.com.com/Ubuntus+feisty+spin+on+virtualization/2100-7344_3-6176175.html?tag=nefd.top,,1176713384
+13252,comment,13239,13251,0,0,brett,,,"Yeah. I started with a <i>require 'hpricot'</i> line and then took it out when I realized pg does not put any classes or other identifying attributes in his html. CSS selectors and XPaths with just html elements seem hard to read. ""td td u a"" does not look so hot to me. Regexs are pretty easy.",1176713382
+13251,comment,13239,13241,0,0,michelson01,,,"this might have been easier using hpricot, rubyful soup, scrapi, scrupyt, or something like that.",1176712621
+13250,comment,13204,13245,0,0,staunch,,,"It's more like trying to explore an interesting and challenging topic with an extremely powerful and flexible tool. Good guess though.\n",1176711665
+13249,comment,13239,13240,0,0,staunch,,,"Very nice. You can definitely do better than ""top karma"" in determining who's contributing the highest quantity of quality qontent (the 3 Q's).<p>You forgot PG though, I guess he took himself off there -- he's averaging 8.34 per submission.\n",1176711353
+13248,story,,,7,4,staunch,"3 YC Companies That Have Gained Some ""Traction""",http://snapshot.compete.com/scribd.com+jamglue.com+justin.tv,,1176710670

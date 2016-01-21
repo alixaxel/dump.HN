@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-27065,story,,,1,3,ivan,"Looking for co-founder.",,,1181415195
-27064,story,,,3,0,iamwil,"A type-based solution to the ""strings problem"": a fitting end to XSS and SQL-injection holes?",http://blog.moertel.com/articles/2006/10/18/a-type-based-solution-to-the-strings-problem,,1181414904
-27063,story,,,3,2,iamwil,"Bill Clementson's Blog: Modal (Continuation-based) Web Server Framework example",http://bc.tech.coop/blog/040404.html,,1181414207
-27062,comment,27049,27049,0,0,kyro,,,"Nice design.",1181414046
-27061,comment,27045,27059,0,0,amichail,,,"Ok, here's something a bit different (from a similar post a while ago):<p><a href=""http://youtube.com/watch?v=jULUGHJCCj4"" rel=""nofollow"">http://youtube.com/watch?v=jULUGHJCCj4</a>",1181412280

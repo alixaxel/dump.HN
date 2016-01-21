@@ -1,0 +1,16 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+293682,story,,,2,0,paulsb,"Announcing the AWS Start-Up Challenge - Win $100,000 in Prizes",http://aws.typepad.com/aws/2008/09/announcing-the.html,,1220435949
+293681,story,,,6,0,sharjeel,"Google Chrome vulnerable to carpet-bombing flaw",http://blogs.zdnet.com/security/?p=1843,,1220435915
+293680,story,,,10,4,robg,"Pogue: Serious Potential in Google’s Browser",http://www.nytimes.com/2008/09/03/technology/personaltech/03pogue.html?ref=technology,,1220435402
+293679,comment,293320,293566,0,0,DougBTX,,,"Just the way these things go - the same happened with features from Opera being introduced to a wider audience through Firefox. Answer: if you want credit for an idea, implement and get it in the hands of millions of people.",1220435226
+293678,comment,293265,293434,0,0,bigbang,,,"But when you look at the stream of updates, when there is no  checkin for a while,you realize that the project is getting dusted. Nothing great, but this one will just make the problem aware.",1220434877
+293677,comment,293223,293426,0,0,delackner,,,"Given that this is <i>hacker</i> news, ""build"" doesn't just mean ""compile an app that others have provided for you.""<p>It also means <i>build</i> the application, as in, here is an effort that is in progress to create something, and would you like to lend a hand.",1220434800
+293676,comment,293361,293379,0,0,jsmcgd,,,"I can't sorry. Maybe someone else remembers the episode?",1220434500
+293674,story,,,3,0,tomh,"Lehman: Google Chrome Can Catch Up To Firefox In Two Years",http://www.techcrunch.com/2008/09/03/lehman-googles-chrome-can-catch-up-to-firefox-in-two-years/,,1220433972
+293673,comment,293312,293522,0,0,tsetse-fly,,,"Google distributes the installer with that option enabled if you check the box on their EULA that's shown before the download. You probably checked it out of habit without noticing.<p>That option is not enabled by default.",1220433918
+293672,comment,292980,293282,0,0,jeroen,,,"I run windows with location set to Netherlands and language to English. I got Chrome in Dutch.<p>Fixing language: Options -> tab:Minor Tweaks -> button:Change font and language settings -> tab:Languages<p>Fixing spellchecker: see language<p>Fixing search: impossible.<p>I wouldn't care about the localisation if it did things right and followed my language setting.",1220433463
+293671,comment,293642,293642,0,0,rms,,,"There is no good online IQ test. Most drastically inflate scores.",1220433364
+293670,comment,293627,293627,0,0,mercury,,,"so operah is the fastest then?",1220432986
+293669,comment,293450,293450,0,0,chriskelley,,,"<p><pre><code>  ;offensive scheme...\n  (begin\n    (display ""Your mama is a snowblower"")\n    (newline))</code></pre>",1220432587
+293668,comment,293450,293547,0,0,jedc,,,"I think writer is saying random since you never know whether the player you're facing on the other side is going to be a lineman on that play or a receiver.",1220432573
+293666,comment,293662,293662,0,0,diptanu,,,"I think the site is awesome! may be the Pandora of stories, interests and ""Did-its"". Its fast too.",1220432401

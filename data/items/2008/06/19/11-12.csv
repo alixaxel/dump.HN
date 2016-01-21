@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+221708,comment,221524,221552,0,0,petercooper,,,"You first have to get the user to set up a CNAME from their domain to your app's server (in this case, senthil.travelr.com). Then your app needs to keep track of domain names versus users / sites and then serve up the correct information based on the Host: header.",1213876506
+221707,comment,221260,221260,0,0,cousin_it,,,"Immortality and fulfillment.",1213876370
+221706,comment,220267,221384,0,0,axod,,,"not at all, but why not start typing ""yc..."" or ""redd"" etc instead?\nBe specific.",1213876354
+221705,comment,221406,221588,0,0,jauco,,,"about as large as the definition of 'hacker'",1213876220
+221704,comment,221416,221416,0,0,sanj,,,"risk homeostatis:<p><a href=""http://en.wikipedia.org/wiki/Risk_homeostasis"" rel=""nofollow"">http://en.wikipedia.org/wiki/Risk_homeostasis</a>",1213875554
+221703,comment,220781,220781,0,0,youyapcom,,,"what you mean spamming?",1213875507
+221702,comment,220997,221462,0,0,mattmaroon,,,"If I could upmod you 10x, I would sir. Must be a lot of O'Reilly fans here.",1213875477
+221701,comment,221438,221450,0,0,Andys,,,"<a href=""http://developer.yahoo.com/yslow/"" rel=""nofollow"">http://developer.yahoo.com/yslow/</a>",1213875290
+221700,comment,221416,221685,0,0,olefoo,,,"Or you could go the other route and wear things that make you seem scary and unpredictable; I saw a guy the other day who had horns on his helmet viking style.",1213875234
+221699,comment,221623,221623,0,0,yan,,,"While yes this is an issue that should be solved, it's not /that/ bad. You need physical access to the machine as people in comments point out, and if you have physical access to the machine it's game over anyway.",1213875139
+221698,comment,221434,221434,0,0,mhb,,,"Is there a way to keep crud from accumulating on the low-friction pads on the bottom of my mouse? I thought that getting a Wowpad would take care of this, but it hasn't. Maybe the Surface 1030 that was mentioned solves this?",1213874840
+221697,story,,,2,0,igrigorik,"Splunk your distributed logs in EC2",http://www.igvita.com/2008/06/19/splunk-your-distributed-logs-in-ec2/,,1213874835
+221696,story,,,1,0,vlad,"Honda Certified Used Cars Mess of a Web Site",http://www.honda.com/certified/,,1213874725
+221695,comment,221172,221297,0,0,wensing,,,"I'm not sure what makes these principles 'conventional'.  They're rarely expressed so succinctly, and even more rarely put into practice.  Also, this document is specific to web design, not generic corporate philosophy, and gives more practical direction than a typical corporate mission statement.",1213874329
+221693,story,,,1,0,buckpost,"What’s New at MySpace: Q&A with Tom Anderson ",http://www.markevanstech.com/2008/06/19/whats-new-at-myspace-qa-with-tom-anderson/,,1213873793
+221692,comment,221610,221669,0,0,VinzO,,,"I clicked on the link several times and I finally reached it.",1213873620

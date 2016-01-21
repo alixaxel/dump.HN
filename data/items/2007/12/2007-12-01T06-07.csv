@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-85184,comment,85166,85170,0,0,gojomo,,,"If you can create matching hash pairs at will, the interesting attack in binaries is to distribute one that acquires a trusted reputation under the shared hash, then at a later date replace it with the problem one. <p>Not too bad of a risk if diverse hashes are often used and people promptly move away from any hashes that demonstrate collisions; could be a nasty surprise if the collision is privately discovered and sprung at an inopportune moment, or people keep trusting an older hash after collisions start appearing in the wild. ",1196492029
-85183,comment,84876,85084,0,0,downer,,,"CPU info:<p><pre><code> Small Instance : 1x 2.6 GHz Dual-Core AMD Opteron(tm) Processor 2218 HE w/1024 KB cache
- Large Instance : 2x 2.0 GHz Dual Core AMD Opteron(tm) Processor 270 w/1024 KB cache
- Extra-Large    : 4x 2.0 GHz Dual Core AMD Opteron(tm) Processor 270 w/1024 KB cache
-</code></pre>
-...but since each dual-core shows up once instead of twice in /proc/cpuinfo, instead of getting 2, 4, or 8 actual cores I think it's 1, 2, or 4.  Not sure if this means on e.g. the Large you get 1 core on each of 2 CPUs, or both cores on 1 CPU (which could matter in the case of shared cache and also for memory access).<p>""2 compute units"" means a 2 GHz core instead of 1 GHz, not 2 separate cores. So I suppose on the Small you get half of one 2.6 GHz core.<p>BTW, for Python people, you can use Python tools to access AWS (instead of the official Java tools):
-<a href=""http://jimmyg.org/2007/09/01/amazon-ec2-for-people-who-prefer-debian-and-python-over-fedora-and-java/"" rel=""nofollow"">http://jimmyg.org/2007/09/01/amazon-ec2-for-people-who-prefe...</a>
-",1196489831

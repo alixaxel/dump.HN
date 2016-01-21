@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26788,comment,26769,26769,0,0,nonrecursive,,,"Zed Shaw must be the coolest programmer in the universe",1181246164
-26787,comment,26769,26769,0,0,dhouston,,,"great article; the piece about the phase most developers go through where they like complexity for complexity's sake definitely resonated (or fancy algorithms, or design patterns, or whatever other programming-related book they just read.) if you've worked with developers like this (or gone through these phases ;)), you probably had flashbacks too -- wading through AbstractVisitorManagerDelegate classes, or half-baked home-grown heap allocators makes a little part of me die inside.",1181245966
-26786,comment,26753,26763,0,0,toisanji,,,"Hi ian, I am very interested in meeting with others startups/vcs/etc in China.  you can email me at my username at gmail.com .  Thanks.",1181245474
-26785,story,,,2,1,dawie,"The Social Browser Has Landed",http://www.pronetadvertising.com/articles/netscape-navigator-9-released-the-social-browser-has-landed34352.html,,1181244361
-26784,story,,,4,1,andrewmobile,"Andrew Chen: Is your site really viral? Viral Branding versus Viral Action",http://andrewchen.typepad.com/andrew_chens_blog/2007/06/viral_branding_.html,,1181243511

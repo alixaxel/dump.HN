@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+24382,comment,24380,24380,0,0,master54,,,"Given how users got banners-blind after some years of conditioning, how long would it take for them to become Adwords-blind, especially with 99.999999999999999999999% of websites forcing these ads on them via Adsense?",1180025798
+24381,comment,24377,24378,0,0,eposts,,,"PG & YCombinator\nIts the community that makes the forum.",1180025773
+24380,story,,,3,10,master54,"When will users become Adwords-blind?",,,1180025737
+24379,comment,24353,24353,0,0,brlewis,,,"Better style would be to select only the columns you use.<p>WordPress database error: [Got error 28 from table handler]<p>SELECT DISTINCT (star) FROM wp_posts WHERE 1=1 AND post_name = 'comic-is-it-useful' AND post_date_gmt (less)= '2007-05-24 16:56:59' AND (post_status != ""static"") AND post_status != ""attachment"" GROUP BY wp_posts.ID ORDER BY post_date DESC<p>Error 404 - Not Found\n",1180025709
+24378,comment,24377,24377,0,0,master54,,,"Startupping came about first. So why didn't you hang out at their forums there instead of here?",1180025521
+24377,story,,,5,18,master54,"Why did you guys come here instead of Startupping.com?",,,1180025491
+24376,comment,24374,24374,0,0,master54,,,"The first version of Trulia was bad. Jackass bad. It's like those crappy Google Maps mashup site built by a kid overnight. When Zillow came out, I thought they had won the real estate web sector. That's it. Then suddenly, out of nowhere came a revamped Trulia with a better site than the first version and most importantly, MORE HOUSE SALE LISTINGS than Zillow. What's a real estate site without real estate sale listings?",1180025343
+24375,comment,24248,24360,0,0,byrneseyeview,,,"You really think an interview with Yunus would be helpful? He's just a loan shark with good PR.",1180025257
+24374,story,,,1,1,master54,"How did Trulia came out of nowhere to steal the thunder from Zillow?",,,1180025146
+24373,comment,24213,24369,0,0,danw,,,"Well I could always be wrong. Perhaps I approached the problem in the wrong way or pitched it at the wrong people. Orgoo appears to be making this work.",1180024779
+24372,comment,24004,24339,0,0,MobileDigit,,,"I don't think patents are legitimate.",1180024742
+24371,comment,24211,24370,0,0,Tichy,,,"Except crap. 100% of crap is crap \n(<a href=""http://www.tmcm.com/comics/webcomics/179_crap)"" rel=""nofollow"">http://www.tmcm.com/comics/webcomics/179_crap)</a>",1180024557
+24370,comment,24211,24211,0,0,ecuzzillo,,,"Sounds to me like a special case of Sturgeon's Law: of course 90% of startups are crap. That's because 90% of everything is crap. ",1180023164
+24369,comment,24213,24357,0,0,far33d,,,"dan: thanks for telling me this. I was about to start on something similar (mostly as a quick side project to learn some RSS parsing, etc)\n",1180022728
+24368,comment,24367,24367,0,0,gibsonf1,,,"Does anyone have experience with the highly object-oriented UCW Lisp web platform?  It looks interesting.",1180022572
+24367,story,,,10,14,gibsonf1,"UnCommon Web (PG Inspired Lisp Web Platform: Then there was UCW, and all was good)",http://common-lisp.net/project/ucw/index.html,,1180022518
+24366,comment,24354,24362,0,0,danw,,,"It is great, I've been to the London one a few time and met great people. It's not all about finding investment too like the article suggests",1180022456

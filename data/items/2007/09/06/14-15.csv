@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+51093,comment,51001,51078,0,0,kevinl,,,"How do you know it? Http header viewer shows Reddit use lighttpd/1.4.13.",1189090719
+51092,story,,,9,9,Readmore,"Wired: ""How Mark Zuckerberg created the web's hottest platform.""",http://www.wired.com/techbiz/startups/news/2007/09/ff_facebook,,1189090446
+51091,story,,,1,0,terpua,"A Facebook for the Few",http://www.nytimes.com/2007/09/06/fashion/06smallworld.html?ex=1346731200&en=118f616fc8634c26&ei=5088&partner=rssnyt&emc=rss,,1189090396
+51090,story,,,6,0,donna,"For-Profit Crusade Against Junk Mail",http://www.nytimes.com/2007/09/06/business/smallbusiness/06sbiz.html?ex=1346731200&en=99458ddbb33a626f&ei=5090&partner=rssuserland&emc=rss,,1189090100
+51089,comment,50925,50983,0,0,pg,,,"Hmm.  I would have started smaller.  I doubt Sabeer has enough to pay for all this himself.  That means he's going to be at the mercy of a bunch of investors.",1189089755
+51088,comment,50773,51017,0,0,Leon,,,"As am I!",1189089713
+51087,comment,50853,50853,0,0,pg,,,"So far this thread is setting the record for deleted comments, as people who responded angrily realize it was a parody.<p>Perhaps the reason people reacted so violently is that they can imagine some reasonable arguments that sound like these.  I.e. this is a case of people being made maddest by statements they worry might be true.",1189089455
+51086,comment,51063,51063,0,0,dottertrotter,,,"I was thinking the same thing.  Bokonist feel free to email me and we might be able to set something up.  bradleyt (dot) marsh (at) gmail.  I'm the one who built hackrtrackr by the way.",1189089335
+51085,comment,51001,51001,0,0,mattculbreth,,,"I've recently used nginx to reverse-proxy and load balance to both paste and mongrel.  Much easier setup.  If you're doing a custom app I tend to think this is better than running a big Apache up front.<p>",1189089206
+51084,comment,51063,51063,0,0,rokhayakebe,,,"ou should connect with hacktracker and see what you guys can do together as far as mashing up your services",1189089152
+51083,story,,,7,2,ivankirigin,"E-paper with Photonic Ink",http://www.technologyreview.com/Infotech/19337/,,1189088815
+51082,comment,50853,50853,0,0,sethg,,,"The comments here by people who don't recognize TFA as satire are funnier than TFA itself.",1189088802
+51081,story,,,2,4,ivankirigin,"Animation for the Masses",http://www.technologyreview.com/Infotech/19344/,,1189088717
+51080,story,,,5,0,brlewis,"Google Books: Embed Book Clips Into Websites",http://www.techcrunch.com/2007/09/06/google-books-embed-book-clips-into-websites/,,1189088542
+51079,comment,50776,50967,0,0,ivankirigin,,,"Don't shoot your eyes out. \nSeriously: <a href=""http://wickedlasers.com/"" rel=""nofollow"">http://wickedlasers.com/</a>",1189088216
+51078,comment,51001,51018,0,0,falsestprophet,,,"Even reddit, the developers of web.py, aren't using it anymore. ",1189088112
+51077,story,,,1,0,falsestprophet,"And some businesses fail witin the first week. ",http://www.boston.com/news/globe/city_region/breaking_news/2007/09/for_two_northea.html,,1189087964
+51076,story,,,1,0,garbowza,"A Facebook for the Few",http://www.nytimes.com/2007/09/06/fashion/06smallworld.html,,1189087647
+51075,comment,51058,51064,0,0,brlewis,,,"Sometimes I use news.yc as my filter for techcrunch.  Other times I selectively submit stories from there that I think are of interest here.<p>I'd prefer that people keep submitting from techcrunch, but selectively.  Problem is there's no karma downside to indiscriminate submitting.",1189087557
+51074,comment,51042,51042,0,0,ivankirigin,,,"There was a piece at the new Institute for the Contemporary Arts in Boston. The whole exhibit had interplay with the digital side of life, but one of my faves was a blown up picture of a bomb exploding with very low compression quality. Those 8x8 bins so common to image compression routines were a few inches across. Looking close, it was easy to imagine an ideal, abstract contour in each 8x8 square, despite the clear picture from afar. I liked that effect a lot.<p>I think it was part of Super Vision, which looks to not be part of the permanent collection.\n<a href=""http://www.icaboston.org/exhibitions/exhibit/supervision/"" rel=""nofollow"">http://www.icaboston.org/exhibitions/exhibit/supervision/</a>",1189087522
+51073,comment,51001,51052,0,0,inklesspen,,,"I use mod_proxy to reverse-proxy to paste.httpserver. Much better, IMHO.",1189087419
+51072,comment,50853,50992,0,0,cellis,,,"You <i>do</i> know who the writer is, dont you?",1189087419

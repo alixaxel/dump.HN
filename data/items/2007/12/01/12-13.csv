@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+85222,story,,,12,5,xavi,"Cuter scooter defined by electricity, portability",http://web.mit.edu/newsoffice/2007/scooter-1127.html,"It's energy efficient, it's clean, compact and simple, and, above all, it's very cool.",1196513943
+85220,comment,85219,85219,0,0,iamelgringo,,,"Interesting follow up here:\n<a href=""http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=067a2eb8-85c0-4886-b35f-f32b1a46eab9"" rel=""nofollow"">http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=067a2e...</a><p>Even Big Co.'s like Microsoft and the GOOG have scalability issues.",1196512967
+85219,story,,,12,7,iamelgringo,"Don't scale: 99.999% uptime is for Wal-Mart",http://37signals.com/svn/archives2/dont_scale_99999_uptime_is_for_walmart.php,,1196512856
+85218,story,,,1,0,luccastera,"The Case Against Hyperblogging",http://rickyvanveen.com/blog/2007/11/tumblr-dont-bothr-case-against.html,,1196512827
+85217,story,,,1,0,makimaki,"23 Surefire Small-Business Marketing Tips for 2008",http://blog.planetc1.com/2007/11/29/23-surefire-small-business-marketing-tips-for-2008/,,1196512819
+85216,comment,85191,85191,0,0,axod,,,"You can also use www.mibbit.com to connect ;)",1196512631
+85215,comment,85191,85205,0,0,Tichy,,,"Thanks - see you on irc, I guess ;-)",1196512402
+85214,comment,85128,85128,0,0,dhouston,,,"awesome -- congrats bryan!",1196512057
+85213,comment,85124,85133,0,0,Tichy,,,"What's wrong with enterprise? Isn't that another word for a company that makes money, doing actual work?",1196511438
+85212,comment,85191,85206,0,0,Tichy,,,"Thanks, that worked! The trick was to join via the ""Buddies->Join a chat"" menu, rather than trying command messages.",1196511289

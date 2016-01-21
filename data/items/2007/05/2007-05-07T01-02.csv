@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-20064,comment,20012,20012,0,0,kmt,,,"Let's see: who here identifies themselves with a BBM?",1178502948
-20063,comment,20012,20012,0,0,kmt,,,"Interesting observation.  <p>Even more interesting, from entrepreneurial point of view, I think, is that there is an opportunity here.  One problem with people of the BBM type (what the author calls ""brilliant bipolar mind"") is that they get depressed before they finish things although they might have a brilliant idea.  So you the opportunity is for non-depressive folks to finish the tasks and offer something that the community can use.",1178502723
-20062,comment,19960,20037,0,0,brlewis,,,"I didn't examine each function in detail, but it looks like totally the real picture.  If you have lexical scoping and anonymous functions, you have the Y combinator.  I don't know if PHP has true lexical scoping and anonymous functions yet, but if it does, then yes, you can implement the Y combinator in PHP.
-",1178502561
-20060,comment,19863,20058,0,0,pg,,,"I fixed it.",1178501575
-20059,comment,19779,19844,0,0,lupin_sansei,,,"I don't know. Jazz is still pretty popular in the US. Look how many Jazz Clubs are in NYC: <a href=""http://www.ny.com/clubs/jazz/"" rel=""nofollow"">http://www.ny.com/clubs/jazz/</a><p>The US invented it, and produced people like Ornette Coleman (the David Lynch of Jazz). The US still produces the lion's share of Jazz recordings too.",1178500510

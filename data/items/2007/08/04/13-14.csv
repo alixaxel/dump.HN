@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+39308,story,,,1,0,farmer,"Playwidgets Offers Customizable Games for your MySpace Page",http://mashable.com/2007/08/03/playwidget/,,1186235404
+39306,story,,,3,2,farmer,"Inside Bebo's London Office [video]",http://kara.allthingsd.com/20070802/kara-visits-bebo-in-london/,,1186235203
+39304,comment,39243,39295,0,0,pg,,,"this one:<p><pre><code> (def serve ((o port 8080))\n   (nil! quitsrv*)\n   (ensure-dir logdir*)\n   (let s (open-socket port)\n     (prn ""ready to serve port "" port) (flushout)\n     (= currsock* s)\n     (after (while (no quitsrv*)\n              (if breaksrv*\n                  (handle-request s)\n                  (errsafe (handle-request s))))\n            (close s)\n            (prn ""quit server""))))\n</code></pre>",1186234697
+39303,comment,39243,39294,0,0,prakash,,,"mod_gzip & mod_deflate -- for html, css, js files + anything else with content disposition ""text/html"".<p><a href=""http://developer.yahoo.net/blog/archives/2007/07/high_performanc_3.html"" rel=""nofollow"">http://developer.yahoo.net/blog/archives/2007/07/high_perfor...</a>",1186234469
+39302,comment,39301,39301,0,0,pg,,,"I'm considering adding an additional layer of protection against grumps: to only allow users as many downvotes as they've made upvotes.  That way each user's net contribution to the global karma would be at least neutral.",1186233980
+39301,story,,,17,30,pg,"New protection against karma bombing, damage undone",http://ycombinator.com/newsnews.html#4aug07,,1186233685
+39300,comment,39054,39218,0,0,vuknje,,,"hmm.. but it would take me an additional week.. it's too much time in a web2.0 world ;) btw, your site (altruistiq.com) looks awesome.",1186232944
+39299,comment,39054,39158,0,0,vuknje,,,"thanks for feedback!<p>i fixed a bug you've found.",1186232602
+39298,comment,39288,39288,0,0,tuukkah,,,"""To be effective, Kaizen needs 100 per cent participation from everyone involved."" ""Think, rethink and attempt Kaizen, with 100 per cent clarity and understanding;""<p>If you happen to not see improvement, you can't blame him!\n",1186232486

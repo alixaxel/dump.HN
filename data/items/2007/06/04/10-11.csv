@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26241,story,,,1,8,ivan,"Looking for co-founder/co-worker to build a hybrid of ebay and craigslist",,,1180954544
+26240,comment,26234,26239,0,0,ivan,,,"Ivan, next time read the feature request thread!",1180953839
+26239,comment,26234,26234,0,0,ivan,,,"aaargh :) ... I apologize PG, I overlooked previous post. however is it so hard to check if suggested address is already in database and throw some warning to sender?",1180953425
+26238,comment,26234,26234,0,0,pg,,,dupe,1180952940
+26237,story,,,37,26,divia,"How Guy Kawasaki Launched Truemors for $12,107.09",http://blog.guykawasaki.com/2007/06/by_the_numbers_.html,,1180952662

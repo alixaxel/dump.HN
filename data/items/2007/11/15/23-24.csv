@@ -1,0 +1,21 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+80424,comment,80182,80182,0,0,MisterMerkin,,,"Well that didn't take long. Wasn't much of a beta was it.",1195170943
+80423,comment,80399,80399,0,0,rms,,,"Wyclef Jean --  The Carnival",1195170897
+80422,comment,80399,80399,0,0,DanielBMarkham,,,"Dave Brubeck, Time Out\n<a href=""http://en.wikipedia.org/wiki/Time_Out_"" rel=""nofollow"">http://en.wikipedia.org/wiki/Time_Out_</a>(album)\n",1195170870
+80421,comment,79982,79982,0,0,Tichy,,,"If you think he is so bad, why not take it as a life lesson: if he can do it, you can do it, too! Once again, the difference is in the doing or not doing. I for one liked his writing, but apart from that, it seems many famous people are not that great. It just goes to show that by putting yourself out there, you can still win. ",1195170839
+80420,comment,79982,80134,0,0,Tichy,,,"He announced it as an experiment and never claimed to be the new Shakespeare. Where is the problem? Experimenting with writing is what blogging is about, among other things.",1195170723
+80419,comment,80399,80399,0,0,jey,,,"<a href=""http://www.radiolab.org"" rel=""nofollow"">http://www.radiolab.org</a>",1195170376
+80418,comment,80399,80399,0,0,bootload,,,"NY, Chrome Dreams II ~ <a href=""http://en.wikipedia.org/wiki/Chrome_Dreams_II"" rel=""nofollow"">http://en.wikipedia.org/wiki/Chrome_Dreams_II</a>",1195170142
+80417,story,,,8,9,papasmurf,"ASK YC: Startups hiring in Vancouver, Canada",,"\nAsking all Canadian YC readers - How is the job market for someone looking to join a startup in B.C, Canada and how does one go about looking for these jobs? <p>Muchos Gracias.",1195170061
+80416,comment,80399,80399,0,0,german,,,"Tito Nieves, Fabricando Fantasias",1195170010
+80415,comment,80355,80405,0,0,rms,,,"Doesn't it work on some phones that have APIs for a triangulated, interpolated GPS?",1195169983
+80414,story,,,1,0,bootload,"What is the real value of a business?",http://www.schoolofthinking.org/about/training/10-dfq/what-is-the-real-value-of-a-business/,,1195169853
+80413,comment,80182,80258,0,0,webwright,,,"Heh-- no need to ever apologize to a startup guy for helping spread the word.  No harm done!",1195169561
+80412,comment,80246,80320,0,0,mynameishere,,,"You're right, of course. Really, if it would cost a person only a few hours to switch to linux, or a couple of minutes of productivity per day, it wouldn't be worth it.<p>But there's the possibility that someone would gain productivity by using linux. ",1195169347
+80411,comment,79982,79982,0,0,cheponis,,,"I don't think you guys get it: qwertyy IS Aaron Swartz!",1195168896
+80410,comment,79982,80378,0,0,axod,,,"Sure. Re-reading my comment it does sound a bit harsh, and I agree - the idea doesn't have to be earth changing to be wildly successful.\nI guess we'll see in time what becomes of his startups.",1195168806
+80409,comment,79982,80382,0,0,jimbokun,,,"""As for the dripping with egotism bit, that is an interesting problem.""<p>Maybe he needs someone with more life experience who is experienced at writing for the web to advise him on how not to ""drip"" his egotism quite so much while still communicating his point.  Maybe even someone with a past business relationship with Aaron who he might respect.<p>Not to name names or anything. :)",1195168694
+80408,comment,80257,80257,0,0,michaelneale,,,"Paris Hilton is the Ron Paul of news.YC !",1195168360
+80406,comment,80178,80193,0,0,HiddenBek,,,"SQL is extremely verbose.  During my previous life as a Java programmer I moved a project from raw SQL to the hibernate ORM, and removed 10,000 lines of code in the process.  Using straight SQL, the data access code was more than 50% of the entire code base.  Switching to an ORM got it below 10%.<p>It really depends on what you're doing, but I can't imagine why anyone would want to write SQL by hand.  If you really want simplicity, don't use a database at all.",1195168258
+80405,comment,80355,80394,0,0,jsjenkins168,,,"Loopt wont work on the iPhone yet (natively), because it requires GPS hardware (which the iPhone does not yet have). Hopefully someday though, its a cool app.",1195167971
+80404,comment,80314,80314,0,0,dcurtis,,,"Just by listening to him for a minute, you can tell this guy has that ""thing"" that makes someone a good founder.",1195167699

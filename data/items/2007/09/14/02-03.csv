@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+54477,story,,,7,1,nickb,"Coding Horror: Classic Computer Science Puzzles",http://www.codinghorror.com/blog/archives/000951.html,,1189738517
+54476,comment,54398,54437,0,0,paul,,,"That's a good idea if your time is worthless. ""Penny-wise and pound-foolish""",1189738235
+54475,comment,54474,54474,0,0,rms,,,"registration required, someone copy/paste in here?",1189738074
+54474,story,,,2,1,mhb,"Conlangs - Constructed languages designed by language inventors","http://www.latimes.com/news/nationworld/columnone/la-sci-conlang24aug24,1,6245830.story?coll=la-headlines-columnone&ctrack=1&cset=true",,1189737220
+54473,comment,54458,54458,0,0,rms,,,"This is a known issue with Tor. It doesn't encrypt data, it just anonymizes it. If you put unencrypted info in Tor, it comes out on the other side unencrypted.",1189736835
+54472,comment,54453,54453,0,0,pg,,,"Another misleading title.  These numbers are for all N Cal businesses, not tech cos.",1189736319
+54471,comment,54449,54449,0,0,gtmcknight,,,"An oldie but goodie TED Talk. These are consistently the most engaging and interesting speeches. FYI I run a video site called Chime.TV and we created a channel just for TED Talks:\n<a href=""http://chime.tv/tedtalks"" rel=""nofollow"">http://chime.tv/tedtalks</a><p>Recent ones I've enjoyed are Erin McKean's Redifining The Dictionary ( <a href=""http://chime.tv/tedtalks/3l9sg"" rel=""nofollow"">http://chime.tv/tedtalks/3l9sg</a> ) and Rives: Is 4AM The New Midnight? ( <a href=""http://chime.tv/tedtalks/2gdlw"" rel=""nofollow"">http://chime.tv/tedtalks/2gdlw</a> )",1189736218

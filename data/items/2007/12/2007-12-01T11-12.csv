@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-85211,story,,,5,1,charzom,"Efficiently computing locations from IP addresses",http://jcole.us/blog/archives/2007/11/24/on-efficiently-geo-referencing-ips-with-maxmind-geoip-and-mysql-gis/,,1196509829
-85210,story,,,3,0,charzom,"Dynamic CSS via JavaScript",http://revnode.com/oss/css/,,1196509585
-85209,comment,84721,84781,0,0,pfedor,,,"My brother said once that he wanted a t-shirt saying: ""I used Ruby before Rails.""
-",1196508723
-85207,comment,85198,85198,0,0,DarrenStuart,,,"I wonder if they are going to open source it? and if not why not, I pay my TV license so I expect it too ;p",1196507837
-85206,comment,85191,85203,0,0,akkartik,,,"Hey, pidgin supports IRC?! Trying.. yup, I got it to work! Pretty easy: <a href=""http://developer.pidgin.im/wiki/Protocol%20Specific%20Questions#HowdoIjoinachannel"" rel=""nofollow"">http://developer.pidgin.im/wiki/Protocol%20Specific%20Questi...</a><p>Feel free to mail me if you'd already read that, and I can help you get it working. I'm really glad I saw your comment, so I feel like I owe you :) Now if we could just integrate IRC presence into the IM interface..<p>> I feel stupid for not understanding irc, but I have never used it before...<p>I never got into irc until recently -- one of my friends recently said the difficulty in getting started is part of the reason IRC hasn't gone the way of slashdot or digg or reddit :)",1196507517
-85205,comment,85191,85203,0,0,davidw,,,"I use 'xchat', and it asks me which channel I want to join after connecting to irc.freenode.net.  At that point, you type in #startups.  Or you can usually do /join #startups from the command line.",1196506937

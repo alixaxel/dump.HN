@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+25779,comment,25610,25657,0,0,mynameishere,,,"Yes, but real value can be _delivered_ by trickery.",1180663121
+25778,story,,,1,0,chadhorn,"YouTube signs broad licensing pact with EMI",http://www.reuters.com/article/internetNews/idUSN3120053420070531,,1180662144
+25777,story,,,1,0,lupin_sansei,"Fog Creek: How to Compete with Open Source",http://blog.fogbugz.com/Articles/2007/05/31.html,,1180661894
+25776,comment,25749,25749,0,0,lupin_sansei,,,"So how do you explain this? <a href=""http://360east.com/blogfileupload/billgates.jpg"" rel=""nofollow"">http://360east.com/blogfileupload/billgates.jpg</a>",1180661714
+25774,comment,25700,25700,0,0,far33d,,,"Good review, especially of django. However, one tiny gripe: it's actually really easy to use an arbitrary templating system with django. Since HttpResponse objects just take strings, you don't have to use render_to_response(..), you could easily generate your html string from mako and pass that to a hand created HttpResponse (or write your own render_to_response). <p>I also don't think it would be very difficult to amend the url dispatch either.<p>",1180661174

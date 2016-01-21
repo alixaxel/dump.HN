@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-24547,comment,24367,24459,0,0,henning,,,"This is much closer to the truth. AFAIK it uses some heavy-duty macrology and such-like to mechanically transform a subset of Lisp to continuation-passing style. It also has the obligatory HTML/Javascript generation stuff. It has been used for real-life client work but nothing high-traffic.",1180075233
-24546,story,,,15,7,earthboundkid,"Will the company that kills Google be founded by Google employees?",http://www.pbs.org/cringely/pulpit/2007/pulpit_20070524_002134.html,,1180074719
-24545,comment,24444,24444,0,0,dfranke,,,"Spam is a worse crime than murder.  Big spammers like Ralsky send enough spam to waste many lifetimes' worth of people's time.  Just because the damage is spread out over a large number of people doesn't make that fact any less heinous.",1180073953
-24544,comment,24439,24490,0,0,dfranke,,,"You do need a license of some sort.  BSD, MIT, and similar are about as minimal as is advisable.  You need a disclaimer of warranty so that you're not liable if your software breaks someone's system, and the user's right to use your software needs to be conditional upon accepting the disclaimer.",1180073538
-24543,story,,,2,0,MarkB,"WikkidApps - Totally Legendary Web Applications",http://wikkidapps.com,,1180073437
-24542,comment,24535,24535,0,0,ivan,,,"stolen or not, thanks for link. very interesting.",1180073352
-24541,comment,24354,24354,0,0,dfranke,,,"Anyone know of one of these in Cambridge/Somerville?  Or want to start one?",1180073066
-24540,comment,24089,24089,0,0,aaroniba,,,"Question: does the choice to use subdomains or subdirectories affect the stats that appear on traffic measuring sites like Alexa?",1180072841

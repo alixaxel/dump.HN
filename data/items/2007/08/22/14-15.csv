@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+45220,comment,45175,45199,0,0,davidw,,,"I have a server with Layered Tech.  You get root, and you have to manage the machine yourself.  For me that's a pretty good deal.",1187794791
+45219,story,,,14,11,kkim,"Seth's Blog: Business card mistakes",http://sethgodin.typepad.com/seths_blog/2007/08/business-card-m.html,,1187794711
+45218,story,,,1,0,farmer,E46.MIT.EDU,http://e46.mit.edu/,,1187794555
+45217,story,,,1,0,damien,"A Morphable Model for the Synthesis of 3D Faces - Very cool [video]",http://www.youtube.com/watch?v=pSRA8GpWIrA,,1187794549
+45216,comment,44882,45005,0,0,nablaone,,,"which lisp are you using?",1187794491
+45215,comment,44882,45213,0,0,nablaone,,,"nevermind, someone else posted  <a href=""http://paragent.com"" rel=""nofollow"">http://paragent.com</a>",1187794443
+45214,story,,,9,1,farmer,"Dear Palm: It's time for an intervention",http://www.engadget.com/2007/08/21/dear-palm-its-time-for-an-intervention/,,1187794306
+45213,comment,44882,44906,0,0,nablaone,,,"could you post  URLs of your running applications in UCW ?<p>",1187794191
+45212,comment,45082,45082,0,0,Autre,,,"Kernighan & Ritchie, The ANSI C Programming Language<p>Kernighan & Pike, The UNIX Programming Environment<p>Kernighan & Pike, The Practice Of Programming\n(Really, anything written by Kernighan is pure joy, even a man page)<p>Jon Bentley, Programming Pearls<p>Papadimitriou &Lewis, Elements of the theory of computation",1187794056
+45211,comment,45046,45046,0,0,yubrew,,,"I don't agree with this guy's advice.  There are more than 1,000,000 lawyers in the US,[0] a bunch that want your money, but only a few that know what their doing with tech start ups.  A good heuristic when developing a good start up support team is to use whoever everyone else successful is using that also passes the gut check.  \nSame goes for accountants, VCs, etc.<p>[0] <a href=""http://www.lawschool.com/wannabes.htm"" rel=""nofollow"">http://www.lawschool.com/wannabes.htm</a> ",1187793616
+45210,story,,,1,0,terpua,"Firefox Campus Edition.. Say What?",http://paulstamatiou.com/2007/08/21/firefox-campus-edition-say-what/,,1187793549
+45209,comment,45082,45082,0,0,jcwentz,,,"The Lambda Papers: <a href=""http://library.readscheme.org/page1.html"" rel=""nofollow"">http://library.readscheme.org/page1.html</a>",1187793547
+45208,story,,,15,0,irrelative,"The Shrinking Python Web Framework World",http://blog.ianbicking.org/2007/08/21/the-shrinking-python-web-framework-world/,,1187793445
+45207,comment,45162,45162,0,0,joshwa,,,"OK, <i>here</i> we could use a title edit to more accurately reflect the article content...",1187793339
+45206,story,,,10,3,jcwentz,"Bogus search engine pulls plans for IPO",http://www.nytimes.com/2007/08/22/technology/22accoona.html?ex=1345435200&en=29767cf603e05bea&ei=5090&partner=rssuserland&emc=rss,,1187793335
+45205,comment,44876,44876,0,0,iamwil,,,"I'm a bit surprised to see no one's mentioned Hackety Hack<p><a href=""http://hacketyhack.net/"" rel=""nofollow"">http://hacketyhack.net/</a><p>It's Why the Lucky Stiff's venture into creating a ruby programming environment for kids that tries to entice their creativity.",1187793196
+45204,story,,,4,0,jcwentz,"I Knew How To Validate An Email Address Until I Read The RFC",http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx,,1187793166
+45203,story,,,3,0,terpua,"YouTube to introduce semi-transparent ads",http://venturebeat.com/2007/08/22/youtube-to-introduce-semi-transparent-ads/,,1187793122
+45202,story,,,1,1,knewjax,"Pick up today's Metro in Boston",,"I havent seen it yet but i guess there is a section in todays Metro on Boston Entrepreneurs under 40.<p>",1187792714
+45200,comment,45177,45184,0,0,pbnaidu,,,"Sorry.. Didn't realize. Is there a facility that I can use to check before posting? ",1187792674
+45199,comment,45175,45189,0,0,pbnaidu,,,"What type of hosting service do you use?<p>a) did you sign with a dedicated server hosting company,\nb) you own a server but it is hosted in a data center owned by some company,\nc) you own a server and managed by you, hosting it in your home<p>Could you please share the details about the services?",1187792396
+45198,story,,,6,0,dawie,"Full Web 2.0 API List ",http://techmagazine.ws/full-web-20-api-list/,,1187792272
+45196,story,,,1,0,vlad,"Twitter Partners with MTV Video Music Awards",http://crave.cnet.com/8301-1_105-9764091-1.html,,1187792191
+45195,comment,45104,45141,0,0,mmaunder,,,"Not much. :) AMD Athlon(tm) XP 2100+ with 1 gig of RAM and a single SATA drive. <p>I'm about to upgrade though - mostly because I need more RAM to support more concurrent connections.",1187792030
+45194,comment,45164,45164,0,0,ivankirigin,,,"This is excellent. PhotoFlock should use this :)",1187791756

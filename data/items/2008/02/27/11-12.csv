@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+124664,comment,124661,124661,0,0,davidw,,,"Dude, that article is nearly a year old...",1204113563
+124663,story,,,3,0,davidw,"Let’s award our European technology heroes",http://thenextweb.org/2008/02/27/lets-award-our-european-technology-heroes/,,1204113465
+124662,story,,,1,1,brk,"InnoDB vs MyISAM vs Falcon benchmarks - part 1 | MySQL Performance Blog",http://www.mysqlperformanceblog.com/2007/01/08/innodb-vs-myisam-vs-falcon-benchmarks-part-1/,,1204113227
+124661,story,,,2,1,brk,"Reiser Prosecution Jolt: Victim's Ex-Lover Confesses to Eight Killings",http://www.wired.com/politics/law/news/2007/05/reiser,,1204113205
+124660,story,,,1,0,brk,"An algorithm to find and resolve data differences between MySQL tables",http://www.xaprb.com/blog/2007/03/05/an-algorithm-to-find-and-resolve-data-differences-between-mysql-tables/,,1204113175
+124659,story,,,1,0,brk,"MLN - Manage Large Networks of Xen and UML virtual machines",http://mln.sourceforge.net/,,1204113143
+124658,comment,124653,124653,0,0,brk,,,"Vulnerability scanning would be one potential example.  An intelligent bot can better probe and respond to services running based on OS/Version returned.",1204112993
+124657,comment,124237,124237,0,0,hopeless,,,"The last thing you need to do before launching is the first thing you remember to do after launching ;-)",1204112957
+124656,story,,,1,0,brk,"Foundry Group Raises $225 Million Early Stage VC Fund",http://www.feld.com/blog/archives/2008/02/foundry_group_r.html,,1204112884
+124655,comment,124226,124372,0,0,rms,,,"bottled water is really convenient",1204112857
+124654,comment,124650,124650,0,0,rms,,,"My productivity enhancing stimulant of choice is kratom.",1204112478
+124653,story,,,2,1,yearsinrock,"Ask YC: applications of bots/spiders/crawlers",,"other than search engine indexing",1204112332
+124652,comment,124650,124650,0,0,moog,,,"I gave up on caffeine a few years ago. I don't miss it, and find I have more energy and sleep better than before. I'm tempted to restart every time I read the 'caffeine is good for your health'-type reports, but so far I've stuck with H2O.",1204111586
+124651,comment,123946,124235,0,0,mironathetin,,,"Exactly, you are wasting your money.<p>The main reason for me to use macs is mac os. While the features of the apple hardware are nice, and they look good and all that,  the most important thing to have is a commandline and a set of decent apps like photoshop, bbedit etc, on one machine. Most linux applications are crap compared to os x apps!!!!<p>If you want to run linux and are not on a tight budget, I recommend Thinkpads. Although not all features are perfectly easy to activate (power management, bluetooth, wireless :o|), the hardware is superior to macs.<p>I paid the price for Powerbooks since ever. But now I have decided to go with a MacBook (as soon as they come with LED backlit screens). I think the value for the money is much better. I'd rather pump them up with the largest and fastest drive and memory.",1204110725
+124650,story,,,6,17,bkrausz,"Ask YC: Does Caffeine Work For You?",http://startupy.net/2008/02/27/caffeine-experiment/,,1204110533
+124649,comment,124136,124249,0,0,ruslan,,,"Yeah, I like this approach :)",1204110423
+124648,comment,123754,124174,0,0,mironathetin,,,"Really bad luck would have been, if the one who suffered the stroke had not quit but gone into hospital while you still had to pay him.<p>In the office near to mine is also a collegue who brings her baby every day. While she is there in principle, she does not work a lot, but starts to develop a strong sense to control everything. If these people stay, thats really bad luck.",1204110110
+124647,story,,,1,0,GIMAD,"Does anyone believe social media company valuations?",http://fvrit.com/archive/2008/02/27/does-anyone-believe-social-media-company-valuations.aspx,,1204110065

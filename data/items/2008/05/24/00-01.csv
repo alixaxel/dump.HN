@@ -1,0 +1,27 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+198527,story,,,20,8,nickb,"Remote Procedure Calls are fundamentally flawed",http://www.erlang.org/pipermail/erlang-questions/2008-May/035207.html,,1211590433
+198526,story,,,74,13,nickb,"As-Rigid-As-Possible Shape Manipulation (awesome video)",http://www.youtube.com/watch?v=1M_oyUEOHK8,,1211590255
+198525,comment,198502,198511,0,0,bigtoga,,,"I've been using GC for about 18 mths and we've had more than 20x the chargebacks that we've had on PayPal - just FYI.",1211590113
+198524,comment,198502,198502,0,0,jonknee,,,"Both PayFlow (now owned by PayPal) and Authorize.net make subscription billing easily programmed. Authorize probably makes it a little easier because they have more code samples, but it's really just an API call for whichever.",1211589952
+198523,comment,198502,198502,0,0,petercooper,,,"I've used PayPal for several years without significant complaint. However, definitely pay heed to the horror stories; they are often true. PayPal's one of those services that's ""excellent till it ain't.""",1211589526
+198522,comment,198502,198516,0,0,jasonlbaptiste,,,"ive been through one before, but it still comes out the simplest.",1211589410
+198521,comment,198502,198514,0,0,jasonlbaptiste,,,"hey ivan, we should chat. jason [at] publictivity dot com",1211589390
+198520,comment,198351,198351,0,0,schtog,,,"kewl stuff, leet p@wn<p>seriously raytracing is cool you can do cool graphics easily.",1211589113
+198519,comment,198382,198382,0,0,Tichy,,,"Come on, it's not that hard:<p>real_price = buying_price+contract_runtime_in_months*monthly_fee",1211588789
+198518,story,,,8,4,michjeanty,"Google exposes search algorithm secrets",http://www.vnunet.com/vnunet/news/2217432/google-partially-open-search,,1211588774
+198517,story,,,18,6,aston,"Bram Cohen: The diff problem has been solved",http://bramcohen.livejournal.com/37690.html,,1211588617
+198516,comment,198502,198502,0,0,tdavis,,,"Almost anything <i>but</i> PayPal. I have both heard and experienced too many horror stories involving that company to ever trust them with money on which my livelihood depends.",1211588581
+198515,story,,,2,0,pbnaidu,"Open Source Money Management and ERP Tools for Business",http://ostatic.com/162883-blog/open-source-money-management-and-erp-tools-for-business,,1211588574
+198514,comment,198502,198502,0,0,ivankirigin,,,"If there is anything you don't like about these services and their APIs, please let Tipjoy know:\n<a href=""http://tipjoy.com/feedback/"" rel=""nofollow"">http://tipjoy.com/feedback/</a>",1211588468
+198513,comment,198502,198502,0,0,staunch,,,PayPal++,1211588325
+198512,story,,,8,1,danw,"Government 2.0: The Government as a Platform",http://www.readwriteweb.com/archives/government_as_a_platform.php,,1211588310
+198511,comment,198502,198502,0,0,metajack,,,"We use paypal's payflow pro.  I'm very much looking forward to when google checkout adds subscriptions as well.",1211588277
+198510,comment,198382,198496,0,0,dejb,,,"So I guess this argument would extend to other industries as well. You could buy a cheaper computer that was locked in to a particular ISP or a car that was locked into a particular fuel supply. Or perhaps a TV that only connected to a particular cable supplier. All these year of inefficiently allowing consumers to freely match their products and suppliers! What have we been thinking.",1211588012
+198509,comment,198439,198439,0,0,xirium,,,"The truth is stanger than fiction. Specifically, the book Metrophage by Richard Kadrey ( <a href=""http://project.cyberpunk.ru/lib/metrophage/"" rel=""nofollow"">http://project.cyberpunk.ru/lib/metrophage/</a> ) search for ""Jonny looked back"".",1211587892
+198508,comment,198502,198502,0,0,falsestprophet,,,"<a href=""http://www.braintreepaymentsolutions.com/"" rel=""nofollow"">http://www.braintreepaymentsolutions.com/</a>",1211587848
+198507,comment,198492,198492,0,0,rrival,,,"<a href=""http://www.centernetworks.com/internet-week"" rel=""nofollow"">http://www.centernetworks.com/internet-week</a>",1211587716
+198506,comment,198502,198502,0,0,rrival,,,"PayPal ftw.",1211587545
+198505,comment,198502,198502,0,0,jasonlbaptiste,,,"services we've looked at:<p>-zuora\n-aria<p>they want 5-10k in implementation, 1k per month minimum, and 2-4% of your sales (keep in mind, that is ON TOP of processing fees)",1211587530
+198504,story,,,6,0,jasonlbaptiste,"How To Burn Through 56 Million in VC Money",http://www.techcrunch.com/2008/05/23/akimbo-jumps-into-deadpool-takes-56-million-with-it/,,1211587458
+198503,comment,198236,198236,0,0,randy,,,"In other news: Sensationalism Sells?",1211587362
+198502,story,,,37,38,jasonlbaptiste,"Ask YC: Subscription Billing For On-Demand Startup",,"You're a web app like beanstalk app, lighthouse, 37 signals,etc.  You charge per month.  How do you handle billing? What service do you use?",1211587294

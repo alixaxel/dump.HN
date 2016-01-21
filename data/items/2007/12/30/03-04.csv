@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93581,comment,93526,93526,0,0,oditogre,,,"Handy.<p>'Recent' is used in a pretty loose way, though.  Looks like anything in the last month is counted.",1198986806
+93580,story,,,2,0,watmough,"Clojure Running on OLPC. LISP for Teenies!",http://jonathanwatmough.com/,,1198986391
+93579,comment,93216,93296,0,0,jimbokun,,,"I've done things like that often enough (putting parens around file contents or each line of an ascii file) that I wonder if it would be worth writing a macro that inserted the parens for you on the fly as you read the file before handing it off to the code you want to execute.<p>I know that was vague, but I just get the feeling I'm often doing something semi-manually in Emacs that my code should be doing for me.",1198986298
+93578,comment,93571,93571,0,0,brk,,,"Ron Paul's Facebook page with the Top 10 LOLCAT images of 2007:<p><a href=""http://brkville.myminicity.com/ind"" rel=""nofollow"">http://brkville.myminicity.com/ind</a>",1198985377

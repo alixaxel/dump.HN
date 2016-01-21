@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-91968,story,,,7,4,staunch,"Paul Buchheit: Twas the night before Festivus...",http://paulbuchheit.blogspot.com/2007/12/twas-night-before-festivus.html,,1198328299
-91967,comment,91907,91907,0,0,pcowans,,,"Windows Power Shell addresses some of these issues.",1198326317
-91966,comment,91814,91833,0,0,mdemare,,,"They have 4.5 messages and 6.5 to-do items per basecamp user account. That suggests to me that the number of active users is 10 or 20 times lower (100000 to 200000 users). Even if only 20% of those are paying, that's enough to be very profitable.<p>Given these numbers, I'd estimate that they'd serve 3-15 billion pages per year. With 100 CPUs, that's 1-5 requests per second per CPU. Of course, what matters is peak usage, not average.",1198326299
-91965,comment,91911,91959,0,0,chengmi,,,Yes.,1198324934
-91964,comment,91911,91911,0,0,downer,,,"Hmm.  You could be a competitor.<p>I recommend using PHP and Java.",1198324902

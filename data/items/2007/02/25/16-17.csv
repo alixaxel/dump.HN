@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1042,story,,,5,0,joao,"Freedom of choice, and how entrepreneurs relate to it",http://www.caterina.net/archive/001037.html,,1172422738
+1041,story,,,2,1,ratlaw,"A quick place to list your startup and see others",http://webstartup.info/,,1172422692
+1040,story,,,1,0,msgbeepa,"Make Money From Making Comments!",http://www.wikio.com/webinfo?id=13633186,,1172422497
+1039,comment,1039,830,0,0,dangrsmind,,,"&#34;Attachment creates delusion.&#34;<p>-- Buddhist saying\n",1172422244
+1038,comment,1026,1037,0,0,dpapathanasiou,,,"True, but does that imply that companies should be formed with the sole purpose/goal of getting acquired?\n",1172421335
+1037,comment,1026,1026,0,0,pg,,,"More that you can't count on any given acquirer.",1172420521
+1036,comment,1031,1031,0,0,pg,,,"Am debugging it now.",1172420274
+1035,comment,1035,969,0,0,Nick_Smith,,,"50 percent of their traffic is for their mail service at this point, according to Alexa.  If they ever get beaten on that, it'll be lights out for them.",1172420242
+1034,story,,,2,0,bradn,"Yahoo! Announces Hosting of YUI libraries on their edge network",http://ajaxian.com/archives/yahoo-announces-hosting-of-yui-libraries-on-their-edge-network,,1172420221
+1033,comment,1033,976,0,0,Nick_Smith,,,"This seems like a great time-waster idea.  It would probably be very addictive if it ever got critical mass.  Naturally I think it will be impossible to monetize on its own, but it will be awesome when a profitable company buys them out.",1172420141
+1032,comment,1016,1016,0,0,amichail,,,"As another example, consider using human-based genetic algorithms to create daily news shows, perhaps in the style of this site (but using people rather than computers): http://www.newsatseven.com",1172420126
+1031,story,,,3,2,awt,"&#34;Remember Me&#34; Feature Would Be Nice",,,1172419959
+1030,story,,,11,4,pg,"Myspace preparing to block all widgets?",http://www.techcrunch.com/2007/02/25/imeem-blocked-from-myspace/,,1172419685
+1029,comment,1027,1028,0,0,amichail,,,"If you think that it would be morally wrong to lie in this way, would it be better if the service told you that it may lie at times to enhance the user experience?",1172419656
+1028,comment,1027,1027,0,0,amichail,,,"One might imagine having a service lie to, for example, make it look more busy (so as to attract more users) and/or to detect cheating. Is this a reasonable thing to do? See for example how the ESP game lies: http://www.cs.cmu.edu/~biglou/ESP.pdf. In particular, take a look at the sections on Pre-Recorded Game Play and Cheating.",1172419336
+1027,story,,,2,2,amichail,"Is it acceptable for software to lie (like in the ESP Game say)?",,,1172419238

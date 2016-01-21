@@ -1,0 +1,10 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+4763,comment,363,2499,0,0,pg,,,"prototype at news.ycombinator.com/active",1174154122
+4762,comment,4762,968,0,0,pg,,,done,1174154050
+4761,comment,363,402,0,0,pg,,,"you can now delete a comment if it has no children by editing it blank",1174153984
+4760,comment,363,3902,0,0,pg,,,"If other people agree with this, please upvote joshwa's suggestion.  If you want to keep things the way they are, upvote this reply.",1174153899
+4759,comment,363,410,0,0,pg,,,"done (by you, in fact)",1174153800
+4758,comment,363,396,0,0,pg,,,"there is a prototype of this at news.ycombinator.com/active",1174153732
+4757,comment,363,376,0,0,pg,,,"done; we now have all three of these",1174153662
+4756,story,,,1,0,rami,"Startup Funding Options",http://raminasser.com/2007/03/17/startup-funding-options/,,1174152736
+4755,comment,4751,4751,0,0,mynameishere,,,"_Microsoft, because it invented the XMLHTTP object and without Google standing forth on this aspect, you wouldnt have been able to see any of the above mentioned miracles imparted to the web today_<p>That's the most badly constructed sentence I hope to read all day.",1174151703

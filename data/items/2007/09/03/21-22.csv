@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+49781,comment,49772,49772,0,0,corentin,,,"It doesn't have to.\nBut most software people tend to design solutions starting from ""best practices"" and address every imaginable problem (""what if X and Y happen while Z is going on?"") so they often end up with complicated stuff. Whereas, if you start from scratch and focus on the most efficient way to address only the main problems, it can be brutally simple.",1188856545
+49780,comment,49695,49695,0,0,aswanson,,,"This is good.  I have noticed that most of the best material submitted to  news.yc comes is written by the participants here.",1188856488
+49779,story,,,2,0,eugenet,"How to phone a webpage with Ryan Gallagher of ConnectMeAnywhere",http://uk.intruders.tv/How-to-phone-a-webpage-with-Ryan-Gallagher-of-ConnectMeAnywhere_a127.html,,1188856397
+49778,comment,49723,49723,0,0,nirs,,,"The iPhone crack was cracked?!",1188855201
+49774,comment,49669,49765,0,0,nostrademons,,,"MySpace.  MySpace got popular largely through small independent bands that used it to stay in close touch with their fans.  It's still one of the best places to go if you're a struggling artist with a small but devoted fanbase.",1188854040
+49773,comment,48770,49771,0,0,rms,,,"thanks Aaron, don't let the naysayers get you down, news.yc really loves you.",1188853780
+49772,story,,,7,9,nreece,"Why does software management have to be so painful? [Pic]",http://phoja.com/show/551/why-does-software-management-have-to-be-so-painful.html,,1188853754
+49771,comment,48770,48890,0,0,aaronsw,,,"FWIW, this wasn't an actual beta. I'd mapped *.jottit.com to the test server so we could test picking particular domains and forgot to password-protect it.",1188853273

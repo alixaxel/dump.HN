@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1113,comment,1100,1100,0,0,brett,,,,1172457242
+1112,comment,1100,1100,0,0,brett,,,"here&#39;s another one:\nhttps://addons.mozilla.org/addon.php?id=1825",1172457224
+1111,comment,1100,1100,0,0,brett,,,"Definitely. I have seen at least couple other firefox extensions to do the same thing (here&#39;s one: http://www.yakalike.com/). I was involved in a drawing/graffiti type one last year (http://drawhere.com). It was fun to try and get done in javascript, but it was hard to hold people&#39;s interest for an extended period. There&#39;s a history of this stuff failing: http://wired-vig.wired.com/news/business/0,1367,42803-2,00.html<p>I&#39;ll be curious to see if/how someone gets it to stick.\n  ",1172457100
+1110,comment,1015,1015,0,0,mu,,,"Test Comment",1172456448
+1109,story,,,7,0,mattculbreth,"Six Things to do with OpenID",http://simonwillison.net/2007/Feb/25/six/,,1172455531

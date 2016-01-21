@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19733,comment,19637,19637,0,0,jward,,,"Step 1) Make a realistic five year forecast and sum all revenues over this set.\nStep 2) Apply pixie dust and happy thoughts.\nStep 3) Adjust ratio depending on quality of data set and desired outcome.<p>Basically you're pulling a number out of your ass that you hope correlates to how much money you're going to make.  If you're doing a valuation for investment purposes, someone else will most likely be doing the number crunching for you.",1178362738
+19731,story,,,2,1,danw,"Yahoo's Flickr Takes on Google's YouTube",http://blogs.business2.com/beta/2007/05/yahoos_flickr_t.html,,1178361641
+19730,comment,19727,19727,0,0,bootload,,,"<i>'... But is it working? the numbers would suggest that it isnt. ...'</i><p>but it's being written on techcrunch and other news filters. How long will it take for some tv spot on wacky ads in pubs and billboards?",1178361562
+19729,comment,19617,19617,0,0,ralph,,,"This is design as in graphic design, not software design.  Just in case anyone else didn't realise from the title.",1178359720
+19728,comment,19512,19700,0,0,ralph,,,"<i>I'd probably be willing to learn how to interpret line noise if I only have to parse 9 lines for every 96 I'm parsing now</i><p>bzip2 -9 <hellow.c | uuencode hellow.c.bz2",1178359556
+19727,story,,,5,1,brett,"Ask: Is the Algorithm Working?",http://www.techcrunch.com/2007/05/04/ask-is-the-algorithm-working/,,1178359540
+19726,comment,19577,19577,0,0,ralph,,,"Site swamped?  Takes ages to display the front page, if it manages to complete.",1178359231

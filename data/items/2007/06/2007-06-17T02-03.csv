@@ -1,3 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-28615,comment,28410,28564,0,0,mojuba,,,"Agreed, and besides, you can think of objects as tiny modules with isolated names spaces and an additional feature: you can have multiple instances of a module in one process, which isn't possible otherwise in C/C++.",1182048775
-28614,comment,28150,28162,0,0,cmars232,,,"Any recommendations for an internet service to register an LLC?  I'd google, but that kind of search tends to come back with diluted results.",1182048069

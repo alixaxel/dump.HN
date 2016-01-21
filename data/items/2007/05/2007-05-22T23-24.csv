@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-23960,story,,,1,0,bootload,"Interview with Steve Olechowski FeedBurner co-founder",,,1179878217
-23959,story,,,1,0,bootload,"Interview with Kevin Rose founder of digg",http://www.thinkvitamin.com/interviews/webapps/kevin-rose/,,1179878175
-23958,comment,23899,23899,0,0,tx,,,"Hm... but do you really ""own"" a domain name? My understanding that legally all domain names are public property and you can only ""lease it"" for a period of time.<p>However, if you can prove that a certain domain name is the name of your business (and you have a legit, valid business running) and a scumbag like this fucker ""owns"" but does not use your name, you can claim that domain in court. I heard google did this with google.ru in russia: the asshole-domainer who ""owned"" it got nothing.
-",1179877756
-23957,story,,,4,3,abstractbill,"Palo Alto startup looking for a Lisp hacker",http://www.lispniks.com/pipermail/bay-area-lispniks/2007-May/000098.html,,1179877467
-23956,comment,23936,23936,0,0,inklesspen,,,"Chris Wanstrath had a great presentation on Memcached at railsconf: <a href=""http://errtheblog.com/post/4872"" rel=""nofollow"">http://errtheblog.com/post/4872</a>",1179877443

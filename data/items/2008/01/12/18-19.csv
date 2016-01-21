@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97581,comment,97446,97446,0,0,adnam,,,Snob,1200164249
+97580,comment,97573,97573,0,0,dcurtis,,,"Thanks.<p>I made the top bar white, and it really makes everything dramatically cleaner looking.",1200164188
+97579,story,,,5,2,blackswan,"Striking Writers to Launch Online Video Co., Seeking $30M+",http://newteevee.com/2008/01/11/striking-writers-to-launch-online-video-co-seeking-30m/,,1200163707
+97578,comment,97128,97202,0,0,pius,,,"I think it's important to note the difference between hacking for fun and trying to eliminate risk in a software project.  Those two will often necessitate vastly different approaches.",1200163362
+97577,comment,97396,97575,0,0,pg,,,"Bill Gates would die of exhaustion first.",1200163136
+97576,comment,97220,97336,0,0,pius,,,"Usually you can browse Rubyforge code like so:\n<a href=""http://starling.rubyforge.org/svn/"" rel=""nofollow"">http://starling.rubyforge.org/svn/</a><p>That only works if the project used Rubyforge's Subversion repository.",1200162971
+97575,comment,97396,97396,0,0,mynameishere,,,"In some Eastern countries (and at least one Western state) there's a simple solution: You make an exact correspondence between how much wealth you have and how many wives you take. Thus, you have so many children that none of them can become especially wealthy.<p>In most of the Western world, there was a similar fix: Primogeniture. The first boy would get all the money, and the younger ones would have nothing.",1200162855
+97574,comment,97515,97515,0,0,bayareaguy,,,"The title of this submission is a little misleading.<p>Here is the conclusion of the paper: <i>There is a test for programming aptitude, or at least for success in a first programming course. We \nhave speculated on the reasons for its success, but in truth we don't understand how it works any \nmore than you do. An enormous space of new problems has opened up before us all.</i>",1200162413
+97573,story,,,34,48,pg,"A visual thank-you to the top submitters",http://ycombinator.com/newsnews.html?12jan08,,1200162379
+97572,story,,,1,0,razorburn,"Sun Plans to Close Its Data Centers",http://www.forbes.com/technology/2008/01/11/sun-virtualization-data-tech-intel-cx_ag_0111sun.html,,1200161574
+97571,story,,,1,0,cosmok,"History! 0.2a released. Free, opensource and incredibly useful.",http://history.sansj.com/,,1200161015
+97569,comment,97491,97537,0,0,eusman,,,"maybe served as a wiki and get updated with the new opinions or answers?<p>update: on second thought with search available its not really needed, although a collection of questions that appeared in the past would be useful for new comers",1200160861

@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73464,comment,73112,73180,0,0,corentin,,,"> We could relicense components that they need under a less business friendly license so that they could not take advantage of future improvements to the platform.<p>Why not doing it in the first place, then?<p>> The most important way that we could 'rain on their parade' though is just by being way better than them at creating applications based on the platform since we will always understand the internals better than anybody else.<p>If the internals are not well-designed and not well-documented, yes. In that case, once again, why bother releasing the source code?\n",1193594183
+73463,comment,73412,73412,0,0,abstractbill,,,"I can't recommend slime highly enough - I miss something comparable now that I'm hacking Python.",1193593775
+73461,comment,73412,73412,0,0,sspencer,,,"Vim and SBCL.",1193593230
+73460,comment,73383,73383,0,0,sspencer,,,"This looks like fun.  I'm in.  Any other YCers going?",1193592108
+73459,story,,,13,6,pixcavator,ComputerVisionWiki.org,http://ComputerVisionWiki.org,,1193591132

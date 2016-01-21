@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+87289,story,,,6,21,pibefision,"Best configuration for dedicated server?",,"I've some forums running on a VPS at Rimuhosting. Everything works great, but dedicated servers are cheap right now.<p>What's the best way to setup a dedicated server to have some services online? do you really need XEN?<p>I Would like to setup php5, mysql5 on apache (maybe ngnx too). And would like to ran some rails development to, so, SVN required.<p>Would be great if you share your dedicated servers layout.",1197133005
+87288,story,,,1,0,amichail,"Scala Blog",http://scala-blogs.org/,,1197132705
+87287,story,,,1,0,kkim,"Major breakthrough in understanding supersolidity",http://www.eurekalert.org/pub_releases/2007-12/uoa-mpb120407.php,,1197132675
+87286,story,,,8,0,kkim,"World's Largest Telescopes Discover Bizarre Magnetic Star",http://www.dailygalaxy.com/my_weblog/2007/12/worlds-four-lar.html,,1197132584
+87285,story,,,1,0,drm237,"Deconstructing a Struggling Start-Up",http://phlskl.com/?p=4,,1197131516
+87284,story,,,1,0,danw,"From the Field: Joshua Porter, Social Web App Designer",http://webworkerdaily.com/2007/12/07/from-the-field-joshua-porter/,,1197129611

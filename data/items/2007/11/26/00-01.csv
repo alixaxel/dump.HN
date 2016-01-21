@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83426,story,,,3,1,nickb,"The wonderful horrible life of Facebook users and their data (or, ""data hogs get slaughtered"")",http://www.calacanis.com/2007/11/25/the-wonderful-horrible-life-of-facebook-users-and-their-data-or/,,1196038201
+83425,story,,,5,0,nickb,"Doc Searls: Time to write our own rules - Stop petitioning Facebook and Google to solve our problems for us",http://blogs.law.harvard.edu/doc/2007/11/25/time-to-write-our-own-rules/,,1196038163
+83424,comment,83188,83266,0,0,inklesspen,,,"It worked for Hiro Protagonist.",1196038026
+83423,comment,83420,83420,0,0,umertino,,,"image rendering text ?",1196037385
+83422,comment,83391,83391,0,0,Darmani,,,"The author left out the important information that Kryptos is split into 4 parts (and supposedly a code within the code), 3 of which have been repeatedly cracked.",1196036941
+83421,comment,83409,83409,0,0,neilk,,,"PR for an old and failed business model, and completely scooped by Google's recent efforts (mapping cities and the insides of some businesses.)",1196036820
+83420,story,,,2,2,umertino,"How to render text on images in python such as gthe image here",,"<a href=""http://cdnll.i.imagechef.com/ic/templimg2/Shaved%20Head.jpg"" rel=""nofollow"">http://cdnll.i.imagechef.com/ic/templimg2/Shaved%20Head.jpg</a> ",1196035809

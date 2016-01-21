@@ -1,3 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26004,comment,25821,25989,0,0,bootload,,,"<i>'... What about 64bit? There is no Windows 64bit or OS X 64bit version either right now. As I said before it is not a question of 'recompiling' the source code, there is lots of generic non platform specific work which needs to be finished first. We will ship a 64bit version for Windows, OS X Leopard and GNU/Linux. It will happen. When? ...'</i> ~ <a href=""http://www.kaourantin.net/2006/10/flash-player-9-for-linux-beta-1.html"" rel=""nofollow"">http://www.kaourantin.net/2006/10/flash-player-9-for-linux-beta-1.html</a><p>32 or 64?",1180781706
-26003,story,,,10,1,bootload,"Rethinking the Linux Distribution",http://www.onlamp.com/lpt/a/7004,,1180781533

@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-32453,story,,,1,0,bootload,"iPhone hype meets reality? (The tech industry expects us to soon carry tiny wireless computers)",http://seattletimes.nwsource.com/html/businesstechnology/2003770609_brier02.html,,1183549795
-32452,comment,32428,32428,0,0,mattculbreth,,,"Bah.  Pretty well written article but it's just another ""don't like Rails because it's a fad"" type deals.  I did agree with the part about Rails being ultra-suitable for one type of project (business apps against a relationship DB) and that you run into trouble if you go too far away from it.  But that doesn't mean at all that Rails isn't cool as can be.<p>I'm finishing off a consulting project now with Rails and everybody's happy.  For my startup though we're staying with Python and the much lower level Pylons.
-",1183549549
-32451,story,,,2,1,mattjaynes,"TestiPhone.com - iPhone Simulator",http://testiphone.com/,,1183548432
-32450,story,,,12,2,mattjaynes,"DVD Jon Hacks iPhone: No Activation Required",http://blog.wired.com/gadgets/2007/07/dvd-jon-hacks-i.html,,1183548184
-32449,comment,32328,32337,0,0,earthboundkid,,,"I wonder. I have trouble getting my girlfriend to mute the TV during commercials. She finds them entertaining. :( I wonder if other people like ""punching the monkey""? <i>shudder</i>",1183547368

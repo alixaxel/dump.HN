@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+52730,comment,52592,52592,0,0,jsmcgd,,,"Can't the first problem (phishing) be overcome with a simple browser plugin?\n",1189418191
+52727,comment,52624,52624,0,0,Tichy,,,"What about equipping stars with the camera? Can you just go today and rent a justin cam for a day easily? There should be enough events in the world to find something interesting to broadcast all the time.\n",1189416167
+52726,comment,52529,52619,0,0,mojuba,,,"I thought this is politics without even reading the article and was so angry I downmodded all 3 or 4 comments that were here. Sorry about that. I just don't want HN to be another reddit.",1189416150
+52725,comment,52606,52608,0,0,mojuba,,,"And that's overkill, as most of the time we don't need data to be encrypted. In fact secure authentication and insecure data transfer would be enough, but SSH lacks this possibility.",1189415953
+52724,comment,52606,52606,0,0,mojuba,,,"FTP can return sane directory listings that can be analyzed by a program - something that's still missing in HTTP.",1189415809
+52723,story,,,6,4,davidw,"Capgemini to pitch Google Apps",http://www.roughtype.com/archives/2007/09/capgemini_to_pi.php,,1189414968

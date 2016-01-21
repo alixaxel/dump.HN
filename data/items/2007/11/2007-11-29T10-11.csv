@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-84614,comment,84560,84611,0,0,JMiao,,,"It's back online.  Sorry about that.",1196333728
-84613,comment,84547,84585,0,0,DarrenStuart,,,"my thoughts too.",1196333531
-84612,comment,84448,84448,0,0,ntoshev,,,"If the probability for black swans cannot be estimated, how do you identify the possible black swans (to position yourself accordingly as Taleb advises)? I think he swept this under the rug. ",1196333496
-84611,comment,84560,84560,0,0,jgamman,,,"i got a server error",1196332805
-84610,comment,84090,84218,0,0,ntoshev,,,"I just realized that if you are willing to mess with the system behind the scene, you can drive the community where you want. An easy systematic way to do it would be to make votes of people who vote like yourself (or a trusted group of people) automatically matter more (think kNN). In this way they are likely to push stories you would like but haven't noticed yet.<p>I am sure this would be perceived as unethical, but I have no idea where the line between such an approach and normal editing/moderation can be drawn.<p>Of course you can make personalized rating for everyone based on such a recommendation system. But you can also make your taste the default (when someone has not rated enough items) and in this way work to avoid fragmentation in the community.",1196332243
-84609,story,,,3,1,bootload,"Aaron Swartz's Bubble City",http://blogoscoped.com/archive/2007-11-27-n76.html,,1196331435

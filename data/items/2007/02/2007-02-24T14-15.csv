@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-880,comment,363,546,0,0,ch,,,"It would be more interesting if news.ycombinator.com also checked if a URL was directly linked from a previously submitted URL; the URL was from the same site as the previously submitted URL.<p>Before you could commit a new submission news.ycombinator.com would present a list of matches (in descending order by date) so that you could compare what you are about to submit versus what is already submitted.",1172327341
-879,story,,,3,0,nate,"Inkling Incorporated - Featured in the Business section of today's Chicago Tribune","http://www.chicagotribune.com/technology/chi-0702240047feb24,0,3164970.story?coll=chi-bizfront-hed",,1172326726
-878,comment,668,782,0,0,nippotam,,,"Tiki uses only 3 fingers instead of 5.",1172326486
-877,story,,,11,5,amichail,"The Paradox of Choice - Why More Is Less",http://video.google.com/videoplay?docid=6127548813950043200,,1172326327
-876,comment,721,856,0,0,nandan,,,"Ebay itself acquired StubHub. So I guess there are some mitigating factors to networks effects.",1172326321

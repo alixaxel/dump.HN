@@ -1,0 +1,2 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+136,comment,121,121,0,0,rtm,,,"I wonder what this means for practical system design.\nDo people currently build assumptions about hard drive\nfailure patterns into their systems, in a way that\nthey should change? I suppose independent failure\n(i.e. copying data to two drives is better than storing\nit on just one) is the main assumption behind e.g. RAID;\nI wonder whether Google has any new insight there.",1171946550

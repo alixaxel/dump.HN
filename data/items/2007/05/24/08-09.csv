@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+24269,comment,24202,24202,0,0,Tichy,,,"Is it really necessary to work 70-80 hour weeks? How long do they want to keep it up?<p>What is the rationale behind long work hours?",1179996421
+24268,comment,24057,24057,0,0,ralph,,,"Personally, I put these lines in my ~/.inputrc.  It allows the vi\nkey-bindings to still work but a few of the non-vi ones can leak\nthrough.<p>set keymap vi-insert<p>C-p: previous-history<p>C-n: next-history<p>C-b: backward-char<p>C-f: forward-char<p>C-a: beginning-of-line<p>C-e: end-of-line<p>C-l: clear-screen\n",1179996307
+24267,comment,23976,24233,0,0,ivan,,,"Exactly, I'm referring to that claim :) ",1179995284
+24266,story,,,1,1,gibsonf1,"Politicians weigh renewal of Net access tax ban",http://news.com.com/Politicians+weigh+renewal+of+Net+access+tax+ban/2100-1028-6185868.html?part=dht&tag=nl.e703,,1179994171
+24265,comment,24248,24250,0,0,SwellJoe,,,"I'm clearly out of the loop.  I've never heard of any of those except Larry and Sergey.  They definitely aren't the ""first obvious"" choices for me.  ;-)",1179994086

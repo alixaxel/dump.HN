@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37053,story,,,2,0,kul,"Twitter funded",http://twitter.com/blog/2007/07/taking-bite-out-of-big-apple.html,,1185532956
+37052,story,,,3,0,bootload,"Making the web into a banking platform",http://radar.oreilly.com/archives/2007/07/making_the_web.html,,1185531563
+37051,story,,,1,0,terpua,"Do the link submissions in news.yc follow the long tail?",,"Curious to see the top 10 link domains...does anyone have time to do a quick perl hack on /newest?",1185531046
+37050,story,,,21,2,terpua,"The 105% Rule in word-of-mouth",http://www.fastcompany.com/magazine/116/column-made-to-stick.html,,1185530417

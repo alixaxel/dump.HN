@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-33354,story,,,6,0,nickb,"Amazon S3 persistent Ruby objects",http://nutrun.com/weblog/amazon-s3-persistent-ruby-objects/,,1184020845
-33353,comment,33246,33246,0,0,bayareaguy,,,"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. <p>- Antoine de Saint-Exupery 
-",1184019858
-33352,comment,33316,33351,0,0,bayareaguy,,,"<a href=""http://www.spec.org/jAppServer2004/results/jAppServer2004.html"" rel=""nofollow"">http://www.spec.org/jAppServer2004/results/jAppServer2004.ht...</a>",1184019680
-33351,comment,33316,33316,0,0,bayareaguy,,,"The article would be better if it included links to the MySQL and Oracle benchmark results.
-",1184019529
-33350,story,,,12,13,dawie,"Facebook: ""going IPO!""",http://valleywag.com/tech/facebook/f+++-you-yahoo-theyre-going-ipo-276254.php,,1184018456

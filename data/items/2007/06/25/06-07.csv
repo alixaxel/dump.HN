@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+30465,comment,30445,30445,0,0,staunch,,,"<i>""This is not a company led by one or two brilliant co-founders. Rather, it is a team of now dozens of engineers...""</i><p>I hope they IPO really early. When they do I'm going to make a killing. So many people will think they're investing in The Next Google and will then realize they're not.\n",1182754143
+30463,story,,,7,0,bootload,"The Next Big Language (Go ugly early)",http://steve-yegge.blogspot.com/2007/02/next-big-language.html,,1182752983
+30462,story,,,33,16,elq,"John Lam on Software: Steve Yegge ported Rails to JavaScript",http://www.iunknown.com/2007/06/steve-yegge-por.html,,1182752040

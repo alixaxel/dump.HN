@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+135073,comment,134978,134978,0,0,bscofield,,,"Why late? I don't think the SDK will kill iUI (or iPhone web application development more generally) - it's targeted at a different developer audience.",1205323102
+135072,comment,134509,134943,0,0,almost,,,"As I understand it this opens you up to a lot of extra possibility for vulnerabilities. Each new combination of block cipher, prng and hmac etc has the possibility of interacting in unforeseen ways. Maybe it's better to specify all these things so that the system can be evaluated as a whole. At least that's the impression I've got from Practical Cryptography which I'm currently reading.",1205322922
+135071,story,,,1,0,bukster,"Modept Mobile Application Provisioning Platform",http://www.paxmodept.com/telesto/blogitem.htm?id=584,,1205322595
+135070,comment,135025,135025,0,0,ken_adair,,,"The $100M dollar iFund certainly grabs the headlines.  You have to wonder though if they didn't just slap on another zero to beat Google's $10M prize for their Android developer challenge.",1205322587
+135069,story,,,19,1,getp,"9 Ways To Jumpstart Your Writing Goal (Surprisingly applicable to programming.)",http://www.dumblittleman.com/2008/03/9-ways-to-jumpstart-your-writing-goal.html,,1205322489
+135068,story,,,1,0,nreece,"Never Write an Insecure ASP.NET Application Ever Again",http://www.devx.com/codemag/Article/37396?trk=DXRSS_DOTNET,,1205322123
+135067,story,,,2,0,getp,"How Did A-Rod Get So Good?",http://freakonomics.blogs.nytimes.com/2008/03/11/how-did-a-rod-get-so-good/,,1205322050
+135066,story,,,1,0,iamelgringo,"Hulu.com to Open Its TV and Film Offerings This Week - New York Times",http://www.nytimes.com/2008/03/11/business/media/11hulu.html?ref=business,,1205321869
+135065,story,,,27,3,nreece,"9 Essential Rails Tips",http://fortytwo.gr/blog/18/9-Essential-Rails-Tips,,1205321579
+135064,story,,,1,0,gibsonf1,"Game developers enthused about iPhone, Touch",http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/12/BU3IVHTG7.DTL,,1205321578
+135062,comment,134661,134669,0,0,xirium,,,"I don't doubt the calibre of your judging panel. However, you may wish to refrain from using the phrase ""top shelf"" because it is British slang for porn ( <a href=""http://www.urbandictionary.com/define.php?term=top+shelf"" rel=""nofollow"">http://www.urbandictionary.com/define.php?term=top+shelf</a> ). Combined with your April Fool's Day deadline, this may reduce the gravitas of your endeavour.",1205321317
+135061,comment,134575,134575,0,0,anon,,,"it's missing 'pass' which is essential if you wish for automatic indentation to work properly",1205321081
+135060,comment,134808,134808,0,0,nkohari,,,"<a href=""http://twitter.com/nkohari"" rel=""nofollow"">http://twitter.com/nkohari</a>",1205320955
+135059,story,,,3,0,iamelgringo,"A distant dream comes true with Django",http://www.jjude.com/index.php/archives/48,,1205320602

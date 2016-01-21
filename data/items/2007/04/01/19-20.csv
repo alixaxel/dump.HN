@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+8047,story,,,1,1,mattculbreth,"Salesforce.com Apex--Similar in concept to AWS",http://www.salesforce.com/developer/,,1175457129
+8046,comment,7935,7951,0,0,inklesspen,,,"You can't run a database?<p>What's the point of this, then: <a href=""http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=101&externalID=519&fromSearchPage=true"">http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=101&externalID=519&fromSearchPage=true</a>",1175456897
+8045,comment,7993,8038,0,0,pg,,,"If they had left out Arc, it would have actually been a good idea.",1175455737
+8044,comment,8043,8043,0,0,ewheeler,,,"I have no experience with grant proposals or grant stipulations and nobody I've spoken with seems to have an answer. \nWould it be possible to get a grant with terms for developing a software tool that I could then sell as a commercial product?\nOne suggestion was to apply for a grant with language only about researching the effectiveness of a tool, and then use the funds to develop the tool.",1175455660
+8043,story,,,3,2,ewheeler,"Will grant $ from a non-profit foundation preclude profitability?",,,1175455413
+8042,comment,7993,7998,0,0,notabel,,,"I had a Logo class in 4th grade (10yrs), which led me to Scheme the next year.  So, yes, it does happen.",1175454622

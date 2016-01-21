@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+99166,story,,,1,0,nreece,"IBM opens its application lifecycle management (ALM) platform, Jazz",http://www.crn.com/software/205604615,,1200480844
+99165,story,,,1,0,nreece,"Business Users Get Into the Vista Adoption Curve","http://www.pcworld.com/article/id,141396-c,vista/article.html",,1200480802
+99164,comment,99053,99148,0,0,marcus,,,"Ever heard of the concept of Turing Completeness, Google it...",1200480207
+99163,comment,98828,99072,0,0,gmlk,,,"I guess he's doing alright if you only have to complain about the font :)",1200479647
+99162,story,,,1,0,terpua,"The Long Tail Of Business Models",http://avc.blogs.com/a_vc/2008/01/the-long-tail-o.html,,1200479231
+99161,comment,99053,99053,0,0,ntoshev,,,"No, but I may try Clojure. Because it runs on the JVM, there are lots of libraries, and I can always fall back to Java/JRuby if something doesn't work.<p>Arc and Clojure together may make for a great Lisp year.",1200479023
+99160,comment,98770,98872,0,0,Tichy,,,"I've never changed the battery of my notebook, and it seems to me the inputs are fine otherwise - USB gives you everything you need.",1200478891
+99159,comment,99092,99128,0,0,ntoshev,,,"No idea how pg handles it, but here is an easy do-it-yourself way:\n<a href=""http://armstrongonsoftware.blogspot.com/2006/09/pure-and-simple-transaction-memories.html"" rel=""nofollow"">http://armstrongonsoftware.blogspot.com/2006/09/pure-and-sim...</a><p>It doesn't matter it is in Erlang - you can do it in any language. A Lisp that implements software transactional memory is Clojure (runs on the JVM):\n<a href=""http://clojure.sourceforge.net/"" rel=""nofollow"">http://clojure.sourceforge.net/</a>",1200478717

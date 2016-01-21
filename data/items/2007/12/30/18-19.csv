@@ -1,0 +1,20 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+93684,comment,93683,93683,0,0,carpal,,,"A little project I did over the holidays.  I got sick of how slow and cluttered weather.com was, so I whipped up this little service.  I hope other people can find it useful.<p>It took me about a day.  It is written in Rails.  It contains about 100 lines of application code.",1199041170
+93683,story,,,57,48,carpal,"Man, weather.com really sucks. I bet I could make a better one in a day.",http://forecaster.ws,,1199041143
+93682,story,,,4,0,nickb,"Tied Up in Knots: Why are knots so pervasive?",http://www.sciencenews.org/articles/20071222/bob11.asp,,1199040890
+93681,story,,,2,0,nickb," i-Snake robotic surgeon 'will transform surgery'",http://news.bbc.co.uk/2/hi/health/7155635.stm,,1199040687
+93680,comment,93537,93638,0,0,david927,,,"Too bad no one wants it:\n<a href=""http://en.wikipedia.org/wiki/List_of_countries_by_current_account_balance"" rel=""nofollow"">http://en.wikipedia.org/wiki/List_of_countries_by_current_ac...</a>",1199040122
+93679,comment,93537,93620,0,0,david927,,,"Huh?  An opinion piece from the Cato Institute?",1199040053
+93678,story,,,4,0,nickb,"I think my brain just exploded",http://enfranchisedmind.com/blog/2007/12/28/i-think-my-brain-just-exploded/,,1199040003
+93677,comment,93584,93663,0,0,jorgeortiz85,,,"Was Parakey a YC company?",1199039813
+93676,comment,93537,93618,0,0,aswanson,,,"There may be a fair amount of criticism of college as it exists today on news.YC, but I think it's also fair to say that the average poster here is not hostile to knowledge itself.",1199039785
+93675,story,,,6,0,nickb,"Pattern matching in metalua",http://metalua.blogspot.com/2007/12/pattern-matching-in-metalua.html,,1199039702
+93674,story,,,1,0,nickb,"xautomation - Control X from the command line ",http://www.hoopajoo.net/projects/xautomation.html,,1199039605
+93673,story,,,1,0,nickb,"Secure website-authentication using GPG keys",http://neverfear.org/blog/view/Secure_website_authentication_using_GPG_keys/,,1199039450
+93672,comment,93654,93654,0,0,DarrenStuart,,,"I don't think you would want to as the site gets bigger. I think the solution is to give the end user a way to filter this stuff out. <p>take digg for example if you filter out all the stuff you are not interested in or just look at what your friends are digging it works.",1199039328
+93671,comment,93647,93647,0,0,aswanson,,,"Do the electronics require a microprocessor to execute the game logic, or is it an analog based design?",1199038822
+93670,comment,93600,93600,0,0,dzohrob,,,"tom's real profile is here: <a href=""http://myspace.com/tom"" rel=""nofollow"">http://myspace.com/tom</a>",1199038819
+93669,comment,93615,93615,0,0,edw519,,,"Those with the wherewithal to wage battle against this idiocy would simply rather fly privately.<p><a href=""http://netjets.com/"" rel=""nofollow"">http://netjets.com/</a><p>Now that planes are the new buses, can't say that I blame them.",1199038568
+93668,comment,93584,93634,0,0,aswanson,,,"Maybe you should consider adding new partners (chuckle) to cope with the workload.",1199038334
+93667,comment,93654,93657,0,0,brk,,,"But this site is also much more targeted than a digg or reddit or mixx type of site.<p>I think if you stick to any given topic (hacking, politics, biotech, environmental, etc.) you have a lesser chance of the site becoming a giant cesspool of repeated lame topics.",1199037954
+93666,comment,93588,93588,0,0,aswanson,,,"I like mashable.com.  Stop by reddit once in a while to get my rda of what's new with my man Ron Paul.",1199037888

@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-24816,comment,24089,24089,0,0,sbraford,,,"I haven't implemented mass user-generated subdomains in PHP or Python, but it certainly was a snap to do in Rails.<p>User-created subdomains didn't seem like they really caught on until 37 Signals started having huge success.",1180198723
-24815,comment,24702,24704,0,0,imperator,,,"I have noticed this slowdown as well. Mainly links lingering on the frontpage for more than usual. Perhaps it is cyclical.",1180198312
-24814,comment,24546,24546,0,0,surya,,,"No, Google will be killed by people who it rejected to take.",1180198176
-24813,comment,24499,24499,0,0,master54,,,"I only have 2 words to say ""mein kampf""",1180196960
-24812,story,,,1,0,Readmore,"Software needs to heed Moore's Law says Intel",http://news.zdnet.com/2100-3513_22-6186765.html?part=rss&tag=feed&subj=zdnn,,1180196794

@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-25585,comment,25459,25565,0,0,hello_moto,,,"Why are these ""red flags""<p>Devs with C#/Java background a red flag? Why is that? Should they use Ruby or Python for the desktop app that supports Outlook as a plugin instead of C#?<p>If they haven't launched and they got financial backing (huge), that means they have a solid business model that's important",1180586519
-25584,comment,25459,25459,0,0,awt,,,"Man.  I wish I could build hype like these guys can.",1180586272
-25583,comment,25551,25551,0,0,wmorein,,,"Do you get events when you go online/offline? I don't see that in the docs but it is a key piece of what Firefox 3 promises for offline support. <p>This seems to work a little differently than Firefox. Am I right in thinking that you are supposed to always go at the local cache and then just synch that as needed?",1180586174
-25582,comment,25567,25567,0,0,andre,,,"That's what came into my mind, why not just use Wikipedia content. ",1180585423
-25581,comment,25575,25575,0,0,andre,,,"A great solution is to give them an incentive to give you their real email address, like you're going to send them an important report or something else that is of high value so the visitors have no problem giving up their email address. ",1180585330
-25580,comment,25551,25551,0,0,juwo,,,"wow! great!<p>But I wonder if they will run into the problems Java Web Start has.<p>",1180584536
-25579,comment,25551,25551,0,0,amichail,,,"So how much effort is it to duplicate much of your database functionality on the client-side?  How easy is it to maintain afterwards along with the main db code?",1180584265

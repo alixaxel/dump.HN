@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+92619,comment,92472,92520,0,0,tarkin2,,,"Diabolially clever? At the moment companies pay to advertise on Facebook et al. With Badoo companies and customers pay for their bands/artists/self to reach the top of a list? This is just a slight alternation of the extant model not an alternative. <p>Although, yes, as Badoo gives users the ability to do what companies have done for years is new, but it's still advertising, something they claim they've abandoned.",1198608934
+92617,story,,,1,0,maurycy,"Hacking Web 2.0, by the same guy who found that Gmail bug",http://www.gnucitizen.org/blog/for-my-next-trick-hacking-web20,,1198608791
+92616,story,,,2,0,maurycy,"Original Gnucitizen's article on Gmail hijacking",http://www.gnucitizen.org/blog/google-gmail-e-mail-hijack-technique/,,1198608752
+92615,story,,,11,3,nickb,"Ruby 1.9 Released",http://svn.ruby-lang.org/repos/ruby/trunk/ChangeLog,,1198605658
+92614,story,,,33,11,nickb,"Warning: GMail security failure",http://www.davidairey.co.uk/google-gmail-security-hijack/,,1198605646

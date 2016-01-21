@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-33612,story,,,1,2,gleb,"Question: link to Amazon's study of HTTP latency vs cart abandonment?",,"They did an interesting study showing that response time above 200ms led to people spending less money.  Basically, they A-B testing and artificially added server latency in small increments and measured how much money people spent.  200ms (or some similar number) was optimal, going lower didn't show benefit, going above lost them money.<p>Anyway, I can't find a link to this anymore.  I think it was on some blogs, probably after a talk Amazon gave.  Anybody have it?  I don't seem to have enough Google-fu to find it :(",1184128866
-33611,story,,,8,0,staunch,"Marc Andreessen: Eleven Lessons Learned About Blogging",http://blog.pmarca.com/2007/07/eleven-lessons-.html,,1184127308
-33610,comment,33505,33505,0,0,jamiequint,,,Authorize.net?,1184127238
-33609,comment,33514,33514,0,0,Jd,,,"Anyone else see the toilet advert?  Very disturbing...",1184127192
-33608,comment,33562,33562,0,0,Jd,,,"Should it be a surprise that a salesperson writes a post extolling salespeople?",1184127123
-33607,comment,33553,33553,0,0,jamiequint,,,"circular linkage :D",1184126478

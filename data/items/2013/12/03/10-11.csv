@@ -1,0 +1,509 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+6839602,comment,6838299,6838299,1,0,aneeskA,,,"This is truly inspirational. You could have added the photo of the genius along with this post.",1386068388
+6839601,story,,,167,193,alexkus,"F1 2014: All aboard the 'power train' - new rules explained",http://www.bbc.co.uk/sport/0/formula1/25158104,,1386068386
+4812392,story,,,0,0,,,,,1386068380
+4812386,story,,,0,0,,,,,1386068380
+4812382,story,,,0,0,,,,,1386068380
+4812379,story,,,0,0,,,,,1386068380
+4812376,story,,,0,0,,,,,1386068380
+4812374,story,,,0,0,,,,,1386068380
+4812367,story,,,0,0,,,,,1386068380
+4812348,story,,,0,0,,,,,1386068379
+4812228,story,,,0,0,,,,,1386068376
+6839600,comment,6839452,6839554,2,0,icebraining,,,"Wouldn&#x27;t that indicate an effect caused by puberty instead? Not that nurture can&#x27;t affect puberty, but I don&#x27;t think having a beard was caused by how my parents raised me ;)",1386068370
+4810670,story,,,0,0,,,,,1386068340
+4810153,story,,,0,0,,,,,1386068328
+6839599,comment,6839452,6839452,2,0,AndrewDucker,,,"Seems likely that a large chunk of this is hormonally affected - seeing as the changes kick in at the start of puberty.<p>In which case it&#x27;s worth remembering that hormonal levels vary dramatically for both men and women, and I&#x27;d expect that over a large sample size you&#x27;d see a fair amount of crossover.",1386068302
+4808540,story,,,0,0,,,,,1386068290
+6839598,comment,6839052,6839405,16,0,DanTheManPR,,,"That&#x27;s Penny Arcade you&#x27;re thinking of.",1386068272
+4807055,story,,,0,0,,,,,1386068255
+4804791,story,,,0,0,,,,,1386068201
+6839597,comment,6829725,6832433,1,0,mcv,,,"That sounds like Java alright. Or maybe that&#x27;s C++.",1386068153
+6839596,comment,6838434,6838896,1,0,JonnieCache,,,"I sometimes like to do early stage design documents with felt-tip pens or wax crayons, because it prevents you from writing fiddly details and encourages you to sketch broad structures.<p>I think this is more of a designer concept but you can apply it to engineering as well.",1386068143
+4802205,story,,,0,0,,,,,1386068139
+6839595,story,,,2,0,webhat,"Quantified Breakup",http://quantifiedbreakup.tumblr.com/,,1386068083
+4799250,story,,,0,0,,,,,1386068070
+4798607,story,,,0,0,,,,,1386068054
+6839594,comment,6838434,6839256,6,0,crististm,,,"The audience is self-selected. The ones that don&#x27;t know any better see only a condescend tone instead of the material. They don&#x27;t get the difference between &quot;lines spent&quot; and &quot;lines produced&quot; and they don&#x27;t know that computers were used to &quot;compute&quot; and thus the formalism was absolutely necessary to trust the result.<p>What we write today is WoW and stuff we don&#x27;t need formalism to prove they don&#x27;t crash - because, you know, who cares about that?<p>Dijkstra comes from a time were you could reuse a piece of software and build upon it because you could understand it. Today nobody does it because the software is &quot;disposable&quot;. Who cares about proving a piece of future garbage?",1386068012
+4796645,story,,,0,0,,,,,1386068005
+4795649,story,,,0,0,,,,,1386067982
+6839593,story,,,2,0,DrinkWater,"Distributed ML from Yahoo: SAMOA ",https://github.com/yahoo/samoa,,1386067972
+4794590,story,,,0,0,,,,,1386067957
+6839592,comment,6839452,6839452,10,0,scrrr,,,"I&#x27;m sure &quot;Gender Studies&quot; will find a way to discredit such findings.. ;)",1386067947
+4792932,story,,,0,0,,,,,1386067917
+4792854,story,,,0,0,,,,,1386067915
+4792483,story,,,0,0,,,,,1386067907
+4792318,story,,,0,0,,,,,1386067903
+4792242,story,,,0,0,,,,,1386067901
+4791454,story,,,0,0,,,,,1386067882
+4791437,story,,,0,0,,,,,1386067882
+4791275,story,,,0,0,,,,,1386067878
+4791143,story,,,0,0,,,,,1386067875
+4790906,story,,,0,0,,,,,1386067869
+4790844,story,,,0,0,,,,,1386067868
+4790757,story,,,0,0,,,,,1386067866
+4790708,story,,,0,0,,,,,1386067865
+4790546,story,,,0,0,,,,,1386067861
+4790537,story,,,0,0,,,,,1386067861
+4790467,story,,,0,0,,,,,1386067859
+4790371,story,,,0,0,,,,,1386067857
+4790271,story,,,0,0,,,,,1386067854
+4790198,story,,,0,0,,,,,1386067853
+6839591,comment,6838299,6838299,4,0,Kliment,,,"Reminds me of a project I built this spring:<p><a href=\"http://imgur.com/a/HLbWF\" rel=\"nofollow\">http://imgur.com/a/HLbWF</a>",1386067852
+6839590,comment,6838299,6839393,1,0,rilut,,,"yoi sob gue juga kaget",1386067851
+4789919,story,,,0,0,,,,,1386067846
+4789759,story,,,0,0,,,,,1386067842
+4789593,story,,,0,0,,,,,1386067838
+6839589,comment,6838494,6839274,3,0,juliangamble,,,"What we see in Clojure (like other Lisps) is minimal syntax directed at the idea of homoiconicity. This means that the program&#x27;s structure is similar to its syntax. It also means that we can represent the program as a data structure in the language itself.<p>So (1) Simple syntax, and (2) being able to represent the program structure in the language easily, both lead to making it easy to build compilers, interpreters and bytecode compilers. The barrier to entry for these tasks is lower in Clojure.<p>Many would also say that (1) and (2) make Clojure a joy to program in, but I&#x27;ll leave that to the reader to judge for themselves.",1386067829
+4788850,story,,,0,0,,,,,1386067820
+6839588,comment,6839452,6839452,6,0,bjourne,,,"Note that the article cleverly omits any numerical data, likely not to scare of the numberophobic readers. Nowhere does it say whether female brains where 0.1% more connected, 1%, 10%, 100% or 1000% across hemispheres. It just says &quot;more connected.&quot; So, if you want to calibrate your gender difference prejudices those numbers are very important -- without them the article doesn&#x27;t say very much.",1386067817
+4788701,story,,,0,0,,,,,1386067817
+4788254,story,,,0,0,,,,,1386067806
+4788134,story,,,0,0,,,,,1386067803
+4788105,story,,,0,0,,,,,1386067802
+4787948,story,,,0,0,,,,,1386067798
+6839587,comment,6839452,6839551,6,0,V-2,,,"A 100% proper controlled experiment with double blinding etc. is not possible, perhaps, but there are transgender children who often are raised as if they were of their physical sex, which obviously causes them to suffer.<p>I always wondered - if it&#x27;s purely a social construct that boys play with trucks and girls play with dolls etc., then why in most stories about a girl trapped in a boy&#x27;s body we hear her say &quot;I wanted to play with girls&quot; (contrary to society&#x27;s expectations), &quot;I wanted to play with dolls&quot; etc.?<p>I googled it up just now - <a href=\"http://prospect.org/article/transgender-candidate\" rel=\"nofollow\">http://prospect.org/article/transgender-candidate</a><p>The story of Bindaya Rana (from Pakistani), who was born as a male:<p>&quot;Bindiya Rana, one of Pakistan’s first transgender candidates [...] “I used to wear my sister’s clothes,” she said. “And use lipstick and powder and nail polish. I wanted to play with dolls and be in the kitchen.” Her parents disapproved when they found her in makeup, beating her.&quot;<p>It&#x27;s a gaping hole in the theory that we are wired differently &quot;as we grow up due to the different experiences and upbringing men and women are subject to&quot;.<p>If one&#x27;s self-identified gender could be overriden so easily, there would me much less personal tragedies in this world.",1386067795
+4787694,story,,,0,0,,,,,1386067792
+4787552,story,,,0,0,,,,,1386067789
+4787507,story,,,0,0,,,,,1386067788
+4787473,story,,,0,0,,,,,1386067787
+6839586,comment,6829463,6834790,1,0,lanbird,,,"2. All the best games like GTA, metal gear solid is out on the first of the days when the console is out. Marketing. I remember those days my friends played GTA 4. I first played it on PC and later on xbox 2. I had a lot of fun and yes i get them almost FREE or very cheap.<p>4. Piracy is wrong. I agree. Im sad for the developers that depends from the big companies like MS and PS. But what is the point to buy a 4 games for the price of the console? And after you must spend money for unnecessary addons and maps that costs no so cheap. This is not my fault that i don&#x27;t buy a games. (almost addons and maps that i wanted are free now or cheaper) And those poor people who buy the game and cant refund it, because they cant test it. I dont mention disk scratches, the whole box with a lot of CDS that no one needs and i cant even sell. Year i know about cloud games.<p>9. The high tech industry never stops and even if you buy a console now, tomorrow someone like Steam will release a new one, so i dont see a difference, Yeah i prefer be the last guy that the mass of sheeps. Like those you see killing people and fighting to buy a new console.<p>6. New features to the old game ? I doubt. 11. A few, even Fable was released on PC.<p>12. A consuming world. Its so sad.<p>ps: i just wanted to share my style of life about console games. My last console was playstation (i sell it in 2001 ) and now im on xbox 2 for 3 years and i will do the same with the new ones.",1386067785
+6839585,comment,6836994,6839516,1,0,Semaphor,,,"Yeah, while we probably don&#x27;t need a multitude of threads, the complaining is warranted. I spent 20s there until deciding to check the comments so someone can tell me what it is.",1386067784
+4787344,story,,,0,0,,,,,1386067784
+4787312,story,,,0,0,,,,,1386067783
+4787093,story,,,0,0,,,,,1386067778
+4787033,story,,,0,0,,,,,1386067777
+4786872,story,,,0,0,,,,,1386067773
+4786854,story,,,0,0,,,,,1386067773
+4786846,story,,,0,0,,,,,1386067773
+4786831,story,,,0,0,,,,,1386067772
+4786799,story,,,0,0,,,,,1386067772
+4786747,story,,,0,0,,,,,1386067770
+4786733,story,,,0,0,,,,,1386067770
+4786712,story,,,0,0,,,,,1386067770
+4786663,story,,,0,0,,,,,1386067768
+4786661,story,,,0,0,,,,,1386067768
+4786649,story,,,0,0,,,,,1386067768
+4786623,story,,,0,0,,,,,1386067768
+4786590,story,,,0,0,,,,,1386067767
+4786470,story,,,0,0,,,,,1386067764
+4786441,story,,,0,0,,,,,1386067763
+4786435,story,,,0,0,,,,,1386067763
+4786357,story,,,0,0,,,,,1386067761
+4786283,story,,,0,0,,,,,1386067760
+4786097,story,,,0,0,,,,,1386067755
+4786087,story,,,0,0,,,,,1386067755
+4786072,story,,,0,0,,,,,1386067755
+4785955,story,,,0,0,,,,,1386067752
+4785879,story,,,0,0,,,,,1386067750
+4785867,story,,,0,0,,,,,1386067750
+4785848,story,,,0,0,,,,,1386067750
+4785790,story,,,0,0,,,,,1386067748
+4785728,story,,,0,0,,,,,1386067747
+4785609,story,,,0,0,,,,,1386067744
+4785598,story,,,0,0,,,,,1386067744
+6839584,story,,,1,0,demartini,"Waitsourcing, approaches to low-effort crowdsourcing",http://crowdresearch.org/blog/?p=8320,,1386067743
+4785331,story,,,0,0,,,,,1386067738
+4785265,story,,,0,0,,,,,1386067736
+4785194,story,,,0,0,,,,,1386067734
+4785089,story,,,0,0,,,,,1386067732
+4784908,story,,,0,0,,,,,1386067728
+4784873,story,,,0,0,,,,,1386067727
+4784625,story,,,0,0,,,,,1386067720
+4784460,story,,,0,0,,,,,1386067716
+4784253,story,,,0,0,,,,,1386067711
+6839583,comment,6839452,6839452,2,0,octo_t,,,"Please read Cordelia Fine&#x27;s Delusions of Gender, because it goes into exactly why things like this are bogus science.",1386067709
+4783406,story,,,0,0,,,,,1386067691
+4783404,story,,,0,0,,,,,1386067691
+4782902,story,,,0,0,,,,,1386067679
+4782809,story,,,0,0,,,,,1386067677
+4782630,story,,,0,0,,,,,1386067673
+4782226,story,,,0,0,,,,,1386067663
+4782187,story,,,0,0,,,,,1386067662
+4782175,story,,,0,0,,,,,1386067662
+4781857,story,,,0,0,,,,,1386067654
+4781646,story,,,0,0,,,,,1386067649
+4781643,story,,,0,0,,,,,1386067649
+4781632,story,,,0,0,,,,,1386067649
+4781564,story,,,0,0,,,,,1386067647
+4781451,story,,,0,0,,,,,1386067645
+4781415,story,,,0,0,,,,,1386067644
+4781388,story,,,0,0,,,,,1386067643
+4781317,story,,,0,0,,,,,1386067642
+4781264,story,,,0,0,,,,,1386067640
+4781261,story,,,0,0,,,,,1386067640
+4781211,story,,,0,0,,,,,1386067639
+4781205,story,,,0,0,,,,,1386067639
+4781193,story,,,0,0,,,,,1386067639
+4781161,story,,,0,0,,,,,1386067638
+4781146,story,,,0,0,,,,,1386067638
+4781129,story,,,0,0,,,,,1386067637
+4780793,story,,,0,0,,,,,1386067629
+4780731,story,,,0,0,,,,,1386067628
+4780709,story,,,0,0,,,,,1386067627
+4780695,story,,,0,0,,,,,1386067627
+4780672,story,,,0,0,,,,,1386067627
+4780527,story,,,0,0,,,,,1386067623
+4780512,story,,,0,0,,,,,1386067623
+4780437,story,,,0,0,,,,,1386067621
+4780201,story,,,0,0,,,,,1386067615
+4779984,story,,,0,0,,,,,1386067610
+4779923,story,,,0,0,,,,,1386067609
+4779885,story,,,0,0,,,,,1386067608
+4779857,story,,,0,0,,,,,1386067607
+4779840,story,,,0,0,,,,,1386067607
+4779796,story,,,0,0,,,,,1386067606
+6839581,story,,,1,0,oligocene,"The Internet really isnt all that omnipresent",http://herculescyborg.blogspot.co.uk/2013/11/this-is-draft-please-do-not-read-it.html,,1386067605
+4779727,story,,,0,0,,,,,1386067604
+4779494,story,,,0,0,,,,,1386067599
+4779479,story,,,0,0,,,,,1386067598
+4779421,story,,,0,0,,,,,1386067597
+4779285,story,,,0,0,,,,,1386067594
+4779119,story,,,0,0,,,,,1386067590
+4779049,story,,,0,0,,,,,1386067588
+4778669,story,,,0,0,,,,,1386067579
+4777086,story,,,0,0,,,,,1386067543
+4776724,story,,,0,0,,,,,1386067534
+4776565,story,,,0,0,,,,,1386067530
+4776137,story,,,0,0,,,,,1386067521
+4776062,story,,,0,0,,,,,1386067519
+4776056,story,,,0,0,,,,,1386067519
+4775974,story,,,0,0,,,,,1386067517
+4775936,story,,,0,0,,,,,1386067516
+4775933,story,,,0,0,,,,,1386067516
+4775911,story,,,0,0,,,,,1386067515
+6839578,comment,6838269,6838269,1,0,stuaxo,,,"I needed some stiches in Croatia, it came to about 40 euros.",1386067513
+4775817,story,,,0,0,,,,,1386067513
+4775775,story,,,0,0,,,,,1386067512
+4775755,story,,,0,0,,,,,1386067511
+4775684,story,,,0,0,,,,,1386067510
+4775675,story,,,0,0,,,,,1386067510
+4775647,story,,,0,0,,,,,1386067509
+4775588,story,,,0,0,,,,,1386067507
+4775536,story,,,0,0,,,,,1386067506
+4775497,story,,,0,0,,,,,1386067505
+4775474,story,,,0,0,,,,,1386067505
+4775471,story,,,0,0,,,,,1386067505
+4775389,story,,,0,0,,,,,1386067503
+4775221,story,,,0,0,,,,,1386067499
+4775155,story,,,0,0,,,,,1386067497
+4775108,story,,,0,0,,,,,1386067496
+4775077,story,,,0,0,,,,,1386067495
+4775058,story,,,0,0,,,,,1386067495
+4775024,story,,,0,0,,,,,1386067494
+6839577,comment,6839452,6839496,1,0,spacehome,,,"Of course there are.",1386067493
+4774980,story,,,0,0,,,,,1386067493
+4774954,story,,,0,0,,,,,1386067492
+4774933,story,,,0,0,,,,,1386067492
+4774725,story,,,0,0,,,,,1386067487
+4774695,story,,,0,0,,,,,1386067486
+6839576,comment,6837892,6837892,1,0,daemonk,,,"Anonymous functions?",1386067480
+4773740,story,,,0,0,,,,,1386067464
+4773667,story,,,0,0,,,,,1386067463
+4773236,story,,,0,0,,,,,1386067453
+4772420,story,,,0,0,,,,,1386067433
+6839574,comment,6838836,6839478,4,0,octo_t,,,"So as i understand it the &#x27;use case&#x27; is for coercing 3rd party types into your own type hierarchy. Suppose you had:<p><pre><code>  trait Foo {\n    def bar(): Int\n  }\n</code></pre>\nand 3rd party library had<p><pre><code>  final class FooBar extends java.lang.Object {\n    public int bar() { /** **/ }\n  }\n</code></pre>\nyou could simply define your methods to take in a:<p><pre><code>  type BarAble = { def bar():Int }\n\n</code></pre>\nBut obviously if the library class is not final, you can simply do:<p><pre><code>  type ThirdPartyFoo = FooBar with Foo\n  ThirdPartyFoo <: Foo</code></pre>",1386067431
+6839573,comment,6839290,6839416,1,0,nl,,,"<i>I&#x27;d love to see this turnkey style hosting support php, databases and more</i><p>What kind of things are you looking for?",1386067421
+4771885,story,,,0,0,,,,,1386067421
+4771871,story,,,0,0,,,,,1386067420
+4771840,story,,,0,0,,,,,1386067420
+4771817,story,,,0,0,,,,,1386067419
+4771779,story,,,0,0,,,,,1386067418
+4771776,story,,,0,0,,,,,1386067418
+4771769,story,,,0,0,,,,,1386067418
+4771710,story,,,0,0,,,,,1386067416
+4771525,story,,,0,0,,,,,1386067412
+4771471,story,,,0,0,,,,,1386067411
+4771455,story,,,0,0,,,,,1386067411
+4771436,story,,,0,0,,,,,1386067410
+4771407,story,,,0,0,,,,,1386067409
+4771391,story,,,0,0,,,,,1386067409
+4771374,story,,,0,0,,,,,1386067409
+4771358,story,,,0,0,,,,,1386067408
+4771260,story,,,0,0,,,,,1386067406
+4771238,story,,,0,0,,,,,1386067406
+6839572,story,,,3,0,alexandros,"Male and female brains wired differently, scans reveal",http://www.theguardian.com/science/2013/dec/02/men-women-brains-wired-differently?CMP=twt_gu,,1386067405
+4771180,story,,,0,0,,,,,1386067404
+4771061,story,,,0,0,,,,,1386067402
+4771017,story,,,0,0,,,,,1386067400
+4771001,story,,,0,0,,,,,1386067400
+4770932,story,,,0,0,,,,,1386067398
+4770869,story,,,0,0,,,,,1386067397
+4770824,story,,,0,0,,,,,1386067396
+4770692,story,,,0,0,,,,,1386067393
+4770642,story,,,0,0,,,,,1386067392
+4770559,story,,,0,0,,,,,1386067390
+4770529,story,,,0,0,,,,,1386067389
+4770494,story,,,0,0,,,,,1386067388
+4770252,story,,,0,0,,,,,1386067383
+4770218,story,,,0,0,,,,,1386067382
+4770121,story,,,0,0,,,,,1386067379
+6839571,comment,6839452,6839547,2,0,kosei,,,"It&#x27;s understandable why it&#x27;s an issue to use heuristics based on a person&#x27;s gender, race or upbringing are an issue. However, there are likely instances where it&#x27;s useful. I honestly don&#x27;t know how to separate my logic from emotions on this one, especially when it comes to things like racial profiling or hiring practices based on gender. I am ethically opposed to each, despite the fact that I know that they can often be useful.",1386067368
+4768973,story,,,0,0,,,,,1386067353
+6839570,story,,,6,1,vplex,"How Spotify pays artists. Royalties, rates and payouts. ",http://www.spotifyartists.com/spotify-explained/,,1386067349
+4768357,story,,,0,0,,,,,1386067339
+4767936,story,,,0,0,,,,,1386067329
+4767920,story,,,0,0,,,,,1386067329
+6839569,comment,6838494,6838494,1,0,swah,,,"I have to agree with Yegge, good tools are a big problem (<a href=\"http://googlehow.com/2013/10/09/stanford-seminar-googles-steve-yegge-on-grok/\" rel=\"nofollow\">http://googlehow.com/2013/10/09/stanford-seminar-googles-ste...</a>). His project becomes more important as more compilers are written - I hope it exists outside Google someday.",1386067311
+6839568,comment,6838757,6838906,5,0,twobeard,,,"+1 to this. The least work for uploader, the least work for the downloader to get them all.",1386067305
+4766468,story,,,0,0,,,,,1386067295
+4766466,story,,,0,0,,,,,1386067295
+4766387,story,,,0,0,,,,,1386067293
+6839567,comment,6839452,6839506,1,0,LaGrange,,,"Exactly: &quot;Male and female brains showed few differences in connectivity up to the age of 13, but became more differentiated in 14- to 17-year-olds.”<p>Which can be hormonal, can be cultural, can be both.",1386067291
+4766257,story,,,0,0,,,,,1386067290
+6839566,comment,6834791,6834791,2,0,SimHacker,,,"This is a wonderful idea and an upstanding social service, in the same vein of giving heroin addicts access to free clean needles, pure heroin, and a safe place to shoot up.<p>There is no perfect solution -- in the ideal world, everyone would use safe healthy programming languages, and nobody would be addicted to shell scripting.<p>But in the real world, many people still choose to use shell scripting as a quick and easy short term solution to their  problems.<p>Like the unhealthy temptation to use regexps for parsing html, shell scripting just causes more problems, which snowball out of control until you have the dire situation we&#x27;re in today, with a whole generation of urban hipsters who learned cargo-cult cut-n-paste shell scripting by typing &quot;more ./configure&quot;.<p>So it&#x27;s much better to treat shell scripting as a health problem rather than a criminal problem.<p>My only suggestion is that you should sponsor links to &quot;recovery programs,&quot; where people can learn to solve their problems with safe healthy programming languages instead of shell scripts. For the popular rube-goldbergesque shell incantations, you could show how to accomplish the same thing more comprehensibly in Python, Ruby, JavaScript, Lisp, Forth, Mathematica, Quartz Composer, etc. ;)",1386067281
+4765596,story,,,0,0,,,,,1386067274
+4765316,story,,,0,0,,,,,1386067268
+6839565,comment,6838299,6838926,2,0,kamaal,,,"In my previous company there was a guy who used to run a tea stall. The entire stall was a extreme model of furniture hacking.<p>Not sure where he got his ideas from. His front door could be turned into a cash register + counter + door at the same time.<p>The store was full of furniture hacks.",1386067267
+4765256,story,,,0,0,,,,,1386067267
+4765245,story,,,0,0,,,,,1386067266
+4764986,story,,,0,0,,,,,1386067260
+4764756,story,,,0,0,,,,,1386067255
+4764735,story,,,0,0,,,,,1386067255
+4764413,story,,,0,0,,,,,1386067247
+6839564,comment,6839452,6839452,4,0,krcz,,,"One might ask if there is a clear line between female and male brains (like genitals for example) or differences are more like height - statistically men are higher than women, but there&#x27;s much overlap.<p>I believe that it is the second case - which means you really shouldn&#x27;t base decisions on the sex of person and brain &quot;wiring&quot; you believe she or he has.",1386067236
+4763289,story,,,0,0,,,,,1386067221
+6839563,comment,6838434,6839050,1,0,crististm,,,"&quot;it is also unbelievably smug and disconnected from reality.&quot; - it&#x27;s funny how he addressed your objection as well",1386067220
+6839562,comment,6836387,6839481,1,0,hrrsn,,,"True, even the hardware iterations aren&#x27;t exciting. Rebranding the 5 as the 5C is disappointing.<p>Where Apple do lead is in software, Android is getting better for the regular user but it&#x27;s still not even close. Vertical integration works.",1386067216
+6839561,comment,6833269,6834515,1,0,igorw,,,"FYI, here&#x27;s the follow-up post. <a href=\"https://igor.io/2013/12/03/stack-machines-shunting-yard.html\" rel=\"nofollow\">https://igor.io/2013/12/03/stack-machines-shunting-yard.html</a>",1386067200
+4762237,story,,,0,0,,,,,1386067196
+4761774,story,,,0,0,,,,,1386067185
+4761762,story,,,0,0,,,,,1386067185
+4761732,story,,,0,0,,,,,1386067184
+4761607,story,,,0,0,,,,,1386067181
+4761601,story,,,0,0,,,,,1386067181
+6839560,comment,6838299,6839184,29,0,jasonkester,,,"While we&#x27;re on Dorm Room Modification stories...<p>A buddy of mine lived in one of those extra cheap campus dorms where each room is a mirror image of itself with a bed and desk against each wall with a bookshelf bolted to the wall above.  I was hanging out on the evening when he decided to take down one of the bookshelves.<p>I never got a chance to ask quite why he was unbolting the thing from the wall, because no sooner had he removed the 3rd bolt than there was this enormulous crashing disaster in the room next door.<p>Sure enough, glancing across at the opposite wall, the bookshelf on <i>that</i> side had a washer and a nut threaded onto the end of a bolt.",1386067177
+4761383,story,,,0,0,,,,,1386067176
+4761035,story,,,0,0,,,,,1386067167
+4760872,story,,,0,0,,,,,1386067164
+4760709,story,,,0,0,,,,,1386067160
+4760538,story,,,0,0,,,,,1386067156
+4760462,story,,,0,0,,,,,1386067154
+4760362,story,,,0,0,,,,,1386067152
+4760173,story,,,0,0,,,,,1386067148
+4759956,story,,,0,0,,,,,1386067143
+4759866,story,,,0,0,,,,,1386067140
+6839559,comment,6837559,6837910,2,0,swah,,,"Why? There are mature databases, mature frameworks. Static files is pretty limited... if you mean that the blogging system wrote the static files and nginx served them, them I&#x27;d agree.",1386067139
+4759791,story,,,0,0,,,,,1386067139
+6839558,story,,,1,0,ibsathish,"Spotify Has Paid Out $500M+ To Rightsholders So Far In 2013",http://techcrunch.com/2013/12/03/spotify-gets-in-tune-with-musicians-with-the-new-b2b-spotify-artists-website-has-paid-out-500m-to-rightsholders-so-far-in-2013/,,1386067137
+4759086,story,,,0,0,,,,,1386067123
+6839557,comment,6837722,6838368,2,0,icebraining,,,"That reminds me of William Temple Hornaday&#x27;s, who killed a whole herd of Buffalos to preserve them.<p><a href=\"http://www.loe.org/shows/segments.html?programID=12-P13-00022&segmentID=7\" rel=\"nofollow\">http://www.loe.org/shows/segments.html?programID=12-P13-0002...</a>",1386067122
+4759024,story,,,0,0,,,,,1386067121
+4758746,story,,,0,0,,,,,1386067115
+6839556,comment,6836994,6838880,2,0,Semaphor,,,"Bad example imo. A good one would have been <a href=\"http://www.apple.com/iphone-5c/features/\" rel=\"nofollow\">http://www.apple.com/iphone-5c/features/</a> which doesn&#x27;t break scrolling AND gives hard facts.",1386067114
+4758268,story,,,0,0,,,,,1386067104
+4757988,story,,,0,0,,,,,1386067097
+4757960,story,,,0,0,,,,,1386067096
+6839555,comment,6833565,6838327,1,0,Raphael,,,"If you flip it, the text would be mirrored. Rotate.",1386067095
+4757902,story,,,0,0,,,,,1386067095
+4757475,story,,,0,0,,,,,1386067085
+6839554,comment,6839452,6839508,3,0,kosei,,,"The change in brain connectivity around age 13 could potentially explain the nurture side. Though this is one of those endless debates that may never be answered.<p>&quot;Male and female brains showed few differences in connectivity up to the age of 13, but became more differentiated in 14- to 17-year-olds.&quot;",1386067082
+6839552,comment,6838416,6838416,2,0,cLeEOGPw,,,"I have also experienced this conspiracy bug. It was when I was young and &quot;fake moon landing&quot; was on the rise. What put an end to my belief it was staged was a simple fact that there are mirrors on the moon for anyone to check for reflection. Yet all the conspiracy theories conveniently left this fact out.",1386067074
+6839551,comment,6839452,6839508,7,0,steveridout,,,"Definitely not a dumb question, this is what immediately jumped into my head too. I imagine it&#x27;s very difficult to get an answer to this. A controlled experiment is obviously impossible, but perhaps comparing results from a diverse range of cultures around the world could give a clue.",1386067073
+4756925,story,,,0,0,,,,,1386067072
+6839550,comment,6839452,6839452,10,0,pygy_,,,"From the main author: <i>If you look at functional studies, the left of the brain is more for logical thinking, the right of the brain is for more intuitive thinking.</i><p>I was under the impression that this left brain/right brain theory had been debunked by functional imagery.",1386067067
+4756666,story,,,0,0,,,,,1386067066
+4756656,story,,,0,0,,,,,1386067066
+4756591,story,,,0,0,,,,,1386067064
+4756351,story,,,0,0,,,,,1386067059
+4756214,story,,,0,0,,,,,1386067056
+4756186,story,,,0,0,,,,,1386067055
+4756173,story,,,0,0,,,,,1386067055
+4756120,story,,,0,0,,,,,1386067053
+4756092,story,,,0,0,,,,,1386067053
+4755936,story,,,0,0,,,,,1386067049
+4755905,story,,,0,0,,,,,1386067048
+4755874,story,,,0,0,,,,,1386067048
+6839549,comment,6838637,6838637,2,0,NateDad,,,"No Ubuntu?",1386067047
+4755695,story,,,0,0,,,,,1386067043
+4755639,story,,,0,0,,,,,1386067042
+4755110,story,,,0,0,,,,,1386067030
+4755086,story,,,0,0,,,,,1386067029
+4755064,story,,,0,0,,,,,1386067028
+4755051,story,,,0,0,,,,,1386067028
+4754878,story,,,0,0,,,,,1386067024
+4754369,story,,,0,0,,,,,1386067012
+4753941,story,,,0,0,,,,,1386067002
+6839548,comment,6812499,6812499,1,0,swah,,,"Related to this is the Erann Gat &quot;How I lost my faith in Lisp&quot;  story[1]. He was also a googler but going the other way. Of course, this is quite old (before Clojure). But the points remains...<p>[1] <a href=\"https://groups.google.com/forum/#!msg/comp.lang.lisp/L5dZ-j6Id-s/9tOJorXPdW8J\" rel=\"nofollow\">https://groups.google.com/forum/#!msg/comp.lang.lisp/L5dZ-j6...</a>",1386066999
+6839547,comment,6839452,6839513,12,0,theorique,,,"Better keep that under your hat in any consultation with HR.<p>It&#x27;s one thing to have useful heuristics and rules of thumb, but when it conflicts with official, blessed truths about &quot;humans are all identical&quot;, it&#x27;s important to be careful what you say and to whom. Especially in the workplace, where there can be real consequences for having the &quot;wrong&quot; points of view.",1386066994
+6839546,story,,,4,0,Anon84,"Hi, I'm 8yo and I'm going to tell you about my Spina Bifida",http://www.who.int/disabilities/policies/spinal_cord_injury/kirinagua/en/index.html,,1386066988
+4752704,story,,,0,0,,,,,1386066974
+4752576,story,,,0,0,,,,,1386066971
+4752346,story,,,0,0,,,,,1386066965
+4751776,story,,,0,0,,,,,1386066952
+4751746,story,,,0,0,,,,,1386066951
+6839545,comment,6836387,6836665,3,0,hrrsn,,,"I hope Blackberry and Nokia can produce some decent phones in the future. Android has come a long way, but Windows Phone is still pretty awful (more importantly, Nokia are never going to produce an Android with Microsoft as an owner). I used a HTC G1 and Motorola Milestone (1.6 and 2.something) as well as a Galaxy S3 (on 4.something) - back at 1.6 it was nothing special, the S3 on 4.x was hugely improved and a joy to use. If I wasn&#x27;t so heavily vested in iOS it would be a worthy contender. Windows Phone on the other hand I can&#x27;t say so much for. Most of the people I&#x27;ve spoken to that are non tech-literate don&#x27;t have favourable experiences. A family member (electrician by trade) had a high-end Nokia Lumia for a year and didn&#x27;t have a whole lot to say about it, until he took it in for repair and they gave him an iPhone 4S. He couldn&#x27;t stop talking about how much better he found it to use, and thus as soon as they demanded it back he switched to an iPhone. Until these manufactures delight the user in the same way that the iPhone does, or differentiate themselves enough, there&#x27;s little hope.",1386066942
+4751105,story,,,0,0,,,,,1386066936
+4751031,story,,,0,0,,,,,1386066935
+4750922,story,,,0,0,,,,,1386066932
+6839544,comment,6838836,6839478,2,0,octo_t,,,"Ding ding!<p>(That&#x27;s the answer I&#x27;d give if someone asked me this question)",1386066928
+4750682,story,,,0,0,,,,,1386066927
+4750490,story,,,0,0,,,,,1386066922
+6839543,comment,6839290,6839422,1,0,tuananh,,,"well it would need some kind of mechanism to know when to rebuild like git commit. otherwise it would break in the middle of editting.",1386066919
+4749237,story,,,0,0,,,,,1386066893
+6839542,comment,6829725,6833944,1,0,Skinney,,,"Well yes. But in that case Haskell is full of unexpected behaviour for someone completely new to functional programming, as C++ is to someone used to Lisp.",1386066889
+6839541,story,,,1,1,wslh,"PISA: Poor academic standards – and an even poorer test",http://www.telegraph.co.uk/education/10488665/PISA-Poor-academic-standards-and-an-even-poorer-test.html,,1386066872
+6839540,comment,6836387,6837188,1,0,collyw,,,"Did they not do it on punch cards in the 70&#x27;s?\nI think things have improved in the ten years or so I have been in the industry. Java was the hot language in those days, because you could write it once and run it anywhere.",1386066867
+4747915,story,,,0,0,,,,,1386066862
+4747486,story,,,0,0,,,,,1386066852
+4747415,story,,,0,0,,,,,1386066850
+4747388,story,,,0,0,,,,,1386066849
+4747334,story,,,0,0,,,,,1386066848
+4746983,story,,,0,0,,,,,1386066840
+4746949,story,,,0,0,,,,,1386066839
+4746730,story,,,0,0,,,,,1386066834
+4746572,story,,,0,0,,,,,1386066830
+4746213,story,,,0,0,,,,,1386066821
+4746163,story,,,0,0,,,,,1386066820
+6839539,comment,6838495,6838495,2,0,thaumasiotes,,,"Huh, I assumed this had happened some time ago.  The hong kong airport PA system has been pumping out warnings about bird flu since september at least. (&quot;Do not touch birds while in Hong Kong.  If you get a cough, inform the appropriate authorities.&quot;)",1386066805
+4745437,story,,,0,0,,,,,1386066802
+4744391,story,,,0,0,,,,,1386066778
+6839538,comment,6837722,6838044,1,0,coldtea,,,"><i>&quot;Truth is always somewhere in between.&quot; What if I claim it isn&#x27;t?</i><p>Then, axiomatically, truth is somewhere in between &quot;possibly being near some extreme&quot; and being &quot;somewhere in between&quot;.<p>So it&#x27;s not in between anymore...",1386066770
+4743484,story,,,0,0,,,,,1386066757
+4743039,story,,,0,0,,,,,1386066747
+4742463,story,,,0,0,,,,,1386066733
+4742045,story,,,0,0,,,,,1386066723
+4741980,story,,,0,0,,,,,1386066721
+4741958,story,,,0,0,,,,,1386066721
+6839537,comment,6834179,6835506,1,0,CmonDev,,,"What advantages _does_ Node bring except for &quot;same language on server side&quot; and good handling of high-load scenarios?<p>I might be ignorant, but it seems that you have to do a lot of ceremonies for some simple parallelisation, how do I do Parallel.For(...) or Task.Run(...).ContinueWith(...) in Node.js?",1386066717
+4741753,story,,,0,0,,,,,1386066716
+4741628,story,,,0,0,,,,,1386066713
+4741593,story,,,0,0,,,,,1386066712
+4741544,story,,,0,0,,,,,1386066711
+4741525,story,,,0,0,,,,,1386066711
+6839535,comment,6838345,6839157,2,0,rmc,,,"> <i>a project whose scope is a very small starting point</i><p>I can see the headlines and complaints now. People will complain that you&#x27;re forgetting about $EDGE_CASE, like pensioners who worked abroa/new unmarried mothers/mothers who divorced recently/young children with $RARE_DISABILITY/etc./etc.<p>No matter what you do, so photographic sympathy story will have been &quot;delibrately left behind&quot;. No politican wants to sign off on that.<p>You can&#x27;t win.",1386066707
+4740706,story,,,0,0,,,,,1386066692
+4740275,story,,,0,0,,,,,1386066682
+4739178,story,,,0,0,,,,,1386066657
+4738759,story,,,0,0,,,,,1386066647
+4738605,story,,,0,0,,,,,1386066643
+4738242,story,,,0,0,,,,,1386066635
+6839534,comment,6836387,6836387,2,0,erikb,,,"I believe that smartphones are actually a slice of the embedded systems development market, the same as desktop computers. They are probably the most profitable slice, but that is exactly why the biggest players in the market pay top budget to compete about the shares. Because of that understanding of mine, I think you don&#x27;t really get into the &quot;smartphone market&quot; as a start-up, but you get into the embedded systems market. And that is quite possible. You just need to find a slice of the market that is not so highly competed in and you can enter there, e.g., producing small Linux computers for public transportation companies with different, very specific tasks, or building remote controls for model airplanes/quadrocopters. There you get all the know-how of building your own computers, working on your own operating system, finding suppliers and when you are really, really good, you might even come up with a platform of some sort that you can get other developers on to make Apps for, just in the business-to-business area instead of the tough endcustomer market.",1386066634
+4738077,story,,,0,0,,,,,1386066631
+6839533,story,,,1,0,DmitryNovikov,"VC++ 2013 class Layout Change and Wasted Space",http://randomascii.wordpress.com/2013/12/01/vc-2013-class-layout-change-and-wasted-space/,,1386066626
+6839532,story,,,3,0,rett12,"East Asian countries top global league tables for educational performance",http://www.theguardian.com/world/2013/dec/03/east-asian-top-oecd-education-rankings,,1386066613
+6839531,comment,6837722,6838379,2,0,coldtea,,,"Because &quot;satisfactorily preserved&quot; and &quot;museum&quot; are contradictory for a language.<p>A spoken language is a living thing -- and it carries with it the patina of all those that have used it, their stories and how they shaped the language in return etc.<p>Relegating to some museum excibits (that noone will care about, let&#x27;s be honest) is like being satisfied by a polaroid of your significant other, instead of him/her.",1386066602
+4736614,story,,,0,0,,,,,1386066597
+4736279,story,,,0,0,,,,,1386066589
+4735709,story,,,0,0,,,,,1386066576
+6839530,comment,6838637,6839316,1,0,Intermernet,,,"Perhaps, and I&#x27;m not trying to be facetious, a detailed blog post regarding firstly, that this (customer service) has been an issue in the past, and secondly, the measures that have been taken (&quot;We&#x27;ve scaled our support team dramatically&quot;) to ameliorate the support problem.<p>I see Google developing a bad reputation for customer service (on HN at least. See <a href=\"https://news.ycombinator.com/item?id=6837249\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6837249</a> for the most recent example) and some honest recognition of the problem could go a long way to restoring this.<p>I apologize if you aren&#x27;t the correct person to direct this to; perhaps you can divert it to the correct channel.",1386066561
+6839528,comment,6838836,6838836,8,0,mtrimpe,,,"It&#x27;s interesting because I found the original article quite vapid, but the takeaway of the top two comments of the discussion quite enlightening: the exact same set of features sound like heaven to some and hell to others.<p>Perhaps Scala is the Napolean Dynamite [1] of programming languages.<p>Personally I&#x27;m also indecisive about Scala because while I&#x27;d take Scala over Java any day; I&#x27;m still hoping that something more elegant will become the next &#x27;enterprise standard&#x27; (and I&#x27;ll be programming Clojure instead whenever I get the chance.)<p>Scala reminds of the saying that just because the American SUV is the most elegant solution for making a family vehicle that looks masculine; it still doesn&#x27;t mean they&#x27;re not ugly.<p>Scala feels a bit like that SUV: Just because it&#x27;s the most elegant solution to getting something Haskell&#x27;ish shoehorned into the JVM still doesn&#x27;t make the end result elegant.<p>[1] <a href=\"http://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?pagewanted=all\" rel=\"nofollow\">http://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?...</a>",1386066555
+6839527,comment,6836387,6836387,3,0,thaumasiotes,,,"From the article:<p>> Small to medium businesses will use apps on standard devices like iPads<p>I used to get lunch at a Specialty&#x27;s sandwich place in SF.  You could place your order at the counter (to a human, who would mess it up) or use their iPad app at the self-service counter (this got the order right every time).  The iPad app worked well, but it was a source of bemusement to me that the self-service counter was just a counter with a row of iPads mounted on it.  I once hit the home button on one, to see what would happen, and was taken to the home screen.  I feel like for business use you might want more of an ability to lock the device down.",1386066547
+4733538,story,,,0,0,,,,,1386066526
+6839526,comment,6838299,6839257,1,0,bambax,,,"I built my own shop, where I cut things: <a href=\"http://www.youtube.com/watch?v=8Ld_JmaTr9k\" rel=\"nofollow\">http://www.youtube.com/watch?v=8Ld_JmaTr9k</a> [video, obviously]",1386066496
+6839525,comment,6839470,6839470,1,0,jlgaddis,,,"Quit posting your blogspam to HN.",1386066488
+6839524,comment,6836994,6838007,3,0,Aloha,,,"If I could have figured out anything beyond its buzzword compliance, that would have been super. I could tell it was some sort of router with some dependability, beyond that it all looked like vaporware.",1386066464
+4730862,story,,,0,0,,,,,1386066462
+6839523,story,,,1,0,DmitryNovikov,"History of Programming Languages Must Know [Infographic]",http://www.justwebworld.com/history-programming-languages-infographic.html,,1386066423
+6839522,comment,6838836,6838836,7,0,wiradikusuma,,,"I use both Scala and AngularJS, and I feel like they seem to be in a similar position in terms of acceptance (negative and positive).<p>The funny thing is, even for negative posts (bashing etc), I upvote them in HN. My intention is obviously for the technology to improve, or for people to clarify FUDs.",1386066412
+4728691,story,,,0,0,,,,,1386066409
+6839521,comment,6836994,6837436,1,0,jdmitch,,,"To be fair, the site was designed to accompany a kickstarter campaign I believe, which ran a few months ago and would have had all of that info up front.<p>The original (successful) campaign is here on kickstarter:<p><a href=\"http://www.kickstarter.com/projects/1776324009/brck-your-backup-generator-for-the-internet\" rel=\"nofollow\">http://www.kickstarter.com/projects/1776324009/brck-your-bac...</a>",1386066399
+6839520,comment,6836581,6837004,1,0,huhtenberg,,,"> <i>I quickly checked Testflight and our app data to see if it had been run.</i><p>So, the assumption is that judges&#x27; computers don&#x27;t block phone-home and other tracking/analytics services? That&#x27;d be a very poor and dangerous assumption to make.",1386066348
+4725780,story,,,0,0,,,,,1386066339
+6839518,comment,6839465,6839465,2,0,jlgaddis,,,Blogspam,1386066334
+4725188,story,,,0,0,,,,,1386066325
+6839517,story,,,1,0,ksetyadi,"Flickr Architecture",http://highscalability.com/flickr-architecture,,1386066305
+6839516,comment,6836994,6837849,2,0,CJefferson,,,"Honestly, I would complain about the web design, because until I came here and read the comments, I couldn&#x27;t figure out what a BRCK actually was, or did.",1386066303
+6839515,comment,6838757,6839369,2,0,dewey,,,"He&#x27;s only collecting sound clips not the complete record/album. You are not allowed to upload these to wcd ;)",1386066303
+6839514,comment,6839449,6839449,2,0,jlgaddis,,,"Let it expire and save yourself $50 next year.",1386066300
+4723910,story,,,0,0,,,,,1386066295
+6839513,comment,6839452,6839452,9,0,Aloha,,,"Anyone who has ever worked with people of different sexes could have told them. Men and Women go about solving problems in vastly different ways.<p>Women do better in high stress, high information volume situations, are able to make more intelligent choices when little or no data is available. Men are better with logic puzzles, but generally are poor listeners, and have poor soft skills. Women are better managers of people, Men, better managers of things.<p>Obviously, these are not universal truths, but there are certain roles I would prefer a woman candidate for, others I would prefer a man, I&#x27;m going to make a judgement on the person, but their gender is part of the experience package.",1386066294
+6839512,story,,,1,0,johngd,"The Agile Manifesto reworked for Systems Engineering",https://www.ibm.com/developerworks/community/blogs/07f4f478-c082-4196-8489-e83384d85a70/entry/agile_se_manifesto?lang=en,,1386066273
+6839511,comment,6835094,6836968,1,0,loup-vaillant,,,"Can&#x27;t.  I met the guy in person while travelling by train.  He had the drone in question in his suitcase.  He did tell me however he was involved with this <a href=\"https://www.youtube.com/watch?v=MvRTALJp8DM\" rel=\"nofollow\">https://www.youtube.com/watch?v=MvRTALJp8DM</a> (Or another such effort —I met him in France.)",1386066272
+6839510,comment,6835392,6838510,3,0,coldtea,,,"><i>You could do that and gzip though; it would probably yield some savings.</i><p>Nope. That&#x27;s classic non-engineer thinking. The same kind of thinking that does &quot;optimization&quot; without profiling.<p>Let me introduce you to my friend: <a href=\"http://en.wikipedia.org/wiki/Diminishing_returns\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Diminishing_returns</a>",1386066271
+6839509,comment,6838434,6839378,4,0,nightski,,,"I am not convinced that in order to use the methods described one would have to keep the entire &quot;world&quot; in their head.  In fact, I think these methods would actually help manage that problem rather than exacerbate it.<p>In the end a software program is and always will be an approximation of the real world.",1386066247
+6839508,comment,6839452,6839452,19,0,napoleoncomplex,,,"I wonder how the nature versus nurture aspect comes into play in this. Are male and female brains inherently wired differently, or do they wire differently as we grow up due to the different experiences and upbringing men and women are subject to?<p>This might be a dumb question, but one that immediately pops up for me.",1386066246
+4721047,story,,,0,0,,,,,1386066226
+4721043,story,,,0,0,,,,,1386066226
+4721038,story,,,0,0,,,,,1386066226
+4721026,story,,,0,0,,,,,1386066226
+4721025,story,,,0,0,,,,,1386066226
+4720726,story,,,0,0,,,,,1386066218
+6839507,comment,6839451,6839451,1,0,jlgaddis,,,"... spread across 34 pages!?  WTF?",1386066196
+4718458,story,,,0,0,,,,,1386066165
+6839506,comment,6839452,6839452,14,0,im3w1l,,,"Brain structure is dependent on environment and can change in response to training, so a cautious interpretation is advisable.",1386066162
+6839504,story,,,2,0,btimil,"Shanghai tops global school tests, US 'stagnates'",http://www.bbc.co.uk/news/education-25187997,,1386066152
+4716262,story,,,0,0,,,,,1386066112
+4715551,story,,,0,0,,,,,1386066095
+6839503,story,,,1,0,feelthepain,"Humans are becoming more carnivorous",http://www.nature.com/news/humans-are-becoming-more-carnivorous-1.14282,,1386066077
+4714610,story,,,0,0,,,,,1386066073
+6839502,comment,6836994,6839469,1,0,knowitall,,,"water/dust: presumably the devices I want to connect to the internet won&#x27;t be happy with that either, so I have to avoid those anyway.<p>Charging: not sure about that one either. Either there is a power source or there isn&#x27;t?",1386066070
+6839501,comment,6836387,6838295,1,0,collyw,,,"Rasberry Pi sounds pretty like what you are describing. Just doesn&#x27;t come with a display as far as I can tell.",1386066041
+4713198,story,,,0,0,,,,,1386066040
+4713183,story,,,0,0,,,,,1386066039
+4710459,story,,,0,0,,,,,1386065975
+6839500,comment,6836961,6838689,1,0,davidw,,,"After having been in this industry for a bit more than 15 years, and having read a lot of history, I&#x27;m beginning to suspect that due to the economics of it, there is always going to be a Borg.  IBM, Microsoft, Google, and so on.",1386065928
+6839499,comment,6839219,6839219,1,0,DaveSapien,,,"Think it might be also worth thinking about Tasker.   \nThe java is pretty old and broken, but usable enough for me to make a game and publish it to the play store.    \nCaedere, <a href=\"https://play.google.com/store/apps/details?id=com.davesapien.caedere&hl=en\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.davesapien...</a>\nPossibilities?",1386065903
+4707317,story,,,0,0,,,,,1386065902
+6839498,comment,6838299,6839423,5,0,lostlogin,,,"I&#x27;m living in my second house that an engineer has owned. Avoid their ex houses if possible. The side gate had a post concreted in with a block 75x75x75cm. I had to get a drain though it. A week of evenings with a sledge hammer. I excavated 10 tons of concrete from the front yard that was buried there for some reason, and it stopped trees growing. I got guys in to do the 90 ton slab in the backyard. The previous house had a raised garden that was in the way that was made of 30cm thick reinforced concrete - 2cm thick rebar to keep the roses in. It was days of work to remove the small garden. Durability is one thing, but over engineering is damn expensive pain in the arse.",1386065889
+6839497,story,,,1,0,dclara,"A hacker's journey: from cook to chef (16)",http://bingobo.info/blog/contents/understand-apache-httpd-worker-mpm.jsp,,1386065872
+6839496,comment,6839452,6839452,1,0,1angryhacker,,,"THERE ARE NO WIRES IN YOUR BRAIN",1386065833
+6839495,comment,6834705,6834954,1,0,cLeEOGPw,,,"What I think they should at least do is remove penalty for 40+ comments. I see where this is coming from, the desire to always have &quot;quality discussion&quot; effect by showing only those comment sections with very few comments, usually quite insightful as it usually come from people interested enough in the often obscure topic, but what it also does is kills discussion. At least they could make penalty growing gradually, not something that suddenly activates as soon as there are 40 comments.",1386065826
+6839494,comment,6835392,6836411,1,0,slyall,,,"Unfortunately they used various subdomains for things.",1386065814
+6839493,comment,6836387,6837937,2,0,collyw,,,"Is that not similar to how the individual states in the US work? (Laws, culture to a degree, but obviously not language).",1386065811
+4702931,story,,,0,0,,,,,1386065800
+4700184,story,,,0,0,,,,,1386065735
+6839492,comment,6835067,6836997,1,0,michaelmcmillan,,,"Thank you so much for taking the time to respond!<p>1) That sounds like a clever idea, I have extremely little UI-experience, so thanks! Any suggestions as to what the button might say?<p>2) That has been suggested before, which suggests it&#x27;s a wanted feature. I&#x27;ll implement it asap!<p>3) If I understand your question correctly: Sure, a realtime mode of your list could easily be programmed with the genius databinding in Angular.<p>Thank you very much again, I really appreciate your feedback :)",1386065730
+6839491,comment,6838757,6839031,3,0,Blahah,,,"But is he his own favourite DJ?",1386065711
+4698010,story,,,0,0,,,,,1386065684
+4696709,story,,,0,0,,,,,1386065654
+6839490,comment,6836387,6838048,3,0,collyw,,,"I always considered App stores the same as Linux repositories with a payment option.",1386065638
+4695561,story,,,0,0,,,,,1386065628
+4695415,story,,,0,0,,,,,1386065624
+4695239,story,,,0,0,,,,,1386065620
+6839489,story,,,2,0,kracalo,"An Incredible Photorealistic Portrait of Morgan Freeman Get Painted on the iPad",http://www.ihash.eu/2013/12/incredible-photorealistic-portrait-morgan-freeman-get-painted-ipad/,,1386065600
+4694009,story,,,0,0,,,,,1386065592
+4694007,story,,,0,0,,,,,1386065592
+4693998,story,,,0,0,,,,,1386065592
+4693913,story,,,0,0,,,,,1386065590
+4693905,story,,,0,0,,,,,1386065590
+4692889,story,,,0,0,,,,,1386065566
+4691336,story,,,0,0,,,,,1386065530
+6839488,story,,,1,0,NicoJuicy,"Fine of 250 € after critizing police accident on a newspaper website",,http://translate.google.be/translate?hl=nl&sl=nl&tl=en&prev=_dd&u=http%3A%2F%2Fwww.hln.be%2Fhln%2Fnl%2F957%2FBinnenland%2Farticle%2Fdetail%2F1751340%2F2013%2F12%2F03%2FGAS-boete-voor-lezers-nieuwssite-na-commentaar-op-politie.dhtml,1386065491
+6839487,comment,6789691,6790510,1,0,draegtun,,,"What decay?  The Perl community still continues to grow - <a href=\"https://news.ycombinator.com/item?id=6738619\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6738619</a>",1386065486
+4689087,story,,,0,0,,,,,1386065478
+6839486,comment,6839449,6839449,1,0,k__,,,"Make a site where I can design my very own tunnels and plugs for my lobes and buy them.",1386065468
+6839485,comment,6838757,6838757,2,0,mattwritescode,,,"Why not open source and share with the world. You can wack an amount of advertising on the site and make some nice income. Obviously just be careful of copyright.",1386065446
+6839484,story,,,1,0,js4all,"Our Octopress Blog Improved",http://blog.cloudno.de/blog/2013/12/02/our-octopress-blog-improved/,,1386065438
+6839483,comment,6838434,6838434,4,0,kaivi,,,"A wonderful read from a badass scientist. Here is a good nugget of wisdom:<p><i>Software engineering, of course, presents itself as another worthy cause, but that is eyewash: if you carefully read its literature and analyse what its devotees actually do, you will discover that software engineering has accepted as its charter &quot;How to program if you cannot&quot;.</i>",1386065429
+4683721,story,,,0,0,,,,,1386065353
+6839482,story,,,1,0,eaxitect,Libdispatch,https://libdispatch.macosforge.org/,,1386065343
+6839481,comment,6836387,6839471,2,0,CmonDev,,,"But they are not &quot;moving the world&quot; in any way except for hardware. iOS 7 is derivative.",1386065330
+6839480,comment,6839466,6839466,1,0,_djo_,,,"First pictures:<p><a href=\"https://twitter.com/t_mcconnell/status/407504857587650560\" rel=\"nofollow\">https://twitter.com/t_mcconnell/status/407504857587650560</a><p>and<p><a href=\"https://twitter.com/Ndiagaseck/status/407450077847121920\" rel=\"nofollow\">https://twitter.com/Ndiagaseck/status/407450077847121920</a><p>The aircraft are Falco UAVs made by Selex ES, which will also operate them from Goma as part of the contract.<p>These are not the first UAVs to be used in the DRC, the EUFOR forces used some in 2006 and some of the forces deployed with the UN have used hand-held UAVs from time to time, but this is the first time UAVs will be an integral part of a UN peacekeeping mission.",1386065315
+6839479,comment,6838434,6839228,1,0,edejong,,,"Depends on how you read it. You could mimic structures from society or nature. The isolated human mind is quite a useless thing.",1386065297
+6839478,comment,6838836,6839458,4,0,lmm,,,"I&#x27;d remove structural types. I don&#x27;t see them being actually used in scala libraries, and I think &quot;traditional&quot; types provide a better replacement for most (all?) use cases.",1386065287
+6839477,comment,6839390,6839390,1,0,bachback,,,"I&#x27;ll side with Poincaré and there is not much to say other than that.<p>&quot;The objections to Cantor&#x27;s work were occasionally fierce: Poincaré referred to his ideas as a &quot;grave disease&quot; infecting the discipline of mathematics&quot;\n<a href=\"http://en.wikipedia.org/wiki/Georg_Cantor#cite_note-daub266-6\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Georg_Cantor#cite_note-daub266-...</a>",1386065285
+4680222,story,,,0,0,,,,,1386065270
+6839476,comment,6831461,6834318,1,0,yummyfajitas,,,"If you are claiming that the EMH is a good approximation to reality but imperfect, we have no disagreement.",1386065252
+4678301,story,,,0,0,,,,,1386065225
+4676206,story,,,0,0,,,,,1386065176
+6839475,comment,6836961,6837807,0,0,alextingle,,,"The big brains at Google can&#x27;t design a workflow to allow you to continue paying them? Was it even tested??<p>Words fail me.",1386065175
+4674623,story,,,0,0,,,,,1386065138
+6839474,comment,6839219,6839413,2,0,raghuHack,,,"Thanks for pointing out. Have corrected it now.",1386065113
+4671589,story,,,0,0,,,,,1386065067
+4671586,story,,,0,0,,,,,1386065067
+4671576,story,,,0,0,,,,,1386065067
+4671568,story,,,0,0,,,,,1386065066
+4671555,story,,,0,0,,,,,1386065066
+4671405,story,,,0,0,,,,,1386065063
+6839473,comment,6838299,6839257,4,0,mercer,,,"I&#x27;ve noticed the same thing in musician friends of mine, and I think it really isn&#x27;t so much that their mindset is different from &#x27;us&#x27; hackers, but rather that we spend so much time on virtual stuff that we don&#x27;t learn to apply our mindset to the real world.<p>In fact, a lot of us probably under-perform when it comes to real-world hacking because we&#x27;re so caught in the virtual. I know that&#x27;s true for me.<p>This did give me a bit of a new perspective on things, and makes me wonder if I should start some more real-world hacking...",1386065061
+4668793,story,,,0,0,,,,,1386065002
+6839472,comment,6838930,6838930,1,0,brainbet,,,"Share it with everybody. You cannot sell it for sure. But there are people that will enjoy playing with it.",1386064986
+4666927,story,,,0,0,,,,,1386064958
+4666678,story,,,0,0,,,,,1386064952
+6839471,comment,6836387,6839404,6,0,hrrsn,,,"Apple Maps has come a long way since the iOS 6 launch. Google Maps is still undoubtedly better, but Apple have been working hard on it.<p>iOS 7 is not bad. People are still afraid of change (look at what they said about the original iPhone, now look where we are) but ultimately it was in need of a refresh.",1386064948
+6839470,story,,,2,1,mayureshpep,"How Much Should You Allocate For Your Small Business Marketing?",http://www.sourcepep.com/how-much-should-you-allocate-for-your-small-business-marketing/,"The first half of this infographic deals with the current state of marketing budget allocation. This will help you understand how your peers are dealing with this issue and where you can leverage this info for your own benefit. The second half informs with how this budget should be allocated strategically.",1386064947
+6839469,comment,6836994,6839391,3,0,darklajid,,,"Your phone doesn&#x27;t have the same ways to interface with the world, (probably) isn&#x27;t happy with water/dust, cannot charge other devices and won&#x27;t last for 8 hours straight (or more, acc. to the specs page, if you&#x27;re using anything but the &#x27;full power&#x27; mode). This looks a cross between an arduino, a d-link sortof appliance with multi-band support for mobile data, a decently sized flash storage device and a huge battery - in a rugged hull.<p>Your phone isn&#x27;t even close. If you just want to hop online for a short while: No advantage over using your phone, I guess.",1386064940
+6839468,comment,6836994,6836994,1,0,ilitirit,,,"I get that people don&#x27;t like the site&#x27;s layout (I don&#x27;t either), but is it really that hard to click on &quot;Specs&quot;?",1386064931
+6839467,story,,,1,0,Ashuu,"How a Restaurant Uses Quip",https://quip.com/blog/wine-bar,,1386064928
+6839466,story,,,2,1,_djo_,"United Nations to start using surveillance drones in the DRC",http://mg.co.za/article/2013-12-03-un-to-start-using-surveillance-drones-in-drc,,1386064916
+4664914,story,,,0,0,,,,,1386064911
+6839465,story,,,1,1,mayureshpep,"6 Free Google Tools For Businesses",http://www.sourcepep.com/6-free-google-tools-for-businesses/,"Cian O Mongain, Senior Industry Manager Google talks about the 6 free Google Tools which you can use for your small business today. Leverage the power of the biggest tech titans and help your business grow exponentially.",1386064903
+4662862,story,,,0,0,,,,,1386064862
+6839464,comment,6827353,6836999,1,0,chromanoid,,,"In the case of the couple who talk about their relationship on their balcony, there is no audience they realize and no shameful act. Just a private conversation _made_ public. Like somebody photographing you (just you) pissing on a tree without your knowledge. When the photographer publishes this photo in a newspaper it is illegal and unethical.<p><pre><code>  I&#x27;m just saying that they made it happen themselves.\n  The people everybody is getting angry at for posting\n  the events weren&#x27;t even necessary for it.</code></pre>\nThis is were I disagree. Diane behaved badly, but she didn&#x27;t pick a fight with the whole world. The people who publicize the events are necessary for it. They are essential for the public shaming. Without them it would be just a short story some passengers would have told their families and friends. Something Diane would probably be ok with. By tweeting this, it is like Diane has acted in front of a dozen journalists who take photos while laughing at her. It&#x27;s a malicious act, like a hidden camera to make everybody laugh at her.",1386064861
+4662832,story,,,0,0,,,,,1386064861
+4662831,story,,,0,0,,,,,1386064861
+4662777,story,,,0,0,,,,,1386064860
+6839463,comment,6831461,6834026,1,0,yummyfajitas,,,"<i>Booms and busts are not &#x27;apparent bubbles&#x27; in any sense, they are all around us, and cause real movements in the markets regularly.</i><p>I&#x27;m confused. Sumner showed the EMH predicts exactly this, for a certain distribution of information and returns. How is the real world agreeing with Sumner&#x27;s model evidence against Sumner&#x27;s model being correct?<p><i>What is dangerous about the EMH to me is that it encourages a sort of worship of markets</i><p>The EMH is simply a rule which allows you to turn a statistical distribution of new information into a statistical distribution of price movements. This is what Fama did to get the Nobel prize. A corollary is a &quot;speculators can&#x27;t make money except by chance&quot; theorem, or in it&#x27;s weak form, &quot;technical traders can&#x27;t make money except by chance&quot;.<p>It&#x27;s not a &quot;markets are benevolent wizards that solve all the problems&quot; theorem. It&#x27;s not a &quot;no recessions ever occur&quot; theorem. It&#x27;s not a &quot;prices will never change suddenly&quot; theorem - in fact, it proves the opposite of the latter for certain information distributions. If you argue against these latter claims, you are not arguing against the EMH.<p><i>it needs to be proven in the first place</i><p>That&#x27;s not how science works. You prove theorems, the best you can do to theories is fail to disprove them.",1386064850
+6839461,comment,6836961,6838216,4,0,alextingle,,,"Only the NSA fits that category.",1386064825
+4660807,story,,,0,0,,,,,1386064815

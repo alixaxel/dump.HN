@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-68440,comment,68075,68426,0,0,davidw,,,"Given what we know about program length vs bugs (it's pretty linear), I think it's a ""technical merit"" that Rails lets you write shorter, clearer code.  In an environment where you're not sure what you're doing is going to go anywhere, and where you need to be able to turn on a dime, shorter, clearer code is also going to be an advantage.<p>",1192520656
-68439,comment,68075,68243,0,0,adrianwaj,,,"Del.icio.us are rewriting in PHP with the Symfony framework:<p><a href=""http://www.symfony-project.com/blog/2007/10/02/delicious-preview-built-with-symfony"" rel=""nofollow"">http://www.symfony-project.com/blog/2007/10/02/delicious-pre...</a><p>Why would they choose that??",1192520403
-68438,story,,,2,4,blored,"Ask PG: How are the applications going?",,"If you happen to need a break, I'd be happy to talk about our application for a bit, or just, well, it would be cool to get a phone call.",1192520286
-68437,comment,68360,68363,0,0,CHIEFARCHITECT,,,"Tried Bookfinder.com.  Can't find it.  Recommend that you use Bookfinder.com.  Might get lucky next time around.",1192520217
-68436,comment,68104,68104,0,0,adrianwaj,,,"Looks like a Warren Buffett type investment.",1192519983
-68435,comment,68377,68377,0,0,Tichy,,,"Very good, impressive way to get the message across.",1192519100
-68434,comment,68227,68324,0,0,arasakik,,,"Right. The approval process with carriers is what makes getting a short code so time consuming. What was it like working with the Aggregators? I've heard mixed stories.",1192518881

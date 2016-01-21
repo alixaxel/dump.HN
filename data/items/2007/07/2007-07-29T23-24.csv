@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-37520,story,,,2,0,nickb,"Does software design really pay off?",http://www.infoq.com/news/2007/07/software-design,,1185753257
-37519,story,,,3,0,nickb,"The power of memorized key strokes",http://gnuvince.net/?p=403,,1185752998
-37518,story,,,8,6,nickb,"LISP IDEs: CUSP rules",http://blog.diegodoval.com/2007/07/lisp_ides_cusp_rules.html,,1185752301
-37517,comment,37489,37489,0,0,nraynaud,,,"I'm more the kind of person with no big idea. I think I should start a constellation of websites and see what takes up.<p>Maybe one day I will have THE big idea, but for now ...
-",1185751014
-37516,comment,37506,37506,0,0,rzwitserloot,,,".... or just keep clicking the invisible arrow. Your mouse even turns to the usual pointer cursor.<p>And as cperciva said, they don't register on the server.",1185750811
-37514,comment,37436,37513,0,0,nickb,,,"""Another note: banning a site in hopes that your employees will be more productive is a waste of time (pun intended). Wasting time on social networks while at work is a symptom of a bigger problem.""<p>I disagree. People are obviously addicted to these social sites and if you make it impossible for them to get another ""hit"", they will wean off it in a day or two. I wouldn't call this a 'bigger problem', everyone has some weaknesses.",1185750279

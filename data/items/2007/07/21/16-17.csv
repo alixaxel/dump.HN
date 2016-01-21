@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+35857,story,,,6,1,joshwa,"C.E.O. Libraries Reveal Keys to Success - New York Times",http://www.nytimes.com/2007/07/21/business/21libraries.html?ex=1342670400&en=f19d91baf1d045e9&ei=5090&partner=rssuserland&emc=rss,,1185036429
+35856,comment,35805,35805,0,0,dpapathanasiou,,,"So it starts well: <p><i>There's no difference between code and data</i><p>but then none of his examples actually show that in action.<p>Instead, he does a bunch of simple iterations and print statements; most people would look at that and say, ""I can do that with [language x]"".\n",1185035670
+35855,comment,35852,35852,0,0,pg,,,"The rent per room heatmap is amazing. ",1185034343
+35854,comment,35754,35765,0,0,tiki12revolt,,,"Utility may count more (I would tend to agree with that), but at least some people will wonder why one product works 'so much better' than all the rest when it just came out of the woodworks.  ",1185033874

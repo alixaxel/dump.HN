@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+27437,comment,27391,27391,0,0,dpapathanasiou,,,"This thread has some suggestions as well: <a href=""http://news.ycombinator.com/item?id=18363"" rel=""nofollow"">http://news.ycombinator.com/item?id=18363</a>",1181648944
+27436,comment,27384,27417,0,0,pg,,,"The graph has 2x the aspect ratio of graphs we're used to looking at.  If it were the usual shape, growth would\nlook twice as steep. Also, the giant spike in the middle expands the scale.  <p>Here's the same data with a more usual aspect ratio and scale:<p><a href=""http://ycombinator.com/images/ycnews-4mo-v2.png"" rel=""nofollow"">http://ycombinator.com/images/ycnews-4mo-v2.png</a>",1181648861
+27435,story,,,3,0,danw,"Watch the WWDC 2007 Keynote",http://events.apple.com.edgesuite.net/d7625zs/event/,,1181647639

@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-17816,story,,,8,2,jaggederest,"Scheme in Haskell: write a parser, learn two fascinating languages",http://halogen.note.amherst.edu/~jdtang/scheme_in_48/tutorial/overview.html,,1177822521
-17815,comment,17701,17763,0,0,gyro_robo,,,"I know about Lisp.",1177822300
-17814,comment,17701,17761,0,0,gyro_robo,,,"I think present-day Latin speakers have a stronger correlation with bad fashion sense (funny robes and stupid hats) and scandals than with ""smarts"".  ",1177822281
-17813,comment,17679,17801,0,0,jaggederest,,,"heh, that's what you think. Try building anything substantial in one of the languages I named and then going back to java.<p>Ruby programs are maybe a tenth the size, give or take, <p>Python similarly small. <p>Haskell will blow your mind because you basically never use control structures or type declarations. <p>Continuation-passing scheme, smalltalk, erlang... <p>Any of these things will change the way you develop, probably immensely for the better.",1177819421

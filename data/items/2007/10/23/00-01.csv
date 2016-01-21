@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+71346,comment,71340,71340,0,0,brk,,,"I'll admit upfront that I only skimmed the article.  But it seems like CondeNast's counts based on (presumably) server logs don't mesh with what a 3rd party is quite frankly GUESSING at?<p>And this is news?",1193100711
+71345,comment,71293,71293,0,0,staunch,,,"You already occupy a place on my iGoogle page, so I definitely like the site.<p>My suggestion: VentureBeat podcasts.<p>Long in depth interviews with entrepreneurs and investors. No one has filled the gap that VentureVoice left in my iPod. Text is okay, but it's not nearly as good for interviews.\n",1193100400
+71344,comment,71318,71318,0,0,DanielBMarkham,,,"Needs a menu bar.",1193100064
+71343,comment,71318,71318,0,0,ardit33,,,"I liked zombo much better. more colours    :P",1193100004
+71342,comment,71318,71318,0,0,rms,,,"funny, but this was marked dead the last time it was submitted",1193099692
+71341,story,,,1,0,transburgh,"Stealth Startup Wix To Help Users Build Flash Websites",http://www.techcrunch.com/2007/10/22/stealth-startup-wix-to-help-users-build-flash-websites/,,1193099589
+71340,story,,,3,1,mqt,"How Many Site Hits? Depends Who's Counting",http://www.nytimes.com/2007/10/22/technology/22click.html,,1193099164
+71339,story,,,1,0,mqt,"Culture Bytes: Virtually Losing Your Reputation",http://pajamasmedia.com/2007/10/culture_bytes_losing_your_repu.php,,1193099148
+71338,story,,,2,0,mqt,"A Day in the Life: Reporter goes Undercover as an Apple Employee",http://www.fastcompany.com/magazine/120/magic-shop.html,,1193099093
+71337,comment,71276,71276,0,0,far33d,,,"Isn't the best way to break captchas to offer ""free porn""? Offer free porn, ask them to send you their email, respond to a captcha... send out spam about this free porn and bam... <p>millions of example images solved. \n",1193099068
+71336,story,,,17,0,snowmaker,"An open letter from the founders of Scribd to those of you who didn't get into YC",http://news.ycombinator.com/item?id=72190,,1193098525
+71335,comment,71281,71281,0,0,mrtron,,,"This sounds a little too good to be true - I would be a little careful in pursuing something like this.<p>Especially with no link to a website about the project, no details whatsoever, lookout for a ""they will do this whole project for you, you just need to send them 2000$ to buy a server""",1193098269
+71334,comment,71318,71318,0,0,brianmckenzie,,,"Coming soon - arewethereyet?",1193098105
+71333,comment,71129,71306,0,0,alec,,,"It's a huge development aid - if you're running emacs and slime, you can reload individual functions or files with a quick key combo, and if you want code reload over multiple files, a reload function is easy to write - check times and you're off.  You can also do that with compiled code, too - instead of (load ""filename""), use (load (compile ""filename"")) and it'll be compiled.  The next time the functions are called, they'll use the new ones.<p>The tricky part is macros and inline functions.  Any time you change a macro or a function you want to inline (CL compilers can't do that automatically because of the language spec), you need to recompile all the functions that use that macro/inlined function.  ASDF has some dependency-tracking functionality, but I haven't used it.",1193098062
+71332,story,,,2,0,divia,"Programmers and Bees",http://www.things.org/~muffy/pages/life_work.html,,1193097967
+71331,comment,70939,70939,0,0,cellis,,,"Which P?<p>For php lookup Ed Tanguay. ",1193097961
+71330,comment,71249,71249,0,0,ardit33,,,"intro-extra vert.   somewhere in the midle.",1193097689

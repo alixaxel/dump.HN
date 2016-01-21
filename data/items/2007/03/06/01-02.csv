@@ -1,0 +1,23 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2491,comment,2367,2456,0,0,dfranke,,,"It was explained to me at a Microsoft recuriting session that I attended a couple years ago that if you work for engineering at Microsoft your job title is either Designer, Programmer, or Tester.  People who do one don't do either of the other two.  (Although, surely there must be some niches like their research department where cirumstances are otherwise).  So, since all Programmers are confined to the straight-jacket given to them by the Designers, the ability to optimize is probably the best way to differentiate the good ones from the mediocre ones.<p>Needless to say, I wasn't impressed by the recruiter's pitch.  Then again, the recruiter probably wasn't impressed by the Tux polo shirt and EFF cap that I arrived wearing :-)",1173146330
+2490,comment,574,574,0,0,tyohn,,,"Insightful ~",1173145730
+2489,comment,2458,2458,0,0,papersmith,,,"Anyone know any for Vancouver, BC?",1173145436
+2488,comment,1960,2028,0,0,pg,,,"Google search is pretty big.  Is it a social network?\n",1173145231
+2487,comment,2448,2483,0,0,python_kiss,,,"VB was the world's most widely adapted language until Microsoft decided to lift its support in favor of VB.NET.",1173145175
+2486,comment,2469,2469,0,0,dfranke,,,"Here's something I'd like to see tried: fetch the text of the referring page, and use Google to figure out what they meant to link to.",1173145089
+2485,comment,363,377,0,0,pg,,,"I'm considering doing this for questions (i.e. submissions with blank urls).  I think it would be a bad idea for stories.",1173144960
+2484,comment,363,1013,0,0,pg,,,"This is now fixed.  Every form now does a redirect afterwards.<p>(It turned out to be a lot of work.  The software used to think in closures and I had to make it be able to think in urls as well.)",1173144829
+2483,comment,2448,2448,0,0,dfranke,,,"Nice: VB has gotten about cut in half.  Die! Die! DIE!",1173144763
+2482,comment,363,2281,0,0,pg,,,"We now have this: the ""parent"" link.",1173144569
+2481,comment,2481,701,0,0,pg,,,"Now that is an interesting idea.  I'll mull over ways to do it.",1173144428
+2480,comment,2480,728,0,0,pg,,,"we now have this",1173144309
+2479,comment,363,1104,0,0,pg,,,"This is now fixed: try the ""parent"" link.",1173144258
+2478,comment,363,1316,0,0,pg,,,"There's now a ""best ever"" page: http://news.ycombinator.com/best",1173144199
+2477,comment,363,553,0,0,pg,,,done,1173144112
+2476,comment,2411,2411,0,0,dfranke,,,"Am I restricted to people who are actually in the seed or VC business?  If not: Woz.",1173144095
+2475,comment,2260,2260,0,0,jmzachary,,,"37 and smarter than you little snot-nosed whipper-snapper holligans! And turn the music down!\n",1173143966
+2474,comment,363,439,0,0,pg,,,done,1173143936
+2473,comment,2425,2425,0,0,mynameishere,,,"I'm a programmer, so it's pretty rare for me to disdain someone for being a nerd, but, geez-o-man, there's nothing like Larry Page in action.<p>Oh, have you seen his girlfriend:<p>http://static.flickr.com/47/112343641_e3af8465d9.jpg\n",1173143577
+2472,comment,363,1915,0,0,dfranke,,,"And there was much rejoicing! yaaaaaay. Thanks, Paul!",1173143497
+2471,comment,2426,2426,0,0,phil,,,"The nice thing about google analytics is you can have it set up and working in 5 minutes. The nice thing about mint, or rolling your own, is that you can get all of the metrics you want - googalytics isn't really extensible.<p>One thing is, neither googalytics nor mint (I think? don't use it) can report on xhr requests, since they run script onload. Anybody out there have a tool they like for doing that? Like a favorite log analyzer?",1173143369
+2470,story,,,3,1,onebeerdave,"An Economic Explanation For Why DRM Cannot Open Up New Business Model Opportunities",http://www.techdirt.com/articles/20070301/005837.shtml,,1173143298

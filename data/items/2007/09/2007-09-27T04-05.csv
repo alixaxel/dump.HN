@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-60168,comment,60128,60129,0,0,Jd,,,"Although I am very interested to read your comments, I feel that it is disingenuous to put your name on a 'secret' blog.  If you want to have a secret blog, make it secret.  If you want to be open and honest with your co-workers, be open and honest w/ them.  Half way in between strikes me as more likely to hurt than heal.  <p>Unless what you are trying to do is get at your co-workers, in which case I think you will succeed.  ",1190868911
-60167,comment,59990,60101,0,0,Jd,,,"Can you tell us more about '[your] work' ? Why and how does it validate the British Empiricists?",1190868479
-60165,story,,,4,0,pius,"OAuth Draft 2 released -- big news for anyone with an API",http://oauth.net/documentation/spec,,1190866530
-60164,comment,59902,59902,0,0,enonko,,,"Either I misunderstand something (which is unlikely in this case), or his formula for CPM is wrong.<p>Correct:
-CPM = Clickthrough Rate x Price Per Click x 1000<p>Example:
-If you have CTR or 2% and each click generates $0.40, you have CPM of 0.40 x 0.02 x 1000 = $8.",1190866349

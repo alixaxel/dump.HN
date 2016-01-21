@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-75024,comment,74986,74986,0,0,corentin,,,"MTV get off the AIR! :)",1193917331
-75023,comment,74700,74864,0,0,pc,,,"If you want a tiling WM, ratpoison runs just fine under X11.app on the Mac -- and you can have it replace the standard Quartz WM via .xinitrc",1193916874
-75022,comment,74495,74640,0,0,herdrick,,,"Thanks for the tip!  I'll be quieter about my delight.",1193916659
-75021,comment,74962,74962,0,0,ed,,,"Well, Flex is not exactly Flash. If you're looking to do true flash development using open source tools, check out the MTASC compiler.<p>And for a specialized (free) ActionScript IDE I suggest SE|PY. It's integrated with MTASC, has better syntax highlighting than the eclipse plug-in, and is my preferred tool of choice. (Even over Flash's built-in editor -- which does a mind-blowingly bad job at managing screen real estate.)",1193916475
-75020,story,,,2,0,gibsonf1,"Sprint in talks with Google on mobile apps",http://www.reuters.com/article/technologyNews/idUSN3150386020071101,,1193915533

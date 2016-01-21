@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+90302,story,,,1,0,terpua,"Google wants your phonemes",http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&A=/article/07/10/23/Google-wants-your-phonemes_1.html,,1197892232
+90301,comment,90154,90280,0,0,zyroth,,,"Search for 'deep belief hinton' on google.",1197891532
+90300,story,,,1,0,bootload,"10 (writing) tips from original Blogger, Jorn Barger",http://www.wired.com/culture/lifestyle/news/2007/12/blog_advice,,1197891156
+90299,comment,90268,90297,0,0,tlrobinson,,,"Perhaps... a few people are already doing it (Steve Yegge's alleged ""Rhino on Rails"", AppJet, and I'm sure others), but there's no overwhelming de-facto standard that I know of.<p>Anyone know of any good server-side JS frameworks?",1197890941
+90298,story,,,21,7,bootload,"Google Is All About Large Amounts of Data",http://googlesystem.blogspot.com/2007/12/google-is-all-about-large-amounts-of.html,,1197890915
+90297,comment,90268,90286,0,0,michaelneale,,,"What about ECMAScript beyond the browser? ie server side?",1197890373
+90296,story,,,3,1,bootload,"Father of sci-fi (Arthur C Clarke) lists three birthday wishes",http://ukpress.google.com/article/ALeqM5jrdIgCt8LubkN0ZBUTkj43QjtIdg,,1197890330
+90295,comment,90289,90289,0,0,shareyourmind,,,"Great web app!",1197889966
+90294,comment,90279,90288,0,0,davidw,,,"Well... perhaps it's an area that requires more capital than yc style startups - many of those writers probably wouldn't know where to start in terms of putting together some kind of startup.   <p>Or, maybe it's just a ploy to make the studios nervous.",1197889927
+90293,story,,,1,0,theoneill,"Handmade 2.0",http://www.nytimes.com/2007/12/16/magazine/16Crafts-t.html?ex=1355461200&en=53ce17315050479a&ei=5090&partner=rssuserland&emc=rss,,1197889353

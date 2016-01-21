@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91479,comment,91267,91267,0,0,edu,,,"Related? From <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=289480#c172"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=289480#c172</a><p>""It looks like an object element that's pointing to\na non-existent page (<a href=""http://www.webstandards.org/404/"" rel=""nofollow"">http://www.webstandards.org/404/</a>)\nshould be falling through, but that page is\nnow returning a response status of 200 (success) instead\nof 404. Was it previously correctly returning a 404\nresponse?""",1198158786
+91478,comment,91311,91417,0,0,wehriam,,,"I agree.",1198158003
+91477,story,,,2,0,iamelgringo,"IE8 due in 1st half 2008","http://www.pcworld.com/article/id,140684-c,internetexplorer/article.html",,1198157099
+91476,comment,91469,91474,0,0,terpua,,,"$0.18 for storage and up/down bandwidth",1198156808
+91475,story,,,1,0,iamelgringo,"Google's Android Software Bug Infested",http://online.wsj.com/article_email/SB119800856883537515-lMyQjAxMDE3OTE4ODAxMDg4Wj.html,,1198156618
+91474,comment,91469,91469,0,0,rms,,,"Are they cheaper than S3?",1198156179
+91473,story,,,1,0,iamelgringo,"A wider wireless world",http://www.businessweek.com/magazine/content/07_53/b4065000572464.htm?sub=techmaven,,1198156135
+91472,story,,,1,0,dejb,"YouTube Having Problems?",http://youtube.com/results?search_type=search_videos&search_query=mma&search_sort=relevance&search_category=0&search=Search&v=&uploaded=w&filter=1,"Major Topic. No Relults. Got to make you feel like somthing isn't working right. No Results? it just me? Try 'cricket' also.",1198155979

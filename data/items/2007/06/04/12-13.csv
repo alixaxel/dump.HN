@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+26250,story,,,2,4,ciordia9,"When is it time to take the plunge?",http://blog.nuancelabs.com/2007/06/02/when-is-it-time-to-take-the-plunge/,,1180961632
+26249,comment,26191,26223,0,0,startupper,,,"You missed his point.  What he is saying is that age should not be a matter of significance.<p>  ",1180961442
+26248,comment,26241,26242,0,0,ivan,,,":) yes something like that",1180960519
+26247,story,,,1,0,jcwentz,"Videoguide For Hotels: Trivop.com",http://www.techcrunch.com/2007/06/03/videoguide-for-hotels-trivopcom/,,1180959387
+26246,comment,26234,26240,0,0,pg,,,"The sw already does this; nyt links just have a lot of\ndifferent forms.",1180959151
+26245,comment,26134,26244,0,0,jadams,,,"A pointer dereference can make all the difference in an inner loop. As usual, the answer is to profile, then to optimize.<p>No other dogma really applies.",1180958570

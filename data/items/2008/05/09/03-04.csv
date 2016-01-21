@@ -1,0 +1,28 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+185204,comment,184754,184907,0,0,amichail,,,"Other problems: the game is complicated and it is not obvious that this would be fun to play.",1210305524
+185201,story,,,3,0,thinkingserious,"Using TubeMogul to Increase Traffic and SEO",http://www.thinkingserious.com/2008/05/08/using-tubemogul-to-increase-traffic-and-seo/,,1210304810
+185200,comment,185187,185187,0,0,ivank,,,"Can anyone recommend chairs that lean back this far?",1210304803
+185199,comment,185003,185095,0,0,rantfoil,,,"You're right, that's probably it. Sadness.",1210304686
+185198,comment,185187,185187,0,0,fallentimes,,,"Great, so I worked on good posture during the last year for nothing.",1210304573
+185197,comment,184328,184788,0,0,apathy,,,"psql's EXPLAIN basically shows you the execution plan, IIRC.  MySQL's EXPLAIN provides the information about what keys will be hit for which joins in a more compact fashion.",1210304303
+185196,comment,184754,184754,0,0,zach,,,"I'd recommend this talk at Google to anyone interested in sparking some ideas in the game-productivity field:<p><a href=""http://video.google.com/videoplay?docid=-8246463980976635143"" rel=""nofollow"">http://video.google.com/videoplay?docid=-8246463980976635143</a><p>It starts out slow, but it's from a guy who worked on Google's image labeling site:<p><a href=""http://images.google.com/imagelabeler/"" rel=""nofollow"">http://images.google.com/imagelabeler/</a>",1210304290
+185195,story,,,6,0,kirubakaran,"OpenBSD dev fixes 25 year old directory handling bug",http://www.vnode.ch/fixing_seekdir,,1210304259
+185194,story,,,1,0,bootload,"Translating ASCII math notation to MathML and graphics",http://www1.chapman.edu/~jipsen/mathml/asciimath.html,,1210304212
+185193,comment,184619,185030,0,0,ericb,,,"That's fine and I even like using .net, but at any point MS can pull a VB6 ""not supported"" on any technology or part of your stack while it has known vulnerabilities and you can't do anything but chew on it. How can you even put a cost on that?",1210304187
+185192,story,,,1,0,semigeek,"By all means, have a sex life - it won't impact your chances",http://money.cnn.com/2007/09/11/news/companies/startup_couples.biz2/,"While the WSJ and certain VCs may disagree - it's not impossible to have a life outside of your startup.<p>I own a home, have a few side startups, work as a consultant fulltime for a consulting firm, am an active freemason, play in a regular poker game and take a month off of work every year - all while maintaining my relationship (and getting married in July).",1210303912
+185191,story,,,112,28,tzury,"Processing ported to JavaScript",http://ejohn.org/blog/processingjs/,,1210303877
+185190,comment,185124,185124,0,0,chaostheory,,,"this isn't a tutorial, but this should help: <a href=""http://www.eclipse.org/cobol/"" rel=""nofollow"">http://www.eclipse.org/cobol/</a>",1210303735
+185189,comment,185122,185122,0,0,jpeterson,,,"What?! They went over my helmet?",1210303725
+185188,comment,363,363,0,0,wheels,,,"Just got my first down-vote bombing.  It'd be nice if there was some sort of detection so that one person could only down-vote another person a couple times within a short period.  I had somebody that down-voted everything that I'd posted (in separate threads) that still had down-arrows.",1210303651
+185187,story,,,33,19,pg,"Sitting straight 'bad for backs'",http://news.bbc.co.uk/2/hi/health/6187080.stm,,1210303604
+185186,comment,185186,87306,0,0,chaostheory,,,"yeah i accidently click on the down button all the time on my windows phone too; just did it today again...",1210303445
+185185,comment,164464,164766,0,0,eugenejen,,,"But right click on the image and ""save the image"" beats the robots.txt, too. The in the previous example, this girl just don't want any pictures to be saved by anyone.",1210303106
+185184,comment,115643,115684,0,0,joseakle,,,"Thanks, sorry.",1210303095
+185183,comment,184461,184461,0,0,calpaterson,,,"Argh, would love to try this out, but it apparently it doesn't compile on SBCL or CMUCL yet.  Still, definitely won't get properly useful until more or less the whole standard library is supported.<p>This will be really cool if it carries on a gets to completion.",1210303054
+185182,comment,184932,185005,0,0,joseakle,,,"Here´s an idea.\nComments with downvotes are like spam.\nComments with upvotes are like good email.\nTrain spam filter with comments.\nUse auto karma for comments with few votes, maybe they were just late to the conversation.\nComments with little votes get boosted or downgraded based on spammyness.",1210303010
+185181,comment,184800,185174,0,0,calpaterson,,,"It just could not get any more web2.0 than that comment ;)",1210302792
+185180,comment,184357,185179,0,0,eugenejen,,,"Thanks, this is the greatest enlightenment.",1210302714
+185179,comment,184357,185177,0,0,pg,,,"Look at what they do instead of what they say.",1210302508
+185178,comment,184932,185057,0,0,pg,,,"The problem with this kind of approach is that you reward people whose opinions are closest to the average.  Those are not the smart people.",1210302397
+185177,comment,184357,184949,0,0,eugenejen,,,"I agree with you, pg.<p>But how do you filter out what those users exactly want from noise? For example, a lot of users making noise to Apple saying they want FM radio, wireless feature. Apple did not put the wireless until iPod Touch and iPhone. And still no FM.<p>The filtering is based on data? or vision?",1210302265
+185176,comment,183128,185170,0,0,pg,,,"That is so true.",1210302030

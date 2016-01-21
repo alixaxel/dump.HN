@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+106072,comment,106071,106071,0,0,cperciva,,,"This may not be useful for answering the ""hacked a (non-computer) system"" question on the YC application form, but I think a script which can run on a linux system and construct a bootable FreeBSD image qualifies as a cool hack nonetheless.",1201604214
+106071,story,,,4,7,cperciva,"The Depenguinator, version 2.0",http://www.daemonology.net/blog/2008-01-29-depenguinator-2.0.html,,1201604096
+106070,comment,105415,105465,0,0,nananana,,,"It's $153 million. The headline is incorrect, since they want to buy the entire company.",1201603773
+106069,comment,105976,105976,0,0,olifante,,,"Nokia Siemens Networks, in Portugal",1201603350
+106068,comment,106034,106060,0,0,rms,,,"I emailed them and asked about that provision; their response determines whether or not I take them seriously. My company's also further along than they are looking for, so I would want a good valuation to do their program. I would really like to do a YC style program though, I think it would be a lot of fun.",1201602936
+106067,comment,105976,105976,0,0,JohnN,,,"startup kid",1201602859
+106066,comment,105739,105830,0,0,brianr,,,"I voted this up because I thought it was interesting. As has been said elsewhere in this thread, it's uncommon for a comic author to endorse a candidate. For me the news item here is not the content of the endorsement, but the fact that it took place.",1201602853
+106065,comment,105976,105976,0,0,abstractwater,,,"I work for Logitech",1201602056
+106064,story,,,3,0,tomh,"Java development in 2008; Andy Glover's address at JavaWorld",http://www.javaworld.com/javaworld/jw-01-2008/jw-01-javain2008.html,,1201601711
+106063,story,,,3,0,jgrahamc,"Extracting Digg's user count from hidden fields to discover what changes make Digg grow",http://www.jgc.org/blog/2008/01/how-many-users-does-digg-have.html,,1201601402
+106062,comment,106047,106047,0,0,cyberhill,,,"I'd go for PR over SEO at first.",1201601243
+106061,story,,,1,0,papersmith,"Crowd cheers as a rich guy gets parking ticket",http://www.autoblog.com/2008/01/28/thats-the-ticket-crowd-cheers-as-veyron-gets-parking-fine/,,1201600813

@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-95193,comment,94806,95092,0,0,michaelneale,,,"yeah that is just mean.",1199569411
-95192,comment,95168,95168,0,0,carpal,,,"This is a really tough problem.  I worked on something like this extensively in 2005.  Ultimately, the hardest part was syntax highlighting on the current line, because you had to monitor input to figure out when a ""token"" had been completed, and then do the corresponding magic.  Dealing with the idiosyncrasies of changing colors and maintaining cursor position makes this a real bitch.<p>Turning off syntax coloring on the active line definitely makes the problem easier.  Wish I would have thought of that.  Strange how you can spend days on a problem but never think of the ""easy"" solution.",1199568601
-95191,story,,,2,0,waleedka,"Human vs. Machine: The Great Challenge of Our Time",http://radar.oreilly.com/archives/2008/01/human_vs_machine_google_wallstreet.html,,1199568200
-95190,comment,95188,95188,0,0,pg,,,"Robert Morris wrote one of these in college in the mid 80s to help him do his math homework.",1199568177
-95189,story,,,13,0,dpapathanasiou,"Building a (fast) Wikipedia offline reader",http://users.softlab.ece.ntua.gr/~ttsiod/buildWikipediaOffline.html,,1199567820
-95188,story,,,3,2,Panoramix,"Inverse symbolic calculator",http://ddrive.cs.dal.ca/~isc/index.html,,1199567523
-95187,comment,95085,95085,0,0,pius,,,"Very useful.  Will rework my perpetual motion machine patent to comply.  :P",1199567063

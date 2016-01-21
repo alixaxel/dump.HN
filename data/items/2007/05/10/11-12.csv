@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+21012,story,,,1,0,danw,"The Secret of Apple Design",http://www.technologyreview.com/Biztech/18621/page1/,,1178798250
+21011,comment,20788,20879,0,0,staunch,,,"Perhaps Viaweb 2.0",1178798156
+21010,comment,20749,20776,0,0,zelda,,,"Thanks Aito for your input.<p>I just visited you blog. Are you a hacker?<p>take care\n",1178797329
+21009,comment,20840,20840,0,0,staunch,,,"Small thinking.\n",1178795513
+21008,comment,20966,20966,0,0,sabat,,,"If this guy reviewed his own site the way he reviews others, he'd call it a few choice names and suggest that it shut down.<p>uncov is techcrunch/valleywag except that uncov's Fonzie is on waterskiis and is in mid-air over a shark.",1178795435
+21007,comment,20737,20959,0,0,staunch,,,"On most sites it's difficult for a bad guy to discover the email addresses of your users (they're private). It's trivial to discover the usernames (they're public). With thousands (or millions) of users it's not hard for a bad guy to find accounts with weak passwords. Probably wise to make sure you have decent password constraints and a way of preventing brute-force logins.",1178795245

@@ -1,0 +1,585 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+3286710,story,,,0,0,,,,,1386032393
+6837799,comment,6837631,6837786,6,0,jbooth,,,"Most/all of those others provide appropriate disclaimers and, if the FDA is calling them, they pick up the phone.<p>From what I saw of the FDA complaints, really all they wanted is a disclaimer and a dialback of certain marketing claims.  The lawsuit is almost certainly motivated by the FDA action and trying to grab a bad-faith payday, but the existence of various other BS products where the management actually bothered to talk to a lawyer doesn&#x27;t mean that 23andme was exempt from talking to a lawyer themselves.",1386032387
+6837798,comment,6833210,6834296,1,0,grumps,,,"It&#x27;s maddening, maddening I tell you.",1386032385
+6837797,comment,6832883,6836655,4,0,bbitmaster,,,"actually, that&#x27;s not what happened at all. Read the response of the guy who rejected it here:\n<a href=\"https://github.com/joyent/libuv/pull/1015#issuecomment-29538615\" rel=\"nofollow\">https://github.com/joyent/libuv/pull/1015#issuecomment-29538...</a><p><i>Hi all, let me try to clear up a few things.<p>Why I rejected the pull request. Us maintainers tend to \n reject tiny doc changes because they&#x27;re often more trouble \n than they&#x27;re worth. You have to collect and check the CLA, \n it makes git blame less effective, etc.<p>That&#x27;s why the usual approach to such pull requests is \n &#x27;no, unless&#x27; - in this case the &#x27;unless&#x27; should probably \n have applied. To me as a non-native speaker, the \n difference between &#x27;him&#x27; and &#x27;them&#x27; seems academic but \n hey, if it gets us scores of female contributors, who am I \n to object?<p>Why I reverted the commit. In hindsight, I should have \n given Isaac the benefit of the doubt because I don&#x27;t doubt \n that he acted with the best of intentions. On the other \n hand, if another committer jumped the line like that, I \n would have done the same thing. We have procedures in \n place and no one is exempt from them.<p>To the people that felt it necessary to call me a \n misogynist: I volunteer in a mentorship program that gets \n young people - especially young women - involved in \n technology. How many of you go out and actively try to \n increase the number of women in the field?<p>I&#x27;m probably going to step back from libuv and node.js \n core development. I do it more out a sense of duty than \n anything else. If this is what I have to deal with, then \n I&#x27;d just as rather do something else. Hope that clears\n things up. Thanks.</i>",1386032385
+6837795,story,,,3,1,jonbaer,"Self-Replicating USBs Spread Software Faster than an Internet Connection",http://www.technologyreview.com/view/522166/self-replicating-usbs-spread-software-faster-than-an-internet-connection/,,1386032343
+6837794,comment,6835521,6837432,6,0,brownbat,,,"> a lot of shots in The Hobbit were not improved by the 48fps presentation<p>But a few were. Outdoor pans, landscapes, busy scenes. There&#x27;s a market shot in the beginning with about 8 mini-scenes in the frame, and you can look at any part of the film and see it far more clearly / less blurring than if it were filmed with any lesser tech.<p>The shots that didn&#x27;t work: indoor shots where you could see caked on makeup... it&#x27;s because no one, literally no one, seems to understand how much less lighting and makeup to use with an HFR camera.<p>This is a craft problem. We probably won&#x27;t get widespread HFR until it gets cheap and widespread enough that some people are growing up experimenting with it.",1386032340
+6837793,story,,,1,0,tdieds,"Download insightful MySQL presentations from Percona Live London 2013",http://www.mysqlperformanceblog.com/2013/12/02/download-insightful-mysql-presentations-from-percona-live-london-2013/,,1386032340
+3283328,story,,,0,0,,,,,1386032313
+6837792,comment,6835094,6836461,3,0,durrrrrrr,,,"If everyone has to go to a certain place to get these items, we could invent a revolutionary new idea.<p>The shop.",1386032303
+6837791,comment,6836581,6836581,2,0,phlobot,,,"How rich are the people at saleforce getting that they consider financial investment &quot;immaterial&quot;. I like that.",1386032301
+6837790,story,,,4,0,anonfunction,"CSS3 Ripple Effect",http://codepen.io/cchambers/pen/sLrDk,,1386032272
+3281460,story,,,0,0,,,,,1386032269
+3281448,story,,,0,0,,,,,1386032269
+3281080,story,,,0,0,,,,,1386032261
+6837789,comment,6837323,6837323,1,0,fredwilkins,,,"What about scala and python?",1386032257
+6837788,comment,6837034,6837034,2,0,kmfrk,,,"The most compelling example of profiling I ever saw was Iconfinder&#x27;s use with Django: <a href=\"https://speakerdeck.com/nickbruun/lessons-learned-defying-joel-spolsky-with-django?slide=41\" rel=\"nofollow\">https://speakerdeck.com/nickbruun/lessons-learned-defying-jo...</a>.<p>The best sales pitch for profiling there is, perhaps. :)",1386032253
+6837787,comment,6837631,6837766,0,0,cmsimike,,,"That says a lot about the United States and it is all bad.",1386032227
+6837786,comment,6837631,6837631,14,0,cromwellian,,,"And yet, few FDA actions or class action lawsuits against chiropractors, acupuncturists, purveyors of bullshit diets, nutrition or exercise products, penis and breast enlargement devices.<p>Turn on any radio or late night TV channel and get deluged with sheer bullshit. Better yet, look at your own insurance policy paying for the medical equivalent of scientology (chiropractic medicine).<p>There&#x27;s a long list of scams and bad products out there (Ranbaxy anyone?), many that actually harm consumers and promise miracles. And yet, here we have the government cracking down on something (as well as opportunistic ambulance chasers), that doesn&#x27;t really promise anymore than a statistical printout of your DNA.<p>Most of 23andme&#x27;s customers were early adopters, especially when the price was much higher, I find it hard to believe the plantiffs in this lawsuit were duped into thinking it does anything more than claimed.<p>Meanwhile, people who give medical advice that harms actual children, by claiming vaccination gives them autism, can run wild all over public health.",1386032217
+6837785,comment,6837298,6837699,1,0,__david__,,,"> I can tell you authoritatively that the UNIX timestamp for 2023-01-01 00:00 UTC is 1672560000.<p>That assumes the calendar definition does not change. What if a 10 month calendar with a new year that starts in spring somehow becomes widely popular and adopted as the standard sometime in the next 10 years?<p>Then suddenly 2023-01-01 is <i>not</i> 1672560000 and is actually 1680332400.",1386032216
+6837784,comment,6836994,6837653,2,0,ics,,,"The levels on Kickstarter were $150 for the first 50 backers and $200+ &quot;v2&quot;. A comment above says they&#x27;ve pushed early-bird shipping to January. Given that knowledge you&#x27;re probably looking at a <i>minimum</i> 1 year wait for $200-250 retail.<p>I&#x27;d love to know the exact details too but it&#x27;s unlikely even they will know until at least after the first round of production.",1386032207
+3278021,story,,,0,0,,,,,1386032188
+6837783,comment,6836817,6837421,3,0,dpark,,,"There&#x27;s absolutely nothing wrong with this argument. That&#x27;s why it&#x27;s generally accepted for people to set up video cameras in locker rooms. I might have a photographic memory, so you might as well let me video you.",1386032182
+6837782,comment,6835521,6836173,1,0,mikeash,,,"At what distance?",1386032169
+6837781,comment,6837631,6837631,2,0,geetee,,,"Definitely will be opting-out of this one if it gains any traction.",1386032164
+6837780,comment,6837298,6837665,1,0,Leszek,,,"Or just drop the idea of &quot;day&quot;/&quot;year&quot; being a fixed, constant integer number of seconds.",1386032161
+6837779,comment,6836547,6837441,2,0,StavrosK,,,"But surely they must have spent hundreds of millions of years transmitting the information in written form before mastering acoustic transmission?",1386032149
+6837778,comment,6830566,6832258,1,0,jessriedel,,,"I don&#x27;t think it&#x27;s so obvious.  Nuclear power is a good example of a tremendously useful technology that languishes because of public ignorance.  (Even if you think you have some good argument why nuclear power isn&#x27;t such a good idea, it&#x27;s clear that this <i>isn&#x27;t</i> what&#x27;s caused the failure.)",1386032147
+6837777,comment,6837148,6837148,8,0,scottcowley,,,"Applebee&#x27;s getting tableside tablets is like putting frosting on a piece of wood.",1386032146
+6837776,comment,6836547,6836789,1,0,joe_the_user,,,"Yes,<p>It&#x27;s not as significant as one might imagine.<p>But it does have the significance that you still have to worry whether your air-gapped machine is infected since it could secretly leak info even unplugged.",1386032138
+6837775,comment,6836994,6837321,2,0,lambda,,,"You learn a little more if you actually hover over the icons in the &quot;Features&quot; section (which is very poorly disoverable, I scrolled past it and then back again and on a hunch tried hovering on the icons). You actually find out what it is on the &quot;Specs&quot; page. <a href=\"http://www.brck.com/specifications/\" rel=\"nofollow\">http://www.brck.com/specifications/</a><p><pre><code>  The BRCK is a rugged, cloud managed, full-featured router \n  with built in failover and programmable GPIO expansion. \n  BRCK can connect to the internet through RJ47, GSM, Wifi \n  Bridge, as well as Ethernet Over USB via the GPIO \n  Breakout. It’s rugged build and cloud managed interface \n  make it ideal for “away teams”, monitoring systems in \n  remote locations, and businesses with challenging \n  infrastructure. BRCK’s GPIO breakout provides 20 pins for \n  digital and alaouge Read/Write as well as I2C, SPI and \n  UART. This, combined with BRCK’s Arduino Profile, make it \n  ideal for quickly connecting hardware to the Internet of \n  Things.\n</code></pre>\nRJ47 is also a connector I&#x27;m not familiar with. According to this site <a href=\"http://www.accesscomms.com.au/reference/RJreference.htm\" rel=\"nofollow\">http://www.accesscomms.com.au/reference/RJreference.htm</a> it&#x27;s for &quot;Programmed data equipment connected to a key system where the registered terminal equipment is not compatible with electrical characteristics of tip and ring behind line circuit.&quot; which really doesn&#x27;t clarify anything. Given that it&#x27;s an 8 position jack, however, I think that they meant the same thing as &quot;RJ45&quot; or &quot;Ethernet&quot;; but they don&#x27;t seem to be good at communicating this.",1386032135
+6837774,story,,,3,0,hden,"Promise based build system",https://github.com/hden/prunt,,1386032127
+6837773,comment,6836387,6837586,1,0,Jack000,,,"another idea:<p>a credit card sized e-paper device that can only do sms. It could be efficient enough to be powered by a peltier chip, so no need to charge it ever. Seems perfect for the text generation",1386032118
+6837771,comment,6835094,6835874,1,0,__Joker,,,"While the pizza delivery will be cheap now but given time for the technology to mature and then the scale of the operation will make drone technology more cheaper. Obviously it will take a quite a time before it adds to profit line. As usual Amazon will keep absorbing the losses for that time and it is well equipped to that, if amazon history tells us anything.",1386032071
+3272653,story,,,0,0,,,,,1386032062
+3272648,story,,,0,0,,,,,1386032062
+3272644,story,,,0,0,,,,,1386032061
+3272637,story,,,0,0,,,,,1386032061
+3272632,story,,,0,0,,,,,1386032061
+3272627,story,,,0,0,,,,,1386032061
+3272495,story,,,0,0,,,,,1386032058
+6837770,comment,6836961,6837478,11,0,rhizome,,,"Snark all you like, but I think it&#x27;s perfectly reasonable (if not <i>required</i>) to hold Google to the standards they paid Vince Vaughan to portray them having.",1386032021
+3270848,story,,,0,0,,,,,1386032019
+6837769,comment,6837298,6837298,1,0,axus,,,"&quot;GPS Time&quot; is UTC without the leap seconds.  But it only goes back to 1980.",1386032018
+6837768,comment,6836994,6837561,2,0,sahaskatta,,,"Uhh, T-Mobile has had 4G LTE to complement their HSPA+ DC network for quite sometime.<p><a href=\"http://t-mobile-coverage.t-mobile.com/4gcitylist.aspx\" rel=\"nofollow\">http://t-mobile-coverage.t-mobile.com/4gcitylist.aspx</a>",1386032010
+6837766,comment,6837631,6837631,3,0,coldcode,,,"If you appear successful someone will sue you. If you do something new and scary someone will sue you. If you have a clever name someone will sue you. In the US you aren&#x27;t someone until you&#x27;ve been sued.",1386031979
+3269133,story,,,0,0,,,,,1386031978
+6837765,comment,6836994,6837464,3,0,interpol_p,,,"I&#x27;ve always thought iPads with 3G/LTE were a bit redundant. Why not just tether to your phone? It takes a few seconds (which is a bit of a hassle) but you avoid paying an entirely separate monthly fee.",1386031977
+3268516,story,,,0,0,,,,,1386031964
+3268513,story,,,0,0,,,,,1386031964
+3268511,story,,,0,0,,,,,1386031964
+3268507,story,,,0,0,,,,,1386031964
+3268504,story,,,0,0,,,,,1386031964
+3268349,story,,,0,0,,,,,1386031960
+3268339,story,,,0,0,,,,,1386031960
+3268335,story,,,0,0,,,,,1386031960
+3268330,story,,,0,0,,,,,1386031960
+3268328,story,,,0,0,,,,,1386031960
+3268321,story,,,0,0,,,,,1386031959
+3268315,story,,,0,0,,,,,1386031959
+3268306,story,,,0,0,,,,,1386031959
+3268300,story,,,0,0,,,,,1386031959
+3268292,story,,,0,0,,,,,1386031959
+3268176,story,,,0,0,,,,,1386031956
+3268048,story,,,0,0,,,,,1386031953
+3267938,story,,,0,0,,,,,1386031950
+6837764,comment,6837298,6837298,1,0,dap,,,"At least on a single system, it&#x27;s not that hard.  You have to get over the fact that you can&#x27;t compute accurate intervals by recording two human-datetime timestamps.  Even aside from the myriad edge cases around date arithmetic, an administrator (or NTP) can always reset the clock between the endpoints of your interval, and your computation may be very wrong.<p>If you want a human timestamp, use gettimeofday[0] and related functions.  If you want something to compute actual elapsed seconds with, use high-resolution timestamps([2] and [3]).  You just can&#x27;t have both, and that&#x27;s because of the way human dates work, not the way we represent them.<p>[0] <a href=\"http://pubs.opengroup.org/onlinepubs/009695399/functions/gettimeofday.html\" rel=\"nofollow\">http://pubs.opengroup.org/onlinepubs/009695399/functions/get...</a>\n[1] <a href=\"http://www.lehman.cuny.edu/cgi-bin/man-cgi?gethrtime+3\" rel=\"nofollow\">http://www.lehman.cuny.edu/cgi-bin/man-cgi?gethrtime+3</a>\n[2] <a href=\"http://pubs.opengroup.org/onlinepubs/9699919799/functions/clock_gettime.html\" rel=\"nofollow\">http://pubs.opengroup.org/onlinepubs/9699919799/functions/cl...</a>",1386031941
+6837763,comment,6835066,6836484,2,0,pbsd,,,"Yeah, this special case always weirded me out, it&#x27;s hard to see a justifiable use case. In regular usage you&#x27;d use auto& instead to achieve the same effect.<p>C++14&#x27;s decltype(auto) confuses things even further: <a href=\"http://coliru.stacked-crooked.com/a/f7d8195efc4708f3\" rel=\"nofollow\">http://coliru.stacked-crooked.com/a/f7d8195efc4708f3</a>",1386031936
+3267241,story,,,0,0,,,,,1386031934
+3266919,story,,,0,0,,,,,1386031927
+6837762,comment,6836959,6837301,3,0,effn,,,"Boarding card reissue fee? It&#x27;s been a few years since I&#x27;ve been on a Ryanair flight, but all the other airlines I&#x27;ve used recently have QR scanners now, you no longer need a boarding card to board a plane.",1386031925
+6837761,comment,6834791,6834791,1,0,quickpost,,,"This is awesome.  Best post I&#x27;ve seen on HN in a while.",1386031919
+6837760,comment,6836387,6837705,2,0,gnaffle,,,"But that&#x27;s the thing though, companies like Apple pretty much ignore the whole &quot;phone&quot; and SMS thing, Apple has even shot the operators in the back with iMessage.<p>You&#x27;re right that it&#x27;s easy to make a phone nowadays with off the shelf components, like the article mentions that&#x27;s exactly what the chinese/asian OEMS are doing now. The question is whether you will be able to make something that can compete with Apple / Google / Samsung. Even HTC is having a hard time doing that with some pretty decent phones.",1386031911
+6837759,comment,6836581,6837161,1,0,rhizome,,,"It&#x27;s not human nature, because I&#x27;m basically asking examples of a software project or application that has been rewritten to the point of rote reimplementation.",1386031871
+3264282,story,,,0,0,,,,,1386031867
+3264280,story,,,0,0,,,,,1386031867
+3264255,story,,,0,0,,,,,1386031866
+3264053,story,,,0,0,,,,,1386031862
+3264051,story,,,0,0,,,,,1386031862
+3263756,story,,,0,0,,,,,1386031855
+6837758,comment,6834710,6836077,2,0,Jtsummers,,,"I realized after reading other posts that I did, in fact, hear a <i>whoosh</i> earlier.",1386031854
+3263710,story,,,0,0,,,,,1386031854
+3263680,story,,,0,0,,,,,1386031853
+3263678,story,,,0,0,,,,,1386031853
+3263674,story,,,0,0,,,,,1386031853
+3263609,story,,,0,0,,,,,1386031852
+3263425,story,,,0,0,,,,,1386031847
+3263420,story,,,0,0,,,,,1386031847
+3263417,story,,,0,0,,,,,1386031847
+6837756,comment,6833652,6833734,1,0,thrownaway2424,,,"Hardly seems to address the problem stated in the article, as a search for &quot;BP&quot; on duckduckgo contains _only_ investment-related information, nothing about the oil spill.  At DDG you are in a filter bubble, it&#x27;s just not _your_ filter bubble.  It&#x27;s someone else&#x27;s filter, presumably the collective bubble of the engineers at DDG&#x27;s incredibly lackadaisical and tragically understaffed search quality department.",1386031843
+6837755,comment,6836959,6837626,2,0,Steuard,,,"I came here to say exactly that. Southwest feels reasonably mainstream to me these days. (And Spirit is <i>terrible</i>.)",1386031833
+3262628,story,,,0,0,,,,,1386031829
+3262622,story,,,0,0,,,,,1386031829
+6837754,comment,6836961,6837600,4,0,genwin,,,"Likely it means scheduled.",1386031793
+6837753,comment,6836994,6837480,1,0,Jtsummers,,,"They shipped different models to handle different carriers and only recently are they shipping unified models for multiple carriers. As I said in another reply, that&#x27;s bad UX for a device that&#x27;s not quite at commodity level prices. You could always get a dongle or pair it up (still options), which prevents the computer from becoming obsoleted by changing network affiliations or protocols.",1386031776
+6837752,comment,6833652,6836404,1,0,r00fus,,,"Mass transport should be bike (or it&#x27;s advanced-tech equivalent) friendly.  Not just 1 or 2 spots on a bus/train, but many or all spots should allow bikes.<p>Then it won&#x27;t be a question of mass transit vs. bikes but both together - that&#x27;d make a bunch of more commute options workable for me.",1386031771
+6837751,comment,6836994,6837718,17,0,Ehersman,,,"This is correct (and thanks for being a backer).  We had some issues with the modem supplier and had to redesign the comms board to work with the new modem.  This was after going around in circles with the original supplier and losing valuable time.  It sucks being small when dealing with some of these large organizations, but we did eventually find a great modem and have been testing it out this month.<p>I am sorry we had to delay the production, we all so badly wanted to get it out on time...",1386031760
+3259694,story,,,0,0,,,,,1386031759
+3259687,story,,,0,0,,,,,1386031759
+3259522,story,,,0,0,,,,,1386031755
+3259517,story,,,0,0,,,,,1386031755
+3259512,story,,,0,0,,,,,1386031755
+3259376,story,,,0,0,,,,,1386031752
+6837750,comment,6837160,6837160,4,0,timthimmaiah,,,"NASA waiting on Google for a ride up to the moon...C&#x27;MON MAN",1386031733
+6837749,comment,6836387,6836982,4,0,gnaffle,,,"They still mean something in those countries, because carriers there still have agendas, marketing budgets, partnerships and retail stores even though they may not dictate cell phone features.",1386031713
+6837748,comment,6835521,6837388,4,0,gknoy,,,"The original comment missed the point of the chart in the article you link: the increased pixel density is useless __at TV viewing distances__.  When you go down to about 2 feet from the screen, 4k is pretty apparent on a 30 inch screen.<p>A clearer chart is at [1], and the Carlton Bale&#x27;s original article even has a handy calculator that lets you verify this [2].<p>1: <a href=\"http://s3.carltonbale.com/resolution_chart.html\" rel=\"nofollow\">http://s3.carltonbale.com/resolution_chart.html</a> \n2: <a href=\"http://carltonbale.com/does-4k-resolution-matter/\" rel=\"nofollow\">http://carltonbale.com/does-4k-resolution-matter/</a>",1386031709
+6837747,comment,6834093,6836645,1,0,dredmorbius,,,"I think it is.<p>There are cases in which it may be ... very specific.  You&#x27;re looking for feedback from a select group / highly refined community.  Though this also presents issues -- see discussions of &quot;the problem with mathematics&quot; where there might be a half-dozen people who are capable of even following, let alone assessing, an argument or theorem.<p>Where you&#x27;re working in a system without any selection, you&#x27;re not dealing with an evolutionary system (or you&#x27;ve misidentified the selection process).",1386031680
+6837746,comment,6833341,6833341,1,0,judegomila,,,"Luckily the grid tends to infinite resistance in the limit.<p>Also interesting -><p>Infinite grid of capacitors (tends to 0 at infinity):<p><a href=\"http://arxiv.org/pdf/0905.0054.pdf\" rel=\"nofollow\">http://arxiv.org/pdf/0905.0054.pdf</a><p>Infinite sphere resistance (tends to infinity):<p><a href=\"http://physics.stackexchange.com/questions/48439/resistance-between-two-points-in-an-infinite-metal-sphere-cube\" rel=\"nofollow\">http://physics.stackexchange.com/questions/48439/resistance-...</a>",1386031672
+6837745,comment,6833223,6836779,1,0,protomyth,,,"I&#x27;m pretty sure ebooks haven&#x27;t crashed and killed anyone and landing isn&#x27;t the only problem.",1386031671
+6837744,comment,6835177,6835882,1,0,MaxMarty,,,"If you banned everything that could possibly be unsafe, we&#x27;d still be running around in the African Savannah.<p>This article is troll-bait.",1386031658
+6837743,comment,6836994,6837692,1,0,Jtsummers,,,"They can now. Before we had (and on iPhone still have?) different models to handle different carriers. That&#x27;s not a good UX for customers, especially as computers are still not at the commodity level that phones and tablets are (refresh purchases are 3+ years apart).",1386031638
+6837742,comment,6835734,6835992,2,0,tyuop,,,">Same reason /s4s/ is still there - it&#x27;s the board where people go to shitpost so that the other boards don&#x27;t have to be filled with it.<p>No, no, no. 4chan is still full of shitposting, and /s4s/&#x27;s own shitposting has steadily been leaking into other boards. Moot has no idea how to manage and build a community. His answer to troublemakers (spammers, shitposters, idiots) is to give them their own place, hoping they&#x27;ll just stay there and leave everyone else alone. The racists, the misogynists, the ponyfuckers, you name it. Then when they have established a presence (thanks in no small part to his retarded policy) and people still complain about them, he says now he can&#x27;t get rid of their board, or they&#x27;d spill out into the others. This kind of approach is, at best, horribly naive, and at worst, downright stupid. The site has been hemorrhaging quality posters for years and creating abominations like /s4s/ won&#x27;t help to reverse the trend.",1386031606
+6837741,comment,6837298,6837629,4,0,tel,,,"This exists, though it&#x27;s rare to see any software that uses it. DJB&#x27;s daemontools do, somewhat unsurprisingly.<p>It&#x27;s called TAI, International Atomic Time [0], and it&#x27;s effectively just UTC minus the leap seconds. It&#x27;s (close to) the actual time being measured by CPUs all about and it&#x27;s a pain in the ass to convert to and from it due to leap seconds and such, but if you want to just make time somebody else&#x27;s problem entirely then using TAI will keep you accurate at least.<p>[0] <a href=\"http://en.wikipedia.org/wiki/International_Atomic_Time\" rel=\"nofollow\">http://en.wikipedia.org/wiki/International_Atomic_Time</a>",1386031603
+3252674,story,,,0,0,,,,,1386031595
+6837740,comment,6835403,6837168,3,0,argumentum,,,"“To see what is in front of one’s nose needs a constant struggle.” - George Orwell",1386031558
+6837739,comment,6836994,6837437,5,0,Ehersman,,,"Good points.  We&#x27;ll rework some of the messaging.",1386031542
+6837738,comment,6836959,6837442,7,0,ukoki,,,"True — I didn&#x27;t mean to slight Ayn Rand or her books. But if there ever was an airline where the passenger&#x27;s success (super-cheap flight versus being horrifically screwed over) is the direct measure of his or her individual skill, effort, and creativity, it&#x27;s Ryanair.",1386031530
+3249913,story,,,0,0,,,,,1386031528
+6837737,comment,6836128,6837121,7,0,mey,,,"Actually in this particular case it seems to be an issue with the concept of jury by peers.<p>Based on this article: <a href=\"http://arstechnica.com/tech-policy/2013/11/jury-newegg-infringes-spangenberg-patent-must-pay-2-3-million/\" rel=\"nofollow\">http://arstechnica.com/tech-policy/2013/11/jury-newegg-infri...</a><p>From further down this conversation",1386031527
+6837736,comment,6834093,6837101,2,0,wpietri,,,"Are you sure? In his obituary, it says two drafts. <a href=\"http://www.nytimes.com/books/97/03/23/lifetimes/asi-v-obit.html\" rel=\"nofollow\">http://www.nytimes.com/books/97/03/23/lifetimes/asi-v-obit.h...</a>",1386031499
+6837735,comment,6836994,6837321,2,0,criswell,,,"Yeah, the &quot;Features&quot; section of the home page has some mystery meat navigation. Lots of useful information hidden behind 9 click/hovers.",1386031496
+6837734,comment,6837298,6837508,1,0,AndrewBissell,,,"I think that&#x27;s mainly a problem with apps using a wall clock time (e.g. System.currentTimeMillis() in Java) when what they really want is a monotonic clock based on a hardware counter of some kind (like System.nanoTime()).<p>I&#x27;m not too familiar with what the clock situation is like for languages outside C/C++/Java.",1386031476
+6837733,comment,6834093,6837406,1,0,wpietri,,,"Interesting! Thanks. It sounds like a different take on the same rewriting-is-necessary principle, rather than slowly writing a perfect first draft.",1386031471
+6837732,comment,6836387,6837712,3,0,gnaffle,,,"Most things needed to make a smartphone is covered by FRAND patents. Software patents are of course a problem for anyone working in the software industry, so that&#x27;s not limited to smartphones.",1386031428
+6837731,story,,,2,0,gavindonovan,"Why Amazon's appearance on 60 Minutes was more about Cyber Monday than drones.",http://www.gavindonovan.com/blog/amazons-prime-air-drones,,1386031422
+6837730,story,,,1,0,clarkm,"Effective Usenet Tradecraft: Survival in an Extremely Adversarial Environment",http://grugq.github.io/blog/2013/12/01/yardbirds-effective-usenet-tradecraft/,,1386031422
+6837729,comment,6836994,6837316,2,0,Ehersman,,,"Good point.  I&#x27;ll see what we can do to make that more visible, the features are too hidden right now.",1386031415
+3245081,story,,,0,0,,,,,1386031413
+6837728,comment,6827333,6837496,1,0,SamReidHughes,,,"There&#x27;s nothing that says std::map has to be implemented as a red-black tree.  And using an abstract data type that&#x27;s implemented with a tree is not the same thing as making your own tree for your own purposes.",1386031391
+6837727,story,,,2,0,ialex,"How to scale Django: Finding the Bottleneck",https://www.digitalocean.com/community/articles/how-to-scale-django-finding-the-bottleneck,,1386031382
+6837726,story,,,1,0,bigplaygenie,"If you like Esports and believe in bitcoin, you'll like this",https://roshpit.ca,,1386031377
+6837725,comment,6835094,6835094,1,0,blahbl4hblahtoo,,,"This is almost exactly how I felt when I saw that Google was &quot;taking on death&quot;.<p>Some of these SV companies are better than others at this kind of thing. Amazon, Google, and Apple have this ability to make otherwise skeptical journalists just turn their brains off...Google&#x27;s &quot;death stunt&quot; was the cover of Newsweek for god&#x27;s sake.",1386031368
+6837724,comment,6836128,6836128,14,0,arbuge,,,"The part below is pretty terrible. So all these big guys with the resources to fight back like Newegg did instead keeled over and paid up...<p>&quot;Target had a website; Target got sued by TQP. It got out of the case by paying $40,000.<p>Some paid less than that—but most paid more.<p>Dodge & Cox, a mutual fund, paid a bit more than $25,000. Pentagon Credit Union paid $65,000. QVC paid $75,000. MLB Advanced Media paid $85,000. PetSmart paid $150,000. PMC paid $400,000. Cigna paid $425,000. Bank of America paid $450,000. First National paid $450,000. Visa paid $500,000. Amazon, Newegg&#x27;s much larger competitor, paid $500,000. UPS paid $525,000.<p>IBM paid $750,000. Allianz Insurance paid $950,000. Microsoft paid $1,000,000.&quot;",1386031362
+6837723,comment,6836994,6837364,5,0,Ehersman,,,"I&#x27;m one of the BRCK team and I use the Karma when in the US traveling around. I initially bought it for testing and think it&#x27;s a really well done device.  What you should know about it is that it&#x27;s only really good in US cities, as it uses WiMax backhaul.  It&#x27;s got decent battery as well.  Their social mechanism for getting others to signup and get you free Mb really works (pro tip: Keep it on in the airport).<p>The BRCK was designed for a different use case. It&#x27;s designed to allow more connections and to have failovers for poor power and internet connectivity.  It also allows you to extend it with both hardware and software of your own making.",1386031356
+6837722,story,,,60,55,taofu,"Only 4% of languages are used online",http://priceonomics.com/only-4-of-languages-are-used-online/,,1386031348
+6837721,comment,6837523,6837523,1,0,benologist,,,"Why even submit this when the title attributes the story to someone else?<p><a href=\"http://online.wsj.com/news/article_email/SB10001424052702304854804579234450633315742-lMyQjAxMTAzMDAwMjEwNDIyWj\" rel=\"nofollow\">http://online.wsj.com/news/article_email/SB10001424052702304...</a>",1386031338
+3241397,story,,,0,0,,,,,1386031326
+3239297,story,,,0,0,,,,,1386031277
+6837719,comment,6831461,6835391,1,0,dennisgorelik,,,"Can we discuss it here?<p><a href=\"https://news.ycombinator.com/item?id=6837713\" rel=\"nofollow\">https://news.ycombinator.com/item?id=6837713</a>",1386031263
+6837718,comment,6836994,6837443,11,0,incision,,,"><i>&quot;Did they actually ship on time?&quot;</i><p>Nope. I&#x27;m an &quot;early-bird&quot; backer of this. The last update on shipping says they&#x27;ve pushed to January.<p>Apparently, there were complications sourcing the 3G modems they intended to use.<p>From the update:<p><i>&quot;Unfortunately, we live in a world where small, African, tech companies don&#x27;t have the influence to get global component suppliers to meet our delivery deadlines.  In particular, we have been unable to secure a timely supply of the 3G modems that are specified for the BRCK.  Although it would seem straightforward to simply switch to another modem, the implications of this change effect mechanical design, board layout, and certification - all things that require time to adjust.  We are now working with multiple suppliers to find a suitable alternative that we can source in sufficient supply to meet our production demands.&quot;</i>",1386031241
+6837717,story,,,18,2,shawndumas,"Why I Don’t Recommend Auto-Renewable Subscriptions",http://www.marco.org/2013/12/02/auto-renewable-subscriptions,,1386031240
+6837716,comment,6832883,6832883,3,0,malandrew,,,"<p><pre><code>    &quot;...and if he had been, he wouldn&#x27;t be as of this morning: \n    to reject a pull request that eliminates a gendered pronoun \n    on the principle that pronouns should in fact be gendered \n    would constitute a fireable offense for me and for Joyent. \n    On the one hand, it seems ridiculous (absurd, perhaps) to \n    fire someone over a pronoun -- but to characterize it that \n    way would be a gross oversimplification: it&#x27;s not the use of \n    the gendered pronoun that&#x27;s at issue (that&#x27;s just sloppy), \n    but rather the insistence that pronouns should in fact be \n    gendered. To me, that insistence can only come from one \n    place: that gender—specifically, masculinity—is inextricably \n    linked to software, and that&#x27;s not an attitude that Joyent \n    tolerates.&quot;\n</code></pre>\nSeriously? You&#x27;re attributing this insistence to malice without considering another viewpoint: This could be simple grammar nazism from someone who takes a prescriptionist (as opposed to a descriptionist) viewpoint on English grammar. For a very long time, gendered pronouns have been considered the grammatically correct form. Acceptance of gender neutral form is relatively new, maybe one to three decades old in common use. There are other possibilities than this being a case of active overt sexism. At the end of the day, you need to remember that we are in an industry where we all rubberneck at a huge debate over the proper use of the semicolon in Javascript to cite one example.<p>Gendered pronouns becoming an issue of sexism entered the discussion the same way that the concepts of double negatives entered the English language. Someone simple decided to make a stink about it until everyone believed it. I don&#x27;t know who was responsible for making gendered pronouns a sexism issue in English, but in the case of double negatives, you can attribute that popular language change to Bishop Robert Lowth, when he published A Short Introduction to English Grammar with Critical Notes in 1762.<p>At the end of the day most romance languages are inextricably linked to a linguistic concept of gender, but you don&#x27;t see any speakers of those languages making a big issue about the political correctness of their mother tongue. Why? Because linguistic gender and sexual gender are extremely weakly related and they are only strongly related in English because a strong relationship has been argued for by people with nothing better to do until it is a popular concept.",1386031234
+3237220,story,,,0,0,,,,,1386031228
+6837715,comment,6833381,6837384,2,0,sdesol,,,"Unified and side by side diffs were never really meant for diffing documents.  If you do go the route of introducing line breaks to improve readability and/or editing, you really need to use a different diffing algorithm.  What I&#x27;ve found useful is the Google diff match and patch library.<p><a href=\"http://code.google.com/p/google-diff-match-patch/\" rel=\"nofollow\">http://code.google.com/p/google-diff-match-patch/</a><p>Its extremely easy to integrate as well. You can see how it handles a markdown diff at:<p><a href=\"http://ny.testdrive.gitsense.com/index?#pid=23&cid=27&trail=\" rel=\"nofollow\">http://ny.testdrive.gitsense.com/index?#pid=23&cid=27&trail=</a>",1386031220
+6837714,story,,,6,1,shawndumas,"How Do Users Really Hold Mobile Devices?",http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php,,1386031208
+3236034,story,,,0,0,,,,,1386031199
+6837713,story,,,2,1,dennisgorelik,"A Lesson on Elementary, Worldly Wisdom",http://ycombinator.com/munger.html,,1386031193
+6837712,comment,6836387,6836387,34,0,untog,,,"Curious that the article doesn&#x27;t mention the word &quot;patents&quot; once. That&#x27;s what stops you from even starting to build a Smartphone of your own - you&#x27;d violate dozens of patents and be sued into oblivion. The only reason manufacturers are able to do it now is because they all have portfolios of their own and are in a state of cold war with everyone else.",1386031193
+6837711,comment,6837298,6837672,6,0,haberman,,,"It does not matter, because leap seconds do not affect the UNIX timestamp <-> UTC mapping.  That is the whole point of what I am saying.<p>The UNIX timestamp for 2023-01-01 00:00 UTC is 1672560000.  I can tell you that right now even though I do not know how many leap seconds will be added between now and then.",1386031187
+6837710,comment,6835521,6837127,2,0,jfb,,,"My office is small? Good point, though.",1386031186
+6837709,comment,6823381,6837327,1,0,mikeash,,,"I don&#x27;t see how it could possibly be &quot;nitpicking&quot; to discuss this stuff in detail. The conversation started out with the question of why some vaccines are not given to certain people, and why that does not mean that these vaccines are dangerous to other people. We then diverted to the question of dangers in infants, but understanding exactly what the dangers <i>are</i> and why certain vaccines have certain dangers is hardly &quot;nitpicking&quot;.<p>And to be honest, no, I did not read the end of your post. I stopped at the moment I got to that completely ludicrous statement that an allergic reaction qualifies as an immune system compromise. This is not some obscure detail, this is an <i>extremely</i> basic fact about how the immune system works.",1386031176
+6837708,comment,6835521,6837650,1,0,jfb,,,"Yeah, I guess, although it makes for the possibility of broken cadences, which is everybody&#x27;s least favorite thing ever. I imagine that this isn&#x27;t going to happen until film is dead as a presentation medium for a variety of reasons (tooling, as you note).",1386031171
+3234502,story,,,0,0,,,,,1386031164
+6837707,comment,6837298,6837642,3,0,AndrewBissell,,,"I didn&#x27;t really get what the author was referring to with &quot;those final four words&quot; either, this hardly seems like pedantry to me.",1386031162
+6837706,comment,6835094,6836461,2,0,downandout,,,"> Organising something like this in a controlled area like a campus must be a few orders of magnitude simpler than organising something like this across the US.<p>Not necessarily.  When a new address comes up, a human operator might takes a look at a satellite image of the address and give the drone an appropriate location to land on the property.  That data would then be stored.  15 seconds with a human, one time only, is all it would take to make this easy in most neighborhoods.",1386031154
+6837705,comment,6836387,6836387,2,0,ThinkBeat,,,"I understand where the author is coming from but \nI disagree completely.<p>Imagine trying to build a smartphone 15 years ago, \nthat would be really hard. You need a decent screen\nyou need a good cpu etc.<p>All of that is off the shelf now. Anyone can buy it\nand its cheap.  (esp in volume)<p>In a market in China (I dont remember the name) there\nare vendors upon vendors who sell all sorts of electrical\nparts, gadgets etc.  You can literally walk down the isles\nand pick the parts you want in your new smartphone.<p>So hardware wise, now is a good time.   Sure you wont get\nas polished as the big players right away, but prototypes\nor a limited set sure.<p>Now software. There is quite a bit of software that will run\non the arm board. With all the hacking on the android platform\n(sadly a lot more than on the Windows or Apples phones), you can (if you want) at least create a very customized different Android based OS if you want. (would make updates a bitch).<p>But you can also get some version of linux working and I am sure some other strange os.<p>But there has never been a time when it was easier to get\nsome dev boards, and start writing the next mobile OS.<p>Its something you can get started on at home now for less\nthan $1000.<p>As far as the cloud services and integration that has\nnever been nearly as easy. We have all sorts of providers\nwith stable and &quot;open&quot; APIs.<p>Providers like MS azure provides a full stack.\nDatabase, Data storage, device sync, messaging, \ncomputation etc. and they are not the only ones.<p>I cant think of how much building and setting up\nall that cloud stuff would have cost in itself.\nIts out there now, and if you are tesing and writing\nyour app, or have it deployed with low values its\nvery cheap. Sure you wont have your own Music store\nright away (but licensing is the biggest issue there)\nbut you can piggy back Amazon mp3.<p>So we have good access to cheap hardware.\nWe have development tools, boards and compilers.\nWe have excellent possibilities cloud sync, integration, etc.\nWe have open source operating systems we can hack at, \nlearn from and understand how things work.<p>As others have pointed out the future is probably\npure data phones. That is a great market to attack\nright now. Forget the 1984 &quot;phone&quot; part and the \nnobody really uses anymore SMS.",1386031148
+3233212,story,,,0,0,,,,,1386031133
+6837704,story,,,9,0,kervin,"Show HN: I'm building a Bitcoin exchange simulator",http://sudogift.com/,,1386031121
+6837703,story,,,2,0,WardPlunet,"Man, Machine And How They Relate To APIs",http://techcrunch.com/2013/12/02/man-machine-and-how-they-relate-to-apis/,,1386031096
+6837701,comment,6827554,6828817,1,0,GrahamsNumber,,,"I find your application form absolutely insulting",1386031066
+3229580,story,,,0,0,,,,,1386031048
+6837699,comment,6837298,6837646,2,0,haberman,,,"> This problem exists whether the Unix timestamp actually jumps or not.<p>No it doesn&#x27;t.  I can tell you authoritatively that the UNIX timestamp for 2023-01-01 00:00 UTC is 1672560000.  That value is not dependent on future changes to the rotation of the Earth.<p>Now it <i>is</i> true that I cannot tell you precisely how many physical seconds there are between now and then, because I do not know how many leap seconds will be added in the meantime.  But in practice I think this is less critical.  Applications that care about this probably use a more specialized time scale anyway.  But it would be strange to put an appointment in your calendar for midnight and find that later on it had flipped to being at 11:59pm the previous day.<p>> Again, and I already said this multiple times now, the idea is not to abolish the Unix timestamp and ignore whatever breaks. Instead I suggested to introduce a linear counter for apps that want it.<p>I understand what you are saying.  I&#x27;m just saying that your proposal trades one surprise for another.  An app author might think &quot;oh yes, a monotonic time sounds nice&quot; and start using it, only to find that they are broken later because they were surprised that a minute could be 61 seconds long.",1386031044
+6837698,comment,6837298,6837298,2,0,AndrewBissell,,,"One of the happiest moments for me when starting at my current job was the day I saw that all our servers were set to UTC as the default time zone. Leap seconds may cause some pain every 3 years or so, but a huge number of problems in system time accounting can be avoided by just keeping everything in UTC, and translating into a given timezone representation only at the highest possible level, just before displaying information to end users.",1386031035
+6837697,comment,6836959,6836959,1,0,Nux,,,"Have had decent experiences with RyanAir to be honest; I think Wizzair is worse - not only this but they have much strayed from the concept of &quot;low cost&quot; that made them famous.<p>In many situations it is cheaper to just fly with BA, Lufthansa or other European companies.",1386031034
+6837696,comment,6837148,6837148,3,0,harryh,,,"I&#x27;m not gonna be impressed until they hook it up to some drones to bring out the food from the kitchen.<p>;-)",1386031033
+6837695,comment,6836959,6837265,2,0,sjtgraham,,,"LOL @ &quot;they have the lead&quot;, you mean state protection. They don&#x27;t need to care about Ryanair because of 49 U.S.C. §41703(c)",1386031012
+6837694,story,,,2,0,drderidder,"Simulating Waves in Javascript",http://users.softlab.ece.ntua.gr/~ttsiod/physics.html,,1386031004
+6837693,story,,,2,0,alexkiwi,"Kickstarting your design career",https://hackdesign.org/lessons/46,,1386030996
+6837692,comment,6836994,6837520,2,0,ulfw,,,"They can make it work in an iPad, why would all your arguments be any different in a Macbook? For a $130 premium option no less!",1386030989
+3227063,story,,,0,0,,,,,1386030988
+6837691,comment,6827554,6827554,1,0,eas,,,"Manulife Asset Management - Boston, MA (full-time)<p>Looking for an Associate Portfolio Analyst to do interesting data science-y things related to asset management -- from the firm-level ($250B) down to the security-level, and everything in-between. R, Tableau, D3, PostgreSQL, Python.<p>If you are a creative technology person who is into finance, this is a cool job. (I am a finance person who is into technology.)<p><a href=\"http://manulife.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=1305420\" rel=\"nofollow\">http://manulife.taleo.net/careersection/2/jobdetail.ftl?lang...</a>",1386030980
+3226006,story,,,0,0,,,,,1386030963
+6837690,comment,6836387,6836387,1,0,swframe,,,"My bet is a device like google glasses (or contact lens) with a sleek headset that has mind controllable sensors. I don&#x27;t want to type, or talk to control it. I just think of calling my friend and the phones dials, and I see her image. I am willing to carry the computing unit in my pocket so the glasses can remain light.<p>I bet that it is 5 years away. If it is like the cellphone, it won&#x27;t be google that builds it because there is just too much technology that is not yet ready/affordable.",1386030953
+6837689,comment,6836961,6837639,2,0,guiomie,,,"I have.",1386030939
+6837688,comment,6836387,6837108,3,0,benjamincburns,,,"This comparison is just silly. Look (guess) at Apple&#x27;s development budget for the iPhone. Look at Fairphone&#x27;s (or again, just guess). Look at the size of Apple. Look at the size of the Fairphone team at the Waag Society. I don&#x27;t think I need to say anything else. This is <i>majorly</i> impressive.",1386030930
+6837687,comment,6837001,6837668,2,0,dragonwriter,,,"> If it&#x27;s as widespread as the author claims, aren&#x27;t/shouldn&#x27;t things like this be taught in your basic CS courses?<p>Its pretty much been covered in every introductory database book/course/etc. I&#x27;ve seen. The problem is that application developers (and this is by no means limited to web app developers, or application developers which in other domains have limited technical skills) often feel that they don&#x27;t need to understand databases, and tutorials on application-side technologies that use databases often promote bad use of databases (and, often, ORMs go even further in making bad choices the path of least resistance.)",1386030921
+3223637,story,,,0,0,,,,,1386030907
+6837686,comment,6837148,6837272,1,0,MattGrommes,,,"I&#x27;ve been to a couple of places that use these and I haven&#x27;t seen any reduction in wait staff. One of my favorite hamburger places (Stacked) is new and is built on having ipad menus, even they have tons of waitresses on hand to help with people who have a hard time with the menu or to grab drink refills. They could easily do refills through the ipad but don&#x27;t, I think on purpose so it forces interaction with the waiter. That will change over time I&#x27;d imagine but for now the hands on approach is probably ingrained enough in the customer base you have to people around.",1386030900
+6837685,comment,6836959,6837593,5,0,imperialdrive,,,"I flew Ryan while getting lost between Poland and Portugal... luckily I knew someone there early on that hammered the necessary knowledge into my head about flying with Ryan - their rules... really was a life-saver in terms of price.  Now, if something goes wrong with your flight, like due to weather, you are essentially (completely) left hanging, phucked.  I love them, I hate them, but I would definitely use them again.  What does that say about a company/product???  I dunno.",1386030889
+3222542,story,,,0,0,,,,,1386030881
+6837684,story,,,2,0,bdehaaff,"You’re not Agile unless you’re “agile”",http://blog.aha.io/index.php/youre-not-agile-unless-youre-agile/,,1386030878
+6837683,comment,6837298,6837516,2,0,mikeash,,,"The fact that dates in general are so screwed up is a great advantage <i>for</i> UNIX timestamps.<p>A single moment in time maps to a single UNIX timestamp and back again with almost no complications or exceptions (the only one I&#x27;m aware of being leap seconds, which is fairly minor). This makes it a great way to store and manipulate actual <i>time</i>.<p>It&#x27;s then complicated, sometimes enormously complicated, to go from this simple representation to what humans would call a &quot;date&quot;. But that&#x27;s unavoidable, and by using something nice and simple like UNIX time in the backend, you ensure that all of the craziness when dealing with weird human systems stays at the front end where it belongs.<p>It&#x27;s not always possible, of course. Some systems need to store &quot;dates&quot; in terms of what humans think they are, not actual moments in time. (For example, storing a birthday as UNIX time would be a bad idea.) But whenever you want an actual moment in time, UNIX time is great.",1386030865
+6837682,comment,6834179,6834953,1,0,antihero,,,"Surely you should do things like this in a separate task queue? Use a bunch of node processes for handling taking HTTP requests and spitting out responses, use a different bunch of processes for handling slow things.",1386030862
+6837681,comment,6834591,6836990,6,0,williamcotton,,,"Prove it.",1386030854
+6837680,comment,6836387,6837415,4,0,seiji,,,"Huh whatnow?<p>The original iPod (and modern iPods minus the Touch) don&#x27;t run iOS at all.  The iPod gave Apple the time to stall until they could build what Steve wanted to make in 1999, but the world didn&#x27;t have the capacity to create yet.<p>These days, Apple is the forefront of both industrial design and fabrication capacity.  They aren&#x27;t in the past—they are in the present and they are moving the world along with them, not waiting for it to catch up to them anymore.",1386030807
+3219284,story,,,0,0,,,,,1386030804
+6837679,comment,6836961,6836961,18,0,ChuckMcM,,,"Given that I haven&#x27;t been pummelled with email about how Blogger is going to become &quot;Google + compliant&quot; I&#x27;m guessing that the answer is &quot;No, they won&#x27;t kill your blog.&quot; And they won&#x27;t charge your credit card. And next spring they will announce that Blogger is being shut down and you can move your Blog over to your own Google+ page! And <i>then</i> you will get to decide what you want to do next.<p>But that is just a theory, my experience of late is that when Google stops talking about a service, and responses stop coming back, the reason is that the service is on the list to be killed off and anyone inside Google that was working on it, already knows that, and have already transferred to some other project.",1386030799
+3217964,story,,,0,0,,,,,1386030772
+3215877,story,,,0,0,,,,,1386030723
+6837677,comment,6836994,6837428,8,0,sidgup,,,"Exactly! When it said &quot;works in Africa&quot;, my first thought was woah, so how does it work without cell coverage - satellite?, APRS?, etc. etc. Only to realize that it is probably just a rugged 3G-Wifi bridge.<p>Seriously, I even looked through specs and still not sure what it does!",1386030707
+6837676,comment,6836994,6837428,2,0,mcbutterbunz,,,"It reminds me of broadband deployment hitting one house in a zip code which makes it look like that whole zip code is covered.<p>If it works in Cape Town South Africa, it&#x27;ll work anywhere.",1386030704
+6837675,comment,6835403,6835973,1,0,mathattack,,,"I think they tell different stories, no?<p>SSO is about spending too much time online.  &quot;Teach everyone to code&quot; is about giving people marketable skills, and adding computer programming to the mathematics curriculum.  Why not?",1386030695
+6837674,comment,6837298,6837622,1,0,magila,,,"But what does that really buy you? We already have to store such dates using a datetime struct to handle the common case where the user wants to deal in local time. In what context could you not handle UTC the same way as local time?",1386030670
+3213459,story,,,0,0,,,,,1386030666
+6837673,comment,6836387,6836387,1,0,biftek,,,"I&#x27;ve been thinking this for a while, but I have a feeling there is a decently large market (at least enough to sustain a small company and team) for really nice &quot;dumb&quot; phones.<p>No data; just text, and talk (and in my vision a really nice camera) with the ability to sync/backup contacts etc.",1386030654
+6837672,comment,6837298,6837622,2,0,CanSpice,,,"No you can&#x27;t, because leap seconds affect UTC as well. We don&#x27;t know how many leap seconds are going to be added or subtracted between now and then.",1386030622
+3211581,story,,,0,0,,,,,1386030622
+6837671,comment,6836387,6837586,2,0,matthewmacleod,,,"I don&#x27;t really believe this market exists. And even if it does, I expect it&#x27;s tiny - otherwise, manufacturers would be targeting it.",1386030606
+6837669,comment,6830268,6831520,2,0,morethan16,,,"The number is more likely around 5000.<p>[2011] <a href=\"http://www.english.umd.edu/sites/default/files/interpolations/pdf/arielle_kroloff.pdf\" rel=\"nofollow\">http://www.english.umd.edu/sites/default/files/interpolation...</a><p>[2007] <a href=\"http://udenfor.dk/uk/Menu/News/The+number+of+homeless+people+in+Denmark\" rel=\"nofollow\">http://udenfor.dk/uk/Menu/News/The+number+of+homeless+people...</a>",1386030575
+6837668,comment,6837001,6837001,3,0,na85,,,"The Web&#x27;s simple, easily-accessible form made it great for those of us who cut our teeth writing awful-looking Geocities pages with <blink> tags and stealing images from other sites in the early and mid 90s.  The syntax is more or less straightforward and easy to comprehend, the format is simple and doesn&#x27;t need a compiler, and you can write your whole site in notepad if you want.<p>I think that that&#x27;s been a blessing and a curse because, damn it, a lot of &quot;web developers&quot; are still stumbling onto concepts that systems developers figured out in the 1970s.<p>Maybe it&#x27;s just the perspective that comes with age, but even I know better than to re-establish a database connection <i>every single loop iteration</i>.  Isn&#x27;t this pretty basic stuff?  I don&#x27;t pretend for an instant to be an all-star coder, but surely people have progressed beyond what 16-year-old me could have recognized.<p>If it&#x27;s as widespread as the author claims, aren&#x27;t/shouldn&#x27;t things like this be taught in your basic CS courses?",1386030567
+6837667,comment,6828378,6837053,1,0,Peaker,,,"When you need to memmove your whole vector you&#x27;re going to thrash a lot more of the cache lines than when you touch 2 neighbor cache lines.",1386030565
+6837666,story,,,1,0,natural_order,"Slap Fight in node.js Land",http://gigaom.com/2013/12/02/slap-fight-in-node-js-land/,,1386030556
+3207981,story,,,0,0,,,,,1386030536
+6837665,comment,6837298,6837584,2,0,nl,,,"<i>I think, that he&#x27;s seriously suggesting that we find a unit of time that can be guaranteed to just increment and not be subject to leap stuff or calendar adjustments and can go forward and backwards in time as simple increments and decrements.</i><p>I have sympathy for this view. Back when I was doing time & date stuff I worked out a decimal calendar as a thought experiment. If you are happy to drop the idea that a &quot;day&quot; has to align with a period of daylight, and/or the &quot;year&quot; has anything to do with seasons then it&#x27;s pretty easy...",1386030518
+6837663,comment,6818416,6818518,1,0,pvorb,,,"This looks promising.<p>I don&#x27;t need a login system, so it&#x27;s fine, but I think it is lacking author urls, isn&#x27;t it?",1386030497
+6837662,comment,6837298,6837584,1,0,vacri,,,"<i>Maybe use the concept of a second, but not in relation to our calendar. So instead of being &quot;seconds since 1970&quot; it&#x27;s just &quot;seconds&quot;.</i><p>Any counter you create will have a zero-point somewhere. 00:00 Jan 1 1970 isn&#x27;t a point in time that moves around, same as any other zero point you elect to have.",1386030488
+6837661,comment,6836959,6837179,6,0,andybak,,,"Yep. I will happily fly any budget airline except Ryanair.<p>Usually once you factor in all the extra costs and inconveniences then they aren&#x27;t cheaper at all. Plus it makes booking and flying stressful and miserable.",1386030466
+6837660,comment,6837184,6837184,1,0,downer93,,,"The pigs need to be rewarded with some tangible physical outcome for their behavior, otherwise, they have no incentive to get good at the game. I don&#x27;t think the visual stimuli will really motivate them for too long.<p>They should get apple slices or ice cream or something when they score a point. Also, there should be a process of reinforcement, where successful pigs get to play longer and more often. This way you&#x27;ll come to meet pigs who are well trained, and with experience can get really good at the game.<p>I hope this game interacts with more than one experimental barn wall. I think you&#x27;d need at leat 100 of these walls in many different pig sties, to engage a community of players, not to mention the pigs.",1386030447
+3204095,story,,,0,0,,,,,1386030443
+6837659,comment,6836547,6836547,2,0,ENGNR,,,"It&#x27;s scary just how much SCADA software (electricity, water, fuel, prisons, etc) is absolutely ridden with vulnerabilities, protected ONLY by that air gap. Typically this internal network will be accessed by terminals sitting immediately adjacent to terminals on the more general network (so a user can quickly switch between them over the air gap).<p>They&#x27;d both need to be infected it&#x27;s true, but that is quite achievable with USB social engineering or if an attacker can gain physical access to any of the terminals on the network. If that were the case then an attacker could get any information out that they wanted (flight data, prison routines, defence asset refueling movements, even just information enumeration and vulnerabilities in the network).<p>The terminal probably wouldn&#x27;t have a microphone it&#x27;s true (typically very old hardware that everyone is too scared to upgrade), but if it did it would also give remote trigger access to abuse that infrastructure.<p>It&#x27;s actually good information for security architects. If you can&#x27;t get approval to start using software updates, make sure your damn microphones are turned off.",1386030428
+6837658,story,,,2,0,001sky,"Google Glass: the definitive road-test ",http://www.independent.co.uk/life-style/gadgets-and-tech/google-glass-the-definitive-roadtest-8978490.html,,1386030416
+6837657,comment,6837298,6837649,1,0,Udo,,,"You&#x27;re right. Corrected.",1386030385
+6837656,story,,,4,0,auvi,"Apple Buys Topsy For Price Reportedly North Of $200M",http://techcrunch.com/2013/12/02/apple-buys-topsy-for-a-reported-200m-could-use-social-signals-to-bolster-app-store-relevance/,,1386030375
+6837655,comment,6836994,6836994,1,0,hkmurakami,,,"Would be nice to be able to perceive the form factor right away. It looked like a credit card sized device to me at first, and only after I scrolled all the way down to the picture of the device in use in Africa did I find out that the thing is quite big (which is what you&#x27;d expect from the features the thing has, but it&#x27;s strange why the site starts out with a top down view of the thing that makes it seem like it&#x27;s 1/10 the size it really is)",1386030369
+3200799,story,,,0,0,,,,,1386030364
+6837654,comment,6837298,6837567,3,0,nl,,,"<i>Precise timekeeping for dates over 100 years old is not usually required</i><p>Agreed.<p><i>though perhaps you work in an area that is an exception?</i><p>Thankfully, no. These days I rarely have to deal with dates at all. I still have the scars though..<p>I find the anomalies extremely interesting for their own sake.<p>They aren&#x27;t entirely gone in the modern world, either. Mount Athos is one of the weirder ones, but Ethiopia still uses a calendar similar to the Julian calendar[1].<p>More practically, though I suspect that in almost all places with non-conventional calendars you can probably use a normal Gregorian calendar too and people will convert for themselves.<p>[1] <a href=\"https://en.wikipedia.org/wiki/Ethiopian_calendar\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Ethiopian_calendar</a>",1386030361
+6837653,comment,6836994,6837380,0,0,chris_mahan,,,"Well, I&#x27;m not a kickstarter backer. I want to order from amazon.com. So when and how much?",1386030353
+6837652,comment,6836581,6836581,2,0,usingpond,,,"lmao @ Salesforce&#x27;s developer marketing dude&#x27;s brilliant response to all of this: &quot;Nuh-uh, it was fair and square, those guys are all totally lying.&quot;",1386030341
+6837651,comment,6836959,6837243,2,0,bane,,,"It&#x27;s because Southwest tries to offer &quot;value&quot; while Ryan tries to offer &quot;cheapness&quot;.",1386030341
+6837650,comment,6835521,6837432,2,0,dragonwriter,,,"> I think that we won&#x27;t get good results until film projection is dead, and directors and DPs can present at arbitrary frame rates -- there&#x27;s no reason that, given a digital projection, a movie couldn&#x27;t use 48 (or 60!) for certain sequences, while retaining 24 (or 30) for others.<p>Even with film projection, as long as the higher rate is an integer multiple of the lower, it should be trivial to have the same effect as long as you have camera equipment that lets you <i>shoot</i> at the desired rates.",1386030340
+6837649,comment,6837298,6837629,2,0,pdonis,,,"<i>a linear monotonous value</i><p>I think you mean &quot;monotonic&quot;. Though lots of non-geeks would probably say that &quot;monotonous&quot; applies too. :-)",1386030291
+6837648,comment,6834710,6837564,1,0,timothyjcoulter,,,"Thanks for letting me know! We don&#x27;t support https (yet) so that could be why.",1386030282
+3197227,story,,,0,0,,,,,1386030279
+3196268,story,,,0,0,,,,,1386030256
+6837647,comment,6830566,6836078,1,0,wpietri,,,"I think your theory here must be the common-law view that if one owns property, one owns it from the core of the earth up to the edge of space. But that hasn&#x27;t been true since the invention of the airplane: <a href=\"http://en.wikipedia.org/wiki/Air_rights#United_States\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Air_rights#United_States</a>",1386030249
+6837646,comment,6837298,6837608,1,0,Udo,,,"I think we&#x27;re misunderstanding each other.<p><pre><code>  > Library or no, it is impossible to construct future dates because it is unknown \n  > when leap seconds will be inserted until six months or so before it happens.\n</code></pre>\nThis problem exists whether the Unix timestamp actually jumps or not. At some point, a reference table will have to be updated with the most current leap second data - otherwise you couldn&#x27;t accurately count seconds between to points in time anyway. If that much precision is actually needed is another thing entirely. Again, the idea is just to make a cleaner separation between the two worlds.<p><pre><code>  > Your scheme would break these apps.\n</code></pre>\nAgain, and I already said this multiple times now, the idea is not to abolish the Unix timestamp and ignore whatever breaks. Instead I suggested to introduce a linear counter for apps that want it. I might be wrong of course, but I believe using this monotonic counter instead would greatly reduce complexity and potential for bugs in many applications.",1386030231
+3195223,story,,,0,0,,,,,1386030231
+3195221,story,,,0,0,,,,,1386030231
+3195048,story,,,0,0,,,,,1386030227
+6837645,story,,,1,0,peterkchen,"The Current State of Startups",http://blog.datafox.co/current-state-of-startups-from-naval-ravikant,,1386030216
+3194450,story,,,0,0,,,,,1386030212
+3194137,story,,,0,0,,,,,1386030205
+3194132,story,,,0,0,,,,,1386030205
+6837644,comment,6836961,6836961,1,0,Niv_Atias,,,"If your site contains valueable information, so why would Google will delete your site?",1386030187
+3192755,story,,,0,0,,,,,1386030172
+6837643,comment,6836994,6836994,2,0,RayLau135,,,"It doesn&#x27;t connect to the Internet, it is the Internet \n(The IT Crowd)<p><a href=\"http://www.youtube.com/watch?v=iDbyYGrswtg\" rel=\"nofollow\">http://www.youtube.com/watch?v=iDbyYGrswtg</a>",1386030168
+6837642,comment,6837298,6837469,1,0,pedantpatrol,,,"Congratulations! You have won the pedantic comment of the day award!",1386030166
+6837641,comment,6829613,6836355,1,0,pstuart,,,"Odd. It&#x27;s there but doesn&#x27;t seem to show for others.<p>pauleyphonic @ that google email service.",1386030156
+6837640,comment,6836547,6837591,4,0,mbell,,,"> (hint, hit more and enable stereo, I find that much more interesting for some reason)<p>I haven&#x27;t played with this site in particular but they are probably using incoherent sources for each channel. i.e. using two separate random noise generators that aren&#x27;t working off the same seed value. Even though the spectral content of each channel may be the same, it&#x27;s not the same at any instant which causes your brain to get a bit &#x27;lost&#x27;, it doesn&#x27;t sound like a point source anymore but instead just a &#x27;room filling&#x27; sound that you can&#x27;t pin point. The same principal (in a more targeted manner) is used in mixing stereo music to create a &#x27;sound stage&#x27;, usually only the voice mix is actually identical in both channels even though you can hear the guitar in each channel independently.",1386030131
+6837639,comment,6836961,6837630,1,0,cabbeer,,,"I know replying to you is childish, but don&#x27;t you see the irony in your comment?",1386030121
+6837638,comment,6837001,6837001,1,0,hcarvalhoalves,,,"There&#x27;s also approach 5: Pre-caching. 0 ms.<p>There are <i>so many things</i> that could be pre-cached on most sites, and still, tools and frameworks often optimize for the use case of request -> query -> response.",1386030102
+3189826,story,,,0,0,,,,,1386030102
+6837637,comment,6836959,6837593,10,0,Kudos,,,"Dublin here also. I only fly in to the mainland a couple of times a year and I avoid Ryanair like the plague. If I have to pay €200 more to fly out of Charles De Gaull instead of Beauvais I&#x27;ll do it every time. No 2 hour bus ride to the airport. No spending an hour and a half standing queueing to check in luggage, then queueing for security, then queueing to   board. Then standing around outside learning our plane hasn&#x27;t been disembarked from yet and queueing again.<p>Edit: just checked some random dates for CDG/BVA and the price difference on a return flight was < €100.<p>The yearly cost to me is obviously not remotely near yours, so I think we&#x27;re both making reasonable decisions here.",1386030091
+6837636,comment,6830306,6830306,1,0,Hansi,,,"Including the total size of these libraries and response time would be useful too.",1386030083
+6837635,comment,6836959,6837391,3,0,riffraff,,,"well Wizzair has a simple solution: charge for carry on luggage that is larger than a laptop bag/tiny backpack.<p>Also consider that usually ground handling is a different company, the airline is paying the stewards wasting time on board anyway, but may have a per-bag price of the check ins.",1386030081
+6837634,comment,6834791,6834791,1,0,rbosinger,,,"Wow.  I&#x27;ve only tried a few queries but they worked well!  This could be great for breaking down some of the &quot;copy paste to install this&quot; commands you see from open-source projects.",1386030073
+3188345,story,,,0,0,,,,,1386030067
+6837633,comment,6831492,6836985,1,0,dredmorbius,,,"<i>I wish for a future where every human being has more or less the same standards of living</i><p>I suspect we&#x27;ll get there.<p>What I&#x27;m less certain of is what that standard of living will be.",1386030045
+6837632,comment,6834705,6835672,1,0,kansface,,,"User state is current captured in a closure in the single process single threaded HN server (running a custom lisp).  The solution is to not do that.",1386030023
+6837631,story,,,19,56,a_bonobo,"23andMe hit with class action over “misleading” genetic ads ",http://gigaom.com/2013/12/02/23andme-hit-with-class-action-over-misleading-genetic-ads/,,1386030018
+6837630,comment,6836961,6837497,4,0,jedmeyers,,,"Just like your comment.",1386030000
+3185415,story,,,0,0,,,,,1386029998
+6837629,comment,6837298,6837584,10,0,Udo,,,"<i>> I&#x27;d probably ask what the problem was that created this thought, maybe there&#x27;s an answer to that instead.</i><p>OP here. That article is old and I really wish it wasn&#x27;t on the front page. If I remember correctly, at the time this was written, there were some pretty big outages and failures that originated from apps assuming time was pretty much a linear monotonic value. So the motivation to write this was not only for myself, but to attempt and find a better solution for timestamps as needed by many apps.<p>There is no technical reason for the timestamp to jump around, and to convert to and from &quot;human&quot; time we already need libraries (especially if we&#x27;re looking at points in the past or the future), so the argument that system timestamps <i>MUST</i> map to actual time of day is somewhat moot. As it is, the Unix timestamp attempts to be somewhat in the middle, in the end satisfying neither computer nor human requirements. So the idea was to separate those two timing formats completely.",1386029985
+6837628,comment,6836961,6837571,5,0,dredmorbius,,,"Jeff&#x27;s Verizon stories have also been classics.<p>I won&#x27;t say I haven&#x27;t been a thorn in Google&#x27;s side (large or small I&#x27;m not entirely sure).  But I&#x27;ve managed to develop some level of a relationship with some folks on the inside.  I&#x27;m largely in the process of extricating myself from their services, but I had seen multiple positive responses.<p>I can only imagine it&#x27;s similarly frustrating on the inside.  Remember:  they&#x27;re trying to address the needs of hundreds of millions (or more) users with a pretty finite staff.  It&#x27;s the dual-lever challenge of automated systems:  you can provide for the world with a staff of 40, but you&#x27;re stuck with <i>providing for the world with a staff of 40.</i>  Unless you come up with ways of 1) automating support 2) self-support and 3) <i>very</i> effective triage you&#x27;re going to have horror stories.",1386029978
+6837627,comment,6836961,6836961,4,0,cabbeer,,,"If Microsoft was smart this is where they would attack google, instead we have the &quot;Scroogled&quot; campaign. I think they&#x27;re in the same position (in this department) as apple was when they made this: <a href=\"https://www.youtube.com/watch?v=8UZV7PDt8Lw\" rel=\"nofollow\">https://www.youtube.com/watch?v=8UZV7PDt8Lw</a>",1386029972
+6837626,comment,6836959,6836959,23,0,supercanuck,,,"Southwest is the wrong comparison.<p>Spirit airlines is the low cost satan of the US Airline market",1386029972
+3184337,story,,,0,0,,,,,1386029972
+6837625,story,,,16,1,markmassie,"The Art of Naming (Military) Operations",http://strategicstudiesinstitute.army.mil/pubs/parameters/Articles/1995/sieminsk.htm,,1386029961
+6837624,comment,6835734,6835883,2,0,MetaCosm,,,"Significantly less -- even the highest estimates on the invasion phase (not just the shock and awe portion) where at 5600, and of course, the US government claims an order of magnitude less than the 5600 number.<p>Shock and Awe was about display of power and infrastructure destruction... now how many died due to lack of power, water, and various types of infrastructure is an open question, and those deaths probably went on long after the &quot;invasion phrase&quot;",1386029960
+3183642,story,,,0,0,,,,,1386029955
+6837623,comment,6837357,6837357,1,0,mmaunder,,,"Flagging good or flagging shite? My QA department would like to know.",1386029954
+6837622,comment,6837298,6837597,2,0,haberman,,,"Good point, as it pertains to local time.  You can authoritatively say the answer for UTC though.",1386029948
+6837621,comment,6836961,6837569,12,0,jonny_eh,,,"You know you&#x27;re support is awful when GoDaddy makes you look bad.",1386029900
+3181306,story,,,0,0,,,,,1386029900
+6837620,comment,6818416,6819999,1,0,pvorb,,,"This is the exact reason why I dislike Disqus. On the other hand, I like being able to host plain HTML pages somewhere and let them have comments.<p>I already had my own solution, but it took too much time to maintain it. Now I&#x27;m looking for self-hosted alternatives.",1386029893
+6837619,comment,6836959,6837391,5,0,bane,,,"Since airlines started to nickle and dime travelers for basic services, like luggage, I&#x27;ve definitely noticed a much more harried and long delay with people getting to their seats and getting situated. I used to remember being able to spend quite a bit of time leisurely reading from a magazine or a book, now I&#x27;m constantly getting jostled well after we&#x27;ve started to taxi.",1386029893
+6837618,story,,,3,0,coloneltcb,"Dropping the needle: the life and death of Turntable.fm",http://www.theverge.com/2013/12/2/5167020/dropping-the-needle-the-life-and-death-of-turntable-fm,,1386029884
+6837617,comment,6836961,6836961,1,0,babuskov,,,"FWIW, if they do shut it down, at least you can say it went off with a bang (I mean, traffic from HN) ;)",1386029881
+6837616,comment,6836817,6837419,4,0,DavidBradbury,,,"If someone had their phone up and continually aiming it around the room, then you can be sure they&#x27;d be asked to stop or leave. The problem with Glass is that you cannot tell if they are or not. Rather than risk their customers being uncomfortable, they decided to be proactive and protect them. That seems perfectly reasonable.",1386029877
+6837615,comment,6835094,6836006,1,0,AsymetricCom,,,"End customers don&#x27;t care about your CEO&#x27;s speaking ability.",1386029871
+3179941,story,,,0,0,,,,,1386029868
+3179591,story,,,0,0,,,,,1386029859
+3179528,story,,,0,0,,,,,1386029858
+3179404,story,,,0,0,,,,,1386029855
+3179202,story,,,0,0,,,,,1386029850
+3179174,story,,,0,0,,,,,1386029850
+6837614,comment,6836961,6837512,3,0,maaaats,,,"Twice I&#x27;ve been in contact, went well, at least compared to the radio silence Google has given me.<p>And when searching I actually end up finding a ticket/question in some MS system with an official response. With Google I far too often end up in a Google Group with tens of complaints but no solutions.",1386029848
+3178980,story,,,0,0,,,,,1386029845
+3178723,story,,,0,0,,,,,1386029839
+3178665,story,,,0,0,,,,,1386029837
+3178583,story,,,0,0,,,,,1386029836
+3178406,story,,,0,0,,,,,1386029831
+3178288,story,,,0,0,,,,,1386029829
+6837613,story,,,3,0,superfx,"Hugo Larochelle's Class on Neural Networks and Deep Learning",http://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH,,1386029825
+3177931,story,,,0,0,,,,,1386029820
+3177886,story,,,0,0,,,,,1386029819
+3177761,story,,,0,0,,,,,1386029816
+3177705,story,,,0,0,,,,,1386029814
+6837612,comment,6835403,6837506,2,0,dragonwriter,,,"> Interestingly, if you type &quot;Battle of Trafalgar date&quot;, Google gives you a different date!<p>OTOH, if you search Google for &quot;When was the battle of Trafalgar&quot; you get the correct answer ...",1386029795
+6837611,comment,6836547,6837447,2,0,benihana,,,"><i>It&#x27;s surprising how many people either forget about modems or never had internet in the days of modems.</i><p>Pardon the snark, but what is surprising about that? Every person with access to the internet born since about 1997* will have no memory of using dialup. The ratio of people who used dialup relative to the people on the internet is going to continue to dwindle rapidly from here on out. Even then, I probably spent 6 or 7 years dialing up, and the connection of that to this story never happened in my brain.<p>* say 2003-2004 was when broadband went mainstream, at that point, people born in 1997 will be 6-7 years old.",1386029787
+3176380,story,,,0,0,,,,,1386029783
+6837609,comment,6831492,6837394,2,0,dredmorbius,,,"LDC:  less-developed country.  Blinder:  inability to see (or acknowledge) an issue.  It&#x27;s a case of being so vested in an un/underpriviledged mindset that you justify or dismiss harmful actions on your own part.<p>Blocking talks (and I&#x27;ll have to give the article / broader story a closer read to see how accurate that is) is a dick move, plain and simple.  <i>Making an alternate proposal</i> (and I&#x27;d be more than happy to consider normalizing CO2 emissions per capita as an alternative) would work for me.<p>When a significant aspect of the Slate article dealt <i>not with CO2 emissions but with HFCs</i> -- hydroflourocarbons, used as refrigerants and themselves potent and long-lived greenhouse gases -- it becomes rather more difficult to pull the carbon / colonization card.  Which is just what India are doing here.<p>You&#x27;ve gone on the attack against several people in this thread, largely on the &quot;India was oppressed&quot; card.  Not to put too fine a point on it:  that&#x27;s not productive.  If you want to introduce that fact into your debate, I&#x27;d suggest finding an alternative argument.",1386029775
+6837608,comment,6837298,6837589,4,0,haberman,,,"> You already need libraries for these functions.<p>I&#x27;m not sure if you caught my point. Library or no, it is <i>impossible</i> to construct future dates because it is <i>unknown</i> when leap seconds will be inserted until six months or so before it happens.<p>Leap seconds are based on minute changes in the rotation of the earth, which are unpredictable.<p>I added this to my comment later, but I think a better way to get a strictly monotonic timestamp is to smear the leap second: <a href=\"http://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html\" rel=\"nofollow\">http://googleblog.blogspot.com/2011/09/time-technology-and-l...</a><p>> There are countless apps that implicitly assume timestamps are linearly counted upwards.<p>There are also countless apps that implicitly assume that minutes are 60 seconds, hours are 3600 seconds, days are 86,400 seconds.  Your scheme would break these apps.",1386029766
+3175301,story,,,0,0,,,,,1386029757
+6837607,comment,6837515,6837515,1,0,fuj,,,"No offense, but if you got a phishing email from a paypal smtp server than that is more important than the PSA of your last paragraphs. Report it to paypal asap.",1386029724
+3173699,story,,,0,0,,,,,1386029720
+3173488,story,,,0,0,,,,,1386029715
+3172896,story,,,0,0,,,,,1386029701
+6837606,comment,6836817,6837080,4,0,DavidBradbury,,,"The restaurant is trying make a comfortable atmosphere for their customers. If they feel that someone wearing a camera on their head will make their customers uncomfortable, they have every right to not allow them to wear it. Your response makes you look like an entitled child who gets upset when they are told no.",1386029697
+3172453,story,,,0,0,,,,,1386029690
+6837605,comment,6837298,6837298,5,0,azov,,,"<i>> Unix timestamps are thoroughly and unnecessarily broken. They should be a continuum.</i><p>If you assume that system time is a continuum I have some bad news for you: system time is actually a user preference. Users can change it any moment to whatever they feel like, no time machine required. Given that, leap seconds are small potatoes. If you propose we change this and take away user&#x27;s ability to set system time... well, there might be some merit in this from purely theoretical point of view, but in real world where batteries die, clocks get out of sync, and tons of software already rely on existing behavior - I don&#x27;t think your proposal is likely to get very far :-)<p>Now, if you want a continuum, it&#x27;s already there: look up CLOCK_MONOTONIC.",1386029667
+3171146,story,,,0,0,,,,,1386029660
+6837604,comment,6835066,6837375,2,0,alok-g,,,"Indeed.  C++ is filled with so many of these by now that anyone claiming expertise on the language must bear name of one of the commonly known C++ gurus.<p>The question is what should someone say about his/her level of expertise when asked by a recruiter?  I have been comfortably programming in the language for the past 15+ years, still feel shy about claiming myself to be an expert.",1386029658
+3171054,story,,,0,0,,,,,1386029658
+6837603,comment,6834561,6834561,1,0,QuantumGood,,,"I&#x27;m looking forward to each year&#x27;s &quot;Cyber Monday&quot; newsflash, now that Amazon has figured out a good way to use publicity to get traffic.",1386029656
+6837602,comment,6836387,6836793,2,0,drawkbox,,,"Tons of games are sold on Touches, still a big part of handheld gaming.  Noone has even challenged it, yes tables/pads now are there and minis to add more options but for a long time noone even tried after Apple.  The game appstore market was initially won with iPod Touches.",1386029655
+3170647,story,,,0,0,,,,,1386029648
+6837601,comment,6820967,6831483,1,0,Silhouette,,,"YMMV, but we did plenty of testing for one site I currently work on with a heavy mobile access focus, and it wasn&#x27;t even close. We could have added hundreds of extra KB in a CSS file and still beaten even a single additional image file that needed a whole extra HTTP round trip for a visitor with a typical intermittent mobile connection (poor reception, on the move, etc.). The multiple levels of set-up required in that context can easily dominate the overall time to seeing a useful page.<p>Of course it&#x27;s less of a dramatic comparison if you don&#x27;t have all that set-up overhead to worry about, but then the time to download an extra 200K of CSS is negligible on basically any broadband or stable 3G or better connection today, so we don&#x27;t tend to worry much about that sort of situation. In practice, our decision on how to transmit medium-sized images is often based on cache-related factors.",1386029647
+3170285,story,,,0,0,,,,,1386029639
+3170206,story,,,0,0,,,,,1386029637
+3170060,story,,,0,0,,,,,1386029634
+3170022,story,,,0,0,,,,,1386029633
+3170012,story,,,0,0,,,,,1386029633
+3169995,story,,,0,0,,,,,1386029632
+3169969,story,,,0,0,,,,,1386029632
+3169899,story,,,0,0,,,,,1386029630
+6837600,comment,6836961,6837358,4,0,babuskov,,,"What do you mean by &quot;standing meetings&quot;?",1386029625
+3169473,story,,,0,0,,,,,1386029620
+3169419,story,,,0,0,,,,,1386029619
+3169191,story,,,0,0,,,,,1386029613
+3168856,story,,,0,0,,,,,1386029606
+3168420,story,,,0,0,,,,,1386029596
+6837599,comment,6836994,6837574,3,0,Ehersman,,,"It&#x27;s actually very wide spread, especially in major towns and cities.  Network maps are hard to come by, especially up-to-date ones, but you can get a decent idea on a lot of the countries from the GSMA data site here:<p><a href=\"https://gsmaintelligence.com/\" rel=\"nofollow\">https://gsmaintelligence.com/</a>",1386029593
+6837598,comment,6834791,6835982,2,0,un1xl0ser,,,"I would expect xargs to stop processing arguments strictly after the first non-flag argument.<p>Arguments to xargs do appear to be parsed, example below:<p><a href=\"http://explainshell.com/explain?cmd=find+%2F+-type+f+-print0+%7C+xargs+-0+grep+heythere\" rel=\"nofollow\">http://explainshell.com/explain?cmd=find+%2F+-type+f+-print0...</a>",1386029581
+3167205,story,,,0,0,,,,,1386029568
+3167192,story,,,0,0,,,,,1386029567
+3167176,story,,,0,0,,,,,1386029567
+3167123,story,,,0,0,,,,,1386029566
+3167100,story,,,0,0,,,,,1386029565
+3167086,story,,,0,0,,,,,1386029565
+3167051,story,,,0,0,,,,,1386029564
+6837597,comment,6837298,6837526,2,0,magila,,,"You can&#x27;t know what the UNIX timestamp for Jan 1, 2023 00:00:00 is either. Is DST going to be in effect? What if the relevant governing body decides to change the offset of the time zone you are in?",1386029541
+3166031,story,,,0,0,,,,,1386029541
+3165934,story,,,0,0,,,,,1386029539
+6837596,comment,6837298,6837508,3,0,jonhohle,,,"There already is a continuous monotonic timer available in most operating systems, it just happens to be relative to some internal counter local to that system (and depending on virtualization layer doesn&#x27;t always provide monotonic guarantees). This value can generally be translated into a fixed (and vice-versa), serialized timestamp for persistence.",1386029534
+6837595,comment,6832692,6832908,1,0,ChrisNorstrom,,,"OP is sharing some lessons in life. Take em or leave em. There&#x27;s hundreds of songs or stories about loving someone and losing them. Even though such things happen to everyone we don&#x27;t dismiss the story just because it isn&#x27;t unique.",1386029525
+6837594,comment,6836424,6837140,1,0,jefflinwood,,,"Also check out how Android handles adapters for list views while you are at it - for both iOS and Android, you can efficiently recycle tagged views, so that if your table view has mixed types of data, you get the right recycled view.",1386029516
+6837593,comment,6836959,6836959,21,0,CalRobert,,,"Everyone complains about Ryanair, but they still buy the tickets. What the hell do you expect? I fly from Dublin to London every two weeks like clockwork and Ryanair is perfectly fine for the job. All I need is a bus in the sky (I&#x27;d actually prefer a train, but nobody&#x27;s built a tunnel yet).<p>Why should I subsidize someone else&#x27;s bag, seating choice, or forgetfulness? Don&#x27;t think of them as fees, think of them as discounts.<p>For what it&#x27;s worth, on the rare occasion that Cityjet (run by Air France) is cheaper I take that, but this is only once every few months. It IS far nicer, with free wine (seconds if you&#x27;d like), decent sandwiches, desert chocolates, and a landing at LCY.",1386029515
+6837592,story,,,3,0,bane,"Colors of Noise",http://en.wikipedia.org/wiki/Colors_of_noise,,1386029503
+3164054,story,,,0,0,,,,,1386029495
+6837591,comment,6836547,6837466,2,0,bane,,,"Thanks for the great comment!<p>Anybody interested in the noise colors might take an interest in<p><a href=\"http://playnoise.com/\" rel=\"nofollow\">http://playnoise.com/</a> (hint, hit more and enable stereo, I find that much more interesting for some reason).<p>Also <a href=\"http://en.wikipedia.org/wiki/Colors_of_noise\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Colors_of_noise</a>",1386029494
+3163924,story,,,0,0,,,,,1386029492
+6837590,comment,6830080,6833901,2,0,rodgerd,,,"Try <a href=\"https://lwn.net/Articles/476263/\" rel=\"nofollow\">https://lwn.net/Articles/476263/</a> then, which is a summary of Dave&#x27;s talk on the state of XFS.<p>The TL;DR version would be that XFS aims to be get out of your road and provide a big, fast pipe to make optimal use of your available hardware.  It does not try to implement end-to-end checksumming, thin provisioning, RAID, data de-duplication, or other overhead.<p>Dave makes the point that traditionally people characterised XFS as for very high-end workloads, but suggests that commodity hardware is now at the point (in terms of IOPS and transfer rates) that &quot;high end&quot; is now quite affordable, so you should consider it for workstations, laptops, etc.<p>The XFS authors think it will remain a better choice for certain workloads, such as the modify-in-place work of databases, video editing, and so on, that copy-on-write filesystems like ZFS and btrfs.",1386029480
+6837589,comment,6837298,6837526,3,0,Udo,,,"OP here. I really wish this hadn&#x27;t been submitted, but it&#x27;s here so I might as well...<p><i>> Most notably, you would not be able to reliably construct dates in the future</i><p>You already need libraries for these functions. The only difference is that right now, those libraries have to calculate against a moving target instead of one that behaves predictably. I wrote this post a long time ago to suggest a strict(er) divide between computer timestamps and human timestamps, because Unix timestamps are in effect neither.<p>There are countless apps that implicitly assume timestamps are linearly counted upwards. Most people would say those are bugs, but they&#x27;d only be right on superficial grounds. What most applications rightly want is a monotonic, predictable way to count the passing of time and to exchange that data with other apps.<p>My idea was to introduce such a linear counter for apps that want it, not (as some people here obtusely suggested) replacing the Unix timestamp with this no matter the ecosystem breakage.",1386029478
+6837588,comment,6837298,6837298,2,0,JulianMorrison,,,"Use &quot;bignum Planck units since the big bang&quot;. That is the ur-clock.",1386029476
+3161781,story,,,0,0,,,,,1386029442
+3161743,story,,,0,0,,,,,1386029441
+3161430,story,,,0,0,,,,,1386029434
+3160764,story,,,0,0,,,,,1386029418
+3160725,story,,,0,0,,,,,1386029417
+3160544,story,,,0,0,,,,,1386029413
+6837586,comment,6836387,6837008,1,0,ctdonath,,,"<i>I&#x27;d like to see how and why a phone can succeed.</i><p>There is an enormous market for a <i>good</i> dumb phone. Or, well, idiot savant phone: makes calls, makes calls well, and does nothing but makes calls. Between those who just don&#x27;t want a smartphone, and those who carry enough computing power to not want yet another Cray 2 in a pocket, there&#x27;s a large niche for a phone that is just a phone, syncs contacts effortlessly, eliminates every unnecessary/redundant call step, is just the right size & shape, uses every available network aggressively & seamlessly, leverages every service to save money, and has as clear & pristine a sound as makes audiophiles drool. Instead, we have fat folders with idiotic interfaces designed to make you spring for a smartphone just to get something thinner & easier.<p>I saw Smith Corona collapse. A market for typewriters remains to this day, decades later, untapped. Dumbphones are following the same path: a viable market wrecked by an industry dazzled by the sometimes undesirable glitz of a competitor.<p>Whither the iPhone nano? Many want it.",1386029412
+3160492,story,,,0,0,,,,,1386029412
+3160483,story,,,0,0,,,,,1386029411
+3160208,story,,,0,0,,,,,1386029405
+3160138,story,,,0,0,,,,,1386029403
+3160100,story,,,0,0,,,,,1386029402
+3160071,story,,,0,0,,,,,1386029401
+3159887,story,,,0,0,,,,,1386029397
+3159843,story,,,0,0,,,,,1386029396
+3159775,story,,,0,0,,,,,1386029394
+3159708,story,,,0,0,,,,,1386029393
+3159402,story,,,0,0,,,,,1386029386
+3159194,story,,,0,0,,,,,1386029381
+3159041,story,,,0,0,,,,,1386029377
+6837585,comment,6834791,6834791,1,0,un1xl0ser,,,"Amazing tool for beginners, but also helpful for advanced users.<p>GREAT: find / -type f -print0 |xargs -0 grep heythere<p>I tried some sub-shells, and seemed to not work so well. $() and `` would be nice.<p>ps -fp $(pgrep -d, krb5kdc)<p>ps -fp `pgrep -d, krb5kdc`<p><a href=\"http://explainshell.com/explain?cmd=ps+-fp+%24%28pgrep+-d%2C+krb5kdc%29\" rel=\"nofollow\">http://explainshell.com/explain?cmd=ps+-fp+%24%28pgrep+-d%2C...</a><p>edit: newlines",1386029374
+3158885,story,,,0,0,,,,,1386029374
+6837584,comment,6837298,6837516,5,0,buro9,,,"His main beef seems to be that time isn&#x27;t as simple as i++ and he really wish it were. But that&#x27;s a lot to do with the fact that time is based on the spin and orbit of Earth around the sun.<p>I think, that he&#x27;s seriously suggesting that we find a unit of time that can be guaranteed to just increment and not be subject to leap stuff or calendar adjustments and can go forward and backwards in time as simple increments and decrements.<p>A de-coupling between the time counter and our perception of time as a human concept.<p>Maybe use the concept of a second, but not in relation to our calendar. So instead of being &quot;seconds since 1970&quot; it&#x27;s just &quot;seconds&quot;.<p>I guess the idea being that you&#x27;d have a guaranteed increment only counter for seconds that have passed, but without coupling that to an actual calendar.<p>I&#x27;d probably ask what the problem was that created this thought, maybe there&#x27;s an answer to that instead.",1386029372
+6837583,story,,,2,0,tonteldoos,"Solar pressure may help Kepler planet-hunt again",http://www.gizmag.com/kepler-repair-k2-solar-pressure/29925/,,1386029369
+6837582,comment,6835521,6837560,2,0,jfb,,,"Again, I have it working. Did you reboot? Maybe it&#x27;s a video card thing?",1386029364
+3158337,story,,,0,0,,,,,1386029361
+3157827,story,,,0,0,,,,,1386029349
+6837581,comment,6837515,6837515,1,0,zaroth,,,"I think PayPal might be interested in the headers if it did actually come from their server.",1386029346
+3157690,story,,,0,0,,,,,1386029346
+3157606,story,,,0,0,,,,,1386029344
+3157596,story,,,0,0,,,,,1386029344
+3157578,story,,,0,0,,,,,1386029343
+3157568,story,,,0,0,,,,,1386029343
+3157504,story,,,0,0,,,,,1386029341
+3157440,story,,,0,0,,,,,1386029340
+3157421,story,,,0,0,,,,,1386029339
+3157402,story,,,0,0,,,,,1386029339
+3157400,story,,,0,0,,,,,1386029339
+3157290,story,,,0,0,,,,,1386029336
+3157269,story,,,0,0,,,,,1386029336
+3157251,story,,,0,0,,,,,1386029335
+3157236,story,,,0,0,,,,,1386029335
+3157203,story,,,0,0,,,,,1386029334
+3156986,story,,,0,0,,,,,1386029329
+6837580,comment,6826073,6826786,1,0,x0x0,,,"thank you jdietrich",1386029325
+6837579,comment,6836961,6836961,4,0,mwnz,,,"Why on earth does this have 144 points? I want my 20 seconds back :)",1386029322
+3156539,story,,,0,0,,,,,1386029319
+3156519,story,,,0,0,,,,,1386029318
+6837578,comment,6818416,6818819,1,0,pvorb,,,"This looks nice, but GitHub-hosted comments are not an option.",1386029317
+3156442,story,,,0,0,,,,,1386029316
+3156214,story,,,0,0,,,,,1386029311
+3156033,story,,,0,0,,,,,1386029307
+6837577,comment,6835521,6835955,3,0,FootballMuse,,,"For mousing accuracy, check out <a href=\"http://smoothmouse.com/\" rel=\"nofollow\">http://smoothmouse.com/</a> It changes the way the mouse is buffered and was recommended to me with my 39&quot; Seiki.",1386029304
+3155815,story,,,0,0,,,,,1386029301
+3155659,story,,,0,0,,,,,1386029298
+3155651,story,,,0,0,,,,,1386029297
+3155588,story,,,0,0,,,,,1386029296
+3155578,story,,,0,0,,,,,1386029296
+3155530,story,,,0,0,,,,,1386029295
+6837575,comment,6837425,6837425,1,0,CatsoCatsoCatso,,,"Should it not be &#x27;advice&#x27; and not &#x27;advise&#x27;?\nI think you made a boo boo.",1386029291
+3155230,story,,,0,0,,,,,1386029288
+6837574,comment,6836994,6836994,1,0,smegel,,,"And how reliable/widespread is the 3G/4G network in Africa that this device presumably relies upon?",1386029287
+3155212,story,,,0,0,,,,,1386029287
+3155155,story,,,0,0,,,,,1386029286
+3155132,story,,,0,0,,,,,1386029285
+3155128,story,,,0,0,,,,,1386029285
+3155083,story,,,0,0,,,,,1386029284
+3155063,story,,,0,0,,,,,1386029283
+3155011,story,,,0,0,,,,,1386029282
+6837573,comment,6833466,6834559,1,0,syncsynchalt,,,"Does SPDY reduce/remove the need for sprites?",1386029279
+6837572,story,,,1,0,wilbertliu,"Teaching Assistant Hack",http://wilbertliu.com/teaching-assistant-hack,,1386029278
+3154598,story,,,0,0,,,,,1386029273
+6837571,comment,6836961,6837519,16,0,x0x0,,,"Yeah, they&#x27;re responsive <i>after negative stories</i> draw peoples&#x27; attention.  So if you can hit the top of HN or you&#x27;re  Jeff Jarvis (see dell hell) you&#x27;ll get ok customer service.  If not, google wants you to gfad.",1386029266
+3154138,story,,,0,0,,,,,1386029263
+3154010,story,,,0,0,,,,,1386029260
+3153994,story,,,0,0,,,,,1386029259
+6837570,comment,6836961,6837320,10,0,georgemcbay,,,"The guy who spends $50 on Google&#x27;s ads is a customer.  As is the guy who gives Google page views instead of cash.  They are certainly lower priority customers but they are still customers.<p>If Google wants to treat such low priority customers like non-entities, they are free to do so, but lets not pretend like they <i>should</i> act this way, because they shouldn&#x27;t.  It might be fine for them to do this in the short term, but in the long term it bleeds a lot of good will, which eventually catches up with every company no matter how big.",1386029257
+3153572,story,,,0,0,,,,,1386029249
+3153505,story,,,0,0,,,,,1386029248
+3153240,story,,,0,0,,,,,1386029242
+6837569,comment,6836961,6836961,2,0,Osiris,,,"I work at GoDaddy and recently our CEO read an email from a customer who had been encouraged by a son to use Google services for his small business, but when he couldn&#x27;t figure out some issue with support (&quot;they talked way over my head&quot;), he called GoDaddy and found someone that worked to get his account setup.<p>Google probably, appropriately, calculates the cost of providing good customer support to hundreds of millions of people as way too high.  But by doing so, they do leave open the door to smaller companies to compete, not on the product, but on the service and support.<p>Google could, at the very least, make sure that it provides sufficient support for all billing related issues.  If a customer is paying for a product and there&#x27;s a problem with their billing, they should be able to get a person on the phone or web chat to resolve it if the online tools are insufficient.",1386029235
+6837568,story,,,2,0,barapa,"Phobias may be memories passed down in genes from ancestors",http://www.telegraph.co.uk/science/science-news/10486479/Phobias-may-be-memories-passed-down-in-genes-from-ancestors.html,,1386029232
+3152807,story,,,0,0,,,,,1386029231
+3152785,story,,,0,0,,,,,1386029230
+3152776,story,,,0,0,,,,,1386029230
+6837567,comment,6837298,6837516,5,0,haberman,,,"What you are describing is not usually a problem in practice because:<p>1. Precise timekeeping for dates over 100 years old is not usually required (though perhaps you work in an area that is an exception?)<p>2. UNIX timestamps are independent of timezones and can be easily mapped to and from local time by standard, well-tested libraries.  The Olson database maintains tables of local time zone information for modern time zones: <a href=\"http://en.wikipedia.org/wiki/Tz_database\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Tz_database</a><p>Here is some discussion of Mount Athos, not sure if this was ever implemented or not though: <a href=\"http://comments.gmane.org/gmane.comp.time.tz/1610\" rel=\"nofollow\">http://comments.gmane.org/gmane.comp.time.tz/1610</a>",1386029225
+3152417,story,,,0,0,,,,,1386029221
+6837566,comment,6835066,6835860,1,0,koenigdavidmj,,,"These are all the sort of things that will cause me to figuratively slap you down in code review if you do anything that relies on them.<p>The next logical step is to start defining or disallowing more of the undefined ones.",1386029214
+3152084,story,,,0,0,,,,,1386029214
+3151908,story,,,0,0,,,,,1386029209
+3151820,story,,,0,0,,,,,1386029207
+3151039,story,,,0,0,,,,,1386029189
+3151025,story,,,0,0,,,,,1386029189
+3150849,story,,,0,0,,,,,1386029184
+3150800,story,,,0,0,,,,,1386029183
+6837565,comment,6836959,6836959,8,0,michaelochurch,,,"For all the vilification of Ryanair, most US airlines combine British Airways prices and Ryanair service + charges.<p>Ryanair is what US airlines would be if they charged appropriately.",1386029177
+3150547,story,,,0,0,,,,,1386029177
+3150475,story,,,0,0,,,,,1386029175
+3150405,story,,,0,0,,,,,1386029174
+3150383,story,,,0,0,,,,,1386029173
+3150358,story,,,0,0,,,,,1386029173
+3149877,story,,,0,0,,,,,1386029161
+6837564,comment,6834710,6834710,1,0,jstalin,,,"Just an FYI - for some reason the HTTPS Everywhere plugin kills your site.",1386029154
+3149570,story,,,0,0,,,,,1386029154
+6837563,comment,6836581,6837161,2,0,melvinmt,,,"How can you work in advance if the hackathon isn&#x27;t announced yet?",1386029151
+6837562,comment,6835521,6835521,1,0,RichMorin,,,"I&#x27;d be interested in hearing about ways to drive this from an older (MacPro3,1) Mac Pro.",1386029150
+3149424,story,,,0,0,,,,,1386029150
+6837561,comment,6836994,6837420,1,0,toomuchtodo,,,"I&#x27;d pay $30-$50/month for my Macbook Air to have built-on LTE and usable on AT&T or T-Mobile (yes, yes, I know technically T-Mobile isn&#x27;t LTE yet).",1386029149
+3149214,story,,,0,0,,,,,1386029146
+3148981,story,,,0,0,,,,,1386029140
+6837560,comment,6835521,6837541,1,0,FootballMuse,,,"Sorry, edited. The issue is with external monitors.",1386029136
+3148792,story,,,0,0,,,,,1386029136
+3148539,story,,,0,0,,,,,1386029130
+6837559,story,,,89,30,maplebed,"How to lose and recover your blog in 30 minutes",http://antirez.com/news/65,,1386029125
+3148364,story,,,0,0,,,,,1386029125
+3148307,story,,,0,0,,,,,1386029124
+3148297,story,,,0,0,,,,,1386029124
+3148281,story,,,0,0,,,,,1386029123
+3148148,story,,,0,0,,,,,1386029120
+3148053,story,,,0,0,,,,,1386029118
+3147955,story,,,0,0,,,,,1386029116
+3147953,story,,,0,0,,,,,1386029116
+3147935,story,,,0,0,,,,,1386029115
+3147919,story,,,0,0,,,,,1386029115
+3147532,story,,,0,0,,,,,1386029106
+3147240,story,,,0,0,,,,,1386029099
+3147211,story,,,0,0,,,,,1386029098
+6837557,comment,6836959,6837198,2,0,jgreen10,,,"You can even buy oxygen on Ryanair flights :)<p><a href=\"http://www.ryanair.com/en/questions/how-can-i-book-oxygen\" rel=\"nofollow\">http://www.ryanair.com/en/questions/how-can-i-book-oxygen</a>",1386029093
+6837556,comment,6833652,6833734,1,0,cromwellian,,,"That&#x27;s not really the kind of bubble being talked about, and there are good arguments why a search engine should at least have some knowledge of search history to implement conversational search and better understand what the search terms mean in context.<p>If I just searched for &quot;apple pie recipes&quot;, and my next query is &quot;where to buy apple&quot;, I don&#x27;t want to see a link to Store.apple.com",1386029092
+3146899,story,,,0,0,,,,,1386029091
+6837555,comment,6836961,6836961,1,0,smoyer,,,"Was there a post somewhere in the midst of all the ads?  On my first generation iPad it&#x27;s a tiny fraction of the screen.",1386029087
+3146696,story,,,0,0,,,,,1386029086
+3146524,story,,,0,0,,,,,1386029082
+3146462,story,,,0,0,,,,,1386029080
+3146413,story,,,0,0,,,,,1386029079
+3145958,story,,,0,0,,,,,1386029068
+3145940,story,,,0,0,,,,,1386029068
+3145918,story,,,0,0,,,,,1386029067
+3145771,story,,,0,0,,,,,1386029064
+3145747,story,,,0,0,,,,,1386029063
+3145538,story,,,0,0,,,,,1386029058
+3145537,story,,,0,0,,,,,1386029058
+6837554,comment,6836961,6837512,3,0,tempestn,,,"I briefly used Microsoft&#x27;s Azure Bing custom search engine, or whatever they call it.  I found the support to be extremely responsive and reasonably knowledgeable, even though I was only spending a few hundred a month.  That said, the actual product features and terms of use were both significantly behind both Yahoo BOSS (which uses the same Bing index) and Google&#x27;s search API.  (One particularly terrible term was that you can&#x27;t use it on pages with any advertising besides Yahoo/Bing ads.)",1386029057
+3145507,story,,,0,0,,,,,1386029057
+3145489,story,,,0,0,,,,,1386029057
+3145408,story,,,0,0,,,,,1386029055
+3145350,story,,,0,0,,,,,1386029053
+6837553,comment,6836959,6837391,5,0,rmk2,,,"This isn&#x27;t real analysis. However:<p>The problem with checked luggage first arises if somebody doesn&#x27;t get onto the plane in time even though their luggage has already been loaded. This essentially means that somebody has to look through all the (already loaded) luggage to remove that specific piece, which, depending on how deeply it&#x27;s buried, might take considerable amounts of time. This isn&#x27;t a problem with hold luggage, since there cannot be any hold luggage aboard a plane without a corresponding person.",1386029049
+6837552,comment,6836959,6837467,8,0,khuey,,,"Part of that is that the legacy US carriers look a lot more like Southwest today than the dinosaurs of the 1970s.<p>The RyanAir equivalent in the US today is Spirit.",1386029049
+3145046,story,,,0,0,,,,,1386029046
+3145030,story,,,0,0,,,,,1386029045
+3144994,story,,,0,0,,,,,1386029045
+3144957,story,,,0,0,,,,,1386029044
+3144933,story,,,0,0,,,,,1386029043
+3144871,story,,,0,0,,,,,1386029042
+6837551,story,,,4,0,wyclif,"The First Woman to Earn a PhD in Computer Science Was a Nun",http://mentalfloss.com/article/53178/first-woman-earn-phd-computer-science-was-nun,,1386029040
+6837550,comment,6836547,6837224,4,0,TrevorJ,,,"The real killer app here would be to get info <i>out</i> of an airgapped terminal.",1386029040
+3144766,story,,,0,0,,,,,1386029039
+3144685,story,,,0,0,,,,,1386029037
+3144435,story,,,0,0,,,,,1386029031
+3144432,story,,,0,0,,,,,1386029031
+3144109,story,,,0,0,,,,,1386029023
+3144101,story,,,0,0,,,,,1386029023
+6837549,comment,6836961,6837512,10,0,dredmorbius,,,"Some years back I determined that Microsoft had a massive problem with spam transiting their network.  I found a Sr. VP&#x27;s name associated with the service, phoned the main switchboard, and asked for him.<p>He picked up his phone on the first ring.<p>I briefly described the issue (and how I&#x27;d determined it was a problem), he told me he&#x27;d have the appropriate manager get in touch with me later that day.  I received <i>that</i> call 15 minutes later, and worked with the manager (submitting specific emails and identifying where on their network the problems were manifesting) for a couple of months during which time the spam volumes fell well over 90%.<p>Part of the trick is knowing how to navigate / manipulate the system, and finding a problem they acknowledge as theirs.  But in that particular case (and a small handful of others) I found the company highly responsive.<p>Now, several years later when I&#x27;d bought both a shrinkwrap product and support contract to specifically resolve a data issue with a product of theirs, I got sandbagged.  Demanded my money back for the contract.<p>And no, I&#x27;m not a fan of Microsoft.  But they do (at times at least) know how to run a business.",1386029022
+3144053,story,,,0,0,,,,,1386029022
+3144035,story,,,0,0,,,,,1386029022
+3144004,story,,,0,0,,,,,1386029021
+3143753,story,,,0,0,,,,,1386029015
+3143615,story,,,0,0,,,,,1386029012
+6837547,comment,6836994,6837533,6,0,zedpm,,,"That&#x27;s copied straight from the Specs section[1].<p>[1] <a href=\"http://www.brck.com/specifications/\" rel=\"nofollow\">http://www.brck.com/specifications/</a>",1386029011
+3143255,story,,,0,0,,,,,1386029003
+3143014,story,,,0,0,,,,,1386028998
+3142850,story,,,0,0,,,,,1386028994
+6837546,comment,6836961,6837474,5,0,toomuchtodo,,,"That&#x27;s an excellent tag line to describe Google Support.",1386028993
+3142800,story,,,0,0,,,,,1386028993
+3142719,story,,,0,0,,,,,1386028991
+3142717,story,,,0,0,,,,,1386028991
+6837545,comment,6836994,6837533,9,0,AmVess,,,"It&#x27;s from their website. I&#x27;m not sure why I&#x27;d make that up.",1386028989
+3142632,story,,,0,0,,,,,1386028989
+3142600,story,,,0,0,,,,,1386028988
+3142581,story,,,0,0,,,,,1386028987
+3142480,story,,,0,0,,,,,1386028985
+3142402,story,,,0,0,,,,,1386028983
+3142306,story,,,0,0,,,,,1386028981
+3142174,story,,,0,0,,,,,1386028977
+3142153,story,,,0,0,,,,,1386028977
+3142124,story,,,0,0,,,,,1386028976
+3142045,story,,,0,0,,,,,1386028974
+3141870,story,,,0,0,,,,,1386028970
+3141775,story,,,0,0,,,,,1386028968
+3141764,story,,,0,0,,,,,1386028968
+3141702,story,,,0,0,,,,,1386028966
+3141657,story,,,0,0,,,,,1386028965
+3141621,story,,,0,0,,,,,1386028964
+3141587,story,,,0,0,,,,,1386028964
+3141575,story,,,0,0,,,,,1386028963
+3141475,story,,,0,0,,,,,1386028961
+3141448,story,,,0,0,,,,,1386028960
+3141410,story,,,0,0,,,,,1386028959
+3141338,story,,,0,0,,,,,1386028958
+3141201,story,,,0,0,,,,,1386028955
+6837543,comment,6836547,6837067,4,0,300bps,,,"I have 6 desktops and 2 laptops in my house.  None of the 6 desktops have a microphone.  Testing now on the two laptops, both have a built-in microphone.  I was expecting the microphone would be dependent upon the built-in webcam and at least light up the webcam light when it was &quot;turned on&quot; but that is apparently not the case with either one.  I used the built-in Windows Sound Recorder to record ambient sound in the room I&#x27;m in just now and there was no indication that it was recording anything.  Scary stuff.",1386028953
+3140886,story,,,0,0,,,,,1386028947
+6837542,comment,6818416,6818804,2,0,pvorb,,,"This looks nice. I&#x27;ll probably try it, if I can persuade myself to install Ruby.",1386028942
+3140647,story,,,0,0,,,,,1386028941
+3140627,story,,,0,0,,,,,1386028941
+3140615,story,,,0,0,,,,,1386028941
+3140115,story,,,0,0,,,,,1386028929
+3139693,story,,,0,0,,,,,1386028918
+6837541,comment,6835521,6837518,2,0,jfb,,,"It&#x27;s working for me right now. Hmm. I wonder if there&#x27;s some other default I&#x27;ve poked?",1386028903
+3138831,story,,,0,0,,,,,1386028898
+3138791,story,,,0,0,,,,,1386028897
+3138783,story,,,0,0,,,,,1386028897
+3138711,story,,,0,0,,,,,1386028895
+3138703,story,,,0,0,,,,,1386028895
+3138655,story,,,0,0,,,,,1386028894
+3138597,story,,,0,0,,,,,1386028892
+3138486,story,,,0,0,,,,,1386028890
+3138453,story,,,0,0,,,,,1386028889
+3138444,story,,,0,0,,,,,1386028889
+3138355,story,,,0,0,,,,,1386028887
+6837540,comment,6836961,6837414,8,0,toomuchtodo,,,"As a long time Gmail user heavily invested in it (with over 60GB of email), I&#x27;m waiting patiently for mailpile.is to get rolled out.",1386028886
+3138310,story,,,0,0,,,,,1386028885
+6837539,story,,,2,0,kposehn,"Chernin Group confirms the acquisition of Crunchyroll",http://gigaom.com/2013/12/02/chernin-group-confirms-the-acquisition-of-crunchyroll/,,1386028883
+3137914,story,,,0,0,,,,,1386028876
+3137911,story,,,0,0,,,,,1386028876
+6837538,comment,6836994,6836994,8,0,rayiner,,,"Hey, BRCK dudes. They invented this thing called the &quot;paragraph&quot; some thousand years ago.[1] It lets you organize several or more sentences into coherent blocks of text expressing complex thoughts. Paragraphs allow you to get across multiple simpler points, expressed as individual sentences, in a succinct way that allows your reader to avoid excessive and unnecessary scrolling.<p>Also, for something that apparently involves Africa,[2] the loading speed of that page over my iPad&#x27;s LTE is shameful.<p>[1] The paragraph was already in use in English by the time of  Beowulf, between the 8th and 11th century.<p>[2] Apparently. I didn&#x27;t scroll all the way down.",1386028872
+3137560,story,,,0,0,,,,,1386028868
+3137301,story,,,0,0,,,,,1386028862
+3137260,story,,,0,0,,,,,1386028861
+3136701,story,,,0,0,,,,,1386028848
+6837537,comment,6818416,6818707,1,0,pvorb,,,"Moot isn&#x27;t Open Source and cannot be installed locally. Although it looks like a nice alternative for Disqus, it doesn&#x27;t meet my requirements.",1386028845
+6837536,comment,6836994,6836994,3,0,Aardwolf,,,"Does it support satellite internet access?<p>Would it work on open sea?<p>How useful would it be in a European country with expensive mobile data?<p>Where can one buy it?",1386028842
+3135889,story,,,0,0,,,,,1386028829
+3135837,story,,,0,0,,,,,1386028827
+3135734,story,,,0,0,,,,,1386028825
+6837535,comment,6835521,6835662,1,0,nsxwolf,,,"I really dislike how scrolling and other motions like window movement look at 30Hz. I can&#x27;t be the only one.",1386028814
+6837534,comment,6836387,6836387,2,0,z3bra,,,"Microsoft loves this kind of guy!!",1386028814
+6837533,comment,6836994,6837436,3,0,scott_karana,,,"Are you making that up as an example, or is that the actual description?",1386028813
+6837532,comment,6835521,6835896,1,0,FootballMuse,,,"My 2012 15&quot; MBPr can output 4k @ 31hz over HDMI to my 39&quot; Seiki monitor without any hacks on Mavericks.",1386028809

@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+1685,comment,1677,1677,0,0,danw,,,"Are these all the people who have talked at YC dinners? If so thats an incredible list of speakers.",1172749539
+1684,story,,,1,0,danw,"The Dangers of Infoprefixation (or, More Thoughts on the Impending Death of Information Architecture)",http://bokardo.com/archives/infoprefixation/,,1172749468
+1683,comment,1647,1666,0,0,jwecker,,,"One thing the article didn't make real clear was that the new features are all standards compliant- in theory most other browsers will end up doing the same things (though IMO it would be nice if Mozilla stays ahead).  Here is where you can see the web-programming landscape will look like in the next several years: http://www.whatwg.org/",1172749377

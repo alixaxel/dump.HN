@@ -1,0 +1,18 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+223941,story,,,1,0,raganwald,"Why is there a menu show delay, anyway?",http://blogs.msdn.com/oldnewthing/archive/2008/06/19/8619303.aspx,,1214092360
+223940,comment,223261,223582,0,0,fourlittlebees,,,"That's the life of a technology writer. I'm usually working several different stories at the same time. It's a mess, but it works better for me than trying to retrieve bookmarks. I keep meaning to check out one of the new research tools to manage it, but never seem to make the time.",1214092314
+223939,story,,,2,0,raganwald,"Seeing software exlusively in functional terms also overlooks affordances",http://explorerstreet.blogspot.com/2008/05/seeing-software-exlusively-in.html,,1214092026
+223938,comment,223597,223597,0,0,jamesbritt,,,"Are they as cool as Genghis Tron?<p><a href=""http://www.genghistron.com"" rel=""nofollow"">http://www.genghistron.com</a>",1214091472
+223937,comment,223846,223846,0,0,coglethorpe,,,"Had to click three things.",1214091412
+223936,comment,223708,223855,0,0,Stabback,,,"The poster is referencing hostgator.com as an example I believe.  But agreed, three levels of people would be ridiculous.",1214091380
+223935,comment,223769,223866,0,0,sah,,,"From <a href=""http://ycombinator.com/newsguidelines.html"" rel=""nofollow"">http://ycombinator.com/newsguidelines.html</a> --<p><i>""On-Topic: Anything that good hackers would find interesting. That includes more than hacking and startups. If you had to reduce it to a sentence, the answer might be: anything that gratifies one's intellectual curiosity.""</i>",1214091378
+223934,comment,223758,223758,0,0,jcromartie,,,"Also notice that he's a real VW man with that classic Scirocco 16V.  What's up with hackers and VWs?",1214091269
+223933,comment,223654,223826,0,0,schtog,,,"But you can do that in both python 3 and 2.5...",1214091075
+223932,comment,223447,223447,0,0,dfranke,,,"Here's a fix for etch, since the security team hasn't released an advisory yet:<p><a href=""http://dfranke.us/rubyfix.txt"" rel=""nofollow"">http://dfranke.us/rubyfix.txt</a>",1214090916
+223931,comment,223820,223820,0,0,dshah,,,"It's important to make the distinction between outsourced developers and remote developers.<p>The key is to have people that are very bright and passionately ommitted to the startup's cause.",1214089976
+223930,comment,223846,223846,0,0,twism,,,"this is a very interesting poll. I have always wanted to know what the hacker news community constitutes.",1214089971
+223928,comment,223654,223922,0,0,mojuba,,,"Curiously, this approach is usually welcomed in corporate environments. Java and C# are on the same shelf in this regard. It limits creativity by leaving no doors for new ways of doing things. Certain class of programmers just can't bear when they are told what's right and what's wrong in programming.",1214089653
+223927,story,,,1,0,vlad,"Ex-Yahoo Sr VP to lead Russian search firm’s new lab, opening in Palo Alto",http://blogs.mercurynews.com/docudrama/2008/06/20/ex-yahoo-to-lead-russian-search-firms-lab-opening-in-palo-alto/,,1214089421
+223926,comment,223758,223758,0,0,ctkrohn,,,"Awesome.  I always wanted a pilot's license, but I've only logged 30mins in the cockpit alongside an instructor.",1214089375
+223925,comment,223888,223888,0,0,pmorici,,,"It's a Joke.",1214089282
+223924,story,,,1,0,kevTheDev,"Lonely Planet releases API",http://developer.lonelyplanet.com/docs,,1214089203

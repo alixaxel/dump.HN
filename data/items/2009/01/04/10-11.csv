@@ -1,0 +1,17 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+419171,comment,419145,419145,0,0,brandnewlow,,,"I'm surprised there's been no post about it.  They had a nice write up about the last one (which I really liked).",1231066421
+419170,comment,418708,418708,0,0,jgamman,,,"never!  i shall fight you on the beaches... ah FFS meh.",1231066332
+419169,story,,,1,0,nreece,"Software as a Service is a matter of trust",http://ayende.com/Blog/archive/2008/12/30/software-as-a-service-is-a-matter-of-trust.aspx,,1231066278
+419168,comment,418810,418902,0,0,nailer,,,"Google Gadgets.",1231066268
+419167,comment,418776,419016,0,0,markessien,,,"Out of curiousity, vaccines for what illnesses?",1231066211
+419166,story,,,88,23,ed,"Understanding Quake's Fast Inverse Square Root",http://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/,,1231066026
+419165,story,,,1,0,prakash,"Mathematicians don't understand people?",http://arvindn.livejournal.com/100607.html,,1231065921
+419164,comment,418440,419131,0,0,amix,,,"""Smalltalk has never had decent performance as far as I know - not even with a JIT backend. Not compared to Java/C# with JIT compilation at least.""<p>This is largely because the team that did a JIT enabled Smalltalk dropped it and started to work on a JIT enabled VM for Java. This team got bought by Sun in the 90's and their Java VM was HotSpot, which is used in Java today. As somebody else notes, a lot of the optimizations used in JVM come from dynamic languages such as Smalltalk and Self...",1231065521
+419163,comment,418742,418755,0,0,kanny96,,,"The app review at Apple is already under stress and criticism. But contrary to your facebook example, Apple recently started even being more lenient with app acceptance policy.<p>It seems they really want to scale the platform to the PC level as more apps on App Store means more iPhone sale as well. And the future is also towards the small form-factor, wire-free, intelligent UI based companion device for all one's information, communication and entertainment needs.",1231065407
+419162,story,,,1,0,vizard,"Ask HN : Speculations for Phenom II?",,"I know most of you dont follow hardware but thought it might still be fun. What do you guys expect from the upcoming Phenom II? Do you think AMD will finally beat Intel Penryn? Beating Core i7 remains out of question.",1231065390
+419161,comment,415194,415236,0,0,michaelneale,,,"oh no - I am nobody of consequence !<p>But I think you are welcome here. HN started out as startup news, so someone with you interests would fit in.",1231065088
+419160,comment,419012,419012,0,0,brandnewlow,,,"That's as rigorous and detailed a flowchart for winning a domestic dispute that I've ever seen.",1231064861
+419159,comment,418810,418975,0,0,niels,,,"I use Yakuake, the KDE equivalent. I'm addicted too.",1231064193
+419158,story,,,1,0,RiderOfGiraffes,"Help desk trials and tribulations ...",http://ericturner.wordpress.com/2007/07/21/computer-illiterate/,,1231063912
+419157,comment,419086,419086,0,0,timcederman,,,"Vapid and pointless article...",1231063845
+419156,comment,419086,419086,0,0,Andys,,,"Its a shame that blocking foreign countries works so well.",1231063628

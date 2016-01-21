@@ -1,0 +1,11 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+94007,story,,,3,0,kradic,"Exploring Python Bytecode",http://thermalnoise.wordpress.com/2007/12/30/exploring-python-bytecode/,,1199145047
+94006,story,,,3,0,kradic,"How to Think Like a (Python) Programmer",http://www.greenteapress.com/thinkpython/html/,,1199145019
+94005,comment,93984,93991,0,0,boucher,,,"This is perhaps the most interesting part of this entire article.",1199145004
+94004,comment,93984,94000,0,0,boucher,,,"Plenty of things, written or otherwise, are not safe for work.  I don't think this is one of them though.",1199144875
+94003,comment,94003,93984,0,0,carpal,,,"There's one thing that just doesn't seem right about this rant, which I think will make his whole argument fall to pieces.<p>Before he wrote mongrel, it seemed like he had a pretty decent working situation.  After he wrote mongrel, he was jobless and nearly homeless for an extended period if time.<p>That just doesn't sit right with me as being truthful.  How can a person, who is otherwise a qualified developer, write one of the most well-known pieces of the Rails infrastructure, but suddenly be jobless?  I wrote a shitty weather app and got 3 gig offers within a day.  How can you be a household name within the Rails community and not have a job?<p>By being an arrogant asshole?  By demanding outrageous fees?  By demanding outrageous control over projects?  All three?",1199144736
+94002,comment,93984,93984,0,0,gscott,,,"When he gets over his God Complex he will be very successful.",1199144541
+94001,comment,93984,93997,0,0,chaostheory,,,"pg called him out? where?",1199144354
+94000,comment,93984,93984,0,0,rms,,,"Is written language ever really NSFW? Spoken language and nudity seems a little different to me.",1199143003
+93999,comment,93920,93920,0,0,cubicle67,,,"Anyone else have their kids wake them up before 7 this morning :( \nLooks like being another long hot Summer day...<p>Happy new year everyone!",1199142094
+93998,comment,93984,93984,0,0,Zak,,,"Zed seems to be proving his own point quite effectively with his foul-mouthed rant.",1199142092

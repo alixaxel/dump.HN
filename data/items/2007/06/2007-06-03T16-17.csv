@@ -1,2 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26139,comment,26134,26134,0,0,nickb,,,"That's my experience with Java as well. Also, Java is much faster tan C++. C++ is slower than C.<p>Here's an interesting link: <a href=""http://kano.net/javabench/"" rel=""nofollow"">http://kano.net/javabench/</a><p>""JVM startup time was included in these results. That means even with JVM startup time, Java is still faster than C++ in many of these tests.""<p>",1180888980

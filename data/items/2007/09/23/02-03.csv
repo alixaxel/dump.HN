@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+58449,comment,58025,58378,0,0,pg,,,"I did the same thing with <i>Paradise Lost</i> to produce the ""poem"" at the start of <i>ANSI Common Lisp.</i>  When read aloud it passed as poetry to a sample of 1 English Lit grad student.",1190515842
+58448,comment,58429,58430,0,0,jsjenkins168,,,"Strangely, it went 404 right after I read it the first time. The link must have been changed very shortly after this was posted.",1190515217
+58447,comment,58393,58393,0,0,herdrick,,,"The main site is still growing, I think and the Facebook app is really successful.  I'm not sure what you mean.",1190514992
+58446,comment,58415,58415,0,0,ericb,,,"There is some info here: <a href=""http://news.ycombinator.com/item?id=56076"" rel=""nofollow"">http://news.ycombinator.com/item?id=56076</a>",1190514988
+58445,comment,58404,58404,0,0,herdrick,,,"(Blogspot) It has all the features I wanted.  But it kinda looks like crap.  ",1190514837
+58444,story,,,20,15,jey,"What Languages Fix",http://paulgraham.com/fix.html,,1190514221
+58443,comment,58404,58426,0,0,paulgb,,,"If I remember, Askimet (anti-spam plugin) is included by default. Captchas for blog spam are usually a bad idea anyway, IMHO, because blog spammers are generally not targeting specific blogs, so even the smallest of obstacles is usually enough to make a spammer go somewhere else. Captchas just add an extra obstacle for the commenter.<p>Edit: just noticed that Askimet is only free for personal use, so I guess it doesn't help everyone that it is included by default.<p>Edit 2: by the way, I agree about the plugin menus.",1190513656
+58442,comment,58418,58418,0,0,ivankirigin,,,"I took the 120 words to be a suggestion.",1190513624

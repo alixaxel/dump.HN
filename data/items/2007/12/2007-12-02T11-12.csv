@@ -1,2 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-85374,comment,85269,85269,0,0,mwerty,,,"Incredibly, I could not find a concise description of how it works which was very frustrating:<p>1. You want to log to site X.<p>2. Instead of signing up, you enter <a href=""http://myuri"" rel=""nofollow"">http://myuri</a> which has a a text entry that points to site Y as your open id provider.<p>3. Site X asks you to log into site Y and lets you log in once site X gets an OK from site Y that you've logged in.",1196593532

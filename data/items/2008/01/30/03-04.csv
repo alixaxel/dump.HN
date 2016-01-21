@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+106667,comment,105739,106381,0,0,pius,,,"<i>The assertion was ""Obama simply looks presidential"", not ""sounds"" or ""acts"". I displayed the portraits of ALL PRIOR PRESIDENTS, and NONE OF THEM LOOK LIKE OBAMA. Even if that as-perfect-as-humanly-possible disproof was somehow ""inadequate"", the proof in the first place was completely absent...only a bald declaration.</i><p>What on earth are you talking about?",1201665592
+106666,comment,106629,106629,0,0,PStamatiou,,,"Georgia Tech Alum++",1201665569
+106665,comment,106574,106574,0,0,ALee,,,"They survived the last burst, they should be fine in this one as long as they focus on innovation and better products.<p>Usually people say they are immune also because of overseas operations, but it seems that this recession may be a global economic downturn.<p>Hopefully Google has some things going on in emerging markets.",1201665552
+106663,comment,106498,106498,0,0,PStamatiou,,,"<a href=""http://del.icio.us/PStamatiou"" rel=""nofollow"">http://del.icio.us/PStamatiou</a>",1201665422
+106662,comment,105387,105420,0,0,daniel-cussen,,,"Just out of curiosity, how would these events unfold?<p>1) They do the campaign and 2) rationalize [what I presume is] a failure, or\n1) Rationalize a bad campaign and 2) get it going?<p>Also, how valuable was branding?  Were the bad ROI's justified after all?",1201665333
+106660,story,,,15,4,jmorin007,"Microsoft can't speak straight any more ",http://www.joelonsoftware.com/items/2008/01/29b.html,,1201665257
+106659,comment,106245,106245,0,0,ALee,,,"I was telling a friend that a slowdown in the economy is the best time to hack because no one is pressuring you to make money and implement <insert catchphrase>.<p>A recession may actually be good because I'm guessing the true believers will stick through with it and the next evolution of the web will come out of it.",1201665219
+106658,story,,,6,0,drm237,"Video Interview with Auctomatic's Harjeet Taggar",http://hyveup.blogspot.com/2008/01/more-power-to-power-sellers-video.html,,1201665153
+106656,comment,106498,106498,0,0,ALee,,,"<a href=""http://del.icio.us/andrewlee.com"" rel=""nofollow"">http://del.icio.us/andrewlee.com</a>",1201665053
+106655,comment,106398,106614,0,0,shiro,,,"IMHO, it's not an issue of <i>implementation</i>.  It's an issue of <i>design</i>.<p>If PG explicitly says ""ok, I don't have time to do Unicode stuff now, but my idea is that a string is a sequence of characters, regardless of how a 'character' is represented"", then somebody can go ahead to change Arc Unicode-clean (it won't be much work assuming MzScheme has support of Unicode).<p>If PG says ""the language Arc (not mere an implementation) doesn't support beyond Ascii"", then I feel that PG reserves that part of design (e.g. it may conflate byte-array and multibyte strings, or it may use richer character representation than unicode codepoint, such as a character object that holds the sequence of base char + modifiers, or it may hold raw byte array plus encoding info).  In that case I hesitate to change Arc code without understanding PG's intention.",1201665002
+106653,comment,106574,106574,0,0,richcollins,,,"I wonder how much they were making off of sub-prime alone.",1201664581
+106652,comment,106380,106380,0,0,PStamatiou,,,"oh man i had one of those! high-quality cable for free..",1201664529
+106651,story,,,12,0,hollywoodcole,"From 0 to 2000+ Subscribers in 90 Days",http://www.problogger.net/archives/2008/01/30/from-0-to-2000-subscribers-in-120-days/,,1201664522
+106650,comment,106586,106631,0,0,ph0rque,,,"With arc, he'd need just a postage stamp.<p><a href=""http://reddit.com/r/programming/info/6710p/comments/c0312wv"" rel=""nofollow"">http://reddit.com/r/programming/info/6710p/comments/c0312wv</a>",1201664514
+106649,story,,,17,14,toffer,"Paul Graham's kind of dirty (On Unicode support as an exercise for the programmer)",http://plasmasturm.org/log/491/,,1201664301
+106648,comment,106398,106402,0,0,shiro,,,"Is the user database is shared, or just copied?<p>I forgot my news.yc password and wonder if resetting password in news.yc propagates to the arc forum.",1201664281
+106647,story,,,11,3,hollywoodcole,"10 Morning Rituals For The Healthy Entrepreneur",http://www.lifehack.org/articles/lifestyle/10-morning-rituals-for-the-healthy-entrepreneur.html,,1201664172
+106646,story,,,1,0,toffer,"The Real History and Origin of Woot and w00t",http://www.doubletongued.org/index.php/grantbarrett/comments/the_real_history_and_origin_of_woot_and_w00t/,,1201663792
+106645,comment,106398,106398,0,0,comatose_kid,,,"Paul:  Small detail - there's a minor typo in your article:<p>""I spent a fews days""<p>Thanks for arc.",1201663751
+106644,comment,106498,106498,0,0,lucasoman,,,"<a href=""http://del.icio.us/oddimperfect"" rel=""nofollow"">http://del.icio.us/oddimperfect</a>",1201663628
+106643,story,,,1,0,edw519,"Voting with (Little) Confidence",http://abcnews.go.com/Technology/GadgetGuide/story?id=4209626&page=1,,1201663539
+106642,story,,,6,0,edw519,"How Intel, HP & Compaq Killed The Fastest Processor In The World",http://www.kirps.com/web/main/_blog/all/how-intel-hp--compaq-killed-the-fastest-processor-in-the-world.shtml,,1201663495
+106641,story,,,4,0,edw519,"Joel is Old",http://philwilson.org/blog/2008/01/joel-is-old,,1201663351
+106640,comment,106621,106621,0,0,kirse,,,"Digg is winning on what?  The war for the most retarded users and comments on a news article?",1201663310
+106639,story,,,38,9,edw519,"Sex, Drugs and Unix",http://www.litvision.org/morton.html,,1201663292
+106638,comment,106498,106498,0,0,maheshcr,,,maheshcr,1201663224
+106637,comment,106398,106627,0,0,ashu,,,"I think that's a fair point - quite distinct from the original comment though.",1201662685
+106636,comment,106498,106534,0,0,whacked_new,,,"best username. :)",1201662509
+106635,comment,106574,106574,0,0,webwright,,,"Um... I think the fact that they are comparing Google to direct mail.<p>I think a look at how Goto/Overture did during the last downturn (was it around) would be more telling.",1201662398
+106634,story,,,1,0,lifiki,"Facebook + Wikipedia:  partner needed",http://sfbay.craigslist.org/sfc/cpg/550690736.html,,1201662169
+106633,comment,105976,106221,0,0,grandalf,,,"are you guys still using Nuance?",1201662088
+106632,comment,106498,106498,0,0,jprobitaille,,,"<a href=""http://del.icio.us/randomiam"" rel=""nofollow"">http://del.icio.us/randomiam</a>",1201662026

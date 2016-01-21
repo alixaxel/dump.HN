@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26872,comment,26839,26839,0,0,SimJapan2005,,,"""...people a world away who have nothing in common with you but their humanity.""",1181298449
-26871,comment,26785,26785,0,0,Tichy,,,"I'm like, uh, totally underwhelmed, to be honest...",1181297896
-26870,comment,26840,26840,0,0,antirez,,,"This can sound stupid maybe, but what about to design for not having the problem in the first stage? (i.e. no corners nor shadows). Also make sure it's a matter of transfer time and not a rendering speed issue.<p>Btw some day ago I released this little tool called wbox ( <a href=""http://hping.org/wbox"" rel=""nofollow"">http://hping.org/wbox</a> ), probably I good feature to add is to try to fetch all the js/css/images data like a real browser and time it in order to tell what is really taking time.",1181296939
-26869,story,,,3,2,pg,"IPOs Coming Back?",http://www.techcrunch.com/2007/06/08/postini-ipo-coming/,,1181296824

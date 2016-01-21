@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+23257,comment,23177,23177,0,0,timg,,,"As frictionless as reddit is, yc news takes this further.<p>The farthest I've seen this taken is in web apps which let you fully use them, but only complete some of the actions you've performed when you finally sign up. This is the model that I will likely use on my next app.",1179600834
+23256,comment,23229,23252,0,0,jey,,,"Looks like ruby.<p>wget -r can probably do the same thing and is easier.",1179600780
+23254,comment,23245,23253,0,0,amichail,,,"I'm not sure how useful this is.  <p>But it would give users some idea as to what the site would look like with more contributions from users.",1179598504
+23253,comment,23245,23245,0,0,yaacovtp,,,"As long as the content you're seeding your site with is valuable to your users go ahead and get whatever you can. We got a ton of great content for a gardening application from usda.gov and are able to manipulate it in ways that makes it useful to our users.",1179598297

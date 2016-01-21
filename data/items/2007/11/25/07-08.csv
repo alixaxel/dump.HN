@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+83304,comment,83284,83284,0,0,tlrobinson,,,"Please ignore this.<p>The guy who started this whole ""why(firefox|digg|etc)isblocked.com"" thing is a sleazebag SEO jackass. This is just another publicity stunt of his.\n",1195977445
+83303,comment,83178,83178,0,0,tlrobinson,,,"I didn't really read the article, but the title gave me another idea:<p>Type your (potential or existing) password into Google. If you get <i>any</i> hits, it's not a good password.<p>Of course there are exceptions, and just because Google doesn't get any hits doesn't mean it definitely is a good password. But it seems like a decent measure of password security.",1195977087
+83302,comment,83254,83254,0,0,Zak,,,"Most languages hackers like do. Python is a bit of an anomaly in this respect. ",1195976550
+83301,comment,83254,83254,0,0,SwellJoe,,,No.,1195975492
+83300,comment,82849,82849,0,0,richcollins,,,"Wow I never would have guessed that spamming can work.",1195975396
+83299,comment,83284,83284,0,0,paulgb,,,"Check out the section with the code. Not the nicest code I have seen. They seem to confuse the user agent with the referrer, and they encourage you to call the file ""fftest.php"". The JavaScript is silly, since they require PHP on the server instead of just doing it all in JavaScript, and I don't think it will even work since they are taking the referrer from the JavaScript file which should be the page that requested it.",1195974607
+83298,comment,83291,83295,0,0,dbrush,,,"Flash is a browser plugin.",1195974295

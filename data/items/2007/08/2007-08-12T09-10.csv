@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-41652,comment,41612,41612,0,0,uuilly,,,"facebook > facebook source code",1186912113
-41651,comment,41473,41473,0,0,neilk,,,"There is a minor gem here; some function called 'tpl_set' which appears to inject values directly into templates that will be called later.",1186911785
-41650,comment,41290,41377,0,0,myoung8,,,"yeah, but how many are aligned flush with the side of the screen? it can't even be one pixel away for it to be super-usable.",1186911754
-41649,story,,,2,0,tim,"SEO Speak Translated: The Real SEO Glossary",http://blogoscoped.com/archive/2007-08-10-n75.html,,1186911330
-41648,story,,,6,5,tomh,"Learning from Facebook: Preventing PHP Leakage",http://www.nik.com.au/archives/2007/08/11/learning-from-facebook-preventing-php-leakage/,,1186911158
-41647,comment,41609,41609,0,0,gojomo,,,"'groopvine.com' isn't very valuable unless you have 'groupvine.com', too. Sell!<p>",1186909487

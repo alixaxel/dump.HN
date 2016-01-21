@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-85576,comment,85461,85472,0,0,Tichy,,,"I don't think you can recommend Quicksort unless you know something about the distribution of the elements to be sorted, or am I mistaken. After all, Quicksort can be very slow under certain conditions. ",1196681583
-85575,story,,,22,0,jgamman,"The code giveth and the code taketh away [comic]",http://www.phdcomics.com/comics/archive.php?comicid=946,,1196681285
-85574,comment,85521,85562,0,0,euccastro,,,"Just code in the light. :>",1196680249
-85573,story,,,1,0,theoneill,"Rainbow Hash Cracking",http://www.codinghorror.com/blog/archives/000949.html?,,1196679841
-85572,comment,85554,85554,0,0,davidw,,,"You can also try and offload projects on sitepoint.com .",1196679815
-85571,story,,,1,0,theoneill,"Better ways to writing JavaScript",http://www.dustindiaz.com/javascript-no-no/,,1196679749

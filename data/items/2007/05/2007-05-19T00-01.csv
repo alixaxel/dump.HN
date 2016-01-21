@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-23179,story,,,3,0,gibsonf1,"Remarkable: Moved Application from Lispworks on Windows to SBCL on Ubuntu - Not a single code change needed!",,,1179534165
-23178,comment,22928,23168,0,0,twism,,,"I took out the ""with"" command... For some reason but should work within a couple hours if you type ""with beer""",1179533153
-23177,story,,,8,1,Sam_Odio,"Backpack & Reddit - examples of ""frictionless"" user interfaces",http://www.codinghorror.com/blog/archives/000866.html,,1179533131
-23176,story,,,4,0,reitzensteinm,"DHH's Rails Keynote",http://feeds.feedburner.com/~r/oreilly/radar/atom/~3/117795743/dhhs_rails_keyn.html,,1179533074

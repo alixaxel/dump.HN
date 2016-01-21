@@ -1,0 +1,19 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+490526,story,,,4,1,prakash,"What to do with thousands of cores",http://www.tompinckney.com/2009/01/what-to-do-with-thousands-of-cores.html,,1235299961
+490525,comment,490324,490324,0,0,ewiethoff,,,"<p><pre><code>  I'm a hacker and I'm okay\n  I play all night and I sleep all day</code></pre>",1235299875
+490524,comment,490006,490006,0,0,ewiethoff,,,"Stallman refers to ""exploring the roofs and tunnels of the MIT campus"" in the 1960s and 1970s as hacking. FWIW, we used to ride on top of elevators (and sometimes their counterweights) at RPI in the 1970s and call it hacking. So, yes, I can relate to the article, man, whether or not hacking goes back to the 1920s or the Renaissance or ancient Greece.",1235299440
+490523,story,,,2,1,jacquesm,"Blockshopper bullied into settling over web links",http://arstechnica.com/web/news/2009/02/blockshopper-bullied-into-settling-over-web-links.ars,,1235299350
+490522,comment,490259,490481,0,0,froo,,,"To see if it was possible, which apparently it is.",1235299316
+490521,comment,490428,490494,0,0,trapper,,,"Thanks patrick, it's great to see some numbers instead of anecdote.",1235299276
+490520,story,,,1,0,peter123,"Neuroscience of gambling",http://www.boingboing.net/2009/02/21/neuroscience-of-gamb.html,,1235299082
+490519,comment,490300,490402,0,0,dotcoma,,,"agree. but I'm not sure that merging Yahoo! Search and Live Search would be much of an improvement...",1235298905
+490518,comment,490366,490454,0,0,icefox,,,"My favorite thing about browsers is that they sniff content that is sent to them to see what it is.  For several different cases such as when the web server does not sent the content type or to see if what was sent is probably a gif or javascript or maybe xml even if you say it is something else.  The amount of sniffing and guessing is really amazing.  The spec requires you must specify a content type.  Guessing what a file is just seems like a world of hurt and pain in the long run.",1235298632
+490517,comment,490054,490162,0,0,dotcoma,,,"also: why in the world go that extra step, when Ubuntu is way better?",1235298607
+490516,comment,490416,490416,0,0,swombat,,,"I would hope that anyone writing a rails app that involves file downloads knows this by now....",1235298448
+490515,comment,490366,490366,0,0,icefox,,,"Option 4<p>Bob produces invalid XML file and gives it to Avery. Avery's permissive parser that he wrote in an afternoon reads it MOSTLY fine, but gets a few things wrong. Avery goes on with his work not realizing some of the data is incorrect, and Bob doesn't need to pay a contractor.",1235298286
+490514,comment,490366,490499,0,0,ewiethoff,,,"But we do. Today they're called XML. :-)",1235298174
+490513,comment,490300,490457,0,0,dimitar,,,"If it gets too bad it can be simply forked. And see Wikipedia getting better, not worse.",1235298037
+490512,comment,490428,490480,0,0,dag1,,,"We use a couple of big networks for CPM, one starts with a ""Gl"" the other has the initials TF.  Traditionally the CPM revenue has been fine with these and more than paid the bills - in January it just dropped off into hell.  The cause is that advertisers have slashed their budget and are no longer shelling out for CPM ads.",1235297968
+490511,comment,490428,490428,0,0,danielrhodes,,,"Videosift used to charge for a premium account that would enable you to have more community options. Perhaps they should make the premium account cheaper to drive up volume and get more.<p>They don't pay for video bandwidth, so it's kind of weird how they have such high costs.",1235297963
+490509,comment,490054,490310,0,0,whughes,,,"OS X wobbles along on the much slower PPC machines, though.",1235297021
+490508,comment,490327,490327,0,0,RiderOfGiraffes,,,"Doesn't seem to include MobWrite - I've checked the ""GoogleDocs"" section and it doesn't seem to be there.",1235296898

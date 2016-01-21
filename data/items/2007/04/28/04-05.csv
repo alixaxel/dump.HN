@@ -1,0 +1,8 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+17631,story,,,4,0,mattjaynes,"Nicholas Carr: Microsoft is dead in theory",http://www.roughtype.com/archives/2007/04/microsoft_is_de.php,,1177735761
+17630,story,,,2,0,mattjaynes,"Digg Eco-System Starting To Evolve",http://startupmeme.com/2007/04/27/digg-eco-system-starting-to-evolve/,,1177735693
+17629,comment,17573,17574,0,0,akkartik,,,"Related question in the YC app: ""What do you understand about your business that other companies in it just don't get?""<p><a href=""http://news.ycombinator.com/comments?id=17628"">http://news.ycombinator.com/comments?id=17628</a>",1177735095
+17628,comment,17357,17359,0,0,akkartik,,,"A static snapshot of a web-based product may be open to easy copying. What is hard to copy and compete with is the dynamic trajectory of listening to users and rapidly adding features.",1177734806
+17627,comment,17561,17561,0,0,walesmd,,,"<a href=""http://www.betaflow.com/"">http://www.betaflow.com/</a><p>Just shoot me a message via the contact page and it's as good as posted. Will get you added to the Betaflow Codex as well. :D\n",1177734801
+17626,comment,17591,17591,0,0,far33d,,,"Any idea how many of these are uniques or how many registered users the site has? Certainly there are at least about 300 users that check the site many times a day (that's how many hits a post on my blog that got 7 upvotes received). ",1177734395
+17625,comment,17568,17624,0,0,far33d,,,"Instead of spending 10 pages describing why it's actually OUR fault that metadata isn't well supported (we have an open API you could write it yourself) a la 37 signals, he admits the problem and says they will address it. Class act. \n",1177734190

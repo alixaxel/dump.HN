@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26380,story,,,1,0,ereldon,"The Colbert Report - Stephen Interviews Wikipedia Founder Jimmy Wales",http://www.colbertondemand.com/videos/Guest_Interviews/Stephen_Interviews_Wikipedia_Founder_Jimmy_Wales,,1181015899
-26379,comment,26378,26378,0,0,rms,,,"Sure, it's great from a user's perspective but I think they're going to bankrupt themselves if the licensing fees don't change. It's one cent per song per user. Techcrunch says they need an average of $65 revenue per user to break even. That just seems extremely unrealistic, but maybe they know something we don't.<p>Also see the French site www.blogmusik.net which enables on-demand music by aggregating MP3s posted to blogs.",1181015634
-26378,story,,,3,1,rms,"Lala launches unlimited, free on-demand music",http://www.techcrunch.com/2007/06/04/lala-bets-the-company-on-free-streaming-music/#comments,,1181015485
-26377,story,,,4,0,nickb,"Zooomr: Importance of not having any downtime",http://www.uncov.com/2007/6/5/zooomr-live-downtime-and-fucking-your-users,,1181014242

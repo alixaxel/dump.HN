@@ -1,0 +1,4 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+13598,story,,,1,0,reitzensteinm,"AllOfMp3 Down For 8 Hours And Counting",http://feeds.feedburner.com/~r/Techcrunch/~3/109709549/,,1176805813
+13597,comment,13239,13266,0,0,ralph,,,"https://sourceforge.net/index.php ftp://ftp.freebsd.org/pub/FreeBSD/<p>Neither are turned into links.<p>&gt;=> &lt;=< &amp;=&",1176805619
+13596,comment,13457,13457,0,0,ced,,,"Platforms and languages should be orthogonal. They have become tied together because the glue provided by the OS sucks. ",1176805569

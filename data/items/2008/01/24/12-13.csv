@@ -1,0 +1,15 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+103441,story,,,1,0,drm237,"Ad Age Reports 90% of Searchers Ignore PPC",http://www.startuphustle.com/2008/01/24/ad-age-reports-90-of-searchers-ignore-ppcworried/,,1201179402
+103440,story,,,3,0,drm237,"Startup essentials: Law of learning and openness",http://sameerg.wordpress.com/2008/01/24/startup-essentials-law-of-learning-and-openness-new-role-new-rules/,,1201179361
+103439,story,,,2,0,blackswan,"Rogue Trader at Societe Generale causes $7.1 billion loss",http://www.guardian.co.uk/business/2008/jan/24/creditcrunch.banking,,1201179021
+103438,comment,103383,103383,0,0,apgwoz,,,"Is this just using a modified version of <a href=""http://topspot.dk/"" rel=""nofollow"">http://topspot.dk/</a> ?",1201179013
+103437,comment,102167,102167,0,0,ralph,,,"Now fixed.<p><pre><code>    $ date\n    2008-01-24 12:35:00 +0000 Thu\n    $ wget -qO- http://news.ycombinator.com/rss |\n    > tr \> \\012 |\n    > grep -c comitem\n    0\n    $</code></pre>",1201178142
+103436,story,,,8,4,terpua,"Put Buyers First? What a Concept",http://www.nytimes.com/2008/01/05/technology/05nocera.html?_r=1&pagewanted=all&oref=slogin,,1201177981
+103435,story,,,2,0,terpua,"The Official Dilbert Widget",http://mashable.com/2008/01/24/the-official-dilbert-widget/,,1201177680
+103434,story,,,7,3,mixmax,"Rogue trader costs french bank $7 billion",http://news.bbc.co.uk/2/hi/business/7206270.stm,,1201177214
+103433,comment,103393,103393,0,0,axod,,,"<i>Another</i> term for this easy as hell simple technique that doesn't really need explaining anyway?<p>I can already see the books devoted to 'comet' and 'reverse ajax'. I'm sure they'll sell, but you can explain it to someone in a couple of sentences.",1201177174
+103432,comment,103228,103228,0,0,sunkencity,,,"quite as a surprise most people are morons...",1201176430
+103431,comment,103305,103412,0,0,chaostheory,,,"imho give or take a little, it's as stable as the next language/framework. I've used java and python (and some of their frameworks), but then again I've never really done the core sys admin for any of the stuff I've built. It's not perfect, but it works. I think as long as you have a good host - you're golden, if not you're screwed.<p>no, it's not running on a cluster yet - we're not running into performance probs yet (though it would be a nice one to have if our numbers go high enough)",1201176421
+103430,story,,,1,0,terpua,"The Force is Curiously Strong in This One.",http://500hats.typepad.com/500blogs/2008/01/the-force-is-cu.html,,1201176393
+103429,story,,,3,0,jyu,"The rise of VMWare's hypervisor",http://www.economist.com/displaystory.cfm?story_id=10534566&fsrc=RSS,,1201176296
+103428,comment,102863,103066,0,0,gibsonf1,,,"My cofounder was an enterprise Java programmer and started learning Lisp for our startup.  He is now a very big Lisp fan and very good Lisp coder and counting the days until he can leave Java behind permanently  (He was a top notch Java coder as well).  So for good coding talent, learning to use Lisp is probably not that big of a barrier.",1201176272

@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-4892,comment,4861,4861,0,0,davidw,,,"I've used both and prefer Postgresql.  Mysql with MyISAM is ""faster"" in the same way that bicycling down a hill with no brakes is faster.  Mysql 5 with InnoDB is a little bit more serious and is worth considering.
-",1174254504
-4891,story,,,5,0,socmoth,"New ted talks are up. tech/entertain/design",http://www.ted.com/tedtalks/,,1174253866
-4890,story,,,1,0,socmoth,"CSS sumerize feature. (report back if you get good results)",http://www.cleancss.com/?lang=en,,1174253616
-4889,comment,4235,4364,0,0,zaidf,,,"Sure, that's why it's proceeds point #1:)",1174253601
-4888,comment,4871,4871,0,0,chris_l,,,"That's strange, I was just revising a few of those points myself. I'm a huge fan of that post or whatever you want to call it.<p>""The sovereignty you have over your work will inspire far more people than the actual content ever will. How your own sovereignty inspires other people to find their own sovereignty, their own sense of freedom and possibility, will change the world far more than the the workÂs objective merits ever will.""<p>Priceless.
-",1174252599

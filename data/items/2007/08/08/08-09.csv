@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+40463,comment,40222,40263,0,0,niels,,,"I really like webpy and its open ended approach, but Django is just a more complete framework, and thats what I need for rapid development. django.contrib contains user/auth and other things I'd need to roll my own in webpy. And the middleware, like session stuff - beeing written for django - ties nicely in with all the helpers (generic views, etc..), while still being loosely coupled. Initially I thought that Django was mainly for news driven sites, but I find it to be just as flexible as Rails and more explicit and intuitive. So basically I'm looking for the solution that allows me to write the minimum amount of code, while still providing the flexibility I need. And of course it has to be Python (because that's what I prefer).",1186563222
+40462,story,,,19,5,vlad,"21 Critical Life Lessons You Didn't Learn in School",http://johnplaceonline.com/achieve-balance/21-critical-life-lessons-you-didnt-learn-in-school/,,1186563201
+40461,comment,40412,40414,0,0,staunch,,,"I read that as saying they got YC funding on their second attempt.\n",1186563139
+40460,comment,40304,40304,0,0,jamongkad,,,"Love Jquery and I can't get enough of it! ",1186563129
+40458,story,,,1,0,vlad,"3 Useful Resources for Building FaceBook Apps in ROR",http://info-architects.net/2007/06/25/rails-and-facebook/,,1186562954
+40456,story,,,1,0,vlad,"Everything You Know About Scaling Is Wrong (good article)",http://info-architects.net/2007/08/03/everything-you-know-about-scaling-is-wrong/,,1186562792
+40455,story,,,1,0,vlad,"10 Reasons You Should Never Get a Job",http://www.stevepavlina.com/blog/2006/07/10-reasons-you-should-never-get-a-job,,1186562618
+40454,comment,40402,40402,0,0,davidw,,,"Stuff To Do has drag/drop sharing of tasks, as well as the ability to look at how other people in your group have spent their time:<p><a href=""http://stufftodo.dedasys.com"" rel=""nofollow"">http://stufftodo.dedasys.com</a><p>",1186562579
+40453,story,,,3,0,vlad,"How to Get From a 7 to a 10",http://www.stevepavlina.com/blog/2005/07/how-to-get-from-a-7-to-a-10/,,1186562553
+40452,story,,,4,0,vlad,"Hacking 3rd Party Apps for the iPhone",http://www.businessweek.com/technology/content/aug2007/tc2007081_895247.htm?chan=search,,1186562458
+40451,story,,,1,0,vlad,"Guess the #2 World's 'Best' Brand",http://images.businessweek.com/ss/07/07/0726_globalbrands/index_01.htm?chan=rss_topSlideShows_ssi_5,,1186562233
+40450,story,,,1,0,vlad,"New Stock Options (Backdating) Fears in the Silicon Valley",http://www.businessweek.com/technology/content/aug2007/tc2007088_860107.htm?chan=top+news_top+news+index_top+story,,1186562139
+40449,story,,,1,0,vlad,"20 Metros with Average Rent Under $800 or $1000",http://images.businessweek.com/ss/07/01/0109_lowestrent/index_01.htm?chan=rss_topSlideShows_ssi_5,,1186561997
+40448,story,,,1,0,rnesh,"TLC - How to Make Millions",http://www.epursuit.net/blog/how-to-make-millions-footycs-on-tlc/,,1186561607
+40447,story,,,1,0,vlad,"Creators of ICQ Make a Live TV Network",http://www.marketingvox.com/archives/2007/08/07/startup-knockatv-to-make-amateur-content-basis-of-online-tv-network/,,1186561582
+40446,story,,,1,0,vlad,"Sun Microsystems to Discount Servers for India, China Startups",http://money.cnn.com/news/newsfeeds/articles/djf500/200708080243DOWJONESDJONLINE000280_FORTUNE5.htm,,1186561450
+40445,comment,40421,40421,0,0,michelson01,,,"in other news, so did Twytter and yLike<p>",1186561423
+40444,story,,,1,0,vlad,"Default Mac OS X System Keyboard Bindings",http://www.hcs.harvard.edu/~jrus/Site/System%20Bindings.html,,1186561288
+40443,comment,40222,40222,0,0,tim,,,"Python and Django for web stuff, C++ for desktop stuff (games, 3D applications)",1186560948
+40442,comment,40005,40005,0,0,uuilly,,,"<a href=""http://fuzzwich.com/minivid/minivid.php?vid=662"" rel=""nofollow"">http://fuzzwich.com/minivid/minivid.php?vid=662</a><p>You are my new favorite website for when I'm too tired to code yet too wired to sleep...<p>Thank you!",1186560712
+40441,story,,,1,0,vlad,"Angel Ventures Partners: Started by the 1st winner of ""The Apprentice"" TV Show",http://www.angelventurepartners.com/team.htm,,1186560570
+40440,story,,,1,0,vlad,"(Forbes) Fatal Funding Mistakes for Startups",http://www.forbes.com/columnists/2006/01/31/emc-ntag-startups-cx_tt_0201straightup.html,,1186560344
+40439,story,,,1,0,vlad,"Just Say What Your Product Is.",http://www.founderblog.com/2006/12/just-say-what-it-is.html,,1186560242
+40438,story,,,1,1,vlad,"Ubuntu Dells not alone: Novell Lenovo Linux Laptops Later This Year",http://news.bbc.co.uk/2/hi/technology/6933859.stm,,1186560150
+40437,story,,,1,0,vlad,"1.5 Billion Microsoft fine overturned",http://news.bbc.co.uk/2/hi/business/6934363.stm,,1186560048

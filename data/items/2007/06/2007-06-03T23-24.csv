@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-26176,story,,,2,0,danw,"Can You Hear Me Now? Thanks to technology, people have never been more connected--or more alienated",http://www.forbes.com/free_forbes/2007/0507/176.html?partner=rss,,1180914915
-26175,story,,,7,1,pg,"A VC: The Free Music Business",http://avc.blogs.com/a_vc/2007/06/the_free_music_.html,,1180913723
-26174,comment,26134,26168,0,0,tx,,,"No offense, but did you carefully read what Jay said? C and C++ is essentially same language, extended with OO+templates. And you can implement virtual method call in C as well.<p>I would even argue that <i>C++ is faster than C</i> because latest compiler optimization techniques and modern approach to templatized designs yield very impressive performance not typical for ligher-level languages.<p>The biggest issue with C++ (as a language) in my opinion is it's total lack of modules. In the end, everything needs to be included into every cpp file. <p>Speed is certainly not an issue. The only language that gets a chance of beating C/C++ is probably OCaml since it gives more information about your intentions to an optimizer/code generator.
-",1180912706
-26173,comment,26061,26061,0,0,steve,,,"What? Why doesn't the techcrunch summary say anything about a trainable filter?",1180912092

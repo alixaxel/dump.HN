@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-93162,story,,,2,0,nickb,"   Optimized pow() approximation for Java and C / C++",http://martin.ankerl.com/2007/10/04/optimized-pow-approximation-for-java-and-c-c/,,1198826911
-93161,story,,,1,1,nickb,"Too many files: Reiser FS vs hashed paths ",http://ygingras.net/b/2007/12/too-many-files:-reiser-fs-vs-hashed-paths,,1198825983
-93160,story,,,9,0,nickb,"Reading On Lisp: Then and Now...",http://lispy.wordpress.com/2007/12/27/reading-on-lisp-then-and-now/,,1198825907
-93159,comment,93108,93108,0,0,some,,,"All these words. Show us pictures of different solutions side by side and let us compare on our own.",1198825731
-93158,story,,,6,1,nickb,"The Semicolon Wars (Language wars and Lisp)",http://www.americanscientist.org/template/AssetDetail/assetid/51982/page/1,,1198825238

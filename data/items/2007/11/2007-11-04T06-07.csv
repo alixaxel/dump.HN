@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-75988,story,,,3,1,nickb,"Google's OpenSocial and XSS exploit in Ning",http://www.haroldtherebel.com/2007/11/03/peer-prescience/,,1194157606
-75987,story,,,1,0,nickb,"Are Microsoft and Yahoo working on a new web language to replace JavaScript?",http://blog.mozilla.com/rob-sayre/2007/11/01/browser-war-hardly./,,1194157552
-75986,story,,,1,0,nickb,"World's oldest source code repositories ",http://www.ohloh.net/blog/worlds_oldest_source_code_repositories,,1194157479
-75985,story,,,1,0,nickb,"How to start a Lisp User Group",http://bc.tech.coop/blog/071030.html,,1194157431
-75984,story,,,1,0,nickb," Magnetic models",http://hexdome.com/models/magnetic/,,1194157234
-75983,story,,,37,4,nickb,"NYTimes uses Hadoop, S3, EC2, and some custom code to handle PDF generation for 4TB worth of data",http://open.blogs.nytimes.com/2007/11/01/self-service-prorated-super-computing-fun/,,1194157025
-75982,comment,75853,75959,0,0,downer,,,"> ysearch.com<p>Never knew about it!  Thanks.",1194156158

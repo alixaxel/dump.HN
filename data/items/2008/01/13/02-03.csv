@@ -1,0 +1,13 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+97732,comment,97573,97721,0,0,dcurtis,,,"Yeah, I run red lights because I dun like them. They're just not me.",1200193157
+97731,comment,97615,97655,0,0,mynameishere,,,"He probably should have fired those engineers immediately.<p>""Nope, sir. Can't do it. Can't be done. Can't put a computer in a plastic case with the monitor.""",1200192603
+97730,story,,,1,0,llimllib,"Unfold in Python",http://billmill.org/python_roman.html,,1200192551
+97729,comment,97319,97524,0,0,llimllib,,,"I actually went to one of those ""full disclosure"" meetings when I used to work for a pharma. They put me up for 2 days in the Vegas Four Seasons in exchange for a 15 minute presentation :)<p>Rubber chicken indeed, but I'll take free food in exchange for that room any day of the week.",1200192443
+97728,comment,97573,97573,0,0,kirubakaran,,,"Thanks! PG, can you let us customize the whole CSS?<p>(That will help people who can't use Firefox at their day job / all computers that they log in will have same YCN style)<p>Also you may want to give this facility to everyone and give something else to us 200+ers... May be 5 down votes that we can use on submissions per month...",1200192327
+97727,comment,97709,97709,0,0,maurycy,,,Inspiring.,1200191832
+97726,comment,87239,97705,0,0,alxv,,,"<i>See? I read that both forms are translated to </i> * <i>(c + n), which\nexplains the equivalence. Weird, no?</i><p>Well, that surely is evil, yet perfectly valid C code. But personally, I don't find it surprising. Of course, you need to grok what A[n] really is -- i.e., syntactic sugar for *(A + n), as you just explained.",1200191479
+97725,comment,97625,97625,0,0,simonw,,,"I've implemented it, and I use it on a handful of sites that support it (various blogs, Highrise, BlinkSale).",1200191412
+97724,story,,,2,1,netsurge,"Maxed Out Mac Requires A Mortgage",http://tech.nocr.at/mac/maxed-out-mac-requires-a-mortgage/,,1200190975
+97723,story,,,1,0,netsurge,"Cheap DYI Laser",http://tech.nocr.at/hacking-security/cheap-dyi-laser-cutter/,,1200190923
+97722,comment,97625,97714,0,0,bugmenot,,,"Probably not a good idea...<p><a href=""http://www.bugmenot.com/view/news.ycombinator.com"" rel=""nofollow"">http://www.bugmenot.com/view/news.ycombinator.com</a>",1200190146
+97721,comment,97573,97710,0,0,randallsquared,,,"The quote-after-period thing is a rule I deliberately break.  I dun like it.  It's just not me.",1200190085

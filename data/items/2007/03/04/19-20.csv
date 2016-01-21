@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+2208,story,,,2,0,brett,"[IBM developerWorks] Develop Web applications for local use - Learn when a browser is better than a GUI application, and when a CGI is best of all",http://www-128.ibm.com/developerworks/web/library/wa-localwebsrv.html?ca=dgr-lnxw01CGI-Best,,1173037725
+2207,comment,2205,2205,0,0,Alex3917,,,"False Dilemma. The author frames it as if its a choice between starting a startup that has a high probability of failing or doing nothing. However, most people who don't start startups have to work work for big companies, which have all the same problems but worse.",1173037251
+2206,comment,2128,2198,0,0,ecuzzillo,,,"Having not lived the days of yore, I'm guessing that there were inferior mail clients that came before pine that are now long-forgotten because pine was better. Gmail is a similarly superior online email; it may not be the first, but it's the best, and that's all anyone remembers. ",1173036151
+2205,story,,,4,7,abstractbill,"The Entrepreneur Bubble",http://earlystagevc.typepad.com/earlystagevc/2005/10/the_web_20_entr.html,,1173035887
+2204,comment,2143,2144,0,0,rami,,,"You should try WorkHack.com, it is a todo list compatible with IE and firefox.",1173035680

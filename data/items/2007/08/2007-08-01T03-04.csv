@@ -1,9 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-38250,story,,,13,14,omouse,"HitForge: Another YC clone?",http://hitforge.com/,,1185940385
-38249,story,,,1,0,pg,"Americans Addicted to Mobile Email",http://gigaom.com/2007/07/26/americans-addicted-to-mobile-email/,,1185940259
-38248,comment,38065,38065,0,0,rms,,,"I had a very poignant moment when I started forwarding my Pitt email to my Gmail address... I realized that I would be using this email program for the rest of my life.<p>Thanks.",1185939575
-38247,comment,38174,38174,0,0,ivankirigin,,,"Well, then you give spammers some apriori information, right? Spammers that know your system is used could tailor a solution that has a higher chance of defeating the captcha. This limits the reach of your service.<p>Captchas are entering the realm of machine solvable. Soon enough, humans will find them so annoyingly hard to discern, many won't bother. And artificial artificial intelligence (e.g. humans solving captchas for porn) make them only a low fence.<p>All around, it's a dead end.<p>Recognizing humans isn't necessarily a dead end. Using a system of warped characters is.",1185939504
-38246,story,,,32,4,nickb,"The Netflix Prize: 300 Days Later",http://whimsley.typepad.com/whimsley/2007/07/the-limitations.html,,1185939120
-38245,story,,,3,1,nickb,"Will Recommmender Systems Ever be Useful?",http://delong.typepad.com/sdj/2007/07/tom-slee-on-dis.html,,1185938915
-38244,story,,,1,0,nickb,"How to Upload YouTube Videos Programmatically ",http://www.catonmat.net/blog/how-to-upload-youtube-videos-programmatically/,,1185938624
-38243,story,,,1,0,nickb,"Linus: Why almost all SCMs (other than git) are ""broken"" ",http://permalink.gmane.org/gmane.comp.version-control.git/217,,1185938426

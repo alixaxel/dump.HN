@@ -1,0 +1,26 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+100062,comment,100062,98297,0,0,lg,,,"PG: Can an arc instance distribute its threads across multiple cpu's?  I'm not asking ""can-in-principle"" but rather whether the current implementation has that feature.",1200614086
+100061,story,,,5,1,angryprofessor,"Lush: Lisp Universal SHell (Lisp designed for numerical analysis)",http://lush.sourceforge.net/,,1200614047
+100060,comment,100060,99936,0,0,apgwoz,,,"I find my collection of Punk/Hardcore suits me best for programming. It keeps my mind alert, and works even better than caffeine in some cases.",1200614046
+100059,comment,100059,99993,0,0,irrelative,,,"Lyrics really break my concentration too.  I like electronica for that reason -- it doesn't have vocals and it's got a nice motivating beat.<p>Try Aphex Twin for some really good stuff.",1200613871
+100058,comment,100001,100001,0,0,apgwoz,,,"I'm incredibly glad my last employer bought me a pair of Bose Quiet Comfort headphones for Christmas. Probably the most comfortable headphones I've ever worn.",1200613800
+100057,comment,100057,99936,0,0,davidw,,,"Stuff I've heard a lot before, so that I'm not paying much attention to it.  Fishbone!",1200613457
+100056,comment,100030,100030,0,0,davidw,,,"""PHP God"" brings to mind something like this:<p><a href=""http://www.energycenter.com/auction.folder/Kali2.JPG"" rel=""nofollow"">http://www.energycenter.com/auction.folder/Kali2.JPG</a>",1200613385
+100055,comment,100055,99936,0,0,thedaniel,,,"Groove Salad: <a href=""http://somafm.com/"" rel=""nofollow"">http://somafm.com/</a><p>Cliqhop (also somaFM) if the problems are complex.",1200613059
+100054,comment,100030,100041,0,0,ivankirigin,,,"That appears to be for YC funded companies only.",1200612668
+100053,comment,100053,99936,0,0,pistoriusp,,,"I use Sennheiser inner ear headphones and Itunes tells me that I mostly listen to:<p>Punk and music between the 70's and 90's.",1200612605
+100052,comment,100052,99949,0,0,mynameishere,,,"This would certainly damage my bottom line, but the fact is there are a lot of people who pay 30/month for their connections (the same as myself) but literally download 1/100,000th as much. It's hard to justify other people subsidizing me except for the fact that they're the losers in the transaction.",1200612549
+100051,comment,100023,100023,0,0,zachbeane,,,"<a href=""http://news.ycombinator.com/item?id=87846"" rel=""nofollow"">http://news.ycombinator.com/item?id=87846</a>",1200612501
+100050,story,,,3,0,estherschindler,"Ten IT Urban Legends Exposed",http://www.cio.com/special/slideshows/it_urban_legends/index#slideshow,,1200612063
+100049,comment,100049,99936,0,0,tirrellp,,,"Usually I listen to stuff that allows me to think... some chilled out stuff like Stereolab, Free Design, Telepopmusik, Thief, Portishead, Jazzanova, Forss, Yesterdays New Quintet, Wahoo, and more stuff like that.",1200612055
+100048,comment,100006,100047,0,0,kyro,,,"I'm not suggesting we eradicate karma. Karma is a fine way to credit quality submissions and comments. Karma is not the problem, but rather a person's desire to accumulate lots of karma is.<p>I'm putting the burden on the users to evaluate their motives and to make sure that what they are submitting will really contribute to the community, not for the sole purpose of fueling their karma fetish.",1200611951
+100047,comment,100006,100017,0,0,danw,,,"Sorry about it changing. I have a very iterative approach to writing.<p>Are there any non-karma approaches to news sites that work well?<p>The two that I know of are:<p><pre><code>  1) Charge for membership\n  2) Keep the community small</code></pre>",1200611707
+100046,story,,,2,0,hhm,"Marion Tinsley: Human Perfection at Checkers? (pdf)",http://www.msri.org/publications/books/Book29/files/tinsley.pdf,,1200611602
+100045,story,,,6,4,pius,"""Programming in C is a premature optimization""",http://patricklogan.blogspot.com/2008/01/more-on-stable-layers-regarding.html,,1200611591
+100044,comment,100044,99871,0,0,sheriff,,,"YAY! (Yet Another YAML)",1200611569
+100043,story,,,1,0,hhm,"On Giving Talks: Show the Love",http://cosmicvariance.com/2008/01/17/show-the-love/,,1200611530
+100042,story,,,1,0,hhm,"The Nasty Little Truth about Idiots Who Don't Understand Dimensions",http://scienceblogs.com/goodmath/2008/01/the_nasty_little_truth_about_i.php,,1200611270
+100041,comment,100030,100030,0,0,ks,,,"What about adding it to <a href=""http://news.ycombinator.com/jobs"" rel=""nofollow"">http://news.ycombinator.com/jobs</a> ?",1200611270
+100040,story,,,5,1,ranparas,"Do large companies really generate 'real change' ?",http://www.portfolio.com/views/columns/2007/11/15/Innovation-At-Big-Companies#page1,,1200611045
+100039,story,,,7,5,pius,"Fire Eagle is coming...",http://fireeagle.research.yahoo.com/,,1200610897
+100038,comment,100038,99805,0,0,mojuba,,,"I once wrote a compiler and a VM for a custom language and without much optimization it performed almost twice as fast as PHP. Not that I'm good at VM's but probably PHP is really bad.",1200610823

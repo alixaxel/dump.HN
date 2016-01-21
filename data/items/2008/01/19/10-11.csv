@@ -1,0 +1,5 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+100848,story,,,10,2,getp,"Google Offers OpenID Logins Via Blogger",http://www.techcrunch.com/2008/01/18/google-offers-openid-logins-via-blogger/,,1200739831
+100847,comment,100438,100438,0,0,antirez,,,"My guess is that everybody will switch to Postgress or a fork of MySQL itself in no time if Sun will ruin MySQL.<p>Still it is not impossible that management style people at companies like Oracle and Sun are so stupid to don't realize this, or maybe it's the best they can do to mitigate the MySQL effect in the current situation, that is to continue the development in a way that makes MySQL uncomfortable in some way but still usable enough to slower the switching to other products.",1200739305
+100846,comment,100658,100658,0,0,goncha,,,"Gentoo, both desktop and server",1200738228
+100845,comment,100658,100658,0,0,cheponis,,,"I need reliability, with a bias on using source code to produce my running binaries.<p>Of course, I run NetBSD.",1200738075

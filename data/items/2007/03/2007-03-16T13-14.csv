@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-4571,story,,,11,1,jwecker,"A Scheme language for building web 2.0 apps",http://hop.inria.fr/,,1174052530
-4570,story,,,1,0,pixcavator,"Web 3.0",http://news.yahoo.com/s/cmp/20070316/tc_cmp/198001306,,1174052014
-4569,story,,,2,0,veritas,"Paul Kedrosky's Infectious Greed: Notes from the Venture Field",http://paul.kedrosky.com/archives/2007/03/15/notes_from_the.html,,1174050898
-4568,comment,4402,4407,0,0,jwecker,,,"I know the feeling.  The same feeling I had back when people were still writing java applets.  Maybe a normal user doesn't feel it- maybe it's the programmer in us knowing that there's a big layer running between me and the browser...",1174050484
-4567,comment,4565,4565,0,0,veritas,,,"I haven't seen this being submitted yet, so I figured I'd share a site I read everyday.  ",1174050362
-4566,comment,4402,4500,0,0,jwecker,,,"<a href=""http://www.whatwg.org/"">http://www.whatwg.org/</a>",1174050340
-4565,story,,,8,3,veritas,"Springwise: new business ideas for entrepreneurial minds.",http://www.springwise.com/,,1174050303

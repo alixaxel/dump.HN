@@ -1,4 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-1447,comment,1440,1440,0,0,palish,,,"I found writing something like this to be one of the natural steps in a pure javascript client.  People can do a lot more than they realize with javascript.  On my website, http://www.classbug.com , the fade effects, the transition effects, and the disclosure button rotations are all done with an animating value from 0 to 1 (though not using KochiKit.Animator).<p>That's only the beginning though.  Dynamic tree views, color selectors, etc.. You should build a framework of components to insert into your web application.",1172623065
-1446,story,,,1,0,msgbeepa,"Open Source web conferencing",http://www.avinio.blogspot.com/2007/02/dimdim-open-source-web-conferencing.html,,1172622095
-1445,story,,,11,5,brett,"high traffic rails performance data point (hotspotr.com)",http://earthcode.com/blog/2007/02/four_mongrels_digg_and_lifehac.html,,1172621326

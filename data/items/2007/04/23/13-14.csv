@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+15976,comment,15943,15943,0,0,gibsonf1,,,"A very well done comprehensive comparison.  The conclusion is accurate for now - we'll see about 5 years from now :)",1177336789
+15975,comment,15030,15955,0,0,jkush,,,"Thanks for the feedback. I think I'm still going to go with the memorial approach. Technically, this will be a cinch. The hard part is going to be getting the idea out there once I build it!",1177334252
+15974,comment,15906,15906,0,0,joshwa,,,"""erlang? (what are you doing: stabbing my eyes out with a fork)""<p>lol",1177334201
+15973,comment,15748,15832,0,0,mojuba,,,"I think this is Ok, except some improvement is needed on news.yc. Comments should somehow affect the rank of a post. And it's not the number of comments that matters, but rather the number of people involved, possibly taking into account their karmas.<p>And of course this should be recursive and should be applied to comments themselves (subcomments affect the comment).",1177333741
+15972,comment,15968,15970,0,0,immad,,,"sounds promising. We have SPF setup. Going to check out SenderID now. Thanks",1177333725

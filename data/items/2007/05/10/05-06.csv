@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+20964,comment,20927,20940,0,0,reitzensteinm,,,"I guess you're running OS X? Microsoft might be 'dead', but their crappy OS that was designed around 800x600 lives on :(",1178776290
+20963,comment,20927,20936,0,0,reitzensteinm,,,Yep.,1178776156
+20962,story,,,1,1,reitzensteinm,"Cox to introduce ""Anti Commercial-Skipping Technology""",http://www.dailytech.com/article.aspx?newsid=7211,,1178776050
+20961,story,,,1,0,gibsonf1,"Microsoft-Yahoo! tie-up rumours: The analysts' verdict","http://networks.silicon.com/webwatch/0,39024667,39167027,00.htm",,1178773631
+20960,story,,,1,0,gibsonf1,"Yahoo CEO arrives on Microsoft's turf",http://news.com.com/8301-10784_3-9717653-7.html,,1178773308
+20959,comment,20737,20737,0,0,wammin,,,"On my site we require every user to pick a username, but users can log in with their username OR email address. This allows us to keep email addresses private, but also makes it easy for users who just can't or dont want to remember their username.<p>It's a simple regexp in your login controller to figure out if what they typed in should be checked against the email address or username field in your users table.",1178773258
+20958,story,,,1,0,gibsonf1,"GPL likely to regain Apache compatibility",http://news.com.com/GPL+likely+to+regain+Apache+compatibility/2100-7344_3-6182680.html?tag=nefd.top,,1178773257
+20957,comment,20518,20903,0,0,Alex3917,,,"If you think finding a great domain is hard, try selling a great domain. heh.<p>/trying to sell eskimokissing.com.",1178773227

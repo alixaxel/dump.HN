@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+255292,story,,,1,0,syntaxfree,"Civil disobedience",http://dayvancowboy.org/2008/07/civil-disobedience/,,1216904284
+255290,comment,255220,255220,0,0,Tichy,,,"There are people who don't want to use Facebook.",1216904211
+255289,story,,,3,1,guzzul,"TwitHire, job board for Twitter",http://twithire.com,,1216904136
+255288,comment,254813,255111,0,0,danw,,,"Is there any way to substantiate your claim?",1216904117
+255287,story,,,1,0,gtani,"Apple keyboards, ",http://lowendmac.com/musings/08mm/better-computer-keyboard.html,"provoked/inspired by Bray's keyboard post:<p>http://www.tbray.org/ongoing/When/200x/2008/07/22/On-Keyboards<p>Here's some more background reading to remind you that therre are dozens of KB mfr's otu there:<p>http://news.ycombinator.com/item?id=185743\nhttp://amarsagoo.blogspot.com/2008/05/science-of-keyboard-design.html",1216904076
+255286,comment,255257,255257,0,0,arthurk,,,"Jeff Atwood wrote about programming fonts some time ago: <a href=""http://www.codinghorror.com/blog/archives/000969.html"" rel=""nofollow"">http://www.codinghorror.com/blog/archives/000969.html</a><p>Don't miss the comments!",1216904062
+255284,comment,255187,255187,0,0,cnunciato,,,"Eliminate?  I doubt that.  Definitely reduce, and especially with fuel prices as high as they've been.  But in the end, traveling is often required; there's no substitute for an in-person meeting and handshake when a decent-sized deal's at stake.",1216903899
+255283,comment,255281,255281,0,0,kevTheDev,,,"Has anyone here used this? What is it like compared to backgroundrb?",1216903681
+255282,comment,254951,254993,0,0,far33d,,,"The workspaces are dark because a lot of the work is very color sensitive. A good number of people can't have any ambient light around to do their jobs correctly.",1216903640
+255281,story,,,8,1,kevTheDev,"Ruby asynchronous job processing as devved by twitter",http://www.rubyinside.com/starling-and-rudeq-persistent-ruby-queues-958.html,,1216903573
+255280,comment,253862,253862,0,0,gtani,,,"the comment thread in Bray's blog is a perfect replica of:<p><a href=""http://news.ycombinator.com/item?id=185743"" rel=""nofollow"">http://news.ycombinator.com/item?id=185743</a>",1216903073
+255279,comment,255024,255152,0,0,yummyfajitas,,,"I was an RU math TA. Most of us are not as smart as Eric.",1216903033
+255278,story,,,1,0,lmacvittie,"Madness? This is SOA",http://devcentral.f5.com/weblogs/macvittie/archive/2008/07/24/3481.aspx,,1216903031
+255277,comment,255103,255103,0,0,jonknee,,,"If anyone was actually curious how these scripts worked the .py files were right there... Open in an editor instead of running through Python. Not exactly a secret.",1216902887
+255275,comment,255056,255056,0,0,joshwa,,,"Seems like there is definitely a market for ""exchange for the rest of us"" done right... I wonder what the minimum feature set for an Exchange-compatible email/calendar sync server might be.",1216902818
+255274,story,,,1,0,Stubbs,"Real Have Your Say rants, or genius random comment generator?",http://ifyoulikeitsomuchwhydontyougolivethere.com/the-twat-o-tron/,,1216902732
+255273,comment,255121,255121,0,0,kevTheDev,,,"Is it going to be built on open standards though? I think that's an important differentiator.",1216902704
+255272,comment,255259,255259,0,0,mynameishere,,,"Sure.<p><a href=""http://www.google.com/search?q=santorum"" rel=""nofollow"">http://www.google.com/search?q=santorum</a>",1216902668
+255271,comment,255259,255259,0,0,Harkins,,,"In case you're wondering how on Earth this is possibly news, it's because Google just hosted a training session for journalists at their DC offices yesterday. Showed them Google sites and tools that could help them in their jobs, answered a few questions. Many were surprised to hear that Googlebombing no longer worked.<p>(I know this because my gf attended.)",1216902634
+255270,comment,253216,254145,0,0,jamesbritt,,,"Then you should remove all the words from the quote, leaving nothing more to take away.<p>(Yes, I consider the quote superficially appealing but essentially content-free.)",1216902546
+255269,comment,255024,255134,0,0,0x44,,,"I think there might be a bug there, somewhere. I ran it here, and got 4.",1216902542
+255268,story,,,1,0,syntaxfree,"What the Macintosh does get right",http://dayvancowboy.org/2008/07/what-the-macintosh-does-get-right/,,1216902439
+255266,story,,,5,0,crocus,"Largely for better, sometimes for worse, our world has been defined by trade",http://www.economist.com/books/displaystory.cfm?story_id=11745556,,1216902302
+255265,comment,254958,255087,0,0,joshwa,,,"Yeah, a better title would have been ""beyond RSS.""",1216902295
+255264,story,,,2,0,crocus,"Another new way of turning sunlight into power",http://www.economist.com/science/displaystory.cfm?story_id=11703131,,1216902234
+255263,comment,253557,253643,0,0,jamesbritt,,,"""If you Google 'mash' and my version comes up before mbleigh's, guess what? Mine is the official version.""<p>Cool.  If I can Google-bomb a project name I can seize authority,<p>""We have all these tools for deciding what's good content on the web, why not apply them to code?""<p>Because page rank is a shitty way to determine good content?<p>BTW, you don't need to patch gems to search additional locations for gems.",1216901930
+255262,comment,255150,255150,0,0,jgrahamc,,,"I don't think the section on automatic foldering is convincing.  It, once again, comes to the conclusion that it doesn't work/Naive Bayes isn't accurate enough, yet POPFile shows very high accuracy for a wide variety of users (this is from real usage data).<p>It's odd that his thesis mentions POPFile and then doesn't go on to actually test it.  He also uses the Enron data set for many of his tests which has very little header data in it.",1216901780
+255261,comment,253652,253652,0,0,jamesbritt,,,"Glancing down the list of descriptions, I wondered how many here thing what was described was actually <i>fringe</i>?",1216901601
+255260,story,,,11,7,danhak,"Facebook Takes The Fast Lane To Boring",http://www.techcrunch.com/2008/07/24/facebook-takes-the-fast-lane-to-boring/,,1216901600
+255259,story,,,11,5,ALee,"Death of the Google Bomb",http://blog.washingtonpost.com/the-trail/2008/07/23/goodbye_google_bomb.html,,1216901387
+255258,comment,255187,255187,0,0,signa11,,,"paperless office. anyone ?",1216901132
+255257,story,,,34,37,gus_massa,"ProFont: The ultimate programming font.",http://www.tobias-jung.de/seekingprofont/,,1216901117

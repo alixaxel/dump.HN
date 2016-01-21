@@ -1,0 +1,33 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+115483,story,,,2,0,justinwhitefoot,"Sun's super supercomputer to launch",http://www.news.com/8301-10784_3-9871531-7.html?tag=nefd.top,,1202957939
+115481,comment,115342,115342,0,0,xirium,,,"From the article: ""nearly all real numbers are transcendental.""<p>I'll put forward the facetious argument that only half of the real numbers are transcendental. Between every pair of non-equal rationals exists a transcendental. Between every pair of non-equal transcendentals exists a rational. Therefore, only half of the real numbers are transcendental.",1202957892
+115480,story,,,2,0,justinwhitefoot,"Conjuring creatures in EA's 'Spore' (Pictures)",http://www.news.com/2300-1043_3-6230417-8.html?tag=ne.gall.pg,,1202957850
+115477,comment,114920,114920,0,0,wumi,,,"“The beginning of wisdom is to call things by their right names” – Old Chinese proverb.",1202957590
+115475,comment,115158,115255,0,0,wumi,,,"there. is. no. box.",1202957436
+115471,comment,114967,114967,0,0,msteigerwalt,,,"PHP makes it possible for people to use it poorly, yes.  Blame bad developers, not the language that lets them write bad code.<p>If I want to write a widget that a majority of designers can easily plug into their own sites, I write it in PHP, because it's portable.<p>Maybe that makes me an amateur, but sometimes I can't just code in the pretty, pure languages all day.",1202957317
+115470,story,,,1,0,pius,"Bus Scheme - A Scheme interpreter written in Ruby",http://www.rubyinside.com/busscheme-ruby-scheme-interpreter-756.html,,1202957258
+115467,story,,,1,0,justinwhitefoot,"Yahoo seen in News Corp talks but analysts dubious",http://www.reuters.com/article/technologyNews/idUSN1337390920080214,,1202957064
+115465,comment,115348,115348,0,0,xirium,,,"FreeBSD would be worthwhile in any virtual environment because it works well in low memory environments. I've got a FreeBSD server with 64MB of RAM. It has been running for years. It has been patched but it hasn't required a hardware upgrade.",1202956983
+115464,story,,,1,0,ajzinni,"Should We Educate Our Clients?",http://www.positivespaceblog.com/archives/should-we-educate-our-clients/,,1202956931
+115459,comment,115350,115454,0,0,ivankirigin,,,"Good point. There needs to be a good reason to get mandate an install. Sorta like desktop software.",1202956713
+115457,comment,115356,115356,0,0,xirium,,,"So why did he take the job?",1202956606
+115456,story,,,1,0,justinwhitefoot,"Hands on with Arm's Android",http://www.bbc.co.uk/blogs/technology/2008/02/hands_on_with_arms_android.html,,1202956605
+115455,story,,,4,0,justinwhitefoot,"Spore to go on sale in September",http://news.bbc.co.uk/1/hi/technology/7242563.stm,,1202956529
+115454,comment,115350,115400,0,0,pg,,,"No, I just didn't have Flash 9 installed on the machine I was using.<p>Some of the startups choosing between Javascript and Flash say that this is one of the problems with Flash.  If you choose any recent version, some fraction of people won't have it installed, and faced with the interruption of installing it, will just click on Back instead.",1202956527
+115452,comment,115420,115420,0,0,xirium,,,"From the article: ""I've had a chance to interview many cashiers and evaluate many Point of Sale (POS) systems for usability.""<p>I've seen plenty of Point Of Sale systems where POS would more accurately mean Piece Of ####.",1202956452
+115451,story,,,1,0,nreece,"Google's online ad market share slips",http://thestandard.com/news/2008/02/13/report-googles-online-ad-market-share-slips-q4,,1202956415
+115450,comment,115350,115391,0,0,ctkrohn,,,"For someone who funds a couple Flash-based startups, that's a little surprising...",1202956133
+115449,comment,115350,115371,0,0,streo,,,"In such a setting, I would assume that nothing happens without reason; at least that is the marketer's motto...",1202956066
+115448,comment,115094,115432,0,0,derefr,,,"Also, ""before you leap"" is a very strange way to spell ""moar.""",1202955760
+115447,story,,,1,0,kajecounterhack,"Facebook for Colleges",http://www.zinch.com,,1202955679
+115446,comment,114638,114965,0,0,xirium,,,"I was using about eight Twinings' Earl Grey tea bags per day, five or six days per week.",1202955613
+115445,story,,,1,0,pius,"Use Automator to automatically send bithday cards to friends",http://www.tuaw.com/2008/02/13/mac-automation-birthday-greetings/,,1202955491
+115444,story,,,40,34,pepeto,"The one book you need to read to get in YC",http://www.entrepreneur2be.com/2008/02/13/book-founders-at-work/,"Did I forget to say you may be quizzed on this book on the interview... ;-)",1202955433
+115443,comment,115135,115424,0,0,RyanGWU82,,,"There were about 20 at the dinner on Friday night.",1202955340
+115442,comment,114982,115279,0,0,RyanGWU82,,,"Ah, good point. But in that case, Microsoft still put their foot down, and it was decided in a Washington state court.<p>(I just did some research about this a few weeks ago. Had Google filed a case first, asking for a declaratory judgment, they likely could have gotten it handled in California courts, and the decision would have gone the other way. Seems like a rather screwy system...)",1202955313
+115441,comment,114920,115161,0,0,kajecounterhack,,,"Microsoft (dot) Alcatraz.<p>Great domain right there!",1202955229
+115440,comment,115241,115241,0,0,stillmotion,,,"It's really ugly. If you don't mind me saying.",1202955160
+115439,comment,114920,114977,0,0,kajecounterhack,,,"like ""mine,"" ""moped,"" ""moping,"" ...<p>or perhaps, ""muzzle"" ??<p>;)",1202955106
+115438,comment,115344,115344,0,0,lisper,,,"Here's a shorter version of the same thing:<p><a href=""http://www.flownet.com/ron/chaitin.html"" rel=""nofollow"">http://www.flownet.com/ron/chaitin.html</a>",1202954975
+115437,story,,,2,0,mk,"TwoFish Announces Micro-Transaction Engine for Games",http://www.techcrunch.com/2008/02/13/twofish-announces-micro-transaction-engine-for-games/,,1202954796
+115436,comment,115135,115135,0,0,ubudesign,,,"Count me in as well. I'm in LA but always looking for an excuse to go up north.",1202954723

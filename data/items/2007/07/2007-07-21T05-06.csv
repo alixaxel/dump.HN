@@ -1,8 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-35805,story,,,3,1,nickb,"A Quickstart to Common Lisp - wanna finally learn Lisp?","http://www.builderau.com.au/program/soa/A-Quickstart-to-Common-Lisp/0,339024614,339280188,00.htm",,1184997385
-35804,story,,,3,0,nickb,"Blocking IE users is not a solution - here's how to easily fix most common IE rendering errors",http://www.chriscampbellwaterloo.com/?p=5,,1184997018
-35803,story,,,1,0,pg,"Newspapers rapidly losing real estate ads to web",http://www.bloomberg.com/apps/news?pid=20601109&sid=aRv7CnxPEWcc&refer=home,,1184996813
-35801,comment,35796,35798,0,0,earthboundkid,,,"That seems like a good compromise between YAGNI and future proofing. ",1184996293
-35800,story,,,12,4,sharpshoot,"50 reasons why people aren't using your website by Scott Heifermann, founder of Meetup.com",http://scott.heiferman.com/notes/2006/03/50_reasons_why_.html,,1184995937
-35799,comment,35754,35772,0,0,pietro,,,"Why would that be relevant to running a business?",1184995250
-35798,comment,35796,35796,0,0,pg,,,"Internally strings are represented as 32 bit unicode. That seemed like the right plan, and conveniently it's what Mzscheme does.<p>In news.yc, however, I currently (out of laziness) aggressively convert all input to ascii.  Life is too short.",1184994288

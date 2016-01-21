@@ -1,0 +1,7 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+73439,comment,73221,73224,0,0,neelesh,,,"The python implementation looks overly complicated.  I was thinking that the ruby and python implementations would be very similar. Here it goes<p>def foo(n):<p><pre><code>    return lambda i:n+i\n</code></pre>\nTried it (Python 2.5) and it works.",1193579544
+73438,story,,,1,0,vlad,"The Principal Programming Language Paradigms",http://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng101.jpg,,1193579048
+73437,comment,73434,73434,0,0,anaphoric,,,"Sorry, this hard to follow. In one or two sentences, what exactly is your complaint?<p>",1193578536
+73436,comment,73412,73422,0,0,apgwoz,,,"Slime doesn't exist for scheme. You can use Slime48 for Scheme48 version 1.3, but I don't know of any other ports for Scheme.\n",1193578467
+73435,comment,73260,73260,0,0,Agathos,,,"I feel like I've read this article before. That would be at least once last year, and a few times in the 90s.",1193577828
+73434,story,,,1,3,gappiah,"Open Letter To Guy Kawasaki: Please Don't Be Evil",http://georgeappiah.com/2007/10/28/an-open-letter-to-guy-kawasaki-please-dont-be-evil.html,,1193577158

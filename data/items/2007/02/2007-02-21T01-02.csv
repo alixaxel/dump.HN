@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-232,comment,189,189,0,0,timg,,,"To take over the world?
-
-Well this will help out y-combinator and the whole startup community for sure.",1172022149
-231,comment,227,227,0,0,timg,,,"We admire your ambition. You'll do well.",1172021786
-230,comment,124,188,0,0,ecuzzillo,,,"I commented on a topic yesterday, but today I can't find my comment, or any discussion that might have resulted from it. Obvious ways to fix this include search, a list of comments with permalinks in my profile, or a way to get beyond the front page to get to older links. ",1172021742
-229,story,,,2,1,nate,"Easy way to test EVERYTHING in your Rails app",http://habtm.com/articles/2007/2/21/the-fabulous-spider-fuzz-plugin,,1172019970

@@ -1,0 +1,14 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+19,story,,,2,1,pg,"Will Silicon Light Illuminate the Future?",http://www.technologyreview.com/read_article.aspx?id=17588&ch=energy,,1160423943
+18,story,,,3,1,farmer,"Voddler Raises $2.2M For Virtual Cable TV",http://www.thealarmclock.com/euro/archives/2006/10/stockholmnfounded_vo.html,,1160423746
+17,comment,1,15,0,0,pg,,,"Is there anywhere to eat on Sandhill Road?",1160423565
+16,story,,,11,1,pg,"Feld: Question Regarding NDAs",http://www.feld.com/blog/archives/001979.html,,1160423503
+15,comment,1,1,0,0,sama,,,"&#34;the rising star of venture capital&#34; -unknown VC eating lunch on SHR",1160423461
+14,story,,,4,1,pg,"Small is Beautiful: Building a Successful Company with Less Capital",http://blogs.zdnet.com/BTL/?p=3738,,1160423420
+13,story,,,5,1,phyllis,"The Hardest Lessons for Startups to Learn",http://www.paulgraham.com/startuplessons.html,,1160422572
+12,story,,,5,1,farmer,"Wired: The Desktop is Dead",http://wired.com/wired/archive/14.10/cloudware.html,,1160422112
+11,story,,,5,1,frobnicate,"Participation Inequality: Encouraging More Users to Contribute",http://www.useit.com/alertbox/participation_inequality.html,,1160421884
+10,story,,,3,1,frobnicate,"PhotoShow: Broadcast Photos to Cable TV",http://www.techcrunch.com/2006/10/09/broadcast-photos-to-cable-tv/,,1160421674
+9,story,,,4,0,askjigga,"weekendr: social network for the weekend",http://www.weekendr.com/,,1160421542
+8,story,,,10,0,frobnicate,"LikeBetter featured by BBC",http://news.bbc.co.uk/2/hi/programmes/click_online/5412216.stm,,1160421459
+7,story,,,5,0,phyllis,"Sevin Rosen Unfunds - why?",http://featured.gigaom.com/2006/10/09/sevin-rosen-unfunds-why/,,1160420455

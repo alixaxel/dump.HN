@@ -1,0 +1,6 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+91973,story,,,4,0,theoneill,"An executable introduction to Lisp macros",http://weitz.de/macros.lisp,,1198331690
+91972,story,,,1,0,theoneill,"Golf is a good program spoiled",http://weblog.raganwald.com/2007/12/golf-is-good-program-spoiled.html,,1198331549
+91971,comment,91954,91954,0,0,david927,,,"Alan Kay is the greatest genius alive.  Period.",1198331361
+91970,comment,91752,91752,0,0,Tichy,,,"Now for a solution for ugly people?",1198331081
+91969,comment,91911,91911,0,0,ptn,,,"I'm not sure that learning a new language while developing for final product is a good idea, it will slow you down unless you are an expert. So I think it depends on what you want: decent website right now = old language; really powerful stuff at some point in the future = new language.",1198330163

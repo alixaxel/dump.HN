@@ -1,5 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-89825,comment,89816,89816,0,0,brianr,,,"Existing extensions are a great source for example code... as long as they're written in JavaScript, extensions are as open source as HTML pages. Just download the extension and unzip it.",1197708648
-89824,comment,89541,89541,0,0,initself,,,"Is that PG in the background of that picture?",1197708064
-89823,story,,,3,0,iamwil,"Mapstraction - a javascript library to hide differences between mapping APIs.",http://mapstraction.com/,,1197706795
-89822,story,,,1,0,iamwil,"Wikisky.org - Interactive Sky Map",http://server1.wikisky.org/?locale=EN,,1197706480

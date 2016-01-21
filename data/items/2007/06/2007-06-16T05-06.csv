@@ -1,6 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-28505,comment,28504,28504,0,0,donlaw,,,"I'm wondering if there are any YC companies out there who have hired a patent attorney?  I need a web/software focused patent attorney and am looking for a good reference... thanks!",1181972427
-28504,story,,,1,3,donlaw,"Patent Attorneys",,,1181972370
-28503,comment,28065,28186,0,0,earthboundkid,,,"I was going to say the same thing. The whole article is mispremised. If you think, ""Who would switch to a virtual keyboard from a real keyboard?"" you'll have questions about the iPhone. If you ask, ""Who wouldn't switch to a virtual keyboard from a cellphone 0 - 9 layout?"" you'll understand the market the iPhone is targeting. <p>It's a consumer product, not a business product. The idea for the iPhone is that in 5 years everyone age 14-24 will have one, just as has already happened to the iPod. ",1181971011
-28502,comment,28410,28491,0,0,earthboundkid,,,"It makes sense to ""hide"" stuff when you're writing a library/framework that you might update in the future. It doesn't when you're just writing for your particular project.",1181970368
-28501,comment,28343,28343,0,0,jamongkad,,,"I've submitted to the fact that no code is better than code. ",1181970256

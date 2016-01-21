@@ -1,0 +1,9 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+7951,comment,7935,7935,0,0,nickb,,,"I love S3! It's so easy to get started. I have less use for EC2 since I have less computations to do. I wish I could run a database on EC2...",1175406321
+7950,story,,,14,7,zaidf,"How many teams does YComb invite to Mountain View?",,,1175405957
+7949,comment,7935,7935,0,0,binarybana,,,"I know that YouOS uses it. ",1175405915
+7948,comment,6505,7348,0,0,pg,,,"We don't accept a fixed number of applicants.  We'll fund anyone who seems good enough.  If we suddenly got 30 great applications, we''d accept them all, and worry later about how to cram them all into our space.",1175405504
+7947,comment,7943,7943,0,0,vlad,,,"That's a very great perspective.  I want to be the Ben Folds of my niche.",1175404600
+7946,story,,,2,1,pg,"Apple collaborating with Amazon, Google, and Cingular on new iReader?",http://scobleizer.com/2007/03/31/apple-collaborating-with-amazon-google-and-cingular-on-new-ireader/,,1175404578
+7945,comment,7935,7935,0,0,pg,,,"Practically all the current batch of YC startups are using S3.",1175404483
+7944,comment,7900,7932,0,0,pg,,,"All themselves.  These guys are literally what they\nseem on their show: four recent college grads in an\napt.",1175403933

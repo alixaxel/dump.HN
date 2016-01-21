@@ -1,0 +1,12 @@
+ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+37022,comment,36964,37010,0,0,rms,,,"I've heard that you can't have smoked marijuana more than 15 times in your life in order to get a government clearance.",1185504615
+37021,comment,37000,37000,0,0,marketer,,,"You're just replacing the data storage. XML has a lot more features, like schema validation and querying. \n",1185504337
+37020,comment,37000,37009,0,0,ryantmulligan,,,"attributes are a red herring in XML. attributes could just as easily be expressed as a child called attributes, or just by listing the attributes as children.",1185504299
+37019,comment,37018,37018,0,0,bootload,,,"Also a page for suggesting your ""coder(s)"" of choice ~ <a href=""http://www.codersatwork.com/shuffle.fhtml"" rel=""nofollow"">http://www.codersatwork.com/shuffle.fhtml</a> and read about it here ~ <a href=""http://www.gigamonkeys.com/blog/2007/07/17/coders-at-work-sorting.html"" rel=""nofollow"">http://www.gigamonkeys.com/blog/2007/07/17/coders-at-work-so...</a>",1185504214
+37018,story,,,1,1,bootload,"Coders at work Q's",http://www.codersatwork.com/questions.html,,1185504134
+37017,story,,,1,0,bootload,"My Friend Is a 72-Year Old Programmer",http://java.sys-con.com/read/405300.htm,,1185504097
+37016,story,,,2,0,bootload,"Semantic Web The Next Big Thing?",http://www.web2journal.com/read/407403.htm,,1185504068
+37015,story,,,2,0,bootload,"The Fast Pace of Information Transactions",http://www.web2journal.com/read/407174.htm,,1185504030
+37014,story,,,2,0,bootload,"Is Brooks Wrong? (9 women can't have a baby in 1 month)",http://on-ruby.blogspot.com/2007/05/is-brooks-wrong.html,,1185503974
+37013,comment,36964,36964,0,0,kieranoneill,,,"""2-4 programming experience preferably with JAVA or HTML""<p>Java OR HTML? Is that for real?",1185503827
+37012,story,,,5,1,nickb,"Video tutorials from Y! Doug Cockford: The JavaScript Programming Language",http://101out.com/jss.php,,1185502797

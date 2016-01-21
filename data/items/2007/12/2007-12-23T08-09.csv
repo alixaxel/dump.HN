@@ -1,7 +1,0 @@
-ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
-92164,comment,91911,91951,0,0,chaostheory,,,"Python is a great language... my only concern with it is Python 3000. <p>from <a href=""http://www.python.org/dev/peps/pep-3000/#timeline:"" rel=""nofollow"">http://www.python.org/dev/peps/pep-3000/#timeline:</a>
-""Python 3.0 will break backwards compatibility with Python 2.x.""<p>how do people using python account for this? (I think the timeline mentioned 2008 for Python 3.0 final)<p>this is really the only reason I'm hesistant to use Django beyond just experimentation",1198400150
-92163,comment,92162,92162,0,0,rms,,,"This seems to be the first quasi-confirmation that Think Secret's settlement involved Apple paying the Think Secret guy money.",1198399907
-92162,story,,,11,8,rms,"Apple Lawyering Up On ""Fake Steve Jobs""",http://yro.slashdot.org/yro/07/12/22/2039248.shtml,,1198399860
-92161,comment,92022,92022,0,0,chaostheory,,,"a lot of the (old school) large online retailers (ie. macys, williams sonoma, ...) use <a href=""http://www.yesmail.com/"" rel=""nofollow"">http://www.yesmail.com/</a>",1198399778
-92159,comment,92100,92100,0,0,jamesmusik,,,"james.m.aaron at gmail dot com",1198398366
