@@ -1,15 +1,15 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-pq,0,-29,0.0,2,6,,1185390565,1185390565
-pq_,0,1,0.0,1,0,,1354089443,1452907584
-pqdbr,,189,0.0,1,30,,1330733421,1450798375
-pqgvk3052,0,1,0.0,1,0,,1332775681,1452901360
-pqomdv,0,12,0.0,0,0,,1426521921,1453167253
-pqpuiq,0,43,0.0,0,0,,1428940978,1453168125
-pqqqqq,0,50,0.0,0,8,,1372796900,1452914414
-pqs,,266,1.90909,4,113,http://pere.quintanasegui.com,1202945481,1452853656
-pqseo14,,1,0.0,0,1,,1412943272,1450207814
-pquerna,,2361,0.0,42,246,"Now: ScaleFT CTO & co-founder https://www.scaleft.com/<p>formerly: cloudkick dude, rackspace racker. (yc w09, acquired dec 2010 by rackspace)<p>apache httpd hacker.<p>blog thing:\nhttp://journal.paul.querna.org/",1251464825,1452886443
-pquin,0,1,0.0,0,0,,1266138653,1452922593
-pquinter91,0,1,0.0,0,0,,1448159099,1453174476
-pquip,0,20,0.0,0,0,,1420314090,1453165817
-pqwy,,86,0.0,0,14,,1404843187,1450207814
+ID,Karma,About,Created,Updated
+pq,-29,,1185390565,1185390565
+pq_,1,,1354089443,1452907584
+pqdbr,189,,1330733421,1450798375
+pqgvk3052,1,,1332775681,1452901360
+pqomdv,12,,1426521921,1453167253
+pqpuiq,43,,1428940978,1453168125
+pqqqqq,50,,1372796900,1452914414
+pqs,266,http://pere.quintanasegui.com,1202945481,1452853656
+pqseo14,1,,1412943272,1450207814
+pquerna,2361,"Now: ScaleFT CTO & co-founder https://www.scaleft.com/<p>formerly: cloudkick dude, rackspace racker. (yc w09, acquired dec 2010 by rackspace)<p>apache httpd hacker.<p>blog thing:\nhttp://journal.paul.querna.org/",1251464825,1452886443
+pquin,1,,1266138653,1452922593
+pquinter91,1,,1448159099,1453174476
+pquip,20,,1420314090,1453165817
+pqwy,86,,1404843187,1450207814

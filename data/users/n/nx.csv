@@ -1,35 +1,35 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-NXUS,0,1,0.0,1,0,,1309935220,
-NXdev,0,1,0.0,0,0,,1452681187,1453175388
-NxAlessandro,0,1,0.0,0,2,"http://www.nitrografix.fr\nhttp://www.getdungeon.com",1383095112,
-NxSandro,0,1,0.0,0,1,"Ui/Ux Pirate",1406900281,1428654320
-NxWgvHDqlc,0,1,0.0,0,1,,1379170824,
-NxguiGui,0,5,0.0,0,6,,1291846418,
-nXqd,,18,1.02273,2,97,"I&#x27;m a generalist developer who is interested in #startup and #beautiful UI. I breath music and live creating stuffs. Friendly, passionate and open-minded :)<p>Personal thought: http://rhacker.github.com/",1312807608,1450207814
-nx,0,207,3.0,5,97,"Nicols Canevali<p>High school student, interested mostly in computer science and maths.<p>http://nicou.org\nnicou92@gmail.com",1230961752,1452887037
-nxanderson,0,1,0.0,1,0,,1332550855,1452900983
-nxb,0,183,0.0,0,0,,1438160917,1453171129
-nxbtch,,28,0.0,1,3,,1356425644,1450207814
-nxd,0,2,0.0,0,1,,1281957135,1452889775
-nxfxcom,0,1,0.0,0,1,,1263788043,1452888767
-nxgui,0,2,0.0,0,1,,1291131711,1452891720
-nxgui4,0,-4,0.0,0,1,,1296923608,1452892263
-nxh,,6,0.0,1,4,,1400053498,1450207814
-nxi,,32,0.0,1,4,,1417271843,1450267840
-nxm,0,4,0.0,0,0,,1447863292,1453174728
-nxn,,237,2.0,0,182,,1277865187,1450207814
-nxnfufunezn,0,175,0.0,0,0,,1416087655,1453169511
-nxnnxn,0,1,0.0,0,2,,1355621347,1452908182
-nxnw,0,1,0.0,2,0,,1297526406,1452892403
-nxon,0,2,0.0,1,0,,1340092112,1452903557
-nxpnsv,,10,0.0,0,7,,1370530781,1450207814
-nxr134,0,2,0.0,1,0,,1220475337,1452916938
-nxrfe,,1,0.0,0,1,"I manage Start Fund",1306263705,1450207814
-nxs,0,1,0.0,0,1,,1332178710,1452900855
-nxslong,0,1,0.0,1,0,,1369250360,1452912781
-nxtLVLdev,0,2,0.0,0,0,,1435952099,1453170833
-nxter,0,4,0.0,1,2,"My name is Thomas Tan (Tom) and I'm a co-founder of Kleekbots. \n--\nView and control your Lego Mindstorms NXT robot with your smartphone instantly. See live video stream. Share with one click. Works on desktop too. Get free robot build-instructions each month.<p>Techie Mindstorm robot owners have posted cool pages and videos that show them controlling their NXT robot with their iPhone or Android phone. These are one-off demo projects that require significant hardware and software programming and tweaking abilities. Other less techie NXT owners have asked how they could do the same because it's cool.<p>Kleekbots is a service that lets people control their robot with their smartphone instantly and requires no tweaking or programming. And more.<p>We are beginning to see a trend that converges physical toys with smartphones, devices and social networks. Kleekbots is our idea of a first step towards that direction.",1288693842,1452890538
-nxtnctno,0,1,0.0,0,1,,1342014838,1452904424
-nxtrader,0,1,0.0,0,1,,1344492418,1452905182
-nxttuesday,0,2,0.0,0,0,,1440626708,1453171869
-nxzrahul,0,1,0.0,1,0,,1325942948,1452899390
+ID,Karma,About,Created,Updated
+NXUS,1,,1309935220,
+NXdev,1,,1452681187,1453175388
+NxAlessandro,1,"http://www.nitrografix.fr\nhttp://www.getdungeon.com",1383095112,
+NxSandro,1,"Ui/Ux Pirate",1406900281,1428654320
+NxWgvHDqlc,1,,1379170824,
+NxguiGui,5,,1291846418,
+nXqd,18,"I&#x27;m a generalist developer who is interested in #startup and #beautiful UI. I breath music and live creating stuffs. Friendly, passionate and open-minded :)<p>Personal thought: http://rhacker.github.com/",1312807608,1450207814
+nx,207,"Nicols Canevali<p>High school student, interested mostly in computer science and maths.<p>http://nicou.org\nnicou92@gmail.com",1230961752,1452887037
+nxanderson,1,,1332550855,1452900983
+nxb,183,,1438160917,1453171129
+nxbtch,28,,1356425644,1450207814
+nxd,2,,1281957135,1452889775
+nxfxcom,1,,1263788043,1452888767
+nxgui,2,,1291131711,1452891720
+nxgui4,-4,,1296923608,1452892263
+nxh,6,,1400053498,1450207814
+nxi,32,,1417271843,1450267840
+nxm,4,,1447863292,1453174728
+nxn,237,,1277865187,1450207814
+nxnfufunezn,175,,1416087655,1453169511
+nxnnxn,1,,1355621347,1452908182
+nxnw,1,,1297526406,1452892403
+nxon,2,,1340092112,1452903557
+nxpnsv,10,,1370530781,1450207814
+nxr134,2,,1220475337,1452916938
+nxrfe,1,"I manage Start Fund",1306263705,1450207814
+nxs,1,,1332178710,1452900855
+nxslong,1,,1369250360,1452912781
+nxtLVLdev,2,,1435952099,1453170833
+nxter,4,"My name is Thomas Tan (Tom) and I'm a co-founder of Kleekbots. \n--\nView and control your Lego Mindstorms NXT robot with your smartphone instantly. See live video stream. Share with one click. Works on desktop too. Get free robot build-instructions each month.<p>Techie Mindstorm robot owners have posted cool pages and videos that show them controlling their NXT robot with their iPhone or Android phone. These are one-off demo projects that require significant hardware and software programming and tweaking abilities. Other less techie NXT owners have asked how they could do the same because it's cool.<p>Kleekbots is a service that lets people control their robot with their smartphone instantly and requires no tweaking or programming. And more.<p>We are beginning to see a trend that converges physical toys with smartphones, devices and social networks. Kleekbots is our idea of a first step towards that direction.",1288693842,1452890538
+nxtnctno,1,,1342014838,1452904424
+nxtrader,1,,1344492418,1452905182
+nxttuesday,2,,1440626708,1453171869
+nxzrahul,1,,1325942948,1452899390

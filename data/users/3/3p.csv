@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-3Pi,0,13,0.0,0,6,,1370557645,1442978760
-3Pointer,0,2,0.0,1,0,,1441160382,1441178081
-3PytbecKord,0,3,0.0,0,1,,1364339556,
-3piphany890,0,6,0.0,2,6,,1336277324,
-3pnews,0,1,0.0,16,0,,1341263139,
-3po,0,6,0.0,1,1,,1423642109,1427813499
-3princip,0,147,0.0,1,49,"[ my public key: https://keybase.io/vukicevic; my proof: https://keybase.io/vukicevic/sigs/KqGH1Vau9rg_p2cs7OWQy6E5HwQxmyQcZy7d_FFzLAQ ]",1402578237,1452608597
-3pt14159,0,7072,2.11364,83,1762,"zachaysan@gmail.com<p>http://blog.venn.lc<p><pre><code>  -----BEGIN PGP MESSAGE-----\n  Version: GnuPG v1.4.11 (GNU/Linux)\n  \n  jA0EAwMCndBp+5s8G7pgyX0IrJMPomUW39gCAWyriSjkyGhP74aY3L0lbb0ayGUC\n  UBJP6tme96O84UF8C6aeH+NlAGZe/eUJg8tinQmFU4Qj2piAYpMHboRMqzSud1UE\n  k3iFlc0NaxvoA/J0RsxQKavFLNvmMFA30gvRGOnFYiDJgAu6cehC2u04bLwxFA==\n  =D9bf\n  -----END PGP MESSAGE-----</code></pre>",1224607489,1452817853
-3putt,0,3,0.0,0,2,,1216571513,
+ID,Karma,About,Created,Updated
+3Pi,13,,1370557645,1442978760
+3Pointer,2,,1441160382,1441178081
+3PytbecKord,3,,1364339556,
+3piphany890,6,,1336277324,
+3pnews,1,,1341263139,
+3po,6,,1423642109,1427813499
+3princip,147,"[ my public key: https://keybase.io/vukicevic; my proof: https://keybase.io/vukicevic/sigs/KqGH1Vau9rg_p2cs7OWQy6E5HwQxmyQcZy7d_FFzLAQ ]",1402578237,1452608597
+3pt14159,7072,"zachaysan@gmail.com<p>http://blog.venn.lc<p><pre><code>  -----BEGIN PGP MESSAGE-----\n  Version: GnuPG v1.4.11 (GNU/Linux)\n  \n  jA0EAwMCndBp+5s8G7pgyX0IrJMPomUW39gCAWyriSjkyGhP74aY3L0lbb0ayGUC\n  UBJP6tme96O84UF8C6aeH+NlAGZe/eUJg8tinQmFU4Qj2piAYpMHboRMqzSud1UE\n  k3iFlc0NaxvoA/J0RsxQKavFLNvmMFA30gvRGOnFYiDJgAu6cehC2u04bLwxFA==\n  =D9bf\n  -----END PGP MESSAGE-----</code></pre>",1224607489,1452817853
+3putt,3,,1216571513,

@@ -1,5 +1,5 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-2FA,0,1,0.0,0,1,,1305305456,
-2Fdev2Fnull,0,1,0.0,0,1,,1437785918,1437786055
-2f3opkvelf,0,-4,0.0,0,1,,1424302495,1424305708
-2fishy,0,2,0.0,1,0,,1367934071,
+ID,Karma,About,Created,Updated
+2FA,1,,1305305456,
+2Fdev2Fnull,1,,1437785918,1437786055
+2f3opkvelf,-4,,1424302495,1424305708
+2fishy,2,,1367934071,

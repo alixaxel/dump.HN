@@ -1,37 +1,37 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-JQ-,0,7,0.0,2,0,,1419270591,1431731721
-JQuinn,0,12,0.0,3,11,"I am a college student who works for a DOD Contractor. I have been programming academically and recreationally for 5 years. I am always looking for something new to learn and have learned much from articles on HN.",1362498257,
-jQrgen,,1,0.0,1,0,,1367769291,1450207814
-jQueryIsAwesome,0,895,1.0,18,604,"@ivanca at twitter",1315663606,1452896490
-jQueryNinja,0,1,0.0,0,1,,1283101203,1452889908
-jqb,,37,0.0,2,3,,1302766299,1450207814
-jqdevl,0,7,0.0,2,0,,1287554485,1452890306
-jqgatsby,,21,0.0,0,27,,1285190247,1450207814
-jqhacker,0,1,0.0,0,1,,1296565856,1452892217
-jqhart,0,1,0.0,0,2,,1388012209,1452919579
-jqjester,,5,0.0,0,9,,1333545350,1450207814
-jqkeller,0,1,0.0,0,0,"Mechanical Engineer doing energy efficiency retrofits",1444407962,1453172944
-jqlik,0,4,0.0,0,0,,1443723781,1453172738
-jqm,,1682,1.47727,7,1525,,1386984696,1452902092
-jqm0,0,3,0.0,0,1,,1254321635,1452888374
-jqp,0,2,0.0,0,1,,1298489457,1452892498
-jqqqz,0,1,0.0,0,1,,1358555081,1452908948
-jqquah,0,1,0.0,0,3,,1338731959,1452910324
-jqr,,61,0.0,2,3,,1235200476,1450207814
-jqrd,0,1,0.0,0,1,"noprocrast? maxvisit? minaway? WTF??!?!?",1212925232,1452910105
-jqtrde,0,1,0.0,0,0,,1422924235,1453169408
-jquar,0,1,0.0,0,0,,1444542654,1453172967
-jquast,,83,0.0,1,50,https://jeffquast.com,1420051274,1452902092
-jquave,,8,0.0,13,3,,1309566287,1450207814
-jquerider,0,1,0.0,1,0,,1363804379,1452911035
-jquery,,1552,3.75,6,482,,1241643986,1451612253
-jqueryfan33,,11,0.0,2,5,,1333027502,1450207814
-jqueryin,,1404,1.36364,187,408,"I build and break things as the lead developer at POP.co. In my spare time I brew beer, work on my hydroponic vegetable growing skills, organize the Queen City PHP meetup in Charlotte, work on OSS, build MVPs for my ideas, and run a bunch of sites.<p><pre><code>    * https://pop.co\n    * http://www.coreyballou.co\n    * http://www.blackbe.lt/author/corey\n    * http://www.qcphp.org\n    * http://www.careprice.com\n    * http://www.mofollow.com\n    * http://www.bitcoined.co\n\n    Social:\n\n    * http://twitter.com/cballou\n    * http://github.com/cballou\n    * http://stackoverflow.com/users/185882/cballou\n    * https://plus.google.com/+coreyballou\n</code></pre>\nIf you want to reach out to me, mention HN in the subject at corey@coreyballou.com.<p>[ my public key: https://keybase.io/coreyballou; my proof: https://keybase.io/coreyballou/sigs/FjUfrzNmqSMFxSbU8UB6oUp04qD8IEK9QO2OT0afqqE ]",1250547999,1450795466
-jquerylover,0,1,0.0,3,0,"Sydney based web developer and designer, I love jquery and photoshop. I consult to large ad agencies across the world. I blog at http://ashley-jquerylover.blogspot.com.",1303905781,1452893517
-jqueryuser2011,0,7,0.0,0,1,,1304880000,1452893643
-jqueue,0,-1,0.0,0,1,,1335220008,1452902370
-jquigley,0,1,0.0,1,1,,1183409015,1183409015
-jquiksilver13,0,1,0.0,0,0,,1437587369,1453170966
-jquinnmm,0,1,0.0,0,1,,1351561477,1452907024
-jquip,0,2,0.0,0,0,,1443610731,1453172831
-jqwerqlkwjgoi,,43,0.0,0,2,,1418067421,1450267840
+ID,Karma,About,Created,Updated
+JQ-,7,,1419270591,1431731721
+JQuinn,12,"I am a college student who works for a DOD Contractor. I have been programming academically and recreationally for 5 years. I am always looking for something new to learn and have learned much from articles on HN.",1362498257,
+jQrgen,1,,1367769291,1450207814
+jQueryIsAwesome,895,"@ivanca at twitter",1315663606,1452896490
+jQueryNinja,1,,1283101203,1452889908
+jqb,37,,1302766299,1450207814
+jqdevl,7,,1287554485,1452890306
+jqgatsby,21,,1285190247,1450207814
+jqhacker,1,,1296565856,1452892217
+jqhart,1,,1388012209,1452919579
+jqjester,5,,1333545350,1450207814
+jqkeller,1,"Mechanical Engineer doing energy efficiency retrofits",1444407962,1453172944
+jqlik,4,,1443723781,1453172738
+jqm,1682,,1386984696,1452902092
+jqm0,3,,1254321635,1452888374
+jqp,2,,1298489457,1452892498
+jqqqz,1,,1358555081,1452908948
+jqquah,1,,1338731959,1452910324
+jqr,61,,1235200476,1450207814
+jqrd,1,"noprocrast? maxvisit? minaway? WTF??!?!?",1212925232,1452910105
+jqtrde,1,,1422924235,1453169408
+jquar,1,,1444542654,1453172967
+jquast,83,https://jeffquast.com,1420051274,1452902092
+jquave,8,,1309566287,1450207814
+jquerider,1,,1363804379,1452911035
+jquery,1552,,1241643986,1451612253
+jqueryfan33,11,,1333027502,1450207814
+jqueryin,1404,"I build and break things as the lead developer at POP.co. In my spare time I brew beer, work on my hydroponic vegetable growing skills, organize the Queen City PHP meetup in Charlotte, work on OSS, build MVPs for my ideas, and run a bunch of sites.<p><pre><code>    * https://pop.co\n    * http://www.coreyballou.co\n    * http://www.blackbe.lt/author/corey\n    * http://www.qcphp.org\n    * http://www.careprice.com\n    * http://www.mofollow.com\n    * http://www.bitcoined.co\n\n    Social:\n\n    * http://twitter.com/cballou\n    * http://github.com/cballou\n    * http://stackoverflow.com/users/185882/cballou\n    * https://plus.google.com/+coreyballou\n</code></pre>\nIf you want to reach out to me, mention HN in the subject at corey@coreyballou.com.<p>[ my public key: https://keybase.io/coreyballou; my proof: https://keybase.io/coreyballou/sigs/FjUfrzNmqSMFxSbU8UB6oUp04qD8IEK9QO2OT0afqqE ]",1250547999,1450795466
+jquerylover,1,"Sydney based web developer and designer, I love jquery and photoshop. I consult to large ad agencies across the world. I blog at http://ashley-jquerylover.blogspot.com.",1303905781,1452893517
+jqueryuser2011,7,,1304880000,1452893643
+jqueue,-1,,1335220008,1452902370
+jquigley,1,,1183409015,1183409015
+jquiksilver13,1,,1437587369,1453170966
+jquinnmm,1,,1351561477,1452907024
+jquip,2,,1443610731,1453172831
+jqwerqlkwjgoi,43,,1418067421,1450267840

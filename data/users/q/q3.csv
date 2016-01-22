@@ -1,4 +1,4 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-q3dm17,0,2,0.0,0,1,,1374523132,1452914922
-q3k,,384,3.45455,4,142,"http://q3k.org/<p>I send electrons in various directions at various intervals.",1360070642,1452811739
-q3sniper,,8,0.0,0,3,,1418516946,1450267840
+ID,Karma,About,Created,Updated
+q3dm17,2,,1374523132,1452914922
+q3k,384,"http://q3k.org/<p>I send electrons in various directions at various intervals.",1360070642,1452811739
+q3sniper,8,,1418516946,1450267840

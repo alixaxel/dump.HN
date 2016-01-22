@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-i507244,0,1,0.0,0,0,,1447179640,1453173708
-i573323,0,3,0.0,0,0,,1447275000,1453173802
-i5ao,,5,0.0,0,9,,1269722268,1450207814
-i5b,0,1,0.0,1,2,,1332831978,1452901145
-i5bala,0,3,0.0,1,1,,1234457539,1452887175
-i5bala_i5bala,0,1,0.0,1,0,"Geek, Entrepreneur, more at http://www.i5bala.com",1319280992,1452897883
-i5baladotcom,0,2,0.0,0,1,"I am the CEO/Chief Architect and Founder of SweetCircles.com, a Social Weblogging Platform and LoveLogger.com, World's First Pair-Blogging Platform.<p>I am a passionate Geek, Tech junkie, Web Developer & Designer, Information Architect, Blogger, Wikipedian, Social Media Architect, Writer, SEO Analyst, Java, Open Source programmer.<p>My  includes Agile web development, Holistic User Interface and Interaction Design, Fascinated in building Innovative and Creative stuffs, Web design patterns and prototyping, Typography, Japanese culture, Kaizen, Singularity, Comics, Watching JDrama, Futuristic technologies, Robots.<p>More about me at : http://www.i5bala.com",1280313546,1452889673
-i5rider,,3,0.0,0,2,"Embedded Sw Engineer. Android/Symbian and multimedia field, mostly audio and video streaming.",1301940528,1450207814
-i5user,0,1,0.0,2,0,,1336036001,1452902611
+ID,Karma,About,Created,Updated
+i507244,1,,1447179640,1453173708
+i573323,3,,1447275000,1453173802
+i5ao,5,,1269722268,1450207814
+i5b,1,,1332831978,1452901145
+i5bala,3,,1234457539,1452887175
+i5bala_i5bala,1,"Geek, Entrepreneur, more at http://www.i5bala.com",1319280992,1452897883
+i5baladotcom,2,"I am the CEO/Chief Architect and Founder of SweetCircles.com, a Social Weblogging Platform and LoveLogger.com, World's First Pair-Blogging Platform.<p>I am a passionate Geek, Tech junkie, Web Developer & Designer, Information Architect, Blogger, Wikipedian, Social Media Architect, Writer, SEO Analyst, Java, Open Source programmer.<p>My  includes Agile web development, Holistic User Interface and Interaction Design, Fascinated in building Innovative and Creative stuffs, Web design patterns and prototyping, Typography, Japanese culture, Kaizen, Singularity, Comics, Watching JDrama, Futuristic technologies, Robots.<p>More about me at : http://www.i5bala.com",1280313546,1452889673
+i5rider,3,"Embedded Sw Engineer. Android/Symbian and multimedia field, mostly audio and video streaming.",1301940528,1450207814
+i5user,1,,1336036001,1452902611

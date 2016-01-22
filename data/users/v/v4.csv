@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-v413,,105,0.0,0,32,,1274664033,1452515239
-v41YH0c,0,2,0.0,0,0,,1433266664,1453169608
-v42134,0,1,0.0,0,1,,1262925400,1452888724
-v4300,0,1,0.0,0,0,,1420846824,1453165109
-v4dbtutorials,0,2,0.0,12,0,,1300919763,1452893128
-v4n4d1s,0,678,0.0,0,0,"Founder & CEO, Interested in general IT-Management.",1424354051,1453166356
-v4us,,572,1.0,107,31,"Computer scientist and grad student.\npattern recognition, Data mining and AI<p>I'm working in Face Detection and Recognition area for now.",1241865940,1450207814
-v4vbasic,0,2,0.0,11,0,,1300919717,1452893232
-v4violetta,0,1,0.0,0,0,"Always hacking things.",1426575453,1453167384
+ID,Karma,About,Created,Updated
+v413,105,,1274664033,1452515239
+v41YH0c,2,,1433266664,1453169608
+v42134,1,,1262925400,1452888724
+v4300,1,,1420846824,1453165109
+v4dbtutorials,2,,1300919763,1452893128
+v4n4d1s,678,"Founder & CEO, Interested in general IT-Management.",1424354051,1453166356
+v4us,572,"Computer scientist and grad student.\npattern recognition, Data mining and AI<p>I'm working in Face Detection and Recognition area for now.",1241865940,1450207814
+v4vbasic,2,,1300919717,1452893232
+v4violetta,1,"Always hacking things.",1426575453,1453167384

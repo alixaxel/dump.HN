@@ -1,49 +1,49 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-LWCARAB,0,18,0.0,5,5,"Bachelor of Science in European Computing. Currently working as an IT Consultant in London.",1237029332,
-LWMag,0,1,0.0,1,0,,1347823519,
-Lward,0,-20,0.0,0,3,,1418158602,1418194919
-Lwerewolf,0,8,0.0,1,1,"Generally interested in anything with the words &quot;high-performance&quot;, &quot;reliability&quot; or &quot;low level&quot;.\nCurrently working on PCI-E windows drivers, short-term plans include x86 assembly, linux drivers, ACPI, VHDL and/or Verilog.",1437169464,1437314143
-lw0x15,0,0,0.0,0,5,"IT Student.",1234691202,1452888234
-lw7rc4dt,0,1,0.0,1,0,,1311245668,1452895170
-lwade,0,6,0.0,1,0,,1375434439,1452915285
-lwagner,,1,0.0,0,1,,1409988576,1450207814
-lwalker,0,1,0.0,0,2,,1343838746,1452905024
-lwall_mba,,1,0.0,2,3,,1381720781,1450207814
-lwalley,,18,0.0,0,6,,1218902433,1450207814
-lwan,0,16,0.0,0,17,,1383665593,1452918128
-lwander,0,2,0.0,0,0,,1407960032,1453172954
-lwarren,0,3,0.0,4,1,,1299789948,1452892672
-lwat,0,1222,3.0,2,506,,1290589406,1452891993
-lwbing,0,1,0.0,1,0,,1319553366,1452904688
-lwc123,0,344,0.0,43,0,,1245095614,1452887978
-lwcd,0,13,0.0,1,4,,1325734047,1452899344
-lwe,0,1,0.0,0,0,,1372180304,1453175250
-lwelch,0,1,0.0,1,0,,1337784962,1452903112
-lwelly,,1,0.0,0,1,,1416752829,1450207814
-lwelton,0,2,0.0,1,0,,1343061678,1452904722
-lwelyk,0,5,0.0,0,0,,1398703195,1453172565
-lwestlie,0,10,0.0,3,2,"Just a kid, with crazy ideas, trying to be like no one before.",1331339417,1452900562
-lwf,,525,4.2619,18,105,"https://luke.wf<p>http://twitter.com/lfaraone<p>COI disclaimer:\n    https://en.wikipedia.org/wiki/User:LFaraone/Affiliations<p>[ my public key: https://keybase.io/lfaraone; my proof: https://keybase.io/lfaraone/sigs/6o4P6-K6M9rk-AkC7eWiiVA49d8i03k03VozHhK8Ssw ]",1311703158,1452876380
-lwgdhn,,5,0.0,0,4,,1417629422,1450267840
-lwgray,0,2,0.0,0,0,"PhD in Cellular and Molecular Physiology from Johns Hopkins University, School of Medicine... Now a postdoc at NIH National Center for Biotechnology Information in Computational Biology Branch",1399372893,1453166199
-lwh,,62,0.0,1,33,"[ my public key: https://keybase.io/lwh; my proof: https://keybase.io/lwh/sigs/o9rwG1OUV2ps9f9W_pYVEBXj3O3Kgc5CDjorg1-hlFE ]",1378750175,1450207814
-lwhalen,,293,2.22727,1,192,"Leading an 8-piece funk band makes me an entrepreneur, right?  Maybe &quot;small business owner&quot;?<p>http://www.soulphonicband.com",1268151532,1452098065
-lwheng,0,1,0.0,1,0,http://about.me/lwheng,1361847901,1452920302
-lwhi,,2092,2.02273,18,892,"lukus dot public at gmail dot com",1256597286,1450207814
-lwilliams,0,3,0.0,1,0,,1378401657,1452916122
-lwilliamsjr,0,1,0.0,0,1,,1401462252,1452924822
-lwillming,,1,0.0,0,1,,1386086013,1450207814
-lwilsonsmith,0,1,0.0,0,0,,1431377203,1453169038
-lwinkler,,9,0.0,0,4,,1289468085,1450207814
-lwjhere,,1,0.0,2,1,,1315309308,1450207814
-lwliget62,0,1,0.0,1,0,,1319018623,1452897801
-lwm,0,1,0.0,13,24,"I lurk this site daily. It's time to join the masses ;)",1334828045,1452902370
-lwmasterson,0,7,0.0,18,0,,1320702068,1452898305
-lwong,0,3,0.0,3,3,,1322716481,1452898619
-lwoodson,0,1,0.0,2,1,,1281538781,1452889716
-lwsclrk,0,1,0.0,0,1,,1376572916,1452919906
-lwsg3sms,0,1,0.0,1,0,,1305806259,1452893808
-lwu,0,1,0.0,0,1,,1174841354,1174841354
-lwute,0,5,0.0,0,2,,1368921839,1452912621
-lww,,-1,0.0,0,6,,1351618841,1450207814
-lwyr,0,23,0.0,0,0,,1365610416,1453172856
+ID,Karma,About,Created,Updated
+LWCARAB,18,"Bachelor of Science in European Computing. Currently working as an IT Consultant in London.",1237029332,
+LWMag,1,,1347823519,
+Lward,-20,,1418158602,1418194919
+Lwerewolf,8,"Generally interested in anything with the words &quot;high-performance&quot;, &quot;reliability&quot; or &quot;low level&quot;.\nCurrently working on PCI-E windows drivers, short-term plans include x86 assembly, linux drivers, ACPI, VHDL and/or Verilog.",1437169464,1437314143
+lw0x15,0,"IT Student.",1234691202,1452888234
+lw7rc4dt,1,,1311245668,1452895170
+lwade,6,,1375434439,1452915285
+lwagner,1,,1409988576,1450207814
+lwalker,1,,1343838746,1452905024
+lwall_mba,1,,1381720781,1450207814
+lwalley,18,,1218902433,1450207814
+lwan,16,,1383665593,1452918128
+lwander,2,,1407960032,1453172954
+lwarren,3,,1299789948,1452892672
+lwat,1222,,1290589406,1452891993
+lwbing,1,,1319553366,1452904688
+lwc123,344,,1245095614,1452887978
+lwcd,13,,1325734047,1452899344
+lwe,1,,1372180304,1453175250
+lwelch,1,,1337784962,1452903112
+lwelly,1,,1416752829,1450207814
+lwelton,2,,1343061678,1452904722
+lwelyk,5,,1398703195,1453172565
+lwestlie,10,"Just a kid, with crazy ideas, trying to be like no one before.",1331339417,1452900562
+lwf,525,"https://luke.wf<p>http://twitter.com/lfaraone<p>COI disclaimer:\n    https://en.wikipedia.org/wiki/User:LFaraone/Affiliations<p>[ my public key: https://keybase.io/lfaraone; my proof: https://keybase.io/lfaraone/sigs/6o4P6-K6M9rk-AkC7eWiiVA49d8i03k03VozHhK8Ssw ]",1311703158,1452876380
+lwgdhn,5,,1417629422,1450267840
+lwgray,2,"PhD in Cellular and Molecular Physiology from Johns Hopkins University, School of Medicine... Now a postdoc at NIH National Center for Biotechnology Information in Computational Biology Branch",1399372893,1453166199
+lwh,62,"[ my public key: https://keybase.io/lwh; my proof: https://keybase.io/lwh/sigs/o9rwG1OUV2ps9f9W_pYVEBXj3O3Kgc5CDjorg1-hlFE ]",1378750175,1450207814
+lwhalen,293,"Leading an 8-piece funk band makes me an entrepreneur, right?  Maybe &quot;small business owner&quot;?<p>http://www.soulphonicband.com",1268151532,1452098065
+lwheng,1,http://about.me/lwheng,1361847901,1452920302
+lwhi,2092,"lukus dot public at gmail dot com",1256597286,1450207814
+lwilliams,3,,1378401657,1452916122
+lwilliamsjr,1,,1401462252,1452924822
+lwillming,1,,1386086013,1450207814
+lwilsonsmith,1,,1431377203,1453169038
+lwinkler,9,,1289468085,1450207814
+lwjhere,1,,1315309308,1450207814
+lwliget62,1,,1319018623,1452897801
+lwm,1,"I lurk this site daily. It's time to join the masses ;)",1334828045,1452902370
+lwmasterson,7,,1320702068,1452898305
+lwong,3,,1322716481,1452898619
+lwoodson,1,,1281538781,1452889716
+lwsclrk,1,,1376572916,1452919906
+lwsg3sms,1,,1305806259,1452893808
+lwu,1,,1174841354,1174841354
+lwute,5,,1368921839,1452912621
+lww,-1,,1351618841,1450207814
+lwyr,23,,1365610416,1453172856

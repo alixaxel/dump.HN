@@ -1,8 +1,8 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-G5ANDY,0,342,0.0,14,7,"I study motivation and implicit and explicit psychological processes.",1332761895,1440711149
-G5f3,0,5,0.0,0,1,,1311929303,
-g534345,,18,0.0,0,1,,1417961629,1450267840
-g5411704,0,3,0.0,0,0,,1434533097,1453169993
-g544s,0,3,0.0,0,1,,1341204746,1452904047
-g5604,0,1,0.0,0,1,,1363896466,1452911268
-g5pw,,8,0.0,0,2,"I'm a physics student, my interests are HAM radio, electronics, robotics and IT.",1319232175,1450207814
+ID,Karma,About,Created,Updated
+G5ANDY,342,"I study motivation and implicit and explicit psychological processes.",1332761895,1440711149
+G5f3,5,,1311929303,
+g534345,18,,1417961629,1450267840
+g5411704,3,,1434533097,1453169993
+g544s,3,,1341204746,1452904047
+g5604,1,,1363896466,1452911268
+g5pw,8,"I'm a physics student, my interests are HAM radio, electronics, robotics and IT.",1319232175,1450207814

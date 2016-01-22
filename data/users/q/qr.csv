@@ -1,28 +1,28 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-QReserve,0,1,0.0,1,0,,1405606808,
-qrasi,0,1,0.0,0,0,,1444369004,1453172954
-qraving,0,1,0.0,0,1,,1302273371,1452893954
-qrazhan,,38,0.0,7,6,"Berkeley CS major, currently Mobile Engineering Intern at Lockitron (YC S09)",1402953493,1450207814
-qreesp,,1,0.0,0,1,,1365748143,1450207814
-qrendel,0,320,0.0,0,0,,1421319246,1453165733
-qresolve23,0,1,0.0,35,0,,1323338505,1452898811
-qrew1,0,1,0.0,2,0,,1351527959,1452907024
-qrgnote,0,1,0.0,0,2,,1312645024,1452896391
-qria,0,2,0.0,0,0,,1428914426,1453168111
-qrian,0,1,0.0,0,0,,1452155911,1453282995
-qribd,0,2,0.0,0,0,,1422628076,1453165710
-qrios,0,1,0.0,1,0,,1358567821,1452920817
-qrlawified,,103,1.0,16,23,,1317304963,1450207814
-qrlr,,1,0.0,1,0,,1412958823,1450207814
-qrmn,0,215,0.0,0,0,"I&#x27;m working on stuff.<p>[ my public key: https://keybase.io/qrmn; my proof: https://keybase.io/qrmn/sigs/mBWDW3OO_FcdMnbd0x8kPVO19CDL-jclGrIgboSvYH0 ]",1428428527,1453167926
-qrohlf,,367,0.0,7,31,"[ my public key: https://keybase.io/qrohlf; my proof: https://keybase.io/qrohlf/sigs/GrDB8ErZ4MNlqsHwVA1zqS7d0-wT8UoJv7fqTzQ7mtQ ]",1369760921,1450207814
-qroukema,0,1,0.0,1,0,,1372367825,1452914259
-qrpike,0,11,0.0,0,0,"Web Developer. Worked for places like Cartoon Network, CNN and Google.",1378394264,1453165780
-qrpoems,0,1,0.0,1,0,,1290929799,1452891611
-qrpth,,0,0.0,0,1,,1368908974,1450207814
-qrr971,0,10,0.0,0,2,,1377793315,1452915890
-qrs,,1,0.0,1,1,,1410208958,1450207814
-qrspotguy,0,1,0.0,1,1,,1332768635,1452901076
-qrush,,1633,4.77273,51,87,"Programmer at Basecamp, Husband to @aquaranto, Husky wrangler, RIT Alum, http://rubygems.org Mechanic.",1233810333,1450207814
-qrv3w,0,13,0.0,0,0,"Programmer hobbyist",1430660217,1453173156
-qrybam,,79,2.58333,6,37,,1282867087,1450207814
+ID,Karma,About,Created,Updated
+QReserve,1,,1405606808,
+qrasi,1,,1444369004,1453172954
+qraving,1,,1302273371,1452893954
+qrazhan,38,"Berkeley CS major, currently Mobile Engineering Intern at Lockitron (YC S09)",1402953493,1450207814
+qreesp,1,,1365748143,1450207814
+qrendel,320,,1421319246,1453165733
+qresolve23,1,,1323338505,1452898811
+qrew1,1,,1351527959,1452907024
+qrgnote,1,,1312645024,1452896391
+qria,2,,1428914426,1453168111
+qrian,1,,1452155911,1453282995
+qribd,2,,1422628076,1453165710
+qrios,1,,1358567821,1452920817
+qrlawified,103,,1317304963,1450207814
+qrlr,1,,1412958823,1450207814
+qrmn,215,"I&#x27;m working on stuff.<p>[ my public key: https://keybase.io/qrmn; my proof: https://keybase.io/qrmn/sigs/mBWDW3OO_FcdMnbd0x8kPVO19CDL-jclGrIgboSvYH0 ]",1428428527,1453167926
+qrohlf,367,"[ my public key: https://keybase.io/qrohlf; my proof: https://keybase.io/qrohlf/sigs/GrDB8ErZ4MNlqsHwVA1zqS7d0-wT8UoJv7fqTzQ7mtQ ]",1369760921,1450207814
+qroukema,1,,1372367825,1452914259
+qrpike,11,"Web Developer. Worked for places like Cartoon Network, CNN and Google.",1378394264,1453165780
+qrpoems,1,,1290929799,1452891611
+qrpth,0,,1368908974,1450207814
+qrr971,10,,1377793315,1452915890
+qrs,1,,1410208958,1450207814
+qrspotguy,1,,1332768635,1452901076
+qrush,1633,"Programmer at Basecamp, Husband to @aquaranto, Husky wrangler, RIT Alum, http://rubygems.org Mechanic.",1233810333,1450207814
+qrv3w,13,"Programmer hobbyist",1430660217,1453173156
+qrybam,79,,1282867087,1450207814

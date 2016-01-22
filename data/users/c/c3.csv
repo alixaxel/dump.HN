@@ -1,15 +1,15 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-C3MDigital,0,1,0.0,0,1,,1266618306,
-c3,,73,0.0,0,23,"womp womp http://entp.com",1239415649,1450207814
-c301,,1,0.0,0,1,,1383769449,1450207814
-c3534l,0,256,0.0,0,0,,1431663704,1453169153
-c3RlcGhlbnI_,,71,0.0,0,25,,1411229216,1450207814
-c3d,,306,2.22727,70,75,,1320920143,1450207814
-c3kwue,0,7,0.0,2,6,,1382874867,1452917786
-c3m,0,23,0.0,1,4,,1291215424,1452891720
-c3na,0,1,0.0,0,0,,1424019363,1453166159
-c3ntr1n0,0,1,0.0,0,1,,1403493873,1452925934
-c3o,,537,3.75,5,117,"Former startup founder (soup.io, Seedcamp 2008), now working in the European Parliament<p><3 empowering people with social software, information design, innovative web UI, javascript, encouraging entrepreneurship, indie music, film, cities.<p>http://soup.c3o.org\nhttp://twitter.com/c3o\nhttp://www.linkedin.com/in/christopherclay",1193771648,1452297109
-c3ouieu28763,0,-2,0.0,0,1,,1328851137,1452899953
-c3pohknow,0,1,0.0,0,1,,1304371853,1452893560
-c3vin,0,13,0.0,0,7,,1316799873,1452897594
+ID,Karma,About,Created,Updated
+C3MDigital,1,,1266618306,
+c3,73,"womp womp http://entp.com",1239415649,1450207814
+c301,1,,1383769449,1450207814
+c3534l,256,,1431663704,1453169153
+c3RlcGhlbnI_,71,,1411229216,1450207814
+c3d,306,,1320920143,1450207814
+c3kwue,7,,1382874867,1452917786
+c3m,23,,1291215424,1452891720
+c3na,1,,1424019363,1453166159
+c3ntr1n0,1,,1403493873,1452925934
+c3o,537,"Former startup founder (soup.io, Seedcamp 2008), now working in the European Parliament<p><3 empowering people with social software, information design, innovative web UI, javascript, encouraging entrepreneurship, indie music, film, cities.<p>http://soup.c3o.org\nhttp://twitter.com/c3o\nhttp://www.linkedin.com/in/christopherclay",1193771648,1452297109
+c3ouieu28763,-2,,1328851137,1452899953
+c3pohknow,1,,1304371853,1452893560
+c3vin,13,,1316799873,1452897594

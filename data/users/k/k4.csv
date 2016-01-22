@@ -1,18 +1,18 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-k413,0,1,0.0,1,0,,1363166220,1452910766
-k42030144,0,-9,0.0,0,0,,1421036665,1453165168
-k4gdw,0,1,0.0,0,1,,1348617459,1452906276
-k4jh,,548,0.0,72,1,"[ my public key: https://keybase.io/k4jh; my proof: https://keybase.io/k4jh/sigs/i-IvskDjrqKLMVe0xs8AmPMu3YDpCeNfJNuhCJoyqAQ ]",1409368932,1450207814
-k4l3,0,9,0.0,0,0,,1446222474,1453174476
-k4llisti,0,1,0.0,0,0,,1424875631,1453166609
-k4ml,0,1,0.0,0,1,,1304832283,1452893643
-k4renio,0,34,0.0,0,0,,1423913309,1453166545
-k4rizma,0,1,0.0,0,1,,1308589379,1452894379
-k4roshi,0,4,0.0,0,2,,1330005049,1452900235
-k4rthik,,16,0.0,1,12,,1379852197,1450207814
-k4rtik,,67,0.0,11,9,"Tech Enthusiast, Programmer, Web Aficionado.<p>Programming Languages, Operating Systems & Distributed Systems, Software Engineering.<p>CSE at NIT Calicut (2013)<p>http://techglider.in<p>[ my public key: https://keybase.io/k4rtik; my proof: https://keybase.io/k4rtik/sigs/Cbc7hRfxSyp5hD88_JsetWbUPGXaX3Nzw33jxjcNKuY ]",1295082964,1450207814
-k4rulez,0,1,0.0,0,1,,1348763991,1452906326
-k4st,,105,1.79545,0,86,"Personal website: http://www.petergoodman.me<p>GitHub profile: https://github.com/pgoodman",1171943175,1439553244
-k4stor,0,2,0.0,0,1,,1372963829,1452914460
-k4v1r4j,,6,0.0,3,0,"Programmer, history explorer",1367577661,1450207814
-k4yry,0,1,0.0,1,0,,1314789517,1452896359
+ID,Karma,About,Created,Updated
+k413,1,,1363166220,1452910766
+k42030144,-9,,1421036665,1453165168
+k4gdw,1,,1348617459,1452906276
+k4jh,548,"[ my public key: https://keybase.io/k4jh; my proof: https://keybase.io/k4jh/sigs/i-IvskDjrqKLMVe0xs8AmPMu3YDpCeNfJNuhCJoyqAQ ]",1409368932,1450207814
+k4l3,9,,1446222474,1453174476
+k4llisti,1,,1424875631,1453166609
+k4ml,1,,1304832283,1452893643
+k4renio,34,,1423913309,1453166545
+k4rizma,1,,1308589379,1452894379
+k4roshi,4,,1330005049,1452900235
+k4rthik,16,,1379852197,1450207814
+k4rtik,67,"Tech Enthusiast, Programmer, Web Aficionado.<p>Programming Languages, Operating Systems & Distributed Systems, Software Engineering.<p>CSE at NIT Calicut (2013)<p>http://techglider.in<p>[ my public key: https://keybase.io/k4rtik; my proof: https://keybase.io/k4rtik/sigs/Cbc7hRfxSyp5hD88_JsetWbUPGXaX3Nzw33jxjcNKuY ]",1295082964,1450207814
+k4rulez,1,,1348763991,1452906326
+k4st,105,"Personal website: http://www.petergoodman.me<p>GitHub profile: https://github.com/pgoodman",1171943175,1439553244
+k4stor,2,,1372963829,1452914460
+k4v1r4j,6,"Programmer, history explorer",1367577661,1450207814
+k4yry,1,,1314789517,1452896359

@@ -1,34 +1,34 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-YL108,,12,0.0,3,6,,1381923520,1450207814
-yl1971,,1,0.0,0,3,,1337590899,1450267840
-yla,0,1,0.0,0,3,,1357912898,1452915572
-yla92,,1578,1.85714,67,41,https://github.com/yelinaung,1380469263,1450207814
-ylaassel,,11,0.0,0,3,"A world citizen seeking to better life through software.",1333341944,1450207814
-ylabidi,,9,0.0,1,3,,1364190211,1450207814
-ylansegal,,6,0.0,4,3,,1354554426,1450207814
-ylarrivee,0,1,0.0,1,0,,1346955854,1452905931
-ylatuya,0,11,0.0,2,2,,1275522594,1452892737
-ylchaithanya,,1,0.0,0,1,,1363292145,1450207814
-ylcn39810,0,1,0.0,2,0,,1318299149,1452897529
-ylcy577op,0,1,0.0,2,0,,1336221049,1452902681
-ylem,,530,1.52273,27,232,,1290849328,1452306488
-ylere,0,6,0.0,0,0,,1438636425,1453171269
-ylesaout,,2,0.0,0,4,,1340746326,1450207814
-ylevy,0,1,0.0,5,0,"News and info freak.",1315848351,1452897283
-ylg,,38,0.0,0,18,"This is Yuri. Professionally speaking, I think of myself as an independent developer of high-ROI software for web and mobile. Non-professionally: an nutcase on a mountain bike. More at http://www.sensedata.com/about/us#yuri",1306204558,1450207814
-ylh,0,9,0.0,0,0,,1445042760,1453173131
-ylhert,,54,0.0,3,17,,1397519658,1450222265
-ylian,,95,0.0,4,19,"I am an iOS, Mac and Web developer focusing on building productivity and educational apps.",1380838096,1450207814
-yliang,,213,0.0,1,13,,1416722150,1450267840
-yliang84,0,1,0.0,0,1,,1322751012,1452898664
-yliss,,1,0.0,1,0,,1415282893,1450207814
-yliu,,6,0.0,0,4,"O(n) person in an O(log n) world.",1205997247,1450207814
-yliuaaron,0,1,0.0,0,0,,1429896784,1453168450
-yllow,0,2,0.0,0,0,,1421127063,1453168008
-ylluminate,,16,0.0,4,18,,1343335039,1450207814
-yllus,,152,2.78788,5,42,"Manager of Web Development at Rogers Media in Toronto, Canada. Personal website at http://yllus.com/ , or tweet me at https://twitter.com/sullysyed .",1297790105,1450207814
-yloiseau,0,1,0.0,0,1,,1298272355,1452892466
-ylou,,6,0.0,0,4,"I also go by moofins.",1369008648,1450207814
-ylove,0,1,0.0,0,0,,1428704450,1453168034
-ylujion,0,1,0.0,2,0,,1329947508,1452900235
-yluo,0,2,0.0,1,0,"writer / developer / designer",1353864023,1452908274
+ID,Karma,About,Created,Updated
+YL108,12,,1381923520,1450207814
+yl1971,1,,1337590899,1450267840
+yla,1,,1357912898,1452915572
+yla92,1578,https://github.com/yelinaung,1380469263,1450207814
+ylaassel,11,"A world citizen seeking to better life through software.",1333341944,1450207814
+ylabidi,9,,1364190211,1450207814
+ylansegal,6,,1354554426,1450207814
+ylarrivee,1,,1346955854,1452905931
+ylatuya,11,,1275522594,1452892737
+ylchaithanya,1,,1363292145,1450207814
+ylcn39810,1,,1318299149,1452897529
+ylcy577op,1,,1336221049,1452902681
+ylem,530,,1290849328,1452306488
+ylere,6,,1438636425,1453171269
+ylesaout,2,,1340746326,1450207814
+ylevy,1,"News and info freak.",1315848351,1452897283
+ylg,38,"This is Yuri. Professionally speaking, I think of myself as an independent developer of high-ROI software for web and mobile. Non-professionally: an nutcase on a mountain bike. More at http://www.sensedata.com/about/us#yuri",1306204558,1450207814
+ylh,9,,1445042760,1453173131
+ylhert,54,,1397519658,1450222265
+ylian,95,"I am an iOS, Mac and Web developer focusing on building productivity and educational apps.",1380838096,1450207814
+yliang,213,,1416722150,1450267840
+yliang84,1,,1322751012,1452898664
+yliss,1,,1415282893,1450207814
+yliu,6,"O(n) person in an O(log n) world.",1205997247,1450207814
+yliuaaron,1,,1429896784,1453168450
+yllow,2,,1421127063,1453168008
+ylluminate,16,,1343335039,1450207814
+yllus,152,"Manager of Web Development at Rogers Media in Toronto, Canada. Personal website at http://yllus.com/ , or tweet me at https://twitter.com/sullysyed .",1297790105,1450207814
+yloiseau,1,,1298272355,1452892466
+ylou,6,"I also go by moofins.",1369008648,1450207814
+ylove,1,,1428704450,1453168034
+ylujion,1,,1329947508,1452900235
+yluo,2,"writer / developer / designer",1353864023,1452908274

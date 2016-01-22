@@ -1,13 +1,13 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-R-L,0,3,0.0,1,1,,1311303750,
-r-brown,0,1,0.0,0,0,"Labs64 NetLicensing is a first-class solution in the Licensing as a Service (LaaS) sector.<p>Based on open standards, it provides a cost effective, integrated and scalable platform for software vendors and developers who want to concentrate on their product’s core functionality instead of spending resources on developing an own license management software.",1427632105,1453167595
-r-cid,,5,0.0,0,9,,1351649842,1450207814
-r-cyr,0,29,0.0,0,0,,1429807581,1453168425
-r-dc,0,1,0.0,0,0,,1429511059,1453173005
-r-evolution,0,1,0.0,0,1,,1395580537,1452922429
-r-marques,0,11,0.0,0,0,,1431338189,1453169012
-r-n,0,7,0.0,0,0,,1433882291,1453171360
-r-s,,87,2.41379,1,41,,1371536806,1452128066
-r-shirt,0,54,0.0,2,5,,1364775460,1452911594
-r-u-serious,,58,0.0,8,14,,1323072358,1450207814
-r-w,0,41,0.0,0,0,,1427261077,1453168034
+ID,Karma,About,Created,Updated
+R-L,3,,1311303750,
+r-brown,1,"Labs64 NetLicensing is a first-class solution in the Licensing as a Service (LaaS) sector.<p>Based on open standards, it provides a cost effective, integrated and scalable platform for software vendors and developers who want to concentrate on their product’s core functionality instead of spending resources on developing an own license management software.",1427632105,1453167595
+r-cid,5,,1351649842,1450207814
+r-cyr,29,,1429807581,1453168425
+r-dc,1,,1429511059,1453173005
+r-evolution,1,,1395580537,1452922429
+r-marques,11,,1431338189,1453169012
+r-n,7,,1433882291,1453171360
+r-s,87,,1371536806,1452128066
+r-shirt,54,,1364775460,1452911594
+r-u-serious,58,,1323072358,1450207814
+r-w,41,,1427261077,1453168034

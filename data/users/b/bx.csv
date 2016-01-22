@@ -1,15 +1,15 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-Bxstraz,0,-4,0.0,0,9,,1336071087,
-bx,0,1,0.0,0,1,,1310661667,1452895224
-bx_,,45,0.0,1,39,"35, \nEducation Technology\nLearning to do more with what I have<p>Public key: https://github.com/bcooney/public-key",1357618740,1451107288
-bx_bob,0,2,0.0,0,1,,1290739186,1452891611
-bx_lr,0,50,0.0,0,13,,1299967961,1452892673
-bxbb,0,18,0.0,0,11,,1358859727,1452909189
-bxc,0,36,0.0,0,30,http://www.hawaga.org.uk/ben/,1304942261,1452893643
-bxc89,0,-3,0.0,0,3,,1374576947,1452914985
-bxf,,3,0.0,0,5,,1318274995,1450207814
-bxg,0,2,0.0,0,2,,1308958354,1452894473
-bxgde9,0,1,0.0,0,1,,1395842363,1452922499
-bxio,,1,0.0,0,1,"[ my public key: https://keybase.io/bx; my proof: https://keybase.io/bx/sigs/zncP2PsQKePCIR_oddB9s1LjTQ1LjqD89Q5sVm02vgk ]",1395266810,1450207814
-bxr,0,528,3.0,0,178,,1285259954,1452890369
-bxz33of3,0,1,0.0,2,0,,1312044280,1452895451
+ID,Karma,About,Created,Updated
+Bxstraz,-4,,1336071087,
+bx,1,,1310661667,1452895224
+bx_,45,"35, \nEducation Technology\nLearning to do more with what I have<p>Public key: https://github.com/bcooney/public-key",1357618740,1451107288
+bx_bob,2,,1290739186,1452891611
+bx_lr,50,,1299967961,1452892673
+bxbb,18,,1358859727,1452909189
+bxc,36,http://www.hawaga.org.uk/ben/,1304942261,1452893643
+bxc89,-3,,1374576947,1452914985
+bxf,3,,1318274995,1450207814
+bxg,2,,1308958354,1452894473
+bxgde9,1,,1395842363,1452922499
+bxio,1,"[ my public key: https://keybase.io/bx; my proof: https://keybase.io/bx/sigs/zncP2PsQKePCIR_oddB9s1LjTQ1LjqD89Q5sVm02vgk ]",1395266810,1450207814
+bxr,528,,1285259954,1452890369
+bxz33of3,1,,1312044280,1452895451

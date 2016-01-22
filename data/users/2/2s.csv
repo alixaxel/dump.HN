@@ -1,11 +1,11 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-2sexytee,0,1,0.0,3,0,,1321748487,
-2shea,0,2,0.0,0,1,,1297315310,
-2sk21,0,37,0.0,0,14,"Working on dialog systems at the IBM Watson Group",1440677398,1452679347
-2skep,0,24,0.0,0,9,,1445548161,1452775789
-2snakes,0,2,0.0,0,1,,1414339741,1414340241
-2sporty,0,1,0.0,0,1,,1374801815,
-2stoned2play,0,-6,0.0,0,1,,1305473214,
-2stop,0,1,0.0,0,11,,1391823804,
-2sw2rcom,0,1,0.0,7,0,,1315203255,
-2swarovsky,0,5,0.0,2,2,,1419268065,1437918629
+ID,Karma,About,Created,Updated
+2sexytee,1,,1321748487,
+2shea,2,,1297315310,
+2sk21,37,"Working on dialog systems at the IBM Watson Group",1440677398,1452679347
+2skep,24,,1445548161,1452775789
+2snakes,2,,1414339741,1414340241
+2sporty,1,,1374801815,
+2stoned2play,-6,,1305473214,
+2stop,1,,1391823804,
+2sw2rcom,1,,1315203255,
+2swarovsky,5,,1419268065,1437918629

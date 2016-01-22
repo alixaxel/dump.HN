@@ -1,37 +1,37 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-Wgl_,0,1,0.0,0,1,,1382132703,1452917470
-wGEric,,1,0.0,0,1,,1397234852,1450267840
-wg_l,0,1,0.0,1,0,,1391670923,1452921185
-wgato,,6,0.0,0,6,,1336834229,1450207814
-wgd,,35,0.0,0,15,,1319357794,1450207814
-wgeorgecook,,20,0.0,0,15,,1390341752,1450207814
-wgerard,0,2,0.0,0,0,,1426545604,1453167852
-wgh000,0,1,0.0,0,0,,1446642770,1453173545
-wghelfi,0,1,0.0,0,3,,1330277816,1452906181
-wgillesp,0,1,0.0,1,0,,1289436289,1452890678
-wgillett,0,2,0.0,0,2,,1386989468,1452919419
-wging,,886,2.22727,5,363,,1297792801,1452562271
-wgirish,0,6,0.0,1,2,,1337176487,1452902981
-wgj,0,728,3.0,25,124,"http://waltgordonjones.com<p>http://subreala.com<p>http://livemusicseattle.net<p>waltjones at gmail<p>http://www.hackernewsers.com/users/wgj.html",1255023272,1452888406
-wgjordan,,3,0.0,0,2,,1346264370,1451399109
-wgla,0,15,0.0,4,1,,1340653003,1452906326
-wglass,,245,0.0,5,6,,1376939722,1450207814
-wglb,,32838,1.75,2184,2987,"At home, Simple country boy \nwgl at ciexinc.com\ntwitter: wgl8\nw8lvn, 7019 occasionally<p>Now at kCura, security.<p>Formerly, http://www.ciexinc.com/\nhttp://ciex-software.com<p><i>Eventually, all things merge into one, and a river runs through it. The river was cut by the world&#x27;s great flood and runs over rocks from the basement of time. On some of the rocks are timeless raindrops. Under the rocks are the words, and some of the words are theirs. \nI am haunted by waters.</i>",1200233521,1452643143
-wgman,0,4,0.0,0,0,"I&#x27;m a freshman studying computer science at Carnegie Mellon University. I like writing beautiful code that does cool things.",1419135292,1453165916
-wgn_white,0,3,0.0,0,0,,1246624410,1452888025
-wgo5,0,1,0.0,0,1,,1408876703,1452929798
-wgoodwin,0,15,0.0,0,12,,1350496515,1452906791
-wgoulet,,1,0.0,1,1,,1383920962,1450207814
-wgpshashank,0,1,0.0,0,0,www.quora.com/Shashank-Mani-Narayan,1393522188,1453172407
-wgpsutherland,0,1,0.0,0,0,,1444676525,1453173005
-wgreenberg,0,51,0.0,0,0,,1429033243,1453170898
-wgren,0,84,2.0,0,32,,1250580011,1452888557
-wgriffin,,12,0.0,1,1,,1365587925,1450207814
-wgriggs08,0,1,0.0,1,0,,1352927228,1452907339
-wgrover,,262,3.0,3,68,http://wgrover.com,1276774430,1450207814
-wgrrrr,,7,0.0,3,2,"Information technologist, entrepreneur, person.",1355095691,1450207814
-wguyman,,1,0.0,1,1,,1349484202,1450207814
-wgwlaw,0,1,0.0,1,0,,1341297285,1452904154
-wgwork05,0,1,0.0,9,0,,1335173608,1452902370
-wgwork08,0,1,0.0,16,0,,1338020021,1452903422
-wgx,,2524,2.47727,139,241,"I am here: http://willgrant.org/about",1313072709,1452891449
+ID,Karma,About,Created,Updated
+Wgl_,1,,1382132703,1452917470
+wGEric,1,,1397234852,1450267840
+wg_l,1,,1391670923,1452921185
+wgato,6,,1336834229,1450207814
+wgd,35,,1319357794,1450207814
+wgeorgecook,20,,1390341752,1450207814
+wgerard,2,,1426545604,1453167852
+wgh000,1,,1446642770,1453173545
+wghelfi,1,,1330277816,1452906181
+wgillesp,1,,1289436289,1452890678
+wgillett,2,,1386989468,1452919419
+wging,886,,1297792801,1452562271
+wgirish,6,,1337176487,1452902981
+wgj,728,"http://waltgordonjones.com<p>http://subreala.com<p>http://livemusicseattle.net<p>waltjones at gmail<p>http://www.hackernewsers.com/users/wgj.html",1255023272,1452888406
+wgjordan,3,,1346264370,1451399109
+wgla,15,,1340653003,1452906326
+wglass,245,,1376939722,1450207814
+wglb,32838,"At home, Simple country boy \nwgl at ciexinc.com\ntwitter: wgl8\nw8lvn, 7019 occasionally<p>Now at kCura, security.<p>Formerly, http://www.ciexinc.com/\nhttp://ciex-software.com<p><i>Eventually, all things merge into one, and a river runs through it. The river was cut by the world&#x27;s great flood and runs over rocks from the basement of time. On some of the rocks are timeless raindrops. Under the rocks are the words, and some of the words are theirs. \nI am haunted by waters.</i>",1200233521,1452643143
+wgman,4,"I&#x27;m a freshman studying computer science at Carnegie Mellon University. I like writing beautiful code that does cool things.",1419135292,1453165916
+wgn_white,3,,1246624410,1452888025
+wgo5,1,,1408876703,1452929798
+wgoodwin,15,,1350496515,1452906791
+wgoulet,1,,1383920962,1450207814
+wgpshashank,1,www.quora.com/Shashank-Mani-Narayan,1393522188,1453172407
+wgpsutherland,1,,1444676525,1453173005
+wgreenberg,51,,1429033243,1453170898
+wgren,84,,1250580011,1452888557
+wgriffin,12,,1365587925,1450207814
+wgriggs08,1,,1352927228,1452907339
+wgrover,262,http://wgrover.com,1276774430,1450207814
+wgrrrr,7,"Information technologist, entrepreneur, person.",1355095691,1450207814
+wguyman,1,,1349484202,1450207814
+wgwlaw,1,,1341297285,1452904154
+wgwork05,1,,1335173608,1452902370
+wgwork08,1,,1338020021,1452903422
+wgx,2524,"I am here: http://willgrant.org/about",1313072709,1452891449

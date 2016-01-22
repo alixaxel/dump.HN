@@ -1,60 +1,60 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-D3,0,1,0.0,0,29,,1349570802,
-D33B,0,3,0.0,3,0,,1396058030,1444654018
-D34DB33F,0,2,0.0,0,1,,1425977384,1425979040
-D3NM0N,0,1,0.0,0,1,,1365502887,1437377820
-D3_4dl1N3,0,3,0.0,11,4,,1390149023,1452790100
-D3c4ff,0,122,0.0,7,0,,1367569676,
-D3f0,0,1,0.0,0,1,,1359397744,1446663516
-D3lt4,0,22,0.0,1,22,,1292771330,1427175593
-D3lux3,0,1,0.0,1,0,,1428639523,1438606859
-D3nver,0,35,0.0,3,12,"always learning",1344978834,1446060930
-D3ve1inE,0,12,0.0,4,2,,1419958836,1439322543
-d31,0,1,0.0,1,0,,1373911112,1452914737
-d3141,0,47,0.0,0,0,,1421765600,1453165436
-d33,0,2,0.0,0,0,,1449659113,1453174728
-d33d33,,66,0.0,2,6,,1369611302,1452160577
-d33n,,5,0.0,0,2,,1371238060,1450207814
-d33pika,,22,0.0,2,9,,1357523918,1450207814
-d33psp33d,0,1,0.0,0,0,,1435341847,1453170240
-d357r0y3r,,152,0.0,0,40,,1395425152,1450207814
-d35m0nd142,0,1,0.0,1,0,,1354372568,1452907680
-d35m4dr3,0,-6,0.0,0,2,,1313580119,1452895902
-d3ad1ysp0rk,0,78,0.0,0,18,,1325095865,1452899203
-d3adlyv3n0m,0,1,0.0,0,0,,1431230469,1453168985
-d3am0nc0de,0,1,0.0,0,1,,1403111038,1452925596
-d3an,0,1,0.0,1,1,,1304923669,1452893643
-d3b14n,0,9,0.0,1,7,,1288018628,1452890369
-d3b4s3r,0,1,0.0,0,1,,1363771394,1452911035
-d3banjan,0,1,0.0,0,0,,1433349015,1453169646
-d3bugging,0,1,0.0,0,2,,1287583984,1452890306
-d3c0d3dab0d3,0,1,0.0,0,8,,1337780063,1452904493
-d3c3p3,0,1,0.0,1,0,,1342217997,1452904585
-d3c4f,0,-1,0.0,0,0,,1420011116,1453168360
-d3cay,0,1,0.0,0,1,,1339098822,1452903421
-d3d2,0,2,0.0,0,0,,1253220251,1452888344
-d3d3d3,0,1,0.0,0,0,,1452807854,1453175373
-d3fmacro,,4,0.0,0,2,,1417580536,1450267840
-d3fun,,12,0.0,3,15,,1275639678,1450207814
-d3gamer,,41,0.0,0,18,,1379455784,1450207814
-d3k,,4,0.0,0,3,,1395266535,1450207814
-d3m,0,1,0.0,0,0,,1428497759,1453167938
-d3m3vilurr,0,1,0.0,1,0,,1306205152,1452898201
-d3media,0,1,0.0,0,0,"d3media is based in Hamburg Germany and builds ad-tech for the european market.  Our tech team is small, but we have a built up a pretty cool kit of parts already.  There are lots of interesting challenges around infrastructure automation, stateless application tiers, data processing with hadoop and the &quot;joys&quot; of non-ietf interop with the likes of Google and AppNexus.  We are looking for full-stack devs that can help us up our game.  We use things like nodejs, golang, couchdb, elasticsearch, hadoop, and currently run on amazon.<p>If you are in Hamburg, get in touch and have a beer with us.<p>http://www.d3media.de",1440518992,1453172187
-d3monkey,0,1,0.0,0,1,,1343409455,1452904884
-d3nial,0,5,0.0,2,2,"Australian based engineer, heading to the US for AppAcademy.",1359345960,1452909149
-d3no22,0,1,0.0,3,0,,1316693557,1452896871
-d3notevenclose,0,-4,0.0,0,0,,1441747824,1453172204
-d3r42,0,6,0.0,0,3,,1340978927,1452903912
-d3rhstar,0,4,0.0,0,0,,1447532781,1453173936
-d3rp,0,-1,0.0,0,0,,1434830254,1453170081
-d3sandoval,0,2,0.0,0,0,,1447960444,1453174034
-d3throwaway,0,25,0.0,0,14,,1338926533,1452903391
-d3v3r0,,103,0.0,368,3,"I&#x27;m web designer & developer from Czech republic. I love crafting web pages in HTML5, CSS3 and JavaScript (jQuery too!). When I&#x27;m not speaking somewhere, I&#x27;m working on projects or learning new stuff.",1393918084,1452866474
-d3vani,0,2,0.0,0,4,,1319552449,1452897963
-d3vc47,,5,0.0,6,2,"I love javascript.",1394779868,1450207814
-d3vmax,0,1,0.0,0,0,,1364990801,1453167442
-d3vvnull,0,12,0.0,1,11,"Hacker, Parent, Philosopher, EVE Online Enthusiast, Civilization 3 Addict, Guitar Player, Garageband Recording Engineer",1241392375,1452887944
-d3w4rd,0,24,0.0,0,2,,1233804310,1452887871
-d3x,0,377,2.0,5,83,...,1283876401,1452891611
-d3xion,0,1,0.0,0,1,,1211194646,1211194646
+ID,Karma,About,Created,Updated
+D3,1,,1349570802,
+D33B,3,,1396058030,1444654018
+D34DB33F,2,,1425977384,1425979040
+D3NM0N,1,,1365502887,1437377820
+D3_4dl1N3,3,,1390149023,1452790100
+D3c4ff,122,,1367569676,
+D3f0,1,,1359397744,1446663516
+D3lt4,22,,1292771330,1427175593
+D3lux3,1,,1428639523,1438606859
+D3nver,35,"always learning",1344978834,1446060930
+D3ve1inE,12,,1419958836,1439322543
+d31,1,,1373911112,1452914737
+d3141,47,,1421765600,1453165436
+d33,2,,1449659113,1453174728
+d33d33,66,,1369611302,1452160577
+d33n,5,,1371238060,1450207814
+d33pika,22,,1357523918,1450207814
+d33psp33d,1,,1435341847,1453170240
+d357r0y3r,152,,1395425152,1450207814
+d35m0nd142,1,,1354372568,1452907680
+d35m4dr3,-6,,1313580119,1452895902
+d3ad1ysp0rk,78,,1325095865,1452899203
+d3adlyv3n0m,1,,1431230469,1453168985
+d3am0nc0de,1,,1403111038,1452925596
+d3an,1,,1304923669,1452893643
+d3b14n,9,,1288018628,1452890369
+d3b4s3r,1,,1363771394,1452911035
+d3banjan,1,,1433349015,1453169646
+d3bugging,1,,1287583984,1452890306
+d3c0d3dab0d3,1,,1337780063,1452904493
+d3c3p3,1,,1342217997,1452904585
+d3c4f,-1,,1420011116,1453168360
+d3cay,1,,1339098822,1452903421
+d3d2,2,,1253220251,1452888344
+d3d3d3,1,,1452807854,1453175373
+d3fmacro,4,,1417580536,1450267840
+d3fun,12,,1275639678,1450207814
+d3gamer,41,,1379455784,1450207814
+d3k,4,,1395266535,1450207814
+d3m,1,,1428497759,1453167938
+d3m3vilurr,1,,1306205152,1452898201
+d3media,1,"d3media is based in Hamburg Germany and builds ad-tech for the european market.  Our tech team is small, but we have a built up a pretty cool kit of parts already.  There are lots of interesting challenges around infrastructure automation, stateless application tiers, data processing with hadoop and the &quot;joys&quot; of non-ietf interop with the likes of Google and AppNexus.  We are looking for full-stack devs that can help us up our game.  We use things like nodejs, golang, couchdb, elasticsearch, hadoop, and currently run on amazon.<p>If you are in Hamburg, get in touch and have a beer with us.<p>http://www.d3media.de",1440518992,1453172187
+d3monkey,1,,1343409455,1452904884
+d3nial,5,"Australian based engineer, heading to the US for AppAcademy.",1359345960,1452909149
+d3no22,1,,1316693557,1452896871
+d3notevenclose,-4,,1441747824,1453172204
+d3r42,6,,1340978927,1452903912
+d3rhstar,4,,1447532781,1453173936
+d3rp,-1,,1434830254,1453170081
+d3sandoval,2,,1447960444,1453174034
+d3throwaway,25,,1338926533,1452903391
+d3v3r0,103,"I&#x27;m web designer & developer from Czech republic. I love crafting web pages in HTML5, CSS3 and JavaScript (jQuery too!). When I&#x27;m not speaking somewhere, I&#x27;m working on projects or learning new stuff.",1393918084,1452866474
+d3vani,2,,1319552449,1452897963
+d3vc47,5,"I love javascript.",1394779868,1450207814
+d3vmax,1,,1364990801,1453167442
+d3vvnull,12,"Hacker, Parent, Philosopher, EVE Online Enthusiast, Civilization 3 Addict, Guitar Player, Garageband Recording Engineer",1241392375,1452887944
+d3w4rd,24,,1233804310,1452887871
+d3x,377,...,1283876401,1452891611
+d3xion,1,,1211194646,1211194646

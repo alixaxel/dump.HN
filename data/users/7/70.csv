@@ -1,9 +1,9 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-700,0,1,0.0,1,0,,1366525603,1453163985
-7007,0,3,0.0,0,0,,1412256422,1453164776
-700ravens,0,10,0.0,0,5,"I am a physicist for the National Institute of Standards and Technology and I operate an X-ray measurement facility at the National Synchrotron Light Source. http://xafs.org/BruceRavel",1291741623,
-702metalmulisha,0,1,0.0,1,0,,1319046313,
-707,0,-8,0.0,0,1,,1276834007,1453163933
-70forty,0,1,0.0,0,16,,1388726388,
-70m45,0,1,0.0,1,0,,1333851597,
-70seconds,0,-17,0.0,0,13,,1441683542,1447121633
+ID,Karma,About,Created,Updated
+700,1,,1366525603,1453163985
+7007,3,,1412256422,1453164776
+700ravens,10,"I am a physicist for the National Institute of Standards and Technology and I operate an X-ray measurement facility at the National Synchrotron Light Source. http://xafs.org/BruceRavel",1291741623,
+702metalmulisha,1,,1319046313,
+707,-8,,1276834007,1453163933
+70forty,1,,1388726388,
+70m45,1,,1333851597,
+70seconds,-17,,1441683542,1447121633

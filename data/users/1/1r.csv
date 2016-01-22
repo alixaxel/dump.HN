@@ -1,12 +1,12 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-1ROMANTIC8R,0,1,0.0,1,0,,1346055963,
-1r0n,0,3,0.0,0,1,,1351345332,
-1rae,0,35,0.0,0,31,"[ my public key: https://keybase.io/irae; my proof: https://keybase.io/irae/sigs/60o7jYnuIVgQEkxF3l9xs0yFzz03woZMcukD8FIiyow ]",1339909040,1447230149
-1raynes,0,7,0.0,15,2,,1409407638,1438327132
-1rbn,0,1,0.0,0,1,,1435223315,1435223353
-1reniernel,0,1,0.0,1,0,,1383464435,
-1res1,0,1,0.0,2,0,,1336922178,
-1reza,0,1,0.0,2,4,"An Iranian blogger,",1269452876,
-1ris,0,1172,3.09091,3,302,,1393256401,1451877591
-1rs,0,21,0.0,6,5,"entrepreneur, vc. Code, social, e-commerce, fashion, learning, analytics.",1330436777,1443187543
-1rst_alex,0,2,0.0,0,1,,1436983542,1436986321
+ID,Karma,About,Created,Updated
+1ROMANTIC8R,1,,1346055963,
+1r0n,3,,1351345332,
+1rae,35,"[ my public key: https://keybase.io/irae; my proof: https://keybase.io/irae/sigs/60o7jYnuIVgQEkxF3l9xs0yFzz03woZMcukD8FIiyow ]",1339909040,1447230149
+1raynes,7,,1409407638,1438327132
+1rbn,1,,1435223315,1435223353
+1reniernel,1,,1383464435,
+1res1,1,,1336922178,
+1reza,1,"An Iranian blogger,",1269452876,
+1ris,1172,,1393256401,1451877591
+1rs,21,"entrepreneur, vc. Code, social, e-commerce, fashion, learning, analytics.",1330436777,1443187543
+1rst_alex,2,,1436983542,1436986321

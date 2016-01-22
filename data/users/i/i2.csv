@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-i2,,17,0.0,0,6,,1279972584,1450207814
-i229718,0,3,0.0,0,0,,1446794148,1453173585
-i2amsam,0,1,0.0,0,0,,1405463573,1453174476
-i2hsu,0,3,0.0,0,1,,1238513112,1452887871
-i2i,0,5,0.0,0,0,,1424811295,1453166622
-i2ifunding,0,1,0.0,0,0,"a peer-to-peer (P2P) marketplace that connects borrowers with lenders. We provide unsecured loans that can be used for multiple purposes, which include purchase of consumer durable, debt consolidation, medical expenses, education expenses, cash cycle optimization, etc.",1447752580,1453173972
-i2o,0,62,0.0,8,9,"An abstract artist and a concrete analyst interested in full-contact origami.",1291053083,1452891720
-i2oc,,22,0.0,3,6,"Full stack software artisan; enjoys working with teams to reach the next level of craftsmanship and solving gnarly problems.",1348536417,1450207814
-i2pi,,229,4.42105,3,47,"CEO at Simple",1245774424,1450207814
+ID,Karma,About,Created,Updated
+i2,17,,1279972584,1450207814
+i229718,3,,1446794148,1453173585
+i2amsam,1,,1405463573,1453174476
+i2hsu,3,,1238513112,1452887871
+i2i,5,,1424811295,1453166622
+i2ifunding,1,"a peer-to-peer (P2P) marketplace that connects borrowers with lenders. We provide unsecured loans that can be used for multiple purposes, which include purchase of consumer durable, debt consolidation, medical expenses, education expenses, cash cycle optimization, etc.",1447752580,1453173972
+i2o,62,"An abstract artist and a concrete analyst interested in full-contact origami.",1291053083,1452891720
+i2oc,22,"Full stack software artisan; enjoys working with teams to reach the next level of craftsmanship and solving gnarly problems.",1348536417,1450207814
+i2pi,229,"CEO at Simple",1245774424,1450207814

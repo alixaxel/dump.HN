@@ -1,42 +1,42 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-Bzomak,0,194,0.0,27,7,,1386249287,1429788378
-Bzzzzt,0,2,0.0,0,1,,1412399980,1421635799
-bZfrank,,12,0.0,1,1,,1419888244,1450267840
-bz,0,34,0.0,0,9,,1185896378,1185896378
-bz123,0,1,0.0,0,1,,1398247867,1452923466
-bza,,23,0.0,2,9,,1387683604,1450207814
-bzadik,0,1,0.0,1,0,,1375127695,1452915179
-bzajac,0,1,0.0,0,1,,1319811833,1452898149
-bzajax,0,-3,0.0,0,1,,1277464712,1452889377
-bzalasky,,136,2.15909,12,122,"I&#x27;m a software engineer at Lookout that specializes in building large-scale JavaScript applications, responsive user interfaces, and rapid prototypes with uncompromising craftsmanship.<p>Talk to me if you&#x27;re interested in learning more about Lookout, or if you need to solve a problem with technology.<p>Let&#x27;s build something.",1309115083,1450207814
-bzaman7,0,1,0.0,0,1,"Freelance front-end Developer",1386535033,1452919281
-bzang,,3,0.0,0,1,,1412744377,1450207814
-bzax,0,4,0.0,0,1,,1356125587,1452908317
-bzbarsky,,2838,1.81818,7,999,,1291669944,1452815681
-bzbig,0,2,0.0,0,0,,1442797728,1453173622
-bzcore,0,1,0.0,1,0,"BZCORE Technologies was founded by Husband and Wife Maker team Boz and Zelda Krumlauf to lead evolutionary Innovation in the next generation of Open Hardware exploration.<p>Our Mission Statement\nWe aim to bridge the gap between the sparks and circuit, hardware hacking Maker communities, the Artistic and Education communities, as well as the consumer end user by leveraging Open Hardware Technologies for a broader audience",1351264721,1452906985
-bzdfilms,0,1,0.0,0,1,,1276610074,1452889344
-bzdzb,,1,0.0,0,1,,1349817143,1450207814
-bzelip,,16,0.0,1,16,"http://CUwiki.net | http://ToledoWiki.net<p>library & information science student, UIUC.<p>interested in free software and community representation online",1362591115,1450207814
-bzerkfury,0,7,0.0,0,2,,1193904762,1193904762
-bzero,0,6,0.0,0,2,,1295036395,1452892097
-bzg,,294,0.0,2,7,"Emacs, ELisp, Clojure, Free culture.   http://bzg.fr",1204369903,1450207814
-bzgeb,0,1,0.0,0,1,,1355500404,1452908114
-bzink,0,10,0.0,0,2,,1346187918,1452912102
-bzke,0,1,0.0,141,0,,1314585290,1452896324
-bzle,0,1,0.0,0,0,,1396634190,1453166639
-bzliu94,0,1,0.0,0,1,,1387565381,1452920572
-bzloe,0,3,0.0,1,2,,1336026613,1452902611
-bzmwillemsen,,30,0.0,1,13,"Co-Founder of catchr.ca",1360856938,1450207814
-bznvideos,0,1,0.0,0,0,"Teaching web design and more at http://bizanosa.com/ .",1445368345,1453173208
-bzotto,0,3,0.0,1,1,,1292018116,1452892632
-bzouiri,0,1,0.0,1,0,,1399644726,1452924244
-bztzt,,156,2.40909,0,107,,1323586280,1450207814
-bzuberi,,1,0.0,5,0,,1375978147,1450207814
-bzudo,,31,0.0,0,12,,1350494239,1450207814
-bzupnick,0,281,0.0,29,52,"http://www.hackernewsers.com/users/bzupnick.html<p>I'm a 17 year old avid web developer/entrepreneur who is constantly building web sites and starting startups. I know HTML, php, MySql, css, javascript, and java.",1298840473,1452893324
-bzupnick2,0,1,0.0,2,2,,1313461567,1452895902
-bzuverink,0,2,0.0,1,0,,1224445648,1452886609
-bzxbot,,2,0.0,0,2,,1363021048,1450383565
-bzz01,,33,0.0,0,18,,1406938556,1450245556
-bzzzfeee,0,1,0.0,1,0,,1382757746,1452917647
+ID,Karma,About,Created,Updated
+Bzomak,194,,1386249287,1429788378
+Bzzzzt,2,,1412399980,1421635799
+bZfrank,12,,1419888244,1450267840
+bz,34,,1185896378,1185896378
+bz123,1,,1398247867,1452923466
+bza,23,,1387683604,1450207814
+bzadik,1,,1375127695,1452915179
+bzajac,1,,1319811833,1452898149
+bzajax,-3,,1277464712,1452889377
+bzalasky,136,"I&#x27;m a software engineer at Lookout that specializes in building large-scale JavaScript applications, responsive user interfaces, and rapid prototypes with uncompromising craftsmanship.<p>Talk to me if you&#x27;re interested in learning more about Lookout, or if you need to solve a problem with technology.<p>Let&#x27;s build something.",1309115083,1450207814
+bzaman7,1,"Freelance front-end Developer",1386535033,1452919281
+bzang,3,,1412744377,1450207814
+bzax,4,,1356125587,1452908317
+bzbarsky,2838,,1291669944,1452815681
+bzbig,2,,1442797728,1453173622
+bzcore,1,"BZCORE Technologies was founded by Husband and Wife Maker team Boz and Zelda Krumlauf to lead evolutionary Innovation in the next generation of Open Hardware exploration.<p>Our Mission Statement\nWe aim to bridge the gap between the sparks and circuit, hardware hacking Maker communities, the Artistic and Education communities, as well as the consumer end user by leveraging Open Hardware Technologies for a broader audience",1351264721,1452906985
+bzdfilms,1,,1276610074,1452889344
+bzdzb,1,,1349817143,1450207814
+bzelip,16,"http://CUwiki.net | http://ToledoWiki.net<p>library & information science student, UIUC.<p>interested in free software and community representation online",1362591115,1450207814
+bzerkfury,7,,1193904762,1193904762
+bzero,6,,1295036395,1452892097
+bzg,294,"Emacs, ELisp, Clojure, Free culture.   http://bzg.fr",1204369903,1450207814
+bzgeb,1,,1355500404,1452908114
+bzink,10,,1346187918,1452912102
+bzke,1,,1314585290,1452896324
+bzle,1,,1396634190,1453166639
+bzliu94,1,,1387565381,1452920572
+bzloe,3,,1336026613,1452902611
+bzmwillemsen,30,"Co-Founder of catchr.ca",1360856938,1450207814
+bznvideos,1,"Teaching web design and more at http://bizanosa.com/ .",1445368345,1453173208
+bzotto,3,,1292018116,1452892632
+bzouiri,1,,1399644726,1452924244
+bztzt,156,,1323586280,1450207814
+bzuberi,1,,1375978147,1450207814
+bzudo,31,,1350494239,1450207814
+bzupnick,281,"http://www.hackernewsers.com/users/bzupnick.html<p>I'm a 17 year old avid web developer/entrepreneur who is constantly building web sites and starting startups. I know HTML, php, MySql, css, javascript, and java.",1298840473,1452893324
+bzupnick2,1,,1313461567,1452895902
+bzuverink,2,,1224445648,1452886609
+bzxbot,2,,1363021048,1450383565
+bzz01,33,,1406938556,1450245556
+bzzzfeee,1,,1382757746,1452917647

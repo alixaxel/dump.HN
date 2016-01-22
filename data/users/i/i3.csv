@@ -1,11 +1,11 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-i300,0,1,0.0,0,1,,1311101750,1452895170
-i31415,,6,0.0,1,3,,1377624355,1450207814
-i336_,0,259,0.0,0,0,"Wonders about the future of UI/UX and hopes intelligent, cogent computing is still a thing 30 years from now<p>Thinks life would be nicer with a pet fox<p>Can be contacted at gmail@asmqb7",1437796990,1453171024
-i34159,0,6,0.0,0,3,,1305683065,1452894473
-i386,,1707,2.65909,40,301,"Product Manager at CloudBees. Previously at Canva and Atlassian. @i386 on Twitter. I like to build useful stuff.",1240226708,1452232712
-i38608,0,2,0.0,0,0,,1446533348,1453173497
-i386081,0,4,0.0,0,0,,1448435541,1453174147
-i39d,0,1,0.0,0,1,,1398017074,1452923410
-i3arnon,0,2,0.0,0,0,,1424208264,1453166267
-i3d,0,2,0.0,0,2,,1295126869,1452925132
+ID,Karma,About,Created,Updated
+i300,1,,1311101750,1452895170
+i31415,6,,1377624355,1450207814
+i336_,259,"Wonders about the future of UI/UX and hopes intelligent, cogent computing is still a thing 30 years from now<p>Thinks life would be nicer with a pet fox<p>Can be contacted at gmail@asmqb7",1437796990,1453171024
+i34159,6,,1305683065,1452894473
+i386,1707,"Product Manager at CloudBees. Previously at Canva and Atlassian. @i386 on Twitter. I like to build useful stuff.",1240226708,1452232712
+i38608,2,,1446533348,1453173497
+i386081,4,,1448435541,1453174147
+i39d,1,,1398017074,1452923410
+i3arnon,2,,1424208264,1453166267
+i3d,2,,1295126869,1452925132

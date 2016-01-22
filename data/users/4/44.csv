@@ -1,11 +1,11 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-441069567,0,-13,0.0,0,8,,1301466078,1453163942
-444000,0,1,0.0,0,0,,1419344588,1453164934
-4445522,0,1,0.0,0,0,,1404136874,1453164776
-4462875097,0,1,0.0,2,0,,1338498335,
-446545,0,1,0.0,0,1,,1377799091,1453164097
-44Aman,0,270,2.0,2,31,"http://twitter.com/44Aman<p>I&#x27;m a UK based consultant interested in technology and startups from a non-technical background. I blog at http://amanbrar.co.uk",1304685783,1425031399
-44VIIIV,0,3,0.0,0,2,,1276650231,
-44loops,0,3,0.0,0,1,,1297223524,
-44maagnum,0,1,0.0,2,0,,1308152744,
-44rrhh22,0,1,0.0,1,0,,1381559218,
+ID,Karma,About,Created,Updated
+441069567,-13,,1301466078,1453163942
+444000,1,,1419344588,1453164934
+4445522,1,,1404136874,1453164776
+4462875097,1,,1338498335,
+446545,1,,1377799091,1453164097
+44Aman,270,"http://twitter.com/44Aman<p>I&#x27;m a UK based consultant interested in technology and startups from a non-technical background. I blog at http://amanbrar.co.uk",1304685783,1425031399
+44VIIIV,3,,1276650231,
+44loops,3,,1297223524,
+44maagnum,1,,1308152744,
+44rrhh22,1,,1381559218,

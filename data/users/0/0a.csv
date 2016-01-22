@@ -1,7 +1,7 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-0A0D66,0,46,0.0,1,8,,1380306795,1418414485
-0abdd0e66h,0,8,0.0,1,8,,1283281191,
-0ack,0,2,0.0,0,4,,1348471599,
-0aimeirener,0,1,0.0,1,0,,1344265181,
-0ambition,0,3,0.0,0,1,,1404218230,1436277668
-0atman,0,1,0.0,0,3,"Software Engineer at trigger.io",1328635922,
+ID,Karma,About,Created,Updated
+0A0D66,46,,1380306795,1418414485
+0abdd0e66h,8,,1283281191,
+0ack,2,,1348471599,
+0aimeirener,1,,1344265181,
+0ambition,3,,1404218230,1436277668
+0atman,1,"Software Engineer at trigger.io",1328635922,

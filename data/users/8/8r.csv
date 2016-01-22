@@ -1,4 +1,4 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-8r4n,0,1,0.0,1,1,"CS grad student",1444850993,1446072961
-8ren,0,588,4.0,20,123,,1285743183,
-8rian,0,15,0.0,0,3,,1429007101,1442590478
+ID,Karma,About,Created,Updated
+8r4n,1,"CS grad student",1444850993,1446072961
+8ren,588,,1285743183,
+8rian,15,,1429007101,1442590478

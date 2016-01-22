@@ -1,13 +1,13 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-2bHalfMad,0,19,0.0,7,12,"I love design, socialising and most importantly my life.",1285284537,
-2bStealthy,0,2,0.0,0,1,,1218324818,
-2betafactor,0,1,0.0,4,0,,1380553795,1418470867
-2bit,0,55,0.0,4,17,"Web development is my passion. Currently working for Apple doing data visualization.<p>http://hypernaut.com",1207398935,1436337015
-2bit_encryption,0,68,0.0,1,1,,1438261614,1439510527
-2bitencryption,0,45,0.0,0,10,,1444862278,1452809887
-2bithacker,0,4,0.0,0,2,,1333718203,
-2bjorn,0,1,0.0,0,1,,1397391274,
-2bluesc,0,291,2.11364,32,147,"Embedded (Linux) Systems guy that likes to hack on bikes, drones, Bitcoin, networking, and more!<p>http://bit.ly/1G5oWro",1295884598,1452523830
-2bookjt,0,1,0.0,0,1,,1418327809,1418328260
-2bthrowaway,0,21,0.0,0,6,,1407114574,
-2buckchuck,0,5,0.0,1,6,"@musicmarauder<p>CEO and Co-Founder at PROnoise.com",1308259003,
+ID,Karma,About,Created,Updated
+2bHalfMad,19,"I love design, socialising and most importantly my life.",1285284537,
+2bStealthy,2,,1218324818,
+2betafactor,1,,1380553795,1418470867
+2bit,55,"Web development is my passion. Currently working for Apple doing data visualization.<p>http://hypernaut.com",1207398935,1436337015
+2bit_encryption,68,,1438261614,1439510527
+2bitencryption,45,,1444862278,1452809887
+2bithacker,4,,1333718203,
+2bjorn,1,,1397391274,
+2bluesc,291,"Embedded (Linux) Systems guy that likes to hack on bikes, drones, Bitcoin, networking, and more!<p>http://bit.ly/1G5oWro",1295884598,1452523830
+2bookjt,1,,1418327809,1418328260
+2bthrowaway,21,,1407114574,
+2buckchuck,5,"@musicmarauder<p>CEO and Co-Founder at PROnoise.com",1308259003,

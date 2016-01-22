@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-M8,0,399,0.0,5,325,,1426497217,1437114663
-M83,0,1,0.0,1,6,,1318391064,
-M8R-fhlcjm,0,-15,0.0,0,30,,1355958474,
-M8R-jt5iq1,0,13,0.0,0,4,,1291940309,
-m8276,0,1,0.0,1,0,,1369529890,1452912909
-m82labs,0,7,0.0,0,0,,1438432722,1453171207
-m86,,4,0.0,0,5,,1267643727,1450207814
-m8rl,,112,0.0,1,9,,1309194605,1452804858
-m8urn,,863,1.0,15,62,"http://xato.net<p>[ my public key: https://keybase.io/m8urnett; my proof: https://keybase.io/m8urnett/sigs/BBfZhM0VIhc2ty1yG6MeU50Q0yTf5SBg0dRBDhHNmXg ]",1308630278,1450207814
+ID,Karma,About,Created,Updated
+M8,399,,1426497217,1437114663
+M83,1,,1318391064,
+M8R-fhlcjm,-15,,1355958474,
+M8R-jt5iq1,13,,1291940309,
+m8276,1,,1369529890,1452912909
+m82labs,7,,1438432722,1453171207
+m86,4,,1267643727,1450207814
+m8rl,112,,1309194605,1452804858
+m8urn,863,"http://xato.net<p>[ my public key: https://keybase.io/m8urnett; my proof: https://keybase.io/m8urnett/sigs/BBfZhM0VIhc2ty1yG6MeU50Q0yTf5SBg0dRBDhHNmXg ]",1308630278,1450207814

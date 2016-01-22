@@ -1,17 +1,17 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-1Place,0,6,0.0,11,2,,1254610046,
-1Ponzi,0,1,0.0,0,2,,1391900394,
-1Psy2anXrpRZ7YW,0,-1,0.0,0,1,,1430679774,1430680885
-1PuPqpDc1V7biSy,0,1,0.0,0,1,,1362872199,1426579221
-1p1e1,0,107,0.0,33,37,"Blog @ http://filipminev.com/\nFounder @ http://getstrudel.com/",1320929125,1425229995
-1p99g30eb7,0,1,0.0,1,0,,1315658651,
-1page,0,1,0.0,1,1,,1426618374,1434042812
-1phone,0,2,0.0,0,1,,1393885428,1432253439
-1platypus,0,1,0.0,0,1,,1339262389,
-1point1,0,-2,0.0,0,1,,1315015112,
-1point2,0,27,1.0,1,41,"I used to be 1point1 - got upgraded.\nI write and support code for process control in industry,  that's all. Damm it feels good to be upgraded!",1315084414,
-1point618,,12,0.0,0,1,"I make things at x | strategy.",1315403342,1427242116
-1pointOhhh,0,1,0.0,0,1,,1322877584,
-1ps3,0,1,0.0,1,0,,1380459446,
-1ptime,0,2,0.0,0,1,,1324654476,
-1pulse,0,2,0.0,2,0,,1374826872,
+ID,Karma,About,Created,Updated
+1Place,6,,1254610046,
+1Ponzi,1,,1391900394,
+1Psy2anXrpRZ7YW,-1,,1430679774,1430680885
+1PuPqpDc1V7biSy,1,,1362872199,1426579221
+1p1e1,107,"Blog @ http://filipminev.com/\nFounder @ http://getstrudel.com/",1320929125,1425229995
+1p99g30eb7,1,,1315658651,
+1page,1,,1426618374,1434042812
+1phone,2,,1393885428,1432253439
+1platypus,1,,1339262389,
+1point1,-2,,1315015112,
+1point2,27,"I used to be 1point1 - got upgraded.\nI write and support code for process control in industry,  that's all. Damm it feels good to be upgraded!",1315084414,
+1point618,12,"I make things at x | strategy.",1315403342,1427242116
+1pointOhhh,1,,1322877584,
+1ps3,1,,1380459446,
+1ptime,2,,1324654476,
+1pulse,2,,1374826872,

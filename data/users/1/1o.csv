@@ -1,7 +1,7 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-1O0101ll100O,0,62,0.0,0,19,,1373057223,
-1o57,0,7,0.0,0,3,"[ my public key: https://keybase.io/1o57; my proof: https://keybase.io/1o57/sigs/IBtNyu1s87wqiNCWotEBrcDciX4S5uphs71KBkJn_nU ]",1413212455,1413230153
-1obennet,0,2,0.0,1,1,,1313807518,
-1off,0,1,0.0,0,1,,1306013108,
-1offi,0,3,0.0,0,1,,1415536488,1415669469
-1oflimited,0,1,0.0,2,0,"Limited edition specialist",1369830695,
+ID,Karma,About,Created,Updated
+1O0101ll100O,62,,1373057223,
+1o57,7,"[ my public key: https://keybase.io/1o57; my proof: https://keybase.io/1o57/sigs/IBtNyu1s87wqiNCWotEBrcDciX4S5uphs71KBkJn_nU ]",1413212455,1413230153
+1obennet,2,,1313807518,
+1off,1,,1306013108,
+1offi,3,,1415536488,1415669469
+1oflimited,1,"Limited edition specialist",1369830695,

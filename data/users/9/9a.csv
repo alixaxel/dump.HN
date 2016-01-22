@@ -1,4 +1,4 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-9a793t55e,0,1,0.0,1,0,,1314257108,
-9aa,0,1,0.0,0,1,,1360440373,
-9ac345a5509a,0,152,0.0,2,11,"<p><pre><code>  import hashlib\n  assert hashlib.sha384(name).hexdigest()[-12:] == &#x27;9ac345a5509a&#x27;</code></pre>",1374945156,1440509838
+ID,Karma,About,Created,Updated
+9a793t55e,1,,1314257108,
+9aa,1,,1360440373,
+9ac345a5509a,152,"<p><pre><code>  import hashlib\n  assert hashlib.sha384(name).hexdigest()[-12:] == &#x27;9ac345a5509a&#x27;</code></pre>",1374945156,1440509838

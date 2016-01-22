@@ -1,7 +1,7 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-9tarad,0,1,0.0,13,0,,1317008201,
-9thsphere,0,1,0.0,1,1,"The digital agency, 9th sphere, assists companies become more efficient or profitable using web based technologies and services.  Offers services such as web design, application development, Internet marketing, SEO and more.",1351632607,
-9to5Seth,0,3,0.0,0,2,,1391715952,
-9to5culture,0,3,0.0,3,1,"9to5Culture is a new way to find your perfect job.  You don't search, the companies don't search, we do the matching for you.  Check us out at http://www.9to5culture.com",1301403769,
-9tondon,0,1,0.0,1,0,,1384189506,
-9turningmirrors,0,1,0.0,0,0,,1257487791,
+ID,Karma,About,Created,Updated
+9tarad,1,,1317008201,
+9thsphere,1,"The digital agency, 9th sphere, assists companies become more efficient or profitable using web based technologies and services.  Offers services such as web design, application development, Internet marketing, SEO and more.",1351632607,
+9to5Seth,3,,1391715952,
+9to5culture,3,"9to5Culture is a new way to find your perfect job.  You don't search, the companies don't search, we do the matching for you.  Check us out at http://www.9to5culture.com",1301403769,
+9tondon,1,,1384189506,
+9turningmirrors,1,,1257487791,

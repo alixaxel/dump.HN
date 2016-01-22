@@ -1,9 +1,9 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-2ManyDogs,0,5,0.0,0,5,,1382311740,
-2m59n81qz5,0,1,0.0,1,0,,1315052279,
-2manyredirects,0,1,0.0,0,1,"Front end web developer based in London. Usually found as &#x27;toomanyredirects&#x27; on other sites, but ycombinator restricts username character count...",1435592360,1435602592
-2mia,0,1,0.0,4,3,"developer, servers, mobiles",1367868665,1419421588
-2mt_stephan,0,-10,0.0,0,3,,1281021166,
-2muchcoffeeman,0,709,1.86364,2,477,,1293187025,1452825506
-2muchmr2,0,1,0.0,0,1,,1435687192,1436896902
-2mur,0,524,2.47727,0,189,,1280366997,1444330696
+ID,Karma,About,Created,Updated
+2ManyDogs,5,,1382311740,
+2m59n81qz5,1,,1315052279,
+2manyredirects,1,"Front end web developer based in London. Usually found as &#x27;toomanyredirects&#x27; on other sites, but ycombinator restricts username character count...",1435592360,1435602592
+2mia,1,"developer, servers, mobiles",1367868665,1419421588
+2mt_stephan,-10,,1281021166,
+2muchcoffeeman,709,,1293187025,1452825506
+2muchmr2,1,,1435687192,1436896902
+2mur,524,,1280366997,1444330696

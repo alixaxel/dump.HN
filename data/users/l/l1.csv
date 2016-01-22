@@ -1,14 +1,14 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-L1AD,0,15,0.0,7,1,,1270898252,
-L1quid,0,0,0.0,1,7,"im a coder who develop[s|ed] camelcamelcamel.com and some other sites.",1231458611,
-l10nf15h,0,4,0.0,0,0,,1427062383,1453167420
-l15,,89,0.0,32,4,,1385756095,1452599062
-l16l57whsvew,0,1,0.0,1,0,,1334390492,1452901808
-l1ambda,0,77,0.0,0,0,,1429219504,1453169212
-l1feh4ck,0,52,0.0,0,0,,1446367531,1453173653
-l1ghtm4n,0,23,0.0,6,24,http://www.l1ghtm4n.com,1298832902,1452900451
-l1m5,0,1,0.0,0,0,,1381171998,1453168196
-l1n,0,48,0.0,0,0,"Station Manager at WMBC\nhttp://wmbc.umbc.edu/<p>[ my public key: https://keybase.io/l1n; my proof: https://keybase.io/l1n/sigs/3U9mdhO7DgI7u5ol4muWuBUG5gIcPmzKZJRiFqz10is ]",1432820196,1453169524
-l1nhp,0,2,0.0,0,0,,1430421891,1453168667
-l1nuxguy,0,1,0.0,1,0,,1320158606,1452898201
-l1st3r,0,1,0.0,0,1,,1383763556,1452929089
+ID,Karma,About,Created,Updated
+L1AD,15,,1270898252,
+L1quid,0,"im a coder who develop[s|ed] camelcamelcamel.com and some other sites.",1231458611,
+l10nf15h,4,,1427062383,1453167420
+l15,89,,1385756095,1452599062
+l16l57whsvew,1,,1334390492,1452901808
+l1ambda,77,,1429219504,1453169212
+l1feh4ck,52,,1446367531,1453173653
+l1ghtm4n,23,http://www.l1ghtm4n.com,1298832902,1452900451
+l1m5,1,,1381171998,1453168196
+l1n,48,"Station Manager at WMBC\nhttp://wmbc.umbc.edu/<p>[ my public key: https://keybase.io/l1n; my proof: https://keybase.io/l1n/sigs/3U9mdhO7DgI7u5ol4muWuBUG5gIcPmzKZJRiFqz10is ]",1432820196,1453169524
+l1nhp,2,,1430421891,1453168667
+l1nuxguy,1,,1320158606,1452898201
+l1st3r,1,,1383763556,1452929089

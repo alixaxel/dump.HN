@@ -1,45 +1,45 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-UCDeseMuscles,0,-1,0.0,1,2,,1212221765,1452886327
-UChicagoMSCS,0,1,0.0,1,0,"The goal of the Masters Program in CS at the University of Chicago offers a great CS education to those looking to advance their career or start a new one in CS. We have joined HN to stay entrenched in the tech community. Contact us with any questions",1363961891,1452911268
-Uchikoma,0,2137,2.0,24,851,,1248866448,1452888183
-ucacian,,6,0.0,0,7,,1394576299,1450207814
-ucaetano,0,958,0.0,0,0,,1421178063,1453165632
-ucarion,,109,3.02778,0,44,ulysse.io<p>https://github.com/ucarion<p>ulysse@ulysse.io,1365264047,1450207814
-ucbic2013,0,1,0.0,1,0,,1362536557,1452910479
-ucbspace,0,1,0.0,0,1,,1409669905,1452930328
-uccha_united,0,1,0.0,1,0,,1345701490,1452905418
-uccrost,,1,0.0,0,1,,1361552239,1450207814
-ucdahacker,,1,0.0,0,1,,1396418651,1450207814
-ucdaz,0,160,1.0,22,64,goodfit.co,1205964714,1205964714
-uce054,0,1,0.0,0,1,,1401448443,1452924822
-ucee054,0,553,1.0,3,424,,1320730466,1452898305
-ucee_054,0,0,0.0,0,2,,1383590192,1452918056
-ucentric,0,17,0.0,9,13,"We are starting the Personal Information Revolution.<p>We started by giving users a way of owning and being in control of their online identity. We chose valid domain names (enhanced with some simple software and an open public resource schema) as our unique identifiers.<p>We call this Open NetID.<p>Then we combined this with a open source personal communications hub that enables people to control the storage and sharing of their information with others. Using a single identifier, their NetID, they can now share their content with others and vica-versa.<p>We call this a HubSite.<p>Finally we made it available for download to self-host on virtually any PC.<p>We call this a Ucentric internet.<p>That is what we are all about.",1282884128,1452889988
-ucerron,,1,0.0,1,0,"Developing an Open Source Decentralized Offchain Banking System decentralbank.com<p>https://bitcointalk.org/index.php?topic=718112",1407012420,1450207814
-ucflibrary,,4,0.0,0,5,,1361726412,1450207814
-ucha,,537,3.12903,42,72,"High Frequency Equity Trader.<p>email: chajia at outlook",1350950290,1452387471
-ucheokeke,,10,0.0,2,5,,1286350431,1450207814
-uchi,,224,4.46512,1,62,,1361267698,1450207814
-uchimatsu,0,1,0.0,2,0,????????,1316805067,1452896994
-uchinerd,0,-2,0.0,0,1,,1385141218,1452918932
-ucho,,111,0.0,1,58,,1333008705,1452874793
-uchoa,0,1,0.0,0,1,,1388183690,1452919615
-uchooseyourself,,218,0.0,2,5,,1414932463,1450207814
-uchup11,0,1,0.0,6,0,,1319342623,1452897963
-uckelman,0,1,0.0,0,3,,1291592519,1452891826
-ucla_jatt,0,8,0.0,2,1,,1239703682,1452887772
-ucombinator,0,-4,0.0,0,0,,1435553535,1453170285
-ucp,0,2,0.0,0,1,,1356425483,1452908391
-ucpete,0,54,0.0,1,10,"I'm a bioinformaticist who recently made the jump from academia to industry. I am a tech-enthusiast and a Python programmer, but I am by no means an expert computer scientist.",1341339087,1452906940
-ucr,0,47,0.0,2,9,,1326392064,1452899533
-ucsbrocks,0,1,0.0,2,2,,1226972127,1452886722
-ucschci,0,1,0.0,0,0,,1425604531,1453166884
-ucsd-tbo,0,6,0.0,0,0,,1259823006,1452888609
-ucsd_surfNerd,0,81,0.0,10,9,,1286221369,1452890123
-ucsdrake,,47,0.0,0,12,,1402428273,1452917388
-ucsdsu,0,1,0.0,0,2,,1346964783,1452906073
-ucsdteam2011,0,1,0.0,0,1,,1321581328,1452898448
-ucsfgrad,0,26,0.0,0,0,,1442251846,1453172332
-ucusiti61,0,1,0.0,1,0,,1344433955,1452905119
-ucvbjk,0,0,0.0,1,4,,1363132792,1452910766
-ucwczptx,0,1,0.0,1,0,,1312465005,1452895755
+ID,Karma,About,Created,Updated
+UCDeseMuscles,-1,,1212221765,1452886327
+UChicagoMSCS,1,"The goal of the Masters Program in CS at the University of Chicago offers a great CS education to those looking to advance their career or start a new one in CS. We have joined HN to stay entrenched in the tech community. Contact us with any questions",1363961891,1452911268
+Uchikoma,2137,,1248866448,1452888183
+ucacian,6,,1394576299,1450207814
+ucaetano,958,,1421178063,1453165632
+ucarion,109,ulysse.io<p>https://github.com/ucarion<p>ulysse@ulysse.io,1365264047,1450207814
+ucbic2013,1,,1362536557,1452910479
+ucbspace,1,,1409669905,1452930328
+uccha_united,1,,1345701490,1452905418
+uccrost,1,,1361552239,1450207814
+ucdahacker,1,,1396418651,1450207814
+ucdaz,160,goodfit.co,1205964714,1205964714
+uce054,1,,1401448443,1452924822
+ucee054,553,,1320730466,1452898305
+ucee_054,0,,1383590192,1452918056
+ucentric,17,"We are starting the Personal Information Revolution.<p>We started by giving users a way of owning and being in control of their online identity. We chose valid domain names (enhanced with some simple software and an open public resource schema) as our unique identifiers.<p>We call this Open NetID.<p>Then we combined this with a open source personal communications hub that enables people to control the storage and sharing of their information with others. Using a single identifier, their NetID, they can now share their content with others and vica-versa.<p>We call this a HubSite.<p>Finally we made it available for download to self-host on virtually any PC.<p>We call this a Ucentric internet.<p>That is what we are all about.",1282884128,1452889988
+ucerron,1,"Developing an Open Source Decentralized Offchain Banking System decentralbank.com<p>https://bitcointalk.org/index.php?topic=718112",1407012420,1450207814
+ucflibrary,4,,1361726412,1450207814
+ucha,537,"High Frequency Equity Trader.<p>email: chajia at outlook",1350950290,1452387471
+ucheokeke,10,,1286350431,1450207814
+uchi,224,,1361267698,1450207814
+uchimatsu,1,????????,1316805067,1452896994
+uchinerd,-2,,1385141218,1452918932
+ucho,111,,1333008705,1452874793
+uchoa,1,,1388183690,1452919615
+uchooseyourself,218,,1414932463,1450207814
+uchup11,1,,1319342623,1452897963
+uckelman,1,,1291592519,1452891826
+ucla_jatt,8,,1239703682,1452887772
+ucombinator,-4,,1435553535,1453170285
+ucp,2,,1356425483,1452908391
+ucpete,54,"I'm a bioinformaticist who recently made the jump from academia to industry. I am a tech-enthusiast and a Python programmer, but I am by no means an expert computer scientist.",1341339087,1452906940
+ucr,47,,1326392064,1452899533
+ucsbrocks,1,,1226972127,1452886722
+ucschci,1,,1425604531,1453166884
+ucsd-tbo,6,,1259823006,1452888609
+ucsd_surfNerd,81,,1286221369,1452890123
+ucsdrake,47,,1402428273,1452917388
+ucsdsu,1,,1346964783,1452906073
+ucsdteam2011,1,,1321581328,1452898448
+ucsfgrad,26,,1442251846,1453172332
+ucusiti61,1,,1344433955,1452905119
+ucvbjk,0,,1363132792,1452910766
+ucwczptx,1,,1312465005,1452895755

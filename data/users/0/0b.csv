@@ -1,10 +1,10 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-0b1100110,0,3,0.0,0,6,,1363927751,
-0batherball,0,1,0.0,24,0,,1333342432,
-0bfuscat3,0,2,0.0,0,1,,1275818075,
-0bfusct3,0,-10,0.0,0,22,,1275821742,
-0bit,0,7,0.0,0,7,,1313573458,1452262303
-0bloc,0,1,0.0,1,0,,1330008554,
-0boy,0,1,0.0,0,1,,1201468757,
-0bp,0,4,0.0,0,3,,1334587027,
-0bs1di4n,0,5,0.0,0,1,"CS and Physics major in college, St. Olaf class of 2014. I develop native Win32 apps in C++ (usually games) and am currently trying to learn web development. i also know C, Python, and Java to a good extent.",1332546584,
+ID,Karma,About,Created,Updated
+0b1100110,3,,1363927751,
+0batherball,1,,1333342432,
+0bfuscat3,2,,1275818075,
+0bfusct3,-10,,1275821742,
+0bit,7,,1313573458,1452262303
+0bloc,1,,1330008554,
+0boy,1,,1201468757,
+0bp,4,,1334587027,
+0bs1di4n,5,"CS and Physics major in college, St. Olaf class of 2014. I develop native Win32 apps in C++ (usually games) and am currently trying to learn web development. i also know C, Python, and Java to a good extent.",1332546584,

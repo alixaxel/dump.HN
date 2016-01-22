@@ -1,34 +1,34 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-J-,0,1,0.0,1,0,,1427134750,1428574231
-J-D-S,0,1,0.0,6,0,,1377235223,
-J-H,0,674,2.19048,26,31,,1343780272,1420318284
-J-J,0,1,0.0,0,1,,1314284365,
-J-L,0,17,0.0,13,7,"Dr. Jochen L. Leidner is a computer scientist specializing in information extraction (also known as ""text analytics""), search engines/information retrieval, geo-spatial processing (GIS), automatic question answering and mobile applications.",1214754804,
-J-_-L,0,2,0.0,1,1,"irbtools gem",1302774462,1446426016
-J-dawg,0,470,0.0,19,56,,1415012046,1452716747
-j-Monkey,0,0,0.0,0,2,,1336580918,1452902858
-j-ashkenas,0,155,0.0,1,4,,1312832022,1452895689
-j-b,,277,0.0,17,49,"Working with R&D in retail technology.",1336397337,1450207814
-j-bone,0,14,0.0,0,1,,1308773112,1452894473
-j-c-m,0,22,0.0,0,0,,1425067288,1453167644
-j-conn,,12,0.0,0,5,,1411087218,1450207814
-j-dev,0,-7,0.0,0,1,,1319661506,1452898236
-j-dr,0,1,0.0,0,0,,1388798595,1453171293
-j-g-faustus,,905,4.81818,8,121,,1270780717,1450207814
-j-gibweb,0,3,0.0,0,0,,1398188242,1453167268
-j-hand,,1,0.0,3,0,"Practitioner and word-spreader of cool new tech and gadgets",1408544814,1450207814
-j-hernandez,,15,0.0,1,24,,1371230173,1450207814
-j-keck,,39,0.0,2,1,,1407649510,1450207814
-j-kidd,,220,1.83721,0,193,,1308637094,1450207814
-j-l-,0,-2,0.0,0,0,,1429087344,1453168196
-j-m,0,1,0.0,0,1,,1403036631,1452926237
-j-m-o,,48,0.0,2,30,"Canadian dev. living the startup dream<p>https://www.useringo.com\nhttps://www.interset.com",1361460209,1450207814
-j-mac,0,1,0.0,0,1,,1395506204,1452922429
-j-pb,1,194,0.0,0,0,,1430180749,1453169078
-j-reynolds,,29,0.0,9,4,"Co-founder, Wevorce. http://www.wevorce.com",1352951619,1452014509
-j-rom,,57,0.0,5,15,,1362190496,1450207814
-j-s-f,,12,0.0,4,8,"Product builder, analyst, marketer.<p>ThePizzaButton.com",1343679985,1450207814
-j-shoe,,1,0.0,1,1,,1397599830,1450207814
-j-star,0,1,0.0,0,0,,1438864970,1453171348
-j-v,0,5,0.0,0,5,,1340153703,1452903557
-j-wilkins,,1,0.0,0,1,,1353960429,1450207814
+ID,Karma,About,Created,Updated
+J-,1,,1427134750,1428574231
+J-D-S,1,,1377235223,
+J-H,674,,1343780272,1420318284
+J-J,1,,1314284365,
+J-L,17,"Dr. Jochen L. Leidner is a computer scientist specializing in information extraction (also known as ""text analytics""), search engines/information retrieval, geo-spatial processing (GIS), automatic question answering and mobile applications.",1214754804,
+J-_-L,2,"irbtools gem",1302774462,1446426016
+J-dawg,470,,1415012046,1452716747
+j-Monkey,0,,1336580918,1452902858
+j-ashkenas,155,,1312832022,1452895689
+j-b,277,"Working with R&D in retail technology.",1336397337,1450207814
+j-bone,14,,1308773112,1452894473
+j-c-m,22,,1425067288,1453167644
+j-conn,12,,1411087218,1450207814
+j-dev,-7,,1319661506,1452898236
+j-dr,1,,1388798595,1453171293
+j-g-faustus,905,,1270780717,1450207814
+j-gibweb,3,,1398188242,1453167268
+j-hand,1,"Practitioner and word-spreader of cool new tech and gadgets",1408544814,1450207814
+j-hernandez,15,,1371230173,1450207814
+j-keck,39,,1407649510,1450207814
+j-kidd,220,,1308637094,1450207814
+j-l-,-2,,1429087344,1453168196
+j-m,1,,1403036631,1452926237
+j-m-o,48,"Canadian dev. living the startup dream<p>https://www.useringo.com\nhttps://www.interset.com",1361460209,1450207814
+j-mac,1,,1395506204,1452922429
+j-pb,194,,1430180749,1453169078
+j-reynolds,29,"Co-founder, Wevorce. http://www.wevorce.com",1352951619,1452014509
+j-rom,57,,1362190496,1450207814
+j-s-f,12,"Product builder, analyst, marketer.<p>ThePizzaButton.com",1343679985,1450207814
+j-shoe,1,,1397599830,1450207814
+j-star,1,,1438864970,1453171348
+j-v,5,,1340153703,1452903557
+j-wilkins,1,,1353960429,1450207814

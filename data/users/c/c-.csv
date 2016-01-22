@@ -1,22 +1,22 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-C--,0,158,0.0,15,4,,1381169080,1422056977
-C--C,0,1,0.0,0,1,,1402994469,
-C-64-Hacker,0,0,0.0,0,2,,1412629783,
-C-ford,0,1,0.0,0,1,,1314888339,
-C-ray,0,1,0.0,1,0,,1371747483,
-C-sharp,0,1,0.0,1,0,,1363074112,1438003785
-c--misura,,63,0.0,1,3,"I&#x27;m a visual designer, developer and user-experience architect. Advanced proficiency in a variety of web languages, frameworks and APIs. I create adaptive web applications as founder of Utility Digital.<p>http://utl.io",1367599038,1450207814
-c-47,0,3,0.0,0,0,,1453223827,1453379884
-c-a,,36,0.0,0,6,,1368284768,1450207814
-c-bayprogrammer,0,2,0.0,1,5,"Hacking on Oregon's beautiful Coast.<p>http://bayprogrammer.com",1365871920,1452911713
-c-clark,0,41,0.0,0,0,,1446977806,1453173849
-c-darwin,0,30,0.0,0,0,,1423297425,1453166622
-c-ei-po,,6,0.0,17,3,,1373623922,1450207814
-c-forster,0,2,0.0,0,0,,1429883693,1453168438
-c-m,0,3,0.0,0,0,,1251526468,1452888316
-c-oreills,,1018,3.23684,79,48,"christy at oreills.co.uk",1280857096,1450207814
-c-qjv0xfi,0,1,0.0,0,0,,1420651120,1453165040
-c-rack,,145,0.0,28,17,"Homepage: http://co.nstant.in/<p>GitHub: https://github.com/c-rack<p>Twitter: @ConstantinRack<p>[ my public key: https://keybase.io/constantin; my proof: https://keybase.io/constantin/sigs/R5F1UdGz6-Y8JPXQ8WPEu4nfxgEuYtMuB4jjhAVwnlI ]",1417111657,1452598410
-c-slice,0,248,0.0,0,0,"Stoked about the convergence of healthcare and mobile",1424467632,1453166500
-c-star,0,1,0.0,0,1,,1358495840,1452908876
-c-w,,82,0.0,2,3,,1407108518,1450207814
+ID,Karma,About,Created,Updated
+C--,158,,1381169080,1422056977
+C--C,1,,1402994469,
+C-64-Hacker,0,,1412629783,
+C-ford,1,,1314888339,
+C-ray,1,,1371747483,
+C-sharp,1,,1363074112,1438003785
+c--misura,63,"I&#x27;m a visual designer, developer and user-experience architect. Advanced proficiency in a variety of web languages, frameworks and APIs. I create adaptive web applications as founder of Utility Digital.<p>http://utl.io",1367599038,1450207814
+c-47,3,,1453223827,1453379884
+c-a,36,,1368284768,1450207814
+c-bayprogrammer,2,"Hacking on Oregon's beautiful Coast.<p>http://bayprogrammer.com",1365871920,1452911713
+c-clark,41,,1446977806,1453173849
+c-darwin,30,,1423297425,1453166622
+c-ei-po,6,,1373623922,1450207814
+c-forster,2,,1429883693,1453168438
+c-m,3,,1251526468,1452888316
+c-oreills,1018,"christy at oreills.co.uk",1280857096,1450207814
+c-qjv0xfi,1,,1420651120,1453165040
+c-rack,145,"Homepage: http://co.nstant.in/<p>GitHub: https://github.com/c-rack<p>Twitter: @ConstantinRack<p>[ my public key: https://keybase.io/constantin; my proof: https://keybase.io/constantin/sigs/R5F1UdGz6-Y8JPXQ8WPEu4nfxgEuYtMuB4jjhAVwnlI ]",1417111657,1452598410
+c-slice,248,"Stoked about the convergence of healthcare and mobile",1424467632,1453166500
+c-star,1,,1358495840,1452908876
+c-w,82,,1407108518,1450207814

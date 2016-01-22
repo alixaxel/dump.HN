@@ -1,3 +1,3 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-7erb,0,-6,0.0,2,17,"Email: word [at] 7erb dot com",1432997577,1448723994
-7ewis,0,3,0.0,0,11,,1356736337,1450644856
+ID,Karma,About,Created,Updated
+7erb,-6,"Email: word [at] 7erb dot com",1432997577,1448723994
+7ewis,3,,1356736337,1450644856

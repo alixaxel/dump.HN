@@ -1,12 +1,12 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-hq1,0,5,0.0,0,3,http://mtod.org,1330426534,1452903596
-hqc,0,1,0.0,0,0,,1443674574,1453172726
-hqdev,0,7,0.0,1,1,,1283179173,1452889908
-hqhakcer,0,1,0.0,0,1,,1405666892,1452927690
-hqhdfshsdh,0,1,0.0,1,0,,1389226498,1452919946
-hqho,0,2,0.0,1,0,"My goal in life is to have a positive impact on society. I believe I can do this by leveraging my technical skills to help people become more efficient and to help them make better decisions. Although I'm analytical/scientific by nature, I enjoy applying a zen-like attitude towards work and life.<p>I recently quit my job after ~10 years in the corporate world.  Although I was on successful track, I realized that it wasn't for me.  The money was good, but I wasn't achieving my true calling.  As a result, I resigned and started up my own software company.  It's been a huge change, but definitely for the better.  In a month's time (June, 2013), I plan on throwing my laptop in my backpack, jumping on my motorcycle and heading out to Silicon Valley.  I figure if I'm going to swing for the fences, might as well be in the right ballpark.",1367460713,1452918932
-hqian,0,4,0.0,0,0,,1383147699,1453170645
-hqjiang,0,1,0.0,0,0,"Geek and new entrepreneur...",1435636111,1453170298
-hqm,0,1,0.0,0,1,,1405138457,1452927100
-hqm42,0,2,0.0,0,2,,1361466441,1452910032
-hqsavvy,,30,0.0,0,4,,1376229055,1450207814
+ID,Karma,About,Created,Updated
+hq1,5,http://mtod.org,1330426534,1452903596
+hqc,1,,1443674574,1453172726
+hqdev,7,,1283179173,1452889908
+hqhakcer,1,,1405666892,1452927690
+hqhdfshsdh,1,,1389226498,1452919946
+hqho,2,"My goal in life is to have a positive impact on society. I believe I can do this by leveraging my technical skills to help people become more efficient and to help them make better decisions. Although I'm analytical/scientific by nature, I enjoy applying a zen-like attitude towards work and life.<p>I recently quit my job after ~10 years in the corporate world.  Although I was on successful track, I realized that it wasn't for me.  The money was good, but I wasn't achieving my true calling.  As a result, I resigned and started up my own software company.  It's been a huge change, but definitely for the better.  In a month's time (June, 2013), I plan on throwing my laptop in my backpack, jumping on my motorcycle and heading out to Silicon Valley.  I figure if I'm going to swing for the fences, might as well be in the right ballpark.",1367460713,1452918932
+hqian,4,,1383147699,1453170645
+hqjiang,1,"Geek and new entrepreneur...",1435636111,1453170298
+hqm,1,,1405138457,1452927100
+hqm42,2,,1361466441,1452910032
+hqsavvy,30,,1376229055,1450207814

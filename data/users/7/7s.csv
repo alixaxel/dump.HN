@@ -1,8 +1,8 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-7S-ymVNwEwE-,0,7,0.0,0,1,,1434056900,1434193064
-7SLEVIN,0,4,0.0,1,0,,1355228485,1423060932
-7s,0,3,0.0,0,12,,1374509586,
-7schlaefer,0,-9,0.0,0,13,,1372051204,
-7sharp9,0,12,0.0,7,1,"Technologist, computer programmer, and keen guitarist.  I build reliable efficient, high performance software in F# and C#  http://Moiraesoftware.com",1342470674,
-7sigma,0,13,0.0,1,8,,1427289213,1449669902
-7stark7,0,5,0.0,0,5,,1384240272,
+ID,Karma,About,Created,Updated
+7S-ymVNwEwE-,7,,1434056900,1434193064
+7SLEVIN,4,,1355228485,1423060932
+7s,3,,1374509586,
+7schlaefer,-9,,1372051204,
+7sharp9,12,"Technologist, computer programmer, and keen guitarist.  I build reliable efficient, high performance software in F# and C#  http://Moiraesoftware.com",1342470674,
+7sigma,13,,1427289213,1449669902
+7stark7,5,,1384240272,

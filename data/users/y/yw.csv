@@ -1,17 +1,17 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-yw015,0,1,0.0,3,0,,1312797136,1452895902
-ywang0414,0,12,0.0,1,22,"Co-founder Raveler.",1364395632,1452912781
-ywchen,,1,0.0,2,1,,1419366144,1450267840
-ywecur,0,76,0.0,0,0,,1427856649,1453167683
-ywfoong,0,2,0.0,0,0,,1432006594,1453169226
-ywfuplyful,0,1,0.0,0,1,,1404432947,1452926652
-ywgdana,,36,0.0,0,10,,1268320344,1450207814
-ywin2000,0,3,0.0,4,0,,1346782313,1452906181
-ywin8,0,1,0.0,1,0,,1345242553,1452905352
-ywmmi9,0,1,0.0,1,0,,1330304700,1452900295
-ywong137,0,1,0.0,0,2,,1318287339,1452897529
-yworld,0,1,0.0,14,0,"Posting updates from the next-generation collaborative networking platform, YWorld.<p>http://www.YWorld.com",1343424320,1452904884
-ywrkdl,0,13,0.0,0,1,,1334197363,1452901619
-ywu,0,1,0.0,0,1,"Freelancer, accepting Java, iOS, Android, RoR, nodejs parttime jobs.<p>Graduated from Tsinghua University with Bachelor degree in Computer Science, and University of Adelaide with PhD in Computer Science.<p>Won TopCoder Component Development Championship (2009) with almost perfect scores.<p>Worked on several large projects, including a P2P video on demand system (client side), an online competition system (TopCoder), an online education system (about to go online in July).",1313219853,1452925081
-ywy4458,0,1,0.0,0,0,,1446059376,1453173925
-ywyrd,0,67,0.0,0,28,,1362183127,1452910366
+ID,Karma,About,Created,Updated
+yw015,1,,1312797136,1452895902
+ywang0414,12,"Co-founder Raveler.",1364395632,1452912781
+ywchen,1,,1419366144,1450267840
+ywecur,76,,1427856649,1453167683
+ywfoong,2,,1432006594,1453169226
+ywfuplyful,1,,1404432947,1452926652
+ywgdana,36,,1268320344,1450207814
+ywin2000,3,,1346782313,1452906181
+ywin8,1,,1345242553,1452905352
+ywmmi9,1,,1330304700,1452900295
+ywong137,1,,1318287339,1452897529
+yworld,1,"Posting updates from the next-generation collaborative networking platform, YWorld.<p>http://www.YWorld.com",1343424320,1452904884
+ywrkdl,13,,1334197363,1452901619
+ywu,1,"Freelancer, accepting Java, iOS, Android, RoR, nodejs parttime jobs.<p>Graduated from Tsinghua University with Bachelor degree in Computer Science, and University of Adelaide with PhD in Computer Science.<p>Won TopCoder Component Development Championship (2009) with almost perfect scores.<p>Worked on several large projects, including a P2P video on demand system (client side), an online competition system (TopCoder), an online education system (about to go online in July).",1313219853,1452925081
+ywy4458,1,,1446059376,1453173925
+ywyrd,67,,1362183127,1452910366

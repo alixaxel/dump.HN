@@ -1,15 +1,15 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-910138391,0,1,0.0,0,1,,1393096642,1453164097
-9102321908128,0,1,0.0,0,2,,1389167732,
-911-inside_job,0,18,0.0,2,10,,1306004360,
-911_Inside_Job,0,1,0.0,0,6,,1391986142,
-911isajoke,0,-5,0.0,0,10,,1396124303,1417811795
-911miss,0,-7,0.0,0,2,,1273083207,
-912lab,0,1,0.0,3,0,,1345372442,
-916pug,0,1,0.0,10,0,,1336176281,
-918898913942,0,1,0.0,1,0,,1368385054,
-9193-on,0,1,0.0,0,1,,1396997899,
-919939700040,0,1,0.0,0,1,,1405361900,
-91bananas,0,186,0.0,0,92,,1371680357,1452316675
-91edec,0,2,0.0,0,5,,1395289458,1440879871
-91pavan,0,1,0.0,0,3,"Hi, my name is Pavan and I&#x27;m working as a Software Engineer.<p>Interested in Big Data, OpenStack, Web Technologies and programming in general.<p>Twitter : @pavansudheendra<p>Email : pavan0591@gmail.com (preferred)",1413088004,1447651500
+ID,Karma,About,Created,Updated
+910138391,1,,1393096642,1453164097
+9102321908128,1,,1389167732,
+911-inside_job,18,,1306004360,
+911_Inside_Job,1,,1391986142,
+911isajoke,-5,,1396124303,1417811795
+911miss,-7,,1273083207,
+912lab,1,,1345372442,
+916pug,1,,1336176281,
+918898913942,1,,1368385054,
+9193-on,1,,1396997899,
+919939700040,1,,1405361900,
+91bananas,186,,1371680357,1452316675
+91edec,2,,1395289458,1440879871
+91pavan,1,"Hi, my name is Pavan and I&#x27;m working as a Software Engineer.<p>Interested in Big Data, OpenStack, Web Technologies and programming in general.<p>Twitter : @pavansudheendra<p>Email : pavan0591@gmail.com (preferred)",1413088004,1447651500

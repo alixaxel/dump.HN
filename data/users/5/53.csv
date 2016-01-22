@@ -1,6 +1,6 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-5329,0,1,0.0,1,0,,1303875544,1453163942
-534,0,1,0.0,0,1,,1295473693,1453163942
-534sfs,0,3,0.0,0,3,,1375218488,
-5362677_0010,0,1,0.0,0,3,,1392487237,
-53_years_and,0,7,0.0,0,1,"Hello all, I was 1point1, then 1point2 and now...\nI program (rather poorly) PLC's.",1332823552,
+ID,Karma,About,Created,Updated
+5329,1,,1303875544,1453163942
+534,1,,1295473693,1453163942
+534sfs,3,,1375218488,
+5362677_0010,1,,1392487237,
+53_years_and,7,"Hello all, I was 1point1, then 1point2 and now...\nI program (rather poorly) PLC's.",1332823552,

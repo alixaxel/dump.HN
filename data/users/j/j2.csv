@@ -1,24 +1,24 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-J2Alpha,0,0,0.0,0,1,,1439553409,1439557752
-J2B2,0,1,0.0,0,1,"I have a background in physics, development, and product management. Always happy to help if someone is working on something positive.",1403107626,
-J2K,0,111,0.0,8,4,prattl.com,1358691445,1439162516
-J2triplezero,0,59,0.0,1,1,,1341506613,
-j21,,17,1.25,18,19,jabeuy.com,1326552862,1450207814
-j23tom,0,-17,0.0,5,37,,1265716349,1452888852
-j2438,0,4,0.0,0,0,,1427379078,1453167519
-j26774,0,2,0.0,0,0,,1435797520,1453172045
-j29h,,2,0.0,1,4,,1418991364,1450267840
-j2bax,,135,1.72222,17,83,,1345826523,1452103370
-j2bryson,0,3,0.0,0,1,,1301904071,1452893181
-j2d2,0,1099,2.0,26,388,"this account is abandoned! i've been unnecessarily snarky via this account so i'm starting fresh with 'j2d2j2d2' instead.",1209870321,1209870321
-j2d2j2d2,0,630,3.0,22,126,"Python, erlang and guitars!<p>Twitter: @j2labs<p>Code blog: j2labs.tumblr.com<p>Code: https://github.com/j2labs",1284049883,1452889988
-j2d3,,260,2.30952,15,128,,1360799710,1450207814
-j2fly,0,3,0.0,0,2,,1265086854,1452888810
-j2h6mW,0,4,0.0,0,5,,1364391716,1452915403
-j2ko4r,0,12,0.0,0,0,,1449798255,1453174476
-j2kun,,3087,2.40909,46,1014,"Author of Math  Programming: http://jeremykun.com",1344185019,1452490990
-j2labs,0,1159,2.38461538461538,22,180,"Musician | Hacker | http://j2labs.io",1310837029,1452895124
-j2oomee,0,1,0.0,0,1,,1384186100,1452918382
-j2pro,0,33,0.0,25,3,,1326985268,1452899567
-j2ulie,0,1,0.0,1,0,,1342622960,1452904654
-j2vidal,0,4,0.0,1,0,,1322175383,1452901187
+ID,Karma,About,Created,Updated
+J2Alpha,0,,1439553409,1439557752
+J2B2,1,"I have a background in physics, development, and product management. Always happy to help if someone is working on something positive.",1403107626,
+J2K,111,prattl.com,1358691445,1439162516
+J2triplezero,59,,1341506613,
+j21,17,jabeuy.com,1326552862,1450207814
+j23tom,-17,,1265716349,1452888852
+j2438,4,,1427379078,1453167519
+j26774,2,,1435797520,1453172045
+j29h,2,,1418991364,1450267840
+j2bax,135,,1345826523,1452103370
+j2bryson,3,,1301904071,1452893181
+j2d2,1099,"this account is abandoned! i've been unnecessarily snarky via this account so i'm starting fresh with 'j2d2j2d2' instead.",1209870321,1209870321
+j2d2j2d2,630,"Python, erlang and guitars!<p>Twitter: @j2labs<p>Code blog: j2labs.tumblr.com<p>Code: https://github.com/j2labs",1284049883,1452889988
+j2d3,260,,1360799710,1450207814
+j2fly,3,,1265086854,1452888810
+j2h6mW,4,,1364391716,1452915403
+j2ko4r,12,,1449798255,1453174476
+j2kun,3087,"Author of Math  Programming: http://jeremykun.com",1344185019,1452490990
+j2labs,1159,"Musician | Hacker | http://j2labs.io",1310837029,1452895124
+j2oomee,1,,1384186100,1452918382
+j2pro,33,,1326985268,1452899567
+j2ulie,1,,1342622960,1452904654
+j2vidal,4,,1322175383,1452901187

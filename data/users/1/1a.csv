@@ -1,14 +1,14 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-1a2a3a4a,0,12,0.0,0,10,,1396905193,1425751304
-1a2a3afou,0,2,0.0,0,1,,1373615331,
-1a2b3c,0,2,0.0,0,2,,1335688011,
-1ace,0,80,0.0,9,3,https://eric.engestrom.ch,1393859454,1452621463
-1admin,0,0,0.0,0,1,"SEO consultant & blogger",1368798612,
-1alvarez,0,1,0.0,1,0,,1241619881,
-1amzave,0,467,3.27273,7,142,,1264134020,1449316628
-1and2equals0,0,4,0.0,3,4,,1398974071,1444193178
-1andi2,0,1,0.0,2,0,,1333372658,
-1angdon,0,1,0.0,0,1,,1389136803,
-1angryhacker,0,22,0.0,0,31,,1378132939,1413192450
-1arity,0,80,0.0,18,126,"Reach me at LinkedIn :<p>https://www.linkedin.com/pub/cris-stringfellow/87/8b9/aa0",1436177457,1441320032
-1as,0,144,0.0,6,19,,1301614862,1452322526
+ID,Karma,About,Created,Updated
+1a2a3a4a,12,,1396905193,1425751304
+1a2a3afou,2,,1373615331,
+1a2b3c,2,,1335688011,
+1ace,80,https://eric.engestrom.ch,1393859454,1452621463
+1admin,0,"SEO consultant & blogger",1368798612,
+1alvarez,1,,1241619881,
+1amzave,467,,1264134020,1449316628
+1and2equals0,4,,1398974071,1444193178
+1andi2,1,,1333372658,
+1angdon,1,,1389136803,
+1angryhacker,22,,1378132939,1413192450
+1arity,80,"Reach me at LinkedIn :<p>https://www.linkedin.com/pub/cris-stringfellow/87/8b9/aa0",1436177457,1441320032
+1as,144,,1301614862,1452322526

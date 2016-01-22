@@ -1,5 +1,5 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-0ca0,0,5,0.0,0,11,,1336488453,
-0cachecoherency,0,35,0.0,0,10,http://ponylang.org,1430689215,1452801253
-0cean,0,2,0.0,0,2,,1302500448,1423808344
-0cool,0,1144,0.0,127,4,,1341400665,1452615368
+ID,Karma,About,Created,Updated
+0ca0,5,,1336488453,
+0cachecoherency,35,http://ponylang.org,1430689215,1452801253
+0cean,2,,1302500448,1423808344
+0cool,1144,,1341400665,1452615368

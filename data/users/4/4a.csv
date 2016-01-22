@@ -1,7 +1,7 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-4a0uuslhqsrf,0,2,0.0,0,1,,1437765097,1437767464
-4a3f35b5a,0,7,0.0,0,1,,1364581523,1415256779
-4abhishekpathak,0,1,0.0,3,5,www.abhishekpathak.net,1316523684,1421918967
-4ad,0,3087,2.34091,10,1053,"JSR PC, @(R6)+",1312476682,1452337207
-4as198sGxV,0,18,0.0,0,10,,1330621231,
-4away,0,1,0.0,0,1,,1408484406,
+ID,Karma,About,Created,Updated
+4a0uuslhqsrf,2,,1437765097,1437767464
+4a3f35b5a,7,,1364581523,1415256779
+4abhishekpathak,1,www.abhishekpathak.net,1316523684,1421918967
+4ad,3087,"JSR PC, @(R6)+",1312476682,1452337207
+4as198sGxV,18,,1330621231,
+4away,1,,1408484406,

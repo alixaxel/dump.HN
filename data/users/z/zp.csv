@@ -1,37 +1,37 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-ZPedro,,3,0.0,0,3,,1279568714,1450207814
-Zpalmtree,0,3,0.0,0,0,,1443119784,1453172967
-Zpirate,0,-11,0.0,0,15,,1296925091,1452892263
-zp-j,0,2,0.0,0,0,http://zp-j.github.io,1445086784,1453173727
-zpallin,0,1,0.0,0,0,,1435774250,1453170363
-zpao,,155,0.0,7,34,,1296081037,1450207814
-zparker83,0,1,0.0,0,0,,1429897345,1453168450
-zpassenger,0,-13,0.0,0,1,,1363096896,1452911355
-zpasternack,,7,0.0,0,3,,1306450353,1450207814
-zpatel,0,5,0.0,0,0,,1398107218,1453166003
-zpatrik,0,2,0.0,1,2,"designer geek",1310291979,1452894913
-zpc,0,2,0.0,0,1,,1330398286,1452900295
-zpconn,,19,0.0,0,9,,1360991947,1450207814
-zpe,,19,0.0,0,6,,1359845359,1450207814
-zpem,0,0,0.0,0,2,,1406942025,1452928429
-zperrault,,9,0.0,2,4,,1405342738,1450207814
-zperucic,0,1,0.0,0,0,,1423771298,1453167406
-zpeti,0,2,0.0,6,0,,1350553399,1452906850
-zpetrov,0,3,0.0,0,0,,1430833567,1453168829
-zphds,,19,0.0,0,17,,1345596490,1450207814
-zpidey,0,3,0.0,0,0,,1445039139,1453173131
-zpietro,0,1,0.0,0,1,,1395695741,1452922632
-zpiman,,2,0.0,4,2,"I like science, computers and technology all meshed up into one....<p>[ my public key: https://keybase.io/zpiman; my proof: https://keybase.io/zpiman/sigs/05L1si62YZ78is-77E3MetXvL1ET-0QtSdIzwEAQZa8 ]",1411495191,1451903606
-zpinter,0,1,0.0,0,1,"My main profile is at:<p>https://news.ycombinator.com/user?id=zacharypinter",1212766981,1452917892
-zpinto,0,2,0.0,1,0,,1347951450,1452906181
-zpj5005,,174,0.0,4,11,www.zachjohnston.com,1299175698,1450207814
-zpk,0,61,1.30232558139535,12,56,,1331846479,1452900913
-zplesivcak,,0,0.0,0,6,,1340816219,1450207814
-zpoley,,153,1.0,18,15,http://zpoley.net,1250319827,1450207814
-zpool,0,1,0.0,0,0,,1423237022,1453165890
-zporter,,1,0.0,3,0,,1350308541,1450207814
-zppie,0,0,0.0,0,2,,1374036477,1452914804
-zppx,0,380,3.0,0,201,"I am Applied Mathematics student at Universidade de So Paulo, a Ruby (but I'm using more Python) and hobbyist C programmer (learned a couple of SML and Scheme and some functional programming), now working as a sysadmin. A Linux user since 1999, though I'm using a Mac in a laptop lately although I have a personal dekstop with Debian.",1215397567,1452886327
-zpr,0,4,0.0,0,0,,1450258464,1453174791
-zprit,0,1,0.0,0,1,,1364943540,1452913257
-zpro,0,1,0.0,0,0,,1427790907,1453167644
+ID,Karma,About,Created,Updated
+ZPedro,3,,1279568714,1450207814
+Zpalmtree,3,,1443119784,1453172967
+Zpirate,-11,,1296925091,1452892263
+zp-j,2,http://zp-j.github.io,1445086784,1453173727
+zpallin,1,,1435774250,1453170363
+zpao,155,,1296081037,1450207814
+zparker83,1,,1429897345,1453168450
+zpassenger,-13,,1363096896,1452911355
+zpasternack,7,,1306450353,1450207814
+zpatel,5,,1398107218,1453166003
+zpatrik,2,"designer geek",1310291979,1452894913
+zpc,2,,1330398286,1452900295
+zpconn,19,,1360991947,1450207814
+zpe,19,,1359845359,1450207814
+zpem,0,,1406942025,1452928429
+zperrault,9,,1405342738,1450207814
+zperucic,1,,1423771298,1453167406
+zpeti,2,,1350553399,1452906850
+zpetrov,3,,1430833567,1453168829
+zphds,19,,1345596490,1450207814
+zpidey,3,,1445039139,1453173131
+zpietro,1,,1395695741,1452922632
+zpiman,2,"I like science, computers and technology all meshed up into one....<p>[ my public key: https://keybase.io/zpiman; my proof: https://keybase.io/zpiman/sigs/05L1si62YZ78is-77E3MetXvL1ET-0QtSdIzwEAQZa8 ]",1411495191,1451903606
+zpinter,1,"My main profile is at:<p>https://news.ycombinator.com/user?id=zacharypinter",1212766981,1452917892
+zpinto,2,,1347951450,1452906181
+zpj5005,174,www.zachjohnston.com,1299175698,1450207814
+zpk,61,,1331846479,1452900913
+zplesivcak,0,,1340816219,1450207814
+zpoley,153,http://zpoley.net,1250319827,1450207814
+zpool,1,,1423237022,1453165890
+zporter,1,,1350308541,1450207814
+zppie,0,,1374036477,1452914804
+zppx,380,"I am Applied Mathematics student at Universidade de So Paulo, a Ruby (but I'm using more Python) and hobbyist C programmer (learned a couple of SML and Scheme and some functional programming), now working as a sysadmin. A Linux user since 1999, though I'm using a Mac in a laptop lately although I have a personal dekstop with Debian.",1215397567,1452886327
+zpr,4,,1450258464,1453174791
+zprit,1,,1364943540,1452913257
+zpro,1,,1427790907,1453167644

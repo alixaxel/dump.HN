@@ -1,9 +1,9 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-L-L-Lame_J,0,2,0.0,0,3,,1294296709,
-L-boog,0,9,0.0,0,2,,1436199503,1436304617
-L-four,0,10,0.0,0,6,,1386663714,1443354997
-l-jenkins,0,7,0.0,0,0,,1421338898,1453165294
-l-n-s,0,1,0.0,0,0,,1437421919,1453171002
-l-p,,43,0.0,0,20,"[ my public key: https://keybase.io/lp0; my proof: https://keybase.io/lp0/sigs/_UTLBECCWXpOVJrDnBCRG6uyRDD9eAF9tkKUp_xzEoU ]",1347291107,1450207814
-l-vincent-l,0,1,0.0,0,0,,1397990113,1453167938
-l-zen,0,1,0.0,1,0,,1303818826,1452893476
+ID,Karma,About,Created,Updated
+L-L-Lame_J,2,,1294296709,
+L-boog,9,,1436199503,1436304617
+L-four,10,,1386663714,1443354997
+l-jenkins,7,,1421338898,1453165294
+l-n-s,1,,1437421919,1453171002
+l-p,43,"[ my public key: https://keybase.io/lp0; my proof: https://keybase.io/lp0/sigs/_UTLBECCWXpOVJrDnBCRG6uyRDD9eAF9tkKUp_xzEoU ]",1347291107,1450207814
+l-vincent-l,1,,1397990113,1453167938
+l-zen,1,,1303818826,1452893476

@@ -1,45 +1,45 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-VJMusique,0,1,0.0,1,0,,1331354771,1452900562
-VJayK,0,2,0.0,0,1,,1343769768,1452904984
-VJth,0,3,0.0,0,0,,1428280759,1453167852
-Vjachik,0,2,0.0,2,0,,1247125362,1452888025
-Vjdjcjdjfhc,0,1,0.0,0,1,,1409604545,1452930282
-Vjeubvjshdhr,0,1,0.0,0,1,,1408947192,1452929798
-Vjkumar666,0,1,0.0,1,0,,1352556915,1452907235
-VjoletaM,0,1,0.0,0,0,,1428411903,1453167911
-vj44,,904,2.03125,16,45,"I work on DataNitro (www.datanitro.com). CS student at MIT. Enjoy backend solutions, distributed systems & theoretical data structures & algorithms. More at www.jakubiuk.net",1326766036,1450207814
-vj9,0,2,0.0,0,0,,1432572440,1453169386
-vjai_krishnan,0,1,0.0,1,0,,1344921497,1452905249
-vjain,0,1,0.0,1,0,,1351971125,1452907138
-vjandrea,,7,0.0,4,6,"Radio broadcast technician, club VJ/LJ, sound engineer, web developer based in Monaco",1400568326,1450207814
-vjani,0,2,0.0,0,3,,1358498484,1452908876
-vjankov,0,1,0.0,0,0,"Mobile developer-Android/Swift",1432709620,1453169420
-vjanma,,149,0.0,9,8,"Entrepreneur, Mobile and Web Apps, Singularity U grad, Advisor - Getaround.",1296852577,1450207814
-vjay,0,1,0.0,0,1,,1376352922,1452915508
-vjdhama,,11,0.0,7,16,,1347475606,1451320312
-vjeux,,1608,3.88636,24,168,http://blog.vjeux.com/,1303648064,1452822004
-vjfsd9830,0,1,0.0,1,0,,1312915580,1452902858
-vjj,0,1,0.0,0,1,,1399443874,1452924205
-vjk,,2,0.0,0,1,"ex-Googler, Youtuber, Stanford CS. Hacking and starting something new.",1404414436,1450207814
-vjk2005,0,46,1.0,2,37,"Designer + Web Developer (Node.js + Jquery + MongoDB)\nwww.dffrnt.com<p>Coimbatore, Tamil Nadu, India",1280203080,1452889628
-vjl,0,1,0.0,0,0,,1440749949,1453171896
-vjlenin,0,1,0.0,1,0,"Author & Technology enthusiast.",1362125304,1452910366
-vjoel,0,30,0.0,1,23,"Mathematician, rubyist, former transportation researcher, interested in distributed computation, simulation of networks of hybrid automata. https://github.com/vjoel",1366053765,1452915749
-vjohnson,0,2,0.0,4,3,"Co-founder, ProFellow.com",1328212867,1452899786
-vjoshi,0,33,0.0,0,0,,1443089793,1453172577
-vjpvs4233,0,1,0.0,1,0,,1312916062,1452903303
-vjr,0,1,0.0,0,0,,1438671305,1453174652
-vjrabanelly,0,1,0.0,0,1,,1318259830,1452899040
-vjrobinson,0,1,0.0,0,0,,1436901808,1453170753
-vjsaqib,0,1,0.0,1,0,,1318097183,1452897529
-vjsingh,0,1,0.0,0,1,,1334510565,1452901775
-vjt,,25,0.0,2,8,"Just another drop in the ocean.<p>Blabberings: http://sindro.me/.<p>[ my public key: https://keybase.io/vjt; my proof: https://keybase.io/vjt/sigs/C9oJJW0bFsZYR_Tb9mWMq--Fvt6IN0044sgZvoVZFYA ]",1236950775,1450207814
-vjthakkar,0,1,0.0,0,1,,1324362899,1452899040
-vjtorres11,0,1,0.0,1,0,,1312351072,1452900414
-vju,0,17,0.0,1,0,,1372009839,1452913976
-vjunloc,0,1,0.0,0,1,,1342205378,1452904585
-vjvj,,282,1.35714,25,60,,1373896216,1452628124
-vjvyi5186,0,1,0.0,1,0,,1312915105,1452902371
-vjwaks,0,0,0.0,0,1,,1300207088,1452892737
-vjy,0,1,0.0,0,1,,1330459892,1452900347
-vjz,,18,0.0,0,4,,1208046668,1450207814
+ID,Karma,About,Created,Updated
+VJMusique,1,,1331354771,1452900562
+VJayK,2,,1343769768,1452904984
+VJth,3,,1428280759,1453167852
+Vjachik,2,,1247125362,1452888025
+Vjdjcjdjfhc,1,,1409604545,1452930282
+Vjeubvjshdhr,1,,1408947192,1452929798
+Vjkumar666,1,,1352556915,1452907235
+VjoletaM,1,,1428411903,1453167911
+vj44,904,"I work on DataNitro (www.datanitro.com). CS student at MIT. Enjoy backend solutions, distributed systems & theoretical data structures & algorithms. More at www.jakubiuk.net",1326766036,1450207814
+vj9,2,,1432572440,1453169386
+vjai_krishnan,1,,1344921497,1452905249
+vjain,1,,1351971125,1452907138
+vjandrea,7,"Radio broadcast technician, club VJ/LJ, sound engineer, web developer based in Monaco",1400568326,1450207814
+vjani,2,,1358498484,1452908876
+vjankov,1,"Mobile developer-Android/Swift",1432709620,1453169420
+vjanma,149,"Entrepreneur, Mobile and Web Apps, Singularity U grad, Advisor - Getaround.",1296852577,1450207814
+vjay,1,,1376352922,1452915508
+vjdhama,11,,1347475606,1451320312
+vjeux,1608,http://blog.vjeux.com/,1303648064,1452822004
+vjfsd9830,1,,1312915580,1452902858
+vjj,1,,1399443874,1452924205
+vjk,2,"ex-Googler, Youtuber, Stanford CS. Hacking and starting something new.",1404414436,1450207814
+vjk2005,46,"Designer + Web Developer (Node.js + Jquery + MongoDB)\nwww.dffrnt.com<p>Coimbatore, Tamil Nadu, India",1280203080,1452889628
+vjl,1,,1440749949,1453171896
+vjlenin,1,"Author & Technology enthusiast.",1362125304,1452910366
+vjoel,30,"Mathematician, rubyist, former transportation researcher, interested in distributed computation, simulation of networks of hybrid automata. https://github.com/vjoel",1366053765,1452915749
+vjohnson,2,"Co-founder, ProFellow.com",1328212867,1452899786
+vjoshi,33,,1443089793,1453172577
+vjpvs4233,1,,1312916062,1452903303
+vjr,1,,1438671305,1453174652
+vjrabanelly,1,,1318259830,1452899040
+vjrobinson,1,,1436901808,1453170753
+vjsaqib,1,,1318097183,1452897529
+vjsingh,1,,1334510565,1452901775
+vjt,25,"Just another drop in the ocean.<p>Blabberings: http://sindro.me/.<p>[ my public key: https://keybase.io/vjt; my proof: https://keybase.io/vjt/sigs/C9oJJW0bFsZYR_Tb9mWMq--Fvt6IN0044sgZvoVZFYA ]",1236950775,1450207814
+vjthakkar,1,,1324362899,1452899040
+vjtorres11,1,,1312351072,1452900414
+vju,17,,1372009839,1452913976
+vjunloc,1,,1342205378,1452904585
+vjvj,282,,1373896216,1452628124
+vjvyi5186,1,,1312915105,1452902371
+vjwaks,0,,1300207088,1452892737
+vjy,1,,1330459892,1452900347
+vjz,18,,1208046668,1450207814

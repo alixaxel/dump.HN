@@ -1,16 +1,16 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-X-CLUSSIVEZ,0,1,0.0,1,0,,1327773741,1452899711
-X-Cubed,,94,2.84848,0,48,"[ my public key: https://keybase.io/xcubed; my proof: https://keybase.io/xcubed/sigs/FfeEQFBtUL2ynBucd9Q-uUZBM9KXzGjvFB-KaLwOss8 ]",1273024618,1450207814
-X-Factor,0,1,0.0,0,0,"A tech and scince enthusiast.",1447506524,1453173925
-X-Istence,,5112,2.47727,17,2073,"Portfolio: http://bertjwregeer.com/\nEngineering Notebook: http://funcptr.net/<p>bertjw@regeer.org",1266468729,1452859262
-X-TraxxX,0,1,0.0,0,0,,1431315217,1453168999
-X-Wes,0,-1,0.0,0,1,,1322940584,1452898709
-X-X,0,4,0.0,1,5,,1349298315,1452906416
-X-combinator,,30,0.0,37,63,"Curious onlooker.<p>&quot;I know, I know and I believe&quot;",1414615893,1450207814
-x-code,0,1,0.0,1,0,,1350586191,1452906850
-x-g,0,1,0.0,0,1,,1272503416,1452889175
-x-header,0,2,0.0,0,1,,1344657130,1452905182
-x-lab,,2,0.0,1,0,,1411024005,1450207814
-x-sam,,156,0.0,16,14,"software engineer, entrepreneur<p>http://twitter.com/lc0d3r\nhttp://brainscode.com",1307610214,1450207814
-x-separator,0,2,0.0,1,2,,1394165730,1452922429
-x-xs,,20,0.0,6,0,.haskell.,1227204486,1450207814
+ID,Karma,About,Created,Updated
+X-CLUSSIVEZ,1,,1327773741,1452899711
+X-Cubed,94,"[ my public key: https://keybase.io/xcubed; my proof: https://keybase.io/xcubed/sigs/FfeEQFBtUL2ynBucd9Q-uUZBM9KXzGjvFB-KaLwOss8 ]",1273024618,1450207814
+X-Factor,1,"A tech and scince enthusiast.",1447506524,1453173925
+X-Istence,5112,"Portfolio: http://bertjwregeer.com/\nEngineering Notebook: http://funcptr.net/<p>bertjw@regeer.org",1266468729,1452859262
+X-TraxxX,1,,1431315217,1453168999
+X-Wes,-1,,1322940584,1452898709
+X-X,4,,1349298315,1452906416
+X-combinator,30,"Curious onlooker.<p>&quot;I know, I know and I believe&quot;",1414615893,1450207814
+x-code,1,,1350586191,1452906850
+x-g,1,,1272503416,1452889175
+x-header,2,,1344657130,1452905182
+x-lab,2,,1411024005,1450207814
+x-sam,156,"software engineer, entrepreneur<p>http://twitter.com/lc0d3r\nhttp://brainscode.com",1307610214,1450207814
+x-separator,2,,1394165730,1452922429
+x-xs,20,.haskell.,1227204486,1450207814

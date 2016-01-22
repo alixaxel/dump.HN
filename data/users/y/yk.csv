@@ -1,29 +1,29 @@
-ID,Delay,Karma,Average,Stories,Comments,About,Created,Updated
-YKotze,0,1,0.0,1,0,,1370855833,1452913533
-Ykg,0,1,0.0,0,1,,1325970577,1452899390
-Yknot,0,1,0.0,0,1,,1290868298,1452891611
-YkybrAVQuy,0,1,0.0,0,0,,1423454213,1453165932
-yk,,3022,3.02273,46,712,"Just that the about is not completely empty, a link to my blog (in German):\nhttp://yoshi-k.de\nemail: yoshi@yomols.de",1334197007,1452747176
-yk3372,0,1,0.0,1,1,,1303534432,1452893476
-yk_42,,25,0.0,0,10,,1239217886,1450207814
-ykamakazi,,2,0.0,0,4,,1298634441,1450207814
-ykamam,0,1,0.0,1,0,,1380813278,1452917015
-ykaranfil,0,8,0.0,1,6,,1312987655,1452896324
-ykguler,0,1,0.0,0,0,,1442904681,1453172653
-ykisana,0,10,0.0,24,0,,1377667890,1452915806
-ykka,0,7,0.0,0,0,http://ykka.co,1325006859,1453166094
-ykl,,677,0.0,5,68,"Computer Graphics Software Engineer at Walt Disney Animation Studios, working on Disney&#x27;s Hyperion Renderer.<p>Previously at Pixar, Dreamworks Animation, the University of Pennsylvania, and Cornell University&#x27;s Program of Computer Graphics.<p>Website: http://www.yiningkarlli.com<p>Twitter: @yiningkarlli",1351209374,1452185440
-yknobel,,20,0.0,8,2,"Founder of HelpAround.co, SpeedDial.in, Health 2.0 Israel. Health-Tech advocate, TechStars advisor.",1355765614,1450207814
-yknotno,0,1,0.0,0,0,,1427830132,1453167657
-yko,,217,0.0,3,4,,1293381184,1450207814
-ykomada,0,11,0.0,0,3,,1287623872,1452892069
-ykorman,,6,0.0,1,2,,1395483393,1450207814
-ykoukouras,,1,0.0,1,0,,1371570619,1450207814
-ykristiawan,0,17,0.0,3,6,,1209258069,1209258069
-ykro,0,1,0.0,0,1,,1280768720,1452889716
-yks,0,4,0.0,0,0,,1449647286,1453174436
-yksong,0,1,0.0,0,1,,1360812752,1452909844
-ykumar6,,125,1.53659,4,96,N/A,1317507240,1450207814
-ykxudw,0,18,0.0,0,1,,1298178739,1452892466
-ykykkyky,0,1,0.0,0,1,,1405337179,1452927197
-ykzrtj,0,2,0.0,0,0,,1423282303,1453165904
+ID,Karma,About,Created,Updated
+YKotze,1,,1370855833,1452913533
+Ykg,1,,1325970577,1452899390
+Yknot,1,,1290868298,1452891611
+YkybrAVQuy,1,,1423454213,1453165932
+yk,3022,"Just that the about is not completely empty, a link to my blog (in German):\nhttp://yoshi-k.de\nemail: yoshi@yomols.de",1334197007,1452747176
+yk3372,1,,1303534432,1452893476
+yk_42,25,,1239217886,1450207814
+ykamakazi,2,,1298634441,1450207814
+ykamam,1,,1380813278,1452917015
+ykaranfil,8,,1312987655,1452896324
+ykguler,1,,1442904681,1453172653
+ykisana,10,,1377667890,1452915806
+ykka,7,http://ykka.co,1325006859,1453166094
+ykl,677,"Computer Graphics Software Engineer at Walt Disney Animation Studios, working on Disney&#x27;s Hyperion Renderer.<p>Previously at Pixar, Dreamworks Animation, the University of Pennsylvania, and Cornell University&#x27;s Program of Computer Graphics.<p>Website: http://www.yiningkarlli.com<p>Twitter: @yiningkarlli",1351209374,1452185440
+yknobel,20,"Founder of HelpAround.co, SpeedDial.in, Health 2.0 Israel. Health-Tech advocate, TechStars advisor.",1355765614,1450207814
+yknotno,1,,1427830132,1453167657
+yko,217,,1293381184,1450207814
+ykomada,11,,1287623872,1452892069
+ykorman,6,,1395483393,1450207814
+ykoukouras,1,,1371570619,1450207814
+ykristiawan,17,,1209258069,1209258069
+ykro,1,,1280768720,1452889716
+yks,4,,1449647286,1453174436
+yksong,1,,1360812752,1452909844
+ykumar6,125,N/A,1317507240,1450207814
+ykxudw,18,,1298178739,1452892466
+ykykkyky,1,,1405337179,1452927197
+ykzrtj,2,,1423282303,1453165904
